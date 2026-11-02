@@ -2,9 +2,9 @@ name: Update News
 
 on:
   schedule:
-    # Every 3 hours (UTC). Minute 17 avoids the top-of-hour queue, which
-    # GitHub often delays or drops under load.
-    - cron: '17 */3 * * *'
+    # Every hour at 17 minutes past. Minute 17 avoids the top-of-hour queue,
+    # which GitHub often delays or drops under load.
+    - cron: '17 * * * *'
   workflow_dispatch:
   # Also redeploy when you push code changes (index.html, feeds, etc.).
   # The bot's own data commits do not re-trigger this, so there is no loop.
@@ -41,9 +41,9 @@ jobs:
       - name: Run news pipeline
         run: node cron-pipeline.js
 
-      - name: Commit data.json if it changed
+      - name: Commit data files if they changed
         run: |
-          git add data.json
+          git add data.json meta.json
           if git diff --cached --quiet; then
             echo "No new articles."
           else
@@ -54,11 +54,11 @@ jobs:
             git push origin HEAD:main
           fi
 
-      # Publish only the two files the site needs, not node_modules or scripts.
+      # Publish only the files the site needs, not node_modules or scripts.
       - name: Prepare site folder
         run: |
           mkdir -p _site
-          cp index.html data.json _site/
+          cp index.html data.json meta.json _site/
 
       - name: Upload site
         uses: actions/upload-pages-artifact@v5
