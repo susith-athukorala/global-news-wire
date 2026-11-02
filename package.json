@@ -1,0 +1,16 @@
+{
+  "name": "global-news-wire",
+  "version": "1.0.0",
+  "description": "Serverless international news site: GitHub Actions fetches RSS, GitHub Pages serves it.",
+  "main": "cron-pipeline.js",
+  "private": true,
+  "scripts": {
+    "start": "node cron-pipeline.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

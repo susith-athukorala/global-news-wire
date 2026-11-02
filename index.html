@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Global News Wire</title>
+  <meta name="description" content="International headlines from public news feeds, refreshed every three hours." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'system-ui', 'sans-serif'],
+            serif: ['"Source Serif 4"', 'Georgia', 'serif']
+          }
+        }
+      }
+    };
+  </script>
+  <style>
+    @keyframes ticker {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+    .ticker-track {
+      display: inline-flex;
+      white-space: nowrap;
+      animation: ticker 60s linear infinite;
+    }
+    .ticker-wrap:hover .ticker-track { animation-play-state: paused; }
+    @media (prefers-reduced-motion: reduce) {
+      .ticker-track { animation: none; }
+      .ticker-wrap { overflow-x: auto; }
+    }
+    .line-clamp-3 {
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+  </style>
+</head>
+<body class="bg-slate-950 text-slate-200 font-sans antialiased min-h-screen">
+
+  <!-- Breaking news ticker -->
+  <div class="bg-red-700/90 text-white text-sm border-b border-red-900">
+    <div class="flex items-stretch">
+      <div class="shrink-0 px-3 sm:px-4 py-2 font-semibold uppercase tracking-wider bg-red-900 flex items-center gap-2">
+        <span class="relative flex h-2 w-2">
+          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-75"></span>
+          <span class="relative inline-flex rounded-full h-2 w-2 bg-white"></span>
+        </span>
+        <span class="hidden sm:inline">Latest</span>
+      </div>
+      <div class="ticker-wrap overflow-hidden flex-1 py-2" aria-live="off">
+        <div id="ticker" class="ticker-track">
+          <span class="px-6 opacity-80">Loading headlines…</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <header class="border-b border-slate-800">
+    <div class="max-w-6xl mx-auto px-4 py-6 sm:py-8 flex flex-col sm:flex-row sm:items-end sm:justify-between gap-3">
+      <div>
+        <h1 class="font-serif text-3xl sm:text-4xl font-bold text-white tracking-tight">Global News Wire</h1>
+        <p class="text-slate-400 mt-1 text-sm">International headlines from major news feeds. Every story links to its original source.</p>
+      </div>
+      <p id="updated" class="text-xs text-slate-500"></p>
+    </div>
+  </header>
+
+  <!-- Filters -->
+  <nav class="sticky top-0 z-10 bg-slate-950/90 backdrop-blur border-b border-slate-800">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex gap-2 overflow-x-auto" id="filters" role="tablist" aria-label="Filter by category"></div>
+  </nav>
+
+  <!-- Feed -->
+  <main class="max-w-6xl mx-auto px-4 py-6">
+    <p id="count" class="text-xs text-slate-500 mb-4"></p>
+    <div id="status" class="text-center text-slate-400 py-16">Loading news…</div>
+    <div id="grid" class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3"></div>
+  </main>
+
+  <footer class="border-t border-slate-800 mt-8">
+    <div class="max-w-6xl mx-auto px-4 py-6 text-xs text-slate-500 leading-relaxed">
+      Headlines and short excerpts are taken from public RSS feeds. Categories are assigned by source feed.
+      Copyright in the original reporting belongs to each publisher; read the full story at the source.
+    </div>
+  </footer>
+
+  <script>
+    (function () {
+      'use strict';
+
+      var CATEGORIES = ['All', 'World', 'Technology', 'Economy', 'Science', 'Health'];
+      var CATEGORY_STYLES = {
+        World:      'bg-sky-500/15 text-sky-300 ring-sky-500/30',
+        Technology: 'bg-violet-500/15 text-violet-300 ring-violet-500/30',
+        Economy:    'bg-emerald-500/15 text-emerald-300 ring-emerald-500/30',
+        Science:    'bg-amber-500/15 text-amber-300 ring-amber-500/30',
+        Health:     'bg-rose-500/15 text-rose-300 ring-rose-500/30'
+      };
+
+      var articles = [];
+      var activeCategory = 'All';
+
+      var els = {
+        ticker: document.getElementById('ticker'),
+        filters: document.getElementById('filters'),
+        grid: document.getElementById('grid'),
+        status: document.getElementById('status'),
+        count: document.getElementById('count'),
+        updated: document.getElementById('updated')
+      };
+
+      // Everything from data.json is treated as untrusted text.
+      function escapeHtml(value) {
+        return String(value == null ? '' : value)
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+          .replace(/'/g, '&#39;');
+      }
+
+      function safeUrl(value) {
+        try {
+          var url = new URL(value);
+          return (url.protocol === 'https:' || url.protocol === 'http:') ? url.href : '#';
+        } catch (e) {
+          return '#';
+        }
+      }
+
+      function timeAgo(iso) {
+        var then = new Date(iso).getTime();
+        if (isNaN(then)) return '';
+        var mins = Math.round((Date.now() - then) / 60000);
+        if (mins < 1) return 'just now';
+        if (mins < 60) return mins + ' min ago';
+        var hrs = Math.round(mins / 60);
+        if (hrs < 24) return hrs + (hrs === 1 ? ' hour ago' : ' hours ago');
+        var days = Math.round(hrs / 24);
+        return days + (days === 1 ? ' day ago' : ' days ago');
+      }
+
+      function renderTicker() {
+        var latest = articles.slice(0, 5);
+        if (!latest.length) {
+          els.ticker.innerHTML = '<span class="px-6 opacity-80">No headlines yet.</span>';
+          return;
+        }
+        var items = latest.map(function (a) {
+          return '<a href="' + escapeHtml(safeUrl(a.link)) + '" target="_blank" rel="noopener noreferrer" ' +
+                 'class="px-6 hover:underline">' +
+                 '<span class="font-semibold opacity-90">' + escapeHtml(a.category) + ':</span> ' +
+                 escapeHtml(a.title) + '</a><span aria-hidden="true" class="opacity-50">•</span>';
+        }).join('');
+        // Content is duplicated so the -50% translate loops without a gap.
+        els.ticker.innerHTML = items + items;
+      }
+
+      function renderFilters() {
+        els.filters.innerHTML = CATEGORIES.map(function (cat) {
+          var n = cat === 'All' ? articles.length : articles.filter(function (a) { return a.category === cat; }).length;
+          var active = cat === activeCategory;
+          var cls = active
+            ? 'bg-white text-slate-900 border-white'
+            : 'bg-slate-900 text-slate-300 border-slate-700 hover:border-slate-500 hover:text-white';
+          return '<button type="button" role="tab" aria-selected="' + active + '" data-cat="' + cat + '" ' +
+                 'class="shrink-0 px-4 py-1.5 rounded-full border text-sm font-medium transition-colors ' + cls + '">' +
+                 cat + ' <span class="opacity-60 text-xs">' + n + '</span></button>';
+        }).join('');
+      }
+
+      function renderGrid() {
+        var list = activeCategory === 'All'
+          ? articles
+          : articles.filter(function (a) { return a.category === activeCategory; });
+
+        els.count.textContent = list.length
+          ? 'Showing ' + list.length + (list.length === 1 ? ' story' : ' stories')
+          : '';
+
+        if (!list.length) {
+          els.grid.innerHTML = '';
+          els.status.textContent = articles.length
+            ? 'No ' + activeCategory + ' stories at the moment.'
+            : 'No stories yet. The first update runs within three hours of setup.';
+          els.status.classList.remove('hidden');
+          return;
+        }
+
+        els.status.classList.add('hidden');
+        els.grid.innerHTML = list.map(function (a) {
+          var style = CATEGORY_STYLES[a.category] || 'bg-slate-500/15 text-slate-300 ring-slate-500/30';
+          return '' +
+            '<article class="group flex flex-col bg-slate-900 border border-slate-800 rounded-xl p-5 hover:border-slate-600 transition-colors">' +
+              '<div class="flex items-center justify-between gap-2 mb-3">' +
+                '<span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ring-1 ring-inset ' + style + '">' +
+                  escapeHtml(a.category) +
+                '</span>' +
+                '<time class="text-xs text-slate-500" datetime="' + escapeHtml(a.publishedAt) + '">' + escapeHtml(timeAgo(a.publishedAt)) + '</time>' +
+              '</div>' +
+              '<h2 class="font-serif text-lg font-semibold text-white leading-snug mb-2">' + escapeHtml(a.title) + '</h2>' +
+              (a.summary ? '<p class="text-sm text-slate-400 leading-relaxed">' + escapeHtml(a.summary) + '</p>' : '') +
+              '<div class="flex-1"></div>' +
+              '<div class="mt-4 pt-3 border-t border-slate-800 flex items-center justify-between text-xs">' +
+                '<span class="text-slate-500">' + escapeHtml(a.source || 'Source') + '</span>' +
+                '<a href="' + escapeHtml(safeUrl(a.link)) + '" target="_blank" rel="noopener noreferrer" ' +
+                   'class="font-medium text-sky-400 hover:text-sky-300">Read original &rarr;</a>' +
+              '</div>' +
+            '</article>';
+        }).join('');
+      }
+
+      els.filters.addEventListener('click', function (e) {
+        var btn = e.target.closest('button[data-cat]');
+        if (!btn) return;
+        activeCategory = btn.getAttribute('data-cat');
+        renderFilters();
+        renderGrid();
+      });
+
+      async function load() {
+        try {
+          // Cache-buster so visitors see a fresh file after each bot commit.
+          var res = await fetch('data.json?t=' + Date.now(), { cache: 'no-store' });
+          if (res.status === 404) {
+            articles = [];
+          } else if (!res.ok) {
+            throw new Error('HTTP ' + res.status);
+          } else {
+            var data = await res.json();
+            articles = (Array.isArray(data) ? data : [])
+              .filter(function (a) { return a && a.title && a.link; })
+              .sort(function (a, b) { return new Date(b.publishedAt) - new Date(a.publishedAt); });
+          }
+
+          if (articles.length) {
+            var latest = articles.reduce(function (max, a) {
+              var t = new Date(a.processedAt || a.publishedAt).getTime();
+              return t > max ? t : max;
+            }, 0);
+            els.updated.textContent = 'Last updated ' + timeAgo(new Date(latest).toISOString());
+          }
+
+          renderTicker();
+          renderFilters();
+          renderGrid();
+        } catch (err) {
+          console.error(err);
+          els.status.textContent = 'Could not load the news feed. Please refresh in a moment.';
+          els.ticker.innerHTML = '<span class="px-6 opacity-80">Feed unavailable.</span>';
+        }
+      }
+
+      load();
+    })();
+  </script>
+</body>
+</html>
