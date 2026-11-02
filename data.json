@@ -1,5 +1,176 @@
 [
   {
+    "id": "28d55b3e34c55016",
+    "title": "Do the Shetland Isles need Cold War-style military protection?",
+    "summary": "Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cjg47dq6q775o",
+    "publishedAt": "2026-11-02T22:45:57.000Z"
+  },
+  {
+    "id": "1a23cb7e41f6cae3",
+    "title": "‘A despicable betrayal’: Democrats incensed by Haley Stevens’s endorsement of Mike Rogers",
+    "summary": "Stevens’s decision sparked fierce backlash from members of the party, while Donald Trump praised the sudden switch Democrat Haley Stevens’s shocking last-minute endorsement of Mike Rogers, the Michigan Republican Senate candidate, in the run-up to the elections has sparked fierce backlash from members of her party.…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
+    "publishedAt": "2026-11-02T22:34:48.000Z"
+  },
+  {
+    "id": "286c8dc3dc9a6b4c",
+    "title": "PM to ask countries affected by UK’s role in slavery to help shape formal apology",
+    "summary": "Andy Burnham to launch ‘structured dialogue’ on issue at Commonwealth summit in Antigua and Baruda Andy Burnham will ask countries affected by Britain’s role in slavery to help shape an expected formal apology, Downing Street has indicated, arguing that their input is indispensable in crafting a enduring message.…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/02/andy-burnham-ask-countries-affected-uk-role-slavery-shape-formal-apology",
+    "publishedAt": "2026-11-02T22:30:30.000Z"
+  },
+  {
+    "id": "b3faeed6769395d2",
+    "title": "How former Yahoo CEO Marissa Mayer sees AI assistants fitting into busy women's lives",
+    "summary": "NPR's Juana Summers talks with former Yahoo CEO Marissa Mayer about AI assistants and lightening the load of emotional labor.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/02/nx-s1-6022451/how-former-yahoo-ceo-marissa-mayer-sees-ai-assistants-fitting-into-busy-womens-lives",
+    "publishedAt": "2026-11-02T22:27:07.000Z"
+  },
+  {
+    "id": "350c98117f860bac",
+    "title": "A brief ceasefire in Ukraine's Kherson region has ended",
+    "summary": "A short ceasefire in a corner of southern Ukraine gives respite to the residents of a besieged frontline city where Russian drones usually hunt and kill civilians.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/02/nx-s1-6022259/a-brief-ceasefire-in-ukraines-kherson-region-has-ended",
+    "publishedAt": "2026-11-02T22:27:06.000Z"
+  },
+  {
+    "id": "f900a71a99e05b12",
+    "title": "Reddit and libertarian group challenge Australia’s under-16s social media ban in high court",
+    "summary": "Social network and Digital Freedom Project, led by NSW state MP John Ruddick, seek to overturn ban on grounds of implied freedom of political communication Australia’s world-leading under-16s social media ban will face its first major legal challenge on Tuesday, as Reddit and an advocacy group headed by a…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/03/australia-social-media-ban-high-court-challenge-reddit-digital-freedom-project",
+    "publishedAt": "2026-11-02T22:09:35.000Z"
+  },
+  {
+    "id": "4d729eed87377a97",
+    "title": "Washington state resident dies from ‘severe illness’ after contracting bird flu",
+    "summary": "Individual, who also had underlying conditions, was hospitalized after being exposed to avian influenza A Washington state resident has died after being hospitalized with “severe illness” after contracting bird flu, local health officials said on Sunday. The individual was exposed to avian influenza, also known as…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/02/bird-flu-death-washington",
+    "publishedAt": "2026-11-02T21:59:02.000Z"
+  },
+  {
+    "id": "1880b3dbdc2e98de",
+    "title": "Lindsay Clancy back in court seeking to dismiss murder charges after mistrial",
+    "summary": "Lawyers for Massachusetts mother who killed children argue new trial would violate double jeopardy rules Lindsay Clancy returned to court on Monday in an attempt to dismiss the charges that she murdered her three young children. The hearing Monday was the second time the Massachusetts mother has been in court since…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/02/lindsay-clancy-massachusetts-court-hearing",
+    "publishedAt": "2026-11-02T21:40:39.000Z"
+  },
+  {
+    "id": "6203a2463a1cca76",
+    "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+    "summary": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o",
+    "publishedAt": "2026-11-02T20:54:44.000Z"
+  },
+  {
+    "id": "3c9c9b85fcd4e98c",
+    "title": "Mamdani’s progressive allies vie for seats in Congress",
+    "summary": "Three New York City progressive Democrats are expected to win their midterm congressional races in Tuesday's election.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/2/mamdanis-progressive-allies-vie-for-seats-in-congress?traffic_source=rss",
+    "publishedAt": "2026-11-02T20:48:56.000Z"
+  },
+  {
+    "id": "53aad65db3624b7a",
+    "title": "Migration is a moral issue for Burnham – but is he trying to please everyone?",
+    "summary": "PM wants to tie Shabana Mahmood’s hard line on borders to recognition of the value of migration, but he may need to shout his conviction How will UK immigration rules change under Shabana Mahmood’s latest plans? While out on the campaign trail in Makerfield, Andy Burnham gave a glimpse into where he might land on…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/02/migration-andy-burnham-shabana-mahmood-labour-immigration",
+    "publishedAt": "2026-11-02T20:39:52.000Z"
+  },
+  {
+    "id": "f3eef7183ed0cca6",
+    "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+    "summary": "South Africa to lose duty-free access, affecting $1.7bn worth of annual exports, including cars and farm products.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
+    "publishedAt": "2026-11-02T20:38:04.000Z"
+  },
+  {
+    "id": "869ad61caff372f6",
+    "title": "Man guilty of stealing cash from farm owned by South African president",
+    "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo",
+    "publishedAt": "2026-11-02T20:08:51.000Z"
+  },
+  {
+    "id": "596dec9e29af9c2d",
+    "title": "British Gas resumes force-fitting prepay meters months after £112m settlement",
+    "summary": "Regulators lift block on supplier, enabling it to install meters in homes of people unable to afford energy bills British Gas has resumed force-fitting prepay meters in the homes of people unable to afford their energy bills months after paying the largest settlement on record for sending debt collectors into the…",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/02/british-gas-resume-force-fitting-prepayment-meters-months-after-112m-settlement",
+    "publishedAt": "2026-11-02T20:05:17.000Z"
+  },
+  {
+    "id": "48982e3ccbf4c8b3",
+    "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+    "summary": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+    "publishedAt": "2026-11-02T20:02:41.000Z"
+  },
+  {
+    "id": "aee040e6858b439e",
+    "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+    "summary": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body It could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red blood cells, and traces of the…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+    "publishedAt": "2026-11-02T20:00:27.000Z"
+  },
+  {
+    "id": "32abe753d64a448b",
+    "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+    "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o",
+    "publishedAt": "2026-11-02T19:58:34.000Z"
+  },
+  {
+    "id": "9b248aa7ed19b443",
+    "title": "Russell Brand is not a ‘psychopath who rapes people and thinks it’s normal’, court told",
+    "summary": "Defence barrister says earlier allegations about comedian’s sexual conduct ‘poisoned the wells’ of justice as trial continues Russell Brand is not a “psychopath who rapes people and thinks it’s normal” and is respectful when women say no, a court has heard. In his closing speech at Southwark crown court, Brand’s…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/02/russell-brand-defence-barrister-court-trial",
+    "publishedAt": "2026-11-02T19:57:56.000Z"
+  },
+  {
+    "id": "a89ddf8c5707258e",
+    "title": "HRW calls on Zambia to halt post-election crackdown",
+    "summary": "Opposition figures arrested and disappeared since President Hakainde Hichilema claimed August victory.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
+    "publishedAt": "2026-11-02T19:40:10.000Z"
+  },
+  {
     "id": "6b6625bc17f7af53",
     "title": "Young co-pilot, 20, named as one of nine victims of deadly Florida plane crash",
     "summary": "Nathalia Filgueiras was onboard private plane bound for Bahamas that crashed in Palm Beach county Family members on Monday identified a young Florida pilot as one of nine victims of a plane crash in Palm Beach county that occurred during a heavy thunderstorm. Nathalia Filgueiras, 20, was co-pilot of the private…",
@@ -18,6 +189,15 @@
     "publishedAt": "2026-11-02T19:33:46.000Z"
   },
   {
+    "id": "14c9d917bef24259",
+    "title": "Trump to remove Rwanda and South Africa from US trade deal",
+    "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo",
+    "publishedAt": "2026-11-02T19:33:10.000Z"
+  },
+  {
     "id": "88e3535f969c4216",
     "title": "How Israel is at the heart of Haley Stevens’s extraordinary reversal",
     "summary": "The issue runs through almost every twist and turn and has come to define the congresswoman’s political persona For Haley Stevens, the road from Democratic Senate candidate to campaigning alongside a Republican she once called a rubber stamp for Donald Trump has been remarkably short – and the issue running through…",
@@ -25,6 +205,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/02/haley-stevens-israel-aipac",
     "publishedAt": "2026-11-02T19:15:23.000Z"
+  },
+  {
+    "id": "28218a29216599f7",
+    "title": "Legal challenge to Australia's social media ban to start in High Court",
+    "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo",
+    "publishedAt": "2026-11-02T19:12:59.000Z"
   },
   {
     "id": "656a985b73e02343",
@@ -108,6 +297,15 @@
     "publishedAt": "2026-11-02T18:32:30.000Z"
   },
   {
+    "id": "1a3d111e1a207a78",
+    "title": "Russian strikes on Ukrainian shelter and aid centre kill 26",
+    "summary": "Ukrainian President Volodymyr Zelenskyy accused Russia of deliberately targeting civilians as they tried to access humanitarian aid being distributed at a local school.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-03/russia-strikes-ukrainian-aid-outpost/107339274",
+    "publishedAt": "2026-11-02T18:32:17.000Z"
+  },
+  {
     "id": "a50c075798b97541",
     "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
     "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
@@ -151,6 +349,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/2/judge-dismisses-charges-against-fbi-agents-involved-in-hunter-biden-case?traffic_source=rss",
     "publishedAt": "2026-11-02T18:10:26.000Z"
+  },
+  {
+    "id": "aaa1d99750466d09",
+    "title": "Indonesia's haze is straining ties with neighbouring countries",
+    "summary": "Widespread fires in Indonesia are prompting calls for legal action or boycotts in neighbouring countries blanketed by the smoke, ahead of an ASEAN foreign ministers' meeting.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-03/indonesia-haze-crisis-reignites-regional-frustration/107329748",
+    "publishedAt": "2026-11-02T18:00:00.000Z"
   },
   {
     "id": "a8afdd0e4dacbf2b",
@@ -423,6 +630,24 @@
     "publishedAt": "2026-11-02T14:11:01.000Z"
   },
   {
+    "id": "9cac8335096eb1af",
+    "title": "Guardian Essential poll: record number of Australians are turning their backs on the Melbourne Cup",
+    "summary": "Growing disdain for gambling and animal cruelty concerns drive sliding interest in race that once ‘stopped the nation’ Get our breaking news email, free app or daily news podcast A record number of Australians are turning their backs on the Melbourne Cup, with more than two-thirds surveyed saying they have low or…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/sport/2026/nov/03/melbourne-cup-2026-poll-record-numbers-turn-their-backs",
+    "publishedAt": "2026-11-02T14:00:46.000Z"
+  },
+  {
+    "id": "cc8589c041731897",
+    "title": "NSW council refuses to show world-renowned Gaza artwork over ‘unacceptable’ safety risk",
+    "summary": "Exclusive: Shoalhaven council says Wall of Tears installation by Phil Buehler posed risk to staff, visitors and tenants Get our breaking news email, free app or daily news podcast A New South Wales local council has refused to show a world-renowned artwork about children killed in Gaza after asking organisers to…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/03/shoalhaven-council-refuses-to-show-wall-of-tears-gaza-artwork-safety-risk-ntwnfb",
+    "publishedAt": "2026-11-02T14:00:44.000Z"
+  },
+  {
     "id": "b1475e8e762c79fa",
     "title": "Chinese cigarettes and Bolivian beer: the Amazonian town transformed by a rampant mining boom",
     "summary": "Mayaya, once-remote, has become a hub for Chinese companies. But critics accuse them of exploitation and illegal exports The pork belly hits the oil with a sizzle, and a rich aroma of soy sauce and caramelising sugar fills the kitchen.",
@@ -576,6 +801,15 @@
     "publishedAt": "2026-11-02T12:05:34.000Z"
   },
   {
+    "id": "8f2174160af80342",
+    "title": "Where things stand on Iran after tense weekend as its delegation leaves Qatar",
+    "summary": "The Middle East is bracing for a potential return to all-out war as concerns grow over possible U.S. and Israeli strikes on Iran",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/things-stand-iran-after-tense-weekend-137762946",
+    "publishedAt": "2026-11-02T11:46:13.000Z"
+  },
+  {
     "id": "1a53db9dbeac4fbe",
     "title": "Five arrested after South African farmer shot and tortured",
     "summary": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
@@ -621,6 +855,15 @@
     "publishedAt": "2026-11-02T10:00:00.000Z"
   },
   {
+    "id": "98d4917bfcfd126f",
+    "title": "More than 400 jobs to be affected under Mater Pathology changes",
+    "summary": "More than 100 positions will be lost in the next two months as Mater hospitals transition to a new pathology service model.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-02/queensland-mater-pathology-jobs/107338668",
+    "publishedAt": "2026-11-02T09:48:48.000Z"
+  },
+  {
     "id": "2c775af06445e252",
     "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
     "summary": "The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.",
@@ -628,6 +871,33 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
     "publishedAt": "2026-11-02T09:42:11.000Z"
+  },
+  {
+    "id": "a3696e4813a94f74",
+    "title": "A brief ceasefire opens a perilous escape window from Kherson’s riverside kill zone",
+    "summary": "Nataliia Diadiuk uses a white towel to signal Russian drones that she is a civilian in Ukraine’s Kherson region",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/brief-ceasefire-opens-perilous-escape-window-khersons-riverside-137762057",
+    "publishedAt": "2026-11-02T09:38:14.000Z"
+  },
+  {
+    "id": "44598299b9028c8e",
+    "title": "South Africans to vote in key local elections seen as a tough test for ruling ANC",
+    "summary": "South Africans head to the polls for local government elections that will determine control of major cities and test the electoral strength of the African National Congress (ANC)",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/south-africans-vote-key-local-elections-tough-test-137760153",
+    "publishedAt": "2026-11-02T09:28:36.000Z"
+  },
+  {
+    "id": "83050d2e1192f8df",
+    "title": "Dozens of Commonwealth leaders descend on Antigua during global political turbulence",
+    "summary": "Leaders representing nearly a third of the world’s population are meeting on the tiny Caribbean island of Antigua this week to strengthen ties during a time of global political upheaval",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/dozens-commonwealth-leaders-descend-antigua-global-political-turbulence-137761324",
+    "publishedAt": "2026-11-02T09:27:15.000Z"
   },
   {
     "id": "64ae5e1f8f53b26a",
@@ -783,6 +1053,15 @@
     "publishedAt": "2026-11-02T05:32:25.000Z"
   },
   {
+    "id": "7a3b7779b3c1a2de",
+    "title": "UK making up China policy ‘as it goes along’, MPs warn",
+    "summary": "Commons committee says lack of coherent strategy is hampering business and leaving national security risks unaddressed The UK is making up policy on China “as it goes along” and risks having its strategy dictated by Washington or Beijing, a parliamentary report has concluded. An investigation by the Commons…",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/02/uk-making-up-china-policy-as-it-goes-along-mps",
+    "publishedAt": "2026-11-02T05:00:33.000Z"
+  },
+  {
     "id": "de6a379a70803e8e",
     "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
     "summary": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
@@ -790,6 +1069,24 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o",
     "publishedAt": "2026-11-02T03:58:38.000Z"
+  },
+  {
+    "id": "30950b01c223d704",
+    "title": "Photos show elaborate preparations for Thailand’s Royal Barges Procession",
+    "summary": "More than 2,000 oarsmen have spent months preparing for a centuries-old Thai royal tradition that will fill Bangkok’s Chao Phraya River with a fleet of intricately decorated barges on Friday. The Royal Barge Procession is held in time for the annual Buddhist Kathin ceremony, which takes place after the end of…",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/photos-show-elaborate-preparations-thailands-royal-barges-procession-137760578",
+    "publishedAt": "2026-11-02T02:02:18.000Z"
+  },
+  {
+    "id": "9404353136ba735c",
+    "title": "UN’s peacekeeping mission in Western Sahara ends after 35 years following US-Russia standoff",
+    "summary": "The U.N.'s peacekeeping mission in Western Sahara has ended after 35 years due to a U.S.-Russia standoff",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/uns-peacekeeping-mission-western-sahara-ends-after-35-137752621",
+    "publishedAt": "2026-11-02T00:26:16.000Z"
   },
   {
     "id": "7f4eb073c4744a20",
@@ -828,6 +1125,15 @@
     "publishedAt": "2026-11-01T23:45:15.000Z"
   },
   {
+    "id": "a568923cc622bced",
+    "title": "Civilians in Ukraine's Kherson prepare for the return of war as localized ceasefire ends",
+    "summary": "Civilians in Ukraine's Kherson region are preparing for the end of a localized ceasefire",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/civilians-ukraines-kherson-prepare-return-war-localized-ceasefire-137747046",
+    "publishedAt": "2026-11-01T23:38:13.000Z"
+  },
+  {
     "id": "9bbc0ed4b174b98a",
     "title": "Don't get caught out by new Buy Now Pay Later rules",
     "summary": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
@@ -835,6 +1141,15 @@
     "source": "BBC Business",
     "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go",
     "publishedAt": "2026-11-01T23:34:49.000Z"
+  },
+  {
+    "id": "fab922e7ae8ae372",
+    "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
+    "summary": "Bowen Wan was on anti-seizure medication, and chatbot provided her with a tapering schedule to reduce dosage A woman’s death from an epileptic seizure after she received dangerous advice from a chatbot has prompted her parents to sue OpenAI earlier this week. The legal action is the latest lawsuit that in which…",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+    "publishedAt": "2026-11-01T22:37:36.000Z"
   },
   {
     "id": "a5b3e5ea6f9c70ac",
@@ -871,6 +1186,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
     "publishedAt": "2026-11-01T22:19:13.000Z"
+  },
+  {
+    "id": "9ce5630ea29d6015",
+    "title": "Exit polls suggest Bulgarians elected first female president",
+    "summary": "Surveys by several polling organizations give Yotova about 52% of the vote.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/bulgarians-vote-presidential-runoff-marked-regional-security-threats-137744157",
+    "publishedAt": "2026-11-01T20:10:32.000Z"
   },
   {
     "id": "28584c57b4f67caa",
@@ -927,6 +1251,15 @@
     "publishedAt": "2026-11-01T18:04:52.000Z"
   },
   {
+    "id": "27679e7b1318086e",
+    "title": "Super funds issued with legal warning following regulator's damning report",
+    "summary": "Australia's corporate regulator is threatening legal action against super funds that do not step up to resolve complaints.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-02/superannuation-funds-failing-members-retirement-savings-asic/107319026",
+    "publishedAt": "2026-11-01T18:00:00.000Z"
+  },
+  {
     "id": "1d6e68ff2f8db2fb",
     "title": "The brutal redistribution at the heart of the RBA's interest rate policy",
     "summary": "RBA officials argue the hit to borrowers' income isn't the main way rate rises lower inflation. But they often omit a key fact.",
@@ -952,6 +1285,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro",
     "publishedAt": "2026-11-01T17:56:47.000Z"
+  },
+  {
+    "id": "dd60a5a8fd494621",
+    "title": "How Rachel Reeves has mapped out the economic agenda for Andy Burnham’s government",
+    "summary": "On Brexit, devolution and investment, the former chancellor is eerily in tune with the man who sacked her Reeves says UK’s future is in the EU Which senior politician has argued that “Brexit did deep damage” and that the government seeks “not to turn back the clock but to look toward a new and stable, future…",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
+    "publishedAt": "2026-11-01T17:47:42.000Z"
   },
   {
     "id": "54eb2d4f6ba67efd",
@@ -999,156 +1341,12 @@
     "publishedAt": "2026-11-01T14:49:36.000Z"
   },
   {
-    "id": "2afa4aea418f59d6",
-    "title": "AI is stealing Indigenous Australian art and churning out ‘Temu slop’, artist says",
-    "summary": "Chair of National Gallery’s First Nations advisory group says the technology is undermining artists’ agency and the authenticity of their work Get our breaking news email, free app or daily news podcast AI is taking First Nations art and turning it into “Temu slop”, the Pitjantjatjara artist Sally Scales has said.…",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb",
-    "publishedAt": "2026-11-01T14:00:13.000Z"
-  },
-  {
-    "id": "d6313a2cd5b7444f",
-    "title": "They signed up for a lifetime at sea on an endless cruise. High gas prices intervened",
-    "summary": "A cruise ship suspended operations suddenly, citing soaring fuel costs. Passengers, including Randy Cassingham, had to disembark in Cambodia.",
+    "id": "62a6fe77ed4f30c0",
+    "title": "Somali pirates seize Iranian fishing vessel, raising fears of attacks on cargo ships",
+    "summary": "Pirates could use the boat as a “mother ship” for attacks on commercial vessels.",
     "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/01/nx-s1-6022214/they-signed-up-for-a-lifetime-at-sea-on-an-endless-cruise-high-gas-prices-intervened",
-    "publishedAt": "2026-11-01T13:15:28.000Z"
-  },
-  {
-    "id": "ebf152df9eedad20",
-    "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-    "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-    "category": "Economy",
-    "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
-    "publishedAt": "2026-11-01T13:11:37.000Z"
-  },
-  {
-    "id": "cc92178f4f666f44",
-    "title": "Has Trump kept his promises to the MAHA movement?",
-    "summary": "It's been just over two years since the rise of Make America Healthy Again, or MAHA. How well is the Trump administration meeting its promises?",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/01/nx-s1-6022240/has-trump-kept-his-promises-to-the-maha-movement",
-    "publishedAt": "2026-11-01T13:07:54.000Z"
-  },
-  {
-    "id": "449396f0ec7e8cd9",
-    "title": "Australia nears 'largest property downturn in 40 years' as prices plunge",
-    "summary": "House prices have fallen for a seventh consecutive month, with the speed of the decline tracking at the fastest pace in 40 years, according to a property research group.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-02/house-prices-fall-in-october-biggest-downturn-40-years-cotality/107325214",
-    "publishedAt": "2026-11-01T13:01:00.000Z"
-  },
-  {
-    "id": "8758bf8c2d0c92e0",
-    "title": "Aquarium shark that helped 'dispel myths' dies",
-    "summary": "Staff at Plymouth's aquarium pay tribute to a sand tiger shark believed to be almost 30 years old.",
-    "category": "Science",
-    "source": "BBC Science",
-    "link": "https://www.bbc.co.uk/news/articles/c64g18lkz0kno",
-    "publishedAt": "2026-11-01T12:13:50.000Z"
-  },
-  {
-    "id": "66c3bb50b83d27c9",
-    "title": "Why you should treat charisma as a red flag",
-    "summary": "Today’s crop of smooth talkers tap directly into a specific evolutionary vulnerability. Here’s how to defend yourself Recently, I was alone in a bar waiting for a friend.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/01/why-you-should-treat-charisma-as-a-red-flag",
-    "publishedAt": "2026-11-01T12:00:12.000Z"
-  },
-  {
-    "id": "24e5368ca417803f",
-    "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
-    "summary": "The ACA health insurance marketplaces — find yours at HealthCare.gov — open Nov. 1 for 2027 coverage. Getting an early start may be especially important this year.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
-    "publishedAt": "2026-11-01T12:00:00.000Z"
-  },
-  {
-    "id": "b1f994c77c83451e",
-    "title": "Shops looted as German cost-of-living protests turn violent",
-    "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
-    "publishedAt": "2026-11-01T11:57:48.000Z"
-  },
-  {
-    "id": "48cf3b89786d8e0f",
-    "title": "How one family gave a critical boost to gene therapy research",
-    "summary": "A family affected by Sanfilippo syndrome raised millions of dollars for research. The Food and Drug Administration just approved a gene therapy the support helped make possible.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi",
-    "publishedAt": "2026-11-01T09:00:00.000Z"
-  },
-  {
-    "id": "b5d3897ad6a50318",
-    "title": "New charity uses outdoors to improve mental health",
-    "summary": "A new charity hopes to use outdoor activities to improve men's mental health on the Isle of Man.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck98zqpzn1e5o",
-    "publishedAt": "2026-11-01T07:39:54.000Z"
-  },
-  {
-    "id": "fa6b2254a587a52f",
-    "title": "Oil tank vandalism results in waterfowl park 'nightmare'",
-    "summary": "The popular attraction in County Down has been forced to close while efforts continue to remove oil from the pond.",
-    "category": "Science",
-    "source": "BBC Science",
-    "link": "https://www.bbc.co.uk/news/articles/c64g14ene2epo",
-    "publishedAt": "2026-11-01T06:42:13.000Z"
-  },
-  {
-    "id": "d91a176d32c6153e",
-    "title": "'Rok' solid recognition for Slovenian space scientist",
-    "summary": "Two men from the Armagh Planetarium and Observatory have had asteroids named in their honour in recognition of their work.",
-    "category": "Science",
-    "source": "BBC Science",
-    "link": "https://www.bbc.co.uk/news/articles/cqx283v54zd6o",
-    "publishedAt": "2026-11-01T06:35:37.000Z"
-  },
-  {
-    "id": "bb27708950618af6",
-    "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-    "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
-    "category": "Technology",
-    "source": "BBC Technology",
-    "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o",
-    "publishedAt": "2026-11-01T01:37:26.000Z"
-  },
-  {
-    "id": "222a215da624e634",
-    "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-    "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
-    "category": "Economy",
-    "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo",
-    "publishedAt": "2026-11-01T00:17:05.000Z"
-  },
-  {
-    "id": "268293ca55f02a2b",
-    "title": "Secretary Rubio has a tough time getting officials at G20 on the same page",
-    "summary": "U.S. Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page",
-    "publishedAt": "2026-10-31T21:14:34.000Z"
-  },
-  {
-    "id": "383b99a3fa118a22",
-    "title": "A new political era in the Southern Philippines",
-    "summary": "A new local government has taken its seat in the southern Philippines, in a step that marks a milestone in the peace process for a conflict that has lasted some 80 years.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/10/31/nx-s1-6020639/a-new-political-era-in-the-southern-philippines",
-    "publishedAt": "2026-10-31T21:14:32.000Z"
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/somali-pirates-seize-iranian-fishing-vessel-raising-fears-137745870",
+    "publishedAt": "2026-11-01T14:01:35.000Z"
   }
 ]
