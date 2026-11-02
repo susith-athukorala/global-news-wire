@@ -24,27 +24,79 @@ const Parser = require('rss-parser');
 
 const DATA_FILE = path.join(__dirname, 'data.json');
 
-const MAX_ARTICLES = 100;         // size of the public archive
+const MAX_ARTICLES = 150;         // size of the public archive
 const MAX_ITEM_AGE_HOURS = 48;    // ignore stale items still sitting in feeds
-const MAX_PER_FEED = 15;          // stops one busy feed from filling the archive
+const MAX_PER_FEED = 10;          // stops one busy feed from filling the archive
 const FEED_TIMEOUT_MS = 15000;
 
 const CATEGORIES = ['World', 'Technology', 'Economy', 'Science', 'Health'];
 
-// Each feed carries its own category. This is simpler and more predictable
-// than guessing from keywords. Reuters closed its public RSS feeds in 2020, so
-// that entry uses a Google News search restricted to reuters.com; its links
-// open a news.google.com redirect page.
+// Direct feeds from established news organisations only. No aggregators:
+// every article link must belong to the publisher's own domain (`domains`),
+// or it is dropped. Each feed carries its own category.
+//
+// Not included, on purpose:
+//   Reuters - no public RSS since 2020; only reachable via Google News.
+//   CNN     - rss.cnn.com stopped updating in 2023-24; same problem.
 const FEEDS = [
-  { name: 'BBC World',      category: 'World',      url: 'https://feeds.bbci.co.uk/news/world/rss.xml' },
-  { name: 'Reuters',        category: 'World',      url: 'https://news.google.com/rss/search?q=site%3Areuters.com+when%3A1d&hl=en-US&gl=US&ceid=US:en' },
-  { name: 'Al Jazeera',     category: 'World',      url: 'https://www.aljazeera.com/xml/rss/all.xml' },
-  { name: 'TechCrunch',     category: 'Technology', url: 'https://techcrunch.com/feed/' },
-  { name: 'BBC Technology', category: 'Technology', url: 'https://feeds.bbci.co.uk/news/technology/rss.xml' },
-  { name: 'BBC Business',   category: 'Economy',    url: 'https://feeds.bbci.co.uk/news/business/rss.xml' },
-  { name: 'BBC Science',    category: 'Science',    url: 'https://feeds.bbci.co.uk/news/science_and_environment/rss.xml' },
-  { name: 'BBC Health',     category: 'Health',     url: 'https://feeds.bbci.co.uk/news/health/rss.xml' }
+  // World
+  { name: 'BBC News',      category: 'World',      domains: ['bbc.co.uk', 'bbc.com'],  url: 'https://feeds.bbci.co.uk/news/world/rss.xml' },
+  { name: 'The Guardian',  category: 'World',      domains: ['theguardian.com'],       url: 'https://www.theguardian.com/world/rss' },
+  { name: 'Al Jazeera',    category: 'World',      domains: ['aljazeera.com'],         url: 'https://www.aljazeera.com/xml/rss/all.xml' },
+  { name: 'NPR',           category: 'World',      domains: ['npr.org'],               url: 'https://feeds.npr.org/1004/rss.xml' },
+  { name: 'ABC Australia', category: 'World',      domains: ['abc.net.au'],            url: 'https://www.abc.net.au/news/feed/104217382/rss.xml' },
+  { name: 'ABC News (US)', category: 'World',      domains: ['abcnews.go.com', 'abcnews.com'], url: 'https://abcnews.go.com/abcnews/internationalheadlines' },
+
+  // Technology
+  { name: 'BBC News',      category: 'Technology', domains: ['bbc.co.uk', 'bbc.com'],  url: 'https://feeds.bbci.co.uk/news/technology/rss.xml' },
+  { name: 'The Guardian',  category: 'Technology', domains: ['theguardian.com'],       url: 'https://www.theguardian.com/uk/technology/rss' },
+  { name: 'NPR',           category: 'Technology', domains: ['npr.org'],               url: 'https://feeds.npr.org/1019/rss.xml' },
+
+  // Economy
+  { name: 'BBC News',      category: 'Economy',    domains: ['bbc.co.uk', 'bbc.com'],  url: 'https://feeds.bbci.co.uk/news/business/rss.xml' },
+  { name: 'The Guardian',  category: 'Economy',    domains: ['theguardian.com'],       url: 'https://www.theguardian.com/uk/business/rss' },
+  { name: 'ABC Australia', category: 'Economy',    domains: ['abc.net.au'],            url: 'https://www.abc.net.au/news/feed/104217374/rss.xml' },
+
+  // Science
+  { name: 'BBC News',      category: 'Science',    domains: ['bbc.co.uk', 'bbc.com'],  url: 'https://feeds.bbci.co.uk/news/science_and_environment/rss.xml' },
+  { name: 'The Guardian',  category: 'Science',    domains: ['theguardian.com'],       url: 'https://www.theguardian.com/science/rss' },
+  { name: 'NPR',           category: 'Science',    domains: ['npr.org'],               url: 'https://feeds.npr.org/1007/rss.xml' },
+
+  // Health
+  { name: 'BBC News',      category: 'Health',     domains: ['bbc.co.uk', 'bbc.com'],  url: 'https://feeds.bbci.co.uk/news/health/rss.xml' },
+  { name: 'NPR',           category: 'Health',     domains: ['npr.org'],               url: 'https://feeds.npr.org/1128/rss.xml' }
 ];
+
+// Reported news only: skip opinion, live blogs, video/audio, galleries,
+// quizzes, newsletters and sponsored content.
+const EXCLUDE_URL = [
+  /\/opinions?\//i, /\/commentisfree\//i, /\/comment\//i, /\/editorials?\//i,
+  /\/live\//i, /\/liveblog/i, /\/video[s]?\//i, /\/av\//i, /\/sounds\//i,
+  /\/audio\//i, /\/podcasts?\//i, /\/programmes\//i, /\/gallery\//i,
+  /\/in-pictures\//i, /\/picture\//i, /\/newsletters?\//i, /\/crosswords\//i,
+  /\/quiz/i, /\/sponsored\//i, /\/advertis/i, /\/partner-content\//i
+];
+const EXCLUDE_TITLE = [
+  /^(opinion|comment|editorial|letters?|analysis|live|watch|video|podcast|quiz|sponsored|in pictures|photos?)\s*[:|–—-]/i,
+  /\b(live updates?|as it happened|– live|- live)\b/i,
+  /\bquiz\b/i
+];
+
+function isAllowedDomain(link, domains) {
+  try {
+    const host = new URL(link).hostname.toLowerCase();
+    return domains.some((d) => host === d || host.endsWith('.' + d));
+  } catch (_) {
+    return false;
+  }
+}
+
+function isReportedNews(rawTitle, link) {
+  return !EXCLUDE_URL.some((re) => re.test(link)) && !EXCLUDE_TITLE.some((re) => re.test(rawTitle));
+}
+
+// Lets the purge step drop archived items from sources no longer in FEEDS.
+const ALLOWED_DOMAINS = [...new Set(FEEDS.flatMap((f) => f.domains))];
 
 // Query parameters that only exist for tracking and should not affect identity.
 const TRACKING_PARAMS = [
@@ -111,7 +163,7 @@ function stripHtml(text) {
 function cleanTitle(raw, sourceName) {
   let title = stripHtml(raw);
   // Google News appends " - Publisher" to every headline.
-  title = title.replace(/\s+[-–—|]\s+(Reuters|BBC News|Al Jazeera|TechCrunch)$/i, '');
+  title = title.replace(/\s+[-–—|]\s+(Reuters|BBC News|Al Jazeera|TechCrunch|CNN|CNN International|ABC News)$/i, '');
   for (const re of CLICKBAIT_PREFIXES) {
     const next = title.replace(re, '');
     if (next.split(' ').length >= 3) title = next;
@@ -210,29 +262,43 @@ async function fetchAllFeeds() {
   const settled = await Promise.allSettled(
     FEEDS.map(async (feed) => {
       const parsed = await parser.parseURL(feed.url);
-      return (parsed.items || []).slice(0, MAX_PER_FEED * 2).map((item) => {
+      const raw = parsed.items || [];
+      const kept = [];
+      let skippedType = 0;
+      let skippedDomain = 0;
+      for (const item of raw) {
+        const link = cleanUrl(item.link || item.guid);
+        const rawTitle = stripHtml(item.title);
+        if (!link || !rawTitle) continue;
+        if (!isAllowedDomain(link, feed.domains)) { skippedDomain++; continue; }
+        if (!isReportedNews(rawTitle, link)) { skippedType++; continue; }
         const title = cleanTitle(item.title, feed.name);
-        return {
+        kept.push({
           title,
           summary: cleanSummary(item.contentSnippet || item.summary || item.content || item.description, title),
           category: CATEGORIES.includes(feed.category) ? feed.category : 'World',
           source: feed.name,
-          link: cleanUrl(item.link || item.guid),
-          publishedAt: toIsoDate(item)
-        };
-      });
+          link,
+          publishedAt: toIsoDate(item),
+          _feed: `${feed.name}/${feed.category}`
+        });
+      }
+      return { kept, total: raw.length, skippedType, skippedDomain };
     })
   );
 
   const items = [];
   let okCount = 0;
   settled.forEach((result, i) => {
+    const label = `${FEEDS[i].name} (${FEEDS[i].category})`;
     if (result.status === 'fulfilled') {
       okCount++;
-      log(`Fetched ${result.value.length} items from ${FEEDS[i].name}`);
-      items.push(...result.value);
+      const r = result.value;
+      log(`Fetched ${r.total} items from ${label}: kept ${r.kept.length}, ` +
+          `skipped ${r.skippedType} opinion/live/video, ${r.skippedDomain} off-domain`);
+      items.push(...r.kept);
     } else {
-      log(`Feed failed: ${FEEDS[i].name} -> ${result.reason && result.reason.message}`);
+      log(`Feed failed: ${label} -> ${result.reason && result.reason.message}`);
     }
   });
 
@@ -244,7 +310,15 @@ async function fetchAllFeeds() {
 // ---------------------------------------------------------------------------
 
 async function main() {
-  const existing = await readJsonArray(DATA_FILE);
+  const loaded = await readJsonArray(DATA_FILE);
+  // Drop archived items that no longer meet the source and content rules,
+  // e.g. old Google News / CNN entries or opinion pieces from earlier runs.
+  const existing = loaded.filter(
+    (a) => a && a.link && a.title && isAllowedDomain(a.link, ALLOWED_DOMAINS) && isReportedNews(a.title, a.link)
+  );
+  if (existing.length < loaded.length) {
+    log(`Purged ${loaded.length - existing.length} archived items that fail the source rules.`);
+  }
   const knownLinks = new Set(existing.map((a) => a && a.link).filter(Boolean));
   // The same story often appears in two feeds under slightly different URLs.
   const titleKey = (t) => t.toLowerCase().replace(/[^a-z0-9]+/g, '').slice(0, 60);
@@ -267,13 +341,14 @@ async function main() {
       const key = titleKey(it.title);
       if (knownLinks.has(it.link) || knownTitles.has(key)) return;
       if (new Date(it.publishedAt).getTime() < ageCutoff) return;
-      perFeed[it.source] = (perFeed[it.source] || 0) + 1;
-      if (perFeed[it.source] > MAX_PER_FEED) return;
+      perFeed[it._feed] = (perFeed[it._feed] || 0) + 1;
+      if (perFeed[it._feed] > MAX_PER_FEED) return;
       knownLinks.add(it.link);
       knownTitles.add(key);
+      const { _feed, ...article } = it;
       fresh.push({
         id: crypto.createHash('sha1').update(it.link).digest('hex').slice(0, 16),
-        ...it
+        ...article
       });
     });
 
