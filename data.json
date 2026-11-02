@@ -1,1 +1,731 @@
-[]
+[
+  {
+    "id": "8402594bed2479dc",
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+    "category": "Technology",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "publishedAt": "2026-11-02T19:19:17.000Z"
+  },
+  {
+    "id": "2d2f3c476c3c5731",
+    "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+    "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
+    "category": "Technology",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+    "publishedAt": "2026-11-02T19:11:49.000Z"
+  },
+  {
+    "id": "656a985b73e02343",
+    "title": "Lindsay Clancy in court to drop child murder charges after mistrial",
+    "summary": "Defence argues juror misconduct and judge's questioning impacted Clancy's trial for strangling of her three children.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
+    "publishedAt": "2026-11-02T19:11:37.000Z"
+  },
+  {
+    "id": "efe8a892d454078c",
+    "title": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
+    "summary": "California says any move to block ballots from suspected noncitizens could disenfranchise eligible voters.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss",
+    "publishedAt": "2026-11-02T19:06:52.000Z"
+  },
+  {
+    "id": "0989b5b9a847f81e",
+    "title": "Snap settles with two teens during trial testing claims social media caused depression, eating disorders",
+    "summary": "",
+    "category": "World",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWlaZ3pFczZyTTFuOFB2ZWlTbXZnZ0RTck5XTnh0b3AtcURJYkJDX202VWN2aWdyaWc1bHdBbWlHbU1RSFQ2QWZEYWRiS0dyOVRQOXZpN3A4ckFoUS1Bamp3bk0zNWpkVVl0ckc3VXZpZGNQR0Q1Z3B6UHlPcFZHTVY4LWlYemVCM3ZKSjExUHBUdzFZbHRGMkt4al9OYUs3b0pjM21RQVlkWkZ0YmZXa3RzcUhES2dXVExOVg?oc=5",
+    "publishedAt": "2026-11-02T19:06:00.000Z"
+  },
+  {
+    "id": "ca91d416223bc5de",
+    "title": "Senegal hosts Africa’s first Olympics",
+    "summary": "The head of the International Olympic Committee discusses the significance of Africa hosting the Youth Olympic Games.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/2/senegal-hosts-africas-first-olympics?traffic_source=rss",
+    "publishedAt": "2026-11-02T18:56:17.000Z"
+  },
+  {
+    "id": "ebdde0b3842fc5b8",
+    "title": "Iran pushing accelerated plan for ceasefire talks with US",
+    "summary": "Tehran says plan has been condensed and can be implemented within two days as it continues talks with mediators.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
+    "publishedAt": "2026-11-02T18:49:26.000Z"
+  },
+  {
+    "id": "be4ff52240ffa6e7",
+    "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+    "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+    "category": "World",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
+    "publishedAt": "2026-11-02T18:48:00.000Z"
+  },
+  {
+    "id": "4ce58a958d6b9009",
+    "title": "German unions launch wave of strikes over cost-of-living pressures",
+    "summary": "The expanded industrial action comes amid a wave of strikes and protests that have sparked unrest across Europe.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/2/german-unions-launch-wave-of-strikes-over-cost-of-living-pressures?traffic_source=rss",
+    "publishedAt": "2026-11-02T18:47:24.000Z"
+  },
+  {
+    "id": "58aaf710c94d01a2",
+    "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+    "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
+    "category": "World",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do",
+    "publishedAt": "2026-11-02T18:34:24.000Z"
+  },
+  {
+    "id": "8145e041d4650653",
+    "title": "After Israel’s election: What’s next?",
+    "summary": "Knesset member Ofer Cassif argues that the ‘politics of exclusion’ keep Israel in political deadlock.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss",
+    "publishedAt": "2026-11-02T18:32:59.000Z"
+  },
+  {
+    "id": "ad5e21594e9f31df",
+    "title": "US petrol prices dip ahead of midterms as voters eye costs",
+    "summary": "Diesel prices ease to $6.29 per gallon, offering slight relief amid a global fuel demand squeeze.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/2/us-petrol-prices-dip-ahead-of-midterms-as-voters-eye-costs?traffic_source=rss",
+    "publishedAt": "2026-11-02T18:32:30.000Z"
+  },
+  {
+    "id": "a50c075798b97541",
+    "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+    "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+    "category": "World",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go",
+    "publishedAt": "2026-11-02T18:25:01.000Z"
+  },
+  {
+    "id": "195b281056dbfeed",
+    "title": "Russian bombing of Ukrainian aid centre kills 24 people",
+    "summary": "Ukraine's president calls attack further proof that Russia does not want any ‌kind of de-escalation or real justice.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
+    "publishedAt": "2026-11-02T18:23:02.000Z"
+  },
+  {
+    "id": "c68c26db9efa4bec",
+    "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+    "summary": "",
+    "category": "World",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXBRdlBrbE5GVUt6UUhpRWFyUUNFTlBtSTAtdXgyaDA1OFl6ajZTQWg1SGlTakZXRXFNc0x4V1QtMHdmc1Vpb0ZWUGxlai1xR2xJTDd5YnVfZXBuY3ZyU1JDQk5tWU5PMEUwZlV2NGpGamg3SEZ0clF1NzA2R25McW52dzk0aGxLUkVnXzFwNlRpYlY3SlR2ckJnNHZPOUx6ZHNzNg?oc=5",
+    "publishedAt": "2026-11-02T18:16:55.000Z"
+  },
+  {
+    "id": "eb277a48500844ed",
+    "title": "Marvell doubles down on AI boom with costly $115 billion Lumentum deal",
+    "summary": "",
+    "category": "World",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelFpUlRuWUdrd3oyYkZTNkxFMW9mQlBTY01YTl9ERVRsYTc1VGNWQjR1VF90aEcwY01sTDNXN3NiWVBZNTY4aGVFSlR3WlBlb0laSkptRS1EMF9fMGlna1BXSVExN2dFVGlTNWMyQzYyM1RsYm5pMGxXOWxhbmp1UGRYVjk3RVA0b25WWVZPcFZMS05IOE1CTUgzY1BsQWY3MW5DbDF1bGs1M185UlM4cjlB?oc=5",
+    "publishedAt": "2026-11-02T18:15:52.000Z"
+  },
+  {
+    "id": "28cb97f5dd9bb041",
+    "title": "Judge dismisses charges against FBI agents involved in Hunter Biden case",
+    "summary": "A federal judge tossed charges accusing two former FBI officials of lying to Congress about Hunter Biden investigation.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/2/judge-dismisses-charges-against-fbi-agents-involved-in-hunter-biden-case?traffic_source=rss",
+    "publishedAt": "2026-11-02T18:10:26.000Z"
+  },
+  {
+    "id": "654d300021e80f6e",
+    "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+    "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
+    "category": "Technology",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+    "publishedAt": "2026-11-02T17:54:11.000Z"
+  },
+  {
+    "id": "30af3d3436340adb",
+    "title": "US manufacturing strengthens in October, input prices stay high",
+    "summary": "",
+    "category": "World",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTW9UelFScXJVVVZ4RWVvek1GNndJeFA2Mk5ETVY0b1FwTFMtS0lnNkJFWkRkanQ3Sk5VVVlkaHRaZjVqM1gwcjVKamJSZTR5R2NTeFNIc0ZsZ0ZYSEQ4bXdxdXNzTVFhR0dVc1IyLWpadUpIOVcwT0tmWXB3XzJNaE92alNLUEo3cFNyZl95ampSWkl1N18xM082cTRNbTRoNno4?oc=5",
+    "publishedAt": "2026-11-02T17:51:54.000Z"
+  },
+  {
+    "id": "fbc6034567ac317d",
+    "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+    "summary": "Readwise Books combines an ebook store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
+    "category": "Technology",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+    "publishedAt": "2026-11-02T17:49:41.000Z"
+  },
+  {
+    "id": "91a7eb35417b96db",
+    "title": "Trump Justice Dept breaks with tradition to intervene in midterms",
+    "summary": "",
+    "category": "World",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbWJ4OEdSNHdJYTROYzVOdzhEelFyMGI3WFJ6SGprem95MjFQYTZrbUZrWWJ5Y3NpSmlfUEZ3bEMzVE5URU5LWU16MC1nWHExQ0RPbGZXX3dQV2g5dUhpZDMtS3JUWlNaSjMwd2JncWRELVRHSTZXOW15QmZPUjdtQXgxQjhwZFA5Y3BzWko2WDdRMkMyb3k3V3VhU0l1YWdUeXFGaFNEYUNsakExdFZBQ0hn?oc=5",
+    "publishedAt": "2026-11-02T17:45:47.000Z"
+  },
+  {
+    "id": "b1f02d60b458d41b",
+    "title": "Republicans, Democrats make midterm closing arguments as Michigan rift roils Senate race",
+    "summary": "",
+    "category": "World",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOXpJT29GbDlrNG9DZGRweDI2MF9RUUNBQnAzaHRDZEU4WE14NXUzYUE5SHJWVkszN3pqUl9NNGE2OUZWR1h6b3VCWHhQNGl5a0kyWTY3UjlweE9ubTgtZVBuV0c1VTZPTHdsNkwyRWtCZ1lXcjdsWUNGOHMwU0otMk5LTGN5WFBPWXc5UDdrMlA5MGxheUhrbk1TcjV5a24yY0NUQjJEdGRncDFRaG1NYXVYZlhJR051NHNWd2ZfTUo?oc=5",
+    "publishedAt": "2026-11-02T17:42:48.000Z"
+  },
+  {
+    "id": "f2e62739384bd5a7",
+    "title": "British adventurer Karl Bushby returns home after 28-year walk around world",
+    "summary": "The 57-year-old crossed jungles and frozen seas before an emotional homecoming in Hull, northern England.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world?traffic_source=rss",
+    "publishedAt": "2026-11-02T17:42:05.000Z"
+  },
+  {
+    "id": "40a17acbb71e9fdb",
+    "title": "Judge dismisses case against ex-FBI officials, says DOJ rushed charges before midterms",
+    "summary": "",
+    "category": "World",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTlN0OWhaY1IxaFFhRG03RnAtQ1V1dm5GTWZERTlySFRnTEVhdlYwOVcyc1dwcEVSTUpyTUF5aWJiV1FsdzhGNmo3ajE0ckY3X2xaUXF0VERFNW1TTUdHZGpHWWZXREQzYk94S1VzcG9QWGxnZXRxc3pNRng5NU85ajg5NFNHb2V4Tk9tazlvRDdVS20xLTJ6X2l0MGZnd3hkd1JsOVRUck9jU1RFNTdIT3NMWjRnTW5UMUM0Sg?oc=5",
+    "publishedAt": "2026-11-02T17:40:15.000Z"
+  },
+  {
+    "id": "449dcd1abf8fe573",
+    "title": "Shop freezers in seven European countries hit by cyber-attack",
+    "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+    "category": "World",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
+    "publishedAt": "2026-11-02T17:38:11.000Z"
+  },
+  {
+    "id": "d73351d3a2e67691",
+    "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+    "summary": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+    "category": "World",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro",
+    "publishedAt": "2026-11-02T17:34:58.000Z"
+  },
+  {
+    "id": "9e007f25ccef1cb5",
+    "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+    "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+    "category": "World",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo",
+    "publishedAt": "2026-11-02T17:33:19.000Z"
+  },
+  {
+    "id": "0866a279e7f16efd",
+    "title": "Dutch police offer record €2m reward in hunt for drug lord",
+    "summary": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
+    "category": "World",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo",
+    "publishedAt": "2026-11-02T17:29:49.000Z"
+  },
+  {
+    "id": "90ec02082fca03de",
+    "title": "Veteran US proxy solicitors launch new firm Senpoint Partners",
+    "summary": "EXCLUSIVE: Veteran US proxy solicitors launch new firm Senpoint Partners Reuters",
+    "category": "World",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObm13a0dBaTJvSnJwUFRsSUFBNTBzU3NiRWFBVWNjYUJhMmlONGZvRlNmblI2b0tHOFpIcWcxRHJXWllsZG42Sk9TOVVmVFdvV1ZqWFpwbUpFbElxc2pyS3poTFZMQVNTSk9ObzJTV2NUMllLekc2VU9TNVNMRlBRbzJNZnR6dEdGRm1LblBJcVpuWmJMWkY2TGRpYmh3T0tCeUp2RHpn?oc=5",
+    "publishedAt": "2026-11-02T17:27:33.000Z"
+  },
+  {
+    "id": "5f88e4df83892cc5",
+    "title": "Drone attacks extend campaign targeting Sudan’s power system",
+    "summary": "Attacks the latest to disrupt electricity supplies; army reports new defections from paramilitary RSF.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss",
+    "publishedAt": "2026-11-02T17:26:32.000Z"
+  },
+  {
+    "id": "d3486a401d848f02",
+    "title": "Sectors bracing for a pivot as US midterm elections loom",
+    "summary": "",
+    "category": "World",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVM3bDhEOHNLQ3VJRDRGcEtyeXBhNUdsblBVUGQ3bDBWLXUxQXZMXzF6SmxxdWczMUpJcFRSR21RU2hRaHFTLUxGQ0xkcmFkWFVoQm1WaVVQeGROMXFCaTJTQ0xCRHhkMU9pc3k1MUVQTkFvMER3SEszZG5kNGswQkdRQVo2Z1ZONGxZb1FSWDNhWmlzTHA2R2VVQVdvNnpHSlE?oc=5",
+    "publishedAt": "2026-11-02T17:17:11.000Z"
+  },
+  {
+    "id": "c7b70809c55ddff8",
+    "title": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt",
+    "summary": "",
+    "category": "World",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSm5nTThDOUxTZDlERFZrWjg0WllEVktOcXZOWGdDQWtvX3VIQXhaWGc5amxQMHdacndmRng1R3pnSko1ZnV5OExhbVVRVGh5c2RtYUw0dmNfODU1NklnbXp1dkx3ZHlpSTAtY01WOGY5SkpFTnRGaXo4OEZ0cVUweTl2bk1hTFFqbC1hM1I1MUVraXdhWVRoTWJkZjJGVDlmSmZEaEs4em0tVkhSUjdRMjlMaU5EQ2M?oc=5",
+    "publishedAt": "2026-11-02T17:16:03.000Z"
+  },
+  {
+    "id": "1ad112188acc1220",
+    "title": "New York Times sues maker of Brave web browser over copyrights",
+    "summary": "",
+    "category": "World",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUlhZHQ0WWQxSG5Pb3RDTmRISEdjd0U3UjZHNXZXVHMwaFY3UjVsX2NSWTJuRVgza2YyZUtBWXczTnVnZEZJZHpUc1JIUGREaTU4dG0wV1NqLWprWE9PT1NHM1EtR1pBaktRM3Y5VHp2am4zTTQ0VHN3Z2V0WTd6OVE4bnluNURtOVB2VW9JMHcwUllPV0dKZm9MUkFoaWRRMlNSdzRaeWYtUTlPV1ZSRUNR?oc=5",
+    "publishedAt": "2026-11-02T17:11:30.000Z"
+  },
+  {
+    "id": "518be9474eb6193e",
+    "title": "Wall St rises as oil falls heading into US midterm elections",
+    "summary": "",
+    "category": "World",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnVDQzd0LTF3Vi1BMnJDLWpGaHNIMlJVTDNnVmplMzZnVjRxRTZUUTRsQkVvZ21EN3lXMzA4ZDJnOTQwc01ld2tqT1pGZVN6VmpuVWpzLVVMUU1qcDdnRFdEQUZoM0l6Ym9NYnhfWDctWkZnSC1fLUk0RGxtUmd3WU9zLXdhcTdGTkJvcUxaazZKZEliVjl3bVBfZldDajJMOXZtVkx0NVI4YWlwMkVFbXpMR0ZGQW9wOWxEcTM3QThSdk1fb2c?oc=5",
+    "publishedAt": "2026-11-02T17:09:43.000Z"
+  },
+  {
+    "id": "0543bfd8b9897165",
+    "title": "Oracle taps investors for $20 billion to finance AI expansion",
+    "summary": "",
+    "category": "World",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OVGUyeXVqQlVYMEx3TEhEVHY5ekZLX3paamdqNUF1ek80VE9RZVhuSFl2d3dsVkF6T2JyVFdJdF8xR1FuWU5EdU9OWG03SmRoLUloaEFCc3pGLXFxN0FyOUNnVkM3T3prb1NMYXBOanNGT2RMYjNxcTZsdUEwbGs?oc=5",
+    "publishedAt": "2026-11-02T17:09:05.000Z"
+  },
+  {
+    "id": "0ff4b1229e6ff9c9",
+    "title": "Anthropic's loss shrinks, revenue jumps ahead of blockbuster IPO",
+    "summary": "",
+    "category": "World",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalN1b2NwcllWRkRjRUNmOVBjSDMxWDNzdjZIclhDNTdMMFlaVUx2eWN1U19acllfTk0xX0JIbkJma21jVDFhZUR1czFjbVdLbThjMHVQZ0F4MkFvNmc0cURPN05FMkE3VFNyMTktbmNzWVIxN3c1YVFhSXpBTmZSQk1DZ013aDVRcXE5OEplekFkZWFJbmQxUEhDSVJ3RVVrZWJUd2ZRYWRfWUJhMVMycEZRRk8?oc=5",
+    "publishedAt": "2026-11-02T17:08:33.000Z"
+  },
+  {
+    "id": "72622563fe64f308",
+    "title": "Real Madrid matches still banned in China despite Mbappe apology",
+    "summary": "",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology?traffic_source=rss",
+    "publishedAt": "2026-11-02T17:08:25.000Z"
+  },
+  {
+    "id": "0184637c9cfc0016",
+    "title": "Trump, Vance and candidates campaign on last day before US midterms",
+    "summary": "Republicans and Democrats hold last rallies around the United States as polls point to a tight congressional race.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/2/trump-vance-and-candidates-make-final-push-before-us-midterms?traffic_source=rss",
+    "publishedAt": "2026-11-02T17:07:14.000Z"
+  },
+  {
+    "id": "67445d9192c2c1b9",
+    "title": "Trump administration takes California ballot fight to Supreme Court",
+    "summary": "",
+    "category": "World",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMzh0QS1oNUVFdXRfYlhlazdaNl9JTzFxOHN3Q1hmSHh3WWZjSUxZdGQyMnFyN0U3dzhENEJEVEx2bEdhb2ZUVW43Z1pwYlRpWk0zX2FpTndwSUpzTXlvWHFORThSalFsY0xIbTR4YXg1T2RTb01rUEVJZGFBYUF5Z2pGVkl5bGRsU0tWMzZsV2h2TEd4czdhTFE5QjdhdERYN3RNa0swR01EUQ?oc=5",
+    "publishedAt": "2026-11-02T17:06:47.000Z"
+  },
+  {
+    "id": "cd2bd7260af52e8b",
+    "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
+    "summary": "Israeli forces ended their lockdown of Hebron in the occupied West Bank, but its forces continued to attack a school.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss",
+    "publishedAt": "2026-11-02T16:56:41.000Z"
+  },
+  {
+    "id": "8f81a5b7fe99bd97",
+    "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+    "summary": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
+    "category": "Technology",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+    "publishedAt": "2026-11-02T16:44:48.000Z"
+  },
+  {
+    "id": "6e11dddc7a7cc4c3",
+    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+    "category": "Technology",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "publishedAt": "2026-11-02T16:30:00.000Z"
+  },
+  {
+    "id": "3059ef1574cb12ba",
+    "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+    "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+    "category": "Technology",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+    "publishedAt": "2026-11-02T16:23:21.000Z"
+  },
+  {
+    "id": "a20a6bdb8f5f5c64",
+    "title": "At least seven migrants die on boat bound for Canary Islands amid storm",
+    "summary": "At least seven migrants have died aboard a boat carrying 139 people bound for the Canary Islands after a storm hit.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/at-least-seven-migrants-die-on-boat-bound-for-canary-islands-amid-storm?traffic_source=rss",
+    "publishedAt": "2026-11-02T16:13:21.000Z"
+  },
+  {
+    "id": "9966781edd32f78e",
+    "title": "'New kit' helps battle against bugs",
+    "summary": "The chemical-free decoys are used while clearing riverside vegetation.",
+    "category": "Science",
+    "source": "BBC Science",
+    "link": "https://www.bbc.co.uk/news/videos/cm369dep8jwno",
+    "publishedAt": "2026-11-02T15:05:59.000Z"
+  },
+  {
+    "id": "a43a012fc6e71ef2",
+    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+    "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+    "category": "Technology",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "publishedAt": "2026-11-02T15:00:00.000Z"
+  },
+  {
+    "id": "dc429f8f7e6df013",
+    "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
+    "summary": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
+    "category": "Technology",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
+    "publishedAt": "2026-11-02T14:42:38.000Z"
+  },
+  {
+    "id": "b9e09f48c646edba",
+    "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+    "summary": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
+    "category": "World",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o",
+    "publishedAt": "2026-11-02T14:35:38.000Z"
+  },
+  {
+    "id": "d44ab4b19547d52f",
+    "title": "What we know about the alert app hack in Ukraine and Russia",
+    "summary": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
+    "category": "World",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o",
+    "publishedAt": "2026-11-02T14:24:25.000Z"
+  },
+  {
+    "id": "ea0f04f8ce2f9552",
+    "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
+    "summary": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.",
+    "category": "Technology",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
+    "publishedAt": "2026-11-02T14:22:35.000Z"
+  },
+  {
+    "id": "3891d8b1706f305d",
+    "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
+    "summary": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.",
+    "category": "Technology",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+    "publishedAt": "2026-11-02T14:08:52.000Z"
+  },
+  {
+    "id": "f7151c69ed83cd04",
+    "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+    "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+    "category": "Technology",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+    "publishedAt": "2026-11-02T14:00:00.000Z"
+  },
+  {
+    "id": "869219a7f13345d5",
+    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+    "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+    "category": "Technology",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "publishedAt": "2026-11-02T13:57:53.000Z"
+  },
+  {
+    "id": "f60885e79ce54de1",
+    "title": "Poundland's former owner offers to invest as minister prepares to meet board",
+    "summary": "Wolverhampton's Steve Smith said he wants to put some money back into the firm he started.",
+    "category": "Economy",
+    "source": "BBC Business",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo",
+    "publishedAt": "2026-11-02T13:40:36.000Z"
+  },
+  {
+    "id": "70e5da24af66d9f1",
+    "title": "Ryanair says it may freeze workers' pay and raise airfares",
+    "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+    "category": "World",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o",
+    "publishedAt": "2026-11-02T12:22:10.000Z"
+  },
+  {
+    "id": "155abfa93b1ee3fc",
+    "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+    "summary": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.",
+    "category": "World",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do",
+    "publishedAt": "2026-11-02T12:05:34.000Z"
+  },
+  {
+    "id": "9e1ddd41050ed9db",
+    "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+    "summary": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
+    "category": "Technology",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+    "publishedAt": "2026-11-02T11:00:00.000Z"
+  },
+  {
+    "id": "1a53db9dbeac4fbe",
+    "title": "Five arrested after South African farmer shot and tortured",
+    "summary": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
+    "category": "World",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo",
+    "publishedAt": "2026-11-02T10:48:47.000Z"
+  },
+  {
+    "id": "6381f2ecb49bedf3",
+    "title": "What are Americans voting for in this election?",
+    "summary": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
+    "category": "World",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo",
+    "publishedAt": "2026-11-02T09:22:55.000Z"
+  },
+  {
+    "id": "64ae5e1f8f53b26a",
+    "title": "Parents' concerns to trigger urgent checks in A&E",
+    "summary": "Concerns from staff, parents, carers or the child themselves will trigger an immediate escalation of care.",
+    "category": "Health",
+    "source": "BBC Health",
+    "link": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go",
+    "publishedAt": "2026-11-02T08:52:08.000Z"
+  },
+  {
+    "id": "03799b3e84008938",
+    "title": "Popular Australian children's author jailed over child exploitation offences",
+    "summary": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
+    "category": "World",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o",
+    "publishedAt": "2026-11-02T08:03:39.000Z"
+  },
+  {
+    "id": "ff254917f921cc63",
+    "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+    "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+    "category": "World",
+    "source": "BBC World",
+    "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
+    "publishedAt": "2026-11-02T07:42:33.000Z"
+  },
+  {
+    "id": "5a8f447104e604e1",
+    "title": "Could this robot help cut gynae waiting lists?",
+    "summary": "BBC News NI health correspondent Marie-Louise Connolly watched a new robot perform surgery at Belfast City Hospital.",
+    "category": "Health",
+    "source": "BBC Health",
+    "link": "https://www.bbc.co.uk/news/videos/c6qjn8x29klvo",
+    "publishedAt": "2026-11-02T06:25:26.000Z"
+  },
+  {
+    "id": "b4b2647865049064",
+    "title": "'It took years to get pain-relieving surgery - I hope a robot means others won't have to wait'",
+    "summary": "A woman who waited in pain for years for endometriosis surgery praises high-tech bid to end delays.",
+    "category": "Health",
+    "source": "BBC Health",
+    "link": "https://www.bbc.co.uk/news/articles/c98rz8v5rem0o",
+    "publishedAt": "2026-11-02T06:24:21.000Z"
+  },
+  {
+    "id": "810391ebee94ab1b",
+    "title": "Woman who flew with swans warns of lead danger",
+    "summary": "Sacha Dench, known as the \"human swan\", welcomes new laws banning the sale of lead ammunition.",
+    "category": "Science",
+    "source": "BBC Science",
+    "link": "https://www.bbc.co.uk/news/articles/cqly0r3kp1mlo",
+    "publishedAt": "2026-11-02T06:22:00.000Z"
+  },
+  {
+    "id": "9bc97880daed88be",
+    "title": "Verdict delayed on controversial sea defences",
+    "summary": "The council have deferred a decision on the building of 17 rock groynes after RNLI safety concerns.",
+    "category": "Science",
+    "source": "BBC Science",
+    "link": "https://www.bbc.co.uk/news/articles/cq9vz2jj409vo",
+    "publishedAt": "2026-11-02T06:16:34.000Z"
+  },
+  {
+    "id": "5f3679608dc69b36",
+    "title": "'I could barely stand up straight with menopause after cancer'",
+    "summary": "Complex menopause has severe, sudden symptoms and happens due to medical interventions.",
+    "category": "Health",
+    "source": "BBC Health",
+    "link": "https://www.bbc.co.uk/news/articles/ck3r5z2d8zrwo",
+    "publishedAt": "2026-11-02T06:12:03.000Z"
+  },
+  {
+    "id": "36da0fe80436257f",
+    "title": "Cleft lip filler 'boosts confidence' - but expert warns of exploitation risk",
+    "summary": "Two women from Wales are among the growing number of people having lip filler after cleft lip and palate surgery.",
+    "category": "Health",
+    "source": "BBC Health",
+    "link": "https://www.bbc.co.uk/news/articles/c9vgrkvv006xo",
+    "publishedAt": "2026-11-02T06:11:39.000Z"
+  },
+  {
+    "id": "6ecb156b783c39ec",
+    "title": "Borrowed reading: stories from our extended colleagues",
+    "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+    "category": "Technology",
+    "source": "TechCrunch",
+    "link": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+    "publishedAt": "2026-11-02T04:23:48.000Z"
+  },
+  {
+    "id": "9bbc0ed4b174b98a",
+    "title": "Don't get caught out by new Buy Now Pay Later rules",
+    "summary": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+    "category": "Economy",
+    "source": "BBC Business",
+    "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go",
+    "publishedAt": "2026-11-01T23:34:49.000Z"
+  },
+  {
+    "id": "730e74c59dac36f9",
+    "title": "'I felt ostracised due to cleft lip'",
+    "summary": "Emily Evans says her cleft lip made her feel \"ostracised\" growing up,",
+    "category": "Health",
+    "source": "BBC Health",
+    "link": "https://www.bbc.co.uk/news/videos/ckz652g7093go",
+    "publishedAt": "2026-11-01T22:17:35.000Z"
+  },
+  {
+    "id": "d0930d0ae299361a",
+    "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+    "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys.",
+    "category": "Science",
+    "source": "BBC Science",
+    "link": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo",
+    "publishedAt": "2026-11-01T18:04:52.000Z"
+  },
+  {
+    "id": "522a758e51d04317",
+    "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
+    "summary": "The broadband firm has not finalised numbers but it is likely be a sizeable chunk of staff, the BBC understands.",
+    "category": "Economy",
+    "source": "BBC Business",
+    "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko",
+    "publishedAt": "2026-11-01T16:57:14.000Z"
+  },
+  {
+    "id": "d695893b9e443160",
+    "title": "Cancer patients 'deteriorating' due to staff shortages, radiologists warn",
+    "summary": "North and west Wales have a 42% shortfall in consultant radiologists, compared to 22% in south Wales.",
+    "category": "Health",
+    "source": "BBC Health",
+    "link": "https://www.bbc.co.uk/news/articles/cmly0xle2rddo",
+    "publishedAt": "2026-11-01T14:49:36.000Z"
+  },
+  {
+    "id": "ebf152df9eedad20",
+    "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+    "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+    "category": "Economy",
+    "source": "BBC Business",
+    "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
+    "publishedAt": "2026-11-01T13:11:37.000Z"
+  },
+  {
+    "id": "8758bf8c2d0c92e0",
+    "title": "Aquarium shark that helped 'dispel myths' dies",
+    "summary": "Staff at Plymouth's aquarium pay tribute to a sand tiger shark believed to be almost 30 years old.",
+    "category": "Science",
+    "source": "BBC Science",
+    "link": "https://www.bbc.co.uk/news/articles/c64g18lkz0kno",
+    "publishedAt": "2026-11-01T12:13:50.000Z"
+  },
+  {
+    "id": "c395f7514461221a",
+    "title": "Spill from vandalised home oil tank kills 13 birds",
+    "summary": "A number of birds are also injured after the spill from the oil tank earlier this week.",
+    "category": "Science",
+    "source": "BBC Science",
+    "link": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go",
+    "publishedAt": "2026-11-01T08:57:56.000Z"
+  },
+  {
+    "id": "fa6b2254a587a52f",
+    "title": "Oil tank vandalism results in waterfowl park 'nightmare'",
+    "summary": "The popular attraction in County Down has been forced to close while efforts continue to remove oil from the pond.",
+    "category": "Science",
+    "source": "BBC Science",
+    "link": "https://www.bbc.co.uk/news/articles/c64g14ene2epo",
+    "publishedAt": "2026-11-01T06:42:13.000Z"
+  },
+  {
+    "id": "d91a176d32c6153e",
+    "title": "'Rok' solid recognition for Slovenian space scientist",
+    "summary": "Two men from the Armagh Planetarium and Observatory have had asteroids named in their honour in recognition of their work.",
+    "category": "Science",
+    "source": "BBC Science",
+    "link": "https://www.bbc.co.uk/news/articles/cqx283v54zd6o",
+    "publishedAt": "2026-11-01T06:35:37.000Z"
+  },
+  {
+    "id": "bb27708950618af6",
+    "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+    "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+    "category": "Technology",
+    "source": "BBC Technology",
+    "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o",
+    "publishedAt": "2026-11-01T01:37:26.000Z"
+  },
+  {
+    "id": "222a215da624e634",
+    "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+    "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+    "category": "Economy",
+    "source": "BBC Business",
+    "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo",
+    "publishedAt": "2026-11-01T00:17:05.000Z"
+  }
+]
