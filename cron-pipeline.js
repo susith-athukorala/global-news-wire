@@ -7,8 +7,12 @@
  *   2. Cleans titles and descriptions with plain code (no AI).
  *   3. Drops anything already in data.json, matched by cleaned URL.
  *   4. Merges, sorts newest-first, caps at MAX_ARTICLES and writes data.json.
+ *   5. Fetches exchange rates and oil prices and writes meta.json, together
+ *      with the time of this run.
  *
  * No API keys or secrets are needed.
+ *   Exchange rates: ExchangeRate-API open endpoint (daily, attribution required).
+ *   Oil: U.S. EIA daily spot prices via FRED (previous trading day).
  */
 
 'use strict';
@@ -23,6 +27,17 @@ const Parser = require('rss-parser');
 // ---------------------------------------------------------------------------
 
 const DATA_FILE = path.join(__dirname, 'data.json');
+const META_FILE = path.join(__dirname, 'meta.json');
+
+// Currencies shown on the site, quoted against the US dollar.
+const FX_CODES = ['AUD', 'EUR', 'GBP', 'JPY', 'CNY', 'INR', 'LKR'];
+const FX_URL = 'https://open.er-api.com/v6/latest/USD';
+
+// FRED series of U.S. EIA daily spot prices, USD per barrel.
+const OIL_SERIES = {
+  brent: 'DCOILBRENTEU',
+  wti: 'DCOILWTICO'
+};
 
 const MAX_ARTICLES = 150;         // size of the public archive
 const MAX_ITEM_AGE_HOURS = 48;    // ignore stale items still sitting in feeds
@@ -361,6 +376,116 @@ async function main() {
 
   const changed = await writeJsonIfChanged(DATA_FILE, merged);
   log(`data.json ${changed ? 'updated' : 'unchanged'} (${merged.length} articles).`);
+
+  // Markets and run status. A failed source keeps its last good values.
+  const prevMeta = await readJsonObject(META_FILE);
+  const [fx, oil] = await Promise.all([
+    fetchFx(prevMeta.fx).catch((err) => {
+      log(`Exchange rates failed: ${err.message}. Keeping previous values.`);
+      return prevMeta.fx || null;
+    }),
+    fetchOil(prevMeta.oil).catch((err) => {
+      log(`Oil prices failed: ${err.message}. Keeping previous values.`);
+      return prevMeta.oil || null;
+    })
+  ]);
+
+  const meta = {
+    lastRun: new Date().toISOString(),
+    feedsOk: okCount,
+    feedsTotal: FEEDS.length,
+    articleCount: merged.length,
+    fx,
+    oil
+  };
+  await writeJsonIfChanged(META_FILE, meta);
+  log(`meta.json written (feeds ${okCount}/${FEEDS.length}).`);
+}
+
+// ---------------------------------------------------------------------------
+// Markets
+// ---------------------------------------------------------------------------
+
+async function readJsonObject(file) {
+  try {
+    const parsed = JSON.parse(await fs.readFile(file, 'utf8'));
+    return parsed && typeof parsed === 'object' && !Array.isArray(parsed) ? parsed : {};
+  } catch (_) {
+    return {};
+  }
+}
+
+async function fetchText(url) {
+  const res = await fetch(url, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; GlobalNewsWireBot/1.0)' },
+    signal: AbortSignal.timeout(FEED_TIMEOUT_MS)
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status} from ${new URL(url).hostname}`);
+  return res.text();
+}
+
+/**
+ * Daily rates per 1 USD. The provider updates once a day, so the previous
+ * day's snapshot is kept to work out the daily change.
+ */
+async function fetchFx(prevFx) {
+  const body = JSON.parse(await fetchText(FX_URL));
+  if (body.result !== 'success' || !body.rates) {
+    throw new Error(body['error-type'] || 'unexpected response');
+  }
+
+  const rates = {};
+  for (const code of FX_CODES) {
+    const value = Number(body.rates[code]);
+    if (Number.isFinite(value) && value > 0) rates[code] = value;
+  }
+  const updated = new Date(body.time_last_update_unix * 1000).toISOString();
+
+  let previous = prevFx && prevFx.previous ? prevFx.previous : null;
+  if (prevFx && prevFx.updated && prevFx.updated !== updated && prevFx.rates) {
+    previous = { updated: prevFx.updated, rates: prevFx.rates };
+  }
+
+  log(`Exchange rates as of ${updated}.`);
+  return { base: 'USD', updated, rates, previous };
+}
+
+/** Last two observations of a FRED series, skipping blank days ("."). */
+async function fetchFredSeries(id) {
+  const start = new Date(Date.now() - 45 * 86400000).toISOString().slice(0, 10);
+  const csv = await fetchText(`https://fred.stlouisfed.org/graph/fredgraph.csv?id=${id}&cosd=${start}`);
+  const rows = csv
+    .trim()
+    .split(/\r?\n/)
+    .slice(1)
+    .map((line) => line.split(','))
+    .filter((cols) => /^\d{4}-\d{2}-\d{2}$/.test(cols[0]) && Number.isFinite(parseFloat(cols[1])));
+  if (rows.length < 1) throw new Error(`no data for ${id}`);
+  const last = rows[rows.length - 1];
+  const prev = rows.length > 1 ? rows[rows.length - 2] : null;
+  return {
+    price: parseFloat(last[1]),
+    date: last[0],
+    previous: prev ? parseFloat(prev[1]) : null,
+    previousDate: prev ? prev[0] : null
+  };
+}
+
+async function fetchOil(prevOil) {
+  const out = { source: 'U.S. EIA via FRED', unit: 'USD per barrel' };
+  let okCount = 0;
+  for (const [key, id] of Object.entries(OIL_SERIES)) {
+    try {
+      out[key] = await fetchFredSeries(id);
+      okCount++;
+    } catch (err) {
+      log(`Oil series ${id} failed: ${err.message}.`);
+      out[key] = prevOil && prevOil[key] ? prevOil[key] : null;
+    }
+  }
+  if (okCount === 0 && !(prevOil && (prevOil.brent || prevOil.wti))) throw new Error('both oil series failed');
+  log(`Oil: Brent ${out.brent ? out.brent.price : 'n/a'}, WTI ${out.wti ? out.wti.price : 'n/a'}.`);
+  return out;
 }
 
 main().catch((err) => {
