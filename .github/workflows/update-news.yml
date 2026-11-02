@@ -1,0 +1,79 @@
+name: Update News
+
+on:
+  schedule:
+    # Every 3 hours (UTC). Minute 17 avoids the top-of-hour queue, which
+    # GitHub often delays or drops under load.
+    - cron: '17 */3 * * *'
+  workflow_dispatch:
+  # Also redeploy when you push code changes (index.html, feeds, etc.).
+  # The bot's own data commits do not re-trigger this, so there is no loop.
+  push:
+    branches: [main]
+
+permissions:
+  contents: write   # commit data.json back to the repo
+  pages: write      # publish to GitHub Pages
+  id-token: write   # required by actions/deploy-pages
+
+# Never let two runs edit data.json or deploy at the same time.
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Run news pipeline
+        run: node cron-pipeline.js
+
+      - name: Commit data.json if it changed
+        run: |
+          git add data.json
+          if git diff --cached --quiet; then
+            echo "No new articles."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "chore: update news feed $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+      # Publish only the two files the site needs, not node_modules or scripts.
+      - name: Prepare site folder
+        run: |
+          mkdir -p _site
+          cp index.html data.json _site/
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
