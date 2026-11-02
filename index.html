@@ -1,269 +1,578 @@
 <!DOCTYPE html>
-<html lang="en" class="dark">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Global News Wire</title>
-  <meta name="description" content="International headlines from public news feeds, refreshed every three hours." />
+  <meta name="description" content="Reported international news from BBC, The Guardian, Al Jazeera, NPR and ABC, with exchange rates and oil prices. Updated hourly." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet" />
-  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
   <script>
-    tailwind.config = {
-      darkMode: 'class',
-      theme: {
-        extend: {
-          fontFamily: {
-            sans: ['Inter', 'system-ui', 'sans-serif'],
-            serif: ['"Source Serif 4"', 'Georgia', 'serif']
-          }
-        }
-      }
-    };
+    // Apply a saved theme before first paint to avoid a flash.
+    (function () {
+      try {
+        var t = localStorage.getItem('gnw-theme');
+        if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t);
+      } catch (e) {}
+    })();
   </script>
   <style>
-    @keyframes ticker {
-      0%   { transform: translateX(0); }
-      100% { transform: translateX(-50%); }
+    /* ---------- Tokens ---------- */
+    :root {
+      --bg: #f6f7f9;
+      --surface: #ffffff;
+      --rule: #dde2e9;
+      --text: #152033;
+      --muted: #5a6779;
+      --accent: #a8620a;
+      --up: #1d7a52;
+      --down: #b23a3a;
+      --c-world: #2f63c9;
+      --c-technology: #6c4fc4;
+      --c-economy: #17806f;
+      --c-science: #a7700c;
+      --c-health: #b8475a;
+      --serif: 'Newsreader', Georgia, 'Times New Roman', serif;
+      --sans: 'Public Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+      --max: 1180px;
+      color-scheme: light;
     }
-    .ticker-track {
-      display: inline-flex;
-      white-space: nowrap;
-      animation: ticker 60s linear infinite;
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) {
+        --bg: #0f1828;
+        --surface: #152238;
+        --rule: #26364f;
+        --text: #e7ecf3;
+        --muted: #95a3b8;
+        --accent: #e9a640;
+        --up: #4fb789;
+        --down: #e77373;
+        --c-world: #6f9bf2;
+        --c-technology: #a68cf0;
+        --c-economy: #47bfae;
+        --c-science: #e0ad48;
+        --c-health: #ec8798;
+        color-scheme: dark;
+      }
     }
-    .ticker-wrap:hover .ticker-track { animation-play-state: paused; }
+    :root[data-theme="dark"] {
+      --bg: #0f1828;
+      --surface: #152238;
+      --rule: #26364f;
+      --text: #e7ecf3;
+      --muted: #95a3b8;
+      --accent: #e9a640;
+      --up: #4fb789;
+      --down: #e77373;
+      --c-world: #6f9bf2;
+      --c-technology: #a68cf0;
+      --c-economy: #47bfae;
+      --c-science: #e0ad48;
+      --c-health: #ec8798;
+      color-scheme: dark;
+    }
+
+    /* ---------- Base ---------- */
+    *, *::before, *::after { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--sans);
+      font-size: 16px;
+      line-height: 1.55;
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: inherit; text-decoration: none; }
+    a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+    :focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 2px; }
+    .wrap { max-width: var(--max); margin: 0 auto; padding: 0 16px; }
+    .num { font-variant-numeric: tabular-nums; }
+
+    /* ---------- Masthead ---------- */
+    .masthead { border-bottom: 1px solid var(--rule); }
+    .masthead .wrap {
+      display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between;
+      gap: 12px 24px; padding-top: 28px; padding-bottom: 18px;
+    }
+    .brand h1 {
+      margin: 0; font-family: var(--serif); font-weight: 600;
+      font-size: clamp(1.9rem, 4vw, 2.6rem); line-height: 1.05; letter-spacing: -0.01em;
+    }
+    .brand p { margin: 6px 0 0; color: var(--muted); font-size: 0.9rem; }
+    .status { display: flex; align-items: center; gap: 16px; font-size: 0.85rem; color: var(--muted); }
+    .status strong { color: var(--text); font-weight: 600; }
+    .status .dot {
+      display: inline-block; width: 8px; height: 8px; border-radius: 50%;
+      background: var(--up); margin-right: 6px; vertical-align: 1px;
+    }
+    .status .dot.stale { background: var(--down); }
+    .theme-btn {
+      font: inherit; font-size: 0.85rem; color: var(--text); background: transparent;
+      border: 1px solid var(--rule); border-radius: 6px; padding: 5px 10px; cursor: pointer;
+    }
+    .theme-btn:hover { border-color: var(--muted); }
+
+    /* ---------- Markets ---------- */
+    .markets { background: var(--surface); border-bottom: 1px solid var(--rule); }
+    .markets .wrap { display: flex; align-items: stretch; overflow-x: auto; scrollbar-width: thin; }
+    .markets .wrap { column-gap: 32px; }
+    .mk-group { display: flex; align-items: stretch; padding: 10px 0; }
+    .mk {
+      display: flex; flex-direction: column; justify-content: center;
+      padding: 0 12px; min-width: max-content;
+    }
+    .mk-group .mk:first-child { padding-left: 0; }
+    .mk + .mk { border-left: 1px solid var(--rule); }
+    .mk-label { font-size: 0.75rem; color: var(--muted); }
+    .mk-value { font-size: 1rem; font-weight: 600; }
+    .mk-chg { font-size: 0.75rem; font-weight: 500; margin-left: 6px; }
+    .mk-chg.up { color: var(--up); }
+    .mk-chg.down { color: var(--down); }
+    .mk-chg.flat { color: var(--muted); }
+    .mk-empty { font-size: 0.8rem; color: var(--muted); padding: 12px 0; }
+    .mk-caption { font-size: 0.72rem; color: var(--muted); padding: 0 0 8px; }
+    .mk-caption .wrap { display: flex; flex-wrap: wrap; gap: 2px 18px; }
+    @media (min-width: 900px) {
+      .markets .wrap { flex-wrap: wrap; overflow: visible; }
+    }
+
+    /* ---------- Latest ticker ---------- */
+    .ticker { border-bottom: 1px solid var(--rule); font-size: 0.9rem; }
+    .ticker .wrap { display: flex; align-items: center; gap: 14px; }
+    .ticker-label { flex: none; font-weight: 600; color: var(--accent); padding: 9px 0; }
+    .ticker-viewport {
+      overflow: hidden; flex: 1;
+      -webkit-mask-image: linear-gradient(90deg, transparent, #000 24px, #000 calc(100% - 24px), transparent);
+              mask-image: linear-gradient(90deg, transparent, #000 24px, #000 calc(100% - 24px), transparent);
+    }
+    .ticker-track { display: inline-flex; white-space: nowrap; animation: ticker 70s linear infinite; }
+    .ticker-viewport:hover .ticker-track, .ticker-viewport:focus-within .ticker-track { animation-play-state: paused; }
+    .ticker-copy { display: inline-flex; }
+    .ticker-item { padding: 9px 28px 9px 0; }
+    .ticker-item .src { color: var(--muted); margin-right: 8px; }
+    @keyframes ticker { from { transform: translateX(0); } to { transform: translateX(-50%); } }
     @media (prefers-reduced-motion: reduce) {
       .ticker-track { animation: none; }
-      .ticker-wrap { overflow-x: auto; }
+      .ticker-copy { display: none; }
+      .ticker-viewport { overflow-x: auto; -webkit-mask-image: none; mask-image: none; }
     }
-    .line-clamp-3 {
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
+
+    /* ---------- Section tabs ---------- */
+    .sections {
+      position: sticky; top: 0; z-index: 5; background: var(--bg);
+      border-bottom: 1px solid var(--rule);
+    }
+    .sections .wrap { display: flex; gap: 4px; overflow-x: auto; }
+    .tab {
+      font: inherit; font-size: 0.92rem; font-weight: 500; color: var(--muted);
+      background: none; border: 0; border-bottom: 2px solid transparent;
+      padding: 12px 12px 10px; cursor: pointer; white-space: nowrap;
+    }
+    .tab:first-child { padding-left: 0; }
+    .tab:hover { color: var(--text); }
+    .tab[aria-selected="true"] { color: var(--text); border-bottom-color: var(--tab-color, var(--accent)); }
+    .tab .count { font-size: 0.75rem; color: var(--muted); margin-left: 5px; font-variant-numeric: tabular-nums; }
+
+    /* ---------- Category marker ---------- */
+    .cat { display: inline-flex; align-items: center; gap: 6px; font-size: 0.78rem; font-weight: 600; color: var(--cat-color); }
+    .cat::before { content: ""; width: 8px; height: 8px; border-radius: 2px; background: var(--cat-color); }
+    [data-cat="World"] { --cat-color: var(--c-world); }
+    [data-cat="Technology"] { --cat-color: var(--c-technology); }
+    [data-cat="Economy"] { --cat-color: var(--c-economy); }
+    [data-cat="Science"] { --cat-color: var(--c-science); }
+    [data-cat="Health"] { --cat-color: var(--c-health); }
+
+    .meta { font-size: 0.8rem; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 12px; }
+    .meta .source { color: var(--text); font-weight: 500; }
+
+    /* ---------- Front: lead + briefs ---------- */
+    main { padding: 28px 0 40px; }
+    .front {
+      display: grid; grid-template-columns: minmax(0, 1.65fr) minmax(0, 1fr); gap: 36px;
+      padding-bottom: 28px; border-bottom: 1px solid var(--rule); margin-bottom: 8px;
+    }
+    .lead h2 {
+      font-family: var(--serif); font-weight: 600; letter-spacing: -0.012em;
+      font-size: clamp(1.75rem, 3.6vw, 2.75rem); line-height: 1.1; margin: 10px 0 14px;
+      max-width: 22ch;
+    }
+    .lead p { font-size: 1.08rem; margin: 0 0 14px; max-width: 60ch; }
+    .secondary {
+      display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px;
+      margin-top: 24px; padding-top: 20px; border-top: 1px solid var(--rule);
+    }
+    .secondary h3 { font-family: var(--serif); font-weight: 500; font-size: 1.22rem; line-height: 1.28; margin: 6px 0; }
+    .secondary p { margin: 0 0 8px; color: var(--muted); font-size: 0.93rem; }
+    .briefs { border-left: 1px solid var(--rule); padding-left: 28px; }
+    .briefs h3 { font-size: 0.85rem; font-weight: 600; color: var(--muted); margin: 0 0 2px; }
+    .brief { padding: 14px 0; border-bottom: 1px solid var(--rule); }
+    .brief:last-child { border-bottom: 0; padding-bottom: 0; }
+    .brief h4 { font-family: var(--serif); font-weight: 500; font-size: 1.12rem; line-height: 1.28; margin: 6px 0; }
+
+    /* ---------- Story list ---------- */
+    .stories { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 36px; }
+    .story { padding: 20px 0; border-bottom: 1px solid var(--rule); display: flex; flex-direction: column; gap: 6px; }
+    .story h3 { font-family: var(--serif); font-weight: 500; font-size: 1.22rem; line-height: 1.28; margin: 2px 0; }
+    .story p { margin: 0; color: var(--muted); font-size: 0.95rem; max-width: 62ch; }
+    .empty { color: var(--muted); padding: 48px 0; text-align: center; margin: 0; }
+
+    /* ---------- Footer ---------- */
+    footer { border-top: 1px solid var(--rule); color: var(--muted); font-size: 0.82rem; }
+    footer .wrap { padding-top: 22px; padding-bottom: 32px; display: grid; gap: 8px; }
+    footer a { text-decoration: underline; text-underline-offset: 2px; }
+    footer p { margin: 0; max-width: 90ch; }
+
+    /* ---------- Responsive ---------- */
+    @media (max-width: 860px) {
+      .front { grid-template-columns: 1fr; gap: 20px; }
+      .briefs { border-left: 0; padding-left: 0; border-top: 1px solid var(--rule); padding-top: 16px; }
+      .stories { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 560px) {
+      .secondary { grid-template-columns: 1fr; gap: 18px; }
+    }
+    @media (max-width: 520px) {
+      .masthead .wrap { padding-top: 20px; }
+      .status { flex-wrap: wrap; gap: 6px 14px; }
+      .lead p { font-size: 1rem; }
     }
   </style>
 </head>
-<body class="bg-slate-950 text-slate-200 font-sans antialiased min-h-screen">
+<body>
 
-  <!-- Breaking news ticker -->
-  <div class="bg-red-700/90 text-white text-sm border-b border-red-900">
-    <div class="flex items-stretch">
-      <div class="shrink-0 px-3 sm:px-4 py-2 font-semibold uppercase tracking-wider bg-red-900 flex items-center gap-2">
-        <span class="relative flex h-2 w-2">
-          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-75"></span>
-          <span class="relative inline-flex rounded-full h-2 w-2 bg-white"></span>
-        </span>
-        <span class="hidden sm:inline">Latest</span>
+  <header class="masthead">
+    <div class="wrap">
+      <div class="brand">
+        <h1>Global News Wire</h1>
+        <p>Reported news from BBC, The Guardian, Al Jazeera, NPR and ABC. Updated every hour.</p>
       </div>
-      <div class="ticker-wrap overflow-hidden flex-1 py-2" aria-live="off">
-        <div id="ticker" class="ticker-track">
-          <span class="px-6 opacity-80">Loading headlines…</span>
-        </div>
+      <div class="status" aria-live="polite">
+        <span id="checked">Loading…</span>
+        <span id="newest"></span>
+        <button type="button" class="theme-btn" id="themeBtn">Theme</button>
       </div>
-    </div>
-  </div>
-
-  <!-- Header -->
-  <header class="border-b border-slate-800">
-    <div class="max-w-6xl mx-auto px-4 py-6 sm:py-8 flex flex-col sm:flex-row sm:items-end sm:justify-between gap-3">
-      <div>
-        <h1 class="font-serif text-3xl sm:text-4xl font-bold text-white tracking-tight">Global News Wire</h1>
-        <p class="text-slate-400 mt-1 text-sm">International headlines from major news feeds. Every story links to its original source.</p>
-      </div>
-      <p id="updated" class="text-xs text-slate-500"></p>
     </div>
   </header>
 
-  <!-- Filters -->
-  <nav class="sticky top-0 z-10 bg-slate-950/90 backdrop-blur border-b border-slate-800">
-    <div class="max-w-6xl mx-auto px-4 py-3 flex gap-2 overflow-x-auto" id="filters" role="tablist" aria-label="Filter by category"></div>
+  <section class="markets" aria-label="Markets">
+    <div class="wrap" id="markets"></div>
+    <div class="mk-caption"><div class="wrap" id="mkCaption"></div></div>
+  </section>
+
+  <section class="ticker" aria-label="Latest headlines">
+    <div class="wrap">
+      <span class="ticker-label">Latest</span>
+      <div class="ticker-viewport">
+        <div class="ticker-track" id="ticker"></div>
+      </div>
+    </div>
+  </section>
+
+  <nav class="sections" aria-label="Sections">
+    <div class="wrap" id="tabs" role="tablist"></div>
   </nav>
 
-  <!-- Feed -->
-  <main class="max-w-6xl mx-auto px-4 py-6">
-    <p id="count" class="text-xs text-slate-500 mb-4"></p>
-    <div id="status" class="text-center text-slate-400 py-16">Loading news…</div>
-    <div id="grid" class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3"></div>
+  <main>
+    <div class="wrap">
+      <div id="front"></div>
+      <div class="stories" id="stories"></div>
+      <p class="empty" id="empty" hidden></p>
+    </div>
   </main>
 
-  <footer class="border-t border-slate-800 mt-8">
-    <div class="max-w-6xl mx-auto px-4 py-6 text-xs text-slate-500 leading-relaxed">
-      Headlines and short excerpts are taken from public RSS feeds. Categories are assigned by source feed.
-      Copyright in the original reporting belongs to each publisher; read the full story at the source.
+  <footer>
+    <div class="wrap">
+      <p>Headlines and short excerpts come from each publisher's public RSS feed. Opinion, live blogs and video are left out. Read the full report at the source.</p>
+      <p>Exchange rates are daily mid-market rates. <a href="https://www.exchangerate-api.com" rel="noopener">Rates By Exchange Rate API</a>.
+         Oil prices are daily spot prices from the <a href="https://www.eia.gov/dnav/pet/pet_pri_spt_s1_d.htm" rel="noopener">U.S. Energy Information Administration</a>, via <a href="https://fred.stlouisfed.org" rel="noopener">FRED</a>, and run one trading day behind.</p>
+      <p>Not financial advice. Copyright in the original reporting belongs to each publisher.</p>
     </div>
   </footer>
 
   <script>
-    (function () {
-      'use strict';
+  (function () {
+    'use strict';
 
-      var CATEGORIES = ['All', 'World', 'Technology', 'Economy', 'Science', 'Health'];
-      var CATEGORY_STYLES = {
-        World:      'bg-sky-500/15 text-sky-300 ring-sky-500/30',
-        Technology: 'bg-violet-500/15 text-violet-300 ring-violet-500/30',
-        Economy:    'bg-emerald-500/15 text-emerald-300 ring-emerald-500/30',
-        Science:    'bg-amber-500/15 text-amber-300 ring-amber-500/30',
-        Health:     'bg-rose-500/15 text-rose-300 ring-rose-500/30'
-      };
+    var SECTIONS = ['All', 'World', 'Technology', 'Economy', 'Science', 'Health'];
+    var REFRESH_MS = 10 * 60 * 1000;   // re-fetch data while the page is open
+    var STALE_MS = 3 * 60 * 60 * 1000; // mark the status dot red after 3 hours without a run
 
-      var articles = [];
-      var activeCategory = 'All';
+    var state = { articles: [], meta: null, section: 'All' };
+    var $ = function (id) { return document.getElementById(id); };
 
-      var els = {
-        ticker: document.getElementById('ticker'),
-        filters: document.getElementById('filters'),
-        grid: document.getElementById('grid'),
-        status: document.getElementById('status'),
-        count: document.getElementById('count'),
-        updated: document.getElementById('updated')
-      };
+    // ---------- helpers ----------
+    function esc(v) {
+      return String(v == null ? '' : v)
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    }
+    function safeUrl(v) {
+      try { var u = new URL(v); return (u.protocol === 'https:' || u.protocol === 'http:') ? u.href : '#'; }
+      catch (e) { return '#'; }
+    }
+    function ago(iso) {
+      var t = new Date(iso).getTime();
+      if (isNaN(t)) return '';
+      var m = Math.round((Date.now() - t) / 60000);
+      if (m < 1) return 'just now';
+      if (m < 60) return m + ' min ago';
+      var h = Math.round(m / 60);
+      if (h < 24) return h + (h === 1 ? ' hour ago' : ' hours ago');
+      var d = Math.round(h / 24);
+      return d + (d === 1 ? ' day ago' : ' days ago');
+    }
+    function clockTime(iso) {
+      var d = new Date(iso);
+      return isNaN(d) ? '' : d.toLocaleString(undefined, { day: 'numeric', month: 'short', hour: 'numeric', minute: '2-digit' });
+    }
+    function shortDate(ymd) {
+      var d = new Date(ymd + 'T12:00:00Z');
+      return isNaN(d) ? (ymd || '') : d.toLocaleDateString(undefined, { day: 'numeric', month: 'short' });
+    }
+    function fmt(n, dp) {
+      return Number(n).toLocaleString(undefined, { minimumFractionDigits: dp, maximumFractionDigits: dp });
+    }
+    function changeHtml(cur, prev) {
+      if (!isFinite(cur) || !isFinite(prev) || !prev) return '';
+      var pct = (cur - prev) / prev * 100;
+      var cls = Math.abs(pct) < 0.005 ? 'flat' : (pct > 0 ? 'up' : 'down');
+      var sign = cls === 'up' ? '▲ ' : cls === 'down' ? '▼ ' : '';
+      var word = cls === 'up' ? 'Up' : cls === 'down' ? 'Down' : 'Unchanged';
+      return '<span class="mk-chg num ' + cls + '" title="' + word + ' on the previous day">' + sign + fmt(Math.abs(pct), 2) + '%</span>';
+    }
+    function catAttr(c) { return SECTIONS.indexOf(c) > 0 ? c : 'World'; }
 
-      // Everything from data.json is treated as untrusted text.
-      function escapeHtml(value) {
-        return String(value == null ? '' : value)
-          .replace(/&/g, '&amp;')
-          .replace(/</g, '&lt;')
-          .replace(/>/g, '&gt;')
-          .replace(/"/g, '&quot;')
-          .replace(/'/g, '&#39;');
+    // ---------- status ----------
+    function renderStatus() {
+      var meta = state.meta;
+      var checked = $('checked');
+      if (meta && meta.lastRun) {
+        var stale = Date.now() - new Date(meta.lastRun).getTime() > STALE_MS;
+        checked.innerHTML = '<span class="dot' + (stale ? ' stale' : '') + '" aria-hidden="true"></span>' +
+          'Checked <strong>' + esc(ago(meta.lastRun)) + '</strong>';
+        checked.title = 'Last update ' + clockTime(meta.lastRun) +
+          (meta.feedsTotal ? ', ' + meta.feedsOk + ' of ' + meta.feedsTotal + ' feeds responded' : '');
+      } else {
+        checked.textContent = '';
       }
+      var newest = state.articles[0];
+      $('newest').innerHTML = newest ? 'Newest story <strong>' + esc(ago(newest.publishedAt)) + '</strong>' : '';
+    }
 
-      function safeUrl(value) {
-        try {
-          var url = new URL(value);
-          return (url.protocol === 'https:' || url.protocol === 'http:') ? url.href : '#';
-        } catch (e) {
-          return '#';
-        }
-      }
+    // ---------- markets ----------
+    // [label, code, show as X/USD (inverted), decimals]
+    var FX_PAIRS = [
+      ['AUD/USD', 'AUD', true, 4],
+      ['EUR/USD', 'EUR', true, 4],
+      ['GBP/USD', 'GBP', true, 4],
+      ['USD/JPY', 'JPY', false, 2],
+      ['USD/CNY', 'CNY', false, 4],
+      ['USD/INR', 'INR', false, 2],
+      ['USD/LKR', 'LKR', false, 2]
+    ];
 
-      function timeAgo(iso) {
-        var then = new Date(iso).getTime();
-        if (isNaN(then)) return '';
-        var mins = Math.round((Date.now() - then) / 60000);
-        if (mins < 1) return 'just now';
-        if (mins < 60) return mins + ' min ago';
-        var hrs = Math.round(mins / 60);
-        if (hrs < 24) return hrs + (hrs === 1 ? ' hour ago' : ' hours ago');
-        var days = Math.round(hrs / 24);
-        return days + (days === 1 ? ' day ago' : ' days ago');
-      }
+    function renderMarkets() {
+      var meta = state.meta || {};
+      var html = '';
+      var captions = [];
 
-      function renderTicker() {
-        var latest = articles.slice(0, 5);
-        if (!latest.length) {
-          els.ticker.innerHTML = '<span class="px-6 opacity-80">No headlines yet.</span>';
-          return;
-        }
-        var items = latest.map(function (a) {
-          return '<a href="' + escapeHtml(safeUrl(a.link)) + '" target="_blank" rel="noopener noreferrer" ' +
-                 'class="px-6 hover:underline">' +
-                 '<span class="font-semibold opacity-90">' + escapeHtml(a.category) + ':</span> ' +
-                 escapeHtml(a.title) + '</a><span aria-hidden="true" class="opacity-50">•</span>';
+      var fx = meta.fx;
+      if (fx && fx.rates) {
+        var prevRates = fx.previous && fx.previous.rates ? fx.previous.rates : {};
+        var items = FX_PAIRS.map(function (p) {
+          var r = fx.rates[p[1]];
+          if (!isFinite(r) || !r) return '';
+          var pr = prevRates[p[1]];
+          var val = p[2] ? 1 / r : r;
+          var prev = isFinite(pr) && pr ? (p[2] ? 1 / pr : pr) : NaN;
+          return '<div class="mk"><span class="mk-label">' + p[0] + '</span>' +
+                 '<span><span class="mk-value num">' + fmt(val, p[3]) + '</span>' + changeHtml(val, prev) + '</span></div>';
         }).join('');
-        // Content is duplicated so the -50% translate loops without a gap.
-        els.ticker.innerHTML = items + items;
-      }
-
-      function renderFilters() {
-        els.filters.innerHTML = CATEGORIES.map(function (cat) {
-          var n = cat === 'All' ? articles.length : articles.filter(function (a) { return a.category === cat; }).length;
-          var active = cat === activeCategory;
-          var cls = active
-            ? 'bg-white text-slate-900 border-white'
-            : 'bg-slate-900 text-slate-300 border-slate-700 hover:border-slate-500 hover:text-white';
-          return '<button type="button" role="tab" aria-selected="' + active + '" data-cat="' + cat + '" ' +
-                 'class="shrink-0 px-4 py-1.5 rounded-full border text-sm font-medium transition-colors ' + cls + '">' +
-                 cat + ' <span class="opacity-60 text-xs">' + n + '</span></button>';
-        }).join('');
-      }
-
-      function renderGrid() {
-        var list = activeCategory === 'All'
-          ? articles
-          : articles.filter(function (a) { return a.category === activeCategory; });
-
-        els.count.textContent = list.length
-          ? 'Showing ' + list.length + (list.length === 1 ? ' story' : ' stories')
-          : '';
-
-        if (!list.length) {
-          els.grid.innerHTML = '';
-          els.status.textContent = articles.length
-            ? 'No ' + activeCategory + ' stories at the moment.'
-            : 'No stories yet. The first update runs within three hours of setup.';
-          els.status.classList.remove('hidden');
-          return;
-        }
-
-        els.status.classList.add('hidden');
-        els.grid.innerHTML = list.map(function (a) {
-          var style = CATEGORY_STYLES[a.category] || 'bg-slate-500/15 text-slate-300 ring-slate-500/30';
-          return '' +
-            '<article class="group flex flex-col bg-slate-900 border border-slate-800 rounded-xl p-5 hover:border-slate-600 transition-colors">' +
-              '<div class="flex items-center justify-between gap-2 mb-3">' +
-                '<span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ring-1 ring-inset ' + style + '">' +
-                  escapeHtml(a.category) +
-                '</span>' +
-                '<time class="text-xs text-slate-500" datetime="' + escapeHtml(a.publishedAt) + '">' + escapeHtml(timeAgo(a.publishedAt)) + '</time>' +
-              '</div>' +
-              '<h2 class="font-serif text-lg font-semibold text-white leading-snug mb-2">' + escapeHtml(a.title) + '</h2>' +
-              (a.summary ? '<p class="text-sm text-slate-400 leading-relaxed">' + escapeHtml(a.summary) + '</p>' : '') +
-              '<div class="flex-1"></div>' +
-              '<div class="mt-4 pt-3 border-t border-slate-800 flex items-center justify-between text-xs">' +
-                '<span class="text-slate-500">' + escapeHtml(a.source || 'Source') + '</span>' +
-                '<a href="' + escapeHtml(safeUrl(a.link)) + '" target="_blank" rel="noopener noreferrer" ' +
-                   'class="font-medium text-sky-400 hover:text-sky-300">Read original &rarr;</a>' +
-              '</div>' +
-            '</article>';
-        }).join('');
-      }
-
-      els.filters.addEventListener('click', function (e) {
-        var btn = e.target.closest('button[data-cat]');
-        if (!btn) return;
-        activeCategory = btn.getAttribute('data-cat');
-        renderFilters();
-        renderGrid();
-      });
-
-      async function load() {
-        try {
-          // Cache-buster so visitors see a fresh file after each bot commit.
-          var res = await fetch('data.json?t=' + Date.now(), { cache: 'no-store' });
-          if (res.status === 404) {
-            articles = [];
-          } else if (!res.ok) {
-            throw new Error('HTTP ' + res.status);
-          } else {
-            var data = await res.json();
-            articles = (Array.isArray(data) ? data : [])
-              .filter(function (a) { return a && a.title && a.link; })
-              .sort(function (a, b) { return new Date(b.publishedAt) - new Date(a.publishedAt); });
-          }
-
-          if (articles.length) {
-            var latest = articles.reduce(function (max, a) {
-              var t = new Date(a.processedAt || a.publishedAt).getTime();
-              return t > max ? t : max;
-            }, 0);
-            els.updated.textContent = 'Last updated ' + timeAgo(new Date(latest).toISOString());
-          }
-
-          renderTicker();
-          renderFilters();
-          renderGrid();
-        } catch (err) {
-          console.error(err);
-          els.status.textContent = 'Could not load the news feed. Please refresh in a moment.';
-          els.ticker.innerHTML = '<span class="px-6 opacity-80">Feed unavailable.</span>';
+        if (items) {
+          html += '<div class="mk-group" role="group" aria-label="Exchange rates">' + items + '</div>';
+          captions.push('<span>Currencies: daily rates, updated ' + esc(clockTime(fx.updated)) + '</span>');
         }
       }
 
-      load();
-    })();
+      var oil = meta.oil;
+      if (oil && (oil.brent || oil.wti)) {
+        var oilItems = [['Brent crude', oil.brent], ['WTI crude', oil.wti]].map(function (o) {
+          var d = o[1];
+          if (!d || !isFinite(d.price)) return '';
+          return '<div class="mk"><span class="mk-label">' + o[0] + '</span>' +
+                 '<span><span class="mk-value num">$' + fmt(d.price, 2) + '</span>' + changeHtml(d.price, d.previous) + '</span></div>';
+        }).join('');
+        var asOf = (oil.brent && oil.brent.date) || (oil.wti && oil.wti.date);
+        if (oilItems) {
+          html += '<div class="mk-group" role="group" aria-label="Oil prices">' + oilItems + '</div>';
+          captions.push('<span>Oil: US$ per barrel, spot price as of ' + esc(shortDate(asOf)) + '</span>');
+        }
+      }
+
+      $('markets').innerHTML = html || '<div class="mk-empty">Exchange rates and oil prices appear after the next hourly update.</div>';
+      $('mkCaption').innerHTML = captions.join('') + (captions.length ? '<span>Change is against the previous day</span>' : '');
+    }
+
+    // ---------- ticker ----------
+    function renderTicker() {
+      var latest = state.articles.slice(0, 5);
+      if (!latest.length) { $('ticker').innerHTML = '<span class="ticker-item">No headlines yet.</span>'; return; }
+      var items = latest.map(function (a) {
+        return '<a class="ticker-item" href="' + esc(safeUrl(a.link)) + '" target="_blank" rel="noopener noreferrer">' +
+               '<span class="src">' + esc(a.source) + '</span>' + esc(a.title) + '</a>';
+      }).join('');
+      // A second copy makes the loop seamless; it is hidden from screen readers and keyboard focus.
+      $('ticker').innerHTML = items +
+        '<span class="ticker-copy" aria-hidden="true">' + items.replace(/<a /g, '<a tabindex="-1" ') + '</span>';
+    }
+
+    // ---------- tabs ----------
+    function renderTabs() {
+      $('tabs').innerHTML = SECTIONS.map(function (s) {
+        var n = s === 'All' ? state.articles.length : state.articles.filter(function (a) { return a.category === s; }).length;
+        var sel = s === state.section;
+        var color = s === 'All' ? '' : ' style="--tab-color: var(--c-' + s.toLowerCase() + ')"';
+        return '<button type="button" class="tab" role="tab" aria-selected="' + sel + '" data-section="' + s + '"' + color + '>' +
+               s + '<span class="count">' + n + '</span></button>';
+      }).join('');
+    }
+
+    // ---------- stories ----------
+    function metaLine(a) {
+      return '<div class="meta"><span class="source">' + esc(a.source) + '</span>' +
+             '<time datetime="' + esc(a.publishedAt) + '" title="' + esc(clockTime(a.publishedAt)) + '">' + esc(ago(a.publishedAt)) + '</time></div>';
+    }
+    function link(a, inner) {
+      return '<a href="' + esc(safeUrl(a.link)) + '" target="_blank" rel="noopener noreferrer">' + inner + '</a>';
+    }
+    function catTag(a) {
+      return '<span class="cat" data-cat="' + catAttr(a.category) + '">' + esc(a.category) + '</span>';
+    }
+
+    function renderStories() {
+      var list = state.section === 'All' ? state.articles
+        : state.articles.filter(function (a) { return a.category === state.section; });
+
+      var empty = $('empty');
+      if (!list.length) {
+        $('front').innerHTML = '';
+        $('stories').innerHTML = '';
+        empty.textContent = state.articles.length
+          ? 'No ' + state.section + ' stories in the last 48 hours. Try another section.'
+          : 'No stories yet. They appear after the first hourly update.';
+        empty.hidden = false;
+        return;
+      }
+      empty.hidden = true;
+
+      var lead = list[0];
+      var secondary = list.slice(1, 3);
+      var briefs = list.slice(3, 7);
+      var rest = list.slice(7);
+
+      $('front').innerHTML =
+        '<div class="front">' +
+          '<div>' +
+            '<article class="lead">' + catTag(lead) +
+              '<h2>' + link(lead, esc(lead.title)) + '</h2>' +
+              (lead.summary ? '<p>' + esc(lead.summary) + '</p>' : '') +
+              metaLine(lead) +
+            '</article>' +
+            (secondary.length
+              ? '<div class="secondary">' + secondary.map(function (a) {
+                  return '<article>' + catTag(a) + '<h3>' + link(a, esc(a.title)) + '</h3>' +
+                         (a.summary ? '<p>' + esc(a.summary) + '</p>' : '') + metaLine(a) + '</article>';
+                }).join('') + '</div>'
+              : '') +
+          '</div>' +
+          (briefs.length
+            ? '<aside class="briefs" aria-label="Also new"><h3>Also new</h3>' +
+                briefs.map(function (a) {
+                  return '<article class="brief">' + catTag(a) + '<h4>' + link(a, esc(a.title)) + '</h4>' + metaLine(a) + '</article>';
+                }).join('') +
+              '</aside>'
+            : '') +
+        '</div>';
+
+      $('stories').innerHTML = rest.map(function (a) {
+        return '<article class="story">' + catTag(a) +
+                 '<h3>' + link(a, esc(a.title)) + '</h3>' +
+                 (a.summary ? '<p>' + esc(a.summary) + '</p>' : '') +
+                 metaLine(a) +
+               '</article>';
+      }).join('');
+    }
+
+    function renderAll() {
+      renderStatus();
+      renderMarkets();
+      renderTicker();
+      renderTabs();
+      renderStories();
+    }
+
+    // ---------- data ----------
+    async function getJson(name) {
+      var res = await fetch(name + '?t=' + Date.now(), { cache: 'no-store' });
+      if (res.status === 404) return null;
+      if (!res.ok) throw new Error(name + ': HTTP ' + res.status);
+      return res.json();
+    }
+
+    async function load() {
+      try {
+        var results = await Promise.all([
+          getJson('data.json'),
+          getJson('meta.json').catch(function () { return null; })
+        ]);
+        var data = results[0];
+        state.articles = (Array.isArray(data) ? data : [])
+          .filter(function (a) { return a && a.title && a.link; })
+          .sort(function (a, b) { return new Date(b.publishedAt) - new Date(a.publishedAt); });
+        state.meta = results[1];
+        renderAll();
+      } catch (err) {
+        console.error(err);
+        if (!state.articles.length) {
+          $('empty').textContent = 'The news feed did not load. Check your connection and refresh the page.';
+          $('empty').hidden = false;
+          $('checked').textContent = '';
+        }
+      }
+    }
+
+    // ---------- events ----------
+    $('tabs').addEventListener('click', function (e) {
+      var btn = e.target.closest('[data-section]');
+      if (!btn) return;
+      state.section = btn.getAttribute('data-section');
+      renderTabs();
+      renderStories();
+    });
+
+    function currentTheme() {
+      return document.documentElement.getAttribute('data-theme') ||
+        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    }
+    function updateThemeLabel() {
+      $('themeBtn').textContent = currentTheme() === 'dark' ? 'Light mode' : 'Dark mode';
+    }
+    $('themeBtn').addEventListener('click', function () {
+      var next = currentTheme() === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      try { localStorage.setItem('gnw-theme', next); } catch (e) {}
+      updateThemeLabel();
+    });
+    updateThemeLabel();
+
+    load();
+    setInterval(load, REFRESH_MS);
+    // Keep relative times current between fetches.
+    setInterval(function () { renderStatus(); renderStories(); }, 60 * 1000);
+  })();
   </script>
 </body>
 </html>
