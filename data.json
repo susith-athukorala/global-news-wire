@@ -1,5 +1,23 @@
 [
   {
+    "id": "2c60615ce208508f",
+    "title": "UK cyber chief says UK will face AI cyberattacks on critical infrastructure by 2028",
+    "summary": "Britain’s cyber chief says the U.K. is likely to face artificial intelligence cyberattacks on its critical infrastructure by 2028.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/uk-cyber-chief-uk-face-ai-cyberattacks-critical-137788396",
+    "publishedAt": "2026-11-03T00:57:09.000Z"
+  },
+  {
+    "id": "8f4151ef6052f32f",
+    "title": "North Korea denies involvement in Binance hack, criticizes FBI probe",
+    "summary": "North Korea has denied its involvement in the recent cryptocurrency heist at Binance, dismissing as “a trite provocation” a U.S. announcement that North Korean hackers were behind the incident.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/north-korea-denies-involvement-binance-hack-criticizes-fbi-137788208",
+    "publishedAt": "2026-11-03T00:56:43.000Z"
+  },
+  {
     "id": "bd00c40b174e0d2e",
     "title": "North Korea denies being behind record $6.3bn Binance hack",
     "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
@@ -7,6 +25,24 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
     "publishedAt": "2026-11-03T00:56:43.000Z"
+  },
+  {
+    "id": "0f699b596dcf797d",
+    "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
+    "summary": "The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss",
+    "publishedAt": "2026-11-03T00:50:38.000Z"
+  },
+  {
+    "id": "ac89c9448e6f2494",
+    "title": "Man and boy arrested after One Nation volunteer allegedly attacked with baseball bat in Victoria",
+    "summary": "Police confirm arrest of 37-year-old and 14-year-old boy over alleged assault outside Torquay home on Sunday night.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/03/one-nation-volunteer-alleged-attack-assault-torquay-victoria-ntwnfb",
+    "publishedAt": "2026-11-03T00:45:06.000Z"
   },
   {
     "id": "f061bb9311cdc053",
@@ -1312,41 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/uks-stance-role-slave-trade-shifting-reparations-remain-137749095",
     "publishedAt": "2026-11-02T00:50:14.000Z"
-  },
-  {
-    "id": "ace78c98663d707d",
-    "title": "Canada's Carney reports progress in trade talks with US. Trump talks up 'concept' of a deal",
-    "summary": "Canadian Prime Minister Mark Carney says he had a constructive conversation with U.S. President Donald Trump about a potential trade deal.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/canadian-prime-minister-carney-reports-progress-trade-talks-137750777",
-    "publishedAt": "2026-11-02T00:26:22.000Z"
-  },
-  {
-    "id": "9404353136ba735c",
-    "title": "UN’s peacekeeping mission in Western Sahara ends after 35 years following US-Russia standoff",
-    "summary": "The U.N.'s peacekeeping mission in Western Sahara has ended after 35 years due to a U.S.-Russia standoff",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/uns-peacekeeping-mission-western-sahara-ends-after-35-137752621",
-    "publishedAt": "2026-11-02T00:26:16.000Z"
-  },
-  {
-    "id": "7f4eb073c4744a20",
-    "title": "Democrats have high hopes for midterms - but are the polls right?",
-    "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do",
-    "publishedAt": "2026-11-02T00:25:12.000Z"
-  },
-  {
-    "id": "10a5c4d6eaf46b24",
-    "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-    "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o",
-    "publishedAt": "2026-11-02T00:15:30.000Z"
   }
 ]
