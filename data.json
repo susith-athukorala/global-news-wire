@@ -1,5 +1,68 @@
 [
   {
+    "id": "e3726f84f7d589f9",
+    "title": "'Quiet quitting' could be hitting the economy - here's why",
+    "summary": "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo",
+    "publishedAt": "2026-11-03T11:15:51.000Z"
+  },
+  {
+    "id": "d52dd2ca8e0d7037",
+    "title": "Detentions, resignations, probes shake Serbia after students toppled Vucic",
+    "summary": "Detentions, resignations, switching of sides, attempts to destroy evidence of wrongdoing.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/detentions-resignations-probes-shake-serbia-after-students-toppled-137800721",
+    "publishedAt": "2026-11-03T11:10:39.000Z"
+  },
+  {
+    "id": "9d894f59448f4d9e",
+    "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
+    "summary": "Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/03/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
+    "publishedAt": "2026-11-03T11:00:00.000Z"
+  },
+  {
+    "id": "46aadf3e164d784a",
+    "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
+    "summary": "With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss",
+    "publishedAt": "2026-11-03T10:40:34.000Z"
+  },
+  {
+    "id": "cc759667b97dcba0",
+    "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+    "summary": "Sudan demands UN accountability after devastating drone attacks expose a complex regional crisis.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia?traffic_source=rss",
+    "publishedAt": "2026-11-03T10:29:56.000Z"
+  },
+  {
+    "id": "ad7de5513a81e0d7",
+    "title": "At least 73 injured as Russia bombs Ukrainian hospital and power plants",
+    "summary": "Medical facility was struck by Russian ballistic missiles and aerial bombs overnight.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants?traffic_source=rss",
+    "publishedAt": "2026-11-03T10:18:18.000Z"
+  },
+  {
+    "id": "ebaa89465f18665c",
+    "title": "Lebanon cuts power to public bodies as electricity crisis deepens",
+    "summary": "Political disputes and war worsen Lebanon's electricity crisis, as experts say deeper reforms are necessary.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens?traffic_source=rss",
+    "publishedAt": "2026-11-03T10:17:27.000Z"
+  },
+  {
     "id": "818a2a8c77d94042",
     "title": "Burnham denies proposing return to free movement in talks with EU",
     "summary": "Prime minister says he is committed to manifesto red lines and ‘public need to be the boss’ on future relationship.",
@@ -693,6 +756,15 @@
     "publishedAt": "2026-11-03T03:13:06.000Z"
   },
   {
+    "id": "a1b15b336a8f0f66",
+    "title": "US has hit Iranian targets in Strait of Hormuz, US official says",
+    "summary": "The strikes, which appeared to be limited as opposed to a full return to hostilities, came on the eve of crucial American midterm elections.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-03/us-official-confirms-strikes-on-iran/107341252",
+    "publishedAt": "2026-11-03T02:30:14.000Z"
+  },
+  {
     "id": "e49751da47cf3ed1",
     "title": "US urges Venezuela to follow phased plan for democratic transition",
     "summary": "This comes as leading opposition leader returns to Venezuela and hints at criticism of Trump administration.",
@@ -1276,77 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do",
     "publishedAt": "2026-11-02T18:34:24.000Z"
-  },
-  {
-    "id": "ad5e21594e9f31df",
-    "title": "US petrol prices dip ahead of midterms as voters eye costs",
-    "summary": "Diesel prices ease to $6.29 per gallon, offering slight relief amid a global fuel demand squeeze.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/2/us-petrol-prices-dip-ahead-of-midterms-as-voters-eye-costs?traffic_source=rss",
-    "publishedAt": "2026-11-02T18:32:30.000Z"
-  },
-  {
-    "id": "1a3d111e1a207a78",
-    "title": "Russian strikes on Ukrainian shelter and aid centre kill 26",
-    "summary": "Ukrainian President Volodymyr Zelenskyy accused Russia of deliberately targeting civilians as they tried to access humanitarian aid being distributed at a local school.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-03/russia-strikes-ukrainian-aid-outpost/107339274",
-    "publishedAt": "2026-11-02T18:32:17.000Z"
-  },
-  {
-    "id": "a50c075798b97541",
-    "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-    "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go",
-    "publishedAt": "2026-11-02T18:25:01.000Z"
-  },
-  {
-    "id": "195b281056dbfeed",
-    "title": "Russian bombing of Ukrainian aid centre kills 24 people",
-    "summary": "Ukraine's president calls attack further proof that Russia does not want any ‌kind of de-escalation or real justice.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
-    "publishedAt": "2026-11-02T18:23:02.000Z"
-  },
-  {
-    "id": "1af9b03caed681ab",
-    "title": "French pupils resume school blockades as country braces for more protests",
-    "summary": "",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests",
-    "publishedAt": "2026-11-02T18:17:33.000Z"
-  },
-  {
-    "id": "9ec5d190f55a3335",
-    "title": "Control of Britain’s 39m smart meters passes to non-profit startup",
-    "summary": "",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/02/control-of-britains-39m-smart-meters-passes-to-non-profit-startup",
-    "publishedAt": "2026-11-02T18:13:35.000Z"
-  },
-  {
-    "id": "28cb97f5dd9bb041",
-    "title": "Judge dismisses charges against FBI agents involved in Hunter Biden case",
-    "summary": "A federal judge tossed charges accusing two former FBI officials of lying to Congress about Hunter Biden investigation.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/2/judge-dismisses-charges-against-fbi-agents-involved-in-hunter-biden-case?traffic_source=rss",
-    "publishedAt": "2026-11-02T18:10:26.000Z"
-  },
-  {
-    "id": "844d90eefb7c05db",
-    "title": "Structural deficits across governments to blame for inflation, not spending",
-    "summary": "The Coalition has been blaming federal government spending for rising inflation and another impending rate rise for Melbourne Cup Day, but the figures tell a different story.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-03/rate-hikes-gather-pace-across-the-globe-as-deficits/107336008",
-    "publishedAt": "2026-11-02T18:00:00.000Z"
   }
 ]
