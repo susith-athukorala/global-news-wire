@@ -192,8 +192,37 @@ function cleanTitle(raw, sourceName) {
 }
 
 /** First one or two sentences of the description, without boilerplate. */
+/**
+ * Returns the first real paragraph of a description. Feeds such as The
+ * Guardian pack a standfirst, a list of related links and the opening
+ * paragraphs into one HTML block; flattening it naively runs them together.
+ */
+function firstParagraph(raw) {
+  if (!raw) return '';
+  let html = decodeEntities(String(raw).replace(/<!\[CDATA\[|\]\]>/g, ''));
+  html = html
+    .replace(/<(ul|ol|figure|figcaption|aside|table)[\s\S]*?<\/\1>/gi, '\n') // related-link lists, captions
+    .replace(/<a\b[^>]*>\s*(continue reading|read more)[\s\S]*?<\/a>/gi, '')
+    .replace(/<\/(p|div|h[1-6]|li|blockquote)>|<br\s*\/?>/gi, '\n');
+  const paragraphs = stripHtmlKeepLines(html)
+    .split('\n')
+    .map((p) => p.replace(/\s+/g, ' ').trim())
+    .filter((p) => p.length >= 30);
+  return paragraphs[0] || '';
+}
+
+function stripHtmlKeepLines(text) {
+  return text
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/https?:\/\/\S+/g, ' ')
+    .replace(/[ \t\r\f\v]+/g, ' ');
+}
+
 function cleanSummary(raw, title) {
-  let text = stripHtml(raw);
+  const hasHtml = /<\s*(p|br|div|ul|li)\b/i.test(String(raw || ''));
+  let text = hasHtml ? firstParagraph(raw) : stripHtml(raw);
   for (const re of BOILERPLATE) text = text.replace(re, '').trim();
   if (!text) return '';
 
@@ -214,6 +243,8 @@ function cleanSummary(raw, title) {
   let summary = sentences.slice(0, 2).join(' ').trim();
   if (summary.length > 320) {
     summary = summary.slice(0, 317).replace(/\s+\S*$/, '') + '…';
+  } else if (!/[.!?…"'’”)]$/.test(summary)) {
+    summary += '.'; // standfirsts often have no full stop
   }
   return summary;
 }
@@ -290,7 +321,8 @@ async function fetchAllFeeds() {
         const title = cleanTitle(item.title, feed.name);
         kept.push({
           title,
-          summary: cleanSummary(item.contentSnippet || item.summary || item.content || item.description, title),
+          // Prefer the HTML version so paragraph breaks survive; fall back to plain text.
+          summary: cleanSummary(item.content || item.description || item.contentSnippet || item.summary, title),
           category: CATEGORIES.includes(feed.category) ? feed.category : 'World',
           source: feed.name,
           link,
@@ -328,9 +360,14 @@ async function main() {
   const loaded = await readJsonArray(DATA_FILE);
   // Drop archived items that no longer meet the source and content rules,
   // e.g. old Google News / CNN entries or opinion pieces from earlier runs.
-  const existing = loaded.filter(
-    (a) => a && a.link && a.title && isAllowedDomain(a.link, ALLOWED_DOMAINS) && isReportedNews(a.title, a.link)
-  );
+  const existing = loaded
+    .filter((a) => a && a.link && a.title && isAllowedDomain(a.link, ALLOWED_DOMAINS) && isReportedNews(a.title, a.link))
+    // Older runs labelled BBC items by feed ("BBC World", "BBC Business"...).
+    .map((a) => (/^BBC\b/.test(a.source) && a.source !== 'BBC News' ? { ...a, source: 'BBC News' } : a))
+    // Older runs produced long run-on summaries for Guardian items, cut off with
+    // an ellipsis. They cannot be repaired from the archive, so blank them;
+    // those items age out within a day or two anyway.
+    .map((a) => (a.summary && /…$/.test(a.summary) && a.summary.length > 280 ? { ...a, summary: '' } : a));
   if (existing.length < loaded.length) {
     log(`Purged ${loaded.length - existing.length} archived items that fail the source rules.`);
   }
