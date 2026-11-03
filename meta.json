@@ -1,0 +1,36 @@
+{
+  "lastRun": "2026-11-03T00:27:34.038Z",
+  "feedsOk": 17,
+  "feedsTotal": 17,
+  "articleCount": 150,
+  "fx": {
+    "base": "USD",
+    "updated": "2026-11-02T00:02:31.000Z",
+    "rates": {
+      "AUD": 1.422744,
+      "EUR": 0.896073,
+      "GBP": 0.746906,
+      "JPY": 157.532149,
+      "CNY": 6.660856,
+      "INR": 95.082494,
+      "LKR": 332.391593
+    },
+    "previous": null
+  },
+  "oil": {
+    "source": "U.S. EIA via FRED",
+    "unit": "USD per barrel",
+    "brent": {
+      "price": 123.1,
+      "date": "2026-10-27",
+      "previous": 128.12,
+      "previousDate": "2026-10-26"
+    },
+    "wti": {
+      "price": 103.37,
+      "date": "2026-10-27",
+      "previous": 105.25,
+      "previousDate": "2026-10-26"
+    }
+  }
+}

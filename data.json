@@ -1,5 +1,104 @@
 [
   {
+    "id": "29aaf9c15c93ccfa",
+    "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+    "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po",
+    "publishedAt": "2026-11-03T00:07:05.000Z"
+  },
+  {
+    "id": "8330bdd3be4d0a6b",
+    "title": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
+    "summary": "National Cyber Security Centre expects attacks on critical facilities such as power stations, airports and hospitals AI-powered malicious software is “highly likely” to be used in hacking attacks against the UK’s power stations, airports and hospitals by 2028, according to the state cybersecurity body. The National…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure",
+    "publishedAt": "2026-11-03T00:01:32.000Z"
+  },
+  {
+    "id": "d179642c95cc6690",
+    "title": "John Lewis Christmas ad stars Kristin Scott Thomas as glamorous granny on a gift hunt",
+    "summary": "Company tugs at heartstrings with Pickles the talking toy dog as it celebrates 20 years of blockbuster festive ads John Lewis has turned to a celebrity best known for playing aristocrats to put a playful but rather upmarket spin on the countdown to Christmas with this year’s festive ad, which features a toy dog…",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/03/john-lewis-christmas-advert-kristin-scott-thomas-glamorous-granny-gift-hunt",
+    "publishedAt": "2026-11-03T00:01:32.000Z"
+  },
+  {
+    "id": "19309192feecb0fe",
+    "title": "British Airways lost my father’s vital life-saving machine",
+    "summary": "He needs a dialysis machine to survive, but on a flight it was first damaged, then it was lost My father suffers from terminal renal failure and relies on a highly specific dialysis machine every night to survive. British Airways’ check-in staff twice insisted on checking this fragile 20kg lifeline into the…",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/03/british-airways-lost-my-fathers-vital-life-saving-machine",
+    "publishedAt": "2026-11-03T00:00:33.000Z"
+  },
+  {
+    "id": "3f5f6e21578f0936",
+    "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+    "summary": "Hit hard by Trump's tariffs and the war on Iran, countries in the Asia-Pacific want 'enormous changes' in US policies.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
+    "publishedAt": "2026-11-02T23:41:18.000Z"
+  },
+  {
+    "id": "d4b687bdc321a042",
+    "title": "Trump’s DoJ charges six more people in ‘voter fraud’ crackdown in California",
+    "summary": "Latest arrests come after DoJ unsuccessfully fought to force state election officials to set aside about 20,000 ballots US midterms – live updates The US Department of Justice (DoJ) in California has charged six more people with alleged voter fraud crimes, an escalation of the Trump administration’s campaign…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges",
+    "publishedAt": "2026-11-02T23:22:24.000Z"
+  },
+  {
+    "id": "5e01d9b6dc34ef5b",
+    "title": "Supreme court rules against Trump over bid to force California to set aside ballots",
+    "summary": "Justice department had ordered state to segregate and not count 20,000 ballots from people it claims are non-citizens US midterms – live updates The supreme court on Monday ruled against the Trump administration and its attempts to force California election officials to segregate and not count ballots from people…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
+    "publishedAt": "2026-11-02T23:09:57.000Z"
+  },
+  {
+    "id": "5fde059d3dcbd5c6",
+    "title": "Apple posts stronger-than-expected revenue in first earnings report for new CEO John Ternus",
+    "summary": "Result for the company, which earned $30.71bn and exceeded analysts’ expectations, bucked downward trend for tech firms Apple Inc posted stronger-than-expected revenue in the fiscal third quarter, giving John Ternus, the new CEO, an upbeat start to his tenure, which began in September. The solid results bucked a…",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+    "publishedAt": "2026-11-02T23:07:49.000Z"
+  },
+  {
+    "id": "24c079a60f8be940",
+    "title": "Trump approval rating near record low on eve of US midterm elections: Poll",
+    "summary": "Only 32 percent of voters approve of Trump's job performance in the latest Reuters/Ipsos poll.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
+    "publishedAt": "2026-11-02T23:05:30.000Z"
+  },
+  {
+    "id": "454c92f00c5f9590",
+    "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+    "summary": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o",
+    "publishedAt": "2026-11-02T23:02:01.000Z"
+  },
+  {
+    "id": "2c7741b9e13f03f9",
+    "title": "I was told I had anxiety but it turned out to be breast cancer",
+    "summary": "Beth Jenkins' cancer was initially missed after told she was \"too young\" to have the disease.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crgqwgp04e50o",
+    "publishedAt": "2026-11-02T23:00:07.000Z"
+  },
+  {
     "id": "28d55b3e34c55016",
     "title": "Do the Shetland Isles need Cold War-style military protection?",
     "summary": "Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland.",
@@ -7,6 +106,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cjg47dq6q775o",
     "publishedAt": "2026-11-02T22:45:57.000Z"
+  },
+  {
+    "id": "eb2207a14e5e30b4",
+    "title": "US midterms 2026: What polls reveal about Democratic, Republican voters",
+    "summary": "From the economy and cost of living to immigration, polls suggest where American voters agree and disagree.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss",
+    "publishedAt": "2026-11-02T22:40:06.000Z"
   },
   {
     "id": "1a23cb7e41f6cae3",
@@ -72,6 +180,24 @@
     "publishedAt": "2026-11-02T21:40:39.000Z"
   },
   {
+    "id": "156a38698b2e6603",
+    "title": "Trump describes midterms as 'most important in our lifetime'",
+    "summary": "Donald Trump acknowledges his Republican Party is facing an uphill battle at the midterm elections this week, amid polling that suggests he could lose control of Congress.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-03/us-midterms-most-important-in-our-lifetime-trump-says/107339402",
+    "publishedAt": "2026-11-02T21:39:50.000Z"
+  },
+  {
+    "id": "0fe01255ce5b0f83",
+    "title": "What the latest on mRNA vaccines means for cancer",
+    "summary": "One patient in a small trial is experiencing the fantasy results so far with an mRNA pancreatic cancer vaccine. She shows no evidence of the cancer that was supposed to kill her years ago.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/02/nx-s1-6009085/what-the-latest-on-mrna-vaccines-means-for-cancer",
+    "publishedAt": "2026-11-02T21:31:10.000Z"
+  },
+  {
     "id": "6203a2463a1cca76",
     "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
     "summary": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
@@ -106,6 +232,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
     "publishedAt": "2026-11-02T20:38:04.000Z"
+  },
+  {
+    "id": "269c5f882f9eb15a",
+    "title": "Powerful Haitian gang leader writes UN seeking dialogue as clashes intensify",
+    "summary": "One of Haiti’s most powerful gang leaders has written the U.N. Secretary General and requested that the organization deploy a delegation to Haiti for dialogue and mediation as clashes between gangs and an international force intensify",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/powerful-haitian-gang-leader-writes-seeking-dialogue-clashes-137782809",
+    "publishedAt": "2026-11-02T20:28:40.000Z"
   },
   {
     "id": "869ad61caff372f6",
@@ -621,6 +756,15 @@
     "publishedAt": "2026-11-02T14:35:38.000Z"
   },
   {
+    "id": "edc4e805bbf426e7",
+    "title": "Ethiopia attacks kill civilians as health system nears collapse, WHO chief says",
+    "summary": "The World Health Organization reports that attacks in northern Ethiopia are pushing the region's fragile health system closer to collapse",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/ethiopia-attacks-kill-civilians-health-system-nears-collapse-137765937",
+    "publishedAt": "2026-11-02T14:14:36.000Z"
+  },
+  {
     "id": "c59157beacbf7359",
     "title": "3 appear in court accused of causing Athens gas explosion by stealing copper piping",
     "summary": "Three men accused of causing a deadly explosion in Athens by stealing copper piping from a gas supply network are appearing in court for a preliminary hearing",
@@ -718,6 +862,15 @@
     "source": "BBC Business",
     "link": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo",
     "publishedAt": "2026-11-02T13:40:36.000Z"
+  },
+  {
+    "id": "fc7b8f7413c1dcbc",
+    "title": "Uganda begins withdrawing peacekeeping troops that helped repel militants in Somalia",
+    "summary": "Uganda is withdrawing troops from Somalia, where they have been part of an African Union peacekeeping force",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/uganda-begins-withdrawing-peacekeeping-troops-helped-repel-militants-137764218",
+    "publishedAt": "2026-11-02T13:39:58.000Z"
   },
   {
     "id": "afa5b3704f6fce8f",
@@ -918,6 +1071,15 @@
     "publishedAt": "2026-11-02T08:03:39.000Z"
   },
   {
+    "id": "144149f79ef14398",
+    "title": "Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
+    "summary": "Jasper Jones writer sent multiple messages about his sexual desire for young boys, Western Australian district court hears Warning: This article contains graphic content Get our breaking news email, free app or daily news podcast The award‑winning author Craig Silvey sent multiple messages about his sexual desire…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb",
+    "publishedAt": "2026-11-02T08:01:34.000Z"
+  },
+  {
     "id": "ff254917f921cc63",
     "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
     "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
@@ -943,6 +1105,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/money/2026/nov/02/buying-smart-lock-uk-worth-it-affect-insurance",
     "publishedAt": "2026-11-02T07:00:34.000Z"
+  },
+  {
+    "id": "349c9bdc69f0409b",
+    "title": "‘Sharper, longer slowdown’ predicted for Australian economy as fifth interest rate hike looms",
+    "summary": "Australia’s central bank expected to hit mortgage holders again on Tuesday, as war in Middle East combines with collapsing house prices Get our breaking news email, free app or daily news podcast Australia’s economy is set for a “sharper, longer slowdown”, major bank economists say, as the Reserve Bank is forced to…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms",
+    "publishedAt": "2026-11-02T06:57:29.000Z"
   },
   {
     "id": "b4b2647865049064",
@@ -1042,6 +1213,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/science/2026/nov/02/starwatch-catch-the-striking-trifecta-of-venus-the-moon-and-spica-at-break-of-dawn",
     "publishedAt": "2026-11-02T06:00:34.000Z"
+  },
+  {
+    "id": "e8945d7d0316390e",
+    "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
+    "summary": "Survey finds UK government’s decision to impose trade ban was not a decisive factor in how Israelis voted in election The UK government’s decision to impose a ban on trade in goods from illegal settlements was not decisive in how Israelis voted in their general election, but a majority think the Israeli…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
+    "publishedAt": "2026-11-02T06:00:33.000Z"
+  },
+  {
+    "id": "451a04e84b13ef37",
+    "title": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition",
+    "summary": "Yousef Jabareen says he is ready to join forces with opposition bloc to oust Benjamin Netanyahu after winning record number of seats in Knesset The leader of Israel’s main Palestinian coalition, which holds the balance of power after Tuesday’s elections, has said the country is facing a historic opportunity to…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
+    "publishedAt": "2026-11-02T06:00:32.000Z"
   },
   {
     "id": "330a3a5b24f85828",
@@ -1159,194 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete",
     "publishedAt": "2026-11-01T22:30:00.000Z"
-  },
-  {
-    "id": "4fc8a5a21005c5a9",
-    "title": "Antonelli - the boy 'born in a garage' who became world champion",
-    "summary": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo",
-    "publishedAt": "2026-11-01T22:25:01.000Z"
-  },
-  {
-    "id": "ef58a7b02961bdd1",
-    "title": "Do you know signs of a stroke? BE FAST are the words to remember",
-    "summary": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
-    "publishedAt": "2026-11-01T22:22:12.000Z"
-  },
-  {
-    "id": "5c1a12d656f9f53f",
-    "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
-    "summary": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
-    "publishedAt": "2026-11-01T22:19:13.000Z"
-  },
-  {
-    "id": "9ce5630ea29d6015",
-    "title": "Exit polls suggest Bulgarians elected first female president",
-    "summary": "Surveys by several polling organizations give Yotova about 52% of the vote.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/bulgarians-vote-presidential-runoff-marked-regional-security-threats-137744157",
-    "publishedAt": "2026-11-01T20:10:32.000Z"
-  },
-  {
-    "id": "28584c57b4f67caa",
-    "title": "'Despicable betrayal': Democrat backs GOP candidate in key midterms race",
-    "summary": "The Democrats' messy Michigan Senate campaign is again marred by friendly fire, with defeated primaries candidate Haley Stevens breaking ranks and endorsing the Republican nominee in Tuesday's midterm elections.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-02/us-midterms-democrats-michigan-campaign-haley-stevens-backs-gop/107334852",
-    "publishedAt": "2026-11-01T19:59:19.000Z"
-  },
-  {
-    "id": "744b3c145f8ccb86",
-    "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
-    "summary": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biology An “inspiring” Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people. Dr Marta Shahbazi, 41, an affiliate associate professor at the Cambridge Stem Cell…",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
-    "publishedAt": "2026-11-01T19:36:46.000Z"
-  },
-  {
-    "id": "c35b35b5fd241a62",
-    "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
-    "summary": "Cryptocurrency exchange has begun to allow withdrawals after theft believed to have come from North Korea Investors have pulled $3.6bn (£2.7bn) in funds from the cryptocurrency exchange Binance as it recovers from a record hack in which billions were stolen from customer accounts. The platform was hit by a $6.3bn…",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions",
-    "publishedAt": "2026-11-01T18:53:25.000Z"
-  },
-  {
-    "id": "2d93e6ebb9aeca7f",
-    "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
-    "summary": "New electricity generating capacity would enable north-east to attract investment for large-scale AI infrastructure National Grid has taken a step towards building Britain’s biggest electricity substation on Teesside, which could supply power to a vast neighbouring datacentre as the UK races to expand its AI…",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
-    "publishedAt": "2026-11-01T18:37:42.000Z"
-  },
-  {
-    "id": "15faf826c4b94b6b",
-    "title": "Trump could try to overturn midterm election results, former security chiefs warn",
-    "summary": "This week's midterm elections could weaken Donald Trump's grip on power. Former US intelligence chiefs fear he's \"willing to go beyond limits\" to keep it.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-02/trump-could-interfere-in-us-midterm-elections-warn-ex-spy-chiefs/107283800",
-    "publishedAt": "2026-11-01T18:34:05.000Z"
-  },
-  {
-    "id": "d0930d0ae299361a",
-    "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-    "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys.",
-    "category": "Science",
-    "source": "BBC Science",
-    "link": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo",
-    "publishedAt": "2026-11-01T18:04:52.000Z"
-  },
-  {
-    "id": "27679e7b1318086e",
-    "title": "Super funds issued with legal warning following regulator's damning report",
-    "summary": "Australia's corporate regulator is threatening legal action against super funds that do not step up to resolve complaints.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-02/superannuation-funds-failing-members-retirement-savings-asic/107319026",
-    "publishedAt": "2026-11-01T18:00:00.000Z"
-  },
-  {
-    "id": "1d6e68ff2f8db2fb",
-    "title": "The brutal redistribution at the heart of the RBA's interest rate policy",
-    "summary": "RBA officials argue the hit to borrowers' income isn't the main way rate rises lower inflation. But they often omit a key fact.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-02/brutal-redistribution-rba-interest-rate-policy/107333262",
-    "publishedAt": "2026-11-01T18:00:00.000Z"
-  },
-  {
-    "id": "8e5c93e289b687c2",
-    "title": "Thousands of public EV chargers may be unusable",
-    "summary": "Thousands of EV chargers are coming to power poles on residential streets, but data shared with the ABC suggests drivers may struggle to access them.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/science/2026-11-02/kerbside-electric-vehicle-ev-charger-rollout/107301990",
-    "publishedAt": "2026-11-01T18:00:00.000Z"
-  },
-  {
-    "id": "5fbb6b8edab9ff7b",
-    "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-    "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro",
-    "publishedAt": "2026-11-01T17:56:47.000Z"
-  },
-  {
-    "id": "dd60a5a8fd494621",
-    "title": "How Rachel Reeves has mapped out the economic agenda for Andy Burnham’s government",
-    "summary": "On Brexit, devolution and investment, the former chancellor is eerily in tune with the man who sacked her Reeves says UK’s future is in the EU Which senior politician has argued that “Brexit did deep damage” and that the government seeks “not to turn back the clock but to look toward a new and stable, future…",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
-    "publishedAt": "2026-11-01T17:47:42.000Z"
-  },
-  {
-    "id": "54eb2d4f6ba67efd",
-    "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-    "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo",
-    "publishedAt": "2026-11-01T17:06:32.000Z"
-  },
-  {
-    "id": "7d94bcf98e49beea",
-    "title": "University of Cambridge scientist among those who died in Spanish train crash",
-    "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o",
-    "publishedAt": "2026-11-01T17:05:18.000Z"
-  },
-  {
-    "id": "522a758e51d04317",
-    "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
-    "summary": "The broadband firm has not finalised numbers but it is likely be a sizeable chunk of staff, the BBC understands.",
-    "category": "Economy",
-    "source": "BBC Business",
-    "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko",
-    "publishedAt": "2026-11-01T16:57:14.000Z"
-  },
-  {
-    "id": "45a2fd2c6d141629",
-    "title": "At risk in-person postpartum mums' groups saved",
-    "summary": "The Happy Mums Foundation supports women experiencing postpartum mental health challenges.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cvglw35zjwkgo",
-    "publishedAt": "2026-11-01T16:15:11.000Z"
-  },
-  {
-    "id": "d695893b9e443160",
-    "title": "Cancer patients 'deteriorating' due to staff shortages, radiologists warn",
-    "summary": "North and west Wales have a 42% shortfall in consultant radiologists, compared to 22% in south Wales.",
-    "category": "Health",
-    "source": "BBC Health",
-    "link": "https://www.bbc.co.uk/news/articles/cmly0xle2rddo",
-    "publishedAt": "2026-11-01T14:49:36.000Z"
-  },
-  {
-    "id": "62a6fe77ed4f30c0",
-    "title": "Somali pirates seize Iranian fishing vessel, raising fears of attacks on cargo ships",
-    "summary": "Pirates could use the boat as a “mother ship” for attacks on commercial vessels.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/somali-pirates-seize-iranian-fishing-vessel-raising-fears-137745870",
-    "publishedAt": "2026-11-01T14:01:35.000Z"
   }
 ]
