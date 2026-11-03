@@ -1,5 +1,140 @@
 [
   {
+    "id": "c92dbf95bdb69708",
+    "title": "Mining giant joins fight to stop killer toad march across Australia",
+    "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo",
+    "publishedAt": "2026-11-03T15:05:01.000Z"
+  },
+  {
+    "id": "836f89ceb7e9345d",
+    "title": "Justice department funds research into gender dysphoria and violent crime in latest anti-trans effort",
+    "summary": "Experts say ‘very dangerous’ move diverts attention from violence driven by far-right extremist ideologies.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/doj-research-gender-dysphoria-violent-crime",
+    "publishedAt": "2026-11-03T15:00:22.000Z"
+  },
+  {
+    "id": "aae00d52e8ce2cc7",
+    "title": "What to know about the crisis around Poland's Constitutional Tribunal",
+    "summary": "Judges at Poland’s Constitutional Tribunal are meeting to decide its future after the court president was suspended in a dispute with the government.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/crisis-polands-constitutional-tribunal-137807738",
+    "publishedAt": "2026-11-03T14:58:47.000Z"
+  },
+  {
+    "id": "df1f4e1d302b8f27",
+    "title": "Flights across Europe hit by bomb threats that turned out to be hoaxes",
+    "summary": "Several flights across Europe received alleged bomb threats that ultimately turned out to be hoaxes but prompted searches, diversions and, in one case, an escort by the Italian Air Force until landing.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/flights-europe-hit-bomb-threats-turned-hoaxes-137808325",
+    "publishedAt": "2026-11-03T14:58:44.000Z"
+  },
+  {
+    "id": "412d1a14b8b92c72",
+    "title": "Libya's top religious authority rules against wearing Nike clothes",
+    "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no",
+    "publishedAt": "2026-11-03T14:56:46.000Z"
+  },
+  {
+    "id": "cd3d18b0d59ec7aa",
+    "title": "‘Well-known individual’ fails in bid for injunction against Guardian and ITN",
+    "summary": "Person’s anonymity remains in place subject to any appeal against high court decision.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/03/well-known-individual-fails-injunction-bid-guardian-itn",
+    "publishedAt": "2026-11-03T14:56:17.000Z"
+  },
+  {
+    "id": "e06487f1bbb5cd3d",
+    "title": "Paraguay seizes major digital bank tied to president, leaving millions in limbo",
+    "summary": "Paraguay’s central bank has seized a major digital bank with ties to President Santiago Pe&ntilde;a.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/paraguay-seizes-major-digital-bank-tied-president-leaving-137806474",
+    "publishedAt": "2026-11-03T14:34:24.000Z"
+  },
+  {
+    "id": "6756cd00b2f94c4c",
+    "title": "Reform UK councillor charged with 12 counts of rape",
+    "summary": "George Madgwick of Hampshire county council has been charged with a total of 35 offences.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/03/reform-uk-councillor-george-madgwick-charged-12-counts-rape",
+    "publishedAt": "2026-11-03T14:34:05.000Z"
+  },
+  {
+    "id": "aedb36a2c6a3e17d",
+    "title": "True crime novel about 1949 murder of Paris life model wins France’s biggest literary prize",
+    "summary": "Philippe Jaenada wins Prix Goncourt with novel that seeks to solve 77-year-old case and rehabilitates reputation of its victim.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/books/2026/nov/03/true-crime-novel-murdered-model-wins-france-literary-prize-prix-goncourt-philippe-jaenada",
+    "publishedAt": "2026-11-03T14:31:00.000Z"
+  },
+  {
+    "id": "00c521dfd3e5f930",
+    "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
+    "summary": "The banned UK group, which targets Israel's war machine, has inspired activists in Europe and beyond.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
+    "publishedAt": "2026-11-03T14:30:24.000Z"
+  },
+  {
+    "id": "f2b7af65fe4f1772",
+    "title": "Freezers of UK meat suppliers heat up after cyber-attacks in Europe",
+    "summary": "Cybersecurity experts say incidents had minimal effect but may represent the ‘foothills’ of a wider threat.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
+    "publishedAt": "2026-11-03T14:29:37.000Z"
+  },
+  {
+    "id": "6ae9996c27bd4741",
+    "title": "Four planes flying across Europe targeted by bomb threats",
+    "summary": "Flights from London, Manchester, Copenhagen and Israel affected but no explosives found after touchdown.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
+    "publishedAt": "2026-11-03T14:21:24.000Z"
+  },
+  {
+    "id": "4fd2b2d7ca106a3a",
+    "title": "US supreme court to hear arguments in Catholic preschools’ LGBTQ+ exclusion case",
+    "summary": "A decision could reshape the relationship between religious freedom and nondiscrimination laws in the US.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/lgbtq-catholic-public-preschool-supreme-court",
+    "publishedAt": "2026-11-03T14:17:52.000Z"
+  },
+  {
+    "id": "b00441961ffe1d9a",
+    "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
+    "summary": "Cold stores in supermarkets across Europe have been targeted in a cyberattack with no clear culprit.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss",
+    "publishedAt": "2026-11-03T14:17:29.000Z"
+  },
+  {
+    "id": "063babe16b1ea129",
+    "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
+    "summary": "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
+    "publishedAt": "2026-11-03T14:13:58.000Z"
+  },
+  {
     "id": "ff83ae7c925bff9d",
     "title": "Who is goalkeeper Jesus Owono and will he be punished after Miguel’s death?",
     "summary": "Andorra goalkeeper Jesus Owono is at the centre of a social media storm after the death of Tenerife's Jesus de Miguel.",
@@ -1213,140 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/03/kate-mcclymont-evidence-alan-jones-trial-ntwnfb",
     "publishedAt": "2026-11-03T00:30:57.000Z"
-  },
-  {
-    "id": "f1f696f097dae603",
-    "title": "Apple unsure when more foldable iPhones will be available after selling out",
-    "summary": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko",
-    "publishedAt": "2026-11-03T00:29:00.000Z"
-  },
-  {
-    "id": "29aaf9c15c93ccfa",
-    "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-    "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po",
-    "publishedAt": "2026-11-03T00:07:05.000Z"
-  },
-  {
-    "id": "8330bdd3be4d0a6b",
-    "title": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
-    "summary": "",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure",
-    "publishedAt": "2026-11-03T00:01:32.000Z"
-  },
-  {
-    "id": "d179642c95cc6690",
-    "title": "John Lewis Christmas ad stars Kristin Scott Thomas as glamorous granny on a gift hunt",
-    "summary": "",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/03/john-lewis-christmas-advert-kristin-scott-thomas-glamorous-granny-gift-hunt",
-    "publishedAt": "2026-11-03T00:01:32.000Z"
-  },
-  {
-    "id": "19309192feecb0fe",
-    "title": "British Airways lost my father’s vital life-saving machine",
-    "summary": "",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/03/british-airways-lost-my-fathers-vital-life-saving-machine",
-    "publishedAt": "2026-11-03T00:00:33.000Z"
-  },
-  {
-    "id": "3f5f6e21578f0936",
-    "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
-    "summary": "Hit hard by Trump's tariffs and the war on Iran, countries in the Asia-Pacific want 'enormous changes' in US policies.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
-    "publishedAt": "2026-11-02T23:41:18.000Z"
-  },
-  {
-    "id": "d4b687bdc321a042",
-    "title": "Trump’s DoJ charges six more people in ‘voter fraud’ crackdown in California",
-    "summary": "",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges",
-    "publishedAt": "2026-11-02T23:22:24.000Z"
-  },
-  {
-    "id": "5e01d9b6dc34ef5b",
-    "title": "Supreme court rules against Trump over bid to force California to set aside ballots",
-    "summary": "",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
-    "publishedAt": "2026-11-02T23:09:57.000Z"
-  },
-  {
-    "id": "5fde059d3dcbd5c6",
-    "title": "Apple posts stronger-than-expected revenue in first earnings report for new CEO John Ternus",
-    "summary": "",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
-    "publishedAt": "2026-11-02T23:07:49.000Z"
-  },
-  {
-    "id": "24c079a60f8be940",
-    "title": "Trump approval rating near record low on eve of US midterm elections: Poll",
-    "summary": "Only 32 percent of voters approve of Trump's job performance in the latest Reuters/Ipsos poll.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
-    "publishedAt": "2026-11-02T23:05:30.000Z"
-  },
-  {
-    "id": "454c92f00c5f9590",
-    "title": "Indonesia's toxic haze is giving its neighbours a political headache",
-    "summary": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o",
-    "publishedAt": "2026-11-02T23:02:01.000Z"
-  },
-  {
-    "id": "2c7741b9e13f03f9",
-    "title": "I was told I had anxiety but it turned out to be breast cancer",
-    "summary": "Beth Jenkins' cancer was initially missed after told she was \"too young\" to have the disease.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crgqwgp04e50o",
-    "publishedAt": "2026-11-02T23:00:07.000Z"
-  },
-  {
-    "id": "28d55b3e34c55016",
-    "title": "Do the Shetland Isles need Cold War-style military protection?",
-    "summary": "Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cjg47dq6q775o",
-    "publishedAt": "2026-11-02T22:45:57.000Z"
-  },
-  {
-    "id": "eb2207a14e5e30b4",
-    "title": "US midterms 2026: What polls reveal about Democratic, Republican voters",
-    "summary": "From the economy and cost of living to immigration, polls suggest where American voters agree and disagree.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss",
-    "publishedAt": "2026-11-02T22:40:06.000Z"
-  },
-  {
-    "id": "1a23cb7e41f6cae3",
-    "title": "‘A despicable betrayal’: Democrats incensed by Haley Stevens’s endorsement of Mike Rogers",
-    "summary": "",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
-    "publishedAt": "2026-11-02T22:34:48.000Z"
   }
 ]
