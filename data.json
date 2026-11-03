@@ -1,5 +1,113 @@
 [
   {
+    "id": "6ca3cb419aaae6a0",
+    "title": "DoJ tells Democrats in letters they could be targets of Alaska ballot investigation",
+    "summary": "Top election lawyer and lawmakers received notes over alleged scheme to confuse voters with two Dan Sullivans.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/doj-democrats-alaska-dan-sullivan-investigation-letters",
+    "publishedAt": "2026-11-03T22:12:53.000Z"
+  },
+  {
+    "id": "62afef8fff3655c8",
+    "title": "Spain's transport minister steps down 6 days after fatal high-speed rail crash",
+    "summary": "Spain’s transport minister announced his resignation following a deadly train collision south of Madrid that killed 69 people.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/spains-transport-minister-steps-6-days-after-fatal-137823144",
+    "publishedAt": "2026-11-03T22:10:29.000Z"
+  },
+  {
+    "id": "e339c8ca95fabe93",
+    "title": "One dead and another missing in suspected grizzly bear attack in Canada",
+    "summary": "The incident took place in the same province where a grizzly attacked a group of schoolchildren last November.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
+    "publishedAt": "2026-11-03T22:08:50.000Z"
+  },
+  {
+    "id": "87defb527a395383",
+    "title": "Haiti's prime minister Fils-Aimé speaks out as concerns over El Salvador's troops deepen",
+    "summary": "Haiti’s leader has spoken publicly for the first time since four Salvadoran aviation technicians went missing, prompting El Salvador to deploy more than 2,000 troops to the troubled Caribbean country as scrutiny over their operations intensifies.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/haitis-prime-minister-fils-aim-speaks-concerns-el-137821853",
+    "publishedAt": "2026-11-03T21:54:18.000Z"
+  },
+  {
+    "id": "5cff56835e47fdc4",
+    "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+    "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no",
+    "publishedAt": "2026-11-03T21:53:38.000Z"
+  },
+  {
+    "id": "f67edad8f850892f",
+    "title": "DoJ says Trump’s proposed 250ft arch would be completed after end of his term",
+    "summary": "Triumphal arch continues to face legal challenges as government says DC area project will take up to 39 months.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/doj-trump-arch-end-of-term",
+    "publishedAt": "2026-11-03T21:49:45.000Z"
+  },
+  {
+    "id": "0ae821a8353d42c6",
+    "title": "Americans head to polls in midterm elections seen as referendum on Trump",
+    "summary": "Control of the Senate and House of Representatives, both currently held by the Republicans, is at stake.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote",
+    "publishedAt": "2026-11-03T21:48:55.000Z"
+  },
+  {
+    "id": "356afbc924ed6ff9",
+    "title": "Spanish transport minister resigns after deadly train crash",
+    "summary": "Óscar Puente also announces his withdrawal from upcoming election following disaster that killed 69 people.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash",
+    "publishedAt": "2026-11-03T21:46:02.000Z"
+  },
+  {
+    "id": "7542c1a5aa2ee0ce",
+    "title": "Texans vote in most expensive Senate race in US history",
+    "summary": "Pivotal Texas race for US Senate breaks spending records, with $573.2m poured into Paxton and Talarico campaigns.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/texans-vote-in-most-expensive-senate-race-in-us-history?traffic_source=rss",
+    "publishedAt": "2026-11-03T21:41:53.000Z"
+  },
+  {
+    "id": "d9931a8b95debc08",
+    "title": "AI ‘godfather’ Geoffrey Hinton says it might turn out humans would have been better off without AI",
+    "summary": "Nobel winner who devised concept of neural network warns AI could be near to triggering major incident such as power or banking shutdown.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+    "publishedAt": "2026-11-03T21:35:42.000Z"
+  },
+  {
+    "id": "ca6f4bcfa7720dbf",
+    "title": "Investigators say they found tail pieces of Learjet that crashed in Florida, killing nine",
+    "summary": "National Transportation Safety Board says discovery of parts confirms plane was breaking apart before it crashed.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/florida-plane-crash-tail-pieces-discovered",
+    "publishedAt": "2026-11-03T21:31:49.000Z"
+  },
+  {
+    "id": "e549b369b37e63e8",
+    "title": "British lawyer Dapo Akande elected to UN top court in big diplomatic win",
+    "summary": "Akande joining the international court of justice comes a decade after previous British judge failed to get re-elected.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/law/2026/nov/03/british-lawyer-dapo-akande-elected-to-un-international-court-of-justice-diplomatic-win",
+    "publishedAt": "2026-11-03T21:09:39.000Z"
+  },
+  {
     "id": "7e8307d163c5f918",
     "title": "King Charles addresses summit as demands for slavery apology grow",
     "summary": "Speaking in Antigua, the king did not give explicit support for reparations but said he wanted to ‘address past wrongs’",
@@ -43,6 +151,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
     "publishedAt": "2026-11-03T20:30:06.000Z"
+  },
+  {
+    "id": "e89d2bc7ea392ea2",
+    "title": "Trump says US will stop $5.7b in aid to Israel in surprise announcement",
+    "summary": "Donald Trump has announced the US will cut funding to Israel in a move meant to take away a \"bad talking point\" from left-wing Democrats. Here's what to know about the US midterms today.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-04/us-midterms-daily-news-briefing/107340542",
+    "publishedAt": "2026-11-03T20:15:35.000Z"
   },
   {
     "id": "9d9d5ec0019db2e2",
@@ -169,6 +286,15 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-04/us-midterms-voting-underway-as-polls-bad-for-donald-trump/107339316",
     "publishedAt": "2026-11-03T17:58:51.000Z"
+  },
+  {
+    "id": "aa0d10c68021de4f",
+    "title": "Primark lacks fizz as it approaches its go-it-alone moment",
+    "summary": "After a profits dip, the chain’s demerger from its sister food company still makes sense but is unlikely to reveal tons of value.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/03/primark-lacks-fizz-approaches-go-it-alone-moment-nils-pratley",
+    "publishedAt": "2026-11-03T17:58:35.000Z"
   },
   {
     "id": "74d19b3565375a6a",
@@ -963,6 +1089,15 @@
     "publishedAt": "2026-11-03T11:51:08.000Z"
   },
   {
+    "id": "ce415c396fe1abd9",
+    "title": "Australia's highest court hears challenges to social media ban for children",
+    "summary": "Australia's highest court is hearing challenges to a law banning children younger than 16 from social media.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/australias-highest-court-hears-challenges-social-media-ban-137798339",
+    "publishedAt": "2026-11-03T11:46:26.000Z"
+  },
+  {
     "id": "622d4fdc0cb20a5d",
     "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
     "summary": "Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.",
@@ -1213,140 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/03/mogging-crowned-collins-word-of-the-year",
     "publishedAt": "2026-11-03T09:25:09.000Z"
-  },
-  {
-    "id": "b4ba3cc585362744",
-    "title": "UK and EU agree deal to remove Brexit checks on food and animal products",
-    "summary": "Agreement to ease rules on food imports and exports is expected to come into force in first quarter of 2028.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
-    "publishedAt": "2026-11-03T09:19:21.000Z"
-  },
-  {
-    "id": "d262b38c73f62379",
-    "title": "Sudan’s displaced return to new challenges in war-battered Khartoum",
-    "summary": "The capital was one of the first areas to be affected, and one of the worst hit, by the war between the SAF and the RSF.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/3/sudans-displaced-return-to-new-challenges-in-war-battered-khartoum?traffic_source=rss",
-    "publishedAt": "2026-11-03T09:18:48.000Z"
-  },
-  {
-    "id": "8c8f012d480bf70a",
-    "title": "Surging ICE raids shadow final weeks of California congressional race",
-    "summary": "Local organisations and representatives say immigration raids have spread fear and uncertainty through communities.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/surging-ice-raids-shadow-final-weeks-of-california-congressional-race?traffic_source=rss",
-    "publishedAt": "2026-11-03T09:13:49.000Z"
-  },
-  {
-    "id": "8f12545fa96d3736",
-    "title": "Cricket World Cup: India vs Pakistan gets more ticket requests than final",
-    "summary": "ICC receives 8.4 million ticket requests for 34,000 seats at the October 10, 2027 India-Pakistan match in Johannesburg.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/3/cricket-world-cup-india-vs-pakistan-gets-more-ticket-requests-than-final?traffic_source=rss",
-    "publishedAt": "2026-11-03T09:12:40.000Z"
-  },
-  {
-    "id": "aad821ded2b085fb",
-    "title": "Tenerife striker De Miguel dies after on-field collision",
-    "summary": "Tenerife forward Jesus de Miguel dies after suffering an on-field collision during a Spanish second-division match.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo",
-    "publishedAt": "2026-11-03T09:09:18.000Z"
-  },
-  {
-    "id": "5fde059d3dcbd5c6",
-    "title": "Apple warns of ‘unprecedented’ rise in memory chip prices",
-    "summary": "iPhone maker says decision to raise prices has offset some of impact, as revenues are stronger than expected.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
-    "publishedAt": "2026-11-03T09:01:19.000Z"
-  },
-  {
-    "id": "91f7d18146349db7",
-    "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
-    "summary": "A watchdog has criticised the lack of progress made by organisations in tackling climate change.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o",
-    "publishedAt": "2026-11-03T08:57:20.000Z"
-  },
-  {
-    "id": "bb4570f31f243c74",
-    "title": "Promising new HIV-prevention drug is hard to find where it's most needed",
-    "summary": "Experts say that a promising drug that offers complete protection against HIV and requires only two shots a year isn't getting to enough people.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/promising-new-hiv-prevention-drug-hard-find-needed-137799098",
-    "publishedAt": "2026-11-03T08:42:27.000Z"
-  },
-  {
-    "id": "8f2174160af80342",
-    "title": "US has conducted defensive strikes on Iranian targets in the Strait of Hormuz, US official says",
-    "summary": "A U.S. official says the U.S. has conducted defensive strikes on some Iranian targets in the Strait of Hormuz.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/things-stand-iran-after-tense-weekend-137762946",
-    "publishedAt": "2026-11-03T08:42:22.000Z"
-  },
-  {
-    "id": "5527979fd572405e",
-    "title": "Australia seeks to change visa deal with UK after influx of Britons",
-    "summary": "Australia says easing of rules has led to surge in British visitor numbers, putting pressure on local workforce.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/03/australia-seeks-to-change-visa-deal-uk",
-    "publishedAt": "2026-11-03T08:36:41.000Z"
-  },
-  {
-    "id": "bd00c40b174e0d2e",
-    "title": "North Korea denies being behind record $6.3bn Binance hack",
-    "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
-    "publishedAt": "2026-11-03T08:33:20.000Z"
-  },
-  {
-    "id": "851a1371a4a477c6",
-    "title": "FIFA to share documents related to World Cup sell-off plan",
-    "summary": "FIFA Council members may view documents related to Gianni Infantino's doomed plan, but only in person in Zurich.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/3/fifa-to-share-documents-related-to-world-cup-sell-off-plan?traffic_source=rss",
-    "publishedAt": "2026-11-03T08:27:20.000Z"
-  },
-  {
-    "id": "df452a371d860159",
-    "title": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings",
-    "summary": "Up to 25% of 16,000 workforce could go as telecoms group says it will increase use of AI in areas including customer service.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/03/virgin-media-o2-cut-jobs-cost-savings-telecoms-ai",
-    "publishedAt": "2026-11-03T08:21:45.000Z"
-  },
-  {
-    "id": "a7aa8a86d0231345",
-    "title": "Helicopters collide below Mount Everest base camp, killing 1 person and injuring 2",
-    "summary": "Two helicopters have collided while trying to land just below Mount Everest’s base camp.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/helicopters-collide-below-mount-everest-base-camp-killing-137796728",
-    "publishedAt": "2026-11-03T08:19:15.000Z"
-  },
-  {
-    "id": "9994823c36ba53ed",
-    "title": "European troops prepare for a postwar Ukraine mission that's fraught with challenges",
-    "summary": "Thousands of European troops are set to participate in a military exercise in Poland later this month.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/european-troops-prepare-postwar-ukraine-mission-fraught-challenges-137797096",
-    "publishedAt": "2026-11-03T08:16:28.000Z"
   }
 ]
