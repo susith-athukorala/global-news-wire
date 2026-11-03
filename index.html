@@ -135,7 +135,7 @@
     .mk-empty { font-size: 0.8rem; color: var(--muted); padding: 12px 0; }
     .mk-caption { font-size: 0.72rem; color: var(--muted); padding: 0 0 8px; }
     .mk-caption .wrap { display: flex; flex-wrap: wrap; gap: 2px 18px; }
-    @media (min-width: 900px) {
+    @media (min-width: 600px) {
       .markets .wrap { flex-wrap: wrap; overflow: visible; }
     }
 
@@ -165,7 +165,7 @@
       position: sticky; top: 0; z-index: 5; background: var(--bg);
       border-bottom: 1px solid var(--rule);
     }
-    .sections .wrap { display: flex; gap: 4px; overflow-x: auto; }
+    .sections .wrap { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: thin; }
     .tab {
       font: inherit; font-size: 0.92rem; font-weight: 500; color: var(--muted);
       background: none; border: 0; border-bottom: 2px solid transparent;
@@ -287,7 +287,7 @@
     <div class="wrap">
       <p>Headlines and short excerpts come from each publisher's public RSS feed. Opinion, live blogs and video are left out. Read the full report at the source.</p>
       <p>Exchange rates are daily mid-market rates. <a href="https://www.exchangerate-api.com" rel="noopener">Rates By Exchange Rate API</a>.
-         Oil prices are daily spot prices from the <a href="https://www.eia.gov/dnav/pet/pet_pri_spt_s1_d.htm" rel="noopener">U.S. Energy Information Administration</a>, via <a href="https://fred.stlouisfed.org" rel="noopener">FRED</a>, and run one trading day behind.</p>
+         Oil prices are daily spot prices from the <a href="https://www.eia.gov/dnav/pet/pet_pri_spt_s1_d.htm" rel="noopener">U.S. Energy Information Administration</a>, via <a href="https://fred.stlouisfed.org" rel="noopener">FRED</a>. The EIA publishes them once a week, so the latest price can be up to about a week old.</p>
       <p>Not financial advice. Copyright in the original reporting belongs to each publisher.</p>
     </div>
   </footer>
@@ -408,7 +408,7 @@
         var asOf = (oil.brent && oil.brent.date) || (oil.wti && oil.wti.date);
         if (oilItems) {
           html += '<div class="mk-group" role="group" aria-label="Oil prices">' + oilItems + '</div>';
-          captions.push('<span>Oil: US$ per barrel, spot price as of ' + esc(shortDate(asOf)) + '</span>');
+          captions.push('<span>Oil: US$ per barrel, EIA spot price for ' + esc(shortDate(asOf)) + ' (published weekly)</span>');
         }
       }
 
