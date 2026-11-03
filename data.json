@@ -1,5 +1,50 @@
 [
   {
+    "id": "7e8307d163c5f918",
+    "title": "King Charles addresses summit as demands for slavery apology grow",
+    "summary": "Speaking in Antigua, the king did not give explicit support for reparations but said he wanted to ‘address past wrongs’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/03/king-charles-commonwealth-summit-campaigners-apology-slavery",
+    "publishedAt": "2026-11-03T21:09:21.000Z"
+  },
+  {
+    "id": "aac4eb69dd420744",
+    "title": "Minneapolis community leave ‘I Voted’ stickers at Alex Pretti’s memorial site",
+    "summary": "Residents are sending a clear message about the violent deportations taking place across the country during this midterm cycle.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/minneapolis-i-voted-stickers-alex-pretti-memorial",
+    "publishedAt": "2026-11-03T21:05:52.000Z"
+  },
+  {
+    "id": "9e47d7a0fc3a62e8",
+    "title": "Rural health board shake-up opposed as locals fight cuts to hospital beds",
+    "summary": "The plans would see inpatient beds reduced from 146 to either 90 or 60 in the county.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5ev3mkjvzrwo",
+    "publishedAt": "2026-11-03T21:01:00.000Z"
+  },
+  {
+    "id": "a16314a2c701d2e4",
+    "title": "Spanish transport minister resigns days after deadly train crash",
+    "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo",
+    "publishedAt": "2026-11-03T20:56:32.000Z"
+  },
+  {
+    "id": "015960caa3ded74c",
+    "title": "Google says there’s no way to use Search without using artificial intelligence",
+    "summary": "In announcement geared to schools, tech giant showed how entwined AI is with the world’s most popular website.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
+    "publishedAt": "2026-11-03T20:30:06.000Z"
+  },
+  {
     "id": "9d9d5ec0019db2e2",
     "title": "Andy Burnham to unveil EU trade deals worth billions of pounds",
     "summary": "Agriculture, youth visas and emissions agreements nearly tied up under PM’s plan for a much closer relationship with Brussels.",
@@ -54,6 +99,15 @@
     "publishedAt": "2026-11-03T19:13:49.000Z"
   },
   {
+    "id": "bfa8c6422aa3779b",
+    "title": "See live results from the 2026 US midterm elections",
+    "summary": "Follow the results of the 2026 US midterm elections and who controls the House and Senate, updated as races are called.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-04/us-midterm-election-results-2026/107235570",
+    "publishedAt": "2026-11-03T19:10:18.000Z"
+  },
+  {
     "id": "a6ce9c61499416fd",
     "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
     "summary": "Yemeni interior minister says foreign involvement expanded beyond arms and training to directing military operations.",
@@ -106,6 +160,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/03/inquiry-sexual-harassment-claims-lib-dem-peer-chris-rennard",
     "publishedAt": "2026-11-03T18:03:07.000Z"
+  },
+  {
+    "id": "2dc83925847c94cb",
+    "title": "Democrats firm up as narrow favourites to win control of both houses",
+    "summary": "Democrats have firmed up as narrow favourites to win control of both houses of the US Congress in today's midterm elections, according to the US's top political forecasters.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-04/us-midterms-voting-underway-as-polls-bad-for-donald-trump/107339316",
+    "publishedAt": "2026-11-03T17:58:51.000Z"
   },
   {
     "id": "74d19b3565375a6a",
@@ -594,6 +657,15 @@
     "publishedAt": "2026-11-03T14:02:00.000Z"
   },
   {
+    "id": "d758a459ebc4c2d1",
+    "title": "Ticket sellers, Virgin flight credits and a 25-hour laundry cycle: meet Choice’s 2026 Shonky award winners",
+    "summary": "Australia’s worst products and services for the year have been named by consumer advocacy group Choice.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/04/choice-2026-shonky-awards-virgin-ticketmaster-hisense-sony",
+    "publishedAt": "2026-11-03T14:00:46.000Z"
+  },
+  {
     "id": "9fa876a0c1e3cda1",
     "title": "Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend",
     "summary": "Exclusive: Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government.",
@@ -664,6 +736,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo",
     "publishedAt": "2026-11-03T13:28:30.000Z"
+  },
+  {
+    "id": "be4ff52240ffa6e7",
+    "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
+    "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
+    "publishedAt": "2026-11-03T13:26:19.000Z"
   },
   {
     "id": "5f0831ce652e3ef6",
@@ -990,6 +1071,15 @@
     "publishedAt": "2026-11-03T10:50:21.000Z"
   },
   {
+    "id": "e5d34e203df3999a",
+    "title": "Craig Silvey pens 9,000-word apology for child exploitation material offences",
+    "summary": "The children’s author claims he experienced trauma in childhood as he begins seven-month sentence for possessing depraved material.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/03/i-am-deeply-sorry-craig-silvey-pens-9000-word-apology-for-child-exploitation-material-offences-ntwnfb",
+    "publishedAt": "2026-11-03T10:47:41.000Z"
+  },
+  {
     "id": "46aadf3e164d784a",
     "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
     "summary": "With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.",
@@ -1258,95 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/european-troops-prepare-postwar-ukraine-mission-fraught-challenges-137797096",
     "publishedAt": "2026-11-03T08:16:28.000Z"
-  },
-  {
-    "id": "ce415c396fe1abd9",
-    "title": "Australia's highest court hears challenges to social media ban for children",
-    "summary": "Australia's highest court is hearing challenges to a law banning children younger than 16 from social media.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/australias-highest-court-hears-challenges-social-media-ban-137798339",
-    "publishedAt": "2026-11-03T08:14:29.000Z"
-  },
-  {
-    "id": "c9261f10df0cf000",
-    "title": "Henry Nowak ‘would have hated’ riots after his murder, says family",
-    "summary": "Parents of teenager stabbed in Southampton last year hit out at political ‘game’ played with son’s murder.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/03/henry-nowak-would-have-hated-riots-after-his-murder-his-says-family",
-    "publishedAt": "2026-11-03T08:14:25.000Z"
-  },
-  {
-    "id": "75871cc5d414da93",
-    "title": "Suspected militants kill 2 police officers guarding polio workers in Pakistan",
-    "summary": "Suspected militants have shot and killed two police officers protecting polio workers during a vaccination campaign in northwestern Pakistan.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/suspected-militants-open-fire-kill-2-police-officers-137798218",
-    "publishedAt": "2026-11-03T08:12:55.000Z"
-  },
-  {
-    "id": "d179642c95cc6690",
-    "title": "John Lewis Christmas ad stars Kristin Scott Thomas as glamorous granny on a gift hunt",
-    "summary": "Company tugs at heartstrings with Pickles the talking toy dog as it celebrates 20 years of blockbuster festive ads.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/03/john-lewis-christmas-advert-kristin-scott-thomas-glamorous-granny-gift-hunt",
-    "publishedAt": "2026-11-03T08:12:44.000Z"
-  },
-  {
-    "id": "8671be621ae4a58b",
-    "title": "Major Queensland hospital to close pathology labs amid potential formaldehyde exposure investigation",
-    "summary": "About 400 staff affected by closure at both Mater’s Brisbane and Springfield hospitals, with financial sustainability of pathology business a factor.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/03/major-queensland-hospital-to-close-pathology-labs-amid-potential-formaldehyde-exposure-investigation",
-    "publishedAt": "2026-11-03T08:11:08.000Z"
-  },
-  {
-    "id": "0ea177632a526b26",
-    "title": "Law behind Bonfire Night among records sent from parliament to National Archives",
-    "summary": "Collection gems include 1605 Thanksgiving Act passed after Guy Fawkes’s failure and the longest act in the archives.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/03/law-behind-bonfire-night-among-records-sent-from-parliament-to-national-archives",
-    "publishedAt": "2026-11-03T08:00:41.000Z"
-  },
-  {
-    "id": "28218a29216599f7",
-    "title": "Major test for Australia's social media ban begins in High Court",
-    "summary": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo",
-    "publishedAt": "2026-11-03T07:53:38.000Z"
-  },
-  {
-    "id": "f061bb9311cdc053",
-    "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
-    "summary": "The men and women who rummage through commercial bins to take clothes and other items.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno",
-    "publishedAt": "2026-11-03T07:50:14.000Z"
-  },
-  {
-    "id": "19b7992fc9f9ba11",
-    "title": "RBA interest rates: Bullock says ‘pain now’ will prevent worse later as Reserve Bank hikes rates for fifth time",
-    "summary": "Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
-    "publishedAt": "2026-11-03T07:36:42.000Z"
-  },
-  {
-    "id": "ac42f4b11afcffbe",
-    "title": "Why a US-Russia showdown left Morocco celebrating",
-    "summary": "An impasse between the US and Russia at the UN means its peacekeeping mission in Western Sahara has ended after 35 years.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro",
-    "publishedAt": "2026-11-03T07:29:46.000Z"
   }
 ]
