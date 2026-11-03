@@ -1,5 +1,113 @@
 [
   {
+    "id": "b6d0ef459ae716b4",
+    "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
+    "summary": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo",
+    "publishedAt": "2026-11-03T17:07:28.000Z"
+  },
+  {
+    "id": "cb51670134340b73",
+    "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
+    "summary": "Survivors of attacks on displacement camps in Darfur recall the lives they built, and violence that forced them to flee.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
+    "publishedAt": "2026-11-03T17:03:24.000Z"
+  },
+  {
+    "id": "dc7333a3409a9f53",
+    "title": "Officials investigate fire at Mississippi police department tied to fatal shooting of Black toddler",
+    "summary": "Person arrested after fire broke out at police department where officer who shot and killed one-year-old Kohen Wiley previously worked.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/mississippi-police-department-fire-kohen-wiley",
+    "publishedAt": "2026-11-03T17:02:21.000Z"
+  },
+  {
+    "id": "fa67b8a295da8dac",
+    "title": "No babies to be born at hospital from end of November",
+    "summary": "A pregnant woman is to lodge Judicial Review papers to attempt to delay the implementation of the plan.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq4g1ddw2k0po",
+    "publishedAt": "2026-11-03T16:58:26.000Z"
+  },
+  {
+    "id": "c3948cfa6c39cec3",
+    "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
+    "summary": "With neither bloc near a majority, Arab and ultra-Orthodox parties hold the key to Israel’s next government..",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss",
+    "publishedAt": "2026-11-03T16:49:10.000Z"
+  },
+  {
+    "id": "de6af99731740552",
+    "title": "Keeping mortgage interest relief approved",
+    "summary": "Homeowners can get tax relief of £3,500 on the money spent on the interstate of a mortgage.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgj0ljx01jo",
+    "publishedAt": "2026-11-03T16:44:20.000Z"
+  },
+  {
+    "id": "495b4219ed373aab",
+    "title": "Primark brings forward home deliveries plan by two years after profits slide",
+    "summary": "Retailer acquires robot-assisted warehouse and intends to have UK service up and running before end of 2027.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/03/primark-brings-forward-home-deliveries-plan-by-two-years-after-profits-slide",
+    "publishedAt": "2026-11-03T16:40:18.000Z"
+  },
+  {
+    "id": "e47b36e2919a1ed0",
+    "title": "Opposition party organiser killed before South Africa elections",
+    "summary": "Police are investigating the motive in murder of MKP coordinator as political killings rise during municipal elections.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss",
+    "publishedAt": "2026-11-03T16:39:00.000Z"
+  },
+  {
+    "id": "0033cbd4734d63a5",
+    "title": "Snap and crackle but no pop: Rice Krispies reformulated due to lack of rice",
+    "summary": "Kellogg’s substitutes ingredient with rice flour, as climate crisis affects availability of some grains.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/food/2026/nov/03/kelloggs-rice-krispies-coco-pops-reformulated-rice-shortage",
+    "publishedAt": "2026-11-03T16:23:48.000Z"
+  },
+  {
+    "id": "808b413ef91df462",
+    "title": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
+    "summary": "Ukrainian president meets German chancellor in Berlin, who says Russia is yet to engage seriously in peace efforts.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
+    "publishedAt": "2026-11-03T16:22:15.000Z"
+  },
+  {
+    "id": "658c1e16c7a40e83",
+    "title": "Jury in Russell Brand rape and sexual assault trial retires to consider verdicts",
+    "summary": "Judge tells jurors he will be able to accept only a unanimous decision on seven charges against the comedian.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/03/jury-russel-brand-rape-sexual-assault-trial-retires-consider-verdicts",
+    "publishedAt": "2026-11-03T16:19:33.000Z"
+  },
+  {
+    "id": "9637d6a4f4db408d",
+    "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+    "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o",
+    "publishedAt": "2026-11-03T16:19:29.000Z"
+  },
+  {
     "id": "6b11035b92127740",
     "title": "King Charles speaks to world leaders in Antigua, expresses 'sorrow' over slave trade",
     "summary": "King Charles III has called the transatlantic slave trade a “shameful chapter of history” during a speech at the official opening of the Commonwealth Heads of Government Meeting in Antigua.",
@@ -288,6 +396,15 @@
     "publishedAt": "2026-11-03T13:55:47.000Z"
   },
   {
+    "id": "5904df709278e703",
+    "title": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+    "summary": "Strikes on eve of US midterms reportedly target surface-to-air missiles being used against US assets.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
+    "publishedAt": "2026-11-03T13:52:34.000Z"
+  },
+  {
     "id": "910f3e15b2ad8b15",
     "title": "Federal judge dismisses Trump lawsuit seeking Harvard admissions data",
     "summary": "Demand for individual applicant records as part of purported civil rights review fails on procedural grounds.",
@@ -477,6 +594,15 @@
     "publishedAt": "2026-11-03T12:30:04.000Z"
   },
   {
+    "id": "8eb8876b84d09db9",
+    "title": "Russia bombs humanitarian hub in Ukraine, killing at least 31 people",
+    "summary": "Other overnight strikes targeted power plants across Ukraine, damaged hospitals and wounded scores of people.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
+    "publishedAt": "2026-11-03T12:25:07.000Z"
+  },
+  {
     "id": "7f24926b7b5d8459",
     "title": "Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply",
     "summary": "Renewed strikes on Black Sea shipping imperil grain exports, drive up food prices and deepen global food insecurity.",
@@ -502,6 +628,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno",
     "publishedAt": "2026-11-03T12:09:20.000Z"
+  },
+  {
+    "id": "640cf68696f2735d",
+    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+    "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
+    "publishedAt": "2026-11-03T12:07:59.000Z"
   },
   {
     "id": "720961d9f7472dbd",
@@ -819,6 +954,15 @@
     "publishedAt": "2026-11-03T08:36:41.000Z"
   },
   {
+    "id": "bd00c40b174e0d2e",
+    "title": "North Korea denies being behind record $6.3bn Binance hack",
+    "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
+    "publishedAt": "2026-11-03T08:33:20.000Z"
+  },
+  {
     "id": "851a1371a4a477c6",
     "title": "FIFA to share documents related to World Cup sell-off plan",
     "summary": "FIFA Council members may view documents related to Gianni Infantino's doomed plan, but only in person in Zurich.",
@@ -907,6 +1051,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo",
     "publishedAt": "2026-11-03T07:53:38.000Z"
+  },
+  {
+    "id": "f061bb9311cdc053",
+    "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+    "summary": "The men and women who rummage through commercial bins to take clothes and other items.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno",
+    "publishedAt": "2026-11-03T07:50:14.000Z"
   },
   {
     "id": "ac42f4b11afcffbe",
@@ -1195,158 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/freezers-supermarkets-european-countries-hit-apparent-cyberattacks-137765494",
     "publishedAt": "2026-11-03T05:38:15.000Z"
-  },
-  {
-    "id": "ecfdf049824f9942",
-    "title": "Peacock found in couple’s Brisbane bathroom leads to creative bid to reunite bird with tattoo artist",
-    "summary": "Geoff and Delwyn Ballantyne went out for an evening coffee. When they returned they found Hex admiring himself in the mirror.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/03/hex-the-peacock-found-in-brisbane-bathroom",
-    "publishedAt": "2026-11-03T05:32:30.000Z"
-  },
-  {
-    "id": "318d7717b68a4e61",
-    "title": "‘Going hungry’: Garment workers in Bangladesh say wages barely cover needs",
-    "summary": "Tens of thousands of workers in world's second-largest apparel exporter hit the streets to demand better minimum wages.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs?traffic_source=rss",
-    "publishedAt": "2026-11-03T05:27:56.000Z"
-  },
-  {
-    "id": "4678b81fef2853f5",
-    "title": "California’s Bay Area debates data centres ahead of US midterm elections",
-    "summary": "At least seven Bay Area cities have passed data centre moratoriums, despite the region's reputation as an AI hub.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/californias-bay-area-debates-data-centres-ahead-of-us-midterm-elections?traffic_source=rss",
-    "publishedAt": "2026-11-03T05:13:42.000Z"
-  },
-  {
-    "id": "86d7efb15b417500",
-    "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
-    "summary": "Nearly 1,600 Palestinians have been killed in Gaza since a US-brokered 'ceasefire' took effect in October last year.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds?traffic_source=rss",
-    "publishedAt": "2026-11-03T05:02:34.000Z"
-  },
-  {
-    "id": "481bef6dd22e27a5",
-    "title": "Americans head to the polls for elections that could define Trump's closing chapter",
-    "summary": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro",
-    "publishedAt": "2026-11-03T05:00:43.000Z"
-  },
-  {
-    "id": "f784b1170672f175",
-    "title": "UK job satisfaction at record low amid rising frustration over pay and flexible working",
-    "summary": "Resolution Foundation study finds workers are less willing to go ‘above and beyond for employers than a decade ago’",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/03/uk-job-satisfaction-record-low-frustration-pay-flexible-working-insecure-employment",
-    "publishedAt": "2026-11-03T05:00:39.000Z"
-  },
-  {
-    "id": "7087feb9cdbfdc2b",
-    "title": "‘It brings soul into this sterile world’: the Birmingham clubbers fighting to save their patch – and Britain’s nightlife",
-    "summary": "Digbeth is the city’s most thriving party district, but railway upgrades could tear it apart. Here, clubbers explain why they are doing everything to stop that happening.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/nov/03/birmingham-clubbers-fighting-to-save-britain-nightlife-digbeth",
-    "publishedAt": "2026-11-03T05:00:39.000Z"
-  },
-  {
-    "id": "715dcabbab21b76c",
-    "title": "What time do polls open and close in the US midterm elections 2026?",
-    "summary": "The first polls are set to open in Vermont at 5am (10:00 GMT).",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/what-time-do-polls-open-and-close-in-the-us-midterm-elections-2026?traffic_source=rss",
-    "publishedAt": "2026-11-03T04:52:08.000Z"
-  },
-  {
-    "id": "f7c68dca7a25721e",
-    "title": "UK to double wait for permanent residency, with exemptions for care workers",
-    "summary": "Under new rules, most workers will have to wait 10 years to settle in the UK, but higher earners can qualify sooner.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/uk-to-double-wait-for-permanent-residency-with-exemptions-for-care-workers?traffic_source=rss",
-    "publishedAt": "2026-11-03T04:48:45.000Z"
-  },
-  {
-    "id": "1ca5c776959f7a62",
-    "title": "US midterms present a test for Republican redistricting in Texas and beyond",
-    "summary": "Partisan redistricting has transformed elections for Black voters in Houston as Democrats seek new pathways to victory.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/us-midterms-present-a-test-for-republican-redistricting-in-texas-and-beyond?traffic_source=rss",
-    "publishedAt": "2026-11-03T04:39:59.000Z"
-  },
-  {
-    "id": "c442a2886f6913db",
-    "title": "Israeli forces release Al Jazeera journalist in occupied West Bank",
-    "summary": "Al Jazeera correspondent Montaser Nassar released hours after being arrested at his home in Dura, near Hebron.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-arrest-al-jazeera-journalist-in-raid-on-his-west-bank-home?traffic_source=rss",
-    "publishedAt": "2026-11-03T04:25:16.000Z"
-  },
-  {
-    "id": "0ab6fa3d82e22467",
-    "title": "El-Sayed, Rogers hold dueling rallies as bitter campaign comes to a close",
-    "summary": "The events come as Haley Stevens opined on why she withdrew support for the US Senate Democratic nominee.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/el-sayed-rogers-hold-dueling-rallies-as-bitter-campaign-comes-to-a-close?traffic_source=rss",
-    "publishedAt": "2026-11-03T04:15:08.000Z"
-  },
-  {
-    "id": "f47b606c6497291e",
-    "title": "What another rate hike means for your mortgage, savings and travel",
-    "summary": "Mortgage borrowers are likely to feel the sting of the RBA's latest cash rate rise, but savers and overseas travellers will also see the effects.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-03/what-november-cash-rate-hike-means-for-australians-money/107324538",
-    "publishedAt": "2026-11-03T03:52:26.000Z"
-  },
-  {
-    "id": "27a620f67ac8e6f3",
-    "title": "US strikes Iran ahead of midterm elections",
-    "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
-    "publishedAt": "2026-11-03T03:39:08.000Z"
-  },
-  {
-    "id": "784823ca0a811932",
-    "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-    "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko",
-    "publishedAt": "2026-11-03T03:32:36.000Z"
-  },
-  {
-    "id": "19b7992fc9f9ba11",
-    "title": "RBA interest rates: Reserve Bank hikes cash rate for fifth time this year in blow to mortgage holders",
-    "summary": "Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
-    "publishedAt": "2026-11-03T03:30:59.000Z"
-  },
-  {
-    "id": "d3d8fa24fa325189",
-    "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
-    "summary": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo",
-    "publishedAt": "2026-11-03T03:30:16.000Z"
   }
 ]
