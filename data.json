@@ -1,5 +1,14 @@
 [
   {
+    "id": "c63c889fdc47dad9",
+    "title": "First Thing: US goes to polls in vote that will define the last years of Trump’s presidency",
+    "summary": "Democrats are hoping to seize control in the capitol and rein in the president’s power. Plus, a peacock that loves admiring itself in the mirror a little too much.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/first-thing-us-polls-vote-define-last-years-donald-trump-presidency",
+    "publishedAt": "2026-11-03T12:10:06.000Z"
+  },
+  {
     "id": "720961d9f7472dbd",
     "title": "UK’s most polluting power plant could power country’s largest AI datacentre",
     "summary": "Drax’s FTSE 250 owner strikes £20bn deal to build infrastructure in what it says is site’s ‘next chapter’",
@@ -7,6 +16,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
     "publishedAt": "2026-11-03T11:55:28.000Z"
+  },
+  {
+    "id": "3af2f109bf6fcd1e",
+    "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+    "summary": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o",
+    "publishedAt": "2026-11-03T11:51:08.000Z"
   },
   {
     "id": "622d4fdc0cb20a5d",
@@ -376,6 +394,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
     "publishedAt": "2026-11-03T07:27:21.000Z"
+  },
+  {
+    "id": "be4ff52240ffa6e7",
+    "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+    "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
+    "publishedAt": "2026-11-03T07:24:12.000Z"
   },
   {
     "id": "c3da8629295715ce",
@@ -1321,32 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
     "publishedAt": "2026-11-02T19:11:37.000Z"
-  },
-  {
-    "id": "ff30951d53889612",
-    "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
-    "summary": "",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
-    "publishedAt": "2026-11-02T19:07:40.000Z"
-  },
-  {
-    "id": "efe8a892d454078c",
-    "title": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
-    "summary": "California says any move to block ballots from suspected noncitizens could disenfranchise eligible voters.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss",
-    "publishedAt": "2026-11-02T19:06:52.000Z"
-  },
-  {
-    "id": "81949b5b21f90c9a",
-    "title": "Shabana Mahmood softens immigration plans in face of cabinet backlash",
-    "summary": "",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/02/shabana-mahmood-softens-immigration-plans-cabinet-backlash-leave-to-remain",
-    "publishedAt": "2026-11-02T19:06:40.000Z"
   }
 ]
