@@ -1,5 +1,32 @@
 [
   {
+    "id": "cc6d5c271c5b9422",
+    "title": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
+    "summary": "Abdul El-Sayed hopes to become the first Muslim US senator as Michigan's Senate race reaches its critical final hours.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
+    "publishedAt": "2026-11-03T19:13:49.000Z"
+  },
+  {
+    "id": "a6ce9c61499416fd",
+    "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
+    "summary": "Yemeni interior minister says foreign involvement expanded beyond arms and training to directing military operations.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
+    "publishedAt": "2026-11-03T19:09:09.000Z"
+  },
+  {
+    "id": "5d2cdd8508318a88",
+    "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
+    "summary": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in June.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
+    "publishedAt": "2026-11-03T19:00:23.000Z"
+  },
+  {
     "id": "c77c76c80710265c",
     "title": "Latest Sarah J Maas book becomes UK’s fastest-selling adult fantasy novel",
     "summary": "A Court of Splintered Harmony also records biggest single week of sales since Harper Lee’s Go Set a Watchman in 2015.",
@@ -909,6 +936,15 @@
     "publishedAt": "2026-11-03T10:53:09.000Z"
   },
   {
+    "id": "8e2ee5cec343743b",
+    "title": "After months lost at sea on a small boat, 5 people are rescued in the island nation of Kiribati",
+    "summary": "Authorities say five people, including two children, have been rescued in the South Pacific island nation of Kiribati after three months drifting at sea in a 20-foot skiff.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/authorities-5-people-rescued-kiribati-after-3-months-137797186",
+    "publishedAt": "2026-11-03T10:50:21.000Z"
+  },
+  {
     "id": "46aadf3e164d784a",
     "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
     "summary": "With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.",
@@ -1312,41 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote",
     "publishedAt": "2026-11-03T07:00:43.000Z"
-  },
-  {
-    "id": "185540b30fea1e16",
-    "title": "Poundland staff could be out of work for years if retailer collapses, founder says",
-    "summary": "Steve Smith calls on owners to accept proposed buyout as 12,000 staff face uncertain future in run-up to Christmas.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/03/poundland-staff-out-of-work-for-years-warning-founder",
-    "publishedAt": "2026-11-03T07:00:42.000Z"
-  },
-  {
-    "id": "1cb5fd6b39ac7203",
-    "title": "‘This is direct’: positive early feedback from pilot community mental health hub in Cumbria",
-    "summary": "Hope Haven in Whitehaven is one of six trial open-access, 24/7 schemes in England offering preventive care.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/03/early-feedback-pilot-community-mental-health-hub-cumbria-whitehaven",
-    "publishedAt": "2026-11-03T07:00:41.000Z"
-  },
-  {
-    "id": "dae536558646bc01",
-    "title": "UK MPs could undergo criminal record checks to stop violence against women",
-    "summary": "Exclusive: Members may be vetted before getting security passes for parliament, and receive anti-harassment training.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/03/uk-mps-criminal-record-checks-violence-against-women",
-    "publishedAt": "2026-11-03T07:00:40.000Z"
-  },
-  {
-    "id": "d5af100e464537cc",
-    "title": "Australia’s High Court hears bid to overturn under-16s social media ban",
-    "summary": "Online giant Reddit and advocacy group Digital Freedom Project argue ban is unconstitutional.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/australias-high-court-hears-bid-to-overturn-under-16s-social-media-ban?traffic_source=rss",
-    "publishedAt": "2026-11-03T06:59:20.000Z"
   }
 ]
