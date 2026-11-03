@@ -1,5 +1,50 @@
 [
   {
+    "id": "9d9d5ec0019db2e2",
+    "title": "Andy Burnham to unveil EU trade deals worth billions of pounds",
+    "summary": "Agriculture, youth visas and emissions agreements nearly tied up under PM’s plan for a much closer relationship with Brussels.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
+    "publishedAt": "2026-11-03T20:00:13.000Z"
+  },
+  {
+    "id": "d1bc2bd679cbe117",
+    "title": "Nasa telescope launched in 2004 to plunge back to Earth after failed rescue mission",
+    "summary": "Neil Gehrels Swift Observatory is expected to re-enter Earth’s atmosphere Wednesday, burning up in the process.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory",
+    "publishedAt": "2026-11-03T19:50:27.000Z"
+  },
+  {
+    "id": "668393313fb00306",
+    "title": "Convicted murderer who escaped from Tennessee prison captured in Missouri",
+    "summary": "Jacob Morley, serving a life sentence for killing a co-worker, slipped through a prison fence last week.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/jacob-morley-tennessee-prisoner-capture",
+    "publishedAt": "2026-11-03T19:42:35.000Z"
+  },
+  {
+    "id": "2c756bfc3203984a",
+    "title": "Two Australians confirmed dead in Spain’s high-speed train crash",
+    "summary": "Legal body handling identification says three latest victims include two Australians and a Japanese citizen.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
+    "publishedAt": "2026-11-03T19:40:58.000Z"
+  },
+  {
+    "id": "7296288d5e68f587",
+    "title": "Man arrested as girl, 17, found in Oregon after disappearing from Utah last year",
+    "summary": "500-plus-day search for Kylie Arellano ends as FBI warns of ‘gore groups’ targeting and exploiting children.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/kylie-arellano-missing-found-oregon-utah",
+    "publishedAt": "2026-11-03T19:30:47.000Z"
+  },
+  {
     "id": "cc6d5c271c5b9422",
     "title": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
     "summary": "Abdul El-Sayed hopes to become the first Muslim US senator as Michigan's Senate race reaches its critical final hours.",
@@ -1197,6 +1242,15 @@
     "publishedAt": "2026-11-03T08:21:45.000Z"
   },
   {
+    "id": "a7aa8a86d0231345",
+    "title": "Helicopters collide below Mount Everest base camp, killing 1 person and injuring 2",
+    "summary": "Two helicopters have collided while trying to land just below Mount Everest’s base camp.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/helicopters-collide-below-mount-everest-base-camp-killing-137796728",
+    "publishedAt": "2026-11-03T08:19:15.000Z"
+  },
+  {
     "id": "9994823c36ba53ed",
     "title": "European troops prepare for a postwar Ukraine mission that's fraught with challenges",
     "summary": "Thousands of European troops are set to participate in a military exercise in Poland later this month.",
@@ -1294,59 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro",
     "publishedAt": "2026-11-03T07:29:46.000Z"
-  },
-  {
-    "id": "dd721328cde3dc41",
-    "title": "When will we know the US midterm election results?",
-    "summary": "The first results are expected on Tuesday as polls begin to close at 23:00 GMT. But final results might take days.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
-    "publishedAt": "2026-11-03T07:27:21.000Z"
-  },
-  {
-    "id": "be4ff52240ffa6e7",
-    "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
-    "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
-    "publishedAt": "2026-11-03T07:24:12.000Z"
-  },
-  {
-    "id": "c3da8629295715ce",
-    "title": "Major study into 'forever chemicals' in people's bodies launched in UK",
-    "summary": "The government is launching the first study to measure PFAS in the UK population to understand the risks.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo",
-    "publishedAt": "2026-11-03T07:19:27.000Z"
-  },
-  {
-    "id": "fe724d6b8b05aade",
-    "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-    "summary": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o",
-    "publishedAt": "2026-11-03T07:15:17.000Z"
-  },
-  {
-    "id": "7ef622d9007166e8",
-    "title": "One dead after two helicopters collide near Mount Everest in Nepal",
-    "summary": "Authorities have confirmed that a 47-year-old Indian national was killed and two people injured.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss",
-    "publishedAt": "2026-11-03T07:06:07.000Z"
-  },
-  {
-    "id": "0ae821a8353d42c6",
-    "title": "Americans head to polls in midterm elections seen as referendum on Trump",
-    "summary": "Control of the Senate and House of Representatives, both currently held by the Republicans, is at stake.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote",
-    "publishedAt": "2026-11-03T07:00:43.000Z"
   }
 ]
