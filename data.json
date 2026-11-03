@@ -1,5 +1,122 @@
 [
   {
+    "id": "ecda2493a0d1031f",
+    "title": "Panel rules out further inquiry into sexual harassment claims against Lib Dem peer Chris Rennard",
+    "summary": "Party leader Ed Davey ‘disappointed and upset’ at decision by independent panel after claims original investigation was flawed.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/03/inquiry-sexual-harassment-claims-lib-dem-peer-chris-rennard",
+    "publishedAt": "2026-11-03T18:03:07.000Z"
+  },
+  {
+    "id": "74d19b3565375a6a",
+    "title": "Seven flights across Europe targeted by suspected bomb threats",
+    "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo",
+    "publishedAt": "2026-11-03T17:56:03.000Z"
+  },
+  {
+    "id": "743a53e20904ef9e",
+    "title": "US man charged with mailing hundreds of letters containing powder to officials before midterms",
+    "summary": "Oklahoma man accused of sending letters with white nonhazardous powder before 2024 and 2026 elections.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/charges-powder-letters-midterms",
+    "publishedAt": "2026-11-03T17:50:43.000Z"
+  },
+  {
+    "id": "1ce61f2915820ed0",
+    "title": "UK makes huge aid cuts to Commonwealth nations despite warm words at Chogm summit",
+    "summary": "Nations in the group fare worse than others, with funding for nature projects especially hard hit even as climate crisis intensifies global need.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/03/uk-cuts-aid-commonwealth-countries-despite-warm-words-at-chogm-summit",
+    "publishedAt": "2026-11-03T17:49:57.000Z"
+  },
+  {
+    "id": "75b57961e09c5ecf",
+    "title": "Czech public media workers go on strike over a government plan to overhaul their funding",
+    "summary": "Czech public media workers have gone on a one-day strike to protest a government plan to change how public broadcasters are funded.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/czech-public-media-workers-strike-government-plan-overhaul-137800075",
+    "publishedAt": "2026-11-03T17:49:28.000Z"
+  },
+  {
+    "id": "60dea62015ae4d7b",
+    "title": "Man who drugged and raped wife found many men ‘whose fantasy is an unconscious woman’, court told",
+    "summary": "Nine men stand trial in Manchester accused of participating in abuse at couple’s home in Stockport, or encouraging it online.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/03/man-drugged-and-raped-wife-stockport-men-fantasy-unconscious-woman-court-told",
+    "publishedAt": "2026-11-03T17:47:15.000Z"
+  },
+  {
+    "id": "77c04d7bad5ef5a5",
+    "title": "Pardoned January 6 participant charged over alleged threats to kill federal judges",
+    "summary": "Cleveland Meredith arrested after allegedly posting a call to execute all judges involved in 2021 US Capitol attack trials.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/jan-6-rioter-judges-murder-threat",
+    "publishedAt": "2026-11-03T17:45:40.000Z"
+  },
+  {
+    "id": "15628943311d0370",
+    "title": "Greenland approves security deal with Denmark and US",
+    "summary": "Greenlandic lawmakers have approved an agreement with Denmark and the United States to strengthen security in the Arctic and North Atlantic.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/greenland-approves-security-deal-denmark-us-months-trump-137812697",
+    "publishedAt": "2026-11-03T17:39:23.000Z"
+  },
+  {
+    "id": "28579c2edc3b399e",
+    "title": "Indonesia detains 3 police generals suspected of wiretapping president",
+    "summary": "Indonesian police have detained three senior police generals for allegedly wiretapping President Prabowo Subianto and other prominent figures.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/indonesia-detains-3-police-generals-suspected-wiretapping-president-137815036",
+    "publishedAt": "2026-11-03T17:38:26.000Z"
+  },
+  {
+    "id": "bfb03de7287f2dbf",
+    "title": "Protect Poundland from predatory capitalism, MPs tell government",
+    "summary": "Budget retailer and 12,000 jobs at risk after US owner fails to accept buyout offers.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/03/protect-poundland-mps-tell-government-retail",
+    "publishedAt": "2026-11-03T17:29:00.000Z"
+  },
+  {
+    "id": "d6efe5e100a0bbba",
+    "title": "Action needed to tackle 'biodiversity crisis'",
+    "summary": "The issue is part of wider concerns the government is not focused enough on the environment.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8wy94ewzw03o",
+    "publishedAt": "2026-11-03T17:25:10.000Z"
+  },
+  {
+    "id": "bb9fa9461187b8eb",
+    "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
+    "summary": "Shrimpers worry about fuel costs, tariffs and Trump's proposed cuts to the agency that provides vital weather data.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss",
+    "publishedAt": "2026-11-03T17:22:45.000Z"
+  },
+  {
+    "id": "13698c50167a7661",
+    "title": "Trump says US will end military aid to Israel by the end of this year",
+    "summary": "US president makes surprise election day announcement, saying country does not ‘need’ $4bn annual payment.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
+    "publishedAt": "2026-11-03T17:17:11.000Z"
+  },
+  {
     "id": "b6d0ef459ae716b4",
     "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
     "summary": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
@@ -34,6 +151,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq4g1ddw2k0po",
     "publishedAt": "2026-11-03T16:58:26.000Z"
+  },
+  {
+    "id": "f0d51e6fa0e58d9c",
+    "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+    "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o",
+    "publishedAt": "2026-11-03T16:57:41.000Z"
   },
   {
     "id": "c3948cfa6c39cec3",
@@ -666,6 +792,15 @@
     "publishedAt": "2026-11-03T11:43:49.000Z"
   },
   {
+    "id": "27a620f67ac8e6f3",
+    "title": "US strikes Iranian island ahead of midterm elections",
+    "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+    "publishedAt": "2026-11-03T11:33:33.000Z"
+  },
+  {
     "id": "78ac69547e5b5f44",
     "title": "How India pulled 500 million people out of poverty, as inequality deepens",
     "summary": "India's extreme poverty has declined from 27.1 percent to 2.6 percent between 2011 and 2023, according to the World Bank.",
@@ -1062,6 +1197,15 @@
     "publishedAt": "2026-11-03T07:50:14.000Z"
   },
   {
+    "id": "19b7992fc9f9ba11",
+    "title": "RBA interest rates: Bullock says ‘pain now’ will prevent worse later as Reserve Bank hikes rates for fifth time",
+    "summary": "Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
+    "publishedAt": "2026-11-03T07:36:42.000Z"
+  },
+  {
     "id": "ac42f4b11afcffbe",
     "title": "Why a US-Russia showdown left Morocco celebrating",
     "summary": "An impasse between the US and Russia at the UN means its peacekeeping mission in Western Sahara has ended after 35 years.",
@@ -1204,149 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/3/palestine-weekly-election-deadlock-meets-west-bank-sieges-gaza-killings?traffic_source=rss",
     "publishedAt": "2026-11-03T06:46:27.000Z"
-  },
-  {
-    "id": "5fbe04c04f6e1628",
-    "title": "Heavy rain falls in eastern India after second cyclone in a week",
-    "summary": "Heavy rains is falling in eastern India after the second cyclone to hit the area in a week prompted evacuations of thousands of people.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/heavy-rain-falls-eastern-india-after-cyclone-week-137792512",
-    "publishedAt": "2026-11-03T06:43:21.000Z"
-  },
-  {
-    "id": "2a418f847059fe49",
-    "title": "Charity warns about damage of over-foraging fungi",
-    "summary": "It says over-foraging, particularly in protected areas, damages habitats and wildlife.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6jrw5j7n4dlo",
-    "publishedAt": "2026-11-03T06:37:19.000Z"
-  },
-  {
-    "id": "83767e0cf658105e",
-    "title": "Australia’s social media ban ‘ill-thought-out’, Reddit argues in high court challenge",
-    "summary": "Reddit challenges ban on grounds it impinges implied freedom of political communications for teens.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/03/reddit-under-16s-social-media-ban-australia-high-court",
-    "publishedAt": "2026-11-03T06:36:58.000Z"
-  },
-  {
-    "id": "e2d7b4f5f89c690d",
-    "title": "AI data centres could undermine UK's emissions goals",
-    "summary": "Four planned \"hyperscale\" data centres consider using gas-fired power for their electricity needs.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o",
-    "publishedAt": "2026-11-03T06:27:17.000Z"
-  },
-  {
-    "id": "10b65f1abcd02a21",
-    "title": "Public venues offer tea and warm welcome in winter",
-    "summary": "The annual scheme sees community venues and libraries offer hot drinks and the chance to socialise.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq23d505m555o",
-    "publishedAt": "2026-11-03T06:10:07.000Z"
-  },
-  {
-    "id": "2c7741b9e13f03f9",
-    "title": "I was told I was too young to have cancer - it had spread by the time I was diagnosed",
-    "summary": "Beth Jenkins' cancer was initially missed after told she was \"too young\" to have the disease.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crgqwgp04e50o",
-    "publishedAt": "2026-11-03T06:08:18.000Z"
-  },
-  {
-    "id": "28d55b3e34c55016",
-    "title": "Do the Shetland Isles need Cold War-style military protection?",
-    "summary": "Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cjg47dq6q775o",
-    "publishedAt": "2026-11-03T06:07:33.000Z"
-  },
-  {
-    "id": "fdbe9a642e2102f8",
-    "title": "Scientists detect signals at the smallest scale ever explored",
-    "summary": "Researchers have detected signals from the smallest distances ever probed.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo",
-    "publishedAt": "2026-11-03T06:01:23.000Z"
-  },
-  {
-    "id": "d4ac68d0af4ddbe5",
-    "title": "‘A serious failure’: CPS prosecutor cites imaginary case to high court after AI search",
-    "summary": "Exclusive: Nonexistent precedent cited in alleged child rape case adds to dozens of AI-related errors plaguing court proceedings.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search",
-    "publishedAt": "2026-11-03T06:00:40.000Z"
-  },
-  {
-    "id": "a2f1a0a112d93678",
-    "title": "Denmark pushes for EU ban on ‘turbo chickens’ as secret footage causes outrage",
-    "summary": "Minister says government will work towards banning fast-growing breed across country and throughout EU.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/03/denmark-pushes-for-eu-ban-on-turbo-chickens-as-secret-footage-causes-outrage",
-    "publishedAt": "2026-11-03T06:00:39.000Z"
-  },
-  {
-    "id": "edcd84e645f60434",
-    "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
-    "summary": "Guardian and Mongabay reveal approaches to officials and MPs on behalf of Vantara zoo ahead of UK-chaired Cites meeting on endangered animal imports.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites",
-    "publishedAt": "2026-11-03T06:00:39.000Z"
-  },
-  {
-    "id": "ecf8f2d2f545ba05",
-    "title": "Tough Christmas looms as rates and inflation hit household budgets",
-    "summary": "It's a gloomy picture for households as rising interest rates eat into disposable incomes, but the economic landscape today is much different to previous rate hiking cycles.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-03/tough-christmas-looms-amid-inflation-interest-rate-rise/107340208",
-    "publishedAt": "2026-11-03T05:52:14.000Z"
-  },
-  {
-    "id": "3ab6ac5bfe7bd828",
-    "title": "How a Harvard dream ended in tragedy for a Pakistani family",
-    "summary": "A 24-year-old physics graduate dies after her family pays millions to a man who lied about getting her into university.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/3/how-a-harvard-dream-ended-in-tragedy-for-a-pakistani-family?traffic_source=rss",
-    "publishedAt": "2026-11-03T05:51:29.000Z"
-  },
-  {
-    "id": "d71c79bb11968bf2",
-    "title": "New York child dies from measles in state’s first fatal case in 30 years",
-    "summary": "New York governor says case is ‘devastating reminder of what’s at stake’ when vaccine protections are eroded.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/03/new-york-child-measles-death-first-in-30-years",
-    "publishedAt": "2026-11-03T05:48:26.000Z"
-  },
-  {
-    "id": "adda9b4ab7d12d73",
-    "title": "Boulders dropped off coast to disrupt deep fishing",
-    "summary": "Greenpeace drops nine large rocks to create a barrier to bottom-trawling fishing vessels.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3j47k8rrkr5o",
-    "publishedAt": "2026-11-03T05:44:42.000Z"
-  },
-  {
-    "id": "bc6183117ea8eec4",
-    "title": "Freezers at supermarkets in several European countries hit by apparent cyberattacks",
-    "summary": "Supermarkets in Sweden, Belgium, Luxembourg, Ireland and Estonia reported disruptions to their refrigeration systems, apparently caused by cyberattacks.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/freezers-supermarkets-european-countries-hit-apparent-cyberattacks-137765494",
-    "publishedAt": "2026-11-03T05:38:15.000Z"
   }
 ]
