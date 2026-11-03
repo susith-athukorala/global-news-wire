@@ -27,8 +27,12 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      # Always start from the latest main, not the commit that triggered the
+      # run. Push-triggered runs otherwise start from an older data.json.
       - name: Check out repository
         uses: actions/checkout@v6
+        with:
+          ref: main
 
       - name: Set up Node.js
         uses: actions/setup-node@v6
@@ -50,8 +54,16 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git commit -m "chore: update news feed $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git pull --rebase origin main
-            git push origin HEAD:main
+            # If main moved during the run, replay this commit on top and keep
+            # this run's data files (they are regenerated every hour anyway).
+            for attempt in 1 2 3; do
+              git pull --rebase -X theirs origin main && git push origin HEAD:main && exit 0
+              echo "Push attempt $attempt failed, retrying."
+              git rebase --abort 2>/dev/null || true
+              sleep $((attempt * 5))
+            done
+            echo "Could not push after 3 attempts."
+            exit 1
           fi
 
       # Publish only the files the site needs, not node_modules or scripts.
