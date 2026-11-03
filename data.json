@@ -1,5 +1,50 @@
 [
   {
+    "id": "720961d9f7472dbd",
+    "title": "UK’s most polluting power plant could power country’s largest AI datacentre",
+    "summary": "Drax’s FTSE 250 owner strikes £20bn deal to build infrastructure in what it says is site’s ‘next chapter’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
+    "publishedAt": "2026-11-03T11:55:28.000Z"
+  },
+  {
+    "id": "622d4fdc0cb20a5d",
+    "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
+    "summary": "Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
+    "publishedAt": "2026-11-03T11:43:49.000Z"
+  },
+  {
+    "id": "78ac69547e5b5f44",
+    "title": "How India pulled 500 million people out of poverty, as inequality deepens",
+    "summary": "India's extreme poverty has declined from 27.1 percent to 2.6 percent between 2011 and 2023, according to the World Bank.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/how-india-pulled-500-million-people-out-of-poverty-as-inequality-deepens?traffic_source=rss",
+    "publishedAt": "2026-11-03T11:30:34.000Z"
+  },
+  {
+    "id": "c12a3c4101632d73",
+    "title": "Polls open in closely contested US midterm elections 2026",
+    "summary": "Democrats are eyeing historic gains in the US Congress that could change the trajectory of the country.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026?traffic_source=rss",
+    "publishedAt": "2026-11-03T11:27:14.000Z"
+  },
+  {
+    "id": "e7d04363fdae1aee",
+    "title": "Proposal for free bus service scrapped",
+    "summary": "The one-year free bus service pilot was initially put forward as an amendment to next year's budget.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmrly74wr9n2o",
+    "publishedAt": "2026-11-03T11:21:42.000Z"
+  },
+  {
     "id": "e3726f84f7d589f9",
     "title": "'Quiet quitting' could be hitting the economy - here's why",
     "summary": "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found.",
@@ -1303,50 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/02/shabana-mahmood-softens-immigration-plans-cabinet-backlash-leave-to-remain",
     "publishedAt": "2026-11-02T19:06:40.000Z"
-  },
-  {
-    "id": "ebdde0b3842fc5b8",
-    "title": "Iran pushing accelerated plan for ceasefire talks with US",
-    "summary": "Tehran says plan has been condensed and can be implemented within two days as it continues talks with mediators.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
-    "publishedAt": "2026-11-02T18:49:26.000Z"
-  },
-  {
-    "id": "be4ff52240ffa6e7",
-    "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
-    "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
-    "publishedAt": "2026-11-02T18:48:00.000Z"
-  },
-  {
-    "id": "4ce58a958d6b9009",
-    "title": "German unions launch wave of strikes over cost-of-living pressures",
-    "summary": "The expanded industrial action comes amid a wave of strikes and protests that have sparked unrest across Europe.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/2/german-unions-launch-wave-of-strikes-over-cost-of-living-pressures?traffic_source=rss",
-    "publishedAt": "2026-11-02T18:47:24.000Z"
-  },
-  {
-    "id": "3fb37f2828c2e109",
-    "title": "Tracking Trump's rallies amid predictions deep red states could turn blue",
-    "summary": "Ahead of the midterm elections, the US president has prioritised his in-person appearances in Republican strongholds, as he attempts to shore up support in races that are predicted to be closer than his party would like.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-03/us-midterms-donald-trump-campaign-appearances-tracked/107332788",
-    "publishedAt": "2026-11-02T18:38:56.000Z"
-  },
-  {
-    "id": "58aaf710c94d01a2",
-    "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-    "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do",
-    "publishedAt": "2026-11-02T18:34:24.000Z"
   }
 ]
