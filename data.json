@@ -1,5 +1,95 @@
 [
   {
+    "id": "6b11035b92127740",
+    "title": "King Charles speaks to world leaders in Antigua, expresses 'sorrow' over slave trade",
+    "summary": "King Charles III has called the transatlantic slave trade a “shameful chapter of history” during a speech at the official opening of the Commonwealth Heads of Government Meeting in Antigua.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/king-charles-iii-speaks-world-leaders-antigua-expresses-137811246",
+    "publishedAt": "2026-11-03T16:16:36.000Z"
+  },
+  {
+    "id": "cd2ab2488c563256",
+    "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
+    "summary": "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. \"The city seems alive,\" said one resident, \"just like it used to be.\"",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
+    "publishedAt": "2026-11-03T15:54:39.000Z"
+  },
+  {
+    "id": "7c32c15739c3caef",
+    "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+    "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o",
+    "publishedAt": "2026-11-03T15:51:23.000Z"
+  },
+  {
+    "id": "764f24c5906fc613",
+    "title": "Great Britain’s worst-ever bluetongue season ‘a major animal welfare crisis’",
+    "summary": "British Veterinary Association president tells MPs surge in cases putting farmers under severe pressure and stress.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/03/great-britain-worst-ever-bluetongue-season-major-animal-welfare-crisis",
+    "publishedAt": "2026-11-03T15:50:12.000Z"
+  },
+  {
+    "id": "33e3f25e062ae298",
+    "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
+    "summary": "Hezbollah denies the Syrian accusations, reiterating that it does not have any presence on Syrian territory.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
+    "publishedAt": "2026-11-03T15:47:34.000Z"
+  },
+  {
+    "id": "5bf5176323579420",
+    "title": "How US midterms have cost a record $12bn as cost of living soars",
+    "summary": "Candidates, donors and super PACs are spending more than ever on political campaigns.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/how-us-midterms-have-cost-a-record-12bn-as-cost-of-living-soars?traffic_source=rss",
+    "publishedAt": "2026-11-03T15:40:56.000Z"
+  },
+  {
+    "id": "594058d2277c213b",
+    "title": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
+    "summary": "A previously unseen family archive offers a glimpse into the Indian Nobel prize winner’s artistic process and personal relationships in his final years.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india",
+    "publishedAt": "2026-11-03T15:24:53.000Z"
+  },
+  {
+    "id": "7022b94b7b396b56",
+    "title": "Guaranteed pension income ‘resurrected’ for 17m private sector workers",
+    "summary": "Ministers propose new guided retirement scheme to help give savers protection for life.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/03/pension-income-retirement-for-17m-private-sector-workers",
+    "publishedAt": "2026-11-03T15:24:17.000Z"
+  },
+  {
+    "id": "608bd061b62f75cf",
+    "title": "Nordic nations refuse to face Russia in ice hockey World Championship",
+    "summary": "Denmark, Norway and Sweden join Finland in refusing to face Russia in 2027 World Championships in Germany next May.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship?traffic_source=rss",
+    "publishedAt": "2026-11-03T15:18:13.000Z"
+  },
+  {
+    "id": "1cd786313d0c6b55",
+    "title": "Asda hires ex-Morrisons boss in bid to grow firm",
+    "summary": "David Potts takes charge of Asda, which is based in Leeds, with immediate effect.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o",
+    "publishedAt": "2026-11-03T15:12:35.000Z"
+  },
+  {
     "id": "c92dbf95bdb69708",
     "title": "Mining giant joins fight to stop killer toad march across Australia",
     "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
@@ -16,6 +106,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/03/doj-research-gender-dysphoria-violent-crime",
     "publishedAt": "2026-11-03T15:00:22.000Z"
+  },
+  {
+    "id": "ec7267ff9516c9b6",
+    "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
+    "summary": "Opposition promises to form a government quickly but remains split over whether to ally with Arab-led parties.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
+    "publishedAt": "2026-11-03T15:00:10.000Z"
   },
   {
     "id": "aae00d52e8ce2cc7",
@@ -36,6 +135,15 @@
     "publishedAt": "2026-11-03T14:58:44.000Z"
   },
   {
+    "id": "d462fedb6b7b1a8f",
+    "title": "Global food security is under threat",
+    "summary": "Attacks on grain shipments from Russia and Ukraine may drive up food prices, hitting import-dependent countries hardest.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
+    "publishedAt": "2026-11-03T14:58:10.000Z"
+  },
+  {
     "id": "412d1a14b8b92c72",
     "title": "Libya's top religious authority rules against wearing Nike clothes",
     "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
@@ -52,6 +160,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/03/well-known-individual-fails-injunction-bid-guardian-itn",
     "publishedAt": "2026-11-03T14:56:17.000Z"
+  },
+  {
+    "id": "7730f9e1f258ceab",
+    "title": "Binance battles to save its brand after record $6.3bn crypto hack",
+    "summary": "World’s largest crypto exchange faces fallout from angry customers, and Lula wins with WhatsApp.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/02/binance-cryptocurrency-exchange-hack",
+    "publishedAt": "2026-11-03T14:45:30.000Z"
   },
   {
     "id": "e06487f1bbb5cd3d",
@@ -459,6 +576,15 @@
     "publishedAt": "2026-11-03T11:10:39.000Z"
   },
   {
+    "id": "f1f696f097dae603",
+    "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+    "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko",
+    "publishedAt": "2026-11-03T11:10:37.000Z"
+  },
+  {
     "id": "9d894f59448f4d9e",
     "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
     "summary": "Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.",
@@ -648,6 +774,15 @@
     "publishedAt": "2026-11-03T09:09:18.000Z"
   },
   {
+    "id": "5fde059d3dcbd5c6",
+    "title": "Apple warns of ‘unprecedented’ rise in memory chip prices",
+    "summary": "iPhone maker says decision to raise prices has offset some of impact, as revenues are stronger than expected.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+    "publishedAt": "2026-11-03T09:01:19.000Z"
+  },
+  {
     "id": "91f7d18146349db7",
     "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
     "summary": "A watchdog has criticised the lack of progress made by organisations in tackling climate change.",
@@ -736,6 +871,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/suspected-militants-open-fire-kill-2-police-officers-137798218",
     "publishedAt": "2026-11-03T08:12:55.000Z"
+  },
+  {
+    "id": "d179642c95cc6690",
+    "title": "John Lewis Christmas ad stars Kristin Scott Thomas as glamorous granny on a gift hunt",
+    "summary": "Company tugs at heartstrings with Pickles the talking toy dog as it celebrates 20 years of blockbuster festive ads.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/03/john-lewis-christmas-advert-kristin-scott-thomas-glamorous-granny-gift-hunt",
+    "publishedAt": "2026-11-03T08:12:44.000Z"
   },
   {
     "id": "8671be621ae4a58b",
@@ -952,6 +1096,24 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq23d505m555o",
     "publishedAt": "2026-11-03T06:10:07.000Z"
+  },
+  {
+    "id": "2c7741b9e13f03f9",
+    "title": "I was told I was too young to have cancer - it had spread by the time I was diagnosed",
+    "summary": "Beth Jenkins' cancer was initially missed after told she was \"too young\" to have the disease.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crgqwgp04e50o",
+    "publishedAt": "2026-11-03T06:08:18.000Z"
+  },
+  {
+    "id": "28d55b3e34c55016",
+    "title": "Do the Shetland Isles need Cold War-style military protection?",
+    "summary": "Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cjg47dq6q775o",
+    "publishedAt": "2026-11-03T06:07:33.000Z"
   },
   {
     "id": "fdbe9a642e2102f8",
@@ -1186,167 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo",
     "publishedAt": "2026-11-03T03:30:16.000Z"
-  },
-  {
-    "id": "d60582e033452480",
-    "title": "‘Trying to get back into a positive mindset’: court hears voice notes Beau Lamarre-Condon sent day after alleged murders",
-    "summary": "Recordings from police officer to man he’d met on dating app include one in which Lamarre-Condon states: ‘I’m in bed … not feeling the best’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/03/beau-lamarre-condon-trial-voice-recording-alleged-murders-ntwnfb",
-    "publishedAt": "2026-11-03T03:19:27.000Z"
-  },
-  {
-    "id": "5904df709278e703",
-    "title": "US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
-    "summary": "Iranian state media reported the sound of explosions on the island in the strait of Hormuz, coming on the eve of crucial US midterms.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
-    "publishedAt": "2026-11-03T03:18:36.000Z"
-  },
-  {
-    "id": "52ea9462ec3136df",
-    "title": "Tennessee national guard trained guns on dying man after guard member shot him, video shows",
-    "summary": "Footage from prosecutors shows aftermath of shooting of Tyrin Johnson, 20, shot and killed by national guard in July.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/02/tennessee-shooting-tyrin-johnson-video",
-    "publishedAt": "2026-11-03T03:13:06.000Z"
-  },
-  {
-    "id": "a1b15b336a8f0f66",
-    "title": "US has hit Iranian targets in Strait of Hormuz, US official says",
-    "summary": "The strikes, which appeared to be limited as opposed to a full return to hostilities, came on the eve of crucial American midterm elections.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-03/us-official-confirms-strikes-on-iran/107341252",
-    "publishedAt": "2026-11-03T02:30:14.000Z"
-  },
-  {
-    "id": "e49751da47cf3ed1",
-    "title": "US urges Venezuela to follow phased plan for democratic transition",
-    "summary": "This comes as leading opposition leader returns to Venezuela and hints at criticism of Trump administration.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss",
-    "publishedAt": "2026-11-03T02:27:51.000Z"
-  },
-  {
-    "id": "1963cee85dd2482c",
-    "title": "Christmas 2026 stamps unveiled by Royal Mail",
-    "summary": "The annual Christmas collection of five stamps feature scenes from the Nativity.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw62yeq7958ro",
-    "publishedAt": "2026-11-03T02:27:50.000Z"
-  },
-  {
-    "id": "ee4967f67bfd285a",
-    "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
-    "summary": "Several explosions heard in Qeshm Island and Bandar Lengeh, as US media say the US military carried out the strikes.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
-    "publishedAt": "2026-11-03T02:25:02.000Z"
-  },
-  {
-    "id": "ae05ac5028ca98e5",
-    "title": "US lawmakers ask Trump administration to stop deportation of Afghans",
-    "summary": "At least 150 Afghans are facing deportation to Pakistan and on to Afghanistan.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans?traffic_source=rss",
-    "publishedAt": "2026-11-03T02:12:33.000Z"
-  },
-  {
-    "id": "640cf68696f2735d",
-    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
-    "publishedAt": "2026-11-03T02:11:13.000Z"
-  },
-  {
-    "id": "44533b2bbd244e4b",
-    "title": "North Korea denies role in Binance heist as customers withdraw billions",
-    "summary": "Pyongyang says allegations linking North Korea to the biggest crypto heist in history are \"nothing new\" from the US.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-03/north-korea-denies-binance-heist-customers-withdraw-billions/107340330",
-    "publishedAt": "2026-11-03T02:00:58.000Z"
-  },
-  {
-    "id": "8eb8876b84d09db9",
-    "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
-    "summary": "Ukrainian president Zelenskyy says attack on aid hub was ‘vile’ and shows Russia does not want to de-escalate.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
-    "publishedAt": "2026-11-03T01:13:52.000Z"
-  },
-  {
-    "id": "2c60615ce208508f",
-    "title": "UK cyber chief says UK will face AI cyberattacks on critical infrastructure by 2028",
-    "summary": "Britain’s cyber chief says the U.K. is likely to face artificial intelligence cyberattacks on its critical infrastructure by 2028.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/uk-cyber-chief-uk-face-ai-cyberattacks-critical-137788396",
-    "publishedAt": "2026-11-03T00:57:09.000Z"
-  },
-  {
-    "id": "8f4151ef6052f32f",
-    "title": "North Korea denies involvement in Binance hack, criticizes FBI probe",
-    "summary": "North Korea has denied its involvement in the recent cryptocurrency heist at Binance, dismissing as “a trite provocation” a U.S. announcement that North Korean hackers were behind the incident.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/north-korea-denies-involvement-binance-hack-criticizes-fbi-137788208",
-    "publishedAt": "2026-11-03T00:56:43.000Z"
-  },
-  {
-    "id": "bd00c40b174e0d2e",
-    "title": "North Korea denies being behind record $6.3bn Binance hack",
-    "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
-    "publishedAt": "2026-11-03T00:56:43.000Z"
-  },
-  {
-    "id": "0f699b596dcf797d",
-    "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
-    "summary": "The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss",
-    "publishedAt": "2026-11-03T00:50:38.000Z"
-  },
-  {
-    "id": "ac89c9448e6f2494",
-    "title": "Man and boy arrested after One Nation volunteer allegedly attacked with baseball bat in Victoria",
-    "summary": "Police confirm arrest of 37-year-old and 14-year-old boy over alleged assault outside Torquay home on Sunday night.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/03/one-nation-volunteer-alleged-attack-assault-torquay-victoria-ntwnfb",
-    "publishedAt": "2026-11-03T00:45:06.000Z"
-  },
-  {
-    "id": "f061bb9311cdc053",
-    "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
-    "summary": "The men and women who rummage through commercial bins to take clothes and other items.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno",
-    "publishedAt": "2026-11-03T00:41:36.000Z"
-  },
-  {
-    "id": "aff51a3f1541020b",
-    "title": "Investigative journalist Kate McClymont gives evidence in Alan Jones indecent assault trial",
-    "summary": "Jones, a former radio broadcaster, has pleaded not guilty to 21 charges of indecent assault and sexual touching.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/03/kate-mcclymont-evidence-alan-jones-trial-ntwnfb",
-    "publishedAt": "2026-11-03T00:30:57.000Z"
   }
 ]
