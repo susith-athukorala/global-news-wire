@@ -1,5 +1,32 @@
 [
   {
+    "id": "c77c76c80710265c",
+    "title": "Latest Sarah J Maas book becomes UK’s fastest-selling adult fantasy novel",
+    "summary": "A Court of Splintered Harmony also records biggest single week of sales since Harper Lee’s Go Set a Watchman in 2015.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/books/2026/nov/03/sarah-j-maas-court-of-splintered-harmony-uk-fastest-selling-adult-fantasy-novel",
+    "publishedAt": "2026-11-03T18:51:16.000Z"
+  },
+  {
+    "id": "217702c7a37fdb12",
+    "title": "UK’s King Charles expresses ‘sorrow’ in Antigua over slave trade",
+    "summary": "Caribbean nations call for reparations as King Charles stops short of issuing an apology for colonial-era slavery.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/uks-king-charles-expresses-profound-sorrow-over-transatlantic-slave-era?traffic_source=rss",
+    "publishedAt": "2026-11-03T18:32:46.000Z"
+  },
+  {
+    "id": "b36cbe4d4365462d",
+    "title": "Greenland parliament approves security deal with US, Denmark",
+    "summary": "Lawmakers vote 16-0 for trilateral agreement signed in September, while seven abstained.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark?traffic_source=rss",
+    "publishedAt": "2026-11-03T18:05:48.000Z"
+  },
+  {
     "id": "ecda2493a0d1031f",
     "title": "Panel rules out further inquiry into sexual harassment claims against Lib Dem peer Chris Rennard",
     "summary": "Party leader Ed Davey ‘disappointed and upset’ at decision by independent panel after claims original investigation was flawed.",
@@ -792,6 +819,15 @@
     "publishedAt": "2026-11-03T11:43:49.000Z"
   },
   {
+    "id": "2a418f847059fe49",
+    "title": "Charity warns about damage of over-foraging fungi",
+    "summary": "It says over-foraging, particularly in protected areas, damages habitats and wildlife.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6jrw5j7n4dlo",
+    "publishedAt": "2026-11-03T11:43:10.000Z"
+  },
+  {
     "id": "27a620f67ac8e6f3",
     "title": "US strikes Iranian island ahead of midterm elections",
     "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
@@ -862,6 +898,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/03/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
     "publishedAt": "2026-11-03T11:00:00.000Z"
+  },
+  {
+    "id": "adda9b4ab7d12d73",
+    "title": "Boulders dropped off coast to disrupt deep fishing",
+    "summary": "Greenpeace drops nine large rocks to create a barrier to bottom-trawling fishing vessels.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3j47k8rrkr5o",
+    "publishedAt": "2026-11-03T10:53:09.000Z"
   },
   {
     "id": "46aadf3e164d784a",
@@ -1303,50 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/3/australias-high-court-hears-bid-to-overturn-under-16s-social-media-ban?traffic_source=rss",
     "publishedAt": "2026-11-03T06:59:20.000Z"
-  },
-  {
-    "id": "73a4a5dcbec4940a",
-    "title": "Polls show Trump's party could lose control of Congress but they may be wrong",
-    "summary": "Polls say the Democratic Party could be about to seize control of the US Congress when this week's midterm elections are held. Experts warn it may not be that simple.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-03/us-midterms-polling-dire-for-donald-trump-republican-party/107326276",
-    "publishedAt": "2026-11-03T06:58:23.000Z"
-  },
-  {
-    "id": "50a8e03468791baf",
-    "title": "AFC reschedules Asian Cup 2027 in Saudi Arabia amid regional conflict",
-    "summary": "Start date for AFC Cup 2027 moved from January to December due to ongoing Houthi attacks on host nation Saudi Arabia.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict?traffic_source=rss",
-    "publishedAt": "2026-11-03T06:55:39.000Z"
-  },
-  {
-    "id": "a7aa8a86d0231345",
-    "title": "Helicopters collide below Mount Everest base camp, killing 1 person and injuring 2",
-    "summary": "Two helicopters have collided while trying to land just below Mount Everest’s base camp.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/helicopters-collide-below-mount-everest-base-camp-killing-137796728",
-    "publishedAt": "2026-11-03T06:49:45.000Z"
-  },
-  {
-    "id": "8e2ee5cec343743b",
-    "title": "Authorities say 5 people rescued in Kiribati after 3 months drifting at sea",
-    "summary": "Authorities say five people, including two children, have been rescued in the South Pacific island nation of Kiribati after three months drifting at sea in a 20-foot skiff.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/authorities-5-people-rescued-kiribati-after-3-months-137797186",
-    "publishedAt": "2026-11-03T06:49:27.000Z"
-  },
-  {
-    "id": "e71f2e3b0d68a5ae",
-    "title": "Palestine weekly: Election deadlock meets West Bank sieges, Gaza killings",
-    "summary": "As Israel grapples with an inconclusive election, Palestinians face West Bank closures and Gaza killings.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/palestine-weekly-election-deadlock-meets-west-bank-sieges-gaza-killings?traffic_source=rss",
-    "publishedAt": "2026-11-03T06:46:27.000Z"
   }
 ]
