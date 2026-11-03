@@ -1,5 +1,68 @@
 [
   {
+    "id": "8f12545fa96d3736",
+    "title": "Cricket World Cup: India vs Pakistan gets more ticket requests than final",
+    "summary": "ICC receives 8.4 million ticket requests for 34,000 seats at the October 10, 2027 India-Pakistan match in Johannesburg.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/3/cricket-world-cup-india-vs-pakistan-gets-more-ticket-requests-than-final?traffic_source=rss",
+    "publishedAt": "2026-11-03T09:12:40.000Z"
+  },
+  {
+    "id": "91f7d18146349db7",
+    "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+    "summary": "A watchdog has criticised the lack of progress made by organisations in tackling climate change.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o",
+    "publishedAt": "2026-11-03T08:57:20.000Z"
+  },
+  {
+    "id": "bb4570f31f243c74",
+    "title": "Promising new HIV-prevention drug is hard to find where it's most needed",
+    "summary": "Experts say that a promising drug that offers complete protection against HIV and requires only two shots a year isn't getting to enough people.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/promising-new-hiv-prevention-drug-hard-find-needed-137799098",
+    "publishedAt": "2026-11-03T08:42:27.000Z"
+  },
+  {
+    "id": "8f2174160af80342",
+    "title": "US has conducted defensive strikes on Iranian targets in the Strait of Hormuz, US official says",
+    "summary": "A U.S. official says the U.S. has conducted defensive strikes on some Iranian targets in the Strait of Hormuz.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/things-stand-iran-after-tense-weekend-137762946",
+    "publishedAt": "2026-11-03T08:42:22.000Z"
+  },
+  {
+    "id": "5527979fd572405e",
+    "title": "Australia seeks to change visa deal with UK after influx of Britons",
+    "summary": "Australia says easing of rules has led to surge in British visitor numbers, putting pressure on local workforce.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/03/australia-seeks-to-change-visa-deal-uk",
+    "publishedAt": "2026-11-03T08:36:41.000Z"
+  },
+  {
+    "id": "851a1371a4a477c6",
+    "title": "FIFA to share documents related to World Cup sell-off plan",
+    "summary": "FIFA Council members may view documents related to Gianni Infantino's doomed plan, but only in person in Zurich.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/3/fifa-to-share-documents-related-to-world-cup-sell-off-plan?traffic_source=rss",
+    "publishedAt": "2026-11-03T08:27:20.000Z"
+  },
+  {
+    "id": "df452a371d860159",
+    "title": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings",
+    "summary": "Up to 25% of 16,000 workforce could go as telecoms group says it will increase use of AI in areas including customer service.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/03/virgin-media-o2-cut-jobs-cost-savings-telecoms-ai",
+    "publishedAt": "2026-11-03T08:21:45.000Z"
+  },
+  {
     "id": "9994823c36ba53ed",
     "title": "European troops prepare for a postwar Ukraine mission that's fraught with challenges",
     "summary": "Thousands of European troops are set to participate in a military exercise in Poland later this month.",
@@ -18,6 +81,15 @@
     "publishedAt": "2026-11-03T08:14:29.000Z"
   },
   {
+    "id": "c9261f10df0cf000",
+    "title": "Henry Nowak ‘would have hated’ riots after his murder, says family",
+    "summary": "Parents of teenager stabbed in Southampton last year hit out at political ‘game’ played with son’s murder.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/03/henry-nowak-would-have-hated-riots-after-his-murder-his-says-family",
+    "publishedAt": "2026-11-03T08:14:25.000Z"
+  },
+  {
     "id": "75871cc5d414da93",
     "title": "Suspected militants kill 2 police officers guarding polio workers in Pakistan",
     "summary": "Suspected militants have shot and killed two police officers protecting polio workers during a vaccination campaign in northwestern Pakistan.",
@@ -25,6 +97,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/suspected-militants-open-fire-kill-2-police-officers-137798218",
     "publishedAt": "2026-11-03T08:12:55.000Z"
+  },
+  {
+    "id": "8671be621ae4a58b",
+    "title": "Major Queensland hospital to close pathology labs amid potential formaldehyde exposure investigation",
+    "summary": "About 400 staff affected by closure at both Mater’s Brisbane and Springfield hospitals, with financial sustainability of pathology business a factor.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/03/major-queensland-hospital-to-close-pathology-labs-amid-potential-formaldehyde-exposure-investigation",
+    "publishedAt": "2026-11-03T08:11:08.000Z"
   },
   {
     "id": "0ea177632a526b26",
@@ -288,6 +369,15 @@
     "publishedAt": "2026-11-03T05:44:42.000Z"
   },
   {
+    "id": "bc6183117ea8eec4",
+    "title": "Freezers at supermarkets in several European countries hit by apparent cyberattacks",
+    "summary": "Supermarkets in Sweden, Belgium, Luxembourg, Ireland and Estonia reported disruptions to their refrigeration systems, apparently caused by cyberattacks.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/freezers-supermarkets-european-countries-hit-apparent-cyberattacks-137765494",
+    "publishedAt": "2026-11-03T05:38:15.000Z"
+  },
+  {
     "id": "ecfdf049824f9942",
     "title": "Peacock found in couple’s Brisbane bathroom leads to creative bid to reunite bird with tattoo artist",
     "summary": "Geoff and Delwyn Ballantyne went out for an evening coffee. When they returned they found Hex admiring himself in the mirror.",
@@ -358,6 +448,42 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/3/what-time-do-polls-open-and-close-in-the-us-midterm-elections-2026?traffic_source=rss",
     "publishedAt": "2026-11-03T04:52:08.000Z"
+  },
+  {
+    "id": "f7c68dca7a25721e",
+    "title": "UK to double wait for permanent residency, with exemptions for care workers",
+    "summary": "Under new rules, most workers will have to wait 10 years to settle in the UK, but higher earners can qualify sooner.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/uk-to-double-wait-for-permanent-residency-with-exemptions-for-care-workers?traffic_source=rss",
+    "publishedAt": "2026-11-03T04:48:45.000Z"
+  },
+  {
+    "id": "1ca5c776959f7a62",
+    "title": "US midterms present a test for Republican redistricting in Texas and beyond",
+    "summary": "Partisan redistricting has transformed elections for Black voters in Houston as Democrats seek new pathways to victory.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/us-midterms-present-a-test-for-republican-redistricting-in-texas-and-beyond?traffic_source=rss",
+    "publishedAt": "2026-11-03T04:39:59.000Z"
+  },
+  {
+    "id": "c442a2886f6913db",
+    "title": "Israeli forces release Al Jazeera journalist in occupied West Bank",
+    "summary": "Al Jazeera correspondent Montaser Nassar released hours after being arrested at his home in Dura, near Hebron.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-arrest-al-jazeera-journalist-in-raid-on-his-west-bank-home?traffic_source=rss",
+    "publishedAt": "2026-11-03T04:25:16.000Z"
+  },
+  {
+    "id": "0ab6fa3d82e22467",
+    "title": "El-Sayed, Rogers hold dueling rallies as bitter campaign comes to a close",
+    "summary": "The events come as Haley Stevens opined on why she withdrew support for the US Senate Democratic nominee.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/el-sayed-rogers-hold-dueling-rallies-as-bitter-campaign-comes-to-a-close?traffic_source=rss",
+    "publishedAt": "2026-11-03T04:15:08.000Z"
   },
   {
     "id": "f47b606c6497291e",
@@ -1222,131 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/02/defendant-tells-court-he-believed-he-had-consent-of-woman-drugged-by-her-husband",
     "publishedAt": "2026-11-02T16:59:20.000Z"
-  },
-  {
-    "id": "580b252984e5d019",
-    "title": "Attack on Colombian military base kills 4 civilians, including a 2-month-old",
-    "summary": "An attack on a military base in southern Colombia has killed four civilians, including a 2-month-old baby, according to President Abelardo de la Espriella",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/attack-colombian-military-base-kills-4-civilians-including-137773079",
-    "publishedAt": "2026-11-02T16:58:28.000Z"
-  },
-  {
-    "id": "b421e5de24162989",
-    "title": "‘It’s really, really unusual’: tender bond between male donkey and bull baffles scientists",
-    "summary": "",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/02/tender-bond-male-donkey-bull-baffles-scientists",
-    "publishedAt": "2026-11-02T16:53:15.000Z"
-  },
-  {
-    "id": "993570a5e9b2d212",
-    "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
-    "summary": "",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-    "publishedAt": "2026-11-02T16:39:20.000Z"
-  },
-  {
-    "id": "3ee5bec9d02b9ae4",
-    "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
-    "summary": "Beijing urges dialogue on US-Iran war, sends envoy to Gulf as Xi hosts first Omani head of state visit since 1978.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss",
-    "publishedAt": "2026-11-02T16:03:52.000Z"
-  },
-  {
-    "id": "519b9812c45fe7ed",
-    "title": "Violence in northern Ethiopia pushing health system towards collapse: WHO",
-    "summary": "Renewed fighting between rebels from northern Tigray and ​the government in Addis Ababa has shattered 2022 peace deal.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who?traffic_source=rss",
-    "publishedAt": "2026-11-02T16:03:40.000Z"
-  },
-  {
-    "id": "0cd21d80d66afab0",
-    "title": "Lobster industry caught in Maine’s political headwinds before US midterms",
-    "summary": "Senator Susan Collins and Democratic challenger Troy Jackson clash over tariffs and their impact on Maine's economy.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/2/lobster-industry-caught-in-maines-political-headwinds-before-midterms?traffic_source=rss",
-    "publishedAt": "2026-11-02T15:54:53.000Z"
-  },
-  {
-    "id": "6b5ea4c9b36aaf69",
-    "title": "Displaced in Hebron: Picking up pieces after Israeli siege",
-    "summary": "Displaced Hebron families return to damaged homes, left to pick up scattered pieces of their lives after Israeli siege.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss",
-    "publishedAt": "2026-11-02T15:43:00.000Z"
-  },
-  {
-    "id": "7bf2c19a1e67797d",
-    "title": "Carrick not distracted by speculation over United future",
-    "summary": "Manchester United coach says his players remain committed to the cause despite nine-match winless run",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/2/carrick-not-distracted-by-speculation-over-united-future?traffic_source=rss",
-    "publishedAt": "2026-11-02T15:31:07.000Z"
-  },
-  {
-    "id": "f629b7563ff6fde1",
-    "title": "Jake Paul to fight MMA star Cedric Doumbe",
-    "summary": "YouTuber-turned-boxer Jake Paul to face mixed martial arts star Cedric Doumbe in boxing bout in Dubai.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/2/jake-paul-to-fight-mma-star-cedric-doumbe?traffic_source=rss",
-    "publishedAt": "2026-11-02T15:13:13.000Z"
-  },
-  {
-    "id": "74002f9f3cde8a01",
-    "title": "Al Jazeera condemns Israeli ban extension, calls for its immediate lifting",
-    "summary": "Network calls move 'assault' on press freedom, warns of 'dangerous pattern' that undermines ability to report facts.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/2/al-jazeera-condemns-israeli-ban-extension-calls-for-its-immediate-lifting?traffic_source=rss",
-    "publishedAt": "2026-11-02T15:09:49.000Z"
-  },
-  {
-    "id": "4d00ab8880d9856d",
-    "title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
-    "summary": "Political wrangling is still ongoing as all blocs weigh potential paths to power.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks?traffic_source=rss",
-    "publishedAt": "2026-11-02T15:00:08.000Z"
-  },
-  {
-    "id": "06d4f58cb66f6d57",
-    "title": "Barcelona vs Aston Villa: Champions League – Predictions, news, lineups",
-    "summary": "Aston Villa, second in the UEFA Champions League table after three wins from three, head to Barcelona, three points back",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/2/barcelona-vs-aston-villa-champions-league-predictions-news?traffic_source=rss",
-    "publishedAt": "2026-11-02T14:57:01.000Z"
-  },
-  {
-    "id": "175b825c0efcbd2e",
-    "title": "As Islamophobia ramps up in US midterms, Texas Muslims eye local stakes",
-    "summary": "Texas Muslims grapple with a slate of policies they say stigmatise their community, push for change at the ballot box.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/2/as-islamophobia-ramps-up-in-us-midterms-texas-muslims-eye-local-stakes?traffic_source=rss",
-    "publishedAt": "2026-11-02T14:41:47.000Z"
-  },
-  {
-    "id": "67891a09d9f2e7f2",
-    "title": "Tomb Raider’s creators on how the game changed their lives: ‘Skint staff were suddenly pulling up in sports cars’",
-    "summary": "‘Giving Lara Croft pistols meant we could show off her acrobatics. And when she goes to Peru, we threw in a T rex!’",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/nov/02/tomb-raider-creators-lara-croft",
-    "publishedAt": "2026-11-02T14:40:35.000Z"
   }
 ]
