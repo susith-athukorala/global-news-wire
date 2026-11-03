@@ -1,5 +1,374 @@
 [
   {
+    "id": "9994823c36ba53ed",
+    "title": "European troops prepare for a postwar Ukraine mission that's fraught with challenges",
+    "summary": "Thousands of European troops are set to participate in a military exercise in Poland later this month.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/european-troops-prepare-postwar-ukraine-mission-fraught-challenges-137797096",
+    "publishedAt": "2026-11-03T08:16:28.000Z"
+  },
+  {
+    "id": "ce415c396fe1abd9",
+    "title": "Australia's highest court hears challenges to social media ban for children",
+    "summary": "Australia's highest court is hearing challenges to a law banning children younger than 16 from social media.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/australias-highest-court-hears-challenges-social-media-ban-137798339",
+    "publishedAt": "2026-11-03T08:14:29.000Z"
+  },
+  {
+    "id": "75871cc5d414da93",
+    "title": "Suspected militants kill 2 police officers guarding polio workers in Pakistan",
+    "summary": "Suspected militants have shot and killed two police officers protecting polio workers during a vaccination campaign in northwestern Pakistan.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/suspected-militants-open-fire-kill-2-police-officers-137798218",
+    "publishedAt": "2026-11-03T08:12:55.000Z"
+  },
+  {
+    "id": "0ea177632a526b26",
+    "title": "Law behind Bonfire Night among records sent from parliament to National Archives",
+    "summary": "Collection gems include 1605 Thanksgiving Act passed after Guy Fawkes’s failure and the longest act in the archives.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/03/law-behind-bonfire-night-among-records-sent-from-parliament-to-national-archives",
+    "publishedAt": "2026-11-03T08:00:41.000Z"
+  },
+  {
+    "id": "ac42f4b11afcffbe",
+    "title": "Why a US-Russia showdown left Morocco celebrating",
+    "summary": "An impasse between the US and Russia at the UN means its peacekeeping mission in Western Sahara has ended after 35 years.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro",
+    "publishedAt": "2026-11-03T07:29:46.000Z"
+  },
+  {
+    "id": "dd721328cde3dc41",
+    "title": "When will we know the US midterm election results?",
+    "summary": "The first results are expected on Tuesday as polls begin to close at 23:00 GMT. But final results might take days.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
+    "publishedAt": "2026-11-03T07:27:21.000Z"
+  },
+  {
+    "id": "c3da8629295715ce",
+    "title": "Major study into 'forever chemicals' in people's bodies launched in UK",
+    "summary": "The government is launching the first study to measure PFAS in the UK population to understand the risks.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo",
+    "publishedAt": "2026-11-03T07:19:27.000Z"
+  },
+  {
+    "id": "fe724d6b8b05aade",
+    "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+    "summary": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o",
+    "publishedAt": "2026-11-03T07:15:17.000Z"
+  },
+  {
+    "id": "7ef622d9007166e8",
+    "title": "One dead after two helicopters collide near Mount Everest in Nepal",
+    "summary": "Authorities have confirmed that a 47-year-old Indian national was killed and two people injured.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss",
+    "publishedAt": "2026-11-03T07:06:07.000Z"
+  },
+  {
+    "id": "0ae821a8353d42c6",
+    "title": "Americans head to polls in midterm elections seen as referendum on Trump",
+    "summary": "Control of the Senate and House of Representatives, both currently held by the Republicans, is at stake.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote",
+    "publishedAt": "2026-11-03T07:00:43.000Z"
+  },
+  {
+    "id": "185540b30fea1e16",
+    "title": "Poundland staff could be out of work for years if retailer collapses, founder says",
+    "summary": "Steve Smith calls on owners to accept proposed buyout as 12,000 staff face uncertain future in run-up to Christmas.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/03/poundland-staff-out-of-work-for-years-warning-founder",
+    "publishedAt": "2026-11-03T07:00:42.000Z"
+  },
+  {
+    "id": "1cb5fd6b39ac7203",
+    "title": "‘This is direct’: positive early feedback from pilot community mental health hub in Cumbria",
+    "summary": "Hope Haven in Whitehaven is one of six trial open-access, 24/7 schemes in England offering preventive care.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/03/early-feedback-pilot-community-mental-health-hub-cumbria-whitehaven",
+    "publishedAt": "2026-11-03T07:00:41.000Z"
+  },
+  {
+    "id": "dae536558646bc01",
+    "title": "UK MPs could undergo criminal record checks to stop violence against women",
+    "summary": "Exclusive: Members may be vetted before getting security passes for parliament, and receive anti-harassment training.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/03/uk-mps-criminal-record-checks-violence-against-women",
+    "publishedAt": "2026-11-03T07:00:40.000Z"
+  },
+  {
+    "id": "d5af100e464537cc",
+    "title": "Australia’s High Court hears bid to overturn under-16s social media ban",
+    "summary": "Online giant Reddit and advocacy group Digital Freedom Project argue ban is unconstitutional.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/australias-high-court-hears-bid-to-overturn-under-16s-social-media-ban?traffic_source=rss",
+    "publishedAt": "2026-11-03T06:59:20.000Z"
+  },
+  {
+    "id": "73a4a5dcbec4940a",
+    "title": "Polls show Trump's party could lose control of Congress but they may be wrong",
+    "summary": "Polls say the Democratic Party could be about to seize control of the US Congress when this week's midterm elections are held. Experts warn it may not be that simple.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-03/us-midterms-polling-dire-for-donald-trump-republican-party/107326276",
+    "publishedAt": "2026-11-03T06:58:23.000Z"
+  },
+  {
+    "id": "50a8e03468791baf",
+    "title": "AFC reschedules Asian Cup 2027 in Saudi Arabia amid regional conflict",
+    "summary": "Start date for AFC Cup 2027 moved from January to December due to ongoing Houthi attacks on host nation Saudi Arabia.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict?traffic_source=rss",
+    "publishedAt": "2026-11-03T06:55:39.000Z"
+  },
+  {
+    "id": "a7aa8a86d0231345",
+    "title": "Helicopters collide below Mount Everest base camp, killing 1 person and injuring 2",
+    "summary": "Two helicopters have collided while trying to land just below Mount Everest’s base camp.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/helicopters-collide-below-mount-everest-base-camp-killing-137796728",
+    "publishedAt": "2026-11-03T06:49:45.000Z"
+  },
+  {
+    "id": "8e2ee5cec343743b",
+    "title": "Authorities say 5 people rescued in Kiribati after 3 months drifting at sea",
+    "summary": "Authorities say five people, including two children, have been rescued in the South Pacific island nation of Kiribati after three months drifting at sea in a 20-foot skiff.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/authorities-5-people-rescued-kiribati-after-3-months-137797186",
+    "publishedAt": "2026-11-03T06:49:27.000Z"
+  },
+  {
+    "id": "e71f2e3b0d68a5ae",
+    "title": "Palestine weekly: Election deadlock meets West Bank sieges, Gaza killings",
+    "summary": "As Israel grapples with an inconclusive election, Palestinians face West Bank closures and Gaza killings.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/palestine-weekly-election-deadlock-meets-west-bank-sieges-gaza-killings?traffic_source=rss",
+    "publishedAt": "2026-11-03T06:46:27.000Z"
+  },
+  {
+    "id": "5fbe04c04f6e1628",
+    "title": "Heavy rain falls in eastern India after second cyclone in a week",
+    "summary": "Heavy rains is falling in eastern India after the second cyclone to hit the area in a week prompted evacuations of thousands of people.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/heavy-rain-falls-eastern-india-after-cyclone-week-137792512",
+    "publishedAt": "2026-11-03T06:43:21.000Z"
+  },
+  {
+    "id": "2a418f847059fe49",
+    "title": "Charity warns about damage of over-foraging fungi",
+    "summary": "It says over-foraging, particularly in protected areas, damages habitats and wildlife.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6jrw5j7n4dlo",
+    "publishedAt": "2026-11-03T06:37:19.000Z"
+  },
+  {
+    "id": "83767e0cf658105e",
+    "title": "Australia’s social media ban ‘ill-thought-out’, Reddit argues in high court challenge",
+    "summary": "Reddit challenges ban on grounds it impinges implied freedom of political communications for teens.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/03/reddit-under-16s-social-media-ban-australia-high-court",
+    "publishedAt": "2026-11-03T06:36:58.000Z"
+  },
+  {
+    "id": "e2d7b4f5f89c690d",
+    "title": "AI data centres could undermine UK's emissions goals",
+    "summary": "Four planned \"hyperscale\" data centres consider using gas-fired power for their electricity needs.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o",
+    "publishedAt": "2026-11-03T06:27:17.000Z"
+  },
+  {
+    "id": "10b65f1abcd02a21",
+    "title": "Public venues offer tea and warm welcome in winter",
+    "summary": "The annual scheme sees community venues and libraries offer hot drinks and the chance to socialise.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq23d505m555o",
+    "publishedAt": "2026-11-03T06:10:07.000Z"
+  },
+  {
+    "id": "fdbe9a642e2102f8",
+    "title": "Scientists detect signals at the smallest scale ever explored",
+    "summary": "Researchers have detected signals from the smallest distances ever probed.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo",
+    "publishedAt": "2026-11-03T06:01:23.000Z"
+  },
+  {
+    "id": "d4ac68d0af4ddbe5",
+    "title": "‘A serious failure’: CPS prosecutor cites imaginary case to high court after AI search",
+    "summary": "Exclusive: Nonexistent precedent cited in alleged child rape case adds to dozens of AI-related errors plaguing court proceedings.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search",
+    "publishedAt": "2026-11-03T06:00:40.000Z"
+  },
+  {
+    "id": "a2f1a0a112d93678",
+    "title": "Denmark pushes for EU ban on ‘turbo chickens’ as secret footage causes outrage",
+    "summary": "Minister says government will work towards banning fast-growing breed across country and throughout EU.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/03/denmark-pushes-for-eu-ban-on-turbo-chickens-as-secret-footage-causes-outrage",
+    "publishedAt": "2026-11-03T06:00:39.000Z"
+  },
+  {
+    "id": "edcd84e645f60434",
+    "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
+    "summary": "Guardian and Mongabay reveal approaches to officials and MPs on behalf of Vantara zoo ahead of UK-chaired Cites meeting on endangered animal imports.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites",
+    "publishedAt": "2026-11-03T06:00:39.000Z"
+  },
+  {
+    "id": "ecf8f2d2f545ba05",
+    "title": "Tough Christmas looms as rates and inflation hit household budgets",
+    "summary": "It's a gloomy picture for households as rising interest rates eat into disposable incomes, but the economic landscape today is much different to previous rate hiking cycles.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-03/tough-christmas-looms-amid-inflation-interest-rate-rise/107340208",
+    "publishedAt": "2026-11-03T05:52:14.000Z"
+  },
+  {
+    "id": "3ab6ac5bfe7bd828",
+    "title": "How a Harvard dream ended in tragedy for a Pakistani family",
+    "summary": "A 24-year-old physics graduate dies after her family pays millions to a man who lied about getting her into university.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/3/how-a-harvard-dream-ended-in-tragedy-for-a-pakistani-family?traffic_source=rss",
+    "publishedAt": "2026-11-03T05:51:29.000Z"
+  },
+  {
+    "id": "d71c79bb11968bf2",
+    "title": "New York child dies from measles in state’s first fatal case in 30 years",
+    "summary": "New York governor says case is ‘devastating reminder of what’s at stake’ when vaccine protections are eroded.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/03/new-york-child-measles-death-first-in-30-years",
+    "publishedAt": "2026-11-03T05:48:26.000Z"
+  },
+  {
+    "id": "adda9b4ab7d12d73",
+    "title": "Boulders dropped off coast to disrupt deep fishing",
+    "summary": "Greenpeace drops nine large rocks to create a barrier to bottom-trawling fishing vessels.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3j47k8rrkr5o",
+    "publishedAt": "2026-11-03T05:44:42.000Z"
+  },
+  {
+    "id": "ecfdf049824f9942",
+    "title": "Peacock found in couple’s Brisbane bathroom leads to creative bid to reunite bird with tattoo artist",
+    "summary": "Geoff and Delwyn Ballantyne went out for an evening coffee. When they returned they found Hex admiring himself in the mirror.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/03/hex-the-peacock-found-in-brisbane-bathroom",
+    "publishedAt": "2026-11-03T05:32:30.000Z"
+  },
+  {
+    "id": "318d7717b68a4e61",
+    "title": "‘Going hungry’: Garment workers in Bangladesh say wages barely cover needs",
+    "summary": "Tens of thousands of workers in world's second-largest apparel exporter hit the streets to demand better minimum wages.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs?traffic_source=rss",
+    "publishedAt": "2026-11-03T05:27:56.000Z"
+  },
+  {
+    "id": "4678b81fef2853f5",
+    "title": "California’s Bay Area debates data centres ahead of US midterm elections",
+    "summary": "At least seven Bay Area cities have passed data centre moratoriums, despite the region's reputation as an AI hub.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/californias-bay-area-debates-data-centres-ahead-of-us-midterm-elections?traffic_source=rss",
+    "publishedAt": "2026-11-03T05:13:42.000Z"
+  },
+  {
+    "id": "86d7efb15b417500",
+    "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
+    "summary": "Nearly 1,600 Palestinians have been killed in Gaza since a US-brokered 'ceasefire' took effect in October last year.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds?traffic_source=rss",
+    "publishedAt": "2026-11-03T05:02:34.000Z"
+  },
+  {
+    "id": "481bef6dd22e27a5",
+    "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+    "summary": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro",
+    "publishedAt": "2026-11-03T05:00:43.000Z"
+  },
+  {
+    "id": "f784b1170672f175",
+    "title": "UK job satisfaction at record low amid rising frustration over pay and flexible working",
+    "summary": "Resolution Foundation study finds workers are less willing to go ‘above and beyond for employers than a decade ago’",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/03/uk-job-satisfaction-record-low-frustration-pay-flexible-working-insecure-employment",
+    "publishedAt": "2026-11-03T05:00:39.000Z"
+  },
+  {
+    "id": "7087feb9cdbfdc2b",
+    "title": "‘It brings soul into this sterile world’: the Birmingham clubbers fighting to save their patch – and Britain’s nightlife",
+    "summary": "Digbeth is the city’s most thriving party district, but railway upgrades could tear it apart. Here, clubbers explain why they are doing everything to stop that happening.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/nov/03/birmingham-clubbers-fighting-to-save-britain-nightlife-digbeth",
+    "publishedAt": "2026-11-03T05:00:39.000Z"
+  },
+  {
+    "id": "715dcabbab21b76c",
+    "title": "What time do polls open and close in the US midterm elections 2026?",
+    "summary": "The first polls are set to open in Vermont at 5am (10:00 GMT).",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/what-time-do-polls-open-and-close-in-the-us-midterm-elections-2026?traffic_source=rss",
+    "publishedAt": "2026-11-03T04:52:08.000Z"
+  },
+  {
+    "id": "f47b606c6497291e",
+    "title": "What another rate hike means for your mortgage, savings and travel",
+    "summary": "Mortgage borrowers are likely to feel the sting of the RBA's latest cash rate rise, but savers and overseas travellers will also see the effects.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-03/what-november-cash-rate-hike-means-for-australians-money/107324538",
+    "publishedAt": "2026-11-03T03:52:26.000Z"
+  },
+  {
     "id": "27a620f67ac8e6f3",
     "title": "US strikes Iran ahead of midterm elections",
     "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
@@ -72,6 +441,15 @@
     "publishedAt": "2026-11-03T02:27:51.000Z"
   },
   {
+    "id": "1963cee85dd2482c",
+    "title": "Christmas 2026 stamps unveiled by Royal Mail",
+    "summary": "The annual Christmas collection of five stamps feature scenes from the Nativity.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw62yeq7958ro",
+    "publishedAt": "2026-11-03T02:27:50.000Z"
+  },
+  {
     "id": "ee4967f67bfd285a",
     "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
     "summary": "Several explosions heard in Qeshm Island and Bandar Lengeh, as US media say the US military carried out the strikes.",
@@ -97,6 +475,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
     "publishedAt": "2026-11-03T02:11:13.000Z"
+  },
+  {
+    "id": "44533b2bbd244e4b",
+    "title": "North Korea denies role in Binance heist as customers withdraw billions",
+    "summary": "Pyongyang says allegations linking North Korea to the biggest crypto heist in history are \"nothing new\" from the US.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-03/north-korea-denies-binance-heist-customers-withdraw-billions/107340330",
+    "publishedAt": "2026-11-03T02:00:58.000Z"
   },
   {
     "id": "8eb8876b84d09db9",
@@ -961,392 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/culture/2026/nov/02/tomb-raider-creators-lara-croft",
     "publishedAt": "2026-11-02T14:40:35.000Z"
-  },
-  {
-    "id": "b9e09f48c646edba",
-    "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
-    "summary": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o",
-    "publishedAt": "2026-11-02T14:35:38.000Z"
-  },
-  {
-    "id": "f994d1fd0476bdc6",
-    "title": "Cyber attack on fridges hits supermarkets across Europe",
-    "summary": "Multiple supermarket chains have reported an IT incident that spiked fridge and freezer temperatures overnight, with one company claiming it was a cyber attack.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-03/european-grocers-report-fridge-cyber-incidents/107338760",
-    "publishedAt": "2026-11-02T14:21:47.000Z"
-  },
-  {
-    "id": "edc4e805bbf426e7",
-    "title": "Ethiopia attacks kill civilians as health system nears collapse, WHO chief says",
-    "summary": "The World Health Organization reports that attacks in northern Ethiopia are pushing the region's fragile health system closer to collapse",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ethiopia-attacks-kill-civilians-health-system-nears-collapse-137765937",
-    "publishedAt": "2026-11-02T14:14:36.000Z"
-  },
-  {
-    "id": "c59157beacbf7359",
-    "title": "3 appear in court accused of causing Athens gas explosion by stealing copper piping",
-    "summary": "Three men accused of causing a deadly explosion in Athens by stealing copper piping from a gas supply network are appearing in court for a preliminary hearing",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/3-court-accused-causing-deadly-gas-explosion-athens-137766040",
-    "publishedAt": "2026-11-02T14:11:01.000Z"
-  },
-  {
-    "id": "9cac8335096eb1af",
-    "title": "Guardian Essential poll: record number of Australians are turning their backs on the Melbourne Cup",
-    "summary": "",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/sport/2026/nov/03/melbourne-cup-2026-poll-record-numbers-turn-their-backs",
-    "publishedAt": "2026-11-02T14:00:46.000Z"
-  },
-  {
-    "id": "cc8589c041731897",
-    "title": "NSW council refuses to show world-renowned Gaza artwork over ‘unacceptable’ safety risk",
-    "summary": "",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/03/shoalhaven-council-refuses-to-show-wall-of-tears-gaza-artwork-safety-risk-ntwnfb",
-    "publishedAt": "2026-11-02T14:00:44.000Z"
-  },
-  {
-    "id": "b1475e8e762c79fa",
-    "title": "Chinese cigarettes and Bolivian beer: the Amazonian town transformed by a rampant mining boom",
-    "summary": "Mayaya, once-remote, has become a hub for Chinese companies. But critics accuse them of exploitation and illegal exports The pork belly hits the oil with a sizzle, and a rich aroma of soy sauce and caramelising sugar fills the kitchen.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/nov/02/chinese-cigarettes-and-bolivian-beer-the-amazonian-town-transformed-by-a-rampant-mining-boom",
-    "publishedAt": "2026-11-02T14:00:43.000Z"
-  },
-  {
-    "id": "f4f019f0f573ebae",
-    "title": "A job that changed me: I ran observatory tours as a student. An eight-year-old’s question taught me two important lessons",
-    "summary": "I thought the explanation I’d given about black holes was family-friendly; but after what she had said, I had to rethink my examples",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/03/a-job-that-changed-me-astronomy-guide-black-holes",
-    "publishedAt": "2026-11-02T14:00:43.000Z"
-  },
-  {
-    "id": "46cba78021b4aa13",
-    "title": "A Paralympian vs a former TV news anchor - and other US Senate races to watch",
-    "summary": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko",
-    "publishedAt": "2026-11-02T13:49:19.000Z"
-  },
-  {
-    "id": "1592e79b305cc766",
-    "title": "Rights group accuses Zambia of violent post-election crackdown on opposition",
-    "summary": "Zambian authorities forcibly disappeared, arbitrarily detained, beat and threatened opposition members and supporters, lawyers, journalists and government critics in the days before and after August’s general election, Human Rights Watch said",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/rights-group-accuses-zambia-violent-post-election-crackdown-137765585",
-    "publishedAt": "2026-11-02T13:44:57.000Z"
-  },
-  {
-    "id": "bc6183117ea8eec4",
-    "title": "Freezers at supermarkets in several European countries hit by apparent cyberattacks",
-    "summary": "Supermarkets in Sweden, Belgium, Luxembourg and Estonia are dealing with cyberattacks affecting their refrigeration systems",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/freezers-supermarkets-european-countries-hit-apparent-cyberattacks-137765494",
-    "publishedAt": "2026-11-02T13:44:11.000Z"
-  },
-  {
-    "id": "f6ae592bd500c60d",
-    "title": "4 Americans and 1 Canadian among the 69 dead in Spain's train collision",
-    "summary": "Authorities say four Americans and one Canadian were among the 69 people killed in last week's high-speed train collision in Spain",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/4-americans-1-canadian-69-dead-spains-train-137764406",
-    "publishedAt": "2026-11-02T13:42:00.000Z"
-  },
-  {
-    "id": "f28a0ce89a4a6a98",
-    "title": "Belgian PM quits after budget talks fail as king mulls whether to accept resignation",
-    "summary": "Belgian Prime Minister Bart De Wever has handed in his resignation as a budget crisis intensifies",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/belgian-prime-minister-quits-after-budget-talks-fail-137764313",
-    "publishedAt": "2026-11-02T13:41:15.000Z"
-  },
-  {
-    "id": "f60885e79ce54de1",
-    "title": "Poundland's former owner offers to invest as minister prepares to meet board",
-    "summary": "Wolverhampton's Steve Smith said he wants to put some money back into the firm he started.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo",
-    "publishedAt": "2026-11-02T13:40:36.000Z"
-  },
-  {
-    "id": "fc7b8f7413c1dcbc",
-    "title": "Uganda begins withdrawing peacekeeping troops that helped repel militants in Somalia",
-    "summary": "Uganda is withdrawing troops from Somalia, where they have been part of an African Union peacekeeping force",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/uganda-begins-withdrawing-peacekeeping-troops-helped-repel-militants-137764218",
-    "publishedAt": "2026-11-02T13:39:58.000Z"
-  },
-  {
-    "id": "afa5b3704f6fce8f",
-    "title": "Ukraine and Russia both report cyberattacks on emergency apps",
-    "summary": "Ukraine and Russia have reported cyberattacks on their emergency alert apps",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ukraine-russia-report-cyberattacks-emergency-apps-137763112",
-    "publishedAt": "2026-11-02T13:30:14.000Z"
-  },
-  {
-    "id": "f6dfe53010f8aa0e",
-    "title": "Greenpeace activists create ‘boulder barrier’ in North Sea to deter industrial fishing",
-    "summary": "",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/02/greenpeace-boulder-barrier-north-sea-industrial-fishing-bottom-trawling-marine-protected-area",
-    "publishedAt": "2026-11-02T13:10:08.000Z"
-  },
-  {
-    "id": "4357af9f73d21b80",
-    "title": "Unions gain access to thousands of Google workers after UK employment rights overhaul",
-    "summary": "",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights",
-    "publishedAt": "2026-11-02T13:00:41.000Z"
-  },
-  {
-    "id": "c3f155abed880409",
-    "title": "Ryanair faces clash with unions as it mulls pay freezes amid soaring fuel costs",
-    "summary": "",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai",
-    "publishedAt": "2026-11-02T12:57:53.000Z"
-  },
-  {
-    "id": "4eecc54630baa35e",
-    "title": "Snowball fight: Cadbury owner in trademark row over festive chocolate treat",
-    "summary": "",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/02/snowball-fight-cadbury-owner-in-trademark-row-over-festive-chocolate-treat",
-    "publishedAt": "2026-11-02T12:22:41.000Z"
-  },
-  {
-    "id": "70e5da24af66d9f1",
-    "title": "Ryanair says it may freeze workers' pay and raise airfares",
-    "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o",
-    "publishedAt": "2026-11-02T12:22:10.000Z"
-  },
-  {
-    "id": "3a539568c65ef63a",
-    "title": "Sales slump at UK’s largest brickmaker as housebuilding downturn deepens",
-    "summary": "",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/02/uk-largest-brickmaker-sales-slump-housebuilding-downturn-deepens-ibstock",
-    "publishedAt": "2026-11-02T12:20:20.000Z"
-  },
-  {
-    "id": "94f3a475eae4e9f0",
-    "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
-    "summary": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
-    "publishedAt": "2026-11-02T12:19:54.000Z"
-  },
-  {
-    "id": "155abfa93b1ee3fc",
-    "title": "Uganda begins withdrawing troops from Somalia after 20 years",
-    "summary": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do",
-    "publishedAt": "2026-11-02T12:05:34.000Z"
-  },
-  {
-    "id": "8f2174160af80342",
-    "title": "Where things stand on Iran after tense weekend as its delegation leaves Qatar",
-    "summary": "The Middle East is bracing for a potential return to all-out war as concerns grow over possible U.S. and Israeli strikes on Iran",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/things-stand-iran-after-tense-weekend-137762946",
-    "publishedAt": "2026-11-02T11:46:13.000Z"
-  },
-  {
-    "id": "1a53db9dbeac4fbe",
-    "title": "Five arrested after South African farmer shot and tortured",
-    "summary": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo",
-    "publishedAt": "2026-11-02T10:48:47.000Z"
-  },
-  {
-    "id": "a644f22f1c685656",
-    "title": "From a life-changing garlic press to a super-glowy serum: 12 buys you’re loving right now",
-    "summary": "Casserole dishes, electric heaters and silk shirts: your autumnal favourites show you’re hunkering down – with one eye on party season • Don’t get the Filter delivered to your inbox? Sign up here Autumn, we’ve been expecting you.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2026/oct/30/things-you-loved-most-october-2026",
-    "publishedAt": "2026-11-02T10:45:02.000Z"
-  },
-  {
-    "id": "b401fc81f4fa50da",
-    "title": "Palantir AI tech unused or little used by 29 NHS trusts said to be benefiting from it",
-    "summary": "",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts",
-    "publishedAt": "2026-11-02T10:19:46.000Z"
-  },
-  {
-    "id": "c6fc54db4682690a",
-    "title": "‘They assume the man next to me is the owner’: four women doing business in Africa in their own way",
-    "summary": "",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/nov/02/they-assume-the-man-next-to-me-is-the-owner-four-women-doing-business-in-africa-in-their-own-way",
-    "publishedAt": "2026-11-02T10:00:37.000Z"
-  },
-  {
-    "id": "766fbd99c7199f74",
-    "title": "How does this fluoride-free toothpaste compare when it comes to oral health?",
-    "summary": "Many people are swapping out their fluoride dental products for ones made with a mineral called hydroxyapatite. What do dentists say about it?",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health",
-    "publishedAt": "2026-11-02T10:00:00.000Z"
-  },
-  {
-    "id": "98d4917bfcfd126f",
-    "title": "More than 400 jobs to be affected under Mater Pathology changes",
-    "summary": "More than 100 positions will be lost in the next two months as Mater hospitals transition to a new pathology service model.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-02/queensland-mater-pathology-jobs/107338668",
-    "publishedAt": "2026-11-02T09:48:48.000Z"
-  },
-  {
-    "id": "2c775af06445e252",
-    "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
-    "summary": "The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
-    "publishedAt": "2026-11-02T09:42:11.000Z"
-  },
-  {
-    "id": "a3696e4813a94f74",
-    "title": "A brief ceasefire opens a perilous escape window from Kherson’s riverside kill zone",
-    "summary": "Nataliia Diadiuk uses a white towel to signal Russian drones that she is a civilian in Ukraine’s Kherson region",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/brief-ceasefire-opens-perilous-escape-window-khersons-riverside-137762057",
-    "publishedAt": "2026-11-02T09:38:14.000Z"
-  },
-  {
-    "id": "44598299b9028c8e",
-    "title": "South Africans to vote in key local elections seen as a tough test for ruling ANC",
-    "summary": "South Africans head to the polls for local government elections that will determine control of major cities and test the electoral strength of the African National Congress (ANC)",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/south-africans-vote-key-local-elections-tough-test-137760153",
-    "publishedAt": "2026-11-02T09:28:36.000Z"
-  },
-  {
-    "id": "83050d2e1192f8df",
-    "title": "Dozens of Commonwealth leaders descend on Antigua during global political turbulence",
-    "summary": "Leaders representing nearly a third of the world’s population are meeting on the tiny Caribbean island of Antigua this week to strengthen ties during a time of global political upheaval",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/dozens-commonwealth-leaders-descend-antigua-global-political-turbulence-137761324",
-    "publishedAt": "2026-11-02T09:27:15.000Z"
-  },
-  {
-    "id": "64ae5e1f8f53b26a",
-    "title": "Parents' concerns to trigger urgent checks in A&E",
-    "summary": "Concerns from staff, parents, carers or the child themselves will trigger an immediate escalation of care.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go",
-    "publishedAt": "2026-11-02T08:52:08.000Z"
-  },
-  {
-    "id": "03799b3e84008938",
-    "title": "Popular Australian children's author jailed over child exploitation offences",
-    "summary": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o",
-    "publishedAt": "2026-11-02T08:03:39.000Z"
-  },
-  {
-    "id": "144149f79ef14398",
-    "title": "Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
-    "summary": "",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb",
-    "publishedAt": "2026-11-02T08:01:34.000Z"
-  },
-  {
-    "id": "ff254917f921cc63",
-    "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-    "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
-    "publishedAt": "2026-11-02T07:42:33.000Z"
-  },
-  {
-    "id": "e60e12a6739e4965",
-    "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
-    "summary": "The U.N.'s long-running peacekeeping mission for the disputed Western Sahara ceased operations Sunday after 35 years. Once ruled by Spain, it is claimed by both Morocco and the pro-independence Polisario Front.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends",
-    "publishedAt": "2026-11-02T07:19:35.000Z"
-  },
-  {
-    "id": "c079f2eb18b0d274",
-    "title": "What to look for if you’re buying a smart lock in the UK",
-    "summary": "More people are fitting keyless devices to their front door – but are they worth it and do they affect your insurance? As the nights draw in, thoughts turn to home security.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/02/buying-smart-lock-uk-worth-it-affect-insurance",
-    "publishedAt": "2026-11-02T07:00:34.000Z"
-  },
-  {
-    "id": "349c9bdc69f0409b",
-    "title": "‘Sharper, longer slowdown’ predicted for Australian economy as fifth interest rate hike looms",
-    "summary": "",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms",
-    "publishedAt": "2026-11-02T06:57:29.000Z"
-  },
-  {
-    "id": "b4b2647865049064",
-    "title": "'It took years to get pain-relieving surgery - I hope a robot means others won't have to wait'",
-    "summary": "A woman who waited in pain for years for endometriosis surgery praises high-tech bid to end delays.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c98rz8v5rem0o",
-    "publishedAt": "2026-11-02T06:24:21.000Z"
   }
 ]
