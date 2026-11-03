@@ -1,5 +1,113 @@
 [
   {
+    "id": "27a620f67ac8e6f3",
+    "title": "US strikes Iran ahead of midterm elections",
+    "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+    "publishedAt": "2026-11-03T03:39:08.000Z"
+  },
+  {
+    "id": "784823ca0a811932",
+    "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+    "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko",
+    "publishedAt": "2026-11-03T03:32:36.000Z"
+  },
+  {
+    "id": "19b7992fc9f9ba11",
+    "title": "RBA interest rates: Reserve Bank hikes cash rate for fifth time this year in blow to mortgage holders",
+    "summary": "Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
+    "publishedAt": "2026-11-03T03:30:59.000Z"
+  },
+  {
+    "id": "d3d8fa24fa325189",
+    "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+    "summary": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo",
+    "publishedAt": "2026-11-03T03:30:16.000Z"
+  },
+  {
+    "id": "d60582e033452480",
+    "title": "‘Trying to get back into a positive mindset’: court hears voice notes Beau Lamarre-Condon sent day after alleged murders",
+    "summary": "Recordings from police officer to man he’d met on dating app include one in which Lamarre-Condon states: ‘I’m in bed … not feeling the best’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/03/beau-lamarre-condon-trial-voice-recording-alleged-murders-ntwnfb",
+    "publishedAt": "2026-11-03T03:19:27.000Z"
+  },
+  {
+    "id": "5904df709278e703",
+    "title": "US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+    "summary": "Iranian state media reported the sound of explosions on the island in the strait of Hormuz, coming on the eve of crucial US midterms.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
+    "publishedAt": "2026-11-03T03:18:36.000Z"
+  },
+  {
+    "id": "52ea9462ec3136df",
+    "title": "Tennessee national guard trained guns on dying man after guard member shot him, video shows",
+    "summary": "Footage from prosecutors shows aftermath of shooting of Tyrin Johnson, 20, shot and killed by national guard in July.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/02/tennessee-shooting-tyrin-johnson-video",
+    "publishedAt": "2026-11-03T03:13:06.000Z"
+  },
+  {
+    "id": "e49751da47cf3ed1",
+    "title": "US urges Venezuela to follow phased plan for democratic transition",
+    "summary": "This comes as leading opposition leader returns to Venezuela and hints at criticism of Trump administration.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss",
+    "publishedAt": "2026-11-03T02:27:51.000Z"
+  },
+  {
+    "id": "ee4967f67bfd285a",
+    "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+    "summary": "Several explosions heard in Qeshm Island and Bandar Lengeh, as US media say the US military carried out the strikes.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
+    "publishedAt": "2026-11-03T02:25:02.000Z"
+  },
+  {
+    "id": "ae05ac5028ca98e5",
+    "title": "US lawmakers ask Trump administration to stop deportation of Afghans",
+    "summary": "At least 150 Afghans are facing deportation to Pakistan and on to Afghanistan.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans?traffic_source=rss",
+    "publishedAt": "2026-11-03T02:12:33.000Z"
+  },
+  {
+    "id": "640cf68696f2735d",
+    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+    "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
+    "publishedAt": "2026-11-03T02:11:13.000Z"
+  },
+  {
+    "id": "8eb8876b84d09db9",
+    "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
+    "summary": "Ukrainian president Zelenskyy says attack on aid hub was ‘vile’ and shows Russia does not want to de-escalate.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
+    "publishedAt": "2026-11-03T01:13:52.000Z"
+  },
+  {
     "id": "2c60615ce208508f",
     "title": "UK cyber chief says UK will face AI cyberattacks on critical infrastructure by 2028",
     "summary": "Britain’s cyber chief says the U.K. is likely to face artificial intelligence cyberattacks on its critical infrastructure by 2028.",
@@ -369,6 +477,15 @@
     "publishedAt": "2026-11-02T19:57:56.000Z"
   },
   {
+    "id": "e15cb6c709e84b71",
+    "title": "Airbnb host accused of using AI image of blocked toilet to claim damages",
+    "summary": "The host lodged multiple claims against the guest, including one for $1,755 to repair a blocked toilet and clean \"extraordinary soilage\".",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-03/airbnb-host-accused-of-using-ai-doctored-image-to-claim-damages/107264584",
+    "publishedAt": "2026-11-02T19:43:03.000Z"
+  },
+  {
     "id": "a89ddf8c5707258e",
     "title": "HRW calls on Zambia to halt post-election crackdown",
     "summary": "Opposition figures arrested and disappeared since President Hakainde Hichilema claimed August victory.",
@@ -486,6 +603,15 @@
     "publishedAt": "2026-11-02T18:47:24.000Z"
   },
   {
+    "id": "3fb37f2828c2e109",
+    "title": "Tracking Trump's rallies amid predictions deep red states could turn blue",
+    "summary": "Ahead of the midterm elections, the US president has prioritised his in-person appearances in Republican strongholds, as he attempts to shore up support in races that are predicted to be closer than his party would like.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-03/us-midterms-donald-trump-campaign-appearances-tracked/107332788",
+    "publishedAt": "2026-11-02T18:38:56.000Z"
+  },
+  {
     "id": "58aaf710c94d01a2",
     "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
     "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
@@ -556,6 +682,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/2/judge-dismisses-charges-against-fbi-agents-involved-in-hunter-biden-case?traffic_source=rss",
     "publishedAt": "2026-11-02T18:10:26.000Z"
+  },
+  {
+    "id": "844d90eefb7c05db",
+    "title": "Structural deficits across governments to blame for inflation, not spending",
+    "summary": "The Coalition has been blaming federal government spending for rising inflation and another impending rate rise for Melbourne Cup Day, but the figures tell a different story.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-03/rate-hikes-gather-pace-across-the-globe-as-deficits/107336008",
+    "publishedAt": "2026-11-02T18:00:00.000Z"
   },
   {
     "id": "aaa1d99750466d09",
@@ -637,6 +772,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo",
     "publishedAt": "2026-11-02T17:29:49.000Z"
+  },
+  {
+    "id": "fa0d803ea67a7808",
+    "title": "Iran offers to reopen strait under strict conditions amid 'intensive' talks",
+    "summary": "Iran says \"intensive\" talks with Washington are underway and Tehran is offering to reopen the Strait of Hormuz under strict conditions.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-03/iran-negotiations-us-intensive-war/107339208",
+    "publishedAt": "2026-11-02T17:27:10.000Z"
   },
   {
     "id": "5f88e4df83892cc5",
@@ -826,6 +970,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o",
     "publishedAt": "2026-11-02T14:35:38.000Z"
+  },
+  {
+    "id": "f994d1fd0476bdc6",
+    "title": "Cyber attack on fridges hits supermarkets across Europe",
+    "summary": "Multiple supermarket chains have reported an IT incident that spiked fridge and freezer temperatures overnight, with one company claiming it was a cyber attack.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-03/european-grocers-report-fridge-cyber-incidents/107338760",
+    "publishedAt": "2026-11-02T14:21:47.000Z"
   },
   {
     "id": "edc4e805bbf426e7",
@@ -1195,158 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c98rz8v5rem0o",
     "publishedAt": "2026-11-02T06:24:21.000Z"
-  },
-  {
-    "id": "e9802e6085dee61b",
-    "title": "Christmas donations gift demand up, charities say",
-    "summary": "Charities collecting Christmas presents for struggling families say demand has gone up.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm5ynrp0lg2yo",
-    "publishedAt": "2026-11-02T06:22:48.000Z"
-  },
-  {
-    "id": "810391ebee94ab1b",
-    "title": "Woman who flew with swans warns of lead danger",
-    "summary": "Sacha Dench, known as the \"human swan\", welcomes new laws banning the sale of lead ammunition.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqly0r3kp1mlo",
-    "publishedAt": "2026-11-02T06:22:00.000Z"
-  },
-  {
-    "id": "bfbcc3b23c601512",
-    "title": "Christmas shoebox appeal launches to help children",
-    "summary": "A gift-filled shoebox campaign launched for children who would otherwise go without this Christmas.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cv98zr5wxp21o",
-    "publishedAt": "2026-11-02T06:21:09.000Z"
-  },
-  {
-    "id": "9bc97880daed88be",
-    "title": "Verdict delayed on controversial sea defences",
-    "summary": "The council have deferred a decision on the building of 17 rock groynes after RNLI safety concerns.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq9vz2jj409vo",
-    "publishedAt": "2026-11-02T06:16:34.000Z"
-  },
-  {
-    "id": "544f18cf151f97db",
-    "title": "Police use facial recognition to scan one million faces in WA trial leading to 122 arrests",
-    "summary": "",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial",
-    "publishedAt": "2026-11-02T06:12:52.000Z"
-  },
-  {
-    "id": "5f3679608dc69b36",
-    "title": "'I could barely stand up straight with menopause after cancer'",
-    "summary": "Complex menopause has severe, sudden symptoms and happens due to medical interventions.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck3r5z2d8zrwo",
-    "publishedAt": "2026-11-02T06:12:03.000Z"
-  },
-  {
-    "id": "36da0fe80436257f",
-    "title": "Cleft lip filler 'boosts confidence' - but expert warns of exploitation risk",
-    "summary": "Two women from Wales are among the growing number of people having lip filler after cleft lip and palate surgery.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9vgrkvv006xo",
-    "publishedAt": "2026-11-02T06:11:39.000Z"
-  },
-  {
-    "id": "f5d866adc2162307",
-    "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-    "summary": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo",
-    "publishedAt": "2026-11-02T06:00:54.000Z"
-  },
-  {
-    "id": "89445e0b788849cc",
-    "title": "Millions in UK brace to remortgage on worse deals as rate rise looms",
-    "summary": "",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/02/mortgage-payments-rise-2027-interest-rates",
-    "publishedAt": "2026-11-02T06:00:34.000Z"
-  },
-  {
-    "id": "f495854b25fcd6ef",
-    "title": "Starwatch: Catch the striking trifecta of Venus, the moon and Spica at break of dawn",
-    "summary": "",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/02/starwatch-catch-the-striking-trifecta-of-venus-the-moon-and-spica-at-break-of-dawn",
-    "publishedAt": "2026-11-02T06:00:34.000Z"
-  },
-  {
-    "id": "e8945d7d0316390e",
-    "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
-    "summary": "",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
-    "publishedAt": "2026-11-02T06:00:33.000Z"
-  },
-  {
-    "id": "451a04e84b13ef37",
-    "title": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition",
-    "summary": "",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
-    "publishedAt": "2026-11-02T06:00:32.000Z"
-  },
-  {
-    "id": "330a3a5b24f85828",
-    "title": "Land of the free, home of the bill shock. This is life in Trump's America",
-    "summary": "From fuel to food and a day at the football, Americans are feeling the burden of the rising cost of living. It's the only issue on the minds of many voters as they prepare to cast their ballot in the US midterm elections.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-02/cost-of-living-impact-us-midterms-inflation-trump-charted/107316344",
-    "publishedAt": "2026-11-02T05:32:25.000Z"
-  },
-  {
-    "id": "7a3b7779b3c1a2de",
-    "title": "UK making up China policy ‘as it goes along’, MPs warn",
-    "summary": "",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/02/uk-making-up-china-policy-as-it-goes-along-mps",
-    "publishedAt": "2026-11-02T05:00:33.000Z"
-  },
-  {
-    "id": "de6a379a70803e8e",
-    "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
-    "summary": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o",
-    "publishedAt": "2026-11-02T03:58:38.000Z"
-  },
-  {
-    "id": "30950b01c223d704",
-    "title": "Photos show elaborate preparations for Thailand’s Royal Barges Procession",
-    "summary": "",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/photos-show-elaborate-preparations-thailands-royal-barges-procession-137760578",
-    "publishedAt": "2026-11-02T02:02:18.000Z"
-  },
-  {
-    "id": "72a5b79634425ff2",
-    "title": "The UK's stance on its role in the slave trade is shifting, but reparations remain off the table",
-    "summary": "U.K. Prime Minister Andy Burnham has expressed openness to formally apologizing for Britain's role in the trans-Atlantic slave trade.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/uks-stance-role-slave-trade-shifting-reparations-remain-137749095",
-    "publishedAt": "2026-11-02T00:50:14.000Z"
   }
 ]
