@@ -1,5 +1,41 @@
 [
   {
+    "id": "4ccb055f9909718e",
+    "title": "‘A true icon of the hair industry’: Celebrity hairstylist John Frieda dies aged 75",
+    "summary": "Businessman styled stars such as Twiggy, Madonna and Joanna Lumley and created popular hair care line Frizz Ease.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/04/celebrity-hairstylist-john-frieda-dies-aged-75",
+    "publishedAt": "2026-11-04T09:59:08.000Z"
+  },
+  {
+    "id": "9ab2af0f08b38aba",
+    "title": "US dollar slides after Democrats’ midterm election win as growth fears rise",
+    "summary": "Concern over greater AI regulation, while investors move into US treasuries as Trump faces political gridlock.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+    "publishedAt": "2026-11-04T09:55:22.000Z"
+  },
+  {
+    "id": "e34f57a84aeec738",
+    "title": "Key takeaways from the 2026 midterm elections in California",
+    "summary": "Democrats easily hold on to governor's office and are on track to notch up wins in key congressional races.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/key-takeaways-from-the-2026-midterm-elections-in-california?traffic_source=rss",
+    "publishedAt": "2026-11-04T09:17:09.000Z"
+  },
+  {
+    "id": "bb6c6d32c1322a89",
+    "title": "Who determines Iran’s fighting and negotiating position amid US threats?",
+    "summary": "Iran is on the brink of a new escalation with the US, but negotiations are continuing.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats?traffic_source=rss",
+    "publishedAt": "2026-11-04T09:16:57.000Z"
+  },
+  {
     "id": "0cdf92476bc52504",
     "title": "‘Not been this excited in a long time’: US expats ride the blue wave at Australian midterms watch parties",
     "summary": "US voters, their Australian partners and British spectators crowd around pub TVs to watch the historic election results roll in.",
@@ -7,6 +43,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/04/not-been-this-excited-in-a-long-time-us-expats-ride-the-blue-wave-at-australian-midterms-watch-parties",
     "publishedAt": "2026-11-04T09:09:31.000Z"
+  },
+  {
+    "id": "3c40a9bcdff15fed",
+    "title": "Liverpool owner FSG holds talks over buying majority stake in Cadillac F1 team",
+    "summary": "Liverpool’s owner, Fenway Sports Group, has held talks about buying a majority stake in the Cadillac Formula One team for more than £2bn as Mark Walter continues to sell off his sporting assets amid allegations of insurance fraud.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/sport/2026/nov/04/liverpool-owner-fsg-talks-buy-cadillac-f1-team-majority-stake",
+    "publishedAt": "2026-11-04T08:36:14.000Z"
   },
   {
     "id": "89f4b563a1fc0545",
@@ -538,6 +583,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss",
     "publishedAt": "2026-11-04T04:19:14.000Z"
+  },
+  {
+    "id": "e5827c4475adf7c2",
+    "title": "China Southern Airlines suspends direct Darwin to China route after one year",
+    "summary": "China Southern Airlines will suspend its direct flights between Darwin and Guangzhou, China after just one year operating in the NT. The airline's final scheduled flight to China will be on December 3.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-04/china-southern-airline-backs-out-of-darwin-after-one-year/107345298",
+    "publishedAt": "2026-11-04T04:17:49.000Z"
   },
   {
     "id": "74b650d19e7bb0ba",
@@ -1170,6 +1224,15 @@
     "publishedAt": "2026-11-03T20:53:03.000Z"
   },
   {
+    "id": "74d19b3565375a6a",
+    "title": "Seven flights across Europe targeted by suspected bomb threats",
+    "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo",
+    "publishedAt": "2026-11-03T20:42:47.000Z"
+  },
+  {
     "id": "d3867d548216f898",
     "title": "Russia's 'vile terrorist strike' kills dozens at school used as aid centre",
     "summary": "Ukranian President Volodymyr Zelenskky describes a series of deadly Russian attacks at a school being used as an aid hub in the country's south-eastern region of Zaporizhzhia, as a \"vile terrorist strike\".",
@@ -1285,68 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
     "publishedAt": "2026-11-03T19:00:23.000Z"
-  },
-  {
-    "id": "c77c76c80710265c",
-    "title": "Latest Sarah J Maas book becomes UK’s fastest-selling adult fantasy novel",
-    "summary": "A Court of Splintered Harmony also records biggest single week of sales since Harper Lee’s Go Set a Watchman in 2015.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/books/2026/nov/03/sarah-j-maas-court-of-splintered-harmony-uk-fastest-selling-adult-fantasy-novel",
-    "publishedAt": "2026-11-03T18:51:16.000Z"
-  },
-  {
-    "id": "6536a701fa62b83d",
-    "title": "Ukraine's rescuers deal with grim aftermath of aid shelter bombings as Moscow pounds energy targets",
-    "summary": "The death toll from a Russian attack in southern Ukraine has risen to 31, with dozens still missing.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/death-toll-hits-29-after-russian-strike-ukrainian-137799736",
-    "publishedAt": "2026-11-03T18:34:13.000Z"
-  },
-  {
-    "id": "217702c7a37fdb12",
-    "title": "UK’s King Charles expresses ‘sorrow’ in Antigua over slave trade",
-    "summary": "Caribbean nations call for reparations as King Charles stops short of issuing an apology for colonial-era slavery.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/uks-king-charles-expresses-profound-sorrow-over-transatlantic-slave-era?traffic_source=rss",
-    "publishedAt": "2026-11-03T18:32:46.000Z"
-  },
-  {
-    "id": "f1de564ea72b52c1",
-    "title": "The UK-EU food produce deal: what was agreed and will it affect shoppers?",
-    "summary": "Two sides agree deal to remove some Brexit checks on food and animal product exports to EU.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/03/new-uk-eu-brexit-food-produce-deal-explained",
-    "publishedAt": "2026-11-03T18:24:37.000Z"
-  },
-  {
-    "id": "b36cbe4d4365462d",
-    "title": "Greenland parliament approves security deal with US, Denmark",
-    "summary": "Lawmakers vote 16-0 for trilateral agreement signed in September, while seven abstained.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark?traffic_source=rss",
-    "publishedAt": "2026-11-03T18:05:48.000Z"
-  },
-  {
-    "id": "ecda2493a0d1031f",
-    "title": "Panel rules out further inquiry into sexual harassment claims against Lib Dem peer Chris Rennard",
-    "summary": "Party leader Ed Davey ‘disappointed and upset’ at decision by independent panel after claims original investigation was flawed.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/03/inquiry-sexual-harassment-claims-lib-dem-peer-chris-rennard",
-    "publishedAt": "2026-11-03T18:03:07.000Z"
-  },
-  {
-    "id": "2fbd8ff8418aa9e7",
-    "title": "Above-target inflation to blame for rate hikes, but why did RBA pick 2-3pc?",
-    "summary": "The Reserve Bank is hiking rates to get inflation back to its 2 to 3 per cent target. For a number that's so consequential, its origins are surprisingly imprecise.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-04/reserve-bank-australia-origins-of-inflation-target-2-3-per-cent/107322960",
-    "publishedAt": "2026-11-03T18:00:00.000Z"
   }
 ]
