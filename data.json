@@ -1,5 +1,50 @@
 [
   {
+    "id": "0cdf92476bc52504",
+    "title": "‘Not been this excited in a long time’: US expats ride the blue wave at Australian midterms watch parties",
+    "summary": "US voters, their Australian partners and British spectators crowd around pub TVs to watch the historic election results roll in.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/04/not-been-this-excited-in-a-long-time-us-expats-ride-the-blue-wave-at-australian-midterms-watch-parties",
+    "publishedAt": "2026-11-04T09:09:31.000Z"
+  },
+  {
+    "id": "89f4b563a1fc0545",
+    "title": "Indonesia deploys troops to boost Jakarta's security after generals' arrest",
+    "summary": "Indonesia's military is deploying more than 20,000 troops and personnel to the capital, Jakarta, amid an investigation into an alleged illegal wiretapping operation targeting President Prabowo Subianto and other prominent figures.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/indonesias-military-deploys-thousands-troops-boost-jakartas-security-137838412",
+    "publishedAt": "2026-11-04T08:34:08.000Z"
+  },
+  {
+    "id": "9b9d5bc5c96da415",
+    "title": "Australian government defends social media ban for under 16s in court",
+    "summary": "Government lawyers argued that social media use posed risks to children, and action is needed to protect them.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/australian-government-defends-social-media-ban-for-under-16s-in-court?traffic_source=rss",
+    "publishedAt": "2026-11-04T08:26:50.000Z"
+  },
+  {
+    "id": "dd5dc72bba21b6e9",
+    "title": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
+    "summary": "Returning Hebron residents face significant economic and structural devastation after Israeli military operation.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss",
+    "publishedAt": "2026-11-04T08:22:15.000Z"
+  },
+  {
+    "id": "0a9b9fa0aa630951",
+    "title": "M&S takes more than a year to recover from cyber-attack as profits bounce back to £355m",
+    "summary": "Sales and profit from clothing and homeware remain below two years ago but ‘brand is in good health’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
+    "publishedAt": "2026-11-04T08:17:14.000Z"
+  },
+  {
     "id": "5e8cc2fba618700b",
     "title": "Democrats aim to sweep most US governor elections after wins in key states",
     "summary": "Party sees historic victories with Gina Hinojosa’s win in Texas and Georgia’s Keisha Lance Bottoms becoming first Black female governor in US.",
@@ -466,6 +511,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
     "publishedAt": "2026-11-04T04:37:05.000Z"
+  },
+  {
+    "id": "d0e1683bd80e6d29",
+    "title": "David Jones on brink of collapse and behind on rent to Westfield",
+    "summary": "One of David Jones's biggest landlords says the department store is in breach of its rental agreements and has not paid since September.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-04/david-jones-could-collapse-behind-on-westfield-rent/107345094",
+    "publishedAt": "2026-11-04T04:35:38.000Z"
   },
   {
     "id": "8e84bcf42ed00a0c",
@@ -1294,59 +1348,5 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-04/reserve-bank-australia-origins-of-inflation-target-2-3-per-cent/107322960",
     "publishedAt": "2026-11-03T18:00:00.000Z"
-  },
-  {
-    "id": "2dc83925847c94cb",
-    "title": "Democrats firm up as narrow favourites to win control of both houses",
-    "summary": "Democrats have firmed up as narrow favourites to win control of both houses of the US Congress in today's midterm elections, according to the US's top political forecasters.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-04/us-midterms-voting-underway-as-polls-bad-for-donald-trump/107339316",
-    "publishedAt": "2026-11-03T17:58:51.000Z"
-  },
-  {
-    "id": "aa0d10c68021de4f",
-    "title": "Primark lacks fizz as it approaches its go-it-alone moment",
-    "summary": "After a profits dip, the chain’s demerger from its sister food company still makes sense but is unlikely to reveal tons of value.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/03/primark-lacks-fizz-approaches-go-it-alone-moment-nils-pratley",
-    "publishedAt": "2026-11-03T17:58:35.000Z"
-  },
-  {
-    "id": "74d19b3565375a6a",
-    "title": "Seven flights across Europe targeted by suspected bomb threats",
-    "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo",
-    "publishedAt": "2026-11-03T17:56:03.000Z"
-  },
-  {
-    "id": "743a53e20904ef9e",
-    "title": "US man charged with mailing hundreds of letters containing powder to officials before midterms",
-    "summary": "Oklahoma man accused of sending letters with white nonhazardous powder before 2024 and 2026 elections.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/charges-powder-letters-midterms",
-    "publishedAt": "2026-11-03T17:50:43.000Z"
-  },
-  {
-    "id": "84fad86d113f90be",
-    "title": "The transplanted Scot doing famous father proud in New Zealand",
-    "summary": "Clark Laidlaw, head coach at Super Rugby champions Hurricanes, has made a huge impact in New Zealand and would \"welcome a conversation\" about taking on the top job in Scotland.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6ewerp0w5lvo",
-    "publishedAt": "2026-11-03T17:50:16.000Z"
-  },
-  {
-    "id": "1ce61f2915820ed0",
-    "title": "UK makes huge aid cuts to Commonwealth nations despite warm words at Chogm summit",
-    "summary": "Nations in the group fare worse than others, with funding for nature projects especially hard hit even as climate crisis intensifies global need.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/03/uk-cuts-aid-commonwealth-countries-despite-warm-words-at-chogm-summit",
-    "publishedAt": "2026-11-03T17:49:57.000Z"
   }
 ]
