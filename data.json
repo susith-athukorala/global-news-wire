@@ -1,5 +1,95 @@
 [
   {
+    "id": "a03290a5e57fee00",
+    "title": "Democrat Troy Jackson defeats Susan Collins to win Maine US Senate seat in blow to Republicans",
+    "summary": "Democratic nominee toppled the five-term Republican incumbent in one of the most hard-fought midterm contests.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/maine-senate-midterm-results",
+    "publishedAt": "2026-11-04T06:15:02.000Z"
+  },
+  {
+    "id": "899a20179f4e8a8e",
+    "title": "Tiktoker 'super excited' to co-host BBC nature show",
+    "summary": "Naturewatch, hosted by Chris Packham, Megan McCubbin and Kyle Thomas, is being made in Bristol.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6y93pgydvzdo",
+    "publishedAt": "2026-11-04T06:15:01.000Z"
+  },
+  {
+    "id": "7b4412b96807ee7a",
+    "title": "Leisure centre price hikes on the way",
+    "summary": "The rises would impact Perdiswell, St John's Sports Centre and Nunnery Wood Sports Complex.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6pvgw8gz1k4o",
+    "publishedAt": "2026-11-04T06:13:19.000Z"
+  },
+  {
+    "id": "dc4a3c2ef1635900",
+    "title": "Democrat Rob Sand wins Iowa’s gubernatorial race as party plans rebuild",
+    "summary": "Sand, auditor for state with strong Trump support, defeats Maha-backed Republican Zach Lahn as Democrats win big.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/rob-sand-wins-iowa-governor-election",
+    "publishedAt": "2026-11-04T06:10:54.000Z"
+  },
+  {
+    "id": "c59de0a10d2de418",
+    "title": "Democrat Gina Hinojosa defeats Texas governor Greg Abbott in stunning upset",
+    "summary": "Hinojosa wins momentous victory, shatters Republican grip on key office and will become state’s first Latina governor.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/democrat-gina-hinojosa-greg-abbott-texas",
+    "publishedAt": "2026-11-04T06:04:12.000Z"
+  },
+  {
+    "id": "c45bf7256f0a11e8",
+    "title": "Problems at health trust buildings could cost additional £20m",
+    "summary": "The maternity building on the Royal Victoria Hospital site is already tens of millions of pounds over budget.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cjly0qpv35p3o",
+    "publishedAt": "2026-11-04T06:00:22.000Z"
+  },
+  {
+    "id": "12826ccec7163201",
+    "title": "Trust vows to 'maintain spirit' of nature reserve",
+    "summary": "Flatford Wildlife Garden is bought by the National Trust after being run by the RSPB for 15 years.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr3wv0ywnvl7o",
+    "publishedAt": "2026-11-04T05:57:48.000Z"
+  },
+  {
+    "id": "66bd185d9b90aa55",
+    "title": "The Democrats have won control of Congress. What now?",
+    "summary": "Democrats have made a plan for their first 100 hours of House control, but still face barriers to advancing their agenda.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-04/us-midterms-democrats-win-majority-what-happens-next/107335330",
+    "publishedAt": "2026-11-04T05:31:52.000Z"
+  },
+  {
+    "id": "00af3f291d1274bc",
+    "title": "South Africans vote in local elections that could continue decline of ANC",
+    "summary": "South Africans have begun voting in local elections that are seen as an evaluation of the party that led the country out of white minority rule.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/south-africans-vote-local-elections-continue-decline-mighty-137836623",
+    "publishedAt": "2026-11-04T05:29:00.000Z"
+  },
+  {
+    "id": "23506a985f6d6c98",
+    "title": "Democrats dominate NYC races, Hochul re-elected New York governor",
+    "summary": "Brad Lander, Darializa Avila Chevalier and Claire Valdez sweep their congressional races in key Democratic districts.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/4/democrats-dominate-nyc-races-hochul-re-elected-new-york-governor?traffic_source=rss",
+    "publishedAt": "2026-11-04T05:27:30.000Z"
+  },
+  {
     "id": "773b9a669936b35d",
     "title": "Democrats claim staggering victories in districts gerrymandered to favor Republicans across the US",
     "summary": "Mid-cycle redrawing of district boundaries, especially in states president won in 2024, did not yield results party was hoping for.",
@@ -7,6 +97,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-florida-wins-redistricting",
     "publishedAt": "2026-11-04T05:14:11.000Z"
+  },
+  {
+    "id": "d1e157b36f14d521",
+    "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
+    "summary": "Kim Yo Jong refuses dialogue with US after denying responsibility for theft of more than $6bn in crypto assets.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
+    "publishedAt": "2026-11-04T05:11:00.000Z"
   },
   {
     "id": "0ee896ea55dc3da0",
@@ -43,6 +142,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
     "publishedAt": "2026-11-04T05:00:25.000Z"
+  },
+  {
+    "id": "12c99b5e76c5e78c",
+    "title": "Democrats gain control of Congress in rebuke to Trump",
+    "summary": "The Democrats have won the Senate and are on the cusp of taking the House of Representatives as well, in a stunning victory over Donald Trump's Republican Party.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-04/democrats-claim-victory-over-republicans-2026-midterm-elections/107338138",
+    "publishedAt": "2026-11-04T04:57:58.000Z"
   },
   {
     "id": "e20b9c61b2168317",
@@ -196,6 +304,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss",
     "publishedAt": "2026-11-04T03:16:37.000Z"
+  },
+  {
+    "id": "9fa876a0c1e3cda1",
+    "title": "Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend",
+    "summary": "Exclusive: Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election",
+    "publishedAt": "2026-11-04T02:44:49.000Z"
   },
   {
     "id": "5c41856e6af06173",
@@ -1231,122 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/crisis-polands-constitutional-tribunal-137807738",
     "publishedAt": "2026-11-03T14:58:47.000Z"
-  },
-  {
-    "id": "df1f4e1d302b8f27",
-    "title": "Flights across Europe hit by bomb threats that turned out to be hoaxes",
-    "summary": "Several flights across Europe received alleged bomb threats that ultimately turned out to be hoaxes but prompted searches, diversions and, in one case, an escort by the Italian Air Force until landing.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/flights-europe-hit-bomb-threats-turned-hoaxes-137808325",
-    "publishedAt": "2026-11-03T14:58:44.000Z"
-  },
-  {
-    "id": "d462fedb6b7b1a8f",
-    "title": "Global food security is under threat",
-    "summary": "Attacks on grain shipments from Russia and Ukraine may drive up food prices, hitting import-dependent countries hardest.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
-    "publishedAt": "2026-11-03T14:58:10.000Z"
-  },
-  {
-    "id": "412d1a14b8b92c72",
-    "title": "Libya's top religious authority rules against wearing Nike clothes",
-    "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no",
-    "publishedAt": "2026-11-03T14:56:46.000Z"
-  },
-  {
-    "id": "cd3d18b0d59ec7aa",
-    "title": "‘Well-known individual’ fails in bid for injunction against Guardian and ITN",
-    "summary": "Person’s anonymity remains in place subject to any appeal against high court decision.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/03/well-known-individual-fails-injunction-bid-guardian-itn",
-    "publishedAt": "2026-11-03T14:56:17.000Z"
-  },
-  {
-    "id": "7730f9e1f258ceab",
-    "title": "Binance battles to save its brand after record $6.3bn crypto hack",
-    "summary": "World’s largest crypto exchange faces fallout from angry customers, and Lula wins with WhatsApp.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/02/binance-cryptocurrency-exchange-hack",
-    "publishedAt": "2026-11-03T14:45:30.000Z"
-  },
-  {
-    "id": "e06487f1bbb5cd3d",
-    "title": "Paraguay seizes major digital bank tied to president, leaving millions in limbo",
-    "summary": "Paraguay’s central bank has seized a major digital bank with ties to President Santiago Pe&ntilde;a.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/paraguay-seizes-major-digital-bank-tied-president-leaving-137806474",
-    "publishedAt": "2026-11-03T14:34:24.000Z"
-  },
-  {
-    "id": "6756cd00b2f94c4c",
-    "title": "Reform UK councillor charged with 12 counts of rape",
-    "summary": "George Madgwick of Hampshire county council has been charged with a total of 35 offences.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/03/reform-uk-councillor-george-madgwick-charged-12-counts-rape",
-    "publishedAt": "2026-11-03T14:34:05.000Z"
-  },
-  {
-    "id": "aedb36a2c6a3e17d",
-    "title": "True crime novel about 1949 murder of Paris life model wins France’s biggest literary prize",
-    "summary": "Philippe Jaenada wins Prix Goncourt with novel that seeks to solve 77-year-old case and rehabilitates reputation of its victim.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/books/2026/nov/03/true-crime-novel-murdered-model-wins-france-literary-prize-prix-goncourt-philippe-jaenada",
-    "publishedAt": "2026-11-03T14:31:00.000Z"
-  },
-  {
-    "id": "00c521dfd3e5f930",
-    "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
-    "summary": "The banned UK group, which targets Israel's war machine, has inspired activists in Europe and beyond.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
-    "publishedAt": "2026-11-03T14:30:24.000Z"
-  },
-  {
-    "id": "f2b7af65fe4f1772",
-    "title": "Freezers of UK meat suppliers heat up after cyber-attacks in Europe",
-    "summary": "Cybersecurity experts say incidents had minimal effect but may represent the ‘foothills’ of a wider threat.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
-    "publishedAt": "2026-11-03T14:29:37.000Z"
-  },
-  {
-    "id": "d52dd2ca8e0d7037",
-    "title": "Detentions, resignations, probes shake Serbia after students toppled Vucic",
-    "summary": "Detentions, resignations, switching of sides, attempts to destroy evidence of wrongdoing.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/detentions-resignations-probes-shake-serbia-after-students-toppled-137800721",
-    "publishedAt": "2026-11-03T14:26:18.000Z"
-  },
-  {
-    "id": "6ae9996c27bd4741",
-    "title": "Four planes flying across Europe targeted by bomb threats",
-    "summary": "Flights from London, Manchester, Copenhagen and Israel affected but no explosives found after touchdown.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
-    "publishedAt": "2026-11-03T14:21:24.000Z"
-  },
-  {
-    "id": "4fd2b2d7ca106a3a",
-    "title": "US supreme court to hear arguments in Catholic preschools’ LGBTQ+ exclusion case",
-    "summary": "A decision could reshape the relationship between religious freedom and nondiscrimination laws in the US.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/lgbtq-catholic-public-preschool-supreme-court",
-    "publishedAt": "2026-11-03T14:17:52.000Z"
   }
 ]
