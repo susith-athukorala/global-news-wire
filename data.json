@@ -1,5 +1,59 @@
 [
   {
+    "id": "f6daf9253ca85c90",
+    "title": "Trump-endorsed Republican Byron Donalds wins Florida race for governor",
+    "summary": "Donalds, who billed campaign as ‘a continuation of the DeSantis-era of success’, becomes state’s first black governor.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/florida-governor-byron-donalds-david-jolly-desantis",
+    "publishedAt": "2026-11-04T02:10:40.000Z"
+  },
+  {
+    "id": "32b21cfb6ab67b52",
+    "title": "North Korea launches unidentified projectile toward the sea, South Korea says",
+    "summary": "South Korea says North Korea has launched an unidentified projectile toward the sea.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/north-korea-launches-unidentified-projectile-sea-south-korea-137828695",
+    "publishedAt": "2026-11-04T01:52:44.000Z"
+  },
+  {
+    "id": "db721a6509edf6c6",
+    "title": "Republican Ashley Moody defeats progressive Angie Nixon in Florida Senate race",
+    "summary": "Moody is elected over Nixon in a contest seen as a measure of whether the state remains reliably Republican.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/ashley-moody-wins-florida-senate-race",
+    "publishedAt": "2026-11-04T01:41:54.000Z"
+  },
+  {
+    "id": "e036eccc0eac7baa",
+    "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
+    "summary": "Roy Cooper beat out Republican Michael Whatley.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
+    "publishedAt": "2026-11-04T01:36:33.000Z"
+  },
+  {
+    "id": "8e52d7bfe24861b1",
+    "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+    "summary": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
+    "publishedAt": "2026-11-04T01:36:06.000Z"
+  },
+  {
+    "id": "dbc98b1df41bb3f2",
+    "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+    "summary": "Growing number of countries are resisting Russia’s reintegration into international hockey after a sports court lifted a ban on competition.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
+    "publishedAt": "2026-11-04T01:31:46.000Z"
+  },
+  {
     "id": "130e3434c36ac2ba",
     "title": "Jon Ossoff wins Georgia Senate race over Republican Mike Collins",
     "summary": "Rising Democratic star made his re-election campaign a referendum on the Trump administration’s misdeeds.",
@@ -7,6 +61,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/03/jon-ossoff-mike-collins-georgia-senate",
     "publishedAt": "2026-11-04T01:12:58.000Z"
+  },
+  {
+    "id": "ea60ef3030620b26",
+    "title": "UN elects five judges to International Court of Justice amid record cases",
+    "summary": "The election, held at UN headquarters, required several rounds of voting to fill the fifth and final seat.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
+    "publishedAt": "2026-11-04T01:03:12.000Z"
+  },
+  {
+    "id": "760bd067d86edfa8",
+    "title": "Jon Ossoff wins Georgia Senate race, defeating Republican Mike Collins",
+    "summary": "Ossoff is re-elected to a second term, winning a key seat for Democrats as the party tries to retake the Senate.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
+    "publishedAt": "2026-11-04T00:59:58.000Z"
   },
   {
     "id": "ed469a0afbc53b82",
@@ -367,6 +439,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo",
     "publishedAt": "2026-11-03T20:56:32.000Z"
+  },
+  {
+    "id": "640cf68696f2735d",
+    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+    "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
+    "publishedAt": "2026-11-03T20:53:03.000Z"
   },
   {
     "id": "015960caa3ded74c",
@@ -1267,86 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/society/2026/nov/03/big-rent-rises-passing-in-england-despite-renters-reform-act",
     "publishedAt": "2026-11-03T12:59:44.000Z"
-  },
-  {
-    "id": "cdd7f27063beb69e",
-    "title": "Andrew Scott drama Elsinore leads British independent film award nominations",
-    "summary": "Elsinore is in contention for 12 Bifas, including for Scott’s highly praised performance, while Clio Barnard’s I See Buildings Fall Like Lightning, Ashley Walters’ Animol and Mike Leigh’s Tender Loving Care are also recognised.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/03/andrew-scott-elsinore-shakespeare-bifas-british-independent-film-award-nominations",
-    "publishedAt": "2026-11-03T12:49:40.000Z"
-  },
-  {
-    "id": "edc426bdf7d0e094",
-    "title": "24-year-old woman dies after collapsing in final stages of New York City Marathon",
-    "summary": "A 24-year-old woman died after collapsing during the final stages of Sunday’s New York City Marathon , her father has said.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/sport/2026/nov/03/24-year-old-woman-dies-after-collapasing-in-final-stages-of-new-york-city-marathon",
-    "publishedAt": "2026-11-03T12:36:08.000Z"
-  },
-  {
-    "id": "df452a371d860159",
-    "title": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings",
-    "summary": "Up to 25% of 16,000 workforce could go as telecoms group says it will increase use of AI in areas including customer service.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/03/virgin-media-o2-cut-jobs-cost-savings-telecoms-ai",
-    "publishedAt": "2026-11-03T12:34:21.000Z"
-  },
-  {
-    "id": "0e05a4cd03dbe893",
-    "title": "Two police officers protecting polio workers in Pakistan shot dead",
-    "summary": "The attackers, travelling on a motorcycle, opened fire on a police car in Khyber Pakhtunkhwa province.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/two-police-officers-protecting-polio-workers-in-pakistan-shot-dead?traffic_source=rss",
-    "publishedAt": "2026-11-03T12:33:03.000Z"
-  },
-  {
-    "id": "06d8d8fde5b367c7",
-    "title": "Citizen-led ballot initiatives seek to limit electricity firms’ political donations in Michigan",
-    "summary": "One motion considers reining in political spending while another proposes to municipalize the grid in sign of anger with datacenters and high bills.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/michigan-ballot-political-donation-datacenters",
-    "publishedAt": "2026-11-03T12:30:06.000Z"
-  },
-  {
-    "id": "54446b7a07d13d52",
-    "title": "Car finance compensation payments explained",
-    "summary": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo",
-    "publishedAt": "2026-11-03T12:30:04.000Z"
-  },
-  {
-    "id": "8eb8876b84d09db9",
-    "title": "Russia bombs humanitarian hub in Ukraine, killing at least 31 people",
-    "summary": "Other overnight strikes targeted power plants across Ukraine, damaged hospitals and wounded scores of people.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
-    "publishedAt": "2026-11-03T12:25:07.000Z"
-  },
-  {
-    "id": "7f24926b7b5d8459",
-    "title": "Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply",
-    "summary": "Renewed strikes on Black Sea shipping imperil grain exports, drive up food prices and deepen global food insecurity.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices?traffic_source=rss",
-    "publishedAt": "2026-11-03T12:10:47.000Z"
-  },
-  {
-    "id": "c63c889fdc47dad9",
-    "title": "First Thing: US goes to polls in vote that will define the last years of Trump’s presidency",
-    "summary": "Democrats are hoping to seize control in the capitol and rein in the president’s power. Plus, a peacock that loves admiring itself in the mirror a little too much.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/first-thing-us-polls-vote-define-last-years-donald-trump-presidency",
-    "publishedAt": "2026-11-03T12:10:06.000Z"
   }
 ]
