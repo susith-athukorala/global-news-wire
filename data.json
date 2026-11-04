@@ -1,5 +1,41 @@
 [
   {
+    "id": "130e3434c36ac2ba",
+    "title": "Jon Ossoff wins Georgia Senate race over Republican Mike Collins",
+    "summary": "Rising Democratic star made his re-election campaign a referendum on the Trump administration’s misdeeds.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/jon-ossoff-mike-collins-georgia-senate",
+    "publishedAt": "2026-11-04T01:12:58.000Z"
+  },
+  {
+    "id": "ed469a0afbc53b82",
+    "title": "FBI arrests man for sending over 700 threatening letters to US officials",
+    "summary": "The suspect, an Oklahoma City man, is accused of mailing hoax letters with white powder and treason warnings.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/fbi-arrests-man-for-sending-700-white-powder-letters-to-us-officials?traffic_source=rss",
+    "publishedAt": "2026-11-04T00:44:04.000Z"
+  },
+  {
+    "id": "29f03273177a45c8",
+    "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
+    "summary": "At least seven flights and an Israel-bound cruise ship received threats, but officials say searches found no explosives.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
+    "publishedAt": "2026-11-04T00:35:44.000Z"
+  },
+  {
+    "id": "443e8c39705087e4",
+    "title": "US Department of Justice expands its probe into Alaska’s US Senate election",
+    "summary": "The Trump administration is doubling down on allegations Democrats stood up a 'spoiler' candidate against Republicans.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss",
+    "publishedAt": "2026-11-04T00:33:57.000Z"
+  },
+  {
     "id": "4e361c1feea38da9",
     "title": "The night-sky image so incredible the NZ man behind it has been accused of using AI",
     "summary": "Brendan Larsen spent hours taking hundreds of photographs of the sky over a mountain in New Zealand.",
@@ -1312,41 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/03/first-thing-us-polls-vote-define-last-years-donald-trump-presidency",
     "publishedAt": "2026-11-03T12:10:06.000Z"
-  },
-  {
-    "id": "58b5526d3967c352",
-    "title": "US urges Venezuela to release remaining political prisoners",
-    "summary": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno",
-    "publishedAt": "2026-11-03T12:09:20.000Z"
-  },
-  {
-    "id": "640cf68696f2735d",
-    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
-    "publishedAt": "2026-11-03T12:07:59.000Z"
-  },
-  {
-    "id": "a9d2c85ac16e7211",
-    "title": "Drivers may get compensation offers before car finance saga ends",
-    "summary": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po",
-    "publishedAt": "2026-11-03T11:56:31.000Z"
-  },
-  {
-    "id": "720961d9f7472dbd",
-    "title": "UK’s most polluting power plant could power country’s largest AI datacentre",
-    "summary": "Drax’s FTSE 250 owner strikes £20bn deal to build infrastructure in what it says is site’s ‘next chapter’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
-    "publishedAt": "2026-11-03T11:55:28.000Z"
   }
 ]
