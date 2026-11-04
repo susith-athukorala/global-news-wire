@@ -198,6 +198,15 @@
     "publishedAt": "2026-11-04T14:54:24.000Z"
   },
   {
+    "id": "932e5368b90ee8e0",
+    "title": "ANC faces anger over poor services as South Africans vote in local elections",
+    "summary": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+    "publishedAt": "2026-11-04T14:50:47.000Z"
+  },
+  {
     "id": "b670634b824b283b",
     "title": "‘This is redemption time’: celebrities react to Democrats’ historic midterms sweep",
     "summary": "After the party regained control of both houses of Congress, stars including Viola Davis, Bette Midler and John Cusack have been celebrating.",
@@ -819,6 +828,15 @@
     "publishedAt": "2026-11-04T09:55:22.000Z"
   },
   {
+    "id": "751f39882d80729f",
+    "title": "How America voted in maps and charts",
+    "summary": "See the maps and charts that show how America voted in the US midterm elections.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
+    "publishedAt": "2026-11-04T09:53:18.000Z"
+  },
+  {
     "id": "30dddfaae3f77176",
     "title": "Syrians see Israel as biggest regional threat, followed by Iran: Survey",
     "summary": "Some 97% of respondents to Arab Opinion Index for Syria say Israel threatens security and stability in the Middle East.",
@@ -1330,23 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-republicans-midterms-trump",
     "publishedAt": "2026-11-04T05:03:41.000Z"
-  },
-  {
-    "id": "2374e2904155ff35",
-    "title": "Britain’s housing market unlikely to recover until 2028, says Savills",
-    "summary": "House prices forecast to fall by 1.5% next year as Middle East war keeps mortgage rates higher for longer.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/04/britains-housing-market-unlikely-to-recover-until-2028-says-savills",
-    "publishedAt": "2026-11-04T05:00:26.000Z"
-  },
-  {
-    "id": "3b1ab1c3382e1b49",
-    "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
-    "summary": "Exclusive: Schools minister launches new Ukrainian GCSE and says she is sorry students were pushed to study Russian in its absence.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
-    "publishedAt": "2026-11-04T05:00:25.000Z"
   }
 ]
