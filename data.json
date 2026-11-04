@@ -1,5 +1,32 @@
 [
   {
+    "id": "5c41856e6af06173",
+    "title": "Alleged attack on One Nation supporter not believed to be politically motivated, Victoria police say",
+    "summary": "Police also allege Torquay man was attacked with a ‘blunt weapon’ rather than a baseball bat as originally reported.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/04/alleged-attack-on-one-nation-volunteer-not-politically-motivated-victoria-police-ntwnfb",
+    "publishedAt": "2026-11-04T02:39:33.000Z"
+  },
+  {
+    "id": "e96fa59ec5818831",
+    "title": "Keisha Lance Bottoms makes history as Georgia’s first Black woman governor",
+    "summary": "Bottoms, a former adviser to ex-President Joe Biden, beat Republican Rick Jackson.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss",
+    "publishedAt": "2026-11-04T02:25:51.000Z"
+  },
+  {
+    "id": "95a068db707b8f68",
+    "title": "Uber pays its drivers ‘wages’ and is liable for $81m payroll tax bill, Australia’s high court rules",
+    "summary": "Rideshare company unsuccessfully argued it didn’t employ workers and claimed money paid was not wages under NSW law.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/04/uber-australia-high-court-loss-driver-wages-81m-payroll-tax-bill-ntwnfb",
+    "publishedAt": "2026-11-04T02:15:01.000Z"
+  },
+  {
     "id": "f6daf9253ca85c90",
     "title": "Trump-endorsed Republican Byron Donalds wins Florida race for governor",
     "summary": "Donalds, who billed campaign as ‘a continuation of the DeSantis-era of success’, becomes state’s first black governor.",
@@ -1321,32 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/3/how-florida-governor-ron-desantis-will-shape-his-states-2026-midterm-race?traffic_source=rss",
     "publishedAt": "2026-11-03T13:05:03.000Z"
-  },
-  {
-    "id": "05fdbdb3cc1f3f1e",
-    "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
-    "summary": "Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementing.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
-    "publishedAt": "2026-11-03T13:00:07.000Z"
-  },
-  {
-    "id": "7d291178eb318a30",
-    "title": "Millions of Americans crippled by medical debt despite relief efforts",
-    "summary": "Stopgap measure does not solve fundamental problem that millions can’t afford the healthcare they need, experts say.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/medical-debt-healthcare",
-    "publishedAt": "2026-11-03T13:00:07.000Z"
-  },
-  {
-    "id": "99778a528f68d2d6",
-    "title": "Rent rises of up to 88% still passing in England despite Renters’ Reform Act",
-    "summary": "While tenants are challenging increases in record numbers, renters and landlords say system is ‘not working for anyone’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/03/big-rent-rises-passing-in-england-despite-renters-reform-act",
-    "publishedAt": "2026-11-03T12:59:44.000Z"
   }
 ]
