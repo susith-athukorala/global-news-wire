@@ -1,5 +1,113 @@
 [
   {
+    "id": "ed273a3df88258c5",
+    "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+    "summary": "The advance on al-Dahida heights, a strategic highland, comes as fighting escalates in al-Dhalea, Lahij and Taiz.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss",
+    "publishedAt": "2026-11-04T14:08:18.000Z"
+  },
+  {
+    "id": "7cf5a63ac2ab131c",
+    "title": "‘Discontent and distrust’: annual social cohesion checkup shows exactly what’s making Australia angry",
+    "summary": "Cost of living and AI outrank climate change and war as top concerns for future, but support for multiculturalism remains strong.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/04/social-cohesion-report-australia-cost-of-living-economy-immigration-multiculturalism-ai-ntwnfb",
+    "publishedAt": "2026-11-04T14:00:36.000Z"
+  },
+  {
+    "id": "5d884fdd8d133dc1",
+    "title": "How big is the Republican midterms loss, and is there a silver lining?",
+    "summary": "The Republicans haven't been this weakened in Congress since 1990, but they did have some wins.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/how-big-is-the-republican-midterms-loss-and-is-there-a-silver-lining?traffic_source=rss",
+    "publishedAt": "2026-11-04T13:59:15.000Z"
+  },
+  {
+    "id": "bd6fefeb71116bbb",
+    "title": "UK interest rates increase expected after services sector activity accelerates",
+    "summary": "Purchasing manager’s index at eight-month high, bolstered by spending on AI as firms regain momentum since start of Iran war.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/04/uk-interest-rates-increase-expected-service-sector-activity-accelerates-pmi",
+    "publishedAt": "2026-11-04T13:53:38.000Z"
+  },
+  {
+    "id": "4af7e02ad23e5cae",
+    "title": "Fleabag creator donates flat to help early-career writers live in London",
+    "summary": "Phoebe Waller-Bridge joins stars signing up to scheme tackling class barriers in theatre.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/04/fleabag-creator-phoebe-waller-bridge-donates-flat-to-help-writers",
+    "publishedAt": "2026-11-04T13:50:59.000Z"
+  },
+  {
+    "id": "69c4fb1a42634e23",
+    "title": "UNHCR criticises UK’s 30-year ‘earned settlement’ plans for refugees",
+    "summary": "Home secretary Shabana Mahmood maintains rigorous rules for those who arrive on small boats.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/04/unhcr-criticises-uks-30-year-earned-settlement-plans-for-refugees",
+    "publishedAt": "2026-11-04T13:47:12.000Z"
+  },
+  {
+    "id": "cc4a4a4d0e807809",
+    "title": "Joy in Iran over ‘Trump’s defeat’ in US midterm elections – but war is not over",
+    "summary": "Iran celebrates its claimed role in ‘regime change’ amid pressure on US president to ‘finish the job’ with attack.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
+    "publishedAt": "2026-11-04T13:44:19.000Z"
+  },
+  {
+    "id": "c6f96d4d723ddd38",
+    "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+    "summary": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
+    "publishedAt": "2026-11-04T13:43:16.000Z"
+  },
+  {
+    "id": "ca6f4bcfa7720dbf",
+    "title": "Investigators say they found tail pieces of Learjet that crashed in Florida, killing nine",
+    "summary": "National Transportation Safety Board says discovery of parts confirms plane was breaking apart before it crashed.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/florida-plane-crash-tail-pieces-discovered",
+    "publishedAt": "2026-11-04T13:40:53.000Z"
+  },
+  {
+    "id": "ddaf1a0a5bd8e9a6",
+    "title": "Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity",
+    "summary": "Israeli settlers have expanded in Hebron's Old City, with Palestinian residents' presence under threat.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity?traffic_source=rss",
+    "publishedAt": "2026-11-04T13:40:52.000Z"
+  },
+  {
+    "id": "5dce150845b140ce",
+    "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+    "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o",
+    "publishedAt": "2026-11-04T13:33:30.000Z"
+  },
+  {
+    "id": "0e9c205bcc442be1",
+    "title": "Iran hails US voters rejecting war while Khamenei warns hostility won’t end",
+    "summary": "Iranian officials see Republican midterm losses in a positive light, but supreme leader says US policy will not shift.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss",
+    "publishedAt": "2026-11-04T13:26:44.000Z"
+  },
+  {
     "id": "28b7aeb78bb581f2",
     "title": "Police say explosive devices found in Belfast are linked to ‘rightwing terrorism’",
     "summary": "Suspect arrested after police uncover stash of 17 improvised explosive devices in operation.",
@@ -133,6 +241,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/04/trump-blames-fox-news-republican-losses",
     "publishedAt": "2026-11-04T12:30:29.000Z"
+  },
+  {
+    "id": "43d16c1970abe6ad",
+    "title": "Poundland owner in crunch talks as retailer's collapse looms",
+    "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
+    "publishedAt": "2026-11-04T12:20:42.000Z"
   },
   {
     "id": "5c520a90cf25d0ef",
@@ -729,6 +846,15 @@
     "publishedAt": "2026-11-04T06:13:09.000Z"
   },
   {
+    "id": "77b7298e6fcebeba",
+    "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
+    "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo",
+    "publishedAt": "2026-11-04T06:11:43.000Z"
+  },
+  {
     "id": "dc4a3c2ef1635900",
     "title": "Democrat Rob Sand wins Iowa’s gubernatorial race as party plans rebuild",
     "summary": "Sand, auditor for state with strong Trump support, defeats Maha-backed Republican Zach Lahn as Democrats win big.",
@@ -1222,131 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
     "publishedAt": "2026-11-04T00:59:58.000Z"
-  },
-  {
-    "id": "74dadfba05c2d19d",
-    "title": "Why Kim Kardashian came back to 'the worst TV drama ever'",
-    "summary": "The media personality and businesswoman says she's worked on her acting for series two of All's Fair.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxvgd4drmevro",
-    "publishedAt": "2026-11-04T00:52:19.000Z"
-  },
-  {
-    "id": "ed469a0afbc53b82",
-    "title": "FBI arrests man for sending over 700 threatening letters to US officials",
-    "summary": "The suspect, an Oklahoma City man, is accused of mailing hoax letters with white powder and treason warnings.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/fbi-arrests-man-for-sending-700-white-powder-letters-to-us-officials?traffic_source=rss",
-    "publishedAt": "2026-11-04T00:44:04.000Z"
-  },
-  {
-    "id": "29f03273177a45c8",
-    "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
-    "summary": "At least seven flights and an Israel-bound cruise ship received threats, but officials say searches found no explosives.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
-    "publishedAt": "2026-11-04T00:35:44.000Z"
-  },
-  {
-    "id": "443e8c39705087e4",
-    "title": "US Department of Justice expands its probe into Alaska’s US Senate election",
-    "summary": "The Trump administration is doubling down on allegations Democrats stood up a 'spoiler' candidate against Republicans.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss",
-    "publishedAt": "2026-11-04T00:33:57.000Z"
-  },
-  {
-    "id": "4e361c1feea38da9",
-    "title": "The night-sky image so incredible the NZ man behind it has been accused of using AI",
-    "summary": "Brendan Larsen spent hours taking hundreds of photographs of the sky over a mountain in New Zealand.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/04/viral-image-nz-night-sky-satellites-accused-of-being-ai-brendan-larsen",
-    "publishedAt": "2026-11-04T00:29:51.000Z"
-  },
-  {
-    "id": "ed17205ed4d57a45",
-    "title": "Spain's transport minister resigns after deadly high-speed train crash",
-    "summary": "The remains of 59 people have been returned to their families while Spain's transport minister announces he will resign following two deadly high-speed rail crashes this year.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-04/spanish-minister-resigns-after-deadly-train-collision/107344438",
-    "publishedAt": "2026-11-04T00:27:20.000Z"
-  },
-  {
-    "id": "9aa1a76f6f6f58eb",
-    "title": "Democrats look poised to win House control in midterm elections after two turbulent years of Trump",
-    "summary": "Victory for the party comes despite unusual and aggressive efforts by Republicans to redraw congressional districts.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-midterm-elections-results",
-    "publishedAt": "2026-11-04T00:25:51.000Z"
-  },
-  {
-    "id": "ac851c0f80b60f91",
-    "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
-    "summary": "Chief executiveMelanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
-    "publishedAt": "2026-11-04T00:14:49.000Z"
-  },
-  {
-    "id": "8f80fb646b4d7e0a",
-    "title": "Democrats aim to retake Senate from Republicans as Americans go to polls",
-    "summary": "Party hopes disapproval with Trump’s presidency gives them advantage as Republicans defend slim majority.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-midterm-elections-results",
-    "publishedAt": "2026-11-04T00:12:38.000Z"
-  },
-  {
-    "id": "57e44e3d60a9882d",
-    "title": "Canva announces major job cuts after 'our hardest year yet'",
-    "summary": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo",
-    "publishedAt": "2026-11-04T00:09:35.000Z"
-  },
-  {
-    "id": "d4e1ba88ef8e8a1b",
-    "title": "Graduates are managing AI - but are they learning much else?",
-    "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o",
-    "publishedAt": "2026-11-04T00:04:35.000Z"
-  },
-  {
-    "id": "b0514df6d055e483",
-    "title": "'Multi-cancer' blood tests coming to some GP surgeries soon",
-    "summary": "The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no",
-    "publishedAt": "2026-11-04T00:04:28.000Z"
-  },
-  {
-    "id": "83c3cd41db20da4f",
-    "title": "US midterm voting goes smoothly with only a handful of issues nationwide",
-    "summary": "Voting machine issues affected Westchester county, New York, but emergency ballots were provided to voters.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/us-midterm-voting-problems",
-    "publishedAt": "2026-11-04T00:03:52.000Z"
-  },
-  {
-    "id": "f9ed4598751316a4",
-    "title": "ANC under pressure to reverse South Africa decline",
-    "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo",
-    "publishedAt": "2026-11-04T00:03:19.000Z"
   }
 ]
