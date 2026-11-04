@@ -1,5 +1,77 @@
 [
   {
+    "id": "74b650d19e7bb0ba",
+    "title": "Democrat Sherrod Brown wins Ohio Senate race in major blow to Republicans",
+    "summary": "Brown makes successful return to US Senate after voters reject Republican incumbent Jon Husted.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/sherrod-brown-jon-husted-ohio-senate",
+    "publishedAt": "2026-11-04T04:13:24.000Z"
+  },
+  {
+    "id": "54581ea07df00c0c",
+    "title": "James Talarico wins Texas Senate race in historic victory for Democrats",
+    "summary": "Ken Paxton’s defeat a crushing blow to Trump and Republican efforts to keep control of Congress.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/james-talarico-ken-paxton-texas-senate",
+    "publishedAt": "2026-11-04T04:06:18.000Z"
+  },
+  {
+    "id": "249b3a6e2f18b5c7",
+    "title": "Xavier Becerra wins California race for governor with vows to resist Trump’s agenda",
+    "summary": "Son of Mexican immigrants will become state’s first Latino governor since 1875 after victory over ex-Fox News host Steve Hilton.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/xavier-becerra-steve-hilton-california-governor",
+    "publishedAt": "2026-11-04T04:03:48.000Z"
+  },
+  {
+    "id": "1ba5bb8de4f4896e",
+    "title": "Talarico wins Texas Senate race, ending decades of Republican dominance",
+    "summary": "This is a breaking news story.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/talarico-wins-texas-senate-race-ending-decades-of-republican-dominance?traffic_source=rss",
+    "publishedAt": "2026-11-04T04:03:41.000Z"
+  },
+  {
+    "id": "932e5368b90ee8e0",
+    "title": "ANC faces anger over poor services as South Africans vote in local elections",
+    "summary": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+    "publishedAt": "2026-11-04T04:00:23.000Z"
+  },
+  {
+    "id": "c292763696db96e9",
+    "title": "Democrat Annie Andrews flips South Carolina’s Senate seat",
+    "summary": "Andrews beats Republican incumbent Darline Graham, sister of the late Senator Lindsey Graham, in a major upset.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/democrat-annie-andrews-flips-south-carolinas-senate-seat?traffic_source=rss",
+    "publishedAt": "2026-11-04T03:39:58.000Z"
+  },
+  {
+    "id": "0037bd6e91b82c1a",
+    "title": "Anthony Zurcher: Democrats push deep into Republican territory with historic wins",
+    "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo",
+    "publishedAt": "2026-11-04T03:34:58.000Z"
+  },
+  {
+    "id": "2f9dbbb3b629b081",
+    "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
+    "summary": "EU says supermarket hacks in at least 11 countries are 'not isolated', but a Romanian official suspects no state actor.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss",
+    "publishedAt": "2026-11-04T03:16:37.000Z"
+  },
+  {
     "id": "5c41856e6af06173",
     "title": "Alleged attack on One Nation supporter not believed to be politically motivated, Victoria police say",
     "summary": "Police also allege Torquay man was attacked with a ‘blunt weapon’ rather than a baseball bat as originally reported.",
@@ -7,6 +79,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/04/alleged-attack-on-one-nation-volunteer-not-politically-motivated-victoria-police-ntwnfb",
     "publishedAt": "2026-11-04T02:39:33.000Z"
+  },
+  {
+    "id": "445e900367ef7b06",
+    "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+    "summary": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo",
+    "publishedAt": "2026-11-04T02:38:07.000Z"
   },
   {
     "id": "e96fa59ec5818831",
@@ -475,6 +556,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
     "publishedAt": "2026-11-03T20:53:03.000Z"
+  },
+  {
+    "id": "d3867d548216f898",
+    "title": "Russia's 'vile terrorist strike' kills dozens at school used as aid centre",
+    "summary": "Ukranian President Volodymyr Zelenskky describes a series of deadly Russian attacks at a school being used as an aid hub in the country's south-eastern region of Zaporizhzhia, as a \"vile terrorist strike\".",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-04/russian-strike-on-school-kills-dozens-n-ukraine/107343894",
+    "publishedAt": "2026-11-03T20:39:39.000Z"
   },
   {
     "id": "015960caa3ded74c",
@@ -1258,95 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o",
     "publishedAt": "2026-11-03T13:26:19.000Z"
-  },
-  {
-    "id": "5f0831ce652e3ef6",
-    "title": "Collins Dictionary chooses 'mogging' as its 2026 word of the year",
-    "summary": "Collins Dictionary has named \"mogging\" as its word of the year.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/collins-dictionary-chooses-mogging-2026-word-year-137804839",
-    "publishedAt": "2026-11-03T13:22:27.000Z"
-  },
-  {
-    "id": "3b5065619a782606",
-    "title": "Iran commander sets out five conditions for regional security",
-    "summary": "Mediator Qatar says US and Iran are studying proposals to resume negotiations and that it was 'hopeful' of an agreement.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
-    "publishedAt": "2026-11-03T13:21:57.000Z"
-  },
-  {
-    "id": "b5cd08afd6def84b",
-    "title": "Afghanistan's Taliban officials will attend UN climate summit for second time",
-    "summary": "Afghanistan's Taliban officials have been invited and will attend the upcoming U.N. climate summit as observers.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/afghanistans-taliban-officials-attend-climate-summit-time-observers-137804124",
-    "publishedAt": "2026-11-03T13:16:14.000Z"
-  },
-  {
-    "id": "94b32499a14b3f96",
-    "title": "Saudi Pro League postpones matches after Asian Cup rescheduling",
-    "summary": "League delays matches after revised Asian Cup dates create 'additional flexibility in the domestic football calendar'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/3/saudi-pro-league-postpones-matches-after-asian-cup-rescheduling?traffic_source=rss",
-    "publishedAt": "2026-11-03T13:14:52.000Z"
-  },
-  {
-    "id": "092882771eddddd8",
-    "title": "Judge orders Iowa to permit Satanic Temple holiday event at state capitol",
-    "summary": "Federal court says group likely to win its free speech claim and tells officials to approve application within seven days.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/iowa-satanic-temple-holiday-event-judge",
-    "publishedAt": "2026-11-03T13:14:46.000Z"
-  },
-  {
-    "id": "0b2eef1fc25118a2",
-    "title": "Tusk says Poland thwarted possible provocation on Kaliningrad border overnight",
-    "summary": "Polish Prime Minister Donald Tusk says Poland successfully prevented an attempted provocation on its border with Russia's Kaliningrad exclave.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/tusk-poland-thwarted-provocation-kaliningrad-border-overnight-137804660",
-    "publishedAt": "2026-11-03T13:14:15.000Z"
-  },
-  {
-    "id": "66a6b6965c1389b8",
-    "title": "Trump’s troubles with Iran could open the door to China",
-    "summary": "Beijing launches diplomatic salvo to woo Gulf leaders and bolster its influence in the region.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
-    "publishedAt": "2026-11-03T13:13:50.000Z"
-  },
-  {
-    "id": "ebd1dfe05279f6b9",
-    "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
-    "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o",
-    "publishedAt": "2026-11-03T13:07:00.000Z"
-  },
-  {
-    "id": "0d4b16458e859656",
-    "title": "New tool will help gardeners move away from thirsty English classics to drought-resistant plants",
-    "summary": "Exclusive: Garden Climate Assessment Tool will allow users to predict a plant’s response to the projected climate in a given location.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/03/garden-climate-assessment-tool-drought-gardening",
-    "publishedAt": "2026-11-03T13:05:28.000Z"
-  },
-  {
-    "id": "6a789b6976191f8a",
-    "title": "How Florida Governor Ron DeSantis will shape his state’s 2026 midterm race",
-    "summary": "The outgoing governor and former presidential candidate has transformed Florida into a conservative policy vanguard.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/how-florida-governor-ron-desantis-will-shape-his-states-2026-midterm-race?traffic_source=rss",
-    "publishedAt": "2026-11-03T13:05:03.000Z"
   }
 ]
