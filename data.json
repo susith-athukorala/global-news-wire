@@ -1,5 +1,23 @@
 [
   {
+    "id": "4e361c1feea38da9",
+    "title": "The night-sky image so incredible the NZ man behind it has been accused of using AI",
+    "summary": "Brendan Larsen spent hours taking hundreds of photographs of the sky over a mountain in New Zealand.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/04/viral-image-nz-night-sky-satellites-accused-of-being-ai-brendan-larsen",
+    "publishedAt": "2026-11-04T00:29:51.000Z"
+  },
+  {
+    "id": "9aa1a76f6f6f58eb",
+    "title": "Democrats look poised to win House control in midterm elections after two turbulent years of Trump",
+    "summary": "Victory for the party comes despite unusual and aggressive efforts by Republicans to redraw congressional districts.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-midterm-elections-results",
+    "publishedAt": "2026-11-04T00:25:51.000Z"
+  },
+  {
     "id": "ac851c0f80b60f91",
     "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
     "summary": "Chief executiveMelanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff.",
@@ -945,6 +963,15 @@
     "publishedAt": "2026-11-03T14:29:37.000Z"
   },
   {
+    "id": "d52dd2ca8e0d7037",
+    "title": "Detentions, resignations, probes shake Serbia after students toppled Vucic",
+    "summary": "Detentions, resignations, switching of sides, attempts to destroy evidence of wrongdoing.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/detentions-resignations-probes-shake-serbia-after-students-toppled-137800721",
+    "publishedAt": "2026-11-03T14:26:18.000Z"
+  },
+  {
     "id": "6ae9996c27bd4741",
     "title": "Four planes flying across Europe targeted by bomb threats",
     "summary": "Flights from London, Manchester, Copenhagen and Israel affected but no explosives found after touchdown.",
@@ -1321,32 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
     "publishedAt": "2026-11-03T11:55:28.000Z"
-  },
-  {
-    "id": "3af2f109bf6fcd1e",
-    "title": "Indian tourist killed after two helicopters collide near Everest base camp",
-    "summary": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o",
-    "publishedAt": "2026-11-03T11:51:08.000Z"
-  },
-  {
-    "id": "ce415c396fe1abd9",
-    "title": "Australia's highest court hears challenges to social media ban for children",
-    "summary": "Australia's highest court is hearing challenges to a law banning children younger than 16 from social media.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/australias-highest-court-hears-challenges-social-media-ban-137798339",
-    "publishedAt": "2026-11-03T11:46:26.000Z"
-  },
-  {
-    "id": "622d4fdc0cb20a5d",
-    "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
-    "summary": "Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
-    "publishedAt": "2026-11-03T11:43:49.000Z"
   }
 ]
