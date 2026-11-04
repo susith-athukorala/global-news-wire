@@ -1,5 +1,95 @@
 [
   {
+    "id": "b0c5a0a5fa6f7871",
+    "title": "Elon Musk will face scrutiny from Democrats in Washington and Texas after midterms",
+    "summary": "Democrats are likely to launch investigations into Musk's influence, including his leadership of DOGE and government contracts.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress",
+    "publishedAt": "2026-11-04T21:11:23.000Z"
+  },
+  {
+    "id": "2b47aba0fa727a37",
+    "title": "Debt relief and aid no replacement for slavery reparations, UK told",
+    "summary": "Leading figures in Caribbean reparatory justice movement speak out after UK PM announced infrastructure package.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean",
+    "publishedAt": "2026-11-04T21:10:55.000Z"
+  },
+  {
+    "id": "bf502efcb163fa30",
+    "title": "Telstra apologises after customers mystified by phantom missed call notifications",
+    "summary": "Telco blames its MessageBank service and apologises for customer confusion.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/telstra-customers-false-missed-call-notifications-apology",
+    "publishedAt": "2026-11-04T21:10:20.000Z"
+  },
+  {
+    "id": "ea0a7ce7f0aeca0e",
+    "title": "Iranians celebrate setback for Trump in US election, and other Mideast news",
+    "summary": "Iran’s leaders say President Donald Trump shouldn’t ignore the stinging setback in the U.S. election.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/iranians-celebrate-setback-trump-us-election-mideast-news-137854076",
+    "publishedAt": "2026-11-04T21:06:15.000Z"
+  },
+  {
+    "id": "1bb2bef661f2f866",
+    "title": "It was a big night for doctors to win seats in Congress, riding the blue wave",
+    "summary": "Historically, most physicians who served in the House or Senate have been Republicans. In the next Congress, physicians who are Democrats made significant gains.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/04/nx-s1-6017757/democrats-republicans-doctors-acton-andrews-blue-wave",
+    "publishedAt": "2026-11-04T20:46:26.000Z"
+  },
+  {
+    "id": "cb74380025e35bc9",
+    "title": "UK government considers smart glasses ban over secret filming concerns",
+    "summary": "Minister hints at restriction on selling technology ‘to certain users’ amid worries over surreptitious filming of women.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
+    "publishedAt": "2026-11-04T20:43:21.000Z"
+  },
+  {
+    "id": "f1cf5360e3fda0e7",
+    "title": "Serbia detains police officers over alleged use of force against protesters",
+    "summary": "Interior ministry claims suspects tortured and intimidated protesters detained in garage of government compound.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
+    "publishedAt": "2026-11-04T20:42:14.000Z"
+  },
+  {
+    "id": "241809323e1aa4ac",
+    "title": "Trump boasts about ‘magnificent’ ballroom day after Republican rout",
+    "summary": "US president rhapsodized about ballroom features for more than 20 minutes, with no mention of Democrats’ ‘blue wave’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/04/trump-ballroom-midterms-reaction",
+    "publishedAt": "2026-11-04T20:34:08.000Z"
+  },
+  {
+    "id": "588402d59d7b4925",
+    "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+    "summary": "Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
+    "publishedAt": "2026-11-04T20:31:56.000Z"
+  },
+  {
+    "id": "5327d3bdc33b8176",
+    "title": "Trump’s wealth dented after Democrats trounce Republicans in midterms",
+    "summary": "Trump Media stock and WLFI coin saw declines but he is still $2.7bn wealthier than when he won election in 2024.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/04/trump-wealth-midterm-elections",
+    "publishedAt": "2026-11-04T20:29:09.000Z"
+  },
+  {
     "id": "00c7b1dd49e645cd",
     "title": "Viewers stayed away from Fox News on a disappointing election night for Republicans",
     "summary": "In early, preliminary figures, the news channel trailed several other networks in prime-time viewership.",
@@ -88,6 +178,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/04/jon-rosenthal-texas-railroad-commissioner",
     "publishedAt": "2026-11-04T19:13:37.000Z"
+  },
+  {
+    "id": "e1161a197a1d3e7e",
+    "title": "Billions in revenue proves Fifa right on the World Cup – but only on things it cares about",
+    "summary": "The 2026 edition of the tournament brought in untold amounts of money to Gianni Infantino’s governing body.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/04/fifa-world-cup-billions-revenue",
+    "publishedAt": "2026-11-04T19:02:48.000Z"
   },
   {
     "id": "7ecc8bd9bb7c717b",
@@ -241,6 +340,24 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/4/owono-enduring-hardest-days-of-my-life-after-de-miguel-death?traffic_source=rss",
     "publishedAt": "2026-11-04T17:05:12.000Z"
+  },
+  {
+    "id": "dabea7c92f21aa8c",
+    "title": "Airbnb can be positive for the community | Letters",
+    "summary": "Readers respond to an article by Arwa Mahdawi on some self-catering hosts calling for a strike in response to new guidelines.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/04/airbnb-can-be-positive-for-the-community",
+    "publishedAt": "2026-11-04T17:00:43.000Z"
+  },
+  {
+    "id": "b4d4324a953f03f6",
+    "title": "Iran's chief negotiator says Americans voted 'no to war'",
+    "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
+    "publishedAt": "2026-11-04T16:59:15.000Z"
   },
   {
     "id": "df9b2b3134fcea67",
@@ -1231,122 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/indonesias-military-deploys-thousands-troops-boost-jakartas-security-137838412",
     "publishedAt": "2026-11-04T08:34:08.000Z"
-  },
-  {
-    "id": "9b9d5bc5c96da415",
-    "title": "Australian government defends social media ban for under 16s in court",
-    "summary": "Government lawyers argued that social media use posed risks to children, and action is needed to protect them.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/australian-government-defends-social-media-ban-for-under-16s-in-court?traffic_source=rss",
-    "publishedAt": "2026-11-04T08:26:50.000Z"
-  },
-  {
-    "id": "dd5dc72bba21b6e9",
-    "title": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
-    "summary": "Returning Hebron residents face significant economic and structural devastation after Israeli military operation.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss",
-    "publishedAt": "2026-11-04T08:22:15.000Z"
-  },
-  {
-    "id": "0a9b9fa0aa630951",
-    "title": "M&S takes more than a year to recover from cyber-attack as profits bounce back to £355m",
-    "summary": "Sales and profit from clothing and homeware remain below two years ago but ‘brand is in good health’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
-    "publishedAt": "2026-11-04T08:17:14.000Z"
-  },
-  {
-    "id": "4b1b66df6b0b5949",
-    "title": "Tears, celebrations and selfies: US midterms in pictures",
-    "summary": "Democrats cheered as they picked up victories in Republican states. Tears were shed as Republican losses mounted.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq74pexm44elo",
-    "publishedAt": "2026-11-04T08:05:53.000Z"
-  },
-  {
-    "id": "5e8cc2fba618700b",
-    "title": "Democrats aim to sweep most US governor elections after wins in key states",
-    "summary": "Party sees historic victories with Gina Hinojosa’s win in Texas and Georgia’s Keisha Lance Bottoms becoming first Black female governor in US.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/democrats-governor-races-wins",
-    "publishedAt": "2026-11-04T08:02:46.000Z"
-  },
-  {
-    "id": "5887f45d84df41ce",
-    "title": "David Jones future in doubt as department stores become \"obsolete and redundant\" says retail expert",
-    "summary": "The managing director at Marketing Focus, Barry Urquhart says David Jones' troubles are not unique and the department store model globally is becoming \"obsolete and redundant\".",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/programs/the-business/2026-11-04/david-jones-future-in-doubt-as-department-stores-become-obsolete/107346234",
-    "publishedAt": "2026-11-04T07:54:38.000Z"
-  },
-  {
-    "id": "5bf2f4786a3ad482",
-    "title": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
-    "summary": "Democrat defeats Mike Rogers in race marked by Islamophobic attacks from Trump and Republican allies.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate",
-    "publishedAt": "2026-11-04T07:52:36.000Z"
-  },
-  {
-    "id": "ef1492d901756d45",
-    "title": "Democrats’ blue wave and a bad night for Trump: key US midterms takeaways",
-    "summary": "Republicans suffered historic losses, Democrats won control of Congress – and Trump backed away from losing candidates.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/midterm-election-takeaways-trump",
-    "publishedAt": "2026-11-04T07:47:12.000Z"
-  },
-  {
-    "id": "295ca38ff56974c3",
-    "title": "Democrats deliver a historic routing to Republicans in US midterms",
-    "summary": "For the first time in nearly 30 years, a Democrat will now represent South Carolina in the US Senate.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/democrats-deliver-a-historic-routing-to-republicans-in-us-midterms?traffic_source=rss",
-    "publishedAt": "2026-11-04T07:46:12.000Z"
-  },
-  {
-    "id": "a6f76cf5740fdac9",
-    "title": "Adam Hamilton wins in Kansas to become state’s first Democrat in Senate since 1932",
-    "summary": "Pastor clinches victory over incumbent Roger Marshall in state that emerged as unexpected battleground this year.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/adam-hamilton-roger-marshall-kansas-senate",
-    "publishedAt": "2026-11-04T07:45:15.000Z"
-  },
-  {
-    "id": "1ce7d8d1f6f1127e",
-    "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-    "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro",
-    "publishedAt": "2026-11-04T07:39:38.000Z"
-  },
-  {
-    "id": "f4a970f46a501e5a",
-    "title": "FIFA’s Infantino ineligible for re-election, says former governance chief",
-    "summary": "Miguel ⁠⁠Maduro insists Gianni Infantino cannot serve more than three terms, pointing to FIFA's statutes.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/4/fifas-infantino-ineligible-for-re-election-says-former-governance-chief?traffic_source=rss",
-    "publishedAt": "2026-11-04T07:39:35.000Z"
-  },
-  {
-    "id": "495427985455e841",
-    "title": "El-Sayed defeats Rogers to win Senate seat in Michigan",
-    "summary": "This is a breaking news story.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/el-sayed-defeats-rogers-to-win-senate-seat-in-michigan?traffic_source=rss",
-    "publishedAt": "2026-11-04T07:31:20.000Z"
   }
 ]
