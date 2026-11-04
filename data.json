@@ -1,5 +1,104 @@
 [
   {
+    "id": "8903819350de0a09",
+    "title": "Florida Republicans fend off Democrats as state elects first black governor",
+    "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o",
+    "publishedAt": "2026-11-04T07:12:21.000Z"
+  },
+  {
+    "id": "e800aa3b977aed03",
+    "title": "Wednesday briefing: What the Democrat midterms victory tells us about Trump’s future as president",
+    "summary": "In today’s newsletter: A thumping night for the Democrats has seen the party take control of Congress, altering the course of Trump’s second presidency.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/04/wednesday-briefing-what-the-democrat-midterms-victory-tell-us-about-trumps-future-as-president",
+    "publishedAt": "2026-11-04T07:11:36.000Z"
+  },
+  {
+    "id": "c4c78fc34de9ea40",
+    "title": "Ex-UK political aide Steve Hilton loses bid for California governor to Democrat",
+    "summary": "Hilton, who was endorsed by President Trump, faced an uphill battle as a Republican in the widely liberal state.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6vg7y9eyn07o",
+    "publishedAt": "2026-11-04T07:03:45.000Z"
+  },
+  {
+    "id": "4932526eb6d3c966",
+    "title": "First 10 Australian songs inducted into the National Songbook after ‘very robust’ judging",
+    "summary": "Yothu Yindi’s Treaty, Midnight Oil’s Beds Are Burning and Helen Reddy’s I Am Woman are among the first songs to be honoured on new list that will grow every year.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/04/first-10-australian-songs-inducted-into-national-songbook",
+    "publishedAt": "2026-11-04T07:00:28.000Z"
+  },
+  {
+    "id": "34cae858b819d4e2",
+    "title": "Our house purchase is at risk from a frozen Revolut account",
+    "summary": "Access to our £37,000 deposit in a savings account is restricted after a ‘routine security review’",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/04/our-house-purchase-is-at-risk-from-a-frozen-revolut-account",
+    "publishedAt": "2026-11-04T07:00:28.000Z"
+  },
+  {
+    "id": "416dab2bd4bf2e80",
+    "title": "Democrat Chris Pappas wins New Hampshire Senate race to become first out gay senator",
+    "summary": "Pappas focused campaign against Republican John Sununu on serving as a bulwark against Trump administration.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/new-hampshire-senate-chris-pappas-john-sununu",
+    "publishedAt": "2026-11-04T06:57:28.000Z"
+  },
+  {
+    "id": "81e363dde5fa715f",
+    "title": "South Africans vote in local elections seen as test for embattled ANC",
+    "summary": "Polls suggest the governing party could fall below 40 percent as voters weigh failing services.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc?traffic_source=rss",
+    "publishedAt": "2026-11-04T06:57:06.000Z"
+  },
+  {
+    "id": "3e31c6f1491e3bb0",
+    "title": "Firsts for women and minorities in US midterm elections",
+    "summary": "The elections, which saw Democrats make big gains, also marked firsts for women and minorities in major offices.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/firsts-for-women-and-minorities-in-us-midterm-elections?traffic_source=rss",
+    "publishedAt": "2026-11-04T06:54:23.000Z"
+  },
+  {
+    "id": "1ce7d8d1f6f1127e",
+    "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+    "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro",
+    "publishedAt": "2026-11-04T06:50:29.000Z"
+  },
+  {
+    "id": "bb36f055467d2c4b",
+    "title": "Democratic Party gains US House majority in 2026 midterm elections",
+    "summary": "All 435 seats in the lower chamber of Congress were on the ballot in Tuesday's midterm race.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections?traffic_source=rss",
+    "publishedAt": "2026-11-04T06:34:46.000Z"
+  },
+  {
+    "id": "01ebf5a5673d5681",
+    "title": "Kate McClymont questioned over ‘nail in the coffin’ and poo emoji texts at Alan Jones trial",
+    "summary": "Award-winning investigative journalist says she ‘probably’ texted an alleged victim’s mother saying ‘I hope the shit does hit the fan for him’, court hears.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/04/alan-jones-trial-kate-mcclymont-nail-in-coffin-ntwnfb",
+    "publishedAt": "2026-11-04T06:23:40.000Z"
+  },
+  {
     "id": "a03290a5e57fee00",
     "title": "Democrat Troy Jackson defeats Susan Collins to win Maine US Senate seat in blow to Republicans",
     "summary": "Democratic nominee toppled the five-term Republican incumbent in one of the most hard-fought midterm contests.",
@@ -27,6 +126,15 @@
     "publishedAt": "2026-11-04T06:13:19.000Z"
   },
   {
+    "id": "533b14580597fcbd",
+    "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
+    "summary": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
+    "publishedAt": "2026-11-04T06:13:09.000Z"
+  },
+  {
     "id": "dc4a3c2ef1635900",
     "title": "Democrat Rob Sand wins Iowa’s gubernatorial race as party plans rebuild",
     "summary": "Sand, auditor for state with strong Trump support, defeats Maha-backed Republican Zach Lahn as Democrats win big.",
@@ -36,6 +144,24 @@
     "publishedAt": "2026-11-04T06:10:54.000Z"
   },
   {
+    "id": "207a37214328273b",
+    "title": "David Jones expected to fall into administration after failed 11th hour talks with biggest landlord",
+    "summary": "Future of 188-year-old department store hangs in balance after no agreement was struck with Westfield owner Scentre Group.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/04/david-jones-expected-to-fall-into-administration-rent",
+    "publishedAt": "2026-11-04T06:08:02.000Z"
+  },
+  {
+    "id": "19b25a6ebd5c47ce",
+    "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
+    "summary": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o",
+    "publishedAt": "2026-11-04T06:07:24.000Z"
+  },
+  {
     "id": "c59de0a10d2de418",
     "title": "Democrat Gina Hinojosa defeats Texas governor Greg Abbott in stunning upset",
     "summary": "Hinojosa wins momentous victory, shatters Republican grip on key office and will become state’s first Latina governor.",
@@ -43,6 +169,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/03/democrat-gina-hinojosa-greg-abbott-texas",
     "publishedAt": "2026-11-04T06:04:12.000Z"
+  },
+  {
+    "id": "6f6534062ae821a4",
+    "title": "Rogue UK energy bosses and brokers face crackdown on mis-selling",
+    "summary": "Exclusive: Ofgem to be given powers to issue fines and rein in bonuses for executives who ‘reward themselves while customers suffer’",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/04/rogue-energy-bosses-and-brokers-face-crackdown-on-mis-selling",
+    "publishedAt": "2026-11-04T06:00:27.000Z"
+  },
+  {
+    "id": "2057d560908d5742",
+    "title": "Why pharma firms are going to Earth’s orbit in search of new cancer drugs",
+    "summary": "A space capsule 300 miles above us is growing the tiny crystals of a potential cancer drug in microgravity.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/04/us-firm-varda-space-industries-manufacturing-drugs-in-space",
+    "publishedAt": "2026-11-04T06:00:27.000Z"
   },
   {
     "id": "c45bf7256f0a11e8",
@@ -61,6 +205,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cr3wv0ywnvl7o",
     "publishedAt": "2026-11-04T05:57:48.000Z"
+  },
+  {
+    "id": "29ae32388e5cdaae",
+    "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+    "summary": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o",
+    "publishedAt": "2026-11-04T05:39:36.000Z"
   },
   {
     "id": "66bd185d9b90aa55",
@@ -135,6 +288,15 @@
     "publishedAt": "2026-11-04T05:03:41.000Z"
   },
   {
+    "id": "2374e2904155ff35",
+    "title": "Britain’s housing market unlikely to recover until 2028, says Savills",
+    "summary": "House prices forecast to fall by 1.5% next year as Middle East war keeps mortgage rates higher for longer.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/04/britains-housing-market-unlikely-to-recover-until-2028-says-savills",
+    "publishedAt": "2026-11-04T05:00:26.000Z"
+  },
+  {
     "id": "3b1ab1c3382e1b49",
     "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
     "summary": "Exclusive: Schools minister launches new Ukrainian GCSE and says she is sorry students were pushed to study Russian in its absence.",
@@ -160,6 +322,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
     "publishedAt": "2026-11-04T04:55:10.000Z"
+  },
+  {
+    "id": "751f39882d80729f",
+    "title": "How America voted in maps and charts",
+    "summary": "See the maps and charts that show how America voted in the US midterm elections.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
+    "publishedAt": "2026-11-04T04:47:08.000Z"
   },
   {
     "id": "3bebe1e40db60a72",
@@ -351,6 +522,15 @@
     "publishedAt": "2026-11-04T02:15:01.000Z"
   },
   {
+    "id": "4b8f2f59ea2b063a",
+    "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
+    "summary": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo",
+    "publishedAt": "2026-11-04T02:11:40.000Z"
+  },
+  {
     "id": "f6daf9253ca85c90",
     "title": "Trump-endorsed Republican Byron Donalds wins Florida race for governor",
     "summary": "Donalds, who billed campaign as ‘a continuation of the DeSantis-era of success’, becomes state’s first black governor.",
@@ -430,6 +610,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
     "publishedAt": "2026-11-04T00:59:58.000Z"
+  },
+  {
+    "id": "74dadfba05c2d19d",
+    "title": "Why Kim Kardashian came back to 'the worst TV drama ever'",
+    "summary": "The media personality and businesswoman says she's worked on her acting for series two of All's Fair.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cxvgd4drmevro",
+    "publishedAt": "2026-11-04T00:52:19.000Z"
   },
   {
     "id": "ed469a0afbc53b82",
@@ -657,6 +846,15 @@
     "publishedAt": "2026-11-03T22:12:53.000Z"
   },
   {
+    "id": "df1f4e1d302b8f27",
+    "title": "Flights across Europe face disruption after false bomb threats",
+    "summary": "Several flights across Europe received bomb threats Tuesday, causing searches and diversions.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/flights-europe-hit-bomb-threats-turned-hoaxes-137808325",
+    "publishedAt": "2026-11-03T22:11:29.000Z"
+  },
+  {
     "id": "62afef8fff3655c8",
     "title": "Spain's transport minister steps down 6 days after fatal high-speed rail crash",
     "summary": "Spain’s transport minister announced his resignation following a deadly train collision south of Madrid that killed 69 people.",
@@ -673,6 +871,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
     "publishedAt": "2026-11-03T22:08:50.000Z"
+  },
+  {
+    "id": "6756cd00b2f94c4c",
+    "title": "Reform UK councillor charged with 12 counts of rape and multiple other offences",
+    "summary": "George Madgwick, party leader on Hampshire county council, faces charges related to four teenagers between 2008 and 2021.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/03/reform-uk-councillor-george-madgwick-charged-12-counts-rape",
+    "publishedAt": "2026-11-03T22:04:24.000Z"
   },
   {
     "id": "87defb527a395383",
@@ -1017,6 +1224,15 @@
     "publishedAt": "2026-11-03T17:50:43.000Z"
   },
   {
+    "id": "84fad86d113f90be",
+    "title": "The transplanted Scot doing famous father proud in New Zealand",
+    "summary": "Clark Laidlaw, head coach at Super Rugby champions Hurricanes, has made a huge impact in New Zealand and would \"welcome a conversation\" about taking on the top job in Scotland.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6ewerp0w5lvo",
+    "publishedAt": "2026-11-03T17:50:16.000Z"
+  },
+  {
     "id": "1ce61f2915820ed0",
     "title": "UK makes huge aid cuts to Commonwealth nations despite warm words at Chogm summit",
     "summary": "Nations in the group fare worse than others, with funding for nature projects especially hard hit even as climate crisis intensifies global need.",
@@ -1071,6 +1287,15 @@
     "publishedAt": "2026-11-03T17:38:26.000Z"
   },
   {
+    "id": "6ae9996c27bd4741",
+    "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
+    "summary": "Unclear if series of incidents affecting two UK departures and several Ryanair services, among others, were connected.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
+    "publishedAt": "2026-11-03T17:32:45.000Z"
+  },
+  {
     "id": "bfb03de7287f2dbf",
     "title": "Protect Poundland from predatory capitalism, MPs tell government",
     "summary": "Budget retailer and 12,000 jobs at risk after US owner fails to accept buyout offers.",
@@ -1078,6 +1303,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/03/protect-poundland-mps-tell-government-retail",
     "publishedAt": "2026-11-03T17:29:00.000Z"
+  },
+  {
+    "id": "f2b7af65fe4f1772",
+    "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
+    "summary": "Cybersecurity experts say national impact ‘minimal’ but incidents may represent the ‘foothills’ of a wider threat.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
+    "publishedAt": "2026-11-03T17:28:49.000Z"
   },
   {
     "id": "d6efe5e100a0bbba",
@@ -1114,239 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo",
     "publishedAt": "2026-11-03T17:07:28.000Z"
-  },
-  {
-    "id": "cb51670134340b73",
-    "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
-    "summary": "Survivors of attacks on displacement camps in Darfur recall the lives they built, and violence that forced them to flee.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
-    "publishedAt": "2026-11-03T17:03:24.000Z"
-  },
-  {
-    "id": "dc7333a3409a9f53",
-    "title": "Officials investigate fire at Mississippi police department tied to fatal shooting of Black toddler",
-    "summary": "Person arrested after fire broke out at police department where officer who shot and killed one-year-old Kohen Wiley previously worked.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/mississippi-police-department-fire-kohen-wiley",
-    "publishedAt": "2026-11-03T17:02:21.000Z"
-  },
-  {
-    "id": "fa67b8a295da8dac",
-    "title": "No babies to be born at hospital from end of November",
-    "summary": "A pregnant woman is to lodge Judicial Review papers to attempt to delay the implementation of the plan.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq4g1ddw2k0po",
-    "publishedAt": "2026-11-03T16:58:26.000Z"
-  },
-  {
-    "id": "f0d51e6fa0e58d9c",
-    "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-    "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o",
-    "publishedAt": "2026-11-03T16:57:41.000Z"
-  },
-  {
-    "id": "c3948cfa6c39cec3",
-    "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
-    "summary": "With neither bloc near a majority, Arab and ultra-Orthodox parties hold the key to Israel’s next government..",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss",
-    "publishedAt": "2026-11-03T16:49:10.000Z"
-  },
-  {
-    "id": "de6af99731740552",
-    "title": "Keeping mortgage interest relief approved",
-    "summary": "Homeowners can get tax relief of £3,500 on the money spent on the interstate of a mortgage.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgj0ljx01jo",
-    "publishedAt": "2026-11-03T16:44:20.000Z"
-  },
-  {
-    "id": "495b4219ed373aab",
-    "title": "Primark brings forward home deliveries plan by two years after profits slide",
-    "summary": "Retailer acquires robot-assisted warehouse and intends to have UK service up and running before end of 2027.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/03/primark-brings-forward-home-deliveries-plan-by-two-years-after-profits-slide",
-    "publishedAt": "2026-11-03T16:40:18.000Z"
-  },
-  {
-    "id": "e47b36e2919a1ed0",
-    "title": "Opposition party organiser killed before South Africa elections",
-    "summary": "Police are investigating the motive in murder of MKP coordinator as political killings rise during municipal elections.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss",
-    "publishedAt": "2026-11-03T16:39:00.000Z"
-  },
-  {
-    "id": "0033cbd4734d63a5",
-    "title": "Snap and crackle but no pop: Rice Krispies reformulated due to lack of rice",
-    "summary": "Kellogg’s substitutes ingredient with rice flour, as climate crisis affects availability of some grains.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/food/2026/nov/03/kelloggs-rice-krispies-coco-pops-reformulated-rice-shortage",
-    "publishedAt": "2026-11-03T16:23:48.000Z"
-  },
-  {
-    "id": "808b413ef91df462",
-    "title": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
-    "summary": "Ukrainian president meets German chancellor in Berlin, who says Russia is yet to engage seriously in peace efforts.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
-    "publishedAt": "2026-11-03T16:22:15.000Z"
-  },
-  {
-    "id": "658c1e16c7a40e83",
-    "title": "Jury in Russell Brand rape and sexual assault trial retires to consider verdicts",
-    "summary": "Judge tells jurors he will be able to accept only a unanimous decision on seven charges against the comedian.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/03/jury-russel-brand-rape-sexual-assault-trial-retires-consider-verdicts",
-    "publishedAt": "2026-11-03T16:19:33.000Z"
-  },
-  {
-    "id": "9637d6a4f4db408d",
-    "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-    "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o",
-    "publishedAt": "2026-11-03T16:19:29.000Z"
-  },
-  {
-    "id": "6b11035b92127740",
-    "title": "King Charles speaks to world leaders in Antigua, expresses 'sorrow' over slave trade",
-    "summary": "King Charles III has called the transatlantic slave trade a “shameful chapter of history” during a speech at the official opening of the Commonwealth Heads of Government Meeting in Antigua.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/king-charles-iii-speaks-world-leaders-antigua-expresses-137811246",
-    "publishedAt": "2026-11-03T16:16:36.000Z"
-  },
-  {
-    "id": "cd2ab2488c563256",
-    "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
-    "summary": "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. \"The city seems alive,\" said one resident, \"just like it used to be.\"",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
-    "publishedAt": "2026-11-03T15:54:39.000Z"
-  },
-  {
-    "id": "7c32c15739c3caef",
-    "title": "What's happening to UK interest rates and what does it mean for mortgages?",
-    "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o",
-    "publishedAt": "2026-11-03T15:51:23.000Z"
-  },
-  {
-    "id": "764f24c5906fc613",
-    "title": "Great Britain’s worst-ever bluetongue season ‘a major animal welfare crisis’",
-    "summary": "British Veterinary Association president tells MPs surge in cases putting farmers under severe pressure and stress.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/03/great-britain-worst-ever-bluetongue-season-major-animal-welfare-crisis",
-    "publishedAt": "2026-11-03T15:50:12.000Z"
-  },
-  {
-    "id": "33e3f25e062ae298",
-    "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
-    "summary": "Hezbollah denies the Syrian accusations, reiterating that it does not have any presence on Syrian territory.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
-    "publishedAt": "2026-11-03T15:47:34.000Z"
-  },
-  {
-    "id": "5bf5176323579420",
-    "title": "How US midterms have cost a record $12bn as cost of living soars",
-    "summary": "Candidates, donors and super PACs are spending more than ever on political campaigns.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/how-us-midterms-have-cost-a-record-12bn-as-cost-of-living-soars?traffic_source=rss",
-    "publishedAt": "2026-11-03T15:40:56.000Z"
-  },
-  {
-    "id": "594058d2277c213b",
-    "title": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
-    "summary": "A previously unseen family archive offers a glimpse into the Indian Nobel prize winner’s artistic process and personal relationships in his final years.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india",
-    "publishedAt": "2026-11-03T15:24:53.000Z"
-  },
-  {
-    "id": "7022b94b7b396b56",
-    "title": "Guaranteed pension income ‘resurrected’ for 17m private sector workers",
-    "summary": "Ministers propose new guided retirement scheme to help give savers protection for life.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/03/pension-income-retirement-for-17m-private-sector-workers",
-    "publishedAt": "2026-11-03T15:24:17.000Z"
-  },
-  {
-    "id": "608bd061b62f75cf",
-    "title": "Nordic nations refuse to face Russia in ice hockey World Championship",
-    "summary": "Denmark, Norway and Sweden join Finland in refusing to face Russia in 2027 World Championships in Germany next May.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/3/nordic-nations-refuse-to-face-russia-in-ice-hockey-world-championship?traffic_source=rss",
-    "publishedAt": "2026-11-03T15:18:13.000Z"
-  },
-  {
-    "id": "1cd786313d0c6b55",
-    "title": "Asda hires ex-Morrisons boss in bid to grow firm",
-    "summary": "David Potts takes charge of Asda, which is based in Leeds, with immediate effect.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o",
-    "publishedAt": "2026-11-03T15:12:35.000Z"
-  },
-  {
-    "id": "c92dbf95bdb69708",
-    "title": "Mining giant joins fight to stop killer toad march across Australia",
-    "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo",
-    "publishedAt": "2026-11-03T15:05:01.000Z"
-  },
-  {
-    "id": "836f89ceb7e9345d",
-    "title": "Justice department funds research into gender dysphoria and violent crime in latest anti-trans effort",
-    "summary": "Experts say ‘very dangerous’ move diverts attention from violence driven by far-right extremist ideologies.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/doj-research-gender-dysphoria-violent-crime",
-    "publishedAt": "2026-11-03T15:00:22.000Z"
-  },
-  {
-    "id": "ec7267ff9516c9b6",
-    "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
-    "summary": "Opposition promises to form a government quickly but remains split over whether to ally with Arab-led parties.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
-    "publishedAt": "2026-11-03T15:00:10.000Z"
-  },
-  {
-    "id": "aae00d52e8ce2cc7",
-    "title": "What to know about the crisis around Poland's Constitutional Tribunal",
-    "summary": "Judges at Poland’s Constitutional Tribunal are meeting to decide its future after the court president was suspended in a dispute with the government.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/crisis-polands-constitutional-tribunal-137807738",
-    "publishedAt": "2026-11-03T14:58:47.000Z"
   }
 ]
