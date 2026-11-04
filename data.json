@@ -1,5 +1,185 @@
 [
   {
+    "id": "89a3a43b3fd1b055",
+    "title": "More than 900 academics urge UK to reverse decision to bar Andreas Malm",
+    "summary": "Blocking Swedish writer’s entry for event with Palestine Action co-founder is attack on free expression, letter says.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/04/andreas-malm-academics-letter-uk-reverse-entry-bar",
+    "publishedAt": "2026-11-04T12:00:10.000Z"
+  },
+  {
+    "id": "0515ad2f27b03657",
+    "title": "BMW warns on profits as it counts cost of plan for 8,000 job cuts",
+    "summary": "German carmaker slashes profit margin to between -0.5% and 0.5% this year in face of competition from China.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts",
+    "publishedAt": "2026-11-04T11:58:19.000Z"
+  },
+  {
+    "id": "79b237eb782cc5e6",
+    "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
+    "summary": "A U.S. cruise ship that suspended its operations in Cambodia has left with only crew aboard, according to Cambodian officials.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/stranded-cruise-ship-odyssey-leaves-cambodia-passengers-137840393",
+    "publishedAt": "2026-11-04T11:49:41.000Z"
+  },
+  {
+    "id": "ba81f50958caa0dd",
+    "title": "Firework noise limit should be drastically cut to protect wild animals, UK government told",
+    "summary": "Ministers urged to go further than proposed cut to 110 decibels to ease acute stress on birds and others animals.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/04/firework-noise-limit-protect-wild-animals-bonfire-night",
+    "publishedAt": "2026-11-04T11:47:33.000Z"
+  },
+  {
+    "id": "dbbf789e01db8a09",
+    "title": "‘Call me senator’: How Abdul El-Sayed beat Trump’s hate to create history",
+    "summary": "The 42-year-old Democrat has defeated Republican Mike Rogers to become the first Muslim senator in the US.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/call-me-senator-how-abdul-el-sayed-beat-trumps-hate-to-create-history?traffic_source=rss",
+    "publishedAt": "2026-11-04T11:46:46.000Z"
+  },
+  {
+    "id": "6fa41c9f0383ffe5",
+    "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+    "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo",
+    "publishedAt": "2026-11-04T11:46:09.000Z"
+  },
+  {
+    "id": "1358d30e5c59ddf1",
+    "title": "‘Seismic shift’: World reacts to US midterm election results",
+    "summary": "Iran's top negotiator says US voters sent a “NO TO WAR” message, as Trump's Democratic opponents take Congress.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
+    "publishedAt": "2026-11-04T11:24:50.000Z"
+  },
+  {
+    "id": "13052b2b1db282f0",
+    "title": "Democrats sweep into control of Congress after historic midterm victories | First Thing",
+    "summary": "Both the House and Senate will be under Democratic control for the rest of Donald Trump’s term in office. Plus, the French Homer and Marge who found true love in real life.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/04/first-thing-democrats-control-congress-midterm-elections",
+    "publishedAt": "2026-11-04T11:14:37.000Z"
+  },
+  {
+    "id": "1819839a82cf5e39",
+    "title": "Woman charged over alleged stalking and attempted extortion of Greens senator Jordon Steele-John",
+    "summary": "Exclusive: Police will allege the woman, 40, is the former partner of Steele-John and she is expected to face court in Perth on Thursday.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/04/jordon-steele-john-woman-charged-alleged-stalking-attempted-extortion-greens-senator-court-ntwnfb",
+    "publishedAt": "2026-11-04T11:07:10.000Z"
+  },
+  {
+    "id": "0f83db72d5313cef",
+    "title": "The Legend of Zelda: Ocarina of Time review – a dream come true",
+    "summary": "This ambitious remake transforms a landmark Zelda game into a modern masterpiece, clearer and easier to navigate, more beautiful to look at, with playful musical touches. Yet the melancholy remains.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch",
+    "publishedAt": "2026-11-04T11:03:18.000Z"
+  },
+  {
+    "id": "abb3f96bb10486b6",
+    "title": "Funding to help poorer countries cope with climate crisis has stalled, says UN",
+    "summary": "Report reveals financial support promised by rich nations for adaptation measures is well behind the pace that is needed.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/nov/04/funding-poorer-countries-climate-crisis-adaptation-un-report",
+    "publishedAt": "2026-11-04T11:00:09.000Z"
+  },
+  {
+    "id": "b4e1c6ba5505e361",
+    "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
+    "summary": "Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
+    "publishedAt": "2026-11-04T11:00:00.000Z"
+  },
+  {
+    "id": "f21ba5d89fa917f5",
+    "title": "‘I will not delete my posts’: Inside Uganda’s crackdown on online critics",
+    "summary": "Uganda’s online critics allege abductions and intimidation as families search for missing relatives.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/i-will-not-delete-my-posts-inside-ugandas-crackdown-on-online-critics?traffic_source=rss",
+    "publishedAt": "2026-11-04T10:59:31.000Z"
+  },
+  {
+    "id": "ba0760df4b1283dc",
+    "title": "‘The point was to dehumanise’: London Holocaust archive examines world’s first ‘viral’ antisemitism scandal",
+    "summary": "Dreyfus affair has echoes of how anti-Jewish hatred manifests itself today, say curators at Weiner Library.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/2026/nov/04/london-wiener-holocaust-library-dreyfus-affair-antisemitism",
+    "publishedAt": "2026-11-04T10:58:48.000Z"
+  },
+  {
+    "id": "7c32c15739c3caef",
+    "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+    "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o",
+    "publishedAt": "2026-11-04T10:47:31.000Z"
+  },
+  {
+    "id": "8612c432abb2b2c2",
+    "title": "Houthis’ monthlong siege on Taiz creating misery for trapped Yemenis",
+    "summary": "Blockade prompts warnings of a 'catastrophe' as food, water, fuel and medical supplies are unable to reach city.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/houthis-one-month-siege-on-taiz-is-creating-hell-for-yemenis-stuck-there?traffic_source=rss",
+    "publishedAt": "2026-11-04T10:44:46.000Z"
+  },
+  {
+    "id": "9008a119bd49e058",
+    "title": "Democrats win control of House and Senate: Key US midterms takeaways",
+    "summary": "This is the first time in 20 years that a Republican president has lost both houses of US Congress.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways?traffic_source=rss",
+    "publishedAt": "2026-11-04T10:39:52.000Z"
+  },
+  {
+    "id": "f151543a7eec0ce3",
+    "title": "Israel vote results confirmed as election commission rejects fraud claims",
+    "summary": "Netanyahu’s allies refused to back the result, as President Herzog began talks on who should form the next government.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims?traffic_source=rss",
+    "publishedAt": "2026-11-04T10:37:21.000Z"
+  },
+  {
+    "id": "6c2c33810cc6c37f",
+    "title": "From education to housing protests, Palestine’s flag spreads across Europe",
+    "summary": "Symbols such as the flag and keffiyeh represent anti-colonial struggles but some question their use amid mass rallies.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/palestinian-flag-in-eu-demonstrations?traffic_source=rss",
+    "publishedAt": "2026-11-04T10:10:08.000Z"
+  },
+  {
+    "id": "ceb3fa29e214157d",
+    "title": "Indonesian president’s chief of staff dismissed over alleged wiretapping",
+    "summary": "Gov't says Listyo may have committed 'treason' after he is arrested and accused of wiretapping top officials' phones.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/indonesian-presidents-chief-of-staff-dismissed-over-alleged?traffic_source=rss",
+    "publishedAt": "2026-11-04T10:07:36.000Z"
+  },
+  {
     "id": "4ccb055f9909718e",
     "title": "‘A true icon of the hair industry’: Celebrity hairstylist John Frieda dies aged 75",
     "summary": "Businessman styled stars such as Twiggy, Madonna and Joanna Lumley and created popular hair care line Frizz Ease.",
@@ -16,6 +196,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
     "publishedAt": "2026-11-04T09:55:22.000Z"
+  },
+  {
+    "id": "30dddfaae3f77176",
+    "title": "Syrians see Israel as biggest regional threat, followed by Iran: Survey",
+    "summary": "Some 97% of respondents to Arab Opinion Index for Syria say Israel threatens security and stability in the Middle East.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/syrians-see-israel-as-biggest-regional-threat-followed-by-iran-survey?traffic_source=rss",
+    "publishedAt": "2026-11-04T09:51:33.000Z"
+  },
+  {
+    "id": "8d059943237c3c46",
+    "title": "GOP’s redistricting gamble backfires in Florida as Democrats hold ground",
+    "summary": "Trump's party dealt a setback as Republican bid to tilt Florida's House map falters on a strong night for Democrats.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/gops-redistricting-gamble-backfires-in-florida-as-democrats-hold-ground?traffic_source=rss",
+    "publishedAt": "2026-11-04T09:48:31.000Z"
   },
   {
     "id": "e34f57a84aeec738",
@@ -1150,203 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/3/texans-vote-in-most-expensive-senate-race-in-us-history?traffic_source=rss",
     "publishedAt": "2026-11-03T21:41:53.000Z"
-  },
-  {
-    "id": "d9931a8b95debc08",
-    "title": "AI ‘godfather’ Geoffrey Hinton says it might turn out humans would have been better off without AI",
-    "summary": "Nobel winner who devised concept of neural network warns AI could be near to triggering major incident such as power or banking shutdown.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-    "publishedAt": "2026-11-03T21:35:42.000Z"
-  },
-  {
-    "id": "ca6f4bcfa7720dbf",
-    "title": "Investigators say they found tail pieces of Learjet that crashed in Florida, killing nine",
-    "summary": "National Transportation Safety Board says discovery of parts confirms plane was breaking apart before it crashed.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/florida-plane-crash-tail-pieces-discovered",
-    "publishedAt": "2026-11-03T21:31:49.000Z"
-  },
-  {
-    "id": "e549b369b37e63e8",
-    "title": "British lawyer Dapo Akande elected to UN top court in big diplomatic win",
-    "summary": "Akande joining the international court of justice comes a decade after previous British judge failed to get re-elected.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/law/2026/nov/03/british-lawyer-dapo-akande-elected-to-un-international-court-of-justice-diplomatic-win",
-    "publishedAt": "2026-11-03T21:09:39.000Z"
-  },
-  {
-    "id": "7e8307d163c5f918",
-    "title": "King Charles addresses summit as demands for slavery apology grow",
-    "summary": "Speaking in Antigua, the king did not give explicit support for reparations but said he wanted to ‘address past wrongs’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/03/king-charles-commonwealth-summit-campaigners-apology-slavery",
-    "publishedAt": "2026-11-03T21:09:21.000Z"
-  },
-  {
-    "id": "aac4eb69dd420744",
-    "title": "Minneapolis community leave ‘I Voted’ stickers at Alex Pretti’s memorial site",
-    "summary": "Residents are sending a clear message about the violent deportations taking place across the country during this midterm cycle.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/minneapolis-i-voted-stickers-alex-pretti-memorial",
-    "publishedAt": "2026-11-03T21:05:52.000Z"
-  },
-  {
-    "id": "9e47d7a0fc3a62e8",
-    "title": "Rural health board shake-up opposed as locals fight cuts to hospital beds",
-    "summary": "The plans would see inpatient beds reduced from 146 to either 90 or 60 in the county.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5ev3mkjvzrwo",
-    "publishedAt": "2026-11-03T21:01:00.000Z"
-  },
-  {
-    "id": "a16314a2c701d2e4",
-    "title": "Spanish transport minister resigns days after deadly train crash",
-    "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo",
-    "publishedAt": "2026-11-03T20:56:32.000Z"
-  },
-  {
-    "id": "640cf68696f2735d",
-    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
-    "publishedAt": "2026-11-03T20:53:03.000Z"
-  },
-  {
-    "id": "74d19b3565375a6a",
-    "title": "Seven flights across Europe targeted by suspected bomb threats",
-    "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo",
-    "publishedAt": "2026-11-03T20:42:47.000Z"
-  },
-  {
-    "id": "d3867d548216f898",
-    "title": "Russia's 'vile terrorist strike' kills dozens at school used as aid centre",
-    "summary": "Ukranian President Volodymyr Zelenskky describes a series of deadly Russian attacks at a school being used as an aid hub in the country's south-eastern region of Zaporizhzhia, as a \"vile terrorist strike\".",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-04/russian-strike-on-school-kills-dozens-n-ukraine/107343894",
-    "publishedAt": "2026-11-03T20:39:39.000Z"
-  },
-  {
-    "id": "015960caa3ded74c",
-    "title": "Google says there’s no way to use Search without using artificial intelligence",
-    "summary": "In announcement geared to schools, tech giant showed how entwined AI is with the world’s most popular website.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
-    "publishedAt": "2026-11-03T20:30:06.000Z"
-  },
-  {
-    "id": "e89d2bc7ea392ea2",
-    "title": "Trump says US will stop $5.7b in aid to Israel in surprise announcement",
-    "summary": "Donald Trump has announced the US will cut funding to Israel in a move meant to take away a \"bad talking point\" from left-wing Democrats. Here's what to know about the US midterms today.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-04/us-midterms-daily-news-briefing/107340542",
-    "publishedAt": "2026-11-03T20:15:35.000Z"
-  },
-  {
-    "id": "9d9d5ec0019db2e2",
-    "title": "Andy Burnham to unveil EU trade deals worth billions of pounds",
-    "summary": "Agriculture, youth visas and emissions agreements nearly tied up under PM’s plan for a much closer relationship with Brussels.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
-    "publishedAt": "2026-11-03T20:00:13.000Z"
-  },
-  {
-    "id": "d1bc2bd679cbe117",
-    "title": "Nasa telescope launched in 2004 to plunge back to Earth after failed rescue mission",
-    "summary": "Neil Gehrels Swift Observatory is expected to re-enter Earth’s atmosphere Wednesday, burning up in the process.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory",
-    "publishedAt": "2026-11-03T19:50:27.000Z"
-  },
-  {
-    "id": "668393313fb00306",
-    "title": "Convicted murderer who escaped from Tennessee prison captured in Missouri",
-    "summary": "Jacob Morley, serving a life sentence for killing a co-worker, slipped through a prison fence last week.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/jacob-morley-tennessee-prisoner-capture",
-    "publishedAt": "2026-11-03T19:42:35.000Z"
-  },
-  {
-    "id": "2c756bfc3203984a",
-    "title": "Two Australians confirmed dead in Spain’s high-speed train crash",
-    "summary": "Legal body handling identification says three latest victims include two Australians and a Japanese citizen.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
-    "publishedAt": "2026-11-03T19:40:58.000Z"
-  },
-  {
-    "id": "7296288d5e68f587",
-    "title": "Man arrested as girl, 17, found in Oregon after disappearing from Utah last year",
-    "summary": "500-plus-day search for Kylie Arellano ends as FBI warns of ‘gore groups’ targeting and exploiting children.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/kylie-arellano-missing-found-oregon-utah",
-    "publishedAt": "2026-11-03T19:30:47.000Z"
-  },
-  {
-    "id": "b603a1d3f11ebf1f",
-    "title": "Airbnb levy needed to 'turbocharge' community housing build, industry says",
-    "summary": "A Victorian-style levy on short-term rentals is among a suite of proposals being put forward by the community housing industry peak body to the NSW government.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-04/community-housing-body-calls-for-short-stay-levy/107341406",
-    "publishedAt": "2026-11-03T19:30:17.000Z"
-  },
-  {
-    "id": "cc6d5c271c5b9422",
-    "title": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
-    "summary": "Abdul El-Sayed hopes to become the first Muslim US senator as Michigan's Senate race reaches its critical final hours.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
-    "publishedAt": "2026-11-03T19:13:49.000Z"
-  },
-  {
-    "id": "bfa8c6422aa3779b",
-    "title": "See live results from the 2026 US midterm elections",
-    "summary": "Follow the results of the 2026 US midterm elections and who controls the House and Senate, updated as races are called.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-04/us-midterm-election-results-2026/107235570",
-    "publishedAt": "2026-11-03T19:10:18.000Z"
-  },
-  {
-    "id": "a6ce9c61499416fd",
-    "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-    "summary": "Yemeni interior minister says foreign involvement expanded beyond arms and training to directing military operations.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
-    "publishedAt": "2026-11-03T19:09:09.000Z"
-  },
-  {
-    "id": "5d2cdd8508318a88",
-    "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
-    "summary": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in June.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
-    "publishedAt": "2026-11-03T19:00:23.000Z"
   }
 ]
