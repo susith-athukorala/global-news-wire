@@ -1,5 +1,95 @@
 [
   {
+    "id": "00c7b1dd49e645cd",
+    "title": "Viewers stayed away from Fox News on a disappointing election night for Republicans",
+    "summary": "In early, preliminary figures, the news channel trailed several other networks in prime-time viewership.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/04/fox-news-midterm-ratings",
+    "publishedAt": "2026-11-04T20:06:55.000Z"
+  },
+  {
+    "id": "03ca8dc25af4be4a",
+    "title": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
+    "summary": "Analysis by human rights organisation Global Echo shows 85 of 132 shipments over eight years contained more than US$5m of organic dates grown in settlements.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
+    "publishedAt": "2026-11-04T20:00:43.000Z"
+  },
+  {
+    "id": "af0331329a4ff896",
+    "title": "Democratic progressive wing notches win in California Central Valley",
+    "summary": "Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
+    "publishedAt": "2026-11-04T19:50:37.000Z"
+  },
+  {
+    "id": "8fa8c8ed8acdcecb",
+    "title": "Mother and daughter both killed in grizzly bear attack, Canadian authorities confirm",
+    "summary": "Conservation officers say the women reported missing over the weekend, were found near a trail near their home.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
+    "publishedAt": "2026-11-04T19:42:47.000Z"
+  },
+  {
+    "id": "6af0c17bddcf8c31",
+    "title": "Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win",
+    "summary": "Democratic leader says party expects at least 255 House seats and promises to deliver on affordability.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win?traffic_source=rss",
+    "publishedAt": "2026-11-04T19:30:41.000Z"
+  },
+  {
+    "id": "43e490bb19dacddc",
+    "title": "The midterms were a thumping rebuke of the US-Israel relationship",
+    "summary": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the same.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
+    "publishedAt": "2026-11-04T19:22:43.000Z"
+  },
+  {
+    "id": "2679e1cb74849f2d",
+    "title": "WHO approves trials for two new Ebola vaccines",
+    "summary": "Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
+    "publishedAt": "2026-11-04T19:22:09.000Z"
+  },
+  {
+    "id": "3671643feba422e2",
+    "title": "Miami helicopter crash leaves one person dead and two injured",
+    "summary": "The helicopter was carrying three people and crashed in the waters of Biscayne Bay, east of Miami executive airport.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/04/miami-helicopter-crash-deadly",
+    "publishedAt": "2026-11-04T19:19:34.000Z"
+  },
+  {
+    "id": "74679d6341959417",
+    "title": "US midterms 2026: What key races remain undecided?",
+    "summary": "Key races in Alaska, Mississippi, Kansas and California remain uncounted.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/us-midterms-2026-what-key-races-remain-undecided?traffic_source=rss",
+    "publishedAt": "2026-11-04T19:18:47.000Z"
+  },
+  {
+    "id": "cbdc43bd52164429",
+    "title": "Democrat Jon Rosenthal elected Texas railroad commissioner over controversial Republican Bo French",
+    "summary": "State representative Rosenthal’s win comes after national backlash to French’s social media remarks targeting south Asian Americans.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/04/jon-rosenthal-texas-railroad-commissioner",
+    "publishedAt": "2026-11-04T19:13:37.000Z"
+  },
+  {
     "id": "7ecc8bd9bb7c717b",
     "title": "Ex-Prince Andrew called to testify in civil case, 1st royal in 156 years to get witness summons",
     "summary": "The former Prince Andrew has been called to testify as a witness in a civil fraud trial, marking what is believed to be the first time in more than 150 years that a member of the royal family has received a witness summons.",
@@ -475,6 +565,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss",
     "publishedAt": "2026-11-04T14:08:18.000Z"
+  },
+  {
+    "id": "533b14580597fcbd",
+    "title": "Everything you need to know from the US midterm elections",
+    "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
+    "publishedAt": "2026-11-04T14:05:42.000Z"
   },
   {
     "id": "108aca1bd69ac41f",
@@ -1179,6 +1278,15 @@
     "publishedAt": "2026-11-04T08:02:46.000Z"
   },
   {
+    "id": "5887f45d84df41ce",
+    "title": "David Jones future in doubt as department stores become \"obsolete and redundant\" says retail expert",
+    "summary": "The managing director at Marketing Focus, Barry Urquhart says David Jones' troubles are not unique and the department store model globally is becoming \"obsolete and redundant\".",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/programs/the-business/2026-11-04/david-jones-future-in-doubt-as-department-stores-become-obsolete/107346234",
+    "publishedAt": "2026-11-04T07:54:38.000Z"
+  },
+  {
     "id": "5bf2f4786a3ad482",
     "title": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
     "summary": "Democrat defeats Mike Rogers in race marked by Islamophobic attacks from Trump and Republican allies.",
@@ -1215,6 +1323,15 @@
     "publishedAt": "2026-11-04T07:45:15.000Z"
   },
   {
+    "id": "1ce7d8d1f6f1127e",
+    "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+    "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro",
+    "publishedAt": "2026-11-04T07:39:38.000Z"
+  },
+  {
     "id": "f4a970f46a501e5a",
     "title": "FIFA’s Infantino ineligible for re-election, says former governance chief",
     "summary": "Miguel ⁠⁠Maduro insists Gianni Infantino cannot serve more than three terms, pointing to FIFA's statutes.",
@@ -1231,122 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/el-sayed-defeats-rogers-to-win-senate-seat-in-michigan?traffic_source=rss",
     "publishedAt": "2026-11-04T07:31:20.000Z"
-  },
-  {
-    "id": "e649b508823dc26e",
-    "title": "Democrats win Congress: How they did it, and what it means",
-    "summary": "With control of Congress, Democrats can challenge Trump’s agenda through subpoenas, confirmation votes.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean?traffic_source=rss",
-    "publishedAt": "2026-11-04T07:23:45.000Z"
-  },
-  {
-    "id": "7dd0e5d5be0d12f8",
-    "title": "Spanish transport minister resigns after train crash killed 69 people",
-    "summary": "Oscar Puente says he could not 'continue in office' after two major train accidents in less than a year.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/spanish-transport-minister-resigns-after-train-crash-killed-69-people?traffic_source=rss",
-    "publishedAt": "2026-11-04T07:18:08.000Z"
-  },
-  {
-    "id": "b4d4324a953f03f6",
-    "title": "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says",
-    "summary": "Iran's Islamic Revolutionary Guard Corps says the vessels had hit sea mines while trying to cross a prohibited route.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
-    "publishedAt": "2026-11-04T07:17:08.000Z"
-  },
-  {
-    "id": "8903819350de0a09",
-    "title": "Florida Republicans fend off Democrats as state elects first black governor",
-    "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o",
-    "publishedAt": "2026-11-04T07:12:21.000Z"
-  },
-  {
-    "id": "e800aa3b977aed03",
-    "title": "Wednesday briefing: What the Democrat midterms victory tells us about Trump’s future as president",
-    "summary": "In today’s newsletter: A thumping night for the Democrats has seen the party take control of Congress, altering the course of Trump’s second presidency.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/04/wednesday-briefing-what-the-democrat-midterms-victory-tell-us-about-trumps-future-as-president",
-    "publishedAt": "2026-11-04T07:11:36.000Z"
-  },
-  {
-    "id": "00f0c0fa9e99c8d7",
-    "title": "Democrat Troy Jackson wins Maine US Senate seat in blow to Republicans",
-    "summary": "Longtime Republican Senator Susan Collins had held the seat for three decades, but was swept away in the blue wave.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/democrat-troy-jackson-wins-maine-us-senate-seat-in-blow-to-republicans?traffic_source=rss",
-    "publishedAt": "2026-11-04T07:04:35.000Z"
-  },
-  {
-    "id": "c4c78fc34de9ea40",
-    "title": "Ex-UK political aide Steve Hilton loses bid for California governor to Democrat",
-    "summary": "Hilton, who was endorsed by President Trump, faced an uphill battle as a Republican in the widely liberal state.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6vg7y9eyn07o",
-    "publishedAt": "2026-11-04T07:03:45.000Z"
-  },
-  {
-    "id": "4932526eb6d3c966",
-    "title": "First 10 Australian songs inducted into the National Songbook after ‘very robust’ judging",
-    "summary": "Yothu Yindi’s Treaty, Midnight Oil’s Beds Are Burning and Helen Reddy’s I Am Woman are among the first songs to be honoured on new list that will grow every year.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/04/first-10-australian-songs-inducted-into-national-songbook",
-    "publishedAt": "2026-11-04T07:00:28.000Z"
-  },
-  {
-    "id": "34cae858b819d4e2",
-    "title": "Our house purchase is at risk from a frozen Revolut account",
-    "summary": "Access to our £37,000 deposit in a savings account is restricted after a ‘routine security review’",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/04/our-house-purchase-is-at-risk-from-a-frozen-revolut-account",
-    "publishedAt": "2026-11-04T07:00:28.000Z"
-  },
-  {
-    "id": "416dab2bd4bf2e80",
-    "title": "Democrat Chris Pappas wins New Hampshire Senate race to become first out gay senator",
-    "summary": "Pappas focused campaign against Republican John Sununu on serving as a bulwark against Trump administration.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/new-hampshire-senate-chris-pappas-john-sununu",
-    "publishedAt": "2026-11-04T06:57:28.000Z"
-  },
-  {
-    "id": "81e363dde5fa715f",
-    "title": "South Africans vote in local elections seen as test for embattled ANC",
-    "summary": "Polls suggest the governing party could fall below 40 percent as voters weigh failing services.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc?traffic_source=rss",
-    "publishedAt": "2026-11-04T06:57:06.000Z"
-  },
-  {
-    "id": "3e31c6f1491e3bb0",
-    "title": "Firsts for women and minorities in US midterm elections",
-    "summary": "The elections, which saw Democrats make big gains, also marked firsts for women and minorities in major offices.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/firsts-for-women-and-minorities-in-us-midterm-elections?traffic_source=rss",
-    "publishedAt": "2026-11-04T06:54:23.000Z"
-  },
-  {
-    "id": "0037bd6e91b82c1a",
-    "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
-    "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo",
-    "publishedAt": "2026-11-04T06:53:56.000Z"
   }
 ]
