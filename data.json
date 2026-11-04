@@ -1,5 +1,104 @@
 [
   {
+    "id": "983c6e71445fc89d",
+    "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
+    "summary": "The CAS ruled last week to overturn governing body's exclusion of ‌Russia over its 2022 invasion of Ukraine.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss",
+    "publishedAt": "2026-11-04T15:04:34.000Z"
+  },
+  {
+    "id": "5b022a77d2a07030",
+    "title": "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
+    "summary": "Despite losing legislative control, the US president still has strong executive powers to push his agenda forward.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss",
+    "publishedAt": "2026-11-04T15:04:08.000Z"
+  },
+  {
+    "id": "20617a05d88ffd48",
+    "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+    "summary": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no",
+    "publishedAt": "2026-11-04T15:01:10.000Z"
+  },
+  {
+    "id": "0d5811a82ab28a82",
+    "title": "Why the weirdest game of 2026 is also one of my favourites",
+    "summary": "Titanium Court is a bizarre world of 8-bit fairies, Shakespeare and surprise songs – its magic lies in never knowing what on earth is going on.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/04/why-the-weirdest-game-of-2026-is-also-one-of-my-favourites",
+    "publishedAt": "2026-11-04T15:00:38.000Z"
+  },
+  {
+    "id": "890b98d8810a7152",
+    "title": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
+    "summary": "Charities say government ‘must act now’ with cocaine-specific deaths eight times higher than in 2010.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/04/cocaine-overtakes-heroin-drug-deaths-england-wales",
+    "publishedAt": "2026-11-04T14:54:24.000Z"
+  },
+  {
+    "id": "b670634b824b283b",
+    "title": "‘This is redemption time’: celebrities react to Democrats’ historic midterms sweep",
+    "summary": "After the party regained control of both houses of Congress, stars including Viola Davis, Bette Midler and John Cusack have been celebrating.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/nov/04/celebrities-react-us-midterms-democrats-sweep",
+    "publishedAt": "2026-11-04T14:40:33.000Z"
+  },
+  {
+    "id": "38388d24d29ffd18",
+    "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
+    "summary": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego",
+    "publishedAt": "2026-11-04T14:35:27.000Z"
+  },
+  {
+    "id": "4489d5564e1c6aae",
+    "title": "‘We want our taxes spent here’: 11 Democrats weigh in after sweeping the US midterm elections",
+    "summary": "Democratic leaders and seat-flipping victors from Tuesday’s ‘blue tsunami’ offer post-election comments.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/04/democrat-midterm-election-remarks",
+    "publishedAt": "2026-11-04T14:33:21.000Z"
+  },
+  {
+    "id": "38c57afd080e4d4c",
+    "title": "Bangladesh garment factories close as workers clash with police in pay protests",
+    "summary": "Police have clashed with garment workers demanding higher minimum wages in Bangladesh, where days of protests have disrupted an industry that employs about 4 million people.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/bangladesh-garment-factories-close-workers-clash-police-pay-137843912",
+    "publishedAt": "2026-11-04T14:24:24.000Z"
+  },
+  {
+    "id": "474fb3666b5198f3",
+    "title": "EU offers Serbia fresh hope for membership talks, says more countries could join soon",
+    "summary": "The European Union has offered Serbia fresh hope for membership talks if a new student-led government strengthens democracy.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/eu-offers-serbia-fresh-hope-membership-talks-countries-137844800",
+    "publishedAt": "2026-11-04T14:23:27.000Z"
+  },
+  {
+    "id": "eb99477837075d89",
+    "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+    "summary": "With many seats still to come in, the Democrats have taken control of the Senate, House and several key governorships. Find live updating results in full here.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-elections-full-results-senate-house-governor-races",
+    "publishedAt": "2026-11-04T14:10:29.000Z"
+  },
+  {
     "id": "ed273a3df88258c5",
     "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
     "summary": "The advance on al-Dahida heights, a strategic highland, comes as fighting escalates in al-Dhalea, Lahij and Taiz.",
@@ -7,6 +106,42 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss",
     "publishedAt": "2026-11-04T14:08:18.000Z"
+  },
+  {
+    "id": "108aca1bd69ac41f",
+    "title": "Endangered giant burrowing frog returns to wild after tadpoles rescued from ashes of black summer fires",
+    "summary": "Tadpoles collected from puddles in East Gippsland were transported to Melbourne zoo, where they were raised to metamorphosis and successfully bred in captivity for the first time.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/05/giant-burrowing-frog-returns-to-wild-after-tadpoles-rescued-black-summer-fires-australia",
+    "publishedAt": "2026-11-04T14:01:35.000Z"
+  },
+  {
+    "id": "980cee697966e937",
+    "title": "Albanese government warned it’s ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI",
+    "summary": "Centre for Public Integrity report says mandatory audit and public register of all automated decision-making needed.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai",
+    "publishedAt": "2026-11-04T14:00:37.000Z"
+  },
+  {
+    "id": "f6653abac69866a1",
+    "title": "Australia has an especially bad inflation problem. So why are we only middle-of-the pack on the misery index?",
+    "summary": "Comparing Australia to other countries may not be much comfort but does offer some perspective on the economy.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/australian-economy-inflation-cost-of-living-misery-index",
+    "publishedAt": "2026-11-04T14:00:37.000Z"
+  },
+  {
+    "id": "af736a82da8d1916",
+    "title": "Muslim Votes Matter softens anti-Labor stance ahead of Victorian election in bid to defeat One Nation in at-risk seats",
+    "summary": "Exclusive: Advocacy group will put volunteers on the ground in Labor-held outer suburban seats that could swing towards Pauline Hanson’s party.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/05/muslim-votes-matter-softens-anti-labor-stance-victoria-election-one-nation-ntwnfb",
+    "publishedAt": "2026-11-04T14:00:36.000Z"
   },
   {
     "id": "7cf5a63ac2ab131c",
@@ -90,6 +225,15 @@
     "publishedAt": "2026-11-04T13:40:52.000Z"
   },
   {
+    "id": "cf9ce9644b86038e",
+    "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+    "summary": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+    "publishedAt": "2026-11-04T13:38:09.000Z"
+  },
+  {
     "id": "5dce150845b140ce",
     "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
     "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
@@ -106,6 +250,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss",
     "publishedAt": "2026-11-04T13:26:44.000Z"
+  },
+  {
+    "id": "88e83951d1ca16a3",
+    "title": "Nadal set to join Real Madrid board of directors",
+    "summary": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo",
+    "publishedAt": "2026-11-04T13:21:01.000Z"
   },
   {
     "id": "28b7aeb78bb581f2",
@@ -313,6 +466,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/stranded-cruise-ship-odyssey-leaves-cambodia-passengers-137840393",
     "publishedAt": "2026-11-04T11:49:41.000Z"
+  },
+  {
+    "id": "f9ed4598751316a4",
+    "title": "ANC under pressure to reverse South Africa decline",
+    "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo",
+    "publishedAt": "2026-11-04T11:47:44.000Z"
   },
   {
     "id": "ba81f50958caa0dd",
@@ -1186,167 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/democrat-annie-andrews-flips-south-carolinas-senate-seat?traffic_source=rss",
     "publishedAt": "2026-11-04T03:39:58.000Z"
-  },
-  {
-    "id": "0037bd6e91b82c1a",
-    "title": "Anthony Zurcher: Democrats push deep into Republican territory with historic wins",
-    "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo",
-    "publishedAt": "2026-11-04T03:34:58.000Z"
-  },
-  {
-    "id": "7f280f946fc74fe5",
-    "title": "South Carolina elects Democratic senator for first time in almost three decades",
-    "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o",
-    "publishedAt": "2026-11-04T03:24:34.000Z"
-  },
-  {
-    "id": "2f9dbbb3b629b081",
-    "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
-    "summary": "EU says supermarket hacks in at least 11 countries are 'not isolated', but a Romanian official suspects no state actor.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss",
-    "publishedAt": "2026-11-04T03:16:37.000Z"
-  },
-  {
-    "id": "9fa876a0c1e3cda1",
-    "title": "Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend",
-    "summary": "Exclusive: Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election",
-    "publishedAt": "2026-11-04T02:44:49.000Z"
-  },
-  {
-    "id": "5c41856e6af06173",
-    "title": "Alleged attack on One Nation supporter not believed to be politically motivated, Victoria police say",
-    "summary": "Police also allege Torquay man was attacked with a ‘blunt weapon’ rather than a baseball bat as originally reported.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/04/alleged-attack-on-one-nation-volunteer-not-politically-motivated-victoria-police-ntwnfb",
-    "publishedAt": "2026-11-04T02:39:33.000Z"
-  },
-  {
-    "id": "445e900367ef7b06",
-    "title": "Democratic rising star Ossoff projected to hold Georgia seat",
-    "summary": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo",
-    "publishedAt": "2026-11-04T02:38:07.000Z"
-  },
-  {
-    "id": "e96fa59ec5818831",
-    "title": "Keisha Lance Bottoms makes history as Georgia’s first Black woman governor",
-    "summary": "Bottoms, a former adviser to ex-President Joe Biden, beat Republican Rick Jackson.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss",
-    "publishedAt": "2026-11-04T02:25:51.000Z"
-  },
-  {
-    "id": "95a068db707b8f68",
-    "title": "Uber pays its drivers ‘wages’ and is liable for $81m payroll tax bill, Australia’s high court rules",
-    "summary": "Rideshare company unsuccessfully argued it didn’t employ workers and claimed money paid was not wages under NSW law.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/04/uber-australia-high-court-loss-driver-wages-81m-payroll-tax-bill-ntwnfb",
-    "publishedAt": "2026-11-04T02:15:01.000Z"
-  },
-  {
-    "id": "4b8f2f59ea2b063a",
-    "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
-    "summary": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo",
-    "publishedAt": "2026-11-04T02:11:40.000Z"
-  },
-  {
-    "id": "f6daf9253ca85c90",
-    "title": "Trump-endorsed Republican Byron Donalds wins Florida race for governor",
-    "summary": "Donalds, who billed campaign as ‘a continuation of the DeSantis-era of success’, becomes state’s first black governor.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/florida-governor-byron-donalds-david-jolly-desantis",
-    "publishedAt": "2026-11-04T02:10:40.000Z"
-  },
-  {
-    "id": "32b21cfb6ab67b52",
-    "title": "North Korea launches unidentified projectile toward the sea, South Korea says",
-    "summary": "South Korea says North Korea has launched an unidentified projectile toward the sea.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/north-korea-launches-unidentified-projectile-sea-south-korea-137828695",
-    "publishedAt": "2026-11-04T01:52:44.000Z"
-  },
-  {
-    "id": "db721a6509edf6c6",
-    "title": "Republican Ashley Moody defeats progressive Angie Nixon in Florida Senate race",
-    "summary": "Moody is elected over Nixon in a contest seen as a measure of whether the state remains reliably Republican.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/ashley-moody-wins-florida-senate-race",
-    "publishedAt": "2026-11-04T01:41:54.000Z"
-  },
-  {
-    "id": "e036eccc0eac7baa",
-    "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
-    "summary": "Roy Cooper beat out Republican Michael Whatley.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
-    "publishedAt": "2026-11-04T01:36:33.000Z"
-  },
-  {
-    "id": "8e52d7bfe24861b1",
-    "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
-    "summary": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
-    "publishedAt": "2026-11-04T01:36:06.000Z"
-  },
-  {
-    "id": "dbc98b1df41bb3f2",
-    "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
-    "summary": "Growing number of countries are resisting Russia’s reintegration into international hockey after a sports court lifted a ban on competition.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
-    "publishedAt": "2026-11-04T01:31:46.000Z"
-  },
-  {
-    "id": "130e3434c36ac2ba",
-    "title": "Jon Ossoff wins Georgia Senate race over Republican Mike Collins",
-    "summary": "Rising Democratic star made his re-election campaign a referendum on the Trump administration’s misdeeds.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/jon-ossoff-mike-collins-georgia-senate",
-    "publishedAt": "2026-11-04T01:12:58.000Z"
-  },
-  {
-    "id": "ea60ef3030620b26",
-    "title": "UN elects five judges to International Court of Justice amid record cases",
-    "summary": "The election, held at UN headquarters, required several rounds of voting to fill the fifth and final seat.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
-    "publishedAt": "2026-11-04T01:03:12.000Z"
-  },
-  {
-    "id": "760bd067d86edfa8",
-    "title": "Jon Ossoff wins Georgia Senate race, defeating Republican Mike Collins",
-    "summary": "Ossoff is re-elected to a second term, winning a key seat for Democrats as the party tries to retake the Senate.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
-    "publishedAt": "2026-11-04T00:59:58.000Z"
   }
 ]
