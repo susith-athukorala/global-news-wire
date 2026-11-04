@@ -1,5 +1,50 @@
 [
   {
+    "id": "7cdab45567231a47",
+    "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+    "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo",
+    "publishedAt": "2026-11-04T23:12:47.000Z"
+  },
+  {
+    "id": "9d87aa0d657497bd",
+    "title": "Scare campaigns: Victoria’s major parties trade blows over AI-generated videos of leaders in election ads",
+    "summary": "Transparency and advertising experts say trust in politics could be further eroded as a result of ‘lies, deepfakes and AI-generated politicians’",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/05/victoria-election-2026-ai-generated-video-ads-ntwnfb",
+    "publishedAt": "2026-11-04T23:00:46.000Z"
+  },
+  {
+    "id": "ab00089ce6bdbd79",
+    "title": "David Jones goes into administration, with store closures expected and thousands of jobs at risk",
+    "summary": "Future of department store in jeopardy after administrators appointed on Thursday morning.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration",
+    "publishedAt": "2026-11-04T22:53:29.000Z"
+  },
+  {
+    "id": "4507554b7cbc8e35",
+    "title": "Democratic Socialists of America see record wins in US midterm elections",
+    "summary": "The left-wing movement has won support for its views on issues like the war in Gaza and universal healthcare.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss",
+    "publishedAt": "2026-11-04T22:45:24.000Z"
+  },
+  {
+    "id": "992279eca65e0eb8",
+    "title": "Sudan factories struggle to restart after devastating wartime losses",
+    "summary": "War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
+    "publishedAt": "2026-11-04T22:31:09.000Z"
+  },
+  {
     "id": "d5a57c91db93cd93",
     "title": "Pound rises to its highest level since the Brexit referendum",
     "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago.",
@@ -1303,50 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/lifeandstyle/2026/nov/04/celebrity-hairstylist-john-frieda-dies-aged-75",
     "publishedAt": "2026-11-04T09:59:08.000Z"
-  },
-  {
-    "id": "9ab2af0f08b38aba",
-    "title": "US dollar slides after Democrats’ midterm election win as growth fears rise",
-    "summary": "Concern over greater AI regulation, while investors move into US treasuries as Trump faces political gridlock.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
-    "publishedAt": "2026-11-04T09:55:22.000Z"
-  },
-  {
-    "id": "751f39882d80729f",
-    "title": "How America voted in maps and charts",
-    "summary": "See the maps and charts that show how America voted in the US midterm elections.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
-    "publishedAt": "2026-11-04T09:53:18.000Z"
-  },
-  {
-    "id": "30dddfaae3f77176",
-    "title": "Syrians see Israel as biggest regional threat, followed by Iran: Survey",
-    "summary": "Some 97% of respondents to Arab Opinion Index for Syria say Israel threatens security and stability in the Middle East.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/syrians-see-israel-as-biggest-regional-threat-followed-by-iran-survey?traffic_source=rss",
-    "publishedAt": "2026-11-04T09:51:33.000Z"
-  },
-  {
-    "id": "8d059943237c3c46",
-    "title": "GOP’s redistricting gamble backfires in Florida as Democrats hold ground",
-    "summary": "Trump's party dealt a setback as Republican bid to tilt Florida's House map falters on a strong night for Democrats.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/gops-redistricting-gamble-backfires-in-florida-as-democrats-hold-ground?traffic_source=rss",
-    "publishedAt": "2026-11-04T09:48:31.000Z"
-  },
-  {
-    "id": "881aac7f41afb9a2",
-    "title": "‘Rejecting hate’: Abdul El-Sayed wins Senate seat despite racist attacks",
-    "summary": "The Democrat defeats Republican Mike Rogers to win Michigan seat to become first Muslim senator-elect in US history.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks?traffic_source=rss",
-    "publishedAt": "2026-11-04T09:47:49.000Z"
   }
 ]
