@@ -1,5 +1,104 @@
 [
   {
+    "id": "ac851c0f80b60f91",
+    "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+    "summary": "Chief executiveMelanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
+    "publishedAt": "2026-11-04T00:14:49.000Z"
+  },
+  {
+    "id": "8f80fb646b4d7e0a",
+    "title": "Democrats aim to retake Senate from Republicans as Americans go to polls",
+    "summary": "Party hopes disapproval with Trump’s presidency gives them advantage as Republicans defend slim majority.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-midterm-elections-results",
+    "publishedAt": "2026-11-04T00:12:38.000Z"
+  },
+  {
+    "id": "57e44e3d60a9882d",
+    "title": "Canva announces major job cuts after 'our hardest year yet'",
+    "summary": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo",
+    "publishedAt": "2026-11-04T00:09:35.000Z"
+  },
+  {
+    "id": "d4e1ba88ef8e8a1b",
+    "title": "Graduates are managing AI - but are they learning much else?",
+    "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o",
+    "publishedAt": "2026-11-04T00:04:35.000Z"
+  },
+  {
+    "id": "b0514df6d055e483",
+    "title": "'Multi-cancer' blood tests coming to some GP surgeries soon",
+    "summary": "The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no",
+    "publishedAt": "2026-11-04T00:04:28.000Z"
+  },
+  {
+    "id": "83c3cd41db20da4f",
+    "title": "US midterm voting goes smoothly with only a handful of issues nationwide",
+    "summary": "Voting machine issues affected Westchester county, New York, but emergency ballots were provided to voters.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/us-midterm-voting-problems",
+    "publishedAt": "2026-11-04T00:03:52.000Z"
+  },
+  {
+    "id": "f9ed4598751316a4",
+    "title": "ANC under pressure to reverse South Africa decline",
+    "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo",
+    "publishedAt": "2026-11-04T00:03:19.000Z"
+  },
+  {
+    "id": "43d16c1970abe6ad",
+    "title": "Poundland supplier 'will lose millions' if retailer collapses",
+    "summary": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
+    "publishedAt": "2026-11-04T00:03:17.000Z"
+  },
+  {
+    "id": "d5eefa1e571b4189",
+    "title": "Houses of Parliament at risk of ‘Notre Dame-style fire’ as renovation costs rise",
+    "summary": "Report says cost of maintenance could soon reach £2m a week, including 24-hour patrols to avert fire risk.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/04/parliament-notre-dame-style-fire-renovation-costs",
+    "publishedAt": "2026-11-04T00:01:18.000Z"
+  },
+  {
+    "id": "7b134fd60fe6d58a",
+    "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+    "summary": "The US has been voting for senators, members of the House of Representatives and state governors in the midterm elections. Here are the results in full.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
+    "publishedAt": "2026-11-04T00:00:02.000Z"
+  },
+  {
+    "id": "d59546c6d103b28f",
+    "title": "Where have there been technical issues so far during US midterm elections?",
+    "summary": "Some polling stations have experienced vote-delaying issues that officials describe as being minor.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/3/where-have-there-been-technical-issues-so-far-during-us-midterm-elections?traffic_source=rss",
+    "publishedAt": "2026-11-03T23:42:36.000Z"
+  },
+  {
     "id": "627c6ddd50893767",
     "title": "Canva restructure to impact a fifth of its workforce ahead of Christmas",
     "summary": "The design software giant says growth has slowed for the first time in a decade and it needs smaller, more empowered teams.",
@@ -333,6 +432,15 @@
     "publishedAt": "2026-11-03T18:51:16.000Z"
   },
   {
+    "id": "6536a701fa62b83d",
+    "title": "Ukraine's rescuers deal with grim aftermath of aid shelter bombings as Moscow pounds energy targets",
+    "summary": "The death toll from a Russian attack in southern Ukraine has risen to 31, with dozens still missing.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/death-toll-hits-29-after-russian-strike-ukrainian-137799736",
+    "publishedAt": "2026-11-03T18:34:13.000Z"
+  },
+  {
     "id": "217702c7a37fdb12",
     "title": "UK’s King Charles expresses ‘sorrow’ in Antigua over slave trade",
     "summary": "Caribbean nations call for reparations as King Charles stops short of issuing an apology for colonial-era slavery.",
@@ -340,6 +448,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/3/uks-king-charles-expresses-profound-sorrow-over-transatlantic-slave-era?traffic_source=rss",
     "publishedAt": "2026-11-03T18:32:46.000Z"
+  },
+  {
+    "id": "f1de564ea72b52c1",
+    "title": "The UK-EU food produce deal: what was agreed and will it affect shoppers?",
+    "summary": "Two sides agree deal to remove some Brexit checks on food and animal product exports to EU.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/03/new-uk-eu-brexit-food-produce-deal-explained",
+    "publishedAt": "2026-11-03T18:24:37.000Z"
   },
   {
     "id": "b36cbe4d4365462d",
@@ -358,6 +475,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/03/inquiry-sexual-harassment-claims-lib-dem-peer-chris-rennard",
     "publishedAt": "2026-11-03T18:03:07.000Z"
+  },
+  {
+    "id": "2fbd8ff8418aa9e7",
+    "title": "Above-target inflation to blame for rate hikes, but why did RBA pick 2-3pc?",
+    "summary": "The Reserve Bank is hiking rates to get inflation back to its 2 to 3 per cent target. For a number that's so consequential, its origins are surprisingly imprecise.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-04/reserve-bank-australia-origins-of-inflation-target-2-3-per-cent/107322960",
+    "publishedAt": "2026-11-03T18:00:00.000Z"
   },
   {
     "id": "2dc83925847c94cb",
@@ -909,6 +1035,15 @@
     "publishedAt": "2026-11-03T13:52:34.000Z"
   },
   {
+    "id": "e7258bd498ca7418",
+    "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
+    "summary": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro",
+    "publishedAt": "2026-11-03T13:44:44.000Z"
+  },
+  {
     "id": "910f3e15b2ad8b15",
     "title": "Federal judge dismisses Trump lawsuit seeking Harvard admissions data",
     "summary": "Demand for individual applicant records as part of purported civil rights review fails on procedural grounds.",
@@ -1015,6 +1150,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
     "publishedAt": "2026-11-03T13:13:50.000Z"
+  },
+  {
+    "id": "ebd1dfe05279f6b9",
+    "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+    "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o",
+    "publishedAt": "2026-11-03T13:07:00.000Z"
   },
   {
     "id": "0d4b16458e859656",
@@ -1161,6 +1305,15 @@
     "publishedAt": "2026-11-03T12:07:59.000Z"
   },
   {
+    "id": "a9d2c85ac16e7211",
+    "title": "Drivers may get compensation offers before car finance saga ends",
+    "summary": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po",
+    "publishedAt": "2026-11-03T11:56:31.000Z"
+  },
+  {
     "id": "720961d9f7472dbd",
     "title": "UK’s most polluting power plant could power country’s largest AI datacentre",
     "summary": "Drax’s FTSE 250 owner strikes £20bn deal to build infrastructure in what it says is site’s ‘next chapter’",
@@ -1195,158 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
     "publishedAt": "2026-11-03T11:43:49.000Z"
-  },
-  {
-    "id": "2a418f847059fe49",
-    "title": "Charity warns about damage of over-foraging fungi",
-    "summary": "It says over-foraging, particularly in protected areas, damages habitats and wildlife.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6jrw5j7n4dlo",
-    "publishedAt": "2026-11-03T11:43:10.000Z"
-  },
-  {
-    "id": "27a620f67ac8e6f3",
-    "title": "US strikes Iranian island ahead of midterm elections",
-    "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
-    "publishedAt": "2026-11-03T11:33:33.000Z"
-  },
-  {
-    "id": "78ac69547e5b5f44",
-    "title": "How India pulled 500 million people out of poverty, as inequality deepens",
-    "summary": "India's extreme poverty has declined from 27.1 percent to 2.6 percent between 2011 and 2023, according to the World Bank.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/how-india-pulled-500-million-people-out-of-poverty-as-inequality-deepens?traffic_source=rss",
-    "publishedAt": "2026-11-03T11:30:34.000Z"
-  },
-  {
-    "id": "c12a3c4101632d73",
-    "title": "Polls open in closely contested US midterm elections 2026",
-    "summary": "Democrats are eyeing historic gains in the US Congress that could change the trajectory of the country.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026?traffic_source=rss",
-    "publishedAt": "2026-11-03T11:27:14.000Z"
-  },
-  {
-    "id": "e7d04363fdae1aee",
-    "title": "Proposal for free bus service scrapped",
-    "summary": "The one-year free bus service pilot was initially put forward as an amendment to next year's budget.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmrly74wr9n2o",
-    "publishedAt": "2026-11-03T11:21:42.000Z"
-  },
-  {
-    "id": "e3726f84f7d589f9",
-    "title": "'Quiet quitting' could be hitting the economy - here's why",
-    "summary": "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo",
-    "publishedAt": "2026-11-03T11:15:51.000Z"
-  },
-  {
-    "id": "d52dd2ca8e0d7037",
-    "title": "Detentions, resignations, probes shake Serbia after students toppled Vucic",
-    "summary": "Detentions, resignations, switching of sides, attempts to destroy evidence of wrongdoing.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/detentions-resignations-probes-shake-serbia-after-students-toppled-137800721",
-    "publishedAt": "2026-11-03T11:10:39.000Z"
-  },
-  {
-    "id": "f1f696f097dae603",
-    "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-    "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko",
-    "publishedAt": "2026-11-03T11:10:37.000Z"
-  },
-  {
-    "id": "9d894f59448f4d9e",
-    "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
-    "summary": "Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/03/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
-    "publishedAt": "2026-11-03T11:00:00.000Z"
-  },
-  {
-    "id": "adda9b4ab7d12d73",
-    "title": "Boulders dropped off coast to disrupt deep fishing",
-    "summary": "Greenpeace drops nine large rocks to create a barrier to bottom-trawling fishing vessels.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3j47k8rrkr5o",
-    "publishedAt": "2026-11-03T10:53:09.000Z"
-  },
-  {
-    "id": "8e2ee5cec343743b",
-    "title": "After months lost at sea on a small boat, 5 people are rescued in the island nation of Kiribati",
-    "summary": "Authorities say five people, including two children, have been rescued in the South Pacific island nation of Kiribati after three months drifting at sea in a 20-foot skiff.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/authorities-5-people-rescued-kiribati-after-3-months-137797186",
-    "publishedAt": "2026-11-03T10:50:21.000Z"
-  },
-  {
-    "id": "e5d34e203df3999a",
-    "title": "Craig Silvey pens 9,000-word apology for child exploitation material offences",
-    "summary": "The children’s author claims he experienced trauma in childhood as he begins seven-month sentence for possessing depraved material.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/03/i-am-deeply-sorry-craig-silvey-pens-9000-word-apology-for-child-exploitation-material-offences-ntwnfb",
-    "publishedAt": "2026-11-03T10:47:41.000Z"
-  },
-  {
-    "id": "46aadf3e164d784a",
-    "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
-    "summary": "With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss",
-    "publishedAt": "2026-11-03T10:40:34.000Z"
-  },
-  {
-    "id": "cc759667b97dcba0",
-    "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
-    "summary": "Sudan demands UN accountability after devastating drone attacks expose a complex regional crisis.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia?traffic_source=rss",
-    "publishedAt": "2026-11-03T10:29:56.000Z"
-  },
-  {
-    "id": "ad7de5513a81e0d7",
-    "title": "At least 73 injured as Russia bombs Ukrainian hospital and power plants",
-    "summary": "Medical facility was struck by Russian ballistic missiles and aerial bombs overnight.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants?traffic_source=rss",
-    "publishedAt": "2026-11-03T10:18:18.000Z"
-  },
-  {
-    "id": "ebaa89465f18665c",
-    "title": "Lebanon cuts power to public bodies as electricity crisis deepens",
-    "summary": "Political disputes and war worsen Lebanon's electricity crisis, as experts say deeper reforms are necessary.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens?traffic_source=rss",
-    "publishedAt": "2026-11-03T10:17:27.000Z"
-  },
-  {
-    "id": "818a2a8c77d94042",
-    "title": "Burnham denies proposing return to free movement in talks with EU",
-    "summary": "Prime minister says he is committed to manifesto red lines and ‘public need to be the boss’ on future relationship.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-labour-free-movement-eu-europe",
-    "publishedAt": "2026-11-03T10:09:39.000Z"
   }
 ]
