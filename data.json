@@ -1,5 +1,23 @@
 [
   {
+    "id": "d5a57c91db93cd93",
+    "title": "Pound rises to its highest level since the Brexit referendum",
+    "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo",
+    "publishedAt": "2026-11-04T21:35:50.000Z"
+  },
+  {
+    "id": "4439dbb9379978da",
+    "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
+    "summary": "Israeli restrictions on travel and medical evacuations prevent children in Gaza from being treated abroad.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
+    "publishedAt": "2026-11-04T21:13:56.000Z"
+  },
+  {
     "id": "b0c5a0a5fa6f7871",
     "title": "Elon Musk will face scrutiny from Democrats in Washington and Texas after midterms",
     "summary": "Democrats are likely to launch investigations into Musk's influence, including his leadership of DOGE and government contracts.",
@@ -61,6 +79,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
     "publishedAt": "2026-11-04T20:42:14.000Z"
+  },
+  {
+    "id": "4f13436f2b5c6cdd",
+    "title": "Trump and Vance lead GOP blame game as fingers point at Iran war",
+    "summary": "Republicans begin their post-mortems after massive losses in the US midterm elections, with Donald Trump and JD Vance blaming the Iran war. Here's what to know about the US midterms today.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-05/us-midterms-daily-news-briefing/107347184",
+    "publishedAt": "2026-11-04T20:37:23.000Z"
   },
   {
     "id": "241809323e1aa4ac",
@@ -981,6 +1008,15 @@
     "publishedAt": "2026-11-04T12:34:33.000Z"
   },
   {
+    "id": "0a9b9fa0aa630951",
+    "title": "M&S boss bemoans last week’s budget as ‘whole lot of nothing’",
+    "summary": "Stuart Machin hits out at Labour but welcomes expected UK-EU food deal as retailer reveals half-year results.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
+    "publishedAt": "2026-11-04T12:34:30.000Z"
+  },
+  {
     "id": "12a9b3f78dbfa128",
     "title": "Trump blamed Fox News for Republican losses even as network’s hosts went easy on him",
     "summary": "Fox News pundits hardly criticized the US president in midterms coverage but Trump was still quick to cast blame.",
@@ -1312,41 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/key-takeaways-from-the-2026-midterm-elections-in-california?traffic_source=rss",
     "publishedAt": "2026-11-04T09:17:09.000Z"
-  },
-  {
-    "id": "bb6c6d32c1322a89",
-    "title": "Who determines Iran’s fighting and negotiating position amid US threats?",
-    "summary": "Iran is on the brink of a new escalation with the US, but negotiations are continuing.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats?traffic_source=rss",
-    "publishedAt": "2026-11-04T09:16:57.000Z"
-  },
-  {
-    "id": "0cdf92476bc52504",
-    "title": "‘Not been this excited in a long time’: US expats ride the blue wave at Australian midterms watch parties",
-    "summary": "US voters, their Australian partners and British spectators crowd around pub TVs to watch the historic election results roll in.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/04/not-been-this-excited-in-a-long-time-us-expats-ride-the-blue-wave-at-australian-midterms-watch-parties",
-    "publishedAt": "2026-11-04T09:09:31.000Z"
-  },
-  {
-    "id": "3c40a9bcdff15fed",
-    "title": "Liverpool owner FSG holds talks over buying majority stake in Cadillac F1 team",
-    "summary": "Liverpool’s owner, Fenway Sports Group, has held talks about buying a majority stake in the Cadillac Formula One team for more than £2bn as Mark Walter continues to sell off his sporting assets amid allegations of insurance fraud.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/sport/2026/nov/04/liverpool-owner-fsg-talks-buy-cadillac-f1-team-majority-stake",
-    "publishedAt": "2026-11-04T08:36:14.000Z"
-  },
-  {
-    "id": "89f4b563a1fc0545",
-    "title": "Indonesia deploys troops to boost Jakarta's security after generals' arrest",
-    "summary": "Indonesia's military is deploying more than 20,000 troops and personnel to the capital, Jakarta, amid an investigation into an alleged illegal wiretapping operation targeting President Prabowo Subianto and other prominent figures.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/indonesias-military-deploys-thousands-troops-boost-jakartas-security-137838412",
-    "publishedAt": "2026-11-04T08:34:08.000Z"
   }
 ]
