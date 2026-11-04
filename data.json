@@ -1,5 +1,23 @@
 [
   {
+    "id": "7dd0e5d5be0d12f8",
+    "title": "Spanish transport minister resigns after train crash killed 69 people",
+    "summary": "Oscar Puente says he could not 'continue in office' after two major train accidents in less than a year.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/spanish-transport-minister-resigns-after-train-crash-killed-69-people?traffic_source=rss",
+    "publishedAt": "2026-11-04T07:18:08.000Z"
+  },
+  {
+    "id": "b4d4324a953f03f6",
+    "title": "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says",
+    "summary": "Iran's Islamic Revolutionary Guard Corps says the vessels had hit sea mines while trying to cross a prohibited route.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
+    "publishedAt": "2026-11-04T07:17:08.000Z"
+  },
+  {
     "id": "8903819350de0a09",
     "title": "Florida Republicans fend off Democrats as state elects first black governor",
     "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
@@ -16,6 +34,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/04/wednesday-briefing-what-the-democrat-midterms-victory-tell-us-about-trumps-future-as-president",
     "publishedAt": "2026-11-04T07:11:36.000Z"
+  },
+  {
+    "id": "00f0c0fa9e99c8d7",
+    "title": "Democrat Troy Jackson wins Maine US Senate seat in blow to Republicans",
+    "summary": "Longtime Republican Senator Susan Collins had held the seat for three decades, but was swept away in the blue wave.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/democrat-troy-jackson-wins-maine-us-senate-seat-in-blow-to-republicans?traffic_source=rss",
+    "publishedAt": "2026-11-04T07:04:35.000Z"
   },
   {
     "id": "c4c78fc34de9ea40",
@@ -655,6 +682,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/04/viral-image-nz-night-sky-satellites-accused-of-being-ai-brendan-larsen",
     "publishedAt": "2026-11-04T00:29:51.000Z"
+  },
+  {
+    "id": "ed17205ed4d57a45",
+    "title": "Spain's transport minister resigns after deadly high-speed train crash",
+    "summary": "The remains of 59 people have been returned to their families while Spain's transport minister announces he will resign following two deadly high-speed rail crashes this year.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-04/spanish-minister-resigns-after-deadly-train-collision/107344438",
+    "publishedAt": "2026-11-04T00:27:20.000Z"
   },
   {
     "id": "9aa1a76f6f6f58eb",
@@ -1312,41 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
     "publishedAt": "2026-11-03T17:28:49.000Z"
-  },
-  {
-    "id": "d6efe5e100a0bbba",
-    "title": "Action needed to tackle 'biodiversity crisis'",
-    "summary": "The issue is part of wider concerns the government is not focused enough on the environment.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8wy94ewzw03o",
-    "publishedAt": "2026-11-03T17:25:10.000Z"
-  },
-  {
-    "id": "bb9fa9461187b8eb",
-    "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
-    "summary": "Shrimpers worry about fuel costs, tariffs and Trump's proposed cuts to the agency that provides vital weather data.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss",
-    "publishedAt": "2026-11-03T17:22:45.000Z"
-  },
-  {
-    "id": "13698c50167a7661",
-    "title": "Trump says US will end military aid to Israel by the end of this year",
-    "summary": "US president makes surprise election day announcement, saying country does not ‘need’ $4bn annual payment.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
-    "publishedAt": "2026-11-03T17:17:11.000Z"
-  },
-  {
-    "id": "b6d0ef459ae716b4",
-    "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
-    "summary": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo",
-    "publishedAt": "2026-11-03T17:07:28.000Z"
   }
 ]
