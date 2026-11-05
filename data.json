@@ -1,5 +1,23 @@
 [
   {
+    "id": "00c7b1dd49e645cd",
+    "title": "Fox News suffers ratings slump on bleak election night for Republicans",
+    "summary": "In early, preliminary figures, the news channel trailed several other networks in prime-time viewership.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/04/fox-news-midterm-ratings",
+    "publishedAt": "2026-11-05T22:04:20.000Z"
+  },
+  {
+    "id": "a8484a34eec7a404",
+    "title": "Salon, internet’s oldest general interest publication, shuts down after 31 years",
+    "summary": "Website known for politics, arts and culture coverage announces closure just weeks before anniversary.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/05/salon-website-shuts-down",
+    "publishedAt": "2026-11-05T21:27:24.000Z"
+  },
+  {
     "id": "5ee41d8e9b8aa674",
     "title": "France protests widen",
     "summary": "Largely peaceful demonstrations took place across France on Thursday, and trade unions went on strike over the cost of living. The Eiffel Tower was closed for the day.",
@@ -322,6 +340,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
     "publishedAt": "2026-11-05T17:37:27.000Z"
+  },
+  {
+    "id": "28676603bf0a9b65",
+    "title": "Why have more than 30 European flights been hit by bomb threats this week?",
+    "summary": "With flights disrupted, how concerned should you be about your travel plans?",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-european-flights-airports-disruption-explainer",
+    "publishedAt": "2026-11-05T17:36:43.000Z"
   },
   {
     "id": "dcb771ac66309941",
@@ -1278,6 +1305,15 @@
     "publishedAt": "2026-11-05T09:52:02.000Z"
   },
   {
+    "id": "023f8151ad60682e",
+    "title": "Three ways Democrats could reshape U.S. foreign policy after the midterms",
+    "summary": "On Morning Edition, Pulitzer Prize-winning historian Anne Applebaum breaks down what a Democratic Congress could change about Trump's foreign policy and what remains beyond its power.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/05/nx-s1-6028977/democrats-foreign-policy-iran-war-ukraine",
+    "publishedAt": "2026-11-05T09:50:34.000Z"
+  },
+  {
     "id": "eb8477a528b46687",
     "title": "Bomb threat diverts Dublin-Rome flight to France",
     "summary": "A separate incident has been reported in Bulgaria, amid a string of bomb threats disrupting air travel across Europe.",
@@ -1312,41 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
     "publishedAt": "2026-11-05T09:13:35.000Z"
-  },
-  {
-    "id": "7a10d9f15df9237b",
-    "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
-    "summary": "A little-known investment group has made a bid to buy the business.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o",
-    "publishedAt": "2026-11-05T09:05:11.000Z"
-  },
-  {
-    "id": "adf6e87a07b7a95f",
-    "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
-    "summary": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o",
-    "publishedAt": "2026-11-05T09:04:42.000Z"
-  },
-  {
-    "id": "73a24d496389f8f4",
-    "title": "‘I never understood wind’: midterms spark hope for renewables after Trump’s hostility",
-    "summary": "Future brightens for US developers in particular after election when voters rejected Trump’s war on clean energy.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/05/democrats-midterms-triumph-renewable-energy-industry-donald-trump",
-    "publishedAt": "2026-11-05T09:04:05.000Z"
-  },
-  {
-    "id": "b52c21410b592f46",
-    "title": "Tech barons cozied up to Trump. What will they do in newly blue America?",
-    "summary": "Democrats’ success was helped by popular anger over tech, AI and the super rich – life for billionaires could become much more difficult.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/05/tech-barons-america-musk-bezos-zuckerberg",
-    "publishedAt": "2026-11-05T09:00:02.000Z"
   }
 ]
