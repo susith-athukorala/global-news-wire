@@ -1,5 +1,77 @@
 [
   {
+    "id": "4f1186279f4e9b2e",
+    "title": "Faisal Islam: How high will interest rates go?",
+    "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o",
+    "publishedAt": "2026-11-05T13:17:10.000Z"
+  },
+  {
+    "id": "a8f4bfabdc828a16",
+    "title": "Gas deposits off Cyprus are an opportunity for the EU, president says",
+    "summary": "Cyprus's president says natural gas deposits off the country's coast offer the European Union a chance to boost energy security by diversifying supply.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/gas-deposits-off-cyprus-opportunity-eu-president-137871831",
+    "publishedAt": "2026-11-05T13:09:00.000Z"
+  },
+  {
+    "id": "10361ad62aeec580",
+    "title": "‘Revenge of the nerds’: US midterms deliver a win for science – and a rebuke of Maha",
+    "summary": "The wins for Democrats come after years of cuts and upheaval to US health and science infrastructure.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/midterms-science-doctors-maha",
+    "publishedAt": "2026-11-05T13:00:24.000Z"
+  },
+  {
+    "id": "e2f7ff9806302132",
+    "title": "Mugabe's son faces assault charges linked to luxury car smuggling case",
+    "summary": "The son of the late Zimbabwean President Robert Mugabe faces assault charges after allegedly attacking an anti-corruption official.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/mugabes-son-faces-assault-charges-zimbabwe-linked-luxury-137872322",
+    "publishedAt": "2026-11-05T12:53:15.000Z"
+  },
+  {
+    "id": "cf5e79d45ba9e673",
+    "title": "British man being treated for Ebola in Congo is being evacuated to the UK",
+    "summary": "A British man being treated for Ebola in Congo is being evacuated to the U.K., the government said Thursday.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/british-man-treated-ebola-congo-evacuated-uk-137872417",
+    "publishedAt": "2026-11-05T12:52:42.000Z"
+  },
+  {
+    "id": "155e203a7518751b",
+    "title": "Bomb threats disrupt flights across Europe and renew hybrid warfare fears",
+    "summary": "At least 15 planes forced into emergency landings or diversions two days after hoax alerts affected air travel.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+    "publishedAt": "2026-11-05T12:44:30.000Z"
+  },
+  {
+    "id": "bdf8ab61789fc7bd",
+    "title": "Trump accepts election results as Republicans face midterm reckoning | First Thing",
+    "summary": "Criticism of US-Israel war on Iran seen as huge factor in Democrats’ sweeping victory. Plus, a spiky customer steps into a North Carolina bagel store.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results",
+    "publishedAt": "2026-11-05T12:35:11.000Z"
+  },
+  {
+    "id": "751f39882d80729f",
+    "title": "How America voted in maps and charts",
+    "summary": "See the maps and charts that show how America voted in the US midterm elections.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
+    "publishedAt": "2026-11-05T12:32:52.000Z"
+  },
+  {
     "id": "0987c826d294237a",
     "title": "Investigation into 'major fish kill' after pollution incident",
     "summary": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
@@ -16,6 +88,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
     "publishedAt": "2026-11-05T12:24:14.000Z"
+  },
+  {
+    "id": "4dd06a88f770a2b8",
+    "title": "Workers strike across France, hundreds of thousands expected to protest",
+    "summary": "Demonstrators are demanding an increase in the minimum wage and higher salaries for all workers, among other reforms.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/workers-strike-across-france-hundreds-of-thousands-expected-to-protest?traffic_source=rss",
+    "publishedAt": "2026-11-05T12:21:13.000Z"
   },
   {
     "id": "ebf53c76bc0ccbbd",
@@ -1267,86 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
     "publishedAt": "2026-11-04T19:50:37.000Z"
-  },
-  {
-    "id": "43d16c1970abe6ad",
-    "title": "Poundland owner in crunch talks as retailer's collapse looms",
-    "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
-    "publishedAt": "2026-11-04T19:44:46.000Z"
-  },
-  {
-    "id": "8fa8c8ed8acdcecb",
-    "title": "Mother and daughter both killed in grizzly bear attack, Canadian authorities confirm",
-    "summary": "Conservation officers say the women reported missing over the weekend, were found near a trail near their home.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
-    "publishedAt": "2026-11-04T19:42:47.000Z"
-  },
-  {
-    "id": "8e52d7bfe24861b1",
-    "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-    "summary": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
-    "publishedAt": "2026-11-04T19:38:53.000Z"
-  },
-  {
-    "id": "6af0c17bddcf8c31",
-    "title": "Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win",
-    "summary": "Democratic leader says party expects at least 255 House seats and promises to deliver on affordability.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win?traffic_source=rss",
-    "publishedAt": "2026-11-04T19:30:41.000Z"
-  },
-  {
-    "id": "deedfa40de7daa29",
-    "title": "Newcomer's meteoric rise could make her NZ election's 'kingmaker'",
-    "summary": "Opportunity party leader Qiulae Wong is trying to blaze a new trail through New Zealand politics this election.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-05/qiulae-wong-new-zealand-election/107346856",
-    "publishedAt": "2026-11-04T19:26:42.000Z"
-  },
-  {
-    "id": "43e490bb19dacddc",
-    "title": "The midterms were a thumping rebuke of the US-Israel relationship",
-    "summary": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the same.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
-    "publishedAt": "2026-11-04T19:22:43.000Z"
-  },
-  {
-    "id": "2679e1cb74849f2d",
-    "title": "WHO approves trials for two new Ebola vaccines",
-    "summary": "Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
-    "publishedAt": "2026-11-04T19:22:09.000Z"
-  },
-  {
-    "id": "3671643feba422e2",
-    "title": "Miami helicopter crash leaves one person dead and two injured",
-    "summary": "The helicopter was carrying three people and crashed in the waters of Biscayne Bay, east of Miami executive airport.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/miami-helicopter-crash-deadly",
-    "publishedAt": "2026-11-04T19:19:34.000Z"
-  },
-  {
-    "id": "74679d6341959417",
-    "title": "US midterms 2026: What key races remain undecided?",
-    "summary": "Key races in Alaska, Mississippi, Kansas and California remain uncounted.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/us-midterms-2026-what-key-races-remain-undecided?traffic_source=rss",
-    "publishedAt": "2026-11-04T19:18:47.000Z"
   }
 ]
