@@ -1,5 +1,59 @@
 [
   {
+    "id": "5a30f69e735f90af",
+    "title": "Authorities say multiple grizzlies may have attacked mother and daughter found dead",
+    "summary": "Authorities in British Columbia say more than one grizzly may have been involved in a bear attack that relatives say left a mother and daughter dead along the province’s central coast.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/canadian-authorities-multiple-grizzlies-attacked-mother-daughter-found-137863509",
+    "publishedAt": "2026-11-05T01:13:21.000Z"
+  },
+  {
+    "id": "fc681865f7e14d91",
+    "title": "Australia's oldest department store David Jones collapses after 188 years",
+    "summary": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o",
+    "publishedAt": "2026-11-05T00:59:22.000Z"
+  },
+  {
+    "id": "db3bde2c3c47b1e3",
+    "title": "Hubert Aiwanger, prominent German politician, found dead in Berlin hotel",
+    "summary": "Police and prosecutors open investigation into death of the 55-year-old Bavarian state deputy leader.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel",
+    "publishedAt": "2026-11-05T00:53:19.000Z"
+  },
+  {
+    "id": "12b3e1ec4d364a21",
+    "title": "Pete Hegseth may take fall for Republicans’ midterm losses, despite Trump support",
+    "summary": "JD Vance calls Iran war into question as Thomas Massie files eight articles of impeachment.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/04/pete-hegseth-republicans-midterm-losses",
+    "publishedAt": "2026-11-05T00:41:00.000Z"
+  },
+  {
+    "id": "ee3b263ee57c454d",
+    "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
+    "summary": "The trial was condemned as \"unethical\" and \"neocolonial\" because half of the babies would not be given the vaccine.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko",
+    "publishedAt": "2026-11-05T00:30:37.000Z"
+  },
+  {
+    "id": "0ed6bd3898821f78",
+    "title": "Democrats won Congress. But can they deliver on their promises?",
+    "summary": "Despite their midterm election victories, Democrats face major obstacles to reining in Trump on Iran, tariffs and more.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss",
+    "publishedAt": "2026-11-05T00:25:43.000Z"
+  },
+  {
     "id": "e925c5bcc0e1d62e",
     "title": "The NHS is relying more on charities - and that might be creating problems for patients",
     "summary": "Is it symptom a health service at breaking point - or a positive way of involving the public?",
@@ -1294,59 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/04/jordon-steele-john-woman-charged-alleged-stalking-attempted-extortion-greens-senator-court-ntwnfb",
     "publishedAt": "2026-11-04T11:07:10.000Z"
-  },
-  {
-    "id": "0f83db72d5313cef",
-    "title": "The Legend of Zelda: Ocarina of Time review – a dream come true",
-    "summary": "This ambitious remake transforms a landmark Zelda game into a modern masterpiece, clearer and easier to navigate, more beautiful to look at, with playful musical touches. Yet the melancholy remains.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch",
-    "publishedAt": "2026-11-04T11:03:18.000Z"
-  },
-  {
-    "id": "abb3f96bb10486b6",
-    "title": "Funding to help poorer countries cope with climate crisis has stalled, says UN",
-    "summary": "Report reveals financial support promised by rich nations for adaptation measures is well behind the pace that is needed.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/nov/04/funding-poorer-countries-climate-crisis-adaptation-un-report",
-    "publishedAt": "2026-11-04T11:00:09.000Z"
-  },
-  {
-    "id": "b4e1c6ba5505e361",
-    "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
-    "summary": "Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
-    "publishedAt": "2026-11-04T11:00:00.000Z"
-  },
-  {
-    "id": "f21ba5d89fa917f5",
-    "title": "‘I will not delete my posts’: Inside Uganda’s crackdown on online critics",
-    "summary": "Uganda’s online critics allege abductions and intimidation as families search for missing relatives.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/i-will-not-delete-my-posts-inside-ugandas-crackdown-on-online-critics?traffic_source=rss",
-    "publishedAt": "2026-11-04T10:59:31.000Z"
-  },
-  {
-    "id": "ba0760df4b1283dc",
-    "title": "‘The point was to dehumanise’: London Holocaust archive examines world’s first ‘viral’ antisemitism scandal",
-    "summary": "Dreyfus affair has echoes of how anti-Jewish hatred manifests itself today, say curators at Weiner Library.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2026/nov/04/london-wiener-holocaust-library-dreyfus-affair-antisemitism",
-    "publishedAt": "2026-11-04T10:58:48.000Z"
-  },
-  {
-    "id": "7c32c15739c3caef",
-    "title": "What's happening to UK interest rates and what does it mean for mortgages?",
-    "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o",
-    "publishedAt": "2026-11-04T10:47:31.000Z"
   }
 ]
