@@ -1,5 +1,14 @@
 [
   {
+    "id": "267a3d44069358d9",
+    "title": "What’s delaying US midterm election calls in Mississippi and Alaska?",
+    "summary": "Ranked-choice voting may decide Alaska's Senate outcome, while Mississippi's race hangs on a knife's edge.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska?traffic_source=rss",
+    "publishedAt": "2026-11-05T03:13:08.000Z"
+  },
+  {
     "id": "100c3d8e9d56a64f",
     "title": "El Salvador’s Bukele touts military intervention in Haiti",
     "summary": "Haitian police have found a vehicle used by four missing Salvadoran technicians as Salvadoran troops deploy to Haiti.",
@@ -1314,6 +1323,15 @@
     "publishedAt": "2026-11-04T12:15:31.000Z"
   },
   {
+    "id": "79b237eb782cc5e6",
+    "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
+    "summary": "A U.S. cruise ship that suspended its operations in Cambodia has left with only crew aboard, according to Cambodian officials.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/stranded-cruise-ship-odyssey-leaves-cambodia-passengers-137840393",
+    "publishedAt": "2026-11-04T12:10:25.000Z"
+  },
+  {
     "id": "95a13fd72358f7f0",
     "title": "Musk makes light of defeats after record spend on Republican candidates",
     "summary": "Tesla and SpaceX founder Elon Musk is the world's richest man and the largest individual donor in the US midterms.",
@@ -1330,23 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/south-africans-vote-local-elections-continue-decline-mighty-137836623",
     "publishedAt": "2026-11-04T12:02:15.000Z"
-  },
-  {
-    "id": "89a3a43b3fd1b055",
-    "title": "More than 900 academics urge UK to reverse decision to bar Andreas Malm",
-    "summary": "Blocking Swedish writer’s entry for event with Palestine Action co-founder is attack on free expression, letter says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/04/andreas-malm-academics-letter-uk-reverse-entry-bar",
-    "publishedAt": "2026-11-04T12:00:10.000Z"
-  },
-  {
-    "id": "0515ad2f27b03657",
-    "title": "BMW warns on profits as it counts cost of plan for 8,000 job cuts",
-    "summary": "German carmaker slashes profit margin to between -0.5% and 0.5% this year in face of competition from China.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts",
-    "publishedAt": "2026-11-04T11:58:19.000Z"
   }
 ]
