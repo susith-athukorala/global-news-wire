@@ -1,5 +1,68 @@
 [
   {
+    "id": "3d53b06ca015f49c",
+    "title": "Troops deployed to secure Jakarta trial as tensions remain high over wiretap scandal",
+    "summary": "Indonesian authorities have tasked thousands of police and military personnel to secure a court appearance of former President Joko Widodo, as tensions remain high in the capital over a wiretapping scandal involving senior police officers.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/thousands-troops-tasked-secure-jakarta-trial-tensions-remain-137867986",
+    "publishedAt": "2026-11-05T08:10:14.000Z"
+  },
+  {
+    "id": "422d87a979208dc3",
+    "title": "Italian chef fired after refusing to put pineapple on pizza",
+    "summary": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo",
+    "publishedAt": "2026-11-05T07:56:53.000Z"
+  },
+  {
+    "id": "7a57011ecd6c2f0f",
+    "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+    "summary": "Wong, in prison since 2020, was found guilty of colluding with foreign entities in violation of national security law.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
+    "publishedAt": "2026-11-05T07:50:44.000Z"
+  },
+  {
+    "id": "c8b06c9380f29efd",
+    "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
+    "summary": "Seoul proposes extending its Cheonghae unit’s patrols to waters near Oman’s Duqm amid US pressure over Iran war.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
+    "publishedAt": "2026-11-05T07:44:47.000Z"
+  },
+  {
+    "id": "78979c9b911e42d5",
+    "title": "Ten years of the Paris Agreement: Has the world kept its climate promises?",
+    "summary": "Nearly 200 countries pledged to limit warming to 1.5C. We look at who has delivered and who has fallen short.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/ten-years-of-the-paris-agreement-has-the-world-kept-its-climate-promises?traffic_source=rss",
+    "publishedAt": "2026-11-05T07:41:25.000Z"
+  },
+  {
+    "id": "1c56f8619779096e",
+    "title": "Champions League: Liverpool suffer 3-2 loss at Fenerbahce, Como thump Lens",
+    "summary": "Como equal Champions League record with stunning 9-1 win at Lens as Haaland rescues Manchester City at Leipzig.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss",
+    "publishedAt": "2026-11-05T07:21:01.000Z"
+  },
+  {
+    "id": "5cdb40b068cbdadf",
+    "title": "Guinness World Record broken as 53 red cards shown in Brazil under-20 match",
+    "summary": "Mass brawl at Uberlandia vs Mamore results in 43 cards for players, eight for coaching staff and two for board members.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/5/guinness-world-record-broken-as-53-red-cards-shown-in-brazil-under-20-match?traffic_source=rss",
+    "publishedAt": "2026-11-05T07:20:18.000Z"
+  },
+  {
     "id": "09c7c8c25bb7d532",
     "title": "Ministers to target ‘wild west’ of e-bikes blocking pavements",
     "summary": "Exclusive: Consultation led by Department for Transport will consider parking standards, fleet sizes and insurance requirements.",
@@ -468,6 +531,15 @@
     "publishedAt": "2026-11-04T23:43:26.000Z"
   },
   {
+    "id": "ac1dc3f663853140",
+    "title": "Swapping from dairy to plant-based milk, cheese and yoghurt ‘could lead to micronutrient deficiencies’",
+    "summary": "Young people and women most at risk, study finds, as researchers call for vegan products to be fortified with iodine in particular.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/04/swapping-dairy-milk-cheese-yoghurt-plant-based-vegan-alternatives-deficiencies-micronutrients-iodine",
+    "publishedAt": "2026-11-04T23:30:47.000Z"
+  },
+  {
     "id": "df46360a77d83dd2",
     "title": "LIV Golf’s attempted relaunch collapses after new lead investor withdraws, reports say",
     "summary": "The rebel LIV Golf tour’s attempt to relaunch itself after filing for bankruptcy has collapsed following the withdrawal of the new lead investor BC Partners, according to reports on Wednesday.",
@@ -540,6 +612,15 @@
     "publishedAt": "2026-11-04T22:31:09.000Z"
   },
   {
+    "id": "c6f96d4d723ddd38",
+    "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+    "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
+    "publishedAt": "2026-11-04T21:41:15.000Z"
+  },
+  {
     "id": "d5a57c91db93cd93",
     "title": "Pound rises to its highest level since the Brexit referendum",
     "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago.",
@@ -547,6 +628,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo",
     "publishedAt": "2026-11-04T21:35:50.000Z"
+  },
+  {
+    "id": "57674f80c63f1b3d",
+    "title": "US prosecutors drop criminal charges against scientist detained over frog embryos",
+    "summary": "Kseniia Petrova was detained for four months after arrest with research samples, and feared deportation to Russia.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/04/kseniia-petrova-harvard-frog-embryos",
+    "publishedAt": "2026-11-04T21:31:35.000Z"
   },
   {
     "id": "4439dbb9379978da",
@@ -1258,95 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego",
     "publishedAt": "2026-11-04T14:35:27.000Z"
-  },
-  {
-    "id": "4489d5564e1c6aae",
-    "title": "‘We want our taxes spent here’: 11 Democrats weigh in after sweeping the US midterm elections",
-    "summary": "Democratic leaders and seat-flipping victors from Tuesday’s ‘blue tsunami’ offer post-election comments.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/democrat-midterm-election-remarks",
-    "publishedAt": "2026-11-04T14:33:21.000Z"
-  },
-  {
-    "id": "38c57afd080e4d4c",
-    "title": "Bangladesh garment factories close as workers clash with police in pay protests",
-    "summary": "Police have clashed with garment workers demanding higher minimum wages in Bangladesh, where days of protests have disrupted an industry that employs about 4 million people.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/bangladesh-garment-factories-close-workers-clash-police-pay-137843912",
-    "publishedAt": "2026-11-04T14:24:24.000Z"
-  },
-  {
-    "id": "474fb3666b5198f3",
-    "title": "EU offers Serbia fresh hope for membership talks, says more countries could join soon",
-    "summary": "The European Union has offered Serbia fresh hope for membership talks if a new student-led government strengthens democracy.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/eu-offers-serbia-fresh-hope-membership-talks-countries-137844800",
-    "publishedAt": "2026-11-04T14:23:27.000Z"
-  },
-  {
-    "id": "eb99477837075d89",
-    "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
-    "summary": "With many seats still to come in, the Democrats have taken control of the Senate, House and several key governorships. Find live updating results in full here.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-elections-full-results-senate-house-governor-races",
-    "publishedAt": "2026-11-04T14:10:29.000Z"
-  },
-  {
-    "id": "ed273a3df88258c5",
-    "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
-    "summary": "The advance on al-Dahida heights, a strategic highland, comes as fighting escalates in al-Dhalea, Lahij and Taiz.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss",
-    "publishedAt": "2026-11-04T14:08:18.000Z"
-  },
-  {
-    "id": "533b14580597fcbd",
-    "title": "Everything you need to know from the US midterm elections",
-    "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po",
-    "publishedAt": "2026-11-04T14:05:42.000Z"
-  },
-  {
-    "id": "108aca1bd69ac41f",
-    "title": "Endangered giant burrowing frog returns to wild after tadpoles rescued from ashes of black summer fires",
-    "summary": "Tadpoles collected from puddles in East Gippsland were transported to Melbourne zoo, where they were raised to metamorphosis and successfully bred in captivity for the first time.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/05/giant-burrowing-frog-returns-to-wild-after-tadpoles-rescued-black-summer-fires-australia",
-    "publishedAt": "2026-11-04T14:01:35.000Z"
-  },
-  {
-    "id": "980cee697966e937",
-    "title": "Albanese government warned it’s ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI",
-    "summary": "Centre for Public Integrity report says mandatory audit and public register of all automated decision-making needed.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai",
-    "publishedAt": "2026-11-04T14:00:37.000Z"
-  },
-  {
-    "id": "f6653abac69866a1",
-    "title": "Australia has an especially bad inflation problem. So why are we only middle-of-the pack on the misery index?",
-    "summary": "Comparing Australia to other countries may not be much comfort but does offer some perspective on the economy.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/05/australian-economy-inflation-cost-of-living-misery-index",
-    "publishedAt": "2026-11-04T14:00:37.000Z"
-  },
-  {
-    "id": "af736a82da8d1916",
-    "title": "Muslim Votes Matter softens anti-Labor stance ahead of Victorian election in bid to defeat One Nation in at-risk seats",
-    "summary": "Exclusive: Advocacy group will put volunteers on the ground in Labor-held outer suburban seats that could swing towards Pauline Hanson’s party.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/05/muslim-votes-matter-softens-anti-labor-stance-victoria-election-one-nation-ntwnfb",
-    "publishedAt": "2026-11-04T14:00:36.000Z"
   }
 ]
