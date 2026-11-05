@@ -1,5 +1,131 @@
 [
   {
+    "id": "af70240852b13008",
+    "title": "The best Christmas gifts in the UK for dads, grandads, uncles and friends – tested for 2026",
+    "summary": "What do you get the man who doesn’t seem to want anything? From fiery condiments to chef’s knives, slippers to portable speakers, these ideas are sure to hit the spot.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2026/nov/05/best-christmas-gifts-dads-grandads-uncles-friends-uk",
+    "publishedAt": "2026-11-05T15:00:27.000Z"
+  },
+  {
+    "id": "1212da89a1c71348",
+    "title": "Misogyny and sexism of Russell Brand case have not gone away, say TV insiders",
+    "summary": "Concerns remain that media industry is still failing to confront troubling behaviour.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/05/misogyny-and-sexism-of-russell-brand-case-have-not-gone-away-say-tv-insiders",
+    "publishedAt": "2026-11-05T14:52:36.000Z"
+  },
+  {
+    "id": "79e9c9632f207cf2",
+    "title": "Russell Brand found guilty of rape and sexual assault by UK court",
+    "summary": "British comedian was convicted by jury at London court of one count of rape and three counts of sexual assault.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss",
+    "publishedAt": "2026-11-05T14:43:09.000Z"
+  },
+  {
+    "id": "470b77920b2c4199",
+    "title": "BT cuts almost 8,000 jobs amid sweeping cost-saving programme",
+    "summary": "Telecoms group reports £1.1bn pre-tax profit in six months to end of September and share price touches five-year high.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/bt-cuts-jobs-cost-saving-programme-profit-share-price",
+    "publishedAt": "2026-11-05T14:40:48.000Z"
+  },
+  {
+    "id": "b9e5704092a8e660",
+    "title": "UK and US condemn ‘cruel’ second jail term handed to Hong Kong activist Joshua Wong",
+    "summary": "Foreign Office says 10-year sentence shows city’s security law is being used to ‘target individuals for political expression’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/uk-and-us-condemn-second-jail-term-handed-to-hong-kong-activist-joshua-wong",
+    "publishedAt": "2026-11-05T14:38:37.000Z"
+  },
+  {
+    "id": "16e106b6e7b3956e",
+    "title": "Amtrak workers’ union denounces plan to let passengers bring guns on trains: ‘Sheer lunacy’",
+    "summary": "New policy would permit passengers to take firearms to their seats in lockboxes on 1,500 trains a day across the US.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/amtrak-workers-union-passengers-guns",
+    "publishedAt": "2026-11-05T14:34:44.000Z"
+  },
+  {
+    "id": "148199e7035378af",
+    "title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
+    "summary": "Former army surgeon and Gaza volunteer Hamawy is the first Muslim American elected to the US Congress from New Jersey.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
+    "publishedAt": "2026-11-05T14:30:37.000Z"
+  },
+  {
+    "id": "c6585b5b1b1d177d",
+    "title": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
+    "summary": "Cost of servicing external debt is preventing developing countries from investing for future.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
+    "publishedAt": "2026-11-05T14:30:25.000Z"
+  },
+  {
+    "id": "1266b87d0f752955",
+    "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+    "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo",
+    "publishedAt": "2026-11-05T14:29:40.000Z"
+  },
+  {
+    "id": "e71efcda2728acf2",
+    "title": "Russell Brand found guilty of rape and sexual assault",
+    "summary": "Judge says actor and comedian faces ‘significant custodial term’ after being convicted of raping a woman and assaulting three others.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-found-guilty-rape-sexual-assault",
+    "publishedAt": "2026-11-05T14:26:33.000Z"
+  },
+  {
+    "id": "75d43284c1a3da1e",
+    "title": "Could the US midterms further isolate Israel in Washington?",
+    "summary": "The midterms showed that challenging support for Israel can win votes. But changing US foreign policy may be harder.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss",
+    "publishedAt": "2026-11-05T14:19:25.000Z"
+  },
+  {
+    "id": "e3c035cd8142b018",
+    "title": "Burning rubbish chokes besieged Yemeni city of Taiz",
+    "summary": "Taiz residents face health risks as waste accumulates amid sniper fire, forcing people to burn it in the streets.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/5/burning-rubbish-chokes-besieged-yemeni-city-of-taiz?traffic_source=rss",
+    "publishedAt": "2026-11-05T14:17:34.000Z"
+  },
+  {
+    "id": "ae0308f19451c27a",
+    "title": "Joint List says it will back Eisenkot to form Israel’s next government",
+    "summary": "Arab-led parties won a record 19 seats in Israel's 120-seat parliament in last week's general election.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss",
+    "publishedAt": "2026-11-05T14:15:52.000Z"
+  },
+  {
+    "id": "745510722aadac38",
+    "title": "‘It’s kind of a melting pot’: how one US city transformed a highway into a leafy oasis",
+    "summary": "The BLVD is home to 250 enterprises, from banks, tattoo shops and restaurants to museums and a performing arts centre.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/05/lancaster-california-transformed-highway-leafy-oasis",
+    "publishedAt": "2026-11-05T14:07:12.000Z"
+  },
+  {
     "id": "9f208cff7d5e351a",
     "title": "UN's peacekeeping mission in Western Sahara enters liquidation phase after mandate expires",
     "summary": "The U.N. peacekeeping mission in Western Sahara has entered a “liquidation phase” and is beginning to vacate positions and dispose of equipment following a U.S.-Russia standoff at the Security Council last week.",
@@ -747,6 +873,15 @@
     "publishedAt": "2026-11-05T07:20:18.000Z"
   },
   {
+    "id": "6d6c05f806ac7f5d",
+    "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+    "summary": "The American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy. The Vatican said the encounter was brief.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+    "publishedAt": "2026-11-05T07:02:12.000Z"
+  },
+  {
     "id": "09c7c8c25bb7d532",
     "title": "Ministers to target ‘wild west’ of e-bikes blocking pavements",
     "summary": "Exclusive: Consultation led by Department for Transport will consider parking standards, fleet sizes and insurance requirements.",
@@ -1213,140 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o",
     "publishedAt": "2026-11-04T23:50:40.000Z"
-  },
-  {
-    "id": "644131b2557e0258",
-    "title": "Sudan, Ethiopia order tit-for-tat diplomatic expulsions",
-    "summary": "Sudan accuses Ethiopia of aiding RSF attacks, while Ethiopia claims Sudan backs Tigray rebels.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
-    "publishedAt": "2026-11-04T23:43:26.000Z"
-  },
-  {
-    "id": "ac1dc3f663853140",
-    "title": "Swapping from dairy to plant-based milk, cheese and yoghurt ‘could lead to micronutrient deficiencies’",
-    "summary": "Young people and women most at risk, study finds, as researchers call for vegan products to be fortified with iodine in particular.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/04/swapping-dairy-milk-cheese-yoghurt-plant-based-vegan-alternatives-deficiencies-micronutrients-iodine",
-    "publishedAt": "2026-11-04T23:30:47.000Z"
-  },
-  {
-    "id": "df46360a77d83dd2",
-    "title": "LIV Golf’s attempted relaunch collapses after new lead investor withdraws, reports say",
-    "summary": "The rebel LIV Golf tour’s attempt to relaunch itself after filing for bankruptcy has collapsed following the withdrawal of the new lead investor BC Partners, according to reports on Wednesday.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/sport/2026/nov/04/rory-mcilroy-liv-golf-destroy-dp-world-tour",
-    "publishedAt": "2026-11-04T23:29:01.000Z"
-  },
-  {
-    "id": "7cdab45567231a47",
-    "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-    "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo",
-    "publishedAt": "2026-11-04T23:12:47.000Z"
-  },
-  {
-    "id": "9d87aa0d657497bd",
-    "title": "Scare campaigns: Victoria’s major parties trade blows over AI-generated videos of leaders in election ads",
-    "summary": "Transparency and advertising experts say trust in politics could be further eroded as a result of ‘lies, deepfakes and AI-generated politicians’",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/05/victoria-election-2026-ai-generated-video-ads-ntwnfb",
-    "publishedAt": "2026-11-04T23:00:46.000Z"
-  },
-  {
-    "id": "ab00089ce6bdbd79",
-    "title": "David Jones goes into administration, with store closures expected and thousands of jobs at risk",
-    "summary": "Future of department store in jeopardy after administrators appointed on Thursday morning.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration",
-    "publishedAt": "2026-11-04T22:53:29.000Z"
-  },
-  {
-    "id": "7f5a2e7845539490",
-    "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-    "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o",
-    "publishedAt": "2026-11-04T22:48:43.000Z"
-  },
-  {
-    "id": "4507554b7cbc8e35",
-    "title": "Democratic Socialists of America see record wins in US midterm elections",
-    "summary": "The left-wing movement has won support for its views on issues like the war in Gaza and universal healthcare.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss",
-    "publishedAt": "2026-11-04T22:45:24.000Z"
-  },
-  {
-    "id": "578e57d074ffd22f",
-    "title": "David Jones stores tipped to close as retailer enters administration",
-    "summary": "Customers are left wondering as the retailer calls in administrators while it struggles to pay its rent.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-05/david-jones-collapses-into-voluntary-administration/107347878",
-    "publishedAt": "2026-11-04T22:44:29.000Z"
-  },
-  {
-    "id": "fc96a89bd3a9acdb",
-    "title": "Cyber attack hits French blood banks but no blood products compromised",
-    "summary": "The refrigerators at three regional blood banks in France were hit by a cyber attack overnight from Sunday into Monday, at the same time hackers struck supermarkets from Sweden to Belgium.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-05/french-blood-banks-hit-alongside-cyberattack-on-european-superma/107348302",
-    "publishedAt": "2026-11-04T22:41:45.000Z"
-  },
-  {
-    "id": "992279eca65e0eb8",
-    "title": "Sudan factories struggle to restart after devastating wartime losses",
-    "summary": "War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
-    "publishedAt": "2026-11-04T22:31:09.000Z"
-  },
-  {
-    "id": "c6f96d4d723ddd38",
-    "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-    "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
-    "publishedAt": "2026-11-04T21:41:15.000Z"
-  },
-  {
-    "id": "d5a57c91db93cd93",
-    "title": "Pound rises to its highest level since the Brexit referendum",
-    "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo",
-    "publishedAt": "2026-11-04T21:35:50.000Z"
-  },
-  {
-    "id": "57674f80c63f1b3d",
-    "title": "US prosecutors drop criminal charges against scientist detained over frog embryos",
-    "summary": "Kseniia Petrova was detained for four months after arrest with research samples, and feared deportation to Russia.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/kseniia-petrova-harvard-frog-embryos",
-    "publishedAt": "2026-11-04T21:31:35.000Z"
-  },
-  {
-    "id": "4439dbb9379978da",
-    "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
-    "summary": "Israeli restrictions on travel and medical evacuations prevent children in Gaza from being treated abroad.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
-    "publishedAt": "2026-11-04T21:13:56.000Z"
   }
 ]
