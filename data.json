@@ -1,5 +1,113 @@
 [
   {
+    "id": "40c4cf2373f2ea24",
+    "title": "California governor commutes death sentences for all 548 people on death row",
+    "summary": "California has historically had the largest population of death row inmates in the US.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo",
+    "publishedAt": "2026-11-05T20:12:03.000Z"
+  },
+  {
+    "id": "294f9272f24b6a18",
+    "title": "Gavin Newsom commutes more than 500 death sentences in California",
+    "summary": "Democrat’s move prevents these people from executions under future governors, after Christa Pike’s failed execution.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california",
+    "publishedAt": "2026-11-05T20:07:12.000Z"
+  },
+  {
+    "id": "2577bb22998f24aa",
+    "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
+    "summary": "The Republican midterm rout is helping shape who leads Israel next, as Netanyahu’s US ties turn toxic.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
+    "publishedAt": "2026-11-05T20:07:04.000Z"
+  },
+  {
+    "id": "4629beb692878a75",
+    "title": "Over 1,000 tonnes of sewage seen at landfill site",
+    "summary": "The Environment Agency says it has issued the operator with a series of actions after an inspection.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmp8ggn9gpjjo",
+    "publishedAt": "2026-11-05T20:01:05.000Z"
+  },
+  {
+    "id": "a200945598b5429f",
+    "title": "Deep-red Kansas votes for change as patience wears thin with Trump: ‘The economy is really taking a beating’",
+    "summary": "Bills have soared in rural state buffeted by tariffs and war in Iran – and Democrat Adam Hamilton’s stunning upset shows how deep economic frustrations run.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/kansas-voters-trump-republicans-dispatch",
+    "publishedAt": "2026-11-05T20:00:32.000Z"
+  },
+  {
+    "id": "4f290ca7e80e5f82",
+    "title": "US accuses Mexican judge of $2m bribe to free accused drug trafficker allegedly linked to ex-Olympic snowboarder",
+    "summary": "The judge oversaw extradition proceedings in Mexico for a Canadian citizen allegedly helping Ryan Wedding.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/mexican-judge-us-arrest-drug-trafficking",
+    "publishedAt": "2026-11-05T19:58:49.000Z"
+  },
+  {
+    "id": "0e9747e84b550ea8",
+    "title": "Who could be behind hoax bomb threats to European air travel?",
+    "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo",
+    "publishedAt": "2026-11-05T19:58:40.000Z"
+  },
+  {
+    "id": "6d0d46f81aa5b9f8",
+    "title": "More than a dozen flights in Europe receive bomb threats that an official calls 'malicious' hoaxes",
+    "summary": "Authorities say that bomb threats have targeted more than a dozen flights in Europe, leading to a slew of emergency landings and military escorts in some cases.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/dozen-flights-europe-receive-bomb-threats-official-calls-137869253",
+    "publishedAt": "2026-11-05T19:57:53.000Z"
+  },
+  {
+    "id": "b487d59362374db9",
+    "title": "Who is Nithya Raman, the democratic socialist who will be Los Angeles’s next mayor?",
+    "summary": "Urban planner and outsider who bested Karen Bass has close ties to Hollywood progressives – and a complicated relationship with the DSA.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/who-is-nithya-raman-los-angeles-mayor",
+    "publishedAt": "2026-11-05T19:50:38.000Z"
+  },
+  {
+    "id": "de74957836bcd993",
+    "title": "Top US civil rights official resigns",
+    "summary": "New Democratic Congress expected to probe Trump Justice Department office's handling of Epstein files and ICE killings.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss",
+    "publishedAt": "2026-11-05T19:48:00.000Z"
+  },
+  {
+    "id": "2e438c49db5996fa",
+    "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
+    "summary": "US first lady hosts Russian, Ukrainian officials at the White House, urges two sides to build on recent local truce.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
+    "publishedAt": "2026-11-05T19:31:28.000Z"
+  },
+  {
+    "id": "829ef7bbf9b45e33",
+    "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+    "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o",
+    "publishedAt": "2026-11-05T19:08:08.000Z"
+  },
+  {
     "id": "ad5a20470de49065",
     "title": "‘Our work’s not done’: Russell Brand detective urges other potential victims to come forward",
     "summary": "Brand is under investigation over two more rape allegations and police say others could speak up after guilty verdicts.",
@@ -34,6 +142,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko",
     "publishedAt": "2026-11-05T18:48:53.000Z"
+  },
+  {
+    "id": "fa785fffcec5f960",
+    "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+    "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+    "publishedAt": "2026-11-05T18:48:07.000Z"
   },
   {
     "id": "ee34a295b1d85b7c",
@@ -295,6 +412,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o",
     "publishedAt": "2026-11-05T15:44:49.000Z"
+  },
+  {
+    "id": "094ffeabc7a47667",
+    "title": "Why do veterinary fees and sausage rolls vary in price across London?",
+    "summary": "Location is not just the only factor on why prices differ across London, as Anna O'Neill finds out.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo",
+    "publishedAt": "2026-11-05T15:19:36.000Z"
   },
   {
     "id": "1a1d6c683a927ea1",
@@ -1098,6 +1224,15 @@
     "publishedAt": "2026-11-05T09:04:42.000Z"
   },
   {
+    "id": "73a24d496389f8f4",
+    "title": "‘I never understood wind’: midterms spark hope for renewables after Trump’s hostility",
+    "summary": "Future brightens for US developers in particular after election when voters rejected Trump’s war on clean energy.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/democrats-midterms-triumph-renewable-energy-industry-donald-trump",
+    "publishedAt": "2026-11-05T09:04:05.000Z"
+  },
+  {
     "id": "b52c21410b592f46",
     "title": "Tech barons cozied up to Trump. What will they do in newly blue America?",
     "summary": "Democrats’ success was helped by popular anger over tech, AI and the super rich – life for billionaires could become much more difficult.",
@@ -1213,140 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
     "publishedAt": "2026-11-05T07:50:44.000Z"
-  },
-  {
-    "id": "c8b06c9380f29efd",
-    "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
-    "summary": "Seoul proposes extending its Cheonghae unit’s patrols to waters near Oman’s Duqm amid US pressure over Iran war.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
-    "publishedAt": "2026-11-05T07:44:47.000Z"
-  },
-  {
-    "id": "78979c9b911e42d5",
-    "title": "Ten years of the Paris Agreement: Has the world kept its climate promises?",
-    "summary": "Nearly 200 countries pledged to limit warming to 1.5C. We look at who has delivered and who has fallen short.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/ten-years-of-the-paris-agreement-has-the-world-kept-its-climate-promises?traffic_source=rss",
-    "publishedAt": "2026-11-05T07:41:25.000Z"
-  },
-  {
-    "id": "1c56f8619779096e",
-    "title": "Champions League: Liverpool suffer 3-2 loss at Fenerbahce, Como thump Lens",
-    "summary": "Como equal Champions League record with stunning 9-1 win at Lens as Haaland rescues Manchester City at Leipzig.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss",
-    "publishedAt": "2026-11-05T07:21:01.000Z"
-  },
-  {
-    "id": "5cdb40b068cbdadf",
-    "title": "Guinness World Record broken as 53 red cards shown in Brazil under-20 match",
-    "summary": "Mass brawl at Uberlandia vs Mamore results in 43 cards for players, eight for coaching staff and two for board members.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/5/guinness-world-record-broken-as-53-red-cards-shown-in-brazil-under-20-match?traffic_source=rss",
-    "publishedAt": "2026-11-05T07:20:18.000Z"
-  },
-  {
-    "id": "6d6c05f806ac7f5d",
-    "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
-    "summary": "The American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy. The Vatican said the encounter was brief.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
-    "publishedAt": "2026-11-05T07:02:12.000Z"
-  },
-  {
-    "id": "09c7c8c25bb7d532",
-    "title": "Ministers to target ‘wild west’ of e-bikes blocking pavements",
-    "summary": "Exclusive: Consultation led by Department for Transport will consider parking standards, fleet sizes and insurance requirements.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/e-bikes-blocking-pavements-department-for-transport",
-    "publishedAt": "2026-11-05T07:00:57.000Z"
-  },
-  {
-    "id": "7091e3a164f8fa67",
-    "title": "A Democratic-controlled Congress will likely try to constrain Trump’s foreign adventures",
-    "summary": "But the president still has veto power, which he can wield to dictate policy over tariffs, the war in Iran or aid for Ukraine.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/democrats-trump-foreign-policy-analysis",
-    "publishedAt": "2026-11-05T07:00:57.000Z"
-  },
-  {
-    "id": "986dc02789fe8846",
-    "title": "Warming UK seas could ‘fundamentally reshape marine ecosystems’ – report",
-    "summary": "Four-year study warns destabilised marine food webs could jeopardise food security by 2050.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/05/warming-uk-seas-could-fundamentally-reshape-marine-ecosystems-report",
-    "publishedAt": "2026-11-05T07:00:56.000Z"
-  },
-  {
-    "id": "1868b70c66fe445e",
-    "title": "Apple iPad mini A20 Pro review: the best small tablet but with a big price",
-    "summary": "All-round upgrades fit a bigger OLED screen in a smaller and lighter body with water resistance for first time.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/05/apple-ipad-mini-a20-pro-review-best-small-tablet-but-big-price",
-    "publishedAt": "2026-11-05T07:00:56.000Z"
-  },
-  {
-    "id": "43d16c1970abe6ad",
-    "title": "Poundland owner in crunch talks as retailer's collapse looms",
-    "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
-    "publishedAt": "2026-11-05T06:58:03.000Z"
-  },
-  {
-    "id": "82ee4fe6ffe0c139",
-    "title": "Beau Lamarre-Condon tells double murder trial he went through Jesse Baird’s phone and poured water into his fuel tank",
-    "summary": "Former police officer gives evidence in court after pleading not guilty to murdering Baird and Luke Davies in early 2024.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
-    "publishedAt": "2026-11-05T06:56:01.000Z"
-  },
-  {
-    "id": "ec84f5b7e94349dd",
-    "title": "A still-recovering pope will head home to Latin America and his beloved Peru for a 12-day trip",
-    "summary": "Pope Leo XIV is embarking on the longest and farthest trip of his pontificate three weeks after lung cancer surgery.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/recovering-pope-head-home-latin-america-beloved-peru-137867521",
-    "publishedAt": "2026-11-05T06:55:14.000Z"
-  },
-  {
-    "id": "c53fce5664024f49",
-    "title": "Former Chinese Politburo member Ma Xingrui charged with taking bribes",
-    "summary": "China's state media say a former member of one of China’s top decision-making bodies has been formally charged with accepting bribes a week after Communist Party leaders confirmed his expulsion from the party.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/former-chinese-politburo-member-ma-xingrui-charged-taking-137866646",
-    "publishedAt": "2026-11-05T06:52:51.000Z"
-  },
-  {
-    "id": "9501e4a5dbb133c9",
-    "title": "New Zealand braces for knife-edge election: What you need to know",
-    "summary": "Smaller parties hold the key, with major contenders expected to fall short of the majority needed to govern alone.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss",
-    "publishedAt": "2026-11-05T06:34:50.000Z"
-  },
-  {
-    "id": "4e7aef58a22f0a9a",
-    "title": "Midwives concerned over possible baby unit closures",
-    "summary": "The RCM union says possible closures in Norfolk would also affect patients in neighbouring counties.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqe9l7lv9j58o",
-    "publishedAt": "2026-11-05T06:32:50.000Z"
   }
 ]
