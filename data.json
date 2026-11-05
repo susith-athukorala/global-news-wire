@@ -1,5 +1,86 @@
 [
   {
+    "id": "09c7c8c25bb7d532",
+    "title": "Ministers to target ‘wild west’ of e-bikes blocking pavements",
+    "summary": "Exclusive: Consultation led by Department for Transport will consider parking standards, fleet sizes and insurance requirements.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/e-bikes-blocking-pavements-department-for-transport",
+    "publishedAt": "2026-11-05T07:00:57.000Z"
+  },
+  {
+    "id": "7091e3a164f8fa67",
+    "title": "A Democratic-controlled Congress will likely try to constrain Trump’s foreign adventures",
+    "summary": "But the president still has veto power, which he can wield to dictate policy over tariffs, the war in Iran or aid for Ukraine.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/democrats-trump-foreign-policy-analysis",
+    "publishedAt": "2026-11-05T07:00:57.000Z"
+  },
+  {
+    "id": "986dc02789fe8846",
+    "title": "Warming UK seas could ‘fundamentally reshape marine ecosystems’ – report",
+    "summary": "Four-year study warns destabilised marine food webs could jeopardise food security by 2050.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/05/warming-uk-seas-could-fundamentally-reshape-marine-ecosystems-report",
+    "publishedAt": "2026-11-05T07:00:56.000Z"
+  },
+  {
+    "id": "1868b70c66fe445e",
+    "title": "Apple iPad mini A20 Pro review: the best small tablet but with a big price",
+    "summary": "All-round upgrades fit a bigger OLED screen in a smaller and lighter body with water resistance for first time.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/05/apple-ipad-mini-a20-pro-review-best-small-tablet-but-big-price",
+    "publishedAt": "2026-11-05T07:00:56.000Z"
+  },
+  {
+    "id": "ec84f5b7e94349dd",
+    "title": "A still-recovering pope will head home to Latin America and his beloved Peru for a 12-day trip",
+    "summary": "Pope Leo XIV is embarking on the longest and farthest trip of his pontificate three weeks after lung cancer surgery.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/recovering-pope-head-home-latin-america-beloved-peru-137867521",
+    "publishedAt": "2026-11-05T06:55:14.000Z"
+  },
+  {
+    "id": "c53fce5664024f49",
+    "title": "Former Chinese Politburo member Ma Xingrui charged with taking bribes",
+    "summary": "China's state media say a former member of one of China’s top decision-making bodies has been formally charged with accepting bribes a week after Communist Party leaders confirmed his expulsion from the party.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/former-chinese-politburo-member-ma-xingrui-charged-taking-137866646",
+    "publishedAt": "2026-11-05T06:52:51.000Z"
+  },
+  {
+    "id": "9501e4a5dbb133c9",
+    "title": "New Zealand braces for knife-edge election: What you need to know",
+    "summary": "Smaller parties hold the key, with major contenders expected to fall short of the majority needed to govern alone.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss",
+    "publishedAt": "2026-11-05T06:34:50.000Z"
+  },
+  {
+    "id": "4e7aef58a22f0a9a",
+    "title": "Midwives concerned over possible baby unit closures",
+    "summary": "The RCM union says possible closures in Norfolk would also affect patients in neighbouring counties.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqe9l7lv9j58o",
+    "publishedAt": "2026-11-05T06:32:50.000Z"
+  },
+  {
+    "id": "a25dd13571221dd6",
+    "title": "Has India’s democracy failed its Muslims? Jailed scholar triggers debate",
+    "summary": "Sharjeel Imam questioned foundational ideas of India's nationalism in interview with The Quint, inspiring heated debate.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/has-indias-democracy-failed-its-muslims-jailed-scholar-triggers-debate?traffic_source=rss",
+    "publishedAt": "2026-11-05T06:10:51.000Z"
+  },
+  {
     "id": "81edee9bcdaaddff",
     "title": "Democrats won on affordability. Can they deliver it?",
     "summary": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
@@ -16,6 +97,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/artanddesign/2026/nov/05/hastings-castle-dickens-chalet-heritage-at-risk-register",
     "publishedAt": "2026-11-05T06:00:56.000Z"
+  },
+  {
+    "id": "73a24d496389f8f4",
+    "title": "Will Democrats’ midterms triumph put wind back in sails of the renewables sector?",
+    "summary": "Future brightens for US developers in particular after election when voters rejected Trump’s war on clean energy.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/democrats-midterms-triumph-renewable-energy-industry-donald-trump",
+    "publishedAt": "2026-11-05T06:00:55.000Z"
   },
   {
     "id": "094ffeabc7a47667",
@@ -79,6 +169,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
     "publishedAt": "2026-11-05T05:00:55.000Z"
+  },
+  {
+    "id": "31049809d2ca2a17",
+    "title": "Lab-grown meat was supposed to save the world. What happened?",
+    "summary": "We were promised a panacea for the climate crisis and a way to save our food system. So why is nobody firing up the chicken vats?",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/05/lab-grown-meat-save-the-world-food-revolution-climate-crisis-food-system",
+    "publishedAt": "2026-11-05T05:00:54.000Z"
   },
   {
     "id": "dd7f854fb23ebfd7",
@@ -367,6 +466,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
     "publishedAt": "2026-11-04T23:43:26.000Z"
+  },
+  {
+    "id": "df46360a77d83dd2",
+    "title": "LIV Golf’s attempted relaunch collapses after new lead investor withdraws, reports say",
+    "summary": "The rebel LIV Golf tour’s attempt to relaunch itself after filing for bankruptcy has collapsed following the withdrawal of the new lead investor BC Partners, according to reports on Wednesday.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/sport/2026/nov/04/rory-mcilroy-liv-golf-destroy-dp-world-tour",
+    "publishedAt": "2026-11-04T23:29:01.000Z"
   },
   {
     "id": "7cdab45567231a47",
@@ -1240,113 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/05/muslim-votes-matter-softens-anti-labor-stance-victoria-election-one-nation-ntwnfb",
     "publishedAt": "2026-11-04T14:00:36.000Z"
-  },
-  {
-    "id": "7cf5a63ac2ab131c",
-    "title": "‘Discontent and distrust’: annual social cohesion checkup shows exactly what’s making Australia angry",
-    "summary": "Cost of living and AI outrank climate change and war as top concerns for future, but support for multiculturalism remains strong.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/04/social-cohesion-report-australia-cost-of-living-economy-immigration-multiculturalism-ai-ntwnfb",
-    "publishedAt": "2026-11-04T14:00:36.000Z"
-  },
-  {
-    "id": "5d884fdd8d133dc1",
-    "title": "How big is the Republican midterms loss, and is there a silver lining?",
-    "summary": "The Republicans haven't been this weakened in Congress since 1990, but they did have some wins.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/how-big-is-the-republican-midterms-loss-and-is-there-a-silver-lining?traffic_source=rss",
-    "publishedAt": "2026-11-04T13:59:15.000Z"
-  },
-  {
-    "id": "bd6fefeb71116bbb",
-    "title": "UK interest rates increase expected after services sector activity accelerates",
-    "summary": "Purchasing manager’s index at eight-month high, bolstered by spending on AI as firms regain momentum since start of Iran war.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/04/uk-interest-rates-increase-expected-service-sector-activity-accelerates-pmi",
-    "publishedAt": "2026-11-04T13:53:38.000Z"
-  },
-  {
-    "id": "4af7e02ad23e5cae",
-    "title": "Fleabag creator donates flat to help early-career writers live in London",
-    "summary": "Phoebe Waller-Bridge joins stars signing up to scheme tackling class barriers in theatre.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/04/fleabag-creator-phoebe-waller-bridge-donates-flat-to-help-writers",
-    "publishedAt": "2026-11-04T13:50:59.000Z"
-  },
-  {
-    "id": "c45bf7256f0a11e8",
-    "title": "'Such terrible waste' as health trust buildings could cost an extra £20m",
-    "summary": "The maternity building on the Royal Victoria Hospital site is already tens of millions of pounds over budget.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cjly0qpv35p3o",
-    "publishedAt": "2026-11-04T13:48:35.000Z"
-  },
-  {
-    "id": "69c4fb1a42634e23",
-    "title": "UNHCR criticises UK’s 30-year ‘earned settlement’ plans for refugees",
-    "summary": "Home secretary Shabana Mahmood maintains rigorous rules for those who arrive on small boats.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/04/unhcr-criticises-uks-30-year-earned-settlement-plans-for-refugees",
-    "publishedAt": "2026-11-04T13:47:12.000Z"
-  },
-  {
-    "id": "cc4a4a4d0e807809",
-    "title": "Joy in Iran over ‘Trump’s defeat’ in US midterm elections – but war is not over",
-    "summary": "Iran celebrates its claimed role in ‘regime change’ amid pressure on US president to ‘finish the job’ with attack.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
-    "publishedAt": "2026-11-04T13:44:19.000Z"
-  },
-  {
-    "id": "c6f96d4d723ddd38",
-    "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-    "summary": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
-    "publishedAt": "2026-11-04T13:43:16.000Z"
-  },
-  {
-    "id": "ca6f4bcfa7720dbf",
-    "title": "Investigators say they found tail pieces of Learjet that crashed in Florida, killing nine",
-    "summary": "National Transportation Safety Board says discovery of parts confirms plane was breaking apart before it crashed.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/florida-plane-crash-tail-pieces-discovered",
-    "publishedAt": "2026-11-04T13:40:53.000Z"
-  },
-  {
-    "id": "ddaf1a0a5bd8e9a6",
-    "title": "Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity",
-    "summary": "Israeli settlers have expanded in Hebron's Old City, with Palestinian residents' presence under threat.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity?traffic_source=rss",
-    "publishedAt": "2026-11-04T13:40:52.000Z"
-  },
-  {
-    "id": "cf9ce9644b86038e",
-    "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
-    "summary": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
-    "publishedAt": "2026-11-04T13:38:09.000Z"
-  },
-  {
-    "id": "5dce150845b140ce",
-    "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-    "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o",
-    "publishedAt": "2026-11-04T13:33:30.000Z"
   }
 ]
