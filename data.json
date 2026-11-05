@@ -1,5 +1,77 @@
 [
   {
+    "id": "ad5a20470de49065",
+    "title": "‘Our work’s not done’: Russell Brand detective urges other potential victims to come forward",
+    "summary": "Brand is under investigation over two more rape allegations and police say others could speak up after guilty verdicts.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-detective-other-potential-victims",
+    "publishedAt": "2026-11-05T19:01:39.000Z"
+  },
+  {
+    "id": "cd2dba19d63462cd",
+    "title": "Division among US Democrats over Schumer’s leadership role",
+    "summary": "Some Democratic senators – and the very voters that swept them into power – are demanding new leadership.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/division-among-us-democrats-over-schumers-leadership-role?traffic_source=rss",
+    "publishedAt": "2026-11-05T18:53:04.000Z"
+  },
+  {
+    "id": "afb479b5a3a36b84",
+    "title": "NHS England cancer diagnoses at record high with 1,000 people diagnosed every day",
+    "summary": "While NHS is identifying more cases, it is failing to meet timescale targets on diagnosis and treatment, experts say.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/05/nhs-england-cancer-diagnoses-record-high-1000-people-diagnosed-every-day",
+    "publishedAt": "2026-11-05T18:49:25.000Z"
+  },
+  {
+    "id": "9315f5e8b4bcfcd6",
+    "title": "Manhunt in western Turkey after eight killed in series of shootings",
+    "summary": "Eight people have been killed and one seriously injured in a series of shootings in western Turkey.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko",
+    "publishedAt": "2026-11-05T18:48:53.000Z"
+  },
+  {
+    "id": "ee34a295b1d85b7c",
+    "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
+    "summary": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
+    "publishedAt": "2026-11-05T18:47:10.000Z"
+  },
+  {
+    "id": "29bba3c89545fee3",
+    "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+    "summary": "Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people's savings.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+    "publishedAt": "2026-11-05T18:30:16.000Z"
+  },
+  {
+    "id": "61271f72f3ac672c",
+    "title": "Belarus sentences Catholic priest to 3 years after he opposed the Ukraine war",
+    "summary": "A Roman Catholic priest, who has opposed Russia’s invasion of Ukraine and helped Ukrainian refugees, has been sentenced to three years in prison in Belarus.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/belarus-sentences-catholic-priest-3-years-after-opposed-137885551",
+    "publishedAt": "2026-11-05T18:14:59.000Z"
+  },
+  {
+    "id": "b4dcd993f8681f20",
+    "title": "Herzog to meet Israeli election rivals as decision nears on path to power",
+    "summary": "President calls on all parties to help avoid new election after Netanyahu and Eisenkot blocs fell short of majority.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
+    "publishedAt": "2026-11-05T18:13:01.000Z"
+  },
+  {
     "id": "e0e95cc58dd5bce7",
     "title": "AI stocks plunge after election, driving down US markets",
     "summary": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
@@ -36,6 +108,15 @@
     "publishedAt": "2026-11-05T17:41:07.000Z"
   },
   {
+    "id": "bdfd2b2ef775448f",
+    "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+    "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo",
+    "publishedAt": "2026-11-05T17:39:48.000Z"
+  },
+  {
     "id": "3d218e3750d110d4",
     "title": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
     "summary": "Philippine official says there are ‘signs that point to Thomas Markle Jr’s involvement in crime’, but he’s not yet being treated as a suspect.",
@@ -61,6 +142,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
     "publishedAt": "2026-11-05T17:21:51.000Z"
+  },
+  {
+    "id": "dd7f854fb23ebfd7",
+    "title": "Protesters march in cities across France as unions stage general strike",
+    "summary": "Hundreds of thousands demonstrate over cost of living and cuts to public services as 70,000 police officers deployed.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+    "publishedAt": "2026-11-05T17:21:45.000Z"
   },
   {
     "id": "a85489020ca6edfc",
@@ -412,6 +502,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/05/what-does-interest-rate-rise-mean-for-homeowners-and-savers-mortgages",
     "publishedAt": "2026-11-05T14:00:12.000Z"
+  },
+  {
+    "id": "a65bb36dea71248d",
+    "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+    "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
+    "publishedAt": "2026-11-05T13:51:03.000Z"
   },
   {
     "id": "97a61a9c26a187c3",
@@ -1098,6 +1197,15 @@
     "publishedAt": "2026-11-05T07:56:53.000Z"
   },
   {
+    "id": "551fb86c6f7987cf",
+    "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+    "summary": "Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security law.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+    "publishedAt": "2026-11-05T07:56:21.000Z"
+  },
+  {
     "id": "7a57011ecd6c2f0f",
     "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
     "summary": "Wong, in prison since 2020, was found guilty of colluding with foreign entities in violation of national security law.",
@@ -1240,113 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqe9l7lv9j58o",
     "publishedAt": "2026-11-05T06:32:50.000Z"
-  },
-  {
-    "id": "a25dd13571221dd6",
-    "title": "Has India’s democracy failed its Muslims? Jailed scholar triggers debate",
-    "summary": "Sharjeel Imam questioned foundational ideas of India's nationalism in interview with The Quint, inspiring heated debate.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/has-indias-democracy-failed-its-muslims-jailed-scholar-triggers-debate?traffic_source=rss",
-    "publishedAt": "2026-11-05T06:10:51.000Z"
-  },
-  {
-    "id": "81edee9bcdaaddff",
-    "title": "Democrats won on affordability. Can they deliver it?",
-    "summary": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o",
-    "publishedAt": "2026-11-05T06:01:05.000Z"
-  },
-  {
-    "id": "f84e4846097a655c",
-    "title": "Norman conquest castle and Dickens chalet among sites added to heritage at risk register",
-    "summary": "William the Conquerer-built Hastings Castle and Swiss-style writing retreat in Kent two of nearly 200 additions to list.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/artanddesign/2026/nov/05/hastings-castle-dickens-chalet-heritage-at-risk-register",
-    "publishedAt": "2026-11-05T06:00:56.000Z"
-  },
-  {
-    "id": "73a24d496389f8f4",
-    "title": "Will Democrats’ midterms triumph put wind back in sails of the renewables sector?",
-    "summary": "Future brightens for US developers in particular after election when voters rejected Trump’s war on clean energy.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/05/democrats-midterms-triumph-renewable-energy-industry-donald-trump",
-    "publishedAt": "2026-11-05T06:00:55.000Z"
-  },
-  {
-    "id": "094ffeabc7a47667",
-    "title": "Why do sausage rolls and veterinary fees vary in price across London?",
-    "summary": "Location is not just the only factor on why prices differ across London, as Anna O'Neill finds out.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo",
-    "publishedAt": "2026-11-05T05:56:46.000Z"
-  },
-  {
-    "id": "e777da9b27df1be3",
-    "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
-    "summary": "Netanyahu's rivals say US midterm results show Israel 'cannot afford' to have the prime minister remain in office.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
-    "publishedAt": "2026-11-05T05:39:31.000Z"
-  },
-  {
-    "id": "cdbb2ad09964547d",
-    "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
-    "summary": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
-    "publishedAt": "2026-11-05T05:29:56.000Z"
-  },
-  {
-    "id": "d2a790475a6b1e2d",
-    "title": "Lured into an online scam network, an African man spent almost a year in Cambodia trying to go home",
-    "summary": "In Cambodia, workers carried out online scams against people worldwide from inside massive fortified buildings they weren't allowed to leave.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/lured-online-scam-network-african-man-spent-year-137867333",
-    "publishedAt": "2026-11-05T05:26:58.000Z"
-  },
-  {
-    "id": "d1ee860af234a2c2",
-    "title": "Bank of England set to hike interest rates to tackle higher inflation caused by Iran war",
-    "summary": "The Bank of England is expected to raise interest rates for the first time in over three years in order to tackle the inflation shock caused by the Iran war.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/bank-england-set-hike-interest-rates-tackle-higher-137867519",
-    "publishedAt": "2026-11-05T05:26:28.000Z"
-  },
-  {
-    "id": "01ea23767caf265e",
-    "title": "‘Bring it on’: Pauline Hanson to appeal Mehreen Faruqi racial discrimination ruling in high court",
-    "summary": "One Nation leader granted special leave to appeal after full federal court earlier this year agreed Hanson portrayed Faruqi as a ‘second-class citizen’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/05/pauline-hanson-to-appeal-mehreen-faruqi-racial-discrimination-ruling-high-court-ntwnfb",
-    "publishedAt": "2026-11-05T05:03:08.000Z"
-  },
-  {
-    "id": "9e0176657cd228bd",
-    "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
-    "summary": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
-    "publishedAt": "2026-11-05T05:00:55.000Z"
-  },
-  {
-    "id": "31049809d2ca2a17",
-    "title": "Lab-grown meat was supposed to save the world. What happened?",
-    "summary": "We were promised a panacea for the climate crisis and a way to save our food system. So why is nobody firing up the chicken vats?",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/05/lab-grown-meat-save-the-world-food-revolution-climate-crisis-food-system",
-    "publishedAt": "2026-11-05T05:00:54.000Z"
   }
 ]
