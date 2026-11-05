@@ -1,5 +1,95 @@
 [
   {
+    "id": "a043cda1bcb1b69d",
+    "title": "Paraguay President Santiago Peña resigns after bank collapse",
+    "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo",
+    "publishedAt": "2026-11-05T17:14:41.000Z"
+  },
+  {
+    "id": "bfd986f819869537",
+    "title": "Interest rates hiked to 4% in first increase in over three years",
+    "summary": "Most analysts expected the increase from 3.75% to 4%.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
+    "publishedAt": "2026-11-05T17:09:55.000Z"
+  },
+  {
+    "id": "d67f13e39240331f",
+    "title": "K-pop group NewJeans’s contract omitted rights to ‘sleep and free choice’ – report",
+    "summary": "New report finds that record label Ador stripped child protections from group’s contracts when they were minors.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/05/k-pop-group-newjeans-contract",
+    "publishedAt": "2026-11-05T17:08:29.000Z"
+  },
+  {
+    "id": "c007e426e5dbe2c9",
+    "title": "Washington state passes ballot measure banning trans girls from school sports",
+    "summary": "Measure in Democratic state says students must submit health documents verifying biological sex for girls’ teams.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/washington-ballot-measure-trans-athlete-ban",
+    "publishedAt": "2026-11-05T17:02:02.000Z"
+  },
+  {
+    "id": "a09ac2cdda652bed",
+    "title": "EU presses UK to guarantee discounted university tuition fees for European students",
+    "summary": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
+    "publishedAt": "2026-11-05T16:58:54.000Z"
+  },
+  {
+    "id": "b43a95e51bed2bb6",
+    "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+    "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+    "publishedAt": "2026-11-05T16:44:38.000Z"
+  },
+  {
+    "id": "0f368e00ea6a65f1",
+    "title": "Leon Black sues US congressman Robert Garcia for $7.5m over Epstein comments",
+    "summary": "Black in defamation lawsuit alleges California lawmaker made false statements about his ties to Jeffrey Epstein.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/leon-black-sues-congressman-robert-garcia-epstein",
+    "publishedAt": "2026-11-05T16:44:08.000Z"
+  },
+  {
+    "id": "f925cb28aa9fb326",
+    "title": "Republicans hoping to succeed Trump in 2028 dissect midterm rout",
+    "summary": "JD Vance, Ron DeSantis and Ted Cruz all pointed to Iran war and affordability as key factors in Democratic victory.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/republicans-cruz-desantis-vance-midterm-rout",
+    "publishedAt": "2026-11-05T16:36:43.000Z"
+  },
+  {
+    "id": "4bf32da94e2c6cf1",
+    "title": "Burnham wants to ‘recast’ Chagos Islands deal after US resistance",
+    "summary": "UK PM says he wants ‘a new discussion’ with Washington over the disputed islands.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/05/andy-burnham-recast-chagos-islands-deal-us-resistance",
+    "publishedAt": "2026-11-05T16:17:48.000Z"
+  },
+  {
+    "id": "24d34b556c18b89a",
+    "title": "Vance eyes 2028 reset, as Republicans mull pivot after US midterms drubbing",
+    "summary": "A Democratic 'blue tsunami' in the US midterms shines a light on emerging distaste for Trump's brand among Republicans.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/vance-eyes-2028-reset-as-republicans-mull-pivot-after-us-midterms-drubbing?traffic_source=rss",
+    "publishedAt": "2026-11-05T16:12:35.000Z"
+  },
+  {
     "id": "886ff55cf7f096eb",
     "title": "Top Japan FA official to stand against Infantino for FIFA presidency",
     "summary": "Kozo Tashima second person to declare he will challenge Infantino, after former Spurs defender Ramon Vega.",
@@ -7,6 +97,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/5/top-japan-fa-official-to-stand-against-infantino-for-fifa-presidency?traffic_source=rss",
     "publishedAt": "2026-11-05T15:52:15.000Z"
+  },
+  {
+    "id": "d0219fba19e5b1ff",
+    "title": "Nigerian court nullifies presidential contender’s candidacy 2 months before election",
+    "summary": "A Nigerian court has disqualified a leading presidential candidate, complicating the electoral process two months before the election.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/nigerian-court-nullifies-presidential-contenders-candidacy-2-months-137880665",
+    "publishedAt": "2026-11-05T15:48:40.000Z"
   },
   {
     "id": "b0af4125ef1eddab",
@@ -376,6 +475,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
     "publishedAt": "2026-11-05T12:32:52.000Z"
+  },
+  {
+    "id": "1be1b35187a51b3d",
+    "title": "Hong Kong pro-democracy activist faces sentencing in 2nd national security case",
+    "summary": "A Hong Kong court has sentenced activist Joshua Wong to 10 more years in prison under a national security law imposed by Beijing.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/hong-kong-pro-democracy-activist-joshua-wong-faces-137861278",
+    "publishedAt": "2026-11-05T12:26:43.000Z"
   },
   {
     "id": "0987c826d294237a",
@@ -1240,113 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o",
     "publishedAt": "2026-11-05T03:47:56.000Z"
-  },
-  {
-    "id": "47be2d65b84fedb4",
-    "title": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
-    "summary": "Defence cooperation deal signed as Syria's President al-Sharaa visits Riyadh for the second time in less than a month.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss",
-    "publishedAt": "2026-11-05T03:46:13.000Z"
-  },
-  {
-    "id": "267a3d44069358d9",
-    "title": "What’s delaying US midterm election calls in Mississippi and Alaska?",
-    "summary": "Ranked-choice voting may decide Alaska's Senate outcome, while Mississippi's race hangs on a knife's edge.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska?traffic_source=rss",
-    "publishedAt": "2026-11-05T03:13:08.000Z"
-  },
-  {
-    "id": "100c3d8e9d56a64f",
-    "title": "El Salvador’s Bukele touts military intervention in Haiti",
-    "summary": "Haitian police have found a vehicle used by four missing Salvadoran technicians as Salvadoran troops deploy to Haiti.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
-    "publishedAt": "2026-11-05T02:10:07.000Z"
-  },
-  {
-    "id": "a34d7ff55c13596e",
-    "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
-    "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo",
-    "publishedAt": "2026-11-05T02:09:23.000Z"
-  },
-  {
-    "id": "abd582576399ef7a",
-    "title": "Election deniers lose races for governor in key US swing states",
-    "summary": "State leaders can hold significant sway over election administration, with implications for the 2028 presidential race.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
-    "publishedAt": "2026-11-05T02:06:07.000Z"
-  },
-  {
-    "id": "536c75ac15737ad9",
-    "title": "Elon Musk’s nearly half a billion dollars in midterms spending was a flop",
-    "summary": "The tech billionaire set spending record as he poured $446m into campaigns for failed Republican candidates.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
-    "publishedAt": "2026-11-05T02:00:50.000Z"
-  },
-  {
-    "id": "ad95dc40e0c4fe85",
-    "title": "3M to pay more than $US7b to settle groundwater contamination lawsuit",
-    "summary": "The chemical manufacturer will pay the money over nine years to as many as 120,000 people who say they were harmed by exposure to PFAS.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-05/3m-agrees-to-pay-7-billion-to-settle-forever-chemical-claims/107349276",
-    "publishedAt": "2026-11-05T01:56:30.000Z"
-  },
-  {
-    "id": "38872a19a0361941",
-    "title": "Israel’s Herzog accepts vote results, opens talks on forming a government",
-    "summary": "Move deals blow to Netanyahu's efforts to discredit the elections, in which he and his allies lost their majority.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
-    "publishedAt": "2026-11-05T01:53:30.000Z"
-  },
-  {
-    "id": "82ee4fe6ffe0c139",
-    "title": "Former police officer Beau Lamarre-Condon enters witness box in Sydney double murder trial",
-    "summary": "Lamarre-Condon gives evidence in court after pleading not guilty to murdering Jesse Baird and Luke Davies in early 2024.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
-    "publishedAt": "2026-11-05T01:47:59.000Z"
-  },
-  {
-    "id": "f82ff91c0c10f36c",
-    "title": "Datacenters were on the ballot. US voters rejected them",
-    "summary": "Voters approved nearly every datacenter moratorium that was on the ballot, dozens in total in Tuesday’s elections.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections",
-    "publishedAt": "2026-11-05T01:30:14.000Z"
-  },
-  {
-    "id": "5a30f69e735f90af",
-    "title": "Authorities say multiple grizzlies may have attacked mother and daughter found dead",
-    "summary": "Authorities in British Columbia say more than one grizzly may have been involved in a bear attack that relatives say left a mother and daughter dead along the province’s central coast.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/canadian-authorities-multiple-grizzlies-attacked-mother-daughter-found-137863509",
-    "publishedAt": "2026-11-05T01:13:21.000Z"
-  },
-  {
-    "id": "fc681865f7e14d91",
-    "title": "Australia's oldest department store David Jones collapses after 188 years",
-    "summary": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o",
-    "publishedAt": "2026-11-05T00:59:22.000Z"
   }
 ]
