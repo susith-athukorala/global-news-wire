@@ -1,5 +1,50 @@
 [
   {
+    "id": "e925c5bcc0e1d62e",
+    "title": "The NHS is relying more on charities - and that might be creating problems for patients",
+    "summary": "Is it symptom a health service at breaking point - or a positive way of involving the public?",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c65yn75g9d18o",
+    "publishedAt": "2026-11-05T00:12:30.000Z"
+  },
+  {
+    "id": "5a94466b8567c50b",
+    "title": "Milburn review to call for jobs ’revolution’ for young people with disabilities",
+    "summary": "Exclusive: Government should introduce ‘flexi-jobs’ alongside subsidies and skills support, former minister will say.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets",
+    "publishedAt": "2026-11-05T00:01:47.000Z"
+  },
+  {
+    "id": "bfd986f819869537",
+    "title": "Interest rates expected to rise for first time in over three years",
+    "summary": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
+    "publishedAt": "2026-11-05T00:00:09.000Z"
+  },
+  {
+    "id": "1be1b35187a51b3d",
+    "title": "Hong Kong pro-democracy activist faces sentencing in 2nd national security case",
+    "summary": "Prominent Hong Kong activist Joshua Wong is expected to be sentenced Thursday for his second conviction under a Beijing-imposed national security law.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/hong-kong-pro-democracy-activist-joshua-wong-faces-137861278",
+    "publishedAt": "2026-11-04T23:58:13.000Z"
+  },
+  {
+    "id": "644131b2557e0258",
+    "title": "Sudan, Ethiopia order tit-for-tat diplomatic expulsions",
+    "summary": "Sudan accuses Ethiopia of aiding RSF attacks, while Ethiopia claims Sudan backs Tigray rebels.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
+    "publishedAt": "2026-11-04T23:43:26.000Z"
+  },
+  {
     "id": "7cdab45567231a47",
     "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
     "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
@@ -133,6 +178,15 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-05/us-midterms-daily-news-briefing/107347184",
     "publishedAt": "2026-11-04T20:37:23.000Z"
+  },
+  {
+    "id": "63604ba0992fe055",
+    "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+    "summary": "Bob Dylan has come knockin’ on Pope Leo XIV’s door.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/bob-dylan-knockin-popes-door-leo-welcomes-legend-137857488",
+    "publishedAt": "2026-11-04T20:34:30.000Z"
   },
   {
     "id": "241809323e1aa4ac",
@@ -466,6 +520,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o",
     "publishedAt": "2026-11-04T16:40:38.000Z"
+  },
+  {
+    "id": "9ab2af0f08b38aba",
+    "title": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
+    "summary": "Government bond yields fall while initial fears ease over impact of election results on world’s biggest economy.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+    "publishedAt": "2026-11-04T16:38:28.000Z"
   },
   {
     "id": "7d0bb5542725cb74",
@@ -1080,6 +1143,15 @@
     "publishedAt": "2026-11-04T12:30:29.000Z"
   },
   {
+    "id": "89f4b563a1fc0545",
+    "title": "Indonesia deploys troops to boost Jakarta's security after generals' arrest",
+    "summary": "Indonesia's military is deploying over 20,000 troops to Jakarta amid a wiretapping scandal suspected of targeting President Prabowo Subianto.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/indonesias-military-deploys-thousands-troops-boost-jakartas-security-137838412",
+    "publishedAt": "2026-11-04T12:26:22.000Z"
+  },
+  {
     "id": "43d16c1970abe6ad",
     "title": "Poundland owner in crunch talks as retailer's collapse looms",
     "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
@@ -1276,77 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o",
     "publishedAt": "2026-11-04T10:47:31.000Z"
-  },
-  {
-    "id": "8612c432abb2b2c2",
-    "title": "Houthis’ monthlong siege on Taiz creating misery for trapped Yemenis",
-    "summary": "Blockade prompts warnings of a 'catastrophe' as food, water, fuel and medical supplies are unable to reach city.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/houthis-one-month-siege-on-taiz-is-creating-hell-for-yemenis-stuck-there?traffic_source=rss",
-    "publishedAt": "2026-11-04T10:44:46.000Z"
-  },
-  {
-    "id": "9008a119bd49e058",
-    "title": "Democrats win control of House and Senate: Key US midterms takeaways",
-    "summary": "This is the first time in 20 years that a Republican president has lost both houses of US Congress.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways?traffic_source=rss",
-    "publishedAt": "2026-11-04T10:39:52.000Z"
-  },
-  {
-    "id": "f151543a7eec0ce3",
-    "title": "Israel vote results confirmed as election commission rejects fraud claims",
-    "summary": "Netanyahu’s allies refused to back the result, as President Herzog began talks on who should form the next government.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims?traffic_source=rss",
-    "publishedAt": "2026-11-04T10:37:21.000Z"
-  },
-  {
-    "id": "5d1b80f05de4b009",
-    "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
-    "summary": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6073l9y15xxo",
-    "publishedAt": "2026-11-04T10:15:42.000Z"
-  },
-  {
-    "id": "6c2c33810cc6c37f",
-    "title": "From education to housing protests, Palestine’s flag spreads across Europe",
-    "summary": "Symbols such as the flag and keffiyeh represent anti-colonial struggles but some question their use amid mass rallies.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/palestinian-flag-in-eu-demonstrations?traffic_source=rss",
-    "publishedAt": "2026-11-04T10:10:08.000Z"
-  },
-  {
-    "id": "ceb3fa29e214157d",
-    "title": "Indonesian president’s chief of staff dismissed over alleged wiretapping",
-    "summary": "Gov't says Listyo may have committed 'treason' after he is arrested and accused of wiretapping top officials' phones.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/indonesian-presidents-chief-of-staff-dismissed-over-alleged?traffic_source=rss",
-    "publishedAt": "2026-11-04T10:07:36.000Z"
-  },
-  {
-    "id": "6b9f9bbb9a8a0e9f",
-    "title": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
-    "summary": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c893z55pxrewo",
-    "publishedAt": "2026-11-04T10:03:19.000Z"
-  },
-  {
-    "id": "4ccb055f9909718e",
-    "title": "‘A true icon of the hair industry’: Celebrity hairstylist John Frieda dies aged 75",
-    "summary": "Businessman styled stars such as Twiggy, Madonna and Joanna Lumley and created popular hair care line Frizz Ease.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/04/celebrity-hairstylist-john-frieda-dies-aged-75",
-    "publishedAt": "2026-11-04T09:59:08.000Z"
   }
 ]
