@@ -1,5 +1,86 @@
 [
   {
+    "id": "e3b6f3acb88b251a",
+    "title": "Ronaldo retires from Portugal duty",
+    "summary": "Portugal legend Cristiano Ronaldo says he is retiring from international football.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o",
+    "publishedAt": "2026-11-05T11:17:03.000Z"
+  },
+  {
+    "id": "62d367a8bbe94969",
+    "title": "Rural voters were feeling left behind before the midterms, poll shows",
+    "summary": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
+    "publishedAt": "2026-11-05T11:00:22.000Z"
+  },
+  {
+    "id": "aaf887c1b39d907b",
+    "title": "How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil",
+    "summary": "Older voters praised for helping tip balance in leftwing president’s favour against far-right Flávio Bolsonaro in runoff.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro",
+    "publishedAt": "2026-11-05T11:00:21.000Z"
+  },
+  {
+    "id": "2d752511d14843ee",
+    "title": "Cristiano Ronaldo announces retirement from international football",
+    "summary": "The 41-year-old Portuguese legend says he will 'hand back the number 7 shirt' in social media post.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football?traffic_source=rss",
+    "publishedAt": "2026-11-05T10:57:26.000Z"
+  },
+  {
+    "id": "757b63f885e26cb2",
+    "title": "Japan's Sony reports a hefty profit on the back of its blockbuster 'Spider-Man' movie",
+    "summary": "Japanese electronics and entertainment company Sony has reported a 44% surge in its profit in July-September, largely on the box office success of its movie, “Spider-Man: Brand New Day.”",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/japans-sony-reports-hefty-profit-back-blockbuster-spider-137869766",
+    "publishedAt": "2026-11-05T10:44:16.000Z"
+  },
+  {
+    "id": "095910f368f91d58",
+    "title": "Serbian officers arrested for using ‘excessive force’ against protesters",
+    "summary": "Ten suspects are accused of abusing and torturing several people in the garage of a government compound in Belgrade.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss",
+    "publishedAt": "2026-11-05T10:34:42.000Z"
+  },
+  {
+    "id": "179aa43485e666a5",
+    "title": "France gears up for strikes and protests as unions promise national mobilisation",
+    "summary": "Five of France's unions have joined a wave of strikes and protests in a national day of action.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
+    "publishedAt": "2026-11-05T10:26:03.000Z"
+  },
+  {
+    "id": "b712a913862380e1",
+    "title": "‘Helpless’: The families facing winter in tents on the beach in Gaza",
+    "summary": "An innovative idea to turn damaged cooking pots into seawater barriers is providing families in Gaza with some relief.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-05T10:25:28.000Z"
+  },
+  {
+    "id": "e24eadb1154e0696",
+    "title": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
+    "summary": "US Vice President JD Vance blames the war for the midterm rout as Democrats prepare to use Congress to rein it in.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss",
+    "publishedAt": "2026-11-05T10:24:14.000Z"
+  },
+  {
     "id": "d39892909fefad32",
     "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
     "summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
@@ -43,6 +124,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/05/south-west-water-failure-fix-leaks-putting-customer-supplies-at-risk",
     "publishedAt": "2026-11-05T10:00:02.000Z"
+  },
+  {
+    "id": "5ba4bbb36290c0df",
+    "title": "‘It’s so glossy and sexy’: 10 movies (and one TV show) that inspired Grand Theft Auto",
+    "summary": "As GTA 6 looms, we look at the films that have influenced Rockstar’s creatives, from Heat to Bonnie and Clyde, via Boyz n the Hood and Speed.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/05/its-so-glossy-and-sexy-10-movies-and-one-tv-show-that-inspired-grand-theft-auto",
+    "publishedAt": "2026-11-05T10:00:01.000Z"
   },
   {
     "id": "029a75e7dbe1fd56",
@@ -106,6 +196,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o",
     "publishedAt": "2026-11-05T09:05:11.000Z"
+  },
+  {
+    "id": "adf6e87a07b7a95f",
+    "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
+    "summary": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o",
+    "publishedAt": "2026-11-05T09:04:42.000Z"
   },
   {
     "id": "b52c21410b592f46",
@@ -981,6 +1080,15 @@
     "publishedAt": "2026-11-04T19:42:47.000Z"
   },
   {
+    "id": "8e52d7bfe24861b1",
+    "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+    "summary": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
+    "publishedAt": "2026-11-04T19:38:53.000Z"
+  },
+  {
     "id": "6af0c17bddcf8c31",
     "title": "Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win",
     "summary": "Democratic leader says party expects at least 255 House seats and promises to deliver on affordability.",
@@ -1240,113 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/04/airbnb-can-be-positive-for-the-community",
     "publishedAt": "2026-11-04T17:00:43.000Z"
-  },
-  {
-    "id": "b4d4324a953f03f6",
-    "title": "Iran's chief negotiator says Americans voted 'no to war'",
-    "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
-    "publishedAt": "2026-11-04T16:59:15.000Z"
-  },
-  {
-    "id": "df9b2b3134fcea67",
-    "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
-    "summary": "The cult Italian film-maker began as an assistant to Roberto Rossellini but moved into sex films, believing ‘eroticism to be a fundamental key to human expression’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
-    "publishedAt": "2026-11-04T16:47:15.000Z"
-  },
-  {
-    "id": "aa4442be3245ce91",
-    "title": "‘Never in a million years’: alligator strolls into North Carolina bagel shop",
-    "summary": "3ft-long reptile was looking for a meal before animal protective services safely removed it from establishment.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/alligator-north-carolina-bagel-shop",
-    "publishedAt": "2026-11-04T16:40:50.000Z"
-  },
-  {
-    "id": "ef1837cfe8555839",
-    "title": "'Most difficult days of my life' for keeper Owono",
-    "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o",
-    "publishedAt": "2026-11-04T16:40:38.000Z"
-  },
-  {
-    "id": "9ab2af0f08b38aba",
-    "title": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
-    "summary": "Government bond yields fall while initial fears ease over impact of election results on world’s biggest economy.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
-    "publishedAt": "2026-11-04T16:38:28.000Z"
-  },
-  {
-    "id": "7d0bb5542725cb74",
-    "title": "The young politicians with African roots making history in the US midterms",
-    "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo",
-    "publishedAt": "2026-11-04T16:34:32.000Z"
-  },
-  {
-    "id": "4e302aa30a448624",
-    "title": "British healthcare worker with Ebola to be evacuated from DRC to UK, document shows",
-    "summary": "Patient, who is ⁠in ​stable condition, is expected to arrive in Britain on Wednesday or Thursday.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
-    "publishedAt": "2026-11-04T16:32:31.000Z"
-  },
-  {
-    "id": "d0df969e1ed965b9",
-    "title": "Ukrainian strikes kill three in Russia’s Belgorod region",
-    "summary": "Russian strikes also cut power to Ukrainian cities as Moscow claims 700 Ukrainian drones downed across multiple regions.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
-    "publishedAt": "2026-11-04T16:20:23.000Z"
-  },
-  {
-    "id": "381c8f769b280439",
-    "title": "French blood supplies impacted by freezer hacks as theories swirl about culprits",
-    "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro",
-    "publishedAt": "2026-11-04T16:14:57.000Z"
-  },
-  {
-    "id": "d9ab988a6a7ce8eb",
-    "title": "After the US midterms, what will a lame duck Trump mean for the global economy?",
-    "summary": "Republicans’ crushing setback will play out in stock markets, inflation, interest rates and economic growth.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets",
-    "publishedAt": "2026-11-04T15:56:30.000Z"
-  },
-  {
-    "id": "190c0c9609d8394e",
-    "title": "Cambridge asks Post Office inquiry barrister to lead review into death of Jason Arday",
-    "summary": "Jason Beer KC will examine ‘policies and procedures’ in tragic case of the university’s youngest black professor.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/04/cambridge-university-asks-barrister-to-lead-jason-arday-review",
-    "publishedAt": "2026-11-04T15:54:19.000Z"
-  },
-  {
-    "id": "98fc07a1912c8cdc",
-    "title": "BBC attempts to reassure Jewish staff after ex-producer says she faced antisemitism",
-    "summary": "Deputy director general Rhodri Talfan Davies meets staff group after case of Lucie Kon prompted calls for inquiry.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/04/bbc-attempts-reassure-jewish-staff-antisemitism-rhodri-talfan-davies",
-    "publishedAt": "2026-11-04T15:52:03.000Z"
   }
 ]
