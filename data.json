@@ -1,5 +1,23 @@
 [
   {
+    "id": "0987c826d294237a",
+    "title": "Investigation into 'major fish kill' after pollution incident",
+    "summary": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o",
+    "publishedAt": "2026-11-05T12:26:00.000Z"
+  },
+  {
+    "id": "26d1bad527e07a1f",
+    "title": "Teens worldwide aren't getting enough exercise -- especially girls",
+    "summary": "A new study looks at the recommended amount of daily exercise for adolescents — and how few are getting it.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
+    "publishedAt": "2026-11-05T12:24:14.000Z"
+  },
+  {
     "id": "ebf53c76bc0ccbbd",
     "title": "Three ways the interest rate rise could affect you",
     "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
@@ -7,6 +25,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o",
     "publishedAt": "2026-11-05T12:11:04.000Z"
+  },
+  {
+    "id": "a582647bb3efd945",
+    "title": "Security ⁠officer killed in stabbing attack in Jordan’s capital",
+    "summary": "This is a breaking news story.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/security-%e2%81%a0officer-killed-in-stabbing-attack-in-jordans-capital?traffic_source=rss",
+    "publishedAt": "2026-11-05T12:04:00.000Z"
   },
   {
     "id": "a72192c804a4b46a",
@@ -1026,6 +1053,15 @@
     "publishedAt": "2026-11-04T22:53:29.000Z"
   },
   {
+    "id": "7f5a2e7845539490",
+    "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+    "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o",
+    "publishedAt": "2026-11-04T22:48:43.000Z"
+  },
+  {
     "id": "4507554b7cbc8e35",
     "title": "Democratic Socialists of America see record wins in US midterm elections",
     "summary": "The left-wing movement has won support for its views on issues like the war in Gaza and universal healthcare.",
@@ -1312,41 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/us-midterms-2026-what-key-races-remain-undecided?traffic_source=rss",
     "publishedAt": "2026-11-04T19:18:47.000Z"
-  },
-  {
-    "id": "cbdc43bd52164429",
-    "title": "Democrat Jon Rosenthal elected Texas railroad commissioner over controversial Republican Bo French",
-    "summary": "State representative Rosenthal’s win comes after national backlash to French’s social media remarks targeting south Asian Americans.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/jon-rosenthal-texas-railroad-commissioner",
-    "publishedAt": "2026-11-04T19:13:37.000Z"
-  },
-  {
-    "id": "e1161a197a1d3e7e",
-    "title": "Billions in revenue proves Fifa right on the World Cup – but only on things it cares about",
-    "summary": "The 2026 edition of the tournament brought in untold amounts of money to Gianni Infantino’s governing body.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/football/2026/nov/04/fifa-world-cup-billions-revenue",
-    "publishedAt": "2026-11-04T19:02:48.000Z"
-  },
-  {
-    "id": "7ecc8bd9bb7c717b",
-    "title": "Ex-Prince Andrew called to testify in civil case, 1st royal in 156 years to get witness summons",
-    "summary": "The former Prince Andrew has been called to testify as a witness in a civil fraud trial, marking what is believed to be the first time in more than 150 years that a member of the royal family has received a witness summons.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/prince-andrew-called-testify-civil-case-1st-royal-137846587",
-    "publishedAt": "2026-11-04T19:01:27.000Z"
-  },
-  {
-    "id": "f0c673c1a1d7a0fe",
-    "title": "Haitian police say they found vehicle of 4 missing Salvadorans as search continues",
-    "summary": "Haiti’s National Police agency has found the charred remains of a vehicle used by four missing Salvadoran aviation technicians.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/haitian-police-found-vehicle-4-missing-salvadorans-search-137846644",
-    "publishedAt": "2026-11-04T19:01:24.000Z"
   }
 ]
