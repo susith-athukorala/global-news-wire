@@ -1,5 +1,23 @@
 [
   {
+    "id": "100c3d8e9d56a64f",
+    "title": "El Salvador’s Bukele touts military intervention in Haiti",
+    "summary": "Haitian police have found a vehicle used by four missing Salvadoran technicians as Salvadoran troops deploy to Haiti.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
+    "publishedAt": "2026-11-05T02:10:07.000Z"
+  },
+  {
+    "id": "abd582576399ef7a",
+    "title": "Election deniers lose races for governor in key US swing states",
+    "summary": "State leaders can hold significant sway over election administration, with implications for the 2028 presidential race.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
+    "publishedAt": "2026-11-05T02:06:07.000Z"
+  },
+  {
     "id": "536c75ac15737ad9",
     "title": "Elon Musk’s nearly half a billion dollars in midterms spending was a flop",
     "summary": "The tech billionaire set spending record as he poured $446m into campaigns for failed Republican candidates.",
@@ -7,6 +25,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
     "publishedAt": "2026-11-05T02:00:50.000Z"
+  },
+  {
+    "id": "ad95dc40e0c4fe85",
+    "title": "3M to pay more than $US7b to settle groundwater contamination lawsuit",
+    "summary": "The chemical manufacturer will pay the money over nine years to as many as 120,000 people who say they were harmed by exposure to PFAS.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-05/3m-agrees-to-pay-7-billion-to-settle-forever-chemical-claims/107349276",
+    "publishedAt": "2026-11-05T01:56:30.000Z"
   },
   {
     "id": "38872a19a0361941",
@@ -1321,32 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts",
     "publishedAt": "2026-11-04T11:58:19.000Z"
-  },
-  {
-    "id": "79b237eb782cc5e6",
-    "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
-    "summary": "A U.S. cruise ship that suspended its operations in Cambodia has left with only crew aboard, according to Cambodian officials.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/stranded-cruise-ship-odyssey-leaves-cambodia-passengers-137840393",
-    "publishedAt": "2026-11-04T11:49:41.000Z"
-  },
-  {
-    "id": "f9ed4598751316a4",
-    "title": "ANC under pressure to reverse South Africa decline",
-    "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo",
-    "publishedAt": "2026-11-04T11:47:44.000Z"
-  },
-  {
-    "id": "ba81f50958caa0dd",
-    "title": "Firework noise limit should be drastically cut to protect wild animals, UK government told",
-    "summary": "Ministers urged to go further than proposed cut to 110 decibels to ease acute stress on birds and others animals.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/04/firework-noise-limit-protect-wild-animals-bonfire-night",
-    "publishedAt": "2026-11-04T11:47:33.000Z"
   }
 ]
