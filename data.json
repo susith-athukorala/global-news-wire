@@ -1,5 +1,77 @@
 [
   {
+    "id": "81edee9bcdaaddff",
+    "title": "Democrats won on affordability. Can they deliver it?",
+    "summary": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o",
+    "publishedAt": "2026-11-05T06:01:05.000Z"
+  },
+  {
+    "id": "f84e4846097a655c",
+    "title": "Norman conquest castle and Dickens chalet among sites added to heritage at risk register",
+    "summary": "William the Conquerer-built Hastings Castle and Swiss-style writing retreat in Kent two of nearly 200 additions to list.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/artanddesign/2026/nov/05/hastings-castle-dickens-chalet-heritage-at-risk-register",
+    "publishedAt": "2026-11-05T06:00:56.000Z"
+  },
+  {
+    "id": "094ffeabc7a47667",
+    "title": "Why do sausage rolls and veterinary fees vary in price across London?",
+    "summary": "Location is not just the only factor on why prices differ across London, as Anna O'Neill finds out.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo",
+    "publishedAt": "2026-11-05T05:56:46.000Z"
+  },
+  {
+    "id": "e777da9b27df1be3",
+    "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
+    "summary": "Netanyahu's rivals say US midterm results show Israel 'cannot afford' to have the prime minister remain in office.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
+    "publishedAt": "2026-11-05T05:39:31.000Z"
+  },
+  {
+    "id": "cdbb2ad09964547d",
+    "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+    "summary": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+    "publishedAt": "2026-11-05T05:29:56.000Z"
+  },
+  {
+    "id": "d2a790475a6b1e2d",
+    "title": "Lured into an online scam network, an African man spent almost a year in Cambodia trying to go home",
+    "summary": "In Cambodia, workers carried out online scams against people worldwide from inside massive fortified buildings they weren't allowed to leave.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/lured-online-scam-network-african-man-spent-year-137867333",
+    "publishedAt": "2026-11-05T05:26:58.000Z"
+  },
+  {
+    "id": "d1ee860af234a2c2",
+    "title": "Bank of England set to hike interest rates to tackle higher inflation caused by Iran war",
+    "summary": "The Bank of England is expected to raise interest rates for the first time in over three years in order to tackle the inflation shock caused by the Iran war.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/bank-england-set-hike-interest-rates-tackle-higher-137867519",
+    "publishedAt": "2026-11-05T05:26:28.000Z"
+  },
+  {
+    "id": "01ea23767caf265e",
+    "title": "‘Bring it on’: Pauline Hanson to appeal Mehreen Faruqi racial discrimination ruling in high court",
+    "summary": "One Nation leader granted special leave to appeal after full federal court earlier this year agreed Hanson portrayed Faruqi as a ‘second-class citizen’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/05/pauline-hanson-to-appeal-mehreen-faruqi-racial-discrimination-ruling-high-court-ntwnfb",
+    "publishedAt": "2026-11-05T05:03:08.000Z"
+  },
+  {
     "id": "9e0176657cd228bd",
     "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
     "summary": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification.",
@@ -43,6 +115,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/food/2026/nov/05/italian-chef-sacked-refusing-pineapple-on-pizza-australia-fair-work",
     "publishedAt": "2026-11-05T04:53:28.000Z"
+  },
+  {
+    "id": "297097115c5a04ac",
+    "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
+    "summary": "EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
+    "publishedAt": "2026-11-05T04:49:56.000Z"
   },
   {
     "id": "444853f1d6b126c9",
@@ -1267,86 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o",
     "publishedAt": "2026-11-04T13:33:30.000Z"
-  },
-  {
-    "id": "0e9c205bcc442be1",
-    "title": "Iran hails US voters rejecting war while Khamenei warns hostility won’t end",
-    "summary": "Iranian officials see Republican midterm losses in a positive light, but supreme leader says US policy will not shift.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss",
-    "publishedAt": "2026-11-04T13:26:44.000Z"
-  },
-  {
-    "id": "88e83951d1ca16a3",
-    "title": "Nadal set to join Real Madrid board of directors",
-    "summary": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo",
-    "publishedAt": "2026-11-04T13:21:01.000Z"
-  },
-  {
-    "id": "28b7aeb78bb581f2",
-    "title": "Police say explosive devices found in Belfast are linked to ‘rightwing terrorism’",
-    "summary": "Suspect arrested after police uncover stash of 17 improvised explosive devices in operation.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/04/weapons-haul-belfast-linked-to-far-right",
-    "publishedAt": "2026-11-04T13:12:36.000Z"
-  },
-  {
-    "id": "b0b277a7828091b0",
-    "title": "Russian strikes disrupt water and power in Kyiv as rescuers still search for survivors in the south",
-    "summary": "Russian attacks on critical infrastructure have caused power and water outages in Kyiv and surrounding areas that lasted hours.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/russian-strikes-disrupt-water-power-kyiv-rescuers-search-137839563",
-    "publishedAt": "2026-11-04T13:09:25.000Z"
-  },
-  {
-    "id": "0f18c7c2de0a6697",
-    "title": "French blood banks hacked in latest cyber-attack on Europe",
-    "summary": "Temperature and defrosting thresholds raised to ‘very high levels’ at three cold stores stocking vital blood products.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
-    "publishedAt": "2026-11-04T13:03:39.000Z"
-  },
-  {
-    "id": "850b48df5599cd83",
-    "title": "Why are Europe’s governments struggling to respond to growing protests?",
-    "summary": "Protests intensify as governments prioritise security measures over addressing underlying social and economic concerns.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/why-are-europes-governments-struggling-to-respond-to-growing-protests?traffic_source=rss",
-    "publishedAt": "2026-11-04T13:03:07.000Z"
-  },
-  {
-    "id": "4e64cd6e38f538c3",
-    "title": "US midterms voters said: enough is enough. Is this the beginning of the end for Trump?",
-    "summary": "With Democrats in power, Trump may be under siege and lose his dominance over the Republican party – but his id will relish at the prospect of fighting.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/us-midterms-is-it-the-end-for-trump",
-    "publishedAt": "2026-11-04T13:01:43.000Z"
-  },
-  {
-    "id": "4ca42fa150635b76",
-    "title": "US contractor admits passing US top-secret information to Ethiopia",
-    "summary": "A former U.S. government contractor has admitted to passing classified intelligence to Ethiopia, which officials used in military operations.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/us-contractor-admits-passing-us-top-secret-information-137841130",
-    "publishedAt": "2026-11-04T13:00:32.000Z"
-  },
-  {
-    "id": "819f288cbdaf046d",
-    "title": "Tennis great Rafael Nadal set to join Real Madrid board",
-    "summary": "The 22-time Grand Slam winner is to be ratified onto club's board of directors.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/4/tennis-great-rafael-nadal-set-to-join-real-madrid-board?traffic_source=rss",
-    "publishedAt": "2026-11-04T13:00:07.000Z"
   }
 ]
