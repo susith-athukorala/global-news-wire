@@ -1,5 +1,59 @@
 [
   {
+    "id": "9e0176657cd228bd",
+    "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+    "summary": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+    "publishedAt": "2026-11-05T05:00:55.000Z"
+  },
+  {
+    "id": "dd7f854fb23ebfd7",
+    "title": "Protesters to join nationwide march as France braces for day of strike action",
+    "summary": "Hospital workers, air traffic and rail staff expected to join strikes amid renewed protests over education and rising living costs.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+    "publishedAt": "2026-11-05T05:00:54.000Z"
+  },
+  {
+    "id": "bab7886ab0e6b047",
+    "title": "Historians say King Verica persuaded Rome to invade Britain. But could Verica actually have been a queen?",
+    "summary": "Controversial theory that Verica, who incited Emperor Claudius’s AD43 landing, was a woman could put a new spin on British history if true.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/05/verica-rome-invade-britain-queen-or-king",
+    "publishedAt": "2026-11-05T05:00:54.000Z"
+  },
+  {
+    "id": "6e7f660bda098a2c",
+    "title": "The Pitt and ER are similar enough for Michael Crichton’s widow’s lawsuit to proceed, court rules",
+    "summary": "Court finds ‘clear and numerous similarities’ between two medical dramas, allowing lawsuit by ER creator’s widow Sherri to go to jury trial in 2027.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/05/tv-the-pitt-er-michael-crichton-widow-lawsuit-to-proceed",
+    "publishedAt": "2026-11-05T04:57:41.000Z"
+  },
+  {
+    "id": "a9ad1fd29a807602",
+    "title": "‘An insult to his culture’: Italian chef sacked for not putting pineapple on pizza loses bid to get job back",
+    "summary": "Australia’s Fair Work Commission heard that Davide Tamburella was sacked for refusing to use the controversial topping.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/food/2026/nov/05/italian-chef-sacked-refusing-pineapple-on-pizza-australia-fair-work",
+    "publishedAt": "2026-11-05T04:53:28.000Z"
+  },
+  {
+    "id": "444853f1d6b126c9",
+    "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
+    "summary": "Seoul to seek parliamentary approval to extend anti-piracy Cheonghae unit’s area to about 650km from the vital strait after criticism from Donald Trump on Iran war support.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+    "publishedAt": "2026-11-05T04:22:49.000Z"
+  },
+  {
     "id": "a978627728007b1c",
     "title": "Hong Kong's Joshua Wong is spending years of his adult life in prison",
     "summary": "Joshua Wong, once a rising political star in Hong Kong's pro-democracy movement, has been sentenced again under Beijing's national security law.",
@@ -270,6 +324,15 @@
     "publishedAt": "2026-11-04T22:45:24.000Z"
   },
   {
+    "id": "578e57d074ffd22f",
+    "title": "David Jones stores tipped to close as retailer enters administration",
+    "summary": "Customers are left wondering as the retailer calls in administrators while it struggles to pay its rent.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-05/david-jones-collapses-into-voluntary-administration/107347878",
+    "publishedAt": "2026-11-04T22:44:29.000Z"
+  },
+  {
     "id": "fc96a89bd3a9acdb",
     "title": "Cyber attack hits French blood banks but no blood products compromised",
     "summary": "The refrigerators at three regional blood banks in France were hit by a cyber attack overnight from Sunday into Monday, at the same time hackers struck supermarkets from Sweden to Belgium.",
@@ -439,6 +502,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
     "publishedAt": "2026-11-04T19:50:37.000Z"
+  },
+  {
+    "id": "43d16c1970abe6ad",
+    "title": "Poundland owner in crunch talks as retailer's collapse looms",
+    "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
+    "publishedAt": "2026-11-04T19:44:46.000Z"
   },
   {
     "id": "8fa8c8ed8acdcecb",
@@ -1276,77 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/4/tennis-great-rafael-nadal-set-to-join-real-madrid-board?traffic_source=rss",
     "publishedAt": "2026-11-04T13:00:07.000Z"
-  },
-  {
-    "id": "42718b8a15674d9c",
-    "title": "Democrat Annie Andrews flips South Carolina Senate seat held by Republicans since 1998",
-    "summary": "Andrews ran a campaign on healthcare affordability and beat Darline Graham, sister of Lindsey Graham to win.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/south-carolina-midterms-annie-andrews",
-    "publishedAt": "2026-11-04T12:51:10.000Z"
-  },
-  {
-    "id": "2e07af688a7415d0",
-    "title": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
-    "summary": "Democrats can block Trump's legislative agenda, launch investigations but don't have the numbers to override his veto.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss",
-    "publishedAt": "2026-11-04T12:48:11.000Z"
-  },
-  {
-    "id": "26f88213368432e6",
-    "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
-    "summary": "Rights activists say UK decision against Palestine Action is a 'misuse of terrorism powers'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/uk-supreme-court-hears-appeal-against-palestine-actions-proscription?traffic_source=rss",
-    "publishedAt": "2026-11-04T12:43:47.000Z"
-  },
-  {
-    "id": "398f50a1efab049a",
-    "title": "Election week in Trumpland: algae, space proclamations and a deflection of blame",
-    "summary": "Donald Trump’s unrelenting focus on the ‘beautification of Washington’ and Fox News ratings did not stop the Democrats’ decisive midterm election wins.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/election-week-in-trumpland-algae-space-proclamations-and-a-deflection-of-blame",
-    "publishedAt": "2026-11-04T12:37:58.000Z"
-  },
-  {
-    "id": "96a039cea908872d",
-    "title": "Tenerife’s Jesus de Miguel remembered in moving tributes by football world",
-    "summary": "The 30-year-old died on Tuesday following an on-pitch collision with Andorra goalkeeper Jesus Owono.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/4/tenerifes-jesus-de-miguel-remembered-in-moving-tributes-by-football-world?traffic_source=rss",
-    "publishedAt": "2026-11-04T12:36:14.000Z"
-  },
-  {
-    "id": "c9278230a0af29d7",
-    "title": "World reacts to Democrats' midterm elections victory",
-    "summary": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win on Wednesday, as foreign powers weigh up how a flipped Congress will impact international relations.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
-    "publishedAt": "2026-11-04T12:34:35.000Z"
-  },
-  {
-    "id": "1316293c07e26064",
-    "title": "Sharp objects found in Halloween sweets in three European nations",
-    "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo",
-    "publishedAt": "2026-11-04T12:34:33.000Z"
-  },
-  {
-    "id": "0a9b9fa0aa630951",
-    "title": "M&S boss bemoans last week’s budget as ‘whole lot of nothing’",
-    "summary": "Stuart Machin hits out at Labour but welcomes expected UK-EU food deal as retailer reveals half-year results.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
-    "publishedAt": "2026-11-04T12:34:30.000Z"
   }
 ]
