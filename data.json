@@ -1,5 +1,104 @@
 [
   {
+    "id": "d39892909fefad32",
+    "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+    "summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o",
+    "publishedAt": "2026-11-05T10:04:51.000Z"
+  },
+  {
+    "id": "d50841827f22ef42",
+    "title": "England’s Harry Kane extends Bayern Munich contract until 2029",
+    "summary": "'I love the club, the fans and the city,' says the Ballon d'Or ‌winner after extending his stay with German champions.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/5/englands-harry-kane-extends-bayern-munich-contract-until-2029?traffic_source=rss",
+    "publishedAt": "2026-11-05T10:04:26.000Z"
+  },
+  {
+    "id": "6649a304896881ea",
+    "title": "Not just Congress: Democrats’ blue wave washes over state legislatures across US",
+    "summary": "Democrats gain hundreds of seats in historic victories – and party set to embark on aggressive legislative spree.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/democrats-state-legislatures-midterm-elections",
+    "publishedAt": "2026-11-05T10:00:05.000Z"
+  },
+  {
+    "id": "8e8bc416e624bf39",
+    "title": "Reproductive rights protected in several states by midterm election ballot measures",
+    "summary": "Voters in Nevada, Virginia, Missouri and Idaho passed or strengthened protections for women’s reproductive freedom.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/05/abortion-ballot-measures-pass",
+    "publishedAt": "2026-11-05T10:00:03.000Z"
+  },
+  {
+    "id": "92ee42087b0306b4",
+    "title": "South West Water’s failure to fix leaks ‘putting customer supplies at risk’",
+    "summary": "With parts of region served by company in severe drought still, regulators give it six weeks to come up with action plan.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/south-west-water-failure-fix-leaks-putting-customer-supplies-at-risk",
+    "publishedAt": "2026-11-05T10:00:02.000Z"
+  },
+  {
+    "id": "029a75e7dbe1fd56",
+    "title": "A month after Yemen government offensive began, war of attrition takes hold",
+    "summary": "The Houthis suffer losses but also inflict pain on government forces and Saudi Arabia.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss",
+    "publishedAt": "2026-11-05T09:58:18.000Z"
+  },
+  {
+    "id": "e27578e13cdfae4b",
+    "title": "US sanctions Indian and Turkish firms accused of helping Iran",
+    "summary": "US Treasury says Indian couple faked ship registries for countries including Guyana and Laos to help Iranian tankers.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss",
+    "publishedAt": "2026-11-05T09:57:04.000Z"
+  },
+  {
+    "id": "473a1e0032992b20",
+    "title": "Israel extends detention of Palestinian journalist Abed Abou Shhadeh",
+    "summary": "Rights group says the journalist's arrest over an interview with Azmi Bishara is an attempt to silence Palestinians.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/israel-extends-detention-of-palestinian-journalist-abed-abou-shhadeh?traffic_source=rss",
+    "publishedAt": "2026-11-05T09:52:02.000Z"
+  },
+  {
+    "id": "eb8477a528b46687",
+    "title": "Bomb threat diverts Dublin-Rome flight to France",
+    "summary": "A separate incident has been reported in Bulgaria, amid a string of bomb threats disrupting air travel across Europe.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
+    "publishedAt": "2026-11-05T09:50:08.000Z"
+  },
+  {
+    "id": "12f07528ed37e668",
+    "title": "Met settles claim brought by Palestine activist ‘treated like a criminal’ during arrest",
+    "summary": "Tej Singh Bhandal, 68, was pulled from a queue and detained under terrorism law in ‘creeping criminalisation of protest action’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/met-settles-claim-brought-by-palestine-activist-treated-like-a-criminal-during-arrest",
+    "publishedAt": "2026-11-05T09:47:01.000Z"
+  },
+  {
+    "id": "aae41779617420a7",
+    "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
+    "summary": "Injuries reported on both sides as Russia and Ukraine trade overnight drone strikes on energy and logistics sites.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
+    "publishedAt": "2026-11-05T09:13:35.000Z"
+  },
+  {
     "id": "7a10d9f15df9237b",
     "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
     "summary": "A little-known investment group has made a bid to buy the business.",
@@ -1044,6 +1143,15 @@
     "publishedAt": "2026-11-04T18:01:27.000Z"
   },
   {
+    "id": "00b02af98956e0bb",
+    "title": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
+    "summary": "The number of deaths linked to cocaine use in England and Wales has nearly quadrupled in a decade.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo",
+    "publishedAt": "2026-11-04T17:58:59.000Z"
+  },
+  {
     "id": "f1f1d78250df00de",
     "title": "Danish students join European protest wave against education funding cuts",
     "summary": "Danish government proposes scrapping allowance scheme for students from wealthier families.",
@@ -1240,113 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/media/2026/nov/04/bbc-attempts-reassure-jewish-staff-antisemitism-rhodri-talfan-davies",
     "publishedAt": "2026-11-04T15:52:03.000Z"
-  },
-  {
-    "id": "6e28e25d8777dd33",
-    "title": "Palestine Action activists used similar tactics to the suffragettes, court told",
-    "summary": "Lawyers tell supreme court decision to proscribe organisation as terrorist group is attack on freedom of speech and protest.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/04/palestine-action-tactics-suffragettes-uk-supreme-court",
-    "publishedAt": "2026-11-04T15:49:33.000Z"
-  },
-  {
-    "id": "6b286be5efa07823",
-    "title": "Israel's president to begin consultations with parties after election deadlock",
-    "summary": "Herzog warned politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo",
-    "publishedAt": "2026-11-04T15:45:45.000Z"
-  },
-  {
-    "id": "d3edd31411432bf9",
-    "title": "Spain’s deadly train crashes have damaged public confidence in the system",
-    "summary": "Pedro Sánchez and his socialist-led coalition government are racing to rebuild trust ahead of a snap election, but the task they face is immense.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/04/spains-deadly-train-crashes-have-damaged-public-trust-in-the-system",
-    "publishedAt": "2026-11-04T15:40:37.000Z"
-  },
-  {
-    "id": "13b715befc09f51d",
-    "title": "US markets rise as Democrats sweep midterm elections",
-    "summary": "Nasdaq, Dow, and S&P 500 open higher after Democrats take control and Trump accepts results.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections?traffic_source=rss",
-    "publishedAt": "2026-11-04T15:39:38.000Z"
-  },
-  {
-    "id": "08492df78e7338e7",
-    "title": "Mike Johnson says he will not pursue House minority leader role – reports",
-    "summary": "Reported move from Republican speaker of House comes in light of party’s disastrous midterms defeat.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/mike-johnson-house-leadership",
-    "publishedAt": "2026-11-04T15:36:38.000Z"
-  },
-  {
-    "id": "a54766f3ff5e5f25",
-    "title": "Once it was a £1 hanger. Now it’s a £15 locker. Why do cloakrooms cost so much on a night out?",
-    "summary": "The cost of checking your coat or bag is galloping ahead of other – also rising – prices at venues. We explain the surprisingly complex reasons why.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/04/why-do-cloakrooms-now-cost-so-much-on-a-night-out",
-    "publishedAt": "2026-11-04T15:33:31.000Z"
-  },
-  {
-    "id": "28614ff175eb43e8",
-    "title": "Don’t let Poundland owner maximise its return at our expense, suppliers say",
-    "summary": "British companies that supply US-owned budget retailer face millions of pounds’ worth of losses if it collapses.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/04/poundland-suppliers-facing-losses-gordon-brothers",
-    "publishedAt": "2026-11-04T15:31:45.000Z"
-  },
-  {
-    "id": "0b8687b7b6cc7908",
-    "title": "Secret police files released in Hungary, 47 years after fall of communism",
-    "summary": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko",
-    "publishedAt": "2026-11-04T15:28:18.000Z"
-  },
-  {
-    "id": "682ce1cdff626b9d",
-    "title": "No regrets: Trump says Iran war justified despite polls drubbing",
-    "summary": "Trump acknowledges Iran war played role in defeats but says he would launch it again.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
-    "publishedAt": "2026-11-04T15:28:00.000Z"
-  },
-  {
-    "id": "6950dade11c97d21",
-    "title": "CVS Health to split pharmacy chain from health insurance",
-    "summary": "CVS Pharmacy will be separate from CVS Health, housing major insurer Aetna and benefits manager Caremark.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/cvs-health-pharmacy-insurance",
-    "publishedAt": "2026-11-04T15:20:24.000Z"
-  },
-  {
-    "id": "70cb9f0365ddc4f8",
-    "title": "‘It’s just vape shops, nail shops, charity shops’: Can anything save the British high street?",
-    "summary": "It’s 20 years since Jo and Richard Hill bought anything in Rotherham city centre. Why have they and so many locals abandoned it for the nearest retail park – and what would it take to change their minds?",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
-    "publishedAt": "2026-11-04T15:18:46.000Z"
-  },
-  {
-    "id": "8e52d7bfe24861b1",
-    "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-    "summary": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
-    "publishedAt": "2026-11-04T15:13:14.000Z"
   }
 ]
