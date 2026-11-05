@@ -1,5 +1,32 @@
 [
   {
+    "id": "5ee41d8e9b8aa674",
+    "title": "France protests widen",
+    "summary": "Largely peaceful demonstrations took place across France on Thursday, and trade unions went on strike over the cost of living. The Eiffel Tower was closed for the day.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/05/nx-s1-6030637/france-protests-widen",
+    "publishedAt": "2026-11-05T21:05:30.000Z"
+  },
+  {
+    "id": "643f06df68562a4f",
+    "title": "Saudi coalition intercepts missile fired towards Medina",
+    "summary": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+    "publishedAt": "2026-11-05T20:48:47.000Z"
+  },
+  {
+    "id": "73c2b77213d1351f",
+    "title": "US holds secret talks with Tehran to deport Iranians even as war drags on, court documents show",
+    "summary": "Trump administration push emerges from a lawsuit alleging violations of national immigration regulations.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/trump-administration-deport-iranians",
+    "publishedAt": "2026-11-05T20:43:26.000Z"
+  },
+  {
     "id": "cf35ff0ba3dabfe9",
     "title": "Google, Meta and TikTok sue California to block law protecting children from addiction risk",
     "summary": "Law bans social media platforms from providing minors features such as autoplay that lead to compulsive use.",
@@ -232,6 +259,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/american-national-sentenced-life-prison-murders-partner-infant-137884494",
     "publishedAt": "2026-11-05T18:05:30.000Z"
+  },
+  {
+    "id": "bae64a4562d8c9f2",
+    "title": "David Jones suppliers report months of unpaid invoices, unanswered phone calls",
+    "summary": "David Jones' suppliers tell the ABC they could see \"the writing on the wall\" as payment times got longer and telephone calls went unanswered.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-06/david-jones-suppliers-unpaid-invoices/107347028",
+    "publishedAt": "2026-11-05T18:00:00.000Z"
   },
   {
     "id": "e0e95cc58dd5bce7",
@@ -1260,6 +1296,15 @@
     "publishedAt": "2026-11-05T09:47:01.000Z"
   },
   {
+    "id": "3d53b06ca015f49c",
+    "title": "Troops deployed to secure Jakarta trial as tensions remain high over wiretap scandal",
+    "summary": "Indonesian authorities have tasked thousands of police and military personnel to secure a court appearance of former President Joko Widodo, as tensions remain high in the capital over a wiretapping scandal involving senior police officers.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/thousands-troops-tasked-secure-jakarta-trial-tensions-remain-137867986",
+    "publishedAt": "2026-11-05T09:38:21.000Z"
+  },
+  {
     "id": "aae41779617420a7",
     "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
     "summary": "Injuries reported on both sides as Russia and Ukraine trade overnight drone strikes on energy and logistics sites.",
@@ -1303,50 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/05/tech-barons-america-musk-bezos-zuckerberg",
     "publishedAt": "2026-11-05T09:00:02.000Z"
-  },
-  {
-    "id": "371db9293d0682b7",
-    "title": "Activists across Europe prepare two days of protests against datacentres",
-    "summary": "More than 100 campaign groups will join together in 15 countries this week to call for a halt to major AI projects.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres",
-    "publishedAt": "2026-11-05T09:00:01.000Z"
-  },
-  {
-    "id": "6bf3c82374be3f9b",
-    "title": "Trump accepts midterm results as system holds up against election interference efforts",
-    "summary": "Administration had waged aggressive bid to sow doubt about midterms results but worst fears were not realized.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/trump-election-interference-midterm-results",
-    "publishedAt": "2026-11-05T09:00:01.000Z"
-  },
-  {
-    "id": "af562880c9cb250a",
-    "title": "Poundland’s US owner says retailer remains ‘vulnerable’, after talks with ministers",
-    "summary": "Gordon Brothers still in ‘active discussions’ with interested parties and seeks to ‘protect as many jobs as possible’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/05/poundland-gordon-brothers-us-vulnerable-talks-ministers",
-    "publishedAt": "2026-11-05T08:57:13.000Z"
-  },
-  {
-    "id": "30f853e6c049c997",
-    "title": "Toyota raises profit projection for the year as sales hold up",
-    "summary": "Japan’s top automaker Toyota is reporting that its fiscal second quarter profit fell 19% from a year ago but raised its full year profit forecast.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/toyota-raises-profit-projection-year-sales-hold-137868815",
-    "publishedAt": "2026-11-05T08:50:25.000Z"
-  },
-  {
-    "id": "20177c297b6e05a2",
-    "title": "The leader of a German conservative party is found dead at a Berlin hotel",
-    "summary": "Hubert Aiwanger, leader of a conservative party influential in Bavarian politics, has been found dead in a Berlin hotel.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/leader-german-conservative-party-found-dead-berlin-hotel-137868810",
-    "publishedAt": "2026-11-05T08:50:23.000Z"
   }
 ]
