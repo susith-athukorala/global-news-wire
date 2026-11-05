@@ -1,5 +1,86 @@
 [
   {
+    "id": "7a10d9f15df9237b",
+    "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+    "summary": "A little-known investment group has made a bid to buy the business.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o",
+    "publishedAt": "2026-11-05T09:05:11.000Z"
+  },
+  {
+    "id": "b52c21410b592f46",
+    "title": "Tech barons cozied up to Trump. What will they do in newly blue America?",
+    "summary": "Democrats’ success was helped by popular anger over tech, AI and the super rich – life for billionaires could become much more difficult.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/05/tech-barons-america-musk-bezos-zuckerberg",
+    "publishedAt": "2026-11-05T09:00:02.000Z"
+  },
+  {
+    "id": "6bf3c82374be3f9b",
+    "title": "Trump accepts midterm results as system holds up against election interference efforts",
+    "summary": "Administration had waged aggressive bid to sow doubt about midterms results but worst fears were not realized.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/trump-election-interference-midterm-results",
+    "publishedAt": "2026-11-05T09:00:01.000Z"
+  },
+  {
+    "id": "af562880c9cb250a",
+    "title": "Poundland’s US owner says retailer remains ‘vulnerable’, after talks with ministers",
+    "summary": "Gordon Brothers still in ‘active discussions’ with interested parties and seeks to ‘protect as many jobs as possible’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/poundland-gordon-brothers-us-vulnerable-talks-ministers",
+    "publishedAt": "2026-11-05T08:57:13.000Z"
+  },
+  {
+    "id": "30f853e6c049c997",
+    "title": "Toyota raises profit projection for the year as sales hold up",
+    "summary": "Japan’s top automaker Toyota is reporting that its fiscal second quarter profit fell 19% from a year ago but raised its full year profit forecast.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/toyota-raises-profit-projection-year-sales-hold-137868815",
+    "publishedAt": "2026-11-05T08:50:25.000Z"
+  },
+  {
+    "id": "20177c297b6e05a2",
+    "title": "The leader of a German conservative party is found dead at a Berlin hotel",
+    "summary": "Hubert Aiwanger, leader of a conservative party influential in Bavarian politics, has been found dead in a Berlin hotel.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/leader-german-conservative-party-found-dead-berlin-hotel-137868810",
+    "publishedAt": "2026-11-05T08:50:23.000Z"
+  },
+  {
+    "id": "32023580ea12c9b8",
+    "title": "French unions unite for nationwide strikes, piling pressure on Macron's government",
+    "summary": "French trade unions are joining forces for more nationwide strikes and demonstrations for higher wages and in support of the high school protest movement.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/french-unions-unite-nationwide-strikes-piling-pressure-macrons-137868915",
+    "publishedAt": "2026-11-05T08:50:18.000Z"
+  },
+  {
+    "id": "c531cfd46523f0aa",
+    "title": "Wembanyama pours in career-high 52 points as Spurs edge Mavericks 112-111",
+    "summary": "Victor Wembanyama had 24 rebounds and 52 points as the San Antonio Spurs recorded their sixth straight win in the NBA.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/5/wembanyama-pours-in-career-high-52-points-as-spurs-edge-mavericks-112-111?traffic_source=rss",
+    "publishedAt": "2026-11-05T08:39:40.000Z"
+  },
+  {
+    "id": "eb99477837075d89",
+    "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+    "summary": "With many seats still to come in, the Democrats have taken control of the Senate, House and several key governorships. Find live updating results in full here.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-elections-full-results-senate-house-governor-races",
+    "publishedAt": "2026-11-05T08:33:19.000Z"
+  },
+  {
     "id": "3d53b06ca015f49c",
     "title": "Troops deployed to secure Jakarta trial as tensions remain high over wiretap scandal",
     "summary": "Indonesian authorities have tasked thousands of police and military personnel to secure a court appearance of former President Joko Widodo, as tensions remain high in the capital over a wiretapping scandal involving senior police officers.",
@@ -1267,86 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
     "publishedAt": "2026-11-04T15:13:14.000Z"
-  },
-  {
-    "id": "711dc49d3d84c6ff",
-    "title": "Iranian leaders welcome US midterms, but Trump may still attack",
-    "summary": "Tehran views midterm results as a rejection of Trump's 'war on Iran', signalling US frustration with foreign policy.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
-    "publishedAt": "2026-11-04T15:13:00.000Z"
-  },
-  {
-    "id": "983c6e71445fc89d",
-    "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
-    "summary": "The CAS ruled last week to overturn governing body's exclusion of ‌Russia over its 2022 invasion of Ukraine.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss",
-    "publishedAt": "2026-11-04T15:04:34.000Z"
-  },
-  {
-    "id": "5b022a77d2a07030",
-    "title": "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
-    "summary": "Despite losing legislative control, the US president still has strong executive powers to push his agenda forward.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss",
-    "publishedAt": "2026-11-04T15:04:08.000Z"
-  },
-  {
-    "id": "20617a05d88ffd48",
-    "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-    "summary": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no",
-    "publishedAt": "2026-11-04T15:01:10.000Z"
-  },
-  {
-    "id": "0d5811a82ab28a82",
-    "title": "Why the weirdest game of 2026 is also one of my favourites",
-    "summary": "Titanium Court is a bizarre world of 8-bit fairies, Shakespeare and surprise songs – its magic lies in never knowing what on earth is going on.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/04/why-the-weirdest-game-of-2026-is-also-one-of-my-favourites",
-    "publishedAt": "2026-11-04T15:00:38.000Z"
-  },
-  {
-    "id": "890b98d8810a7152",
-    "title": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
-    "summary": "Charities say government ‘must act now’ with cocaine-specific deaths eight times higher than in 2010.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/04/cocaine-overtakes-heroin-drug-deaths-england-wales",
-    "publishedAt": "2026-11-04T14:54:24.000Z"
-  },
-  {
-    "id": "932e5368b90ee8e0",
-    "title": "ANC faces anger over poor services as South Africans vote in local elections",
-    "summary": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-    "publishedAt": "2026-11-04T14:50:47.000Z"
-  },
-  {
-    "id": "b670634b824b283b",
-    "title": "‘This is redemption time’: celebrities react to Democrats’ historic midterms sweep",
-    "summary": "After the party regained control of both houses of Congress, stars including Viola Davis, Bette Midler and John Cusack have been celebrating.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/nov/04/celebrities-react-us-midterms-democrats-sweep",
-    "publishedAt": "2026-11-04T14:40:33.000Z"
-  },
-  {
-    "id": "38388d24d29ffd18",
-    "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
-    "summary": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego",
-    "publishedAt": "2026-11-04T14:35:27.000Z"
   }
 ]
