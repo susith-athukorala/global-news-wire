@@ -1,5 +1,77 @@
 [
   {
+    "id": "e0e95cc58dd5bce7",
+    "title": "AI stocks plunge after election, driving down US markets",
+    "summary": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
+    "publishedAt": "2026-11-05T17:56:17.000Z"
+  },
+  {
+    "id": "45375105df558031",
+    "title": "Harmeet Dhillon, controversial head of DoJ’s civil rights division, steps down",
+    "summary": "Dhillon is first high-level justice department official to leave after historic Republican defeat in 2026 midterms.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/harmeet-dhillon-doj-resignation",
+    "publishedAt": "2026-11-05T17:44:41.000Z"
+  },
+  {
+    "id": "5c6f7f6d00ed1ceb",
+    "title": "Heavy rains bring flash flooding to Georgia-Tennessee border area",
+    "summary": "National Weather Service issues flood warning: ‘Seek higher ground now!’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/heavy-rains-flash-flooding-georgia-tennessee",
+    "publishedAt": "2026-11-05T17:44:11.000Z"
+  },
+  {
+    "id": "31f9061492aeb93e",
+    "title": "British man infected with Ebola in DR Congo arrives in UK for treatment",
+    "summary": "The UK government says there are \"well-established procedures for dealing with cases like this\" and the risk to the public remains low.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo",
+    "publishedAt": "2026-11-05T17:41:07.000Z"
+  },
+  {
+    "id": "3d218e3750d110d4",
+    "title": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
+    "summary": "Philippine official says there are ‘signs that point to Thomas Markle Jr’s involvement in crime’, but he’s not yet being treated as a suspect.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
+    "publishedAt": "2026-11-05T17:37:27.000Z"
+  },
+  {
+    "id": "dcb771ac66309941",
+    "title": "Nasdaq heading for worst day in 18 months as Wall Street sustains widespread losses",
+    "summary": "Share index slumps 5% amid signs AI industry will face tougher regulation after Democrats’ midterm elections success.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+    "publishedAt": "2026-11-05T17:31:04.000Z"
+  },
+  {
+    "id": "cb74380025e35bc9",
+    "title": "UK government considers smart glasses ban over secret filming concerns",
+    "summary": "Minister hints at restriction on selling technology ‘to certain users’ amid worries over surreptitious filming of women.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
+    "publishedAt": "2026-11-05T17:21:51.000Z"
+  },
+  {
+    "id": "a85489020ca6edfc",
+    "title": "Beware ‘sun, sea and surgery’ cosmetic tourism packages, experts advise",
+    "summary": "British College of Aesthetic Medicine launches checklist as part of ‘vet it before you get it’ campaign.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/05/beware-cosmetic-surgery-tourism-packages-experts-advise",
+    "publishedAt": "2026-11-05T17:17:00.000Z"
+  },
+  {
     "id": "a043cda1bcb1b69d",
     "title": "Paraguay President Santiago Peña resigns after bank collapse",
     "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
@@ -25,6 +97,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/music/2026/nov/05/k-pop-group-newjeans-contract",
     "publishedAt": "2026-11-05T17:08:29.000Z"
+  },
+  {
+    "id": "b53cf15abfc48b30",
+    "title": "Paraguay President Pena resigns in wake of bank collapse",
+    "summary": "President Pena, a Trump ally, had faced an impeachment motion and protests after the collapse of digital lender ueno.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse?traffic_source=rss",
+    "publishedAt": "2026-11-05T17:08:19.000Z"
   },
   {
     "id": "c007e426e5dbe2c9",
@@ -79,6 +160,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/05/andy-burnham-recast-chagos-islands-deal-us-resistance",
     "publishedAt": "2026-11-05T16:17:48.000Z"
+  },
+  {
+    "id": "31aa935e17b900ba",
+    "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
+    "summary": "A prosecutor described Brand as a ruthless, calculating, manipulative \"sexual predator.\" Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
+    "publishedAt": "2026-11-05T16:15:02.000Z"
   },
   {
     "id": "24d34b556c18b89a",
@@ -1107,6 +1197,15 @@
     "publishedAt": "2026-11-05T06:58:03.000Z"
   },
   {
+    "id": "82ee4fe6ffe0c139",
+    "title": "Beau Lamarre-Condon tells double murder trial he went through Jesse Baird’s phone and poured water into his fuel tank",
+    "summary": "Former police officer gives evidence in court after pleading not guilty to murdering Baird and Luke Davies in early 2024.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
+    "publishedAt": "2026-11-05T06:56:01.000Z"
+  },
+  {
     "id": "ec84f5b7e94349dd",
     "title": "A still-recovering pope will head home to Latin America and his beloved Peru for a 12-day trip",
     "summary": "Pope Leo XIV is embarking on the longest and farthest trip of his pontificate three weeks after lung cancer surgery.",
@@ -1249,104 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/05/lab-grown-meat-save-the-world-food-revolution-climate-crisis-food-system",
     "publishedAt": "2026-11-05T05:00:54.000Z"
-  },
-  {
-    "id": "dd7f854fb23ebfd7",
-    "title": "Protesters to join nationwide march as France braces for day of strike action",
-    "summary": "Hospital workers, air traffic and rail staff expected to join strikes amid renewed protests over education and rising living costs.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
-    "publishedAt": "2026-11-05T05:00:54.000Z"
-  },
-  {
-    "id": "bab7886ab0e6b047",
-    "title": "Historians say King Verica persuaded Rome to invade Britain. But could Verica actually have been a queen?",
-    "summary": "Controversial theory that Verica, who incited Emperor Claudius’s AD43 landing, was a woman could put a new spin on British history if true.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/05/verica-rome-invade-britain-queen-or-king",
-    "publishedAt": "2026-11-05T05:00:54.000Z"
-  },
-  {
-    "id": "6e7f660bda098a2c",
-    "title": "The Pitt and ER are similar enough for Michael Crichton’s widow’s lawsuit to proceed, court rules",
-    "summary": "Court finds ‘clear and numerous similarities’ between two medical dramas, allowing lawsuit by ER creator’s widow Sherri to go to jury trial in 2027.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/05/tv-the-pitt-er-michael-crichton-widow-lawsuit-to-proceed",
-    "publishedAt": "2026-11-05T04:57:41.000Z"
-  },
-  {
-    "id": "a9ad1fd29a807602",
-    "title": "‘An insult to his culture’: Italian chef sacked for not putting pineapple on pizza loses bid to get job back",
-    "summary": "Australia’s Fair Work Commission heard that Davide Tamburella was sacked for refusing to use the controversial topping.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/food/2026/nov/05/italian-chef-sacked-refusing-pineapple-on-pizza-australia-fair-work",
-    "publishedAt": "2026-11-05T04:53:28.000Z"
-  },
-  {
-    "id": "297097115c5a04ac",
-    "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
-    "summary": "EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
-    "publishedAt": "2026-11-05T04:49:56.000Z"
-  },
-  {
-    "id": "444853f1d6b126c9",
-    "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
-    "summary": "Seoul to seek parliamentary approval to extend anti-piracy Cheonghae unit’s area to about 650km from the vital strait after criticism from Donald Trump on Iran war support.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
-    "publishedAt": "2026-11-05T04:22:49.000Z"
-  },
-  {
-    "id": "d5a57c91db93cd93",
-    "title": "Pound rises to its highest level since the Brexit referendum",
-    "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo",
-    "publishedAt": "2026-11-05T04:21:35.000Z"
-  },
-  {
-    "id": "a978627728007b1c",
-    "title": "Hong Kong's Joshua Wong is spending years of his adult life in prison",
-    "summary": "Joshua Wong, once a rising political star in Hong Kong's pro-democracy movement, has been sentenced again under Beijing's national security law.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/teen-activist-hong-kongs-joshua-wong-spending-years-137865786",
-    "publishedAt": "2026-11-05T04:13:02.000Z"
-  },
-  {
-    "id": "551fb86c6f7987cf",
-    "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
-    "summary": "Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security law.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
-    "publishedAt": "2026-11-05T04:04:49.000Z"
-  },
-  {
-    "id": "a65bb36dea71248d",
-    "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-    "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
-    "publishedAt": "2026-11-05T03:56:16.000Z"
-  },
-  {
-    "id": "b3b8828009959dd4",
-    "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-    "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o",
-    "publishedAt": "2026-11-05T03:47:56.000Z"
   }
 ]
