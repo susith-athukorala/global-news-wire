@@ -1,5 +1,50 @@
 [
   {
+    "id": "a978627728007b1c",
+    "title": "Hong Kong's Joshua Wong is spending years of his adult life in prison",
+    "summary": "Joshua Wong, once a rising political star in Hong Kong's pro-democracy movement, has been sentenced again under Beijing's national security law.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/teen-activist-hong-kongs-joshua-wong-spending-years-137865786",
+    "publishedAt": "2026-11-05T04:13:02.000Z"
+  },
+  {
+    "id": "551fb86c6f7987cf",
+    "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+    "summary": "Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security law.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+    "publishedAt": "2026-11-05T04:04:49.000Z"
+  },
+  {
+    "id": "a65bb36dea71248d",
+    "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+    "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
+    "publishedAt": "2026-11-05T03:56:16.000Z"
+  },
+  {
+    "id": "b3b8828009959dd4",
+    "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+    "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o",
+    "publishedAt": "2026-11-05T03:47:56.000Z"
+  },
+  {
+    "id": "47be2d65b84fedb4",
+    "title": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
+    "summary": "Defence cooperation deal signed as Syria's President al-Sharaa visits Riyadh for the second time in less than a month.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss",
+    "publishedAt": "2026-11-05T03:46:13.000Z"
+  },
+  {
     "id": "267a3d44069358d9",
     "title": "What’s delaying US midterm election calls in Mississippi and Alaska?",
     "summary": "Ranked-choice voting may decide Alaska's Senate outcome, while Mississippi's race hangs on a knife's edge.",
@@ -16,6 +61,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
     "publishedAt": "2026-11-05T02:10:07.000Z"
+  },
+  {
+    "id": "a34d7ff55c13596e",
+    "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+    "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo",
+    "publishedAt": "2026-11-05T02:09:23.000Z"
   },
   {
     "id": "abd582576399ef7a",
@@ -160,6 +214,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/hong-kong-pro-democracy-activist-joshua-wong-faces-137861278",
     "publishedAt": "2026-11-04T23:58:13.000Z"
+  },
+  {
+    "id": "8dd1f013a8a9c2e1",
+    "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+    "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o",
+    "publishedAt": "2026-11-04T23:50:40.000Z"
   },
   {
     "id": "644131b2557e0258",
@@ -396,6 +459,15 @@
     "publishedAt": "2026-11-04T19:30:41.000Z"
   },
   {
+    "id": "deedfa40de7daa29",
+    "title": "Newcomer's meteoric rise could make her NZ election's 'kingmaker'",
+    "summary": "Opportunity party leader Qiulae Wong is trying to blaze a new trail through New Zealand politics this election.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-05/qiulae-wong-new-zealand-election/107346856",
+    "publishedAt": "2026-11-04T19:26:42.000Z"
+  },
+  {
     "id": "43e490bb19dacddc",
     "title": "The midterms were a thumping rebuke of the US-Israel relationship",
     "summary": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the same.",
@@ -529,6 +601,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo",
     "publishedAt": "2026-11-04T18:01:31.000Z"
+  },
+  {
+    "id": "11a93ff28d8b5346",
+    "title": "What Democrats can and can't do with their new power after taking Congress",
+    "summary": "Democrats can vote legislation through. But Trump still has veto power.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo",
+    "publishedAt": "2026-11-04T18:01:27.000Z"
   },
   {
     "id": "f1f1d78250df00de",
@@ -1267,86 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
     "publishedAt": "2026-11-04T12:34:30.000Z"
-  },
-  {
-    "id": "12a9b3f78dbfa128",
-    "title": "Trump blamed Fox News for Republican losses even as network’s hosts went easy on him",
-    "summary": "Fox News pundits hardly criticized the US president in midterms coverage but Trump was still quick to cast blame.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/trump-blames-fox-news-republican-losses",
-    "publishedAt": "2026-11-04T12:30:29.000Z"
-  },
-  {
-    "id": "89f4b563a1fc0545",
-    "title": "Indonesia deploys troops to boost Jakarta's security after generals' arrest",
-    "summary": "Indonesia's military is deploying over 20,000 troops to Jakarta amid a wiretapping scandal suspected of targeting President Prabowo Subianto.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/indonesias-military-deploys-thousands-troops-boost-jakartas-security-137838412",
-    "publishedAt": "2026-11-04T12:26:22.000Z"
-  },
-  {
-    "id": "43d16c1970abe6ad",
-    "title": "Poundland owner in crunch talks as retailer's collapse looms",
-    "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
-    "publishedAt": "2026-11-04T12:20:42.000Z"
-  },
-  {
-    "id": "5c520a90cf25d0ef",
-    "title": "Israel’s election commission rejects Netanyahu claims of voting fraud",
-    "summary": "Move comes after attorney general blocks Shin Bet call to interrogate politicians from Palestinian-led parties.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
-    "publishedAt": "2026-11-04T12:19:18.000Z"
-  },
-  {
-    "id": "ef8d4f76f0ff21fa",
-    "title": "Democrats seize full control of Congress. And, which candidates made history last night",
-    "summary": "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
-    "publishedAt": "2026-11-04T12:18:39.000Z"
-  },
-  {
-    "id": "3429ee1bc81e7d60",
-    "title": "UK to deploy facial recognition in biggest-ever immigration crackdown",
-    "summary": "Documents show Home Office developing programme to use technology for general immigration enforcement.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/04/uk-deploy-facial-recognition-biggest-ever-immigration-crackdown",
-    "publishedAt": "2026-11-04T12:15:31.000Z"
-  },
-  {
-    "id": "79b237eb782cc5e6",
-    "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
-    "summary": "A U.S. cruise ship that suspended its operations in Cambodia has left with only crew aboard, according to Cambodian officials.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/stranded-cruise-ship-odyssey-leaves-cambodia-passengers-137840393",
-    "publishedAt": "2026-11-04T12:10:25.000Z"
-  },
-  {
-    "id": "95a13fd72358f7f0",
-    "title": "Musk makes light of defeats after record spend on Republican candidates",
-    "summary": "Tesla and SpaceX founder Elon Musk is the world's richest man and the largest individual donor in the US midterms.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/musk-makes-light-of-defeats-after-record-spend-on-republican-candidates?traffic_source=rss",
-    "publishedAt": "2026-11-04T12:09:42.000Z"
-  },
-  {
-    "id": "00af3f291d1274bc",
-    "title": "South Africans vote in local elections that could continue decline of ANC",
-    "summary": "South Africans are voting in local elections that test the African National Congress party, or ANC, which has seen declining support over the last decade.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/south-africans-vote-local-elections-continue-decline-mighty-137836623",
-    "publishedAt": "2026-11-04T12:02:15.000Z"
   }
 ]
