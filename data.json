@@ -1,5 +1,122 @@
 [
   {
+    "id": "ebf53c76bc0ccbbd",
+    "title": "Three ways the interest rate rise could affect you",
+    "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o",
+    "publishedAt": "2026-11-05T12:11:04.000Z"
+  },
+  {
+    "id": "a72192c804a4b46a",
+    "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
+    "summary": "Democrats have regained control of Congress. They have a long list of investigations into Trump planned.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
+    "publishedAt": "2026-11-05T12:02:24.000Z"
+  },
+  {
+    "id": "bad87b539115be2f",
+    "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
+    "summary": "Decision by MPC a week after the budget comes as Iran war continues to drive up energy costs.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+    "publishedAt": "2026-11-05T12:00:31.000Z"
+  },
+  {
+    "id": "8b99a90c0bbb6cb8",
+    "title": "‘Neocolonial belch’: what can Britain learn from backlash to Dutch slavery apology?",
+    "summary": "In the Netherlands many felt the move, while welcome, was mishandled and say it opened up a new phase of reckoning.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/what-can-britain-learn-dutch-slavery-apology",
+    "publishedAt": "2026-11-05T12:00:23.000Z"
+  },
+  {
+    "id": "fc734c3fbdaa1ba9",
+    "title": "Outcry after ICE violently detains US citizen walking to high school: ‘I thought they were going to kill me’",
+    "summary": "Agents pinned down Erik Zepeda, a 20-year-old with disabilities, and left him with a broken wrist in latest example of ICE brutality as activity surges in California.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/ice-california-detention-santa-maria",
+    "publishedAt": "2026-11-05T12:00:22.000Z"
+  },
+  {
+    "id": "e11f0c2f567d2ea8",
+    "title": "Security officer attacked and killed near Sri Lankan Embassy in Jordan's capital",
+    "summary": "Authorities say an assailant has attacked and killed a security officer near the Sri Lankan Embassy in the Jordanian capital Amman.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/security-officer-attacked-killed-sri-lankan-embassy-jordans-137871485",
+    "publishedAt": "2026-11-05T11:46:06.000Z"
+  },
+  {
+    "id": "658b16237c59e586",
+    "title": "Why more investment is not making housing affordable in Ghana",
+    "summary": "High costs, limited financing and rising demand keep homes out of reach.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/why-more-investment-is-not-making-housing-affordable-in-ghana?traffic_source=rss",
+    "publishedAt": "2026-11-05T11:42:29.000Z"
+  },
+  {
+    "id": "133896d361a11332",
+    "title": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume",
+    "summary": "Russia and Ukraine have traded damaging airstrikes as talks resume in Brussels to discuss Ukraine's post-war reconstruction and security guarantees.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/russia-ukraine-trade-airstrikes-reconstruction-security-talks-resume-137871457",
+    "publishedAt": "2026-11-05T11:38:25.000Z"
+  },
+  {
+    "id": "4d6c5216fce3e630",
+    "title": "Palantir mines battlefield intelligence but is Ukraine ‘paying with blood’?",
+    "summary": "The US company is using Kyiv’s unique war data to train its controversial technologies.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood?traffic_source=rss",
+    "publishedAt": "2026-11-05T11:34:29.000Z"
+  },
+  {
+    "id": "3cb7cc86cf182492",
+    "title": "‘Knives out’: Will Congress impeach Pete Hegseth after GOP midterms loss?",
+    "summary": "Democrats can adopt the impeachment articles in the House but will need Republican backing in the Senate.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/knives-out-will-congress-impeach-pete-hegseth-after-gop-midterms-loss?traffic_source=rss",
+    "publishedAt": "2026-11-05T11:33:38.000Z"
+  },
+  {
+    "id": "d14ba9ab2392f0f9",
+    "title": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
+    "summary": "Despite wins, Democrats lack the two-thirds majority needed to overturn a presidential veto and push through a law.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts?traffic_source=rss",
+    "publishedAt": "2026-11-05T11:32:40.000Z"
+  },
+  {
+    "id": "e176928d6a96d8d7",
+    "title": "Google refused 54K-name petition, say campaigners",
+    "summary": "Campaigners oppose the development of a large data centre on a wildlife site at Thurrock.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5ev3wm3ng42o",
+    "publishedAt": "2026-11-05T11:30:03.000Z"
+  },
+  {
+    "id": "37257c9fa2388e3c",
+    "title": "Police and firefighters around UK gear up for Bonfire Night disorder",
+    "summary": "Leeds and Edinburgh among areas previously hit by fireworks-related violence, as fire brigades union warns of insufficient resources.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/05/police-firefighters-uk-preparing-for-bonfire-night-disorder",
+    "publishedAt": "2026-11-05T11:24:58.000Z"
+  },
+  {
     "id": "e3b6f3acb88b251a",
     "title": "Ronaldo retires from Portugal duty",
     "summary": "Portugal legend Cristiano Ronaldo says he is retiring from international football.",
@@ -7,6 +124,33 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o",
     "publishedAt": "2026-11-05T11:17:03.000Z"
+  },
+  {
+    "id": "8f628657eac16c9a",
+    "title": "Pound hits highest level since its crash after 2016 Brexit vote",
+    "summary": "Ten-year high shows sterling’s strength against other currencies following fall of dollar after US midterm elections.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/pound-hits-highest-level-since-2016-brexit-vote",
+    "publishedAt": "2026-11-05T11:14:30.000Z"
+  },
+  {
+    "id": "d26c2325c76ae16a",
+    "title": "Visualising how the US midterms turned the map blue",
+    "summary": "Who voted, which seats flipped and who made history? A look at the numbers behind the 2026 US midterm elections.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/visualising-how-the-us-midterms-turned-the-map-blue?traffic_source=rss",
+    "publishedAt": "2026-11-05T11:09:58.000Z"
+  },
+  {
+    "id": "e4437a9f17854b59",
+    "title": "Welsh aviation firm AerFin bought in £475m deal",
+    "summary": "The company, which was majority owned by a private equity firm, said it was beginning a \"new chapter\".",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o",
+    "publishedAt": "2026-11-05T11:01:06.000Z"
   },
   {
     "id": "62d367a8bbe94969",
@@ -36,6 +180,15 @@
     "publishedAt": "2026-11-05T10:57:26.000Z"
   },
   {
+    "id": "b580fa174f8333b9",
+    "title": "Japan FA’s Kozo Tashima to stand against Infantino for Fifa presidency",
+    "summary": "The Japan Football Association’s honorary president, Kozo Tashima, ⁠has announced his intention to stand against Gianni Infantino in March’s Fifa presidential election.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/05/japan-fa-head-kozo-tashima-stand-against-gianni-infantino-for-fifa-president",
+    "publishedAt": "2026-11-05T10:48:42.000Z"
+  },
+  {
     "id": "757b63f885e26cb2",
     "title": "Japan's Sony reports a hefty profit on the back of its blockbuster 'Spider-Man' movie",
     "summary": "Japanese electronics and entertainment company Sony has reported a 44% surge in its profit in July-September, largely on the box office success of its movie, “Spider-Man: Brand New Day.”",
@@ -52,6 +205,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss",
     "publishedAt": "2026-11-05T10:34:42.000Z"
+  },
+  {
+    "id": "0e7e15d00cc57d3f",
+    "title": "Channel 4 axes Married at First Sight UK after rape allegations",
+    "summary": "Decision follows reviews of two allegations of rape during filming and one of sexual misconduct.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/05/channel-4-axes-married-at-first-sight-uk-over-rape-allegations",
+    "publishedAt": "2026-11-05T10:31:32.000Z"
   },
   {
     "id": "179aa43485e666a5",
@@ -133,6 +295,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/games/2026/nov/05/its-so-glossy-and-sexy-10-movies-and-one-tv-show-that-inspired-grand-theft-auto",
     "publishedAt": "2026-11-05T10:00:01.000Z"
+  },
+  {
+    "id": "8a155c8754341130",
+    "title": "‘No one cares about the little guy’: Sri Lanka’s fishers still reeling from 2021 toxic plastic spill",
+    "summary": "A stricken container ship shed tonnes of tiny pellets called nurdles on the west coast. Five years on, locals are counting the cost to marine life and livelihoods.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/05/no-one-cares-about-the-little-guy-sri-lankas-fishers-still-reeling-from-2021-toxic-plastic-spill",
+    "publishedAt": "2026-11-05T10:00:00.000Z"
   },
   {
     "id": "029a75e7dbe1fd56",
@@ -1177,176 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/haitian-police-found-vehicle-4-missing-salvadorans-search-137846644",
     "publishedAt": "2026-11-04T19:01:24.000Z"
-  },
-  {
-    "id": "fa3020a7956d6715",
-    "title": "Ethiopia expels 6 Sudanese consular staff and orders consulate closed, officials say",
-    "summary": "Ethiopia has expelled six staff members of Sudan’s consulate in Assosa, a western city near the Sudanese border, and ordered the mission closed, Ethiopian and Sudanese officials said.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ethiopia-expels-6-sudanese-consular-staff-orders-consulate-137852985",
-    "publishedAt": "2026-11-04T18:59:52.000Z"
-  },
-  {
-    "id": "af5aa2d20fde9ab4",
-    "title": "‘Wellness is on the ballot’: Why did so many pilates studios tell me to vote in the midterms?",
-    "summary": "Owners of pilates and yoga studios in the US got political and encouraged their followers to vote on social media.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/pilates-politics-fitness-studios-midterms-voting",
-    "publishedAt": "2026-11-04T18:53:31.000Z"
-  },
-  {
-    "id": "ea964774c51689f7",
-    "title": "The biggest winners and losers of the 2026 US midterms",
-    "summary": "Historic firsts, surprise victories and expensive defeats as Democrats take control of Congress.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/the-biggest-winners-and-losers-of-the-2026-us-midterms?traffic_source=rss",
-    "publishedAt": "2026-11-04T18:52:25.000Z"
-  },
-  {
-    "id": "6ddd9729f769387c",
-    "title": "New blue Texas may be 'almost impossible' for Republicans to win back",
-    "summary": "For decades, the GOP could count on the Lone Star state for strong support, but after Tuesday night's midterms, some are worried it may never be red again.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-05/us-midterm-texas-results-talarico-and-democrats-win-big/107348074",
-    "publishedAt": "2026-11-04T18:50:00.000Z"
-  },
-  {
-    "id": "b936b17de16ab0c5",
-    "title": "California progressive Randy Villegas wins redrawn House seat for Democrats",
-    "summary": "Community college professor unseats incumbent Republican David Valdao in seat redrawn under Prop 50.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/california-22nd-district-house-midterms",
-    "publishedAt": "2026-11-04T18:47:56.000Z"
-  },
-  {
-    "id": "238c821fa551c04a",
-    "title": "Husband who invited men to rape wife asked for an online review, court told",
-    "summary": "Nine men are on trial in Manchester accused of either taking part in abuse or encouraging offending on internet.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/04/husband-who-invited-men-to-rape-wife-asked-for-an-online-review-court-told",
-    "publishedAt": "2026-11-04T18:07:57.000Z"
-  },
-  {
-    "id": "d22d4bc460b396ee",
-    "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-    "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo",
-    "publishedAt": "2026-11-04T18:01:31.000Z"
-  },
-  {
-    "id": "11a93ff28d8b5346",
-    "title": "What Democrats can and can't do with their new power after taking Congress",
-    "summary": "Democrats can vote legislation through. But Trump still has veto power.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo",
-    "publishedAt": "2026-11-04T18:01:27.000Z"
-  },
-  {
-    "id": "00b02af98956e0bb",
-    "title": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
-    "summary": "The number of deaths linked to cocaine use in England and Wales has nearly quadrupled in a decade.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo",
-    "publishedAt": "2026-11-04T17:58:59.000Z"
-  },
-  {
-    "id": "f1f1d78250df00de",
-    "title": "Danish students join European protest wave against education funding cuts",
-    "summary": "Danish government proposes scrapping allowance scheme for students from wealthier families.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts?traffic_source=rss",
-    "publishedAt": "2026-11-04T17:54:48.000Z"
-  },
-  {
-    "id": "7f5a2e7845539490",
-    "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-    "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o",
-    "publishedAt": "2026-11-04T17:45:58.000Z"
-  },
-  {
-    "id": "273ef3eb4db03ed4",
-    "title": "Netanyahu bet on Trump – but both lost",
-    "summary": "Israel's political establishment grapples with US voter rejection of White House ally and own contribution towards it.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/netanyahu-bet-on-trump-but-both-lost?traffic_source=rss",
-    "publishedAt": "2026-11-04T17:41:48.000Z"
-  },
-  {
-    "id": "13e725827b75789f",
-    "title": "Letitia James appoints ex-prosecutor to lead Cornell sexual assault investigation",
-    "summary": "Jacqueline Kelly, who took part in Sean ‘Diddy’ Combs case, will head criminal inquiry into 2024 incident at university.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/cornell-sexual-assault-prosecutor-jacqueline-kelly",
-    "publishedAt": "2026-11-04T17:31:52.000Z"
-  },
-  {
-    "id": "b1590b1a27235bb5",
-    "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
-    "summary": "Vance cited trusted pollster saying Iran war, Israel ties were top of mind for Trump voters swinging to Democrats.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
-    "publishedAt": "2026-11-04T17:18:50.000Z"
-  },
-  {
-    "id": "12966fc8e65ee3cd",
-    "title": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections",
-    "summary": "Stance signals vice-president seeks to distance himself from the unpopular conflict ahead of possible 2028 run.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/jd-vance-iran-war-midterms-election",
-    "publishedAt": "2026-11-04T17:15:33.000Z"
-  },
-  {
-    "id": "5bf4c241b2bfd6dd",
-    "title": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
-    "summary": "President’s party stripped of control after he spent weeks pleading with Americans to pretend he was on ballot.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results",
-    "publishedAt": "2026-11-04T17:14:44.000Z"
-  },
-  {
-    "id": "cb49b604260dbf93",
-    "title": "Palestinian citizens of Israel face intimidation after election success",
-    "summary": "After winning a record number of parliament seats, Palestinian-led parties face campaign against them.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
-    "publishedAt": "2026-11-04T17:14:21.000Z"
-  },
-  {
-    "id": "260872763ff09e4f",
-    "title": "Owono enduring ‘hardest days of my life’ after De Miguel death",
-    "summary": "Tenerife striker De Miguel died on Tuesday as a result of injuries from a collision with FC Andorra goalkeeper Owono.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/4/owono-enduring-hardest-days-of-my-life-after-de-miguel-death?traffic_source=rss",
-    "publishedAt": "2026-11-04T17:05:12.000Z"
-  },
-  {
-    "id": "dabea7c92f21aa8c",
-    "title": "Airbnb can be positive for the community | Letters",
-    "summary": "Readers respond to an article by Arwa Mahdawi on some self-catering hosts calling for a strike in response to new guidelines.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/04/airbnb-can-be-positive-for-the-community",
-    "publishedAt": "2026-11-04T17:00:43.000Z"
   }
 ]
