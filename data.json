@@ -1,5 +1,68 @@
 [
   {
+    "id": "9f208cff7d5e351a",
+    "title": "UN's peacekeeping mission in Western Sahara enters liquidation phase after mandate expires",
+    "summary": "The U.N. peacekeeping mission in Western Sahara has entered a “liquidation phase” and is beginning to vacate positions and dispose of equipment following a U.S.-Russia standoff at the Security Council last week.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/uns-peacekeeping-mission-western-sahara-enters-liquidation-phase-137876785",
+    "publishedAt": "2026-11-05T14:05:38.000Z"
+  },
+  {
+    "id": "0f55495431159363",
+    "title": "One Nation asks donors at $3,000-a-head Sydney fundraiser to accept ‘non-disclosure agreement’",
+    "summary": "Transparency experts raise concerns about plans to use NDA to gag attendees at event featuring Pauline Hanson in lead-up to NSW election.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/06/one-nation-sydney-fundraiser-pauline-hanson-nda-ntwnfb",
+    "publishedAt": "2026-11-05T14:00:26.000Z"
+  },
+  {
+    "id": "43dcc0a8895d293f",
+    "title": "Australians are yet to see the benefits of AI and datacentres – and US midterms show they could be political kryptonite",
+    "summary": "Albanese should tread carefully as he struggles to make case for how the new technology will benefit ordinary voters.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia",
+    "publishedAt": "2026-11-05T14:00:26.000Z"
+  },
+  {
+    "id": "ba327e3ef74d4576",
+    "title": "What does interest rate rise mean for homeowners and savers?",
+    "summary": "First rate rise for more than three years leaves millions facing rise in mortgage payments.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/what-does-interest-rate-rise-mean-for-homeowners-and-savers-mortgages",
+    "publishedAt": "2026-11-05T14:00:12.000Z"
+  },
+  {
+    "id": "97a61a9c26a187c3",
+    "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
+    "summary": "Dismissals follow Houthi victories and pressure from southern Yemenis for more power.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
+    "publishedAt": "2026-11-05T13:47:00.000Z"
+  },
+  {
+    "id": "16b67c918e8fd4e1",
+    "title": "Europe’s far right has a Trump problem after Republican US midterms wipeout",
+    "summary": "European far-right leaders quick to distance themselves from US president and stress their own priorities.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/republican-wipeout-donald-trump-us-midterms-europe-far-right-message",
+    "publishedAt": "2026-11-05T13:36:31.000Z"
+  },
+  {
+    "id": "5f9460ad2c772b49",
+    "title": "Six people dead and seven injured after fire at Brooklyn home",
+    "summary": "Hundreds of first responders worked to control the blaze, and a lithium-ion battery was found at the scene.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/six-people-dead-brooklyn-fire",
+    "publishedAt": "2026-11-05T13:18:45.000Z"
+  },
+  {
     "id": "4f1186279f4e9b2e",
     "title": "Faisal Islam: How high will interest rates go?",
     "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
@@ -9,6 +72,42 @@
     "publishedAt": "2026-11-05T13:17:10.000Z"
   },
   {
+    "id": "4ddebc6b15e5d049",
+    "title": "Henry Nowak’s killer should have had longer sentence, court of appeal hears",
+    "summary": "Attorney general challenging Vickrum Digwa’s ‘unduly lenient’ sentence, which lawyer for Digwa says is ‘excessive’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/law/2026/nov/05/henry-nowak-killer-vickrum-digwa-should-have-had-longer-sentence-court-of-appeal-hears",
+    "publishedAt": "2026-11-05T13:15:05.000Z"
+  },
+  {
+    "id": "c30fa378e81d1a43",
+    "title": "Mahmood accused of hardening rules for 200,000 successful asylum applicants",
+    "summary": "People previously told they could apply for indefinite leave after five years now come under 30-year ‘earned settlement’ plan.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/05/shabana-mahmood-accused-hardening-immigration-plans-200000-successful-asylum-applicants",
+    "publishedAt": "2026-11-05T13:10:47.000Z"
+  },
+  {
+    "id": "720b7d9b48b91705",
+    "title": "Interest rate rise in midst of cost of living crisis will leave many incredulous",
+    "summary": "Bank’s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
+    "publishedAt": "2026-11-05T13:10:44.000Z"
+  },
+  {
+    "id": "178f800c3b067f09",
+    "title": "Police chiefs divided on proposal to axe England’s 39 forces to create ‘super forces’",
+    "summary": "Review by ex-Met chief, expected to be published soon, calls for replacement of most of 43 forces in England and Wales.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/05/cut-number-of-police-forces-england-hogan-howe-review",
+    "publishedAt": "2026-11-05T13:09:45.000Z"
+  },
+  {
     "id": "a8f4bfabdc828a16",
     "title": "Gas deposits off Cyprus are an opportunity for the EU, president says",
     "summary": "Cyprus's president says natural gas deposits off the country's coast offer the European Union a chance to boost energy security by diversifying supply.",
@@ -16,6 +115,24 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/gas-deposits-off-cyprus-opportunity-eu-president-137871831",
     "publishedAt": "2026-11-05T13:09:00.000Z"
+  },
+  {
+    "id": "d6e1befd0cf690eb",
+    "title": "Russian captain among 2 crew found guilty by Finnish court of damaging Baltic cables",
+    "summary": "A Finnish court has convicted the captain and another crew member of a cargo ship of damaging undersea telecommunications cables in the Baltic Sea last year.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/russian-captain-2-crew-found-guilty-finnish-court-137871830",
+    "publishedAt": "2026-11-05T13:08:12.000Z"
+  },
+  {
+    "id": "69d33865f6d0a674",
+    "title": "Four people, including a child, killed in Israeli attacks on Gaza",
+    "summary": "Gaza officials say more than 1,600 Palestinians have been killed since the so-called 'ceasefire' took effect.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-05T13:04:52.000Z"
   },
   {
     "id": "10361ad62aeec580",
@@ -495,6 +612,15 @@
     "publishedAt": "2026-11-05T09:00:02.000Z"
   },
   {
+    "id": "371db9293d0682b7",
+    "title": "Activists across Europe prepare two days of protests against datacentres",
+    "summary": "More than 100 campaign groups will join together in 15 countries this week to call for a halt to major AI projects.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres",
+    "publishedAt": "2026-11-05T09:00:01.000Z"
+  },
+  {
     "id": "6bf3c82374be3f9b",
     "title": "Trump accepts midterm results as system holds up against election interference efforts",
     "summary": "Administration had waged aggressive bid to sow doubt about midterms results but worst fears were not realized.",
@@ -655,6 +781,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/05/apple-ipad-mini-a20-pro-review-best-small-tablet-but-big-price",
     "publishedAt": "2026-11-05T07:00:56.000Z"
+  },
+  {
+    "id": "43d16c1970abe6ad",
+    "title": "Poundland owner in crunch talks as retailer's collapse looms",
+    "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
+    "publishedAt": "2026-11-05T06:58:03.000Z"
   },
   {
     "id": "ec84f5b7e94349dd",
@@ -1213,140 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
     "publishedAt": "2026-11-04T21:13:56.000Z"
-  },
-  {
-    "id": "b0c5a0a5fa6f7871",
-    "title": "Elon Musk will face scrutiny from Democrats in Washington and Texas after midterms",
-    "summary": "Democrats are likely to launch investigations into Musk's influence, including his leadership of DOGE and government contracts.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress",
-    "publishedAt": "2026-11-04T21:11:23.000Z"
-  },
-  {
-    "id": "2b47aba0fa727a37",
-    "title": "Debt relief and aid no replacement for slavery reparations, UK told",
-    "summary": "Leading figures in Caribbean reparatory justice movement speak out after UK PM announced infrastructure package.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean",
-    "publishedAt": "2026-11-04T21:10:55.000Z"
-  },
-  {
-    "id": "bf502efcb163fa30",
-    "title": "Telstra apologises after customers mystified by phantom missed call notifications",
-    "summary": "Telco blames its MessageBank service and apologises for customer confusion.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/05/telstra-customers-false-missed-call-notifications-apology",
-    "publishedAt": "2026-11-04T21:10:20.000Z"
-  },
-  {
-    "id": "ea0a7ce7f0aeca0e",
-    "title": "Iranians celebrate setback for Trump in US election, and other Mideast news",
-    "summary": "Iran’s leaders say President Donald Trump shouldn’t ignore the stinging setback in the U.S. election.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/iranians-celebrate-setback-trump-us-election-mideast-news-137854076",
-    "publishedAt": "2026-11-04T21:06:15.000Z"
-  },
-  {
-    "id": "1bb2bef661f2f866",
-    "title": "It was a big night for doctors to win seats in Congress, riding the blue wave",
-    "summary": "Historically, most physicians who served in the House or Senate have been Republicans. In the next Congress, physicians who are Democrats made significant gains.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/04/nx-s1-6017757/democrats-republicans-doctors-acton-andrews-blue-wave",
-    "publishedAt": "2026-11-04T20:46:26.000Z"
-  },
-  {
-    "id": "cb74380025e35bc9",
-    "title": "UK government considers smart glasses ban over secret filming concerns",
-    "summary": "Minister hints at restriction on selling technology ‘to certain users’ amid worries over surreptitious filming of women.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
-    "publishedAt": "2026-11-04T20:43:21.000Z"
-  },
-  {
-    "id": "f1cf5360e3fda0e7",
-    "title": "Serbia detains police officers over alleged use of force against protesters",
-    "summary": "Interior ministry claims suspects tortured and intimidated protesters detained in garage of government compound.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
-    "publishedAt": "2026-11-04T20:42:14.000Z"
-  },
-  {
-    "id": "4f13436f2b5c6cdd",
-    "title": "Trump and Vance lead GOP blame game as fingers point at Iran war",
-    "summary": "Republicans begin their post-mortems after massive losses in the US midterm elections, with Donald Trump and JD Vance blaming the Iran war. Here's what to know about the US midterms today.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-05/us-midterms-daily-news-briefing/107347184",
-    "publishedAt": "2026-11-04T20:37:23.000Z"
-  },
-  {
-    "id": "63604ba0992fe055",
-    "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
-    "summary": "Bob Dylan has come knockin’ on Pope Leo XIV’s door.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/bob-dylan-knockin-popes-door-leo-welcomes-legend-137857488",
-    "publishedAt": "2026-11-04T20:34:30.000Z"
-  },
-  {
-    "id": "241809323e1aa4ac",
-    "title": "Trump boasts about ‘magnificent’ ballroom day after Republican rout",
-    "summary": "US president rhapsodized about ballroom features for more than 20 minutes, with no mention of Democrats’ ‘blue wave’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/trump-ballroom-midterms-reaction",
-    "publishedAt": "2026-11-04T20:34:08.000Z"
-  },
-  {
-    "id": "588402d59d7b4925",
-    "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-    "summary": "Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
-    "publishedAt": "2026-11-04T20:31:56.000Z"
-  },
-  {
-    "id": "5327d3bdc33b8176",
-    "title": "Trump’s wealth dented after Democrats trounce Republicans in midterms",
-    "summary": "Trump Media stock and WLFI coin saw declines but he is still $2.7bn wealthier than when he won election in 2024.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/04/trump-wealth-midterm-elections",
-    "publishedAt": "2026-11-04T20:29:09.000Z"
-  },
-  {
-    "id": "00c7b1dd49e645cd",
-    "title": "Viewers stayed away from Fox News on a disappointing election night for Republicans",
-    "summary": "In early, preliminary figures, the news channel trailed several other networks in prime-time viewership.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/04/fox-news-midterm-ratings",
-    "publishedAt": "2026-11-04T20:06:55.000Z"
-  },
-  {
-    "id": "03ca8dc25af4be4a",
-    "title": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
-    "summary": "Analysis by human rights organisation Global Echo shows 85 of 132 shipments over eight years contained more than US$5m of organic dates grown in settlements.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
-    "publishedAt": "2026-11-04T20:00:43.000Z"
-  },
-  {
-    "id": "af0331329a4ff896",
-    "title": "Democratic progressive wing notches win in California Central Valley",
-    "summary": "Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
-    "publishedAt": "2026-11-04T19:50:37.000Z"
   }
 ]
