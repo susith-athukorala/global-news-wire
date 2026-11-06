@@ -1,5 +1,68 @@
 [
   {
+    "id": "c937c61b4a1f1978",
+    "title": "AI stocks climb after trillions wiped from market values",
+    "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+    "publishedAt": "2026-11-06T15:04:46.000Z"
+  },
+  {
+    "id": "e2edaef4ed43aa12",
+    "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
+    "summary": "Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
+    "publishedAt": "2026-11-06T14:53:46.000Z"
+  },
+  {
+    "id": "11458af0c685be13",
+    "title": "‘A global political awakening’: how gen Z protests are sweeping the world",
+    "summary": "From Serbia to Bangladesh and India to France, young people are pushing back against authoritarianism and reshaping political landscapes.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world",
+    "publishedAt": "2026-11-06T14:52:43.000Z"
+  },
+  {
+    "id": "38d5e56cbba0c7ea",
+    "title": "Japan announces emergency cybersecurity package following a wave of attacks",
+    "summary": "Japan has announced an emergency cybersecurity package that includes AI and cyber rescue teams.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/japan-announces-emergency-cybersecurity-package-wave-attacks-137911772",
+    "publishedAt": "2026-11-06T14:39:04.000Z"
+  },
+  {
+    "id": "0cbf74246ec8157b",
+    "title": "Russell Brand barrister reports himself to watchdog over confronting Sunday Times journalist",
+    "summary": "Ian Winter KC told Rosamund Urwin, whose investigation led to Brand’s victims coming forward, ‘I hope you are pleased with yourself’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
+    "publishedAt": "2026-11-06T14:31:55.000Z"
+  },
+  {
+    "id": "328fabe0c928510e",
+    "title": "Japan protests Russian takeover of Japan Tobacco subsidiaries in Russia",
+    "summary": "Japan has protested to Moscow after Russia placed four subsidiaries of Japan Tobacco under temporary Russian management.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/japan-protests-russian-takeover-japan-tobacco-subsidiaries-russia-137905388",
+    "publishedAt": "2026-11-06T14:24:57.000Z"
+  },
+  {
+    "id": "a6aa382b99d60e87",
+    "title": "Tanzania opposition leader Lissu sentenced to 4 years for incitement, acquitted of treason",
+    "summary": "A Tanzanian court sentenced opposition leader Tundu Lissu to four years in prison for inciting people to disrupt last year’s election but acquitted him of treason, ruling that prosecutors had failed to prove he intended to intimidate the government.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/tanzania-opposition-leader-lissu-sentenced-4-years-incitement-137905667",
+    "publishedAt": "2026-11-06T14:24:38.000Z"
+  },
+  {
     "id": "bef5828714042a0c",
     "title": "Sri Lanka unions protest bills expanding police powers and warn of abuses",
     "summary": "Trade unions and political activists in Sri Lanka's capital have rallied against proposed anti-terrorism and anti-crime bills.",
@@ -16,6 +79,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/07/trevor-hold-activist-convicted-qld-fire-ant-eradication-program-queensland-ntwnfb",
     "publishedAt": "2026-11-06T14:00:46.000Z"
+  },
+  {
+    "id": "6d64941928f18c9a",
+    "title": "Fearing AI disruption, white-collar workers are quitting their jobs",
+    "summary": "While there’s no evidence linking AI to mass layoffs, the tech has already ‘changed worker psychology’",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
+    "publishedAt": "2026-11-06T14:00:45.000Z"
   },
   {
     "id": "490729b43c0fa668",
@@ -639,6 +711,15 @@
     "publishedAt": "2026-11-06T08:04:46.000Z"
   },
   {
+    "id": "829ef7bbf9b45e33",
+    "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+    "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o",
+    "publishedAt": "2026-11-06T07:56:19.000Z"
+  },
+  {
     "id": "b34a0af407dd53a1",
     "title": "Myanmar to hold by-elections in April, including in areas where fighting persists",
     "summary": "Myanmar will hold special elections next April in its first vote since this year's general election that critics said was designed to cement military rule.",
@@ -799,6 +880,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cv62kel8wnp0o",
     "publishedAt": "2026-11-06T06:20:44.000Z"
+  },
+  {
+    "id": "fa785fffcec5f960",
+    "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+    "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+    "publishedAt": "2026-11-06T06:16:22.000Z"
   },
   {
     "id": "d4d0c401b0d9951c",
@@ -1258,95 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/05/nx-s1-6030637/france-protests-widen",
     "publishedAt": "2026-11-05T21:05:30.000Z"
-  },
-  {
-    "id": "643f06df68562a4f",
-    "title": "Saudi coalition intercepts missile fired towards Medina",
-    "summary": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
-    "publishedAt": "2026-11-05T20:48:47.000Z"
-  },
-  {
-    "id": "73c2b77213d1351f",
-    "title": "US holds secret talks with Tehran to deport Iranians even as war drags on, court documents show",
-    "summary": "Trump administration push emerges from a lawsuit alleging violations of national immigration regulations.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/trump-administration-deport-iranians",
-    "publishedAt": "2026-11-05T20:43:26.000Z"
-  },
-  {
-    "id": "cf35ff0ba3dabfe9",
-    "title": "Google, Meta and TikTok sue California to block law protecting children from addiction risk",
-    "summary": "Law bans social media platforms from providing minors features such as autoplay that lead to compulsive use.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/05/california-children-social-media-lawsuit-tiktok-google-meta",
-    "publishedAt": "2026-11-05T20:39:11.000Z"
-  },
-  {
-    "id": "4ee16af602d65a90",
-    "title": "Democratic socialist Nithya Raman wins Los Angeles mayoral race over incumbent Karen Bass",
-    "summary": "Major shake-up as LA councilmember, once considered long shot, ousts Democratic rival she had once endorsed.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/los-angeles-mayor-nithya-raman-karen-bass",
-    "publishedAt": "2026-11-05T20:33:38.000Z"
-  },
-  {
-    "id": "19a3a673124fff11",
-    "title": "British Ebola patient evacuated from DRC arrives at London hospital",
-    "summary": "Doctor who was helping response to outbreak in Africa taken to specialist isolation unit at Royal Free hospital.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/british-ebola-patient-evacuated-drc-arrives-london-hospital",
-    "publishedAt": "2026-11-05T20:30:11.000Z"
-  },
-  {
-    "id": "40c4cf2373f2ea24",
-    "title": "California governor commutes death sentences for all 548 people on death row",
-    "summary": "California has historically had the largest population of death row inmates in the US.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo",
-    "publishedAt": "2026-11-05T20:12:03.000Z"
-  },
-  {
-    "id": "294f9272f24b6a18",
-    "title": "Gavin Newsom commutes more than 500 death sentences in California",
-    "summary": "Democrat’s move prevents these people from executions under future governors, after Christa Pike’s failed execution.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california",
-    "publishedAt": "2026-11-05T20:07:12.000Z"
-  },
-  {
-    "id": "2577bb22998f24aa",
-    "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
-    "summary": "The Republican midterm rout is helping shape who leads Israel next, as Netanyahu’s US ties turn toxic.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
-    "publishedAt": "2026-11-05T20:07:04.000Z"
-  },
-  {
-    "id": "4629beb692878a75",
-    "title": "Over 1,000 tonnes of sewage seen at landfill site",
-    "summary": "The Environment Agency says it has issued the operator with a series of actions after an inspection.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmp8ggn9gpjjo",
-    "publishedAt": "2026-11-05T20:01:05.000Z"
-  },
-  {
-    "id": "a200945598b5429f",
-    "title": "Deep-red Kansas votes for change as patience wears thin with Trump: ‘The economy is really taking a beating’",
-    "summary": "Bills have soared in rural state buffeted by tariffs and war in Iran – and Democrat Adam Hamilton’s stunning upset shows how deep economic frustrations run.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/kansas-voters-trump-republicans-dispatch",
-    "publishedAt": "2026-11-05T20:00:32.000Z"
   }
 ]
