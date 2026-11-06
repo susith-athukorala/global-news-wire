@@ -1,5 +1,113 @@
 [
   {
+    "id": "bef5828714042a0c",
+    "title": "Sri Lanka unions protest bills expanding police powers and warn of abuses",
+    "summary": "Trade unions and political activists in Sri Lanka's capital have rallied against proposed anti-terrorism and anti-crime bills.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/sri-lanka-unions-protest-bills-expanding-police-powers-137909130",
+    "publishedAt": "2026-11-06T14:15:08.000Z"
+  },
+  {
+    "id": "4796e8be53898d38",
+    "title": "Anti-fire ant eradication activist convicted after using legal arguments ‘similar to sovereign citizens’",
+    "summary": "Legal expert compares Trevor Hold’s failed defence to ‘tried and tested argument’ used by sovereign citizen movement.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/07/trevor-hold-activist-convicted-qld-fire-ant-eradication-program-queensland-ntwnfb",
+    "publishedAt": "2026-11-06T14:00:46.000Z"
+  },
+  {
+    "id": "490729b43c0fa668",
+    "title": "The Victorian Liberals’ campaign bus was supposed to be a reset. Instead it became the symbol of a rough week",
+    "summary": "Crashing into a shop awning ended the first outing of the Jess Express – but the opposition’s electoral momentum will be harder to stop.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/07/the-victorian-liberals-campaign-bus-was-supposed-to-be-a-reset-instead-it-became-the-symbol-of-a-rough-week",
+    "publishedAt": "2026-11-06T14:00:45.000Z"
+  },
+  {
+    "id": "80be94d0a1b978b3",
+    "title": "Oxford, Bethnal Green and the Guardian: surprising British backstory of senator-elect Abdul El-Sayed",
+    "summary": "In a Guardian article in 2010, the Oxford Rhodes scholar said UK democracy had the ‘upper hand’ over the US.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/oxford-guardian-us-midterms-abdul-el-sayed",
+    "publishedAt": "2026-11-06T14:00:44.000Z"
+  },
+  {
+    "id": "e472bca6acfb22da",
+    "title": "Veto or deals: Can Trump find a way to work with Democrats?",
+    "summary": "Trump has three options to affect legislation, say analysts: veto legislation, enforce executive orders or make deals.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/veto-or-deals-can-trump-find-a-way-to-work-with-democrats?traffic_source=rss",
+    "publishedAt": "2026-11-06T13:58:03.000Z"
+  },
+  {
+    "id": "ddde8c49208d7b59",
+    "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
+    "summary": "Au's arrest last year was the first publicly known prosecution under Macao's national security law since it was enacted in 2009.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
+    "publishedAt": "2026-11-06T13:56:43.000Z"
+  },
+  {
+    "id": "35d583ecb9bdf612",
+    "title": "EU charges TikTok with failing to protect users’ mental health",
+    "summary": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+    "publishedAt": "2026-11-06T13:49:39.000Z"
+  },
+  {
+    "id": "a03fc59207472d0d",
+    "title": "What a Trump-Xi-Putin summit could mean – and what it wouldn’t",
+    "summary": "A Trump-Xi-Putin meeting at APEC would be a coup for Moscow, analysts say, but Beijing appears lukewarm.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss",
+    "publishedAt": "2026-11-06T13:49:07.000Z"
+  },
+  {
+    "id": "2a2c483ce3c39e44",
+    "title": "US job growth exceeds expectations in October despite economic uncertainty",
+    "summary": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
+    "publishedAt": "2026-11-06T13:42:26.000Z"
+  },
+  {
+    "id": "c6531d8501632228",
+    "title": "Further bomb threats disrupt at least another 18 flights across Europe",
+    "summary": "Media organisations in Ireland and UK also affected as apparently coordinated effort to cause chaos continues.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+    "publishedAt": "2026-11-06T13:34:59.000Z"
+  },
+  {
+    "id": "c2f70f66f991b980",
+    "title": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
+    "summary": "Ukrainian officials say DNA tests are being used to identify bodies while up to 39 remain trapped under rubble.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss",
+    "publishedAt": "2026-11-06T13:30:18.000Z"
+  },
+  {
+    "id": "7395eb82da26afbf",
+    "title": "Portugal FA pledges to honour Cristiano Ronaldo as Jorge Jesus names squad",
+    "summary": "Portuguese FA promises to celebrate Ronaldo, although it is unclear whether he ⁠would agree to a farewell appearance.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/6/portugal-fa-pledges-to-honour-cristiano-ronaldo-as-jorge-jesus-names-squad?traffic_source=rss",
+    "publishedAt": "2026-11-06T13:23:52.000Z"
+  },
+  {
     "id": "7d2735033d3ad54f",
     "title": "Wales scraps controversial Uganda tree-planting scheme",
     "summary": "The Welsh government has given more than £4m to the scheme since 2015, but will end it due to budget pressures.",
@@ -16,6 +124,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us",
     "publishedAt": "2026-11-06T13:03:38.000Z"
+  },
+  {
+    "id": "897148a24bb0b9f0",
+    "title": "The Legend of Zelda: Ocarina of Time has revived the midnight game launch – but was it worth the wait?",
+    "summary": "When our writer found himself among the hundreds on Oxford Street hoping to get their hands on early copies and collectibles, it was a heartwarming reminder of the shared experience of fandom.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/06/the-legend-of-zelda-ocarina-of-time-midnight-game-launch",
+    "publishedAt": "2026-11-06T13:00:43.000Z"
   },
   {
     "id": "9c837a62eed35d84",
@@ -1116,6 +1233,15 @@
     "publishedAt": "2026-11-05T21:27:24.000Z"
   },
   {
+    "id": "31f9061492aeb93e",
+    "title": "UK doctor infected with Ebola being treated at London hospital",
+    "summary": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo",
+    "publishedAt": "2026-11-05T21:26:09.000Z"
+  },
+  {
     "id": "dcb771ac66309941",
     "title": "Nasdaq sees worst day in 19 months as investors bet on AI slowdown after Democrats’ election triumph",
     "summary": "Nearly $2tn shaved off Nasdaq value as worries of curbs to AI datacenters ripple across bourses.",
@@ -1222,131 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/05/kansas-voters-trump-republicans-dispatch",
     "publishedAt": "2026-11-05T20:00:32.000Z"
-  },
-  {
-    "id": "5ca12d800f02bac8",
-    "title": "Israel's president set to hand Netanyahu rival first chance to form government",
-    "summary": "Neither Benjamin Netanyahu's Likud-led bloc nor the opposition, led by former military chief Gadi Eisenkot, secured enough seats for a parliamentary majority in last week's election.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-06/israel-president-coalition-talks/107353572",
-    "publishedAt": "2026-11-05T20:00:19.000Z"
-  },
-  {
-    "id": "4f290ca7e80e5f82",
-    "title": "US accuses Mexican judge of $2m bribe to free accused drug trafficker allegedly linked to ex-Olympic snowboarder",
-    "summary": "The judge oversaw extradition proceedings in Mexico for a Canadian citizen allegedly helping Ryan Wedding.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/mexican-judge-us-arrest-drug-trafficking",
-    "publishedAt": "2026-11-05T19:58:49.000Z"
-  },
-  {
-    "id": "0e9747e84b550ea8",
-    "title": "Who could be behind hoax bomb threats to European air travel?",
-    "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo",
-    "publishedAt": "2026-11-05T19:58:40.000Z"
-  },
-  {
-    "id": "6d0d46f81aa5b9f8",
-    "title": "More than a dozen flights in Europe receive bomb threats that an official calls 'malicious' hoaxes",
-    "summary": "Authorities say that bomb threats have targeted more than a dozen flights in Europe, leading to a slew of emergency landings and military escorts in some cases.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/dozen-flights-europe-receive-bomb-threats-official-calls-137869253",
-    "publishedAt": "2026-11-05T19:57:53.000Z"
-  },
-  {
-    "id": "b487d59362374db9",
-    "title": "Who is Nithya Raman, the democratic socialist who will be Los Angeles’s next mayor?",
-    "summary": "Urban planner and outsider who bested Karen Bass has close ties to Hollywood progressives – and a complicated relationship with the DSA.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/who-is-nithya-raman-los-angeles-mayor",
-    "publishedAt": "2026-11-05T19:50:38.000Z"
-  },
-  {
-    "id": "de74957836bcd993",
-    "title": "Top US civil rights official resigns",
-    "summary": "New Democratic Congress expected to probe Trump Justice Department office's handling of Epstein files and ICE killings.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss",
-    "publishedAt": "2026-11-05T19:48:00.000Z"
-  },
-  {
-    "id": "2e438c49db5996fa",
-    "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
-    "summary": "US first lady hosts Russian, Ukrainian officials at the White House, urges two sides to build on recent local truce.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
-    "publishedAt": "2026-11-05T19:31:28.000Z"
-  },
-  {
-    "id": "52bc5920040472e1",
-    "title": "Could midterms backlash spell the end of Trump's MAGA movement?",
-    "summary": "The US midterms result raises a glaring question: Is this the beginning of the end for Donald Trump's MAGA movement?",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-06/midterms-put-trump-maga-movement-future-in-question/107348864",
-    "publishedAt": "2026-11-05T19:29:09.000Z"
-  },
-  {
-    "id": "829ef7bbf9b45e33",
-    "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-    "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o",
-    "publishedAt": "2026-11-05T19:08:08.000Z"
-  },
-  {
-    "id": "ad5a20470de49065",
-    "title": "‘Our work’s not done’: Russell Brand detective urges other potential victims to come forward",
-    "summary": "Brand is under investigation over two more rape allegations and police say others could speak up after guilty verdicts.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-detective-other-potential-victims",
-    "publishedAt": "2026-11-05T19:01:39.000Z"
-  },
-  {
-    "id": "cd2dba19d63462cd",
-    "title": "Division among US Democrats over Schumer’s leadership role",
-    "summary": "Some Democratic senators – and the very voters that swept them into power – are demanding new leadership.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/division-among-us-democrats-over-schumers-leadership-role?traffic_source=rss",
-    "publishedAt": "2026-11-05T18:53:04.000Z"
-  },
-  {
-    "id": "afb479b5a3a36b84",
-    "title": "NHS England cancer diagnoses at record high with 1,000 people diagnosed every day",
-    "summary": "While NHS is identifying more cases, it is failing to meet timescale targets on diagnosis and treatment, experts say.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/05/nhs-england-cancer-diagnoses-record-high-1000-people-diagnosed-every-day",
-    "publishedAt": "2026-11-05T18:49:25.000Z"
-  },
-  {
-    "id": "9315f5e8b4bcfcd6",
-    "title": "Manhunt in western Turkey after eight killed in series of shootings",
-    "summary": "Eight people have been killed and one seriously injured in a series of shootings in western Turkey.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko",
-    "publishedAt": "2026-11-05T18:48:53.000Z"
-  },
-  {
-    "id": "fa785fffcec5f960",
-    "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-    "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-    "publishedAt": "2026-11-05T18:48:07.000Z"
   }
 ]
