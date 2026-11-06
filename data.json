@@ -1,5 +1,14 @@
 [
   {
+    "id": "39029a1fb0f18621",
+    "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+    "summary": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o",
+    "publishedAt": "2026-11-06T01:22:39.000Z"
+  },
+  {
     "id": "530d51cbea5a9362",
     "title": "Tempted by snacks before bed? Here's why - and what you can do about it",
     "summary": "There are biological reasons why you may reach for sweet treats before bed, but you can change the habit.",
@@ -468,6 +477,15 @@
     "publishedAt": "2026-11-05T18:00:00.000Z"
   },
   {
+    "id": "179aa43485e666a5",
+    "title": "French protests see numbers surge as unions join strikes over high cost of living",
+    "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
+    "publishedAt": "2026-11-05T17:59:53.000Z"
+  },
+  {
     "id": "e0e95cc58dd5bce7",
     "title": "AI stocks plunge after election, driving down US markets",
     "summary": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
@@ -673,6 +691,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/5/vance-eyes-2028-reset-as-republicans-mull-pivot-after-us-midterms-drubbing?traffic_source=rss",
     "publishedAt": "2026-11-05T16:12:35.000Z"
+  },
+  {
+    "id": "0e7e15d00cc57d3f",
+    "title": "Channel 4 axes Married at First Sight UK after rape allegations",
+    "summary": "Decision made in wake of two reviews ordered following two allegations of rape and one of sexual misconduct during filming.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/05/channel-4-axes-married-at-first-sight-uk-over-rape-allegations",
+    "publishedAt": "2026-11-05T16:05:44.000Z"
   },
   {
     "id": "886ff55cf7f096eb",
@@ -1321,32 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/5/visualising-how-the-us-midterms-turned-the-map-blue?traffic_source=rss",
     "publishedAt": "2026-11-05T11:09:58.000Z"
-  },
-  {
-    "id": "e4437a9f17854b59",
-    "title": "Welsh aviation firm AerFin bought in £475m deal",
-    "summary": "The company, which was majority owned by a private equity firm, said it was beginning a \"new chapter\".",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o",
-    "publishedAt": "2026-11-05T11:01:06.000Z"
-  },
-  {
-    "id": "62d367a8bbe94969",
-    "title": "Rural voters were feeling left behind before the midterms, poll shows",
-    "summary": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
-    "publishedAt": "2026-11-05T11:00:22.000Z"
-  },
-  {
-    "id": "aaf887c1b39d907b",
-    "title": "How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil",
-    "summary": "Older voters praised for helping tip balance in leftwing president’s favour against far-right Flávio Bolsonaro in runoff.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro",
-    "publishedAt": "2026-11-05T11:00:21.000Z"
   }
 ]
