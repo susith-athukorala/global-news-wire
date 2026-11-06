@@ -1,5 +1,32 @@
 [
   {
+    "id": "e8c0c67decf9c751",
+    "title": "California governor commutes sentences of more than 500 people on death row",
+    "summary": "Gavin Newsom cites state values and flaws in the legal system as he grants largest mass clemency in US history.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
+    "publishedAt": "2026-11-06T01:39:35.000Z"
+  },
+  {
+    "id": "23708090426bccf5",
+    "title": "Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’",
+    "summary": "Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
+    "publishedAt": "2026-11-06T01:36:20.000Z"
+  },
+  {
+    "id": "8ee71cf200b4448f",
+    "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+    "summary": "Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+    "publishedAt": "2026-11-06T01:22:49.000Z"
+  },
+  {
     "id": "39029a1fb0f18621",
     "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
     "summary": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
@@ -466,6 +493,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/american-national-sentenced-life-prison-murders-partner-infant-137884494",
     "publishedAt": "2026-11-05T18:05:30.000Z"
+  },
+  {
+    "id": "b4370f8a9346467f",
+    "title": "In layman’s terms, this is what is happening at David Jones",
+    "summary": "Can you be in administration and have receivers? Yes, and it is happening at David Jones, which is seeking to restructure but will likely face challenges.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-06/david-jones-what-now-under-administration/107350708",
+    "publishedAt": "2026-11-05T18:00:00.000Z"
   },
   {
     "id": "bae64a4562d8c9f2",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqe9l7lv9j58o",
     "publishedAt": "2026-11-05T11:21:55.000Z"
-  },
-  {
-    "id": "e7c9f30aa1fbcfaf",
-    "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
-    "summary": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o",
-    "publishedAt": "2026-11-05T11:21:35.000Z"
-  },
-  {
-    "id": "e3b6f3acb88b251a",
-    "title": "Ronaldo retires from Portugal duty",
-    "summary": "Portugal legend Cristiano Ronaldo says he is retiring from international football.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o",
-    "publishedAt": "2026-11-05T11:17:03.000Z"
-  },
-  {
-    "id": "8f628657eac16c9a",
-    "title": "Pound hits highest level since its crash after 2016 Brexit vote",
-    "summary": "Ten-year high shows sterling’s strength against other currencies following fall of dollar after US midterm elections.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/05/pound-hits-highest-level-since-2016-brexit-vote",
-    "publishedAt": "2026-11-05T11:14:30.000Z"
-  },
-  {
-    "id": "d26c2325c76ae16a",
-    "title": "Visualising how the US midterms turned the map blue",
-    "summary": "Who voted, which seats flipped and who made history? A look at the numbers behind the 2026 US midterm elections.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/visualising-how-the-us-midterms-turned-the-map-blue?traffic_source=rss",
-    "publishedAt": "2026-11-05T11:09:58.000Z"
   }
 ]
