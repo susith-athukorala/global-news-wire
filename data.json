@@ -1,5 +1,86 @@
 [
   {
+    "id": "d4d0c401b0d9951c",
+    "title": "'Extra special' tamarin twins born at zoo",
+    "summary": "Shaldon Wildlife Trust says it is one of two European zoos to breed the species in 2026.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmx23zzlezp8o",
+    "publishedAt": "2026-11-06T06:15:18.000Z"
+  },
+  {
+    "id": "1959a3fb8fc5434d",
+    "title": "'I've taken an extra job to pay for heating oil'",
+    "summary": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo",
+    "publishedAt": "2026-11-06T06:06:00.000Z"
+  },
+  {
+    "id": "84f3d6eeba5dab07",
+    "title": "Minister tells energy suppliers to do more to help households tackle unpaid bills this winter",
+    "summary": "Bosses from Great Britain’s biggest energy companies called to meeting as part of government’s debt relief plan.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/06/minister-energy-suppliers-help-households-unpaid-bills-debt-relief",
+    "publishedAt": "2026-11-06T06:00:44.000Z"
+  },
+  {
+    "id": "cd93e40410652c63",
+    "title": "Police turn to charities for help with teenagers caught up in online child abuse",
+    "summary": "As new pornography laws come into force, officers say viewing extreme content could lead young people towards abuse images.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/06/police-charities-pornography-online-child-abuse",
+    "publishedAt": "2026-11-06T06:00:44.000Z"
+  },
+  {
+    "id": "54dea1be6b148c8b",
+    "title": "US Justice Department sues Penn State over undocumented students’ tuition",
+    "summary": "The lawsuit challenges Penn State's policy that allows undocumented students to qualify for reduced tuition rates.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/us-justice-department-sues-penn-state-over-undocumented-students-tuition?traffic_source=rss",
+    "publishedAt": "2026-11-06T05:57:27.000Z"
+  },
+  {
+    "id": "c7eb863fd2828262",
+    "title": "What to know about Pope Leo XIV's trip to Uruguay, Argentina and Peru",
+    "summary": "Pope Leo XIV is returning home to the continent where he spent two decades as a missionary priest and learned to be a pastor, visiting Uruguay, Argentina and his second homeland of Peru.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-leo-xivs-trip-uruguay-argentina-peru-137902288",
+    "publishedAt": "2026-11-06T05:40:28.000Z"
+  },
+  {
+    "id": "ac6ae88aa51ac76f",
+    "title": "Officials search for the bear that killed a mother and daughter in British Columbia",
+    "summary": "Conservation officers are searching for a grizzly bear that killed a woman and her daughter in British Columbia, Canada, over the weekend.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/officials-search-bear-killed-mother-daughter-british-columbia-137902473",
+    "publishedAt": "2026-11-06T05:38:44.000Z"
+  },
+  {
+    "id": "bfa3680c9519ec7b",
+    "title": "Why one Republican won a redrawn Texas district despite blue tsunami",
+    "summary": "Republican redistricting largely backfired in Texas and beyond, but one redrawn district delivered for the party.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/why-one-republican-won-a-redrawn-texas-district-despite-blue-tsunami?traffic_source=rss",
+    "publishedAt": "2026-11-06T05:03:57.000Z"
+  },
+  {
+    "id": "e5717fc7abd40ca2",
+    "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+    "summary": "Call comes as Iraq's top diplomat urges armed groups not to join any Iranian retaliation to US attacks.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss",
+    "publishedAt": "2026-11-06T05:00:47.000Z"
+  },
+  {
     "id": "d6a5104893280290",
     "title": "Trump issues proclamation declaring Oval Office national monument",
     "summary": "Following election losses, the signing marks Trump's third event of the week focused on signature renovation projects.",
@@ -115,6 +196,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo",
     "publishedAt": "2026-11-06T01:20:01.000Z"
+  },
+  {
+    "id": "09923877632ebb42",
+    "title": "California governor to grant clemency to all 548 death row inmates in state",
+    "summary": "The fate of hundreds of inmates facing death sentences in California hinges on the Supreme Court's approval after the governor says he wants to end state-sanctioned killing.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-06/california-govenor-newsom-seeks-clemency-for-death-row-inmates/107354146",
+    "publishedAt": "2026-11-06T00:49:38.000Z"
   },
   {
     "id": "530d51cbea5a9362",
@@ -385,6 +475,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/05/kansas-voters-trump-republicans-dispatch",
     "publishedAt": "2026-11-05T20:00:32.000Z"
+  },
+  {
+    "id": "5ca12d800f02bac8",
+    "title": "Israel's president set to hand Netanyahu rival first chance to form government",
+    "summary": "Neither Benjamin Netanyahu's Likud-led bloc nor the opposition, led by former military chief Gadi Eisenkot, secured enough seats for a parliamentary majority in last week's election.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-06/israel-president-coalition-talks/107353572",
+    "publishedAt": "2026-11-05T20:00:19.000Z"
   },
   {
     "id": "4f290ca7e80e5f82",
@@ -891,6 +990,15 @@
     "publishedAt": "2026-11-05T15:09:31.000Z"
   },
   {
+    "id": "133896d361a11332",
+    "title": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume",
+    "summary": "Russia and Ukraine have traded damaging airstrikes as talks resume in Brussels to discuss Ukraine's postwar reconstruction and security guarantees.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/russia-ukraine-trade-airstrikes-reconstruction-security-talks-resume-137871457",
+    "publishedAt": "2026-11-05T15:06:22.000Z"
+  },
+  {
     "id": "cb01fc775ab1cdc8",
     "title": "Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies",
     "summary": "Experts have said the US-funded trial would deny critical vaccines to thousands of infants.",
@@ -1240,113 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results",
     "publishedAt": "2026-11-05T12:35:11.000Z"
-  },
-  {
-    "id": "751f39882d80729f",
-    "title": "How America voted in maps and charts",
-    "summary": "See the maps and charts that show how America voted in the US midterm elections.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo",
-    "publishedAt": "2026-11-05T12:32:52.000Z"
-  },
-  {
-    "id": "1be1b35187a51b3d",
-    "title": "Hong Kong pro-democracy activist faces sentencing in 2nd national security case",
-    "summary": "A Hong Kong court has sentenced activist Joshua Wong to 10 more years in prison under a national security law imposed by Beijing.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/hong-kong-pro-democracy-activist-joshua-wong-faces-137861278",
-    "publishedAt": "2026-11-05T12:26:43.000Z"
-  },
-  {
-    "id": "0987c826d294237a",
-    "title": "Investigation into 'major fish kill' after pollution incident",
-    "summary": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o",
-    "publishedAt": "2026-11-05T12:26:00.000Z"
-  },
-  {
-    "id": "26d1bad527e07a1f",
-    "title": "Teens worldwide aren't getting enough exercise -- especially girls",
-    "summary": "A new study looks at the recommended amount of daily exercise for adolescents — and how few are getting it.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
-    "publishedAt": "2026-11-05T12:24:14.000Z"
-  },
-  {
-    "id": "4dd06a88f770a2b8",
-    "title": "Workers strike across France, hundreds of thousands expected to protest",
-    "summary": "Demonstrators are demanding an increase in the minimum wage and higher salaries for all workers, among other reforms.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/workers-strike-across-france-hundreds-of-thousands-expected-to-protest?traffic_source=rss",
-    "publishedAt": "2026-11-05T12:21:13.000Z"
-  },
-  {
-    "id": "ebf53c76bc0ccbbd",
-    "title": "Three ways the interest rate rise could affect you",
-    "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o",
-    "publishedAt": "2026-11-05T12:11:04.000Z"
-  },
-  {
-    "id": "a582647bb3efd945",
-    "title": "Security ⁠officer killed in stabbing attack in Jordan’s capital",
-    "summary": "This is a breaking news story.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/security-%e2%81%a0officer-killed-in-stabbing-attack-in-jordans-capital?traffic_source=rss",
-    "publishedAt": "2026-11-05T12:04:00.000Z"
-  },
-  {
-    "id": "a72192c804a4b46a",
-    "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
-    "summary": "Democrats have regained control of Congress. They have a long list of investigations into Trump planned.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
-    "publishedAt": "2026-11-05T12:02:24.000Z"
-  },
-  {
-    "id": "bad87b539115be2f",
-    "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
-    "summary": "Decision by MPC a week after the budget comes as Iran war continues to drive up energy costs.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
-    "publishedAt": "2026-11-05T12:00:31.000Z"
-  },
-  {
-    "id": "8b99a90c0bbb6cb8",
-    "title": "‘Neocolonial belch’: what can Britain learn from backlash to Dutch slavery apology?",
-    "summary": "In the Netherlands many felt the move, while welcome, was mishandled and say it opened up a new phase of reckoning.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/what-can-britain-learn-dutch-slavery-apology",
-    "publishedAt": "2026-11-05T12:00:23.000Z"
-  },
-  {
-    "id": "fc734c3fbdaa1ba9",
-    "title": "Outcry after ICE violently detains US citizen walking to high school: ‘I thought they were going to kill me’",
-    "summary": "Agents pinned down Erik Zepeda, a 20-year-old with disabilities, and left him with a broken wrist in latest example of ICE brutality as activity surges in California.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/ice-california-detention-santa-maria",
-    "publishedAt": "2026-11-05T12:00:22.000Z"
-  },
-  {
-    "id": "e11f0c2f567d2ea8",
-    "title": "Security officer attacked and killed near Sri Lankan Embassy in Jordan's capital",
-    "summary": "Authorities say an assailant has attacked and killed a security officer near the Sri Lankan Embassy in the Jordanian capital Amman.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/security-officer-attacked-killed-sri-lankan-embassy-jordans-137871485",
-    "publishedAt": "2026-11-05T11:46:06.000Z"
   }
 ]
