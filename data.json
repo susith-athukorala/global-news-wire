@@ -1,5 +1,23 @@
 [
   {
+    "id": "fe18765f21847cfb",
+    "title": "What Indonesia's 'Watergate' moment says about two powerful men",
+    "summary": "After the alleged wire-tapping of the president and some of his most trusted allies, some experts wonder if it signals a growing rift between Indonesia's political heavyweights.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-06/indonesia-alleged-wire-tapping-widodo-subianto-political-drama/107354636",
+    "publishedAt": "2026-11-06T04:02:40.000Z"
+  },
+  {
+    "id": "c88026a9b84d8721",
+    "title": "Bondi beach shooting: Woman, 90, shot during massacre dies in hospital year after antisemitic attack",
+    "summary": "Woman was shot on 14 December 2025 during Hanukkah festival and she has been in and out of hospital since.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
+    "publishedAt": "2026-11-06T03:31:38.000Z"
+  },
+  {
     "id": "89aed8ed743fffe9",
     "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
     "summary": "Putin meets Iran's top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
@@ -1330,23 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood?traffic_source=rss",
     "publishedAt": "2026-11-05T11:34:29.000Z"
-  },
-  {
-    "id": "3cb7cc86cf182492",
-    "title": "‘Knives out’: Will Congress impeach Pete Hegseth after GOP midterms loss?",
-    "summary": "Democrats can adopt the impeachment articles in the House but will need Republican backing in the Senate.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/knives-out-will-congress-impeach-pete-hegseth-after-gop-midterms-loss?traffic_source=rss",
-    "publishedAt": "2026-11-05T11:33:38.000Z"
-  },
-  {
-    "id": "d14ba9ab2392f0f9",
-    "title": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
-    "summary": "Despite wins, Democrats lack the two-thirds majority needed to overturn a presidential veto and push through a law.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts?traffic_source=rss",
-    "publishedAt": "2026-11-05T11:32:40.000Z"
   }
 ]
