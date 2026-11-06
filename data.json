@@ -1,5 +1,95 @@
 [
   {
+    "id": "edfe63dac38d71f5",
+    "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
+    "summary": "Trump again said a major Russia-Ukraine deal is 'very close', but gave no specifics.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+    "publishedAt": "2026-11-06T00:06:31.000Z"
+  },
+  {
+    "id": "8a3fdc3831a56a0c",
+    "title": "The engine parts that 'fight the laws of the universe'",
+    "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo",
+    "publishedAt": "2026-11-06T00:06:06.000Z"
+  },
+  {
+    "id": "226bd7c0051e4296",
+    "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+    "summary": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o",
+    "publishedAt": "2026-11-06T00:02:52.000Z"
+  },
+  {
+    "id": "d85e0362da0f699a",
+    "title": "Florida puts man to death as three US executions scheduled for same day",
+    "summary": "Indiana executed a man hours earlier, and in Alabama, a man was scheduled to die by injection later.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/executions-florida-alabama-indiana",
+    "publishedAt": "2026-11-05T23:48:04.000Z"
+  },
+  {
+    "id": "be8433d5bd5bb568",
+    "title": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
+    "summary": "DSA-backed Raman will lead America's second largest city, promising action on homelessness and affordable housing.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss",
+    "publishedAt": "2026-11-05T23:46:52.000Z"
+  },
+  {
+    "id": "a76666113041c043",
+    "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+    "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo",
+    "publishedAt": "2026-11-05T23:16:53.000Z"
+  },
+  {
+    "id": "6c8ea843fcfee51e",
+    "title": "Carney unveils budget to strengthen Canada's economy as Trump's trade war continues",
+    "summary": "Canadian Prime Minister Mark Carney’s government unveiled a sweeping budget Thursday aimed at making Canada less dependent on the United States as President Donald Trump’s trade war reshapes the longtime allies’ economic relationship.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/carney-unveils-budget-strengthen-canadas-economy-trumps-trade-137894318",
+    "publishedAt": "2026-11-05T23:04:49.000Z"
+  },
+  {
+    "id": "2305cc22aca457b9",
+    "title": "Powerhouse Parramatta opens this weekend – and it’s dazzling inside and out",
+    "summary": "Coups de théâtre abound in the $915m addition to western Sydney’s skyline, which opens on Saturday with five new exhibitions – and a 23-day festival.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/culture/ng-interactive/2026/nov/06/powerhouse-parramatta-opening-festival",
+    "publishedAt": "2026-11-05T23:00:36.000Z"
+  },
+  {
+    "id": "75b0af2bbdb41e45",
+    "title": "Firms told to publish salaries in job adverts ahead of new law",
+    "summary": "The goverment argues the change will help jobseekers and could help to prevent pay discrimination.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o",
+    "publishedAt": "2026-11-05T22:32:02.000Z"
+  },
+  {
+    "id": "30ae31285a922e2b",
+    "title": "Shotgun attacker kills 8 across 3 sites in western Turkey before capture",
+    "summary": "An attacker armed with a shotgun has killed eight people in three locations in western Turkey.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/shotgun-attacker-kills-8-3-sites-western-turkey-137894224",
+    "publishedAt": "2026-11-05T22:24:39.000Z"
+  },
+  {
     "id": "00c7b1dd49e645cd",
     "title": "Fox News suffers ratings slump on bleak election night for Republicans",
     "summary": "In early, preliminary figures, the news channel trailed several other networks in prime-time viewership.",
@@ -7,6 +97,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/media/2026/nov/04/fox-news-midterm-ratings",
     "publishedAt": "2026-11-05T22:04:20.000Z"
+  },
+  {
+    "id": "9e7b5e7b6c4238a3",
+    "title": "Generation Z and young voters help redefine US politics after midterms",
+    "summary": "Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
+    "publishedAt": "2026-11-05T21:49:31.000Z"
+  },
+  {
+    "id": "4a6b5f43606e78bf",
+    "title": "South Africa’s ANC on track for new lows in local polls",
+    "summary": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
+    "publishedAt": "2026-11-05T21:48:16.000Z"
   },
   {
     "id": "a8484a34eec7a404",
@@ -171,6 +279,15 @@
     "publishedAt": "2026-11-05T19:31:28.000Z"
   },
   {
+    "id": "52bc5920040472e1",
+    "title": "Could midterms backlash spell the end of Trump's MAGA movement?",
+    "summary": "The US midterms result raises a glaring question: Is this the beginning of the end for Donald Trump's MAGA movement?",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-06/midterms-put-trump-maga-movement-future-in-question/107348864",
+    "publishedAt": "2026-11-05T19:29:09.000Z"
+  },
+  {
     "id": "829ef7bbf9b45e33",
     "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
     "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
@@ -225,6 +342,15 @@
     "publishedAt": "2026-11-05T18:48:07.000Z"
   },
   {
+    "id": "383d1ff9832985e6",
+    "title": "What will the NZ election mean for the future of Māori rights?",
+    "summary": "As the people of Aotearoa/New Zealand head to the polls, what will it mean for the nation's founding document, the Treaty of Waitangi, and the future of Māori rights?",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-06/new-zealand-election-2026-treaty-of-waitangi-and-maori-rights/107346020",
+    "publishedAt": "2026-11-05T18:47:39.000Z"
+  },
+  {
     "id": "ee34a295b1d85b7c",
     "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
     "summary": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.",
@@ -268,6 +394,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
     "publishedAt": "2026-11-05T18:13:01.000Z"
+  },
+  {
+    "id": "be1b302213d8d7c9",
+    "title": "Winner of the Prix Goncourt literary prize admits to using AI",
+    "summary": "Philippe Jaenada told French radio that he used ChatGPT to ‘play with the reader’, after the prize removed a different book from its longlist over allegations of AI use.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada",
+    "publishedAt": "2026-11-05T18:08:58.000Z"
   },
   {
     "id": "952f18146c004dd7",
@@ -720,6 +855,15 @@
     "publishedAt": "2026-11-05T14:05:38.000Z"
   },
   {
+    "id": "32023580ea12c9b8",
+    "title": "French unions unite for nationwide strikes, piling pressure on Macron's government",
+    "summary": "Hundreds of thousands of trade union members have joined nationwide strikes and demonstrations in France to demand higher wages and support the high school protest movement.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/french-unions-unite-nationwide-strikes-piling-pressure-macrons-137868915",
+    "publishedAt": "2026-11-05T14:02:22.000Z"
+  },
+  {
     "id": "0f55495431159363",
     "title": "One Nation asks donors at $3,000-a-head Sydney fundraiser to accept ‘non-disclosure agreement’",
     "summary": "Transparency experts raise concerns about plans to use NDA to gag attendees at event featuring Pauline Hanson in lead-up to NSW election.",
@@ -1071,6 +1215,15 @@
     "publishedAt": "2026-11-05T11:24:58.000Z"
   },
   {
+    "id": "30f853e6c049c997",
+    "title": "Toyota raises profit projection for the year as sales hold up",
+    "summary": "Toyota has reported a 19% drop in fiscal second-quarter profit but raises its full-year forecast.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/toyota-raises-profit-projection-year-sales-hold-137868815",
+    "publishedAt": "2026-11-05T11:22:20.000Z"
+  },
+  {
     "id": "4e7aef58a22f0a9a",
     "title": "Midwives concerned over possible baby unit closures",
     "summary": "The RCM union says possible closures in Norfolk would also affect patients in neighbouring counties.",
@@ -1195,158 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
     "publishedAt": "2026-11-05T10:26:03.000Z"
-  },
-  {
-    "id": "b712a913862380e1",
-    "title": "‘Helpless’: The families facing winter in tents on the beach in Gaza",
-    "summary": "An innovative idea to turn damaged cooking pots into seawater barriers is providing families in Gaza with some relief.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss",
-    "publishedAt": "2026-11-05T10:25:28.000Z"
-  },
-  {
-    "id": "e24eadb1154e0696",
-    "title": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
-    "summary": "US Vice President JD Vance blames the war for the midterm rout as Democrats prepare to use Congress to rein it in.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss",
-    "publishedAt": "2026-11-05T10:24:14.000Z"
-  },
-  {
-    "id": "d39892909fefad32",
-    "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-    "summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o",
-    "publishedAt": "2026-11-05T10:04:51.000Z"
-  },
-  {
-    "id": "d50841827f22ef42",
-    "title": "England’s Harry Kane extends Bayern Munich contract until 2029",
-    "summary": "'I love the club, the fans and the city,' says the Ballon d'Or ‌winner after extending his stay with German champions.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/5/englands-harry-kane-extends-bayern-munich-contract-until-2029?traffic_source=rss",
-    "publishedAt": "2026-11-05T10:04:26.000Z"
-  },
-  {
-    "id": "6649a304896881ea",
-    "title": "Not just Congress: Democrats’ blue wave washes over state legislatures across US",
-    "summary": "Democrats gain hundreds of seats in historic victories – and party set to embark on aggressive legislative spree.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/democrats-state-legislatures-midterm-elections",
-    "publishedAt": "2026-11-05T10:00:05.000Z"
-  },
-  {
-    "id": "8e8bc416e624bf39",
-    "title": "Reproductive rights protected in several states by midterm election ballot measures",
-    "summary": "Voters in Nevada, Virginia, Missouri and Idaho passed or strengthened protections for women’s reproductive freedom.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/05/abortion-ballot-measures-pass",
-    "publishedAt": "2026-11-05T10:00:03.000Z"
-  },
-  {
-    "id": "92ee42087b0306b4",
-    "title": "South West Water’s failure to fix leaks ‘putting customer supplies at risk’",
-    "summary": "With parts of region served by company in severe drought still, regulators give it six weeks to come up with action plan.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/05/south-west-water-failure-fix-leaks-putting-customer-supplies-at-risk",
-    "publishedAt": "2026-11-05T10:00:02.000Z"
-  },
-  {
-    "id": "5ba4bbb36290c0df",
-    "title": "‘It’s so glossy and sexy’: 10 movies (and one TV show) that inspired Grand Theft Auto",
-    "summary": "As GTA 6 looms, we look at the films that have influenced Rockstar’s creatives, from Heat to Bonnie and Clyde, via Boyz n the Hood and Speed.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/05/its-so-glossy-and-sexy-10-movies-and-one-tv-show-that-inspired-grand-theft-auto",
-    "publishedAt": "2026-11-05T10:00:01.000Z"
-  },
-  {
-    "id": "8a155c8754341130",
-    "title": "‘No one cares about the little guy’: Sri Lanka’s fishers still reeling from 2021 toxic plastic spill",
-    "summary": "A stricken container ship shed tonnes of tiny pellets called nurdles on the west coast. Five years on, locals are counting the cost to marine life and livelihoods.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/05/no-one-cares-about-the-little-guy-sri-lankas-fishers-still-reeling-from-2021-toxic-plastic-spill",
-    "publishedAt": "2026-11-05T10:00:00.000Z"
-  },
-  {
-    "id": "029a75e7dbe1fd56",
-    "title": "A month after Yemen government offensive began, war of attrition takes hold",
-    "summary": "The Houthis suffer losses but also inflict pain on government forces and Saudi Arabia.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss",
-    "publishedAt": "2026-11-05T09:58:18.000Z"
-  },
-  {
-    "id": "e27578e13cdfae4b",
-    "title": "US sanctions Indian and Turkish firms accused of helping Iran",
-    "summary": "US Treasury says Indian couple faked ship registries for countries including Guyana and Laos to help Iranian tankers.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss",
-    "publishedAt": "2026-11-05T09:57:04.000Z"
-  },
-  {
-    "id": "473a1e0032992b20",
-    "title": "Israel extends detention of Palestinian journalist Abed Abou Shhadeh",
-    "summary": "Rights group says the journalist's arrest over an interview with Azmi Bishara is an attempt to silence Palestinians.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/israel-extends-detention-of-palestinian-journalist-abed-abou-shhadeh?traffic_source=rss",
-    "publishedAt": "2026-11-05T09:52:02.000Z"
-  },
-  {
-    "id": "023f8151ad60682e",
-    "title": "Three ways Democrats could reshape U.S. foreign policy after the midterms",
-    "summary": "On Morning Edition, Pulitzer Prize-winning historian Anne Applebaum breaks down what a Democratic Congress could change about Trump's foreign policy and what remains beyond its power.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/05/nx-s1-6028977/democrats-foreign-policy-iran-war-ukraine",
-    "publishedAt": "2026-11-05T09:50:34.000Z"
-  },
-  {
-    "id": "eb8477a528b46687",
-    "title": "Bomb threat diverts Dublin-Rome flight to France",
-    "summary": "A separate incident has been reported in Bulgaria, amid a string of bomb threats disrupting air travel across Europe.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
-    "publishedAt": "2026-11-05T09:50:08.000Z"
-  },
-  {
-    "id": "12f07528ed37e668",
-    "title": "Met settles claim brought by Palestine activist ‘treated like a criminal’ during arrest",
-    "summary": "Tej Singh Bhandal, 68, was pulled from a queue and detained under terrorism law in ‘creeping criminalisation of protest action’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/met-settles-claim-brought-by-palestine-activist-treated-like-a-criminal-during-arrest",
-    "publishedAt": "2026-11-05T09:47:01.000Z"
-  },
-  {
-    "id": "3d53b06ca015f49c",
-    "title": "Troops deployed to secure Jakarta trial as tensions remain high over wiretap scandal",
-    "summary": "Indonesian authorities have tasked thousands of police and military personnel to secure a court appearance of former President Joko Widodo, as tensions remain high in the capital over a wiretapping scandal involving senior police officers.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/thousands-troops-tasked-secure-jakarta-trial-tensions-remain-137867986",
-    "publishedAt": "2026-11-05T09:38:21.000Z"
-  },
-  {
-    "id": "aae41779617420a7",
-    "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
-    "summary": "Injuries reported on both sides as Russia and Ukraine trade overnight drone strikes on energy and logistics sites.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
-    "publishedAt": "2026-11-05T09:13:35.000Z"
   }
 ]
