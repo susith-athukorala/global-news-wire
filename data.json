@@ -1,5 +1,86 @@
 [
   {
+    "id": "c5f65bf33ff40e2f",
+    "title": "Israel’s President Herzog to name candidate to form government on Sunday",
+    "summary": "Announcement comes after majority of Israeli lawmakers endorse Eisenkot over Netanyahu.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss",
+    "publishedAt": "2026-11-06T07:09:42.000Z"
+  },
+  {
+    "id": "16dd4552d0e6c99d",
+    "title": "M&S takes on John Lewis in Christmas ad battle with topless ‘shredded Santa’",
+    "summary": "James Norton and Lucy Punch star as a youthful Mr and Mrs Claus in lively ad about shared moments as well as shopping.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/06/marks-and-spencer-john-lewis-christmas-ad-battle-james-norton-lucy-punch-topless-santa",
+    "publishedAt": "2026-11-06T07:00:47.000Z"
+  },
+  {
+    "id": "082cb7cdf9c75343",
+    "title": "Australia appoint Mike Hussey as consultant for Ashes and Cricket World Cup",
+    "summary": "Hussey, known as 'Mr Cricket' for his technical expertise, will also work with Australia during the LA 2028 Olympics.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/6/mike-hussey-australia-cricket-batting-consultant-ashes-world-cup?traffic_source=rss",
+    "publishedAt": "2026-11-06T06:52:30.000Z"
+  },
+  {
+    "id": "0a141fe880c5f96c",
+    "title": "Macau jails pro-democracy campaigner in city's first national security case",
+    "summary": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o",
+    "publishedAt": "2026-11-06T06:46:21.000Z"
+  },
+  {
+    "id": "38b201db52028cee",
+    "title": "Who is Kozo Tashima, the Japanese official running for FIFA presidency?",
+    "summary": "Tashima has served as a football player, coach and bureaucrat, and has a reputation for being a safe pair of hands.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/6/kozo-tashima-japan-fifa-president-election-gianni-infantino?traffic_source=rss",
+    "publishedAt": "2026-11-06T06:43:42.000Z"
+  },
+  {
+    "id": "824b61744ffb28cc",
+    "title": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
+    "summary": "In today’s newsletter: From diverted airliners to hacked ​fridges, a string of disruptive incidents has exposed the ​vulnerabilities of modern ​life. ​There is now an increasingly blurred space between peace and conflict, the grey zone.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal",
+    "publishedAt": "2026-11-06T06:43:04.000Z"
+  },
+  {
+    "id": "f5e4a61e7a5bb815",
+    "title": "Judge temporarily halts building work on Trump’s triumphal arch",
+    "summary": "Federal judge issues 14-day restraining order on any construction work on Washington monument, hours after it was approved by planning commission.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington",
+    "publishedAt": "2026-11-06T06:36:20.000Z"
+  },
+  {
+    "id": "c260bc23342bb07a",
+    "title": "Health minister instructs trusts to pause cuts to Phone First service",
+    "summary": "The triage line was scrapped in Belfast and was to close in the Northern Trust later this month.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crn8wnq05dyqo",
+    "publishedAt": "2026-11-06T06:22:07.000Z"
+  },
+  {
+    "id": "1c8302aa91f40918",
+    "title": "'The veil of shame around postnatal depression needs to go'",
+    "summary": "Mums are helping other parents to recognise the signs of postnatal depression and psychosis.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cv62kel8wnp0o",
+    "publishedAt": "2026-11-06T06:20:44.000Z"
+  },
+  {
     "id": "d4d0c401b0d9951c",
     "title": "'Extra special' tamarin twins born at zoo",
     "summary": "Shaldon Wildlife Trust says it is one of two European zoos to breed the species in 2026.",
@@ -9,6 +90,15 @@
     "publishedAt": "2026-11-06T06:15:18.000Z"
   },
   {
+    "id": "605f0ede9a7df778",
+    "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
+    "summary": "Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
+    "publishedAt": "2026-11-06T06:06:24.000Z"
+  },
+  {
     "id": "1959a3fb8fc5434d",
     "title": "'I've taken an extra job to pay for heating oil'",
     "summary": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
@@ -16,6 +106,24 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo",
     "publishedAt": "2026-11-06T06:06:00.000Z"
+  },
+  {
+    "id": "602899e96277a576",
+    "title": "Did a data centre revolt affect the US mid-term election results?",
+    "summary": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o",
+    "publishedAt": "2026-11-06T06:01:13.000Z"
+  },
+  {
+    "id": "054020677dacc39d",
+    "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+    "summary": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o",
+    "publishedAt": "2026-11-06T06:00:46.000Z"
   },
   {
     "id": "84f3d6eeba5dab07",
@@ -675,6 +783,24 @@
     "publishedAt": "2026-11-05T18:05:30.000Z"
   },
   {
+    "id": "bad87b539115be2f",
+    "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
+    "summary": "Base rate increases from 3.75% and Bank governor signals another rise in near future to combat rising inflation.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+    "publishedAt": "2026-11-05T18:00:28.000Z"
+  },
+  {
+    "id": "6a9419051435aba3",
+    "title": "China wants workers to pay 'social insurance' but many cannot afford it",
+    "summary": "Beijing wants to build a \"more optimised and sustainable social security system\" as China's population aged 60 and over is expected to reach 390 million by 2030.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-06/china-to-fine-employers-not-paying-social-insurance/107326738",
+    "publishedAt": "2026-11-05T18:00:00.000Z"
+  },
+  {
     "id": "b4370f8a9346467f",
     "title": "In layman’s terms, this is what is happening at David Jones",
     "summary": "Can you be in administration and have receivers? Yes, and it is happening at David Jones, which is seeking to restructure but will likely face challenges.",
@@ -1035,6 +1161,15 @@
     "publishedAt": "2026-11-05T14:52:36.000Z"
   },
   {
+    "id": "0987c826d294237a",
+    "title": "Investigation into 'major fish kill' after pollution incident",
+    "summary": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o",
+    "publishedAt": "2026-11-05T14:51:45.000Z"
+  },
+  {
     "id": "79e9c9632f207cf2",
     "title": "Russell Brand found guilty of rape and sexual assault by UK court",
     "summary": "British comedian was convicted by jury at London court of one count of rape and three counts of sexual assault.",
@@ -1213,140 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
     "publishedAt": "2026-11-05T13:47:00.000Z"
-  },
-  {
-    "id": "16b67c918e8fd4e1",
-    "title": "Europe’s far right has a Trump problem after Republican US midterms wipeout",
-    "summary": "European far-right leaders quick to distance themselves from US president and stress their own priorities.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/republican-wipeout-donald-trump-us-midterms-europe-far-right-message",
-    "publishedAt": "2026-11-05T13:36:31.000Z"
-  },
-  {
-    "id": "5f9460ad2c772b49",
-    "title": "Six people dead and seven injured after fire at Brooklyn home",
-    "summary": "Hundreds of first responders worked to control the blaze, and a lithium-ion battery was found at the scene.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/six-people-dead-brooklyn-fire",
-    "publishedAt": "2026-11-05T13:18:45.000Z"
-  },
-  {
-    "id": "4f1186279f4e9b2e",
-    "title": "Faisal Islam: How high will interest rates go?",
-    "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o",
-    "publishedAt": "2026-11-05T13:17:10.000Z"
-  },
-  {
-    "id": "4ddebc6b15e5d049",
-    "title": "Henry Nowak’s killer should have had longer sentence, court of appeal hears",
-    "summary": "Attorney general challenging Vickrum Digwa’s ‘unduly lenient’ sentence, which lawyer for Digwa says is ‘excessive’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/law/2026/nov/05/henry-nowak-killer-vickrum-digwa-should-have-had-longer-sentence-court-of-appeal-hears",
-    "publishedAt": "2026-11-05T13:15:05.000Z"
-  },
-  {
-    "id": "c30fa378e81d1a43",
-    "title": "Mahmood accused of hardening rules for 200,000 successful asylum applicants",
-    "summary": "People previously told they could apply for indefinite leave after five years now come under 30-year ‘earned settlement’ plan.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/05/shabana-mahmood-accused-hardening-immigration-plans-200000-successful-asylum-applicants",
-    "publishedAt": "2026-11-05T13:10:47.000Z"
-  },
-  {
-    "id": "720b7d9b48b91705",
-    "title": "Interest rate rise in midst of cost of living crisis will leave many incredulous",
-    "summary": "Bank’s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
-    "publishedAt": "2026-11-05T13:10:44.000Z"
-  },
-  {
-    "id": "178f800c3b067f09",
-    "title": "Police chiefs divided on proposal to axe England’s 39 forces to create ‘super forces’",
-    "summary": "Review by ex-Met chief, expected to be published soon, calls for replacement of most of 43 forces in England and Wales.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/05/cut-number-of-police-forces-england-hogan-howe-review",
-    "publishedAt": "2026-11-05T13:09:45.000Z"
-  },
-  {
-    "id": "a8f4bfabdc828a16",
-    "title": "Gas deposits off Cyprus are an opportunity for the EU, president says",
-    "summary": "Cyprus's president says natural gas deposits off the country's coast offer the European Union a chance to boost energy security by diversifying supply.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/gas-deposits-off-cyprus-opportunity-eu-president-137871831",
-    "publishedAt": "2026-11-05T13:09:00.000Z"
-  },
-  {
-    "id": "d6e1befd0cf690eb",
-    "title": "Russian captain among 2 crew found guilty by Finnish court of damaging Baltic cables",
-    "summary": "A Finnish court has convicted the captain and another crew member of a cargo ship of damaging undersea telecommunications cables in the Baltic Sea last year.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/russian-captain-2-crew-found-guilty-finnish-court-137871830",
-    "publishedAt": "2026-11-05T13:08:12.000Z"
-  },
-  {
-    "id": "69d33865f6d0a674",
-    "title": "Four people, including a child, killed in Israeli attacks on Gaza",
-    "summary": "Gaza officials say more than 1,600 Palestinians have been killed since the so-called 'ceasefire' took effect.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-    "publishedAt": "2026-11-05T13:04:52.000Z"
-  },
-  {
-    "id": "10361ad62aeec580",
-    "title": "‘Revenge of the nerds’: US midterms deliver a win for science – and a rebuke of Maha",
-    "summary": "The wins for Democrats come after years of cuts and upheaval to US health and science infrastructure.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/midterms-science-doctors-maha",
-    "publishedAt": "2026-11-05T13:00:24.000Z"
-  },
-  {
-    "id": "e2f7ff9806302132",
-    "title": "Mugabe's son faces assault charges linked to luxury car smuggling case",
-    "summary": "The son of the late Zimbabwean President Robert Mugabe faces assault charges after allegedly attacking an anti-corruption official.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/mugabes-son-faces-assault-charges-zimbabwe-linked-luxury-137872322",
-    "publishedAt": "2026-11-05T12:53:15.000Z"
-  },
-  {
-    "id": "cf5e79d45ba9e673",
-    "title": "British man being treated for Ebola in Congo is being evacuated to the UK",
-    "summary": "A British man being treated for Ebola in Congo is being evacuated to the U.K., the government said Thursday.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/british-man-treated-ebola-congo-evacuated-uk-137872417",
-    "publishedAt": "2026-11-05T12:52:42.000Z"
-  },
-  {
-    "id": "155e203a7518751b",
-    "title": "Bomb threats disrupt flights across Europe and renew hybrid warfare fears",
-    "summary": "At least 15 planes forced into emergency landings or diversions two days after hoax alerts affected air travel.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-    "publishedAt": "2026-11-05T12:44:30.000Z"
-  },
-  {
-    "id": "bdf8ab61789fc7bd",
-    "title": "Trump accepts election results as Republicans face midterm reckoning | First Thing",
-    "summary": "Criticism of US-Israel war on Iran seen as huge factor in Democrats’ sweeping victory. Plus, a spiky customer steps into a North Carolina bagel store.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results",
-    "publishedAt": "2026-11-05T12:35:11.000Z"
   }
 ]
