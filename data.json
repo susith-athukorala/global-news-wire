@@ -1,5 +1,32 @@
 [
   {
+    "id": "42a85345953411d8",
+    "title": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape",
+    "summary": "Faculty senate passed resolution expressing deep discontent with school’s response to alleged fraternity rape.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
+    "publishedAt": "2026-11-06T21:46:37.000Z"
+  },
+  {
+    "id": "583af74911502572",
+    "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
+    "summary": "Miller has been a close confidant of Trump since 2016 and an architect of the president's hardline immigration policies.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
+    "publishedAt": "2026-11-06T21:22:57.000Z"
+  },
+  {
+    "id": "52e86082237709a5",
+    "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
+    "summary": "Men allegedly impersonated voices and images of executives to convince employees to send large payments.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
+    "publishedAt": "2026-11-06T21:20:49.000Z"
+  },
+  {
     "id": "fc0b940e8d8ff473",
     "title": "Several Democrats renew calls for datacenter pauses after blue wave",
     "summary": "Tech industry fears delays to its multi-trillion dollar infrastructure buildout meant to power artificial intelligence.",
@@ -7,6 +34,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
     "publishedAt": "2026-11-06T21:14:46.000Z"
+  },
+  {
+    "id": "43e42c428382c84e",
+    "title": "Protesters break into Microsoft data centre site in Amsterdam",
+    "summary": "Data centres face protests across Europe due to the massive amounts of computing power and water they use.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+    "publishedAt": "2026-11-06T21:04:40.000Z"
   },
   {
     "id": "389b46270e37d014",
@@ -250,6 +286,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/6/valencia-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
     "publishedAt": "2026-11-06T17:50:13.000Z"
+  },
+  {
+    "id": "9510701630b5f59e",
+    "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+    "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o",
+    "publishedAt": "2026-11-06T17:44:02.000Z"
   },
   {
     "id": "dfda7c5f3214ed63",
@@ -873,6 +918,15 @@
     "publishedAt": "2026-11-06T12:55:29.000Z"
   },
   {
+    "id": "e6a8be187879c819",
+    "title": "UK house prices fall at steepest rate in more than three years",
+    "summary": "October drop of 0.6% leaves average price of property at £296,285, says Lloyds, as high mortgage rates hit market.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years",
+    "publishedAt": "2026-11-06T12:54:32.000Z"
+  },
+  {
     "id": "deca45c5c326848d",
     "title": "Russian extremist group denies sending hoax bomb threats",
     "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
@@ -1294,59 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
     "publishedAt": "2026-11-06T09:19:57.000Z"
-  },
-  {
-    "id": "35a94d2cf41682fc",
-    "title": "Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon",
-    "summary": "Najib transitions to house arrest after his party UMNO raises $12m fine via crowdfunding.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon?traffic_source=rss",
-    "publishedAt": "2026-11-06T09:01:40.000Z"
-  },
-  {
-    "id": "cd3e75a722bb7c3b",
-    "title": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
-    "summary": "Sell-off on Wall Street followed by sharp fall in Asian and European markets, with FTSE down 1.5%.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
-    "publishedAt": "2026-11-06T08:58:22.000Z"
-  },
-  {
-    "id": "19041566aabeeb4e",
-    "title": "Employers to be forced to put salaries on job ads, Andy Burnham announces",
-    "summary": "Workers’ rights campaigners say measure will help young people and women in particular achieve more equal pay.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham",
-    "publishedAt": "2026-11-06T08:54:40.000Z"
-  },
-  {
-    "id": "98b24a650d59270b",
-    "title": "Tech stock rout, driven by US AI fears, continues in Asian trading",
-    "summary": "Global markets are being roiled due to concerns over US data centre expansion and AI regulation.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading?traffic_source=rss",
-    "publishedAt": "2026-11-06T08:41:05.000Z"
-  },
-  {
-    "id": "8c04ada618033438",
-    "title": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
-    "summary": "Captain Ajay Pant was in international waters when his allegedly 'shadow' tanker was captured by British soldiers.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss",
-    "publishedAt": "2026-11-06T08:32:57.000Z"
-  },
-  {
-    "id": "f3372422aec89177",
-    "title": "Death a ‘distinct possibility’ in collision running and face-slapping competitions, inquiry hears",
-    "summary": "Impacts in emerging contact sports are akin to coward punches and cannot be made safer with regulation, neurologist says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/06/run-nation-power-slap-combat-sports-safety-inquiry-nsw",
-    "publishedAt": "2026-11-06T08:23:10.000Z"
   }
 ]
