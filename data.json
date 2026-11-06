@@ -1,5 +1,77 @@
 [
   {
+    "id": "54d6a280d17701c2",
+    "title": "Want to have a better chat? Scientists say the secret is ‘pink noise’",
+    "summary": "The most enjoyable conversations strike a balance between exploring a topic and pulling in fresh ideas, study finds.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/06/better-conversation-study-pink-noise",
+    "publishedAt": "2026-11-06T19:00:49.000Z"
+  },
+  {
+    "id": "7b69296aec775fbc",
+    "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+    "summary": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+    "publishedAt": "2026-11-06T19:00:21.000Z"
+  },
+  {
+    "id": "e35edccd40a8dcbf",
+    "title": "Prince Harry and others launch appeal after losing Daily Mail phone-hacking claim",
+    "summary": "Harry, Doreen Lawrence, Elton John, David Furnish, Elizabeth Hurley and Sadie Frost face £50m bill after ruling.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/06/prince-harry-others-appeal-daily-mail-phone-hacking-claim",
+    "publishedAt": "2026-11-06T18:59:04.000Z"
+  },
+  {
+    "id": "730d2fc3afce6bc2",
+    "title": "Lawyers descend on Mississippi as vote counting continues in razor-thin Senate race",
+    "summary": "Democratic and Republican lawyers and groups trade sharp legal letters about procedures for counting ballots in tight race.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/mississippi-senate-race-vote-counting-lawyers",
+    "publishedAt": "2026-11-06T18:51:52.000Z"
+  },
+  {
+    "id": "51fc088bcbce7e56",
+    "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
+    "summary": "Separate actions also take place outside fence and across Europe in backlash against impact of AI boom.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+    "publishedAt": "2026-11-06T18:51:37.000Z"
+  },
+  {
+    "id": "5e6a80be1b1ee464",
+    "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
+    "summary": "Moscow is suffering losses on the battlefield as US traders reportedly refuse to honour Trump's diesel deal with Putin.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold?traffic_source=rss",
+    "publishedAt": "2026-11-06T18:23:11.000Z"
+  },
+  {
+    "id": "811ba6d983a1cc2a",
+    "title": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
+    "summary": "The attack on al-Hadara market in Taiz governorate's al-Waziiya district killed at least 30 people, Houthi rebels say.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
+    "publishedAt": "2026-11-06T18:09:49.000Z"
+  },
+  {
+    "id": "9f46c518d8cf5163",
+    "title": "Brands asked to keep supplying David Jones despite unpaid debts",
+    "summary": "Documents seen by ABC News show the unclear situation facing suppliers after the 188-year-old retailer was plunged into voluntary administration this week.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-07/david-jones-suppliers-waiting-for-debts-to-be-paid/107355408",
+    "publishedAt": "2026-11-06T18:00:00.000Z"
+  },
+  {
     "id": "fbf1941484639b96",
     "title": "Prince, the pope, and autumn 2026: purple is hot this season",
     "summary": "Spotted on Balenciaga, Celine and Valentino catwalks, purple is having a moment. If you really want to stand out, wear it with red.",
@@ -1276,77 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
     "publishedAt": "2026-11-06T06:26:03.000Z"
-  },
-  {
-    "id": "c260bc23342bb07a",
-    "title": "Health minister instructs trusts to pause cuts to Phone First service",
-    "summary": "The triage line was scrapped in Belfast and was to close in the Northern Trust later this month.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crn8wnq05dyqo",
-    "publishedAt": "2026-11-06T06:22:07.000Z"
-  },
-  {
-    "id": "1c8302aa91f40918",
-    "title": "'The veil of shame around postnatal depression needs to go'",
-    "summary": "Mums are helping other parents to recognise the signs of postnatal depression and psychosis.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cv62kel8wnp0o",
-    "publishedAt": "2026-11-06T06:20:44.000Z"
-  },
-  {
-    "id": "fa785fffcec5f960",
-    "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-    "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-    "publishedAt": "2026-11-06T06:16:22.000Z"
-  },
-  {
-    "id": "d4d0c401b0d9951c",
-    "title": "'Extra special' tamarin twins born at zoo",
-    "summary": "Shaldon Wildlife Trust says it is one of two European zoos to breed the species in 2026.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmx23zzlezp8o",
-    "publishedAt": "2026-11-06T06:15:18.000Z"
-  },
-  {
-    "id": "605f0ede9a7df778",
-    "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
-    "summary": "Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
-    "publishedAt": "2026-11-06T06:06:24.000Z"
-  },
-  {
-    "id": "1959a3fb8fc5434d",
-    "title": "'I've taken an extra job to pay for heating oil'",
-    "summary": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo",
-    "publishedAt": "2026-11-06T06:06:00.000Z"
-  },
-  {
-    "id": "602899e96277a576",
-    "title": "Did a data centre revolt affect the US mid-term election results?",
-    "summary": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o",
-    "publishedAt": "2026-11-06T06:01:13.000Z"
-  },
-  {
-    "id": "054020677dacc39d",
-    "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
-    "summary": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o",
-    "publishedAt": "2026-11-06T06:00:46.000Z"
   }
 ]
