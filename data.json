@@ -1,5 +1,23 @@
 [
   {
+    "id": "76879454b4294ce8",
+    "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
+    "summary": "Wiles thanks president for ‘honor of a lifetime’ as departure leaves behind overwhelmingly male leadership team.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
+    "publishedAt": "2026-11-06T22:35:09.000Z"
+  },
+  {
+    "id": "b32042b45e5ba5c1",
+    "title": "How octopuses squeeze through teeny tiny holes",
+    "summary": "Robots used during search and rescue operations need to be able to wriggle through narrow cracks and crevices. Researchers have turned to a natural contortionist for inspiration — the octopus.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6027897/how-octopuses-squeeze-through-teeny-tiny-holes",
+    "publishedAt": "2026-11-06T22:24:10.000Z"
+  },
+  {
     "id": "42a85345953411d8",
     "title": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape",
     "summary": "Faculty senate passed resolution expressing deep discontent with school’s response to alleged fraternity rape.",
@@ -7,6 +25,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
     "publishedAt": "2026-11-06T21:46:37.000Z"
+  },
+  {
+    "id": "cd3e75a722bb7c3b",
+    "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+    "summary": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+    "publishedAt": "2026-11-06T21:23:54.000Z"
   },
   {
     "id": "583af74911502572",
@@ -1321,32 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
     "publishedAt": "2026-11-06T09:54:12.000Z"
-  },
-  {
-    "id": "866b65294039aa74",
-    "title": "How does it affect me if share prices fall?",
-    "summary": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o",
-    "publishedAt": "2026-11-06T09:21:50.000Z"
-  },
-  {
-    "id": "9cf57ea58b9fe7a3",
-    "title": "Trump signs order to preserve Oval Office as national monument",
-    "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo",
-    "publishedAt": "2026-11-06T09:19:57.000Z"
-  },
-  {
-    "id": "f29830a60fe0b366",
-    "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
-    "summary": "Pope Leo XIV is kicking off a three-nation tour of Latin America with a visit to Uruguay, three weeks after undergoing lung cancer surgery that had put the entire trip into question.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
-    "publishedAt": "2026-11-06T09:19:57.000Z"
   }
 ]
