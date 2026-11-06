@@ -1,5 +1,140 @@
 [
   {
+    "id": "cf7d22fcd65fb783",
+    "title": "Under-16s could be banned from buying energy drinks in Wales",
+    "summary": "Young people in Cardiff told BBC Wales they supported the proposed ban.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx4g114r0d2do",
+    "publishedAt": "2026-11-06T17:10:28.000Z"
+  },
+  {
+    "id": "adb6b5b18c9816f6",
+    "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
+    "summary": "Jason Reding Quinones' resignation comes as administration braces for Democrat-led investigations.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
+    "publishedAt": "2026-11-06T17:02:19.000Z"
+  },
+  {
+    "id": "1526e3261fc59e5c",
+    "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
+    "summary": "Political turmoil comes after a digital bank's failure has left half the population without access to their accounts.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss",
+    "publishedAt": "2026-11-06T16:58:56.000Z"
+  },
+  {
+    "id": "5422d547f3df0f3a",
+    "title": "Russell Brand rape conviction must be ‘wake-up call’, says culture secretary",
+    "summary": "Lisa Nandy calls for whistleblowers to be protected and highlights bravery of women who came forward in case.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-conviction-must-be-wake-up-call-says-culture-secretary-lisa-nandy",
+    "publishedAt": "2026-11-06T16:53:06.000Z"
+  },
+  {
+    "id": "effe90ee565c2618",
+    "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+    "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o",
+    "publishedAt": "2026-11-06T16:51:01.000Z"
+  },
+  {
+    "id": "6c3cbccdc5183991",
+    "title": "Burnham aims for ‘quite radical change’ in support for young people",
+    "summary": "Prime minister says ‘root and branch review of childhood’ is needed and he does not rule out some benefit cuts.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/06/andy-burnham-quite-radical-change-young-people-support-benefits-neets",
+    "publishedAt": "2026-11-06T16:50:13.000Z"
+  },
+  {
+    "id": "9a27a57e9fe73945",
+    "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
+    "summary": "Rising global temperatures mean extreme weather events are becoming more common and more intense.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o",
+    "publishedAt": "2026-11-06T16:43:30.000Z"
+  },
+  {
+    "id": "dddd95111fa0794a",
+    "title": "Foodbank to close after 16 years amid rising costs",
+    "summary": "A foodbank in Goole annouces it will close in January as costs rise and donations drop.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro",
+    "publishedAt": "2026-11-06T16:42:23.000Z"
+  },
+  {
+    "id": "0ccf28b337e9fd40",
+    "title": "A really simple guide to climate change",
+    "summary": "Human activities are causing the world to heat up, posing serious threats to people and nature.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9w15nggj58o",
+    "publishedAt": "2026-11-06T16:40:51.000Z"
+  },
+  {
+    "id": "088528a6165cbecf",
+    "title": "Taiwan to close representative office in Papua New Guinea, blames China",
+    "summary": "Amid the fallout, Taiwan says it will stop purchases of liquefied natural gas from Port Moresby.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
+    "publishedAt": "2026-11-06T16:40:39.000Z"
+  },
+  {
+    "id": "e50f1cdb13d6339a",
+    "title": "What is the Paris Agreement and why does 1.5C matter?",
+    "summary": "The 2015 pact is at the heart of the international commitment to tackle rising global temperatures.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o",
+    "publishedAt": "2026-11-06T16:39:07.000Z"
+  },
+  {
+    "id": "2d362962a9e01ca6",
+    "title": "How to spot the book club scam | Brief letters",
+    "summary": "‘Fan’ mail | Lessons from history | Natural fabrics | Perthshire pirate.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/06/how-to-spot-the-book-club-scam",
+    "publishedAt": "2026-11-06T16:33:23.000Z"
+  },
+  {
+    "id": "b01d31d930d47d65",
+    "title": "UK dairy farmers face further pressure as milk processor cuts prices",
+    "summary": "Freshways lowers price paid to producers by 7p a litre, prompting warnings confidence in the sector is ‘at rock bottom’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/06/uk-dairy-farmers-face-squeeze-as-milk-processor-cuts-prices",
+    "publishedAt": "2026-11-06T16:27:32.000Z"
+  },
+  {
+    "id": "374d4a7163da7950",
+    "title": "What is net zero and is the UK on track to achieve it?",
+    "summary": "Reaching net zero carbon emissions worldwide is essential to limit global warming, UN scientists say.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx238yyr40qo",
+    "publishedAt": "2026-11-06T16:22:51.000Z"
+  },
+  {
+    "id": "dd5e9e71dcd7f180",
+    "title": "Winter support for residents facing cost pressures",
+    "summary": "The plans aim to help more people access food, financial advice and help with heating costs.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm20rrer25ezo",
+    "publishedAt": "2026-11-06T16:22:18.000Z"
+  },
+  {
     "id": "6654bc4a3a64c646",
     "title": "Could the US midterms burst the AI bubble?",
     "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
@@ -16,6 +151,24 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/protesters-break-microsoft-data-center-site-amsterdam-europes-137915154",
     "publishedAt": "2026-11-06T16:12:07.000Z"
+  },
+  {
+    "id": "9730eaaf03c95687",
+    "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
+    "summary": "Fewer than 1 million of the 15.4 million people in need emergency shelter in Sudan have received assistance.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss",
+    "publishedAt": "2026-11-06T16:10:51.000Z"
+  },
+  {
+    "id": "8b48cf50d5e9ea79",
+    "title": "US tech stock rout: is the AI bubble bursting?",
+    "summary": "After Thursday’s share price plunge on Wall Street, could the volatility be the start of a huge market meltdown?",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/06/us-tech-stock-ai-bubble-bursting-market-meltdown-explainer",
+    "publishedAt": "2026-11-06T16:09:18.000Z"
   },
   {
     "id": "2ce1b00d88f1ca12",
@@ -70,6 +223,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/06/shabana-mahmood-uk-immigration-shakeup-reaction",
     "publishedAt": "2026-11-06T15:28:18.000Z"
+  },
+  {
+    "id": "75b0af2bbdb41e45",
+    "title": "PM tells firms to publish salaries in job adverts ahead of new law",
+    "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o",
+    "publishedAt": "2026-11-06T15:25:43.000Z"
   },
   {
     "id": "466b2a58a9546ba9",
@@ -151,6 +313,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world",
     "publishedAt": "2026-11-06T14:52:43.000Z"
+  },
+  {
+    "id": "0d29a1e6bf62e67a",
+    "title": "Somalia’s top court rules president’s term extension is unlawful, deepening power struggle",
+    "summary": "Somalia’s power struggle has deepened after its Supreme Court ruled that the president’s term had expired and ordered elections within 90 days.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/somalias-top-court-rules-presidents-term-extension-unlawful-137911138",
+    "publishedAt": "2026-11-06T14:42:05.000Z"
   },
   {
     "id": "38d5e56cbba0c7ea",
@@ -448,6 +619,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/leader-kenyan-doomsday-cult-sentenced-200-years-prison-137905380",
     "publishedAt": "2026-11-06T12:11:18.000Z"
+  },
+  {
+    "id": "c591cb6001ec90c8",
+    "title": "South Africa's ruling ANC faces huge decline in support, early election results show",
+    "summary": "South Africa's African National Congress faces a significant decline in voter support, according to interim results from local elections held this week.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/south-africas-ruling-anc-faces-huge-decline-voter-137904438",
+    "publishedAt": "2026-11-06T12:10:21.000Z"
   },
   {
     "id": "8f4594a291c87828",
@@ -1168,185 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
     "publishedAt": "2026-11-06T03:31:38.000Z"
-  },
-  {
-    "id": "89aed8ed743fffe9",
-    "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
-    "summary": "Putin meets Iran's top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
-    "publishedAt": "2026-11-06T02:48:19.000Z"
-  },
-  {
-    "id": "d875f3c513836fec",
-    "title": "Liberal bus crashes into shop awning on its first outing of Victorian election campaign",
-    "summary": "Opposition leader Jess Wilson grimaced as the ‘Jess Express’, carrying Liberals and reporters, backs into the structure in suburban Melbourne.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/06/liberal-jess-wilson-campaign-bus-crashes-into-shop-first-day-victorian-election",
-    "publishedAt": "2026-11-06T02:28:02.000Z"
-  },
-  {
-    "id": "49159d4be2045d54",
-    "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-    "summary": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o",
-    "publishedAt": "2026-11-06T02:08:57.000Z"
-  },
-  {
-    "id": "e8c0c67decf9c751",
-    "title": "California governor commutes sentences of more than 500 people on death row",
-    "summary": "Gavin Newsom cites state values and flaws in the legal system as he grants largest mass clemency in US history.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
-    "publishedAt": "2026-11-06T01:39:35.000Z"
-  },
-  {
-    "id": "23708090426bccf5",
-    "title": "Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’",
-    "summary": "Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
-    "publishedAt": "2026-11-06T01:36:20.000Z"
-  },
-  {
-    "id": "8ee71cf200b4448f",
-    "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
-    "summary": "Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
-    "publishedAt": "2026-11-06T01:22:49.000Z"
-  },
-  {
-    "id": "39029a1fb0f18621",
-    "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
-    "summary": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o",
-    "publishedAt": "2026-11-06T01:22:39.000Z"
-  },
-  {
-    "id": "9cf57ea58b9fe7a3",
-    "title": "Trump signs order preventing future presidents from changing Oval Office",
-    "summary": "The order comes after Trump made a series of big changes the Oval Office decor and launched landmark construction projects across Washington.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo",
-    "publishedAt": "2026-11-06T01:20:01.000Z"
-  },
-  {
-    "id": "09923877632ebb42",
-    "title": "California governor to grant clemency to all 548 death row inmates in state",
-    "summary": "The fate of hundreds of inmates facing death sentences in California hinges on the Supreme Court's approval after the governor says he wants to end state-sanctioned killing.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-06/california-govenor-newsom-seeks-clemency-for-death-row-inmates/107354146",
-    "publishedAt": "2026-11-06T00:49:38.000Z"
-  },
-  {
-    "id": "530d51cbea5a9362",
-    "title": "Tempted by snacks before bed? Here's why - and what you can do about it",
-    "summary": "There are biological reasons why you may reach for sweet treats before bed, but you can change the habit.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo",
-    "publishedAt": "2026-11-06T00:42:05.000Z"
-  },
-  {
-    "id": "5b9a5fed3d8b5551",
-    "title": "Trump signs proclamation to try to prevent changes to gold-covered Oval Office",
-    "summary": "President seeks to make Oval Office a national monument to ensure designs are not ‘ripped down by stupid people’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/trump-oval-office-design-proclamation",
-    "publishedAt": "2026-11-06T00:29:06.000Z"
-  },
-  {
-    "id": "5b7c63cdb250ddac",
-    "title": "Euphoria meets raw fear on Wall Street as stocks plunge post US-midterms",
-    "summary": "Wall Street indices nosedive as investor thinking about the rollout of AI infrastructure turns on its head. So, is this latest sell-off a flash in the plan or the start of a broader bear market?",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-06/wall-street-sees-tech-sell-off-as-investors-rethink-ai-trade/107354110",
-    "publishedAt": "2026-11-06T00:27:50.000Z"
-  },
-  {
-    "id": "e59b7ed0ae569608",
-    "title": "Turkiye’s parliament ratifies Mecca defence agreement",
-    "summary": "Parliament's approval lays the groundwork for further Turkish involvement in Saudi Arabia's conflict with the Houthis.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
-    "publishedAt": "2026-11-06T00:15:22.000Z"
-  },
-  {
-    "id": "edfe63dac38d71f5",
-    "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
-    "summary": "Trump again said a major Russia-Ukraine deal is 'very close', but gave no specifics.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
-    "publishedAt": "2026-11-06T00:06:31.000Z"
-  },
-  {
-    "id": "8a3fdc3831a56a0c",
-    "title": "The engine parts that 'fight the laws of the universe'",
-    "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo",
-    "publishedAt": "2026-11-06T00:06:06.000Z"
-  },
-  {
-    "id": "178f800c3b067f09",
-    "title": "Slashing number of police forces in England and Wales is only option, says Met chief",
-    "summary": "Mark Rowley calls for ‘revolution’ in policing as major review is expected to propose regional ‘super forces’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/05/cut-number-of-police-forces-england-hogan-howe-review",
-    "publishedAt": "2026-11-06T00:04:37.000Z"
-  },
-  {
-    "id": "0ae259538d841734",
-    "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-    "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o",
-    "publishedAt": "2026-11-06T00:02:57.000Z"
-  },
-  {
-    "id": "226bd7c0051e4296",
-    "title": "'I was asked if I was a crier': Your worst job interviews revealed",
-    "summary": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o",
-    "publishedAt": "2026-11-06T00:02:52.000Z"
-  },
-  {
-    "id": "d85e0362da0f699a",
-    "title": "Florida puts man to death as three US executions scheduled for same day",
-    "summary": "Indiana executed a man hours earlier, and in Alabama, a man was scheduled to die by injection later.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/executions-florida-alabama-indiana",
-    "publishedAt": "2026-11-05T23:48:04.000Z"
-  },
-  {
-    "id": "be8433d5bd5bb568",
-    "title": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
-    "summary": "DSA-backed Raman will lead America's second largest city, promising action on homelessness and affordable housing.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss",
-    "publishedAt": "2026-11-05T23:46:52.000Z"
   }
 ]
