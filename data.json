@@ -1,5 +1,113 @@
 [
   {
+    "id": "ef57be719ae4f306",
+    "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
+    "summary": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
+    "publishedAt": "2026-11-06T20:09:58.000Z"
+  },
+  {
+    "id": "533775c3cf0a0644",
+    "title": "Stephen Miller to become Trump’s new White House chief of staff",
+    "summary": "US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step down.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+    "publishedAt": "2026-11-06T20:04:22.000Z"
+  },
+  {
+    "id": "8c6afd433e1d842e",
+    "title": "Pope 'proud to be an American' after US elections, credits God, doctors with rebound",
+    "summary": "Pope Leo XIV says that he was “proud to be an American and to exercise the right” to vote in U.S. midterm elections that gave control of Congress to the Democrats in a repudiation of U.S. President Donald Trump and his policies.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-proud-american-after-us-elections-credits-god-137923797",
+    "publishedAt": "2026-11-06T19:48:16.000Z"
+  },
+  {
+    "id": "53e8717a31c84666",
+    "title": "Macklemore says that nine US arenas turned down his Free Palestine tour",
+    "summary": "Rapper called out ‘intimidation, manipulation and suppression’ in a social media post, claiming major arenas refused to host him after the Ed Sheeran controversy.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/06/macklemore-arenas-free-palestine-tour",
+    "publishedAt": "2026-11-06T19:46:56.000Z"
+  },
+  {
+    "id": "12dab0289873e890",
+    "title": "Incoming Democratic senators don’t want Chuck Schumer as majority leader",
+    "summary": "New lawmakers from Annie Andrews and Adam Hamilton to Abdul El-Sayed indicate they will not support him.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/chuck-schumer-majority-leader-incoming-democratic-senators",
+    "publishedAt": "2026-11-06T19:37:25.000Z"
+  },
+  {
+    "id": "0e8d4099942b7638",
+    "title": "Houston to limit police cooperation with federal immigration authorities",
+    "summary": "Mayor said only immigrants that ‘pose a danger’ would be referred to ICE, after Democrats gain control of governor’s seat.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/houston-police-ice-immigration",
+    "publishedAt": "2026-11-06T19:29:55.000Z"
+  },
+  {
+    "id": "dda3c15746289d3d",
+    "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
+    "summary": "The Chilean film-maker, whose films starred Florence Pugh, Julianne Moore and Rachel Weisz, died at his home in Santiago.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
+    "publishedAt": "2026-11-06T19:23:24.000Z"
+  },
+  {
+    "id": "4a7e1ef8907a1e2e",
+    "title": "Russell Brand suspected to have attacked at least 10 other women",
+    "summary": "Met police chief says ‘many more’ victims could come forward, as actor and comedian awaits sentencing.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women",
+    "publishedAt": "2026-11-06T19:23:24.000Z"
+  },
+  {
+    "id": "b8135914bdd3de73",
+    "title": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
+    "summary": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
+    "publishedAt": "2026-11-06T19:16:07.000Z"
+  },
+  {
+    "id": "3ec91ac54b20b8a4",
+    "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+    "summary": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
+    "publishedAt": "2026-11-06T19:13:06.000Z"
+  },
+  {
+    "id": "2598b202940fccc4",
+    "title": "Trump appoints adviser Stephen Miller as new White House chief of staff",
+    "summary": "This is a breaking news story.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
+    "publishedAt": "2026-11-06T19:08:31.000Z"
+  },
+  {
+    "id": "73b2fd09a6ce3ceb",
+    "title": "Armed men kill at least 33 in village in Ebola-hit eastern DRC",
+    "summary": "Locals blame ADF armed group, which pledged allegiance to ISIL in 2019, for the deadly raids on North Kivu villages.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/armed-men-kill-at-least-33-in-village-in-ebola-hit-eastern-drc?traffic_source=rss",
+    "publishedAt": "2026-11-06T19:07:06.000Z"
+  },
+  {
     "id": "54d6a280d17701c2",
     "title": "Want to have a better chat? Scientists say the secret is ‘pink noise’",
     "summary": "The most enjoyable conversations strike a balance between exploring a topic and pulling in fresh ideas, study finds.",
@@ -277,6 +385,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
     "publishedAt": "2026-11-06T16:14:23.000Z"
+  },
+  {
+    "id": "9c95d9f4cc46cae2",
+    "title": "Struggling to spell ‘male chauvinist pig’? Apple’s grey list means your iPhone won’t help you",
+    "summary": "There are more than 100,000 words and phrases that the tech giant has restricted its predictive text from completing, research shows.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+    "publishedAt": "2026-11-06T16:12:41.000Z"
   },
   {
     "id": "96c055811ce2d5cc",
@@ -873,6 +990,15 @@
     "publishedAt": "2026-11-06T11:54:08.000Z"
   },
   {
+    "id": "1959a3fb8fc5434d",
+    "title": "'I've taken an extra job to pay for heating oil'",
+    "summary": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo",
+    "publishedAt": "2026-11-06T11:40:35.000Z"
+  },
+  {
     "id": "21f2fbd1347bc535",
     "title": "Tanzania’s smallholder farmers struggle to benefit from digital agriculture",
     "summary": "Poor training and delayed responses leave farmers struggling to access useful market information.",
@@ -1222,131 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro",
     "publishedAt": "2026-11-06T07:33:41.000Z"
-  },
-  {
-    "id": "a353d1d17eac1777",
-    "title": "US judge halts construction of Trump’s triumphal arch in Washington, DC",
-    "summary": "A 14-day pause has been ordered blocking the so-called 'Arc de Trump' project in Washington, DC.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc?traffic_source=rss",
-    "publishedAt": "2026-11-06T07:32:08.000Z"
-  },
-  {
-    "id": "6b07e529f885830a",
-    "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
-    "summary": "Lebanese who lived through two Israeli escalations are stocking up and packing bags in case of a third.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss",
-    "publishedAt": "2026-11-06T07:30:04.000Z"
-  },
-  {
-    "id": "5f3df3154b714980",
-    "title": "How Israel is tightening its grip on Palestinian schools in East Jerusalem",
-    "summary": "Israeli restrictions on teachers and pressure to adopt Israeli curriculum threaten Palestinian education in the city.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/6/how-israel-is-tightening-its-grip-on-palestinian-schools-in-east-jerusalem?traffic_source=rss",
-    "publishedAt": "2026-11-06T07:28:53.000Z"
-  },
-  {
-    "id": "44687124fe6eff01",
-    "title": "Indonesia names fourth wiretapping suspect as political intrigue deepens",
-    "summary": "Scandal is driving divisions between President Prabowo Subianto and predecessor Joko Widodo.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/indonesia-names-fourth-wiretapping-suspect-as-political-intrigue-deepens?traffic_source=rss",
-    "publishedAt": "2026-11-06T07:24:26.000Z"
-  },
-  {
-    "id": "c5f65bf33ff40e2f",
-    "title": "Israel’s President Herzog to name candidate to form government on Sunday",
-    "summary": "Announcement comes after majority of Israeli lawmakers endorse Eisenkot over Netanyahu.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss",
-    "publishedAt": "2026-11-06T07:09:42.000Z"
-  },
-  {
-    "id": "c9839c463a2dacc5",
-    "title": "‘Every day, someone loses a hand or a leg’: the brutal reality of India’s textile recycling industry",
-    "summary": "In Panipat, 1m tons of used clothing a year are turned into products for global brands, but dangerous machinery and few safeguards mean life-changing injuries are common.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/nov/06/india-textile-recycling-industry-workers-factories-accidents-safety-amputations",
-    "publishedAt": "2026-11-06T07:00:47.000Z"
-  },
-  {
-    "id": "16dd4552d0e6c99d",
-    "title": "M&S takes on John Lewis in Christmas ad battle with topless ‘shredded Santa’",
-    "summary": "James Norton and Lucy Punch star as a youthful Mr and Mrs Claus in lively ad about shared moments as well as shopping.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/06/marks-and-spencer-john-lewis-christmas-ad-battle-james-norton-lucy-punch-topless-santa",
-    "publishedAt": "2026-11-06T07:00:47.000Z"
-  },
-  {
-    "id": "a4c18c07cfefb92e",
-    "title": "Cop31 will expose the conflicts and contradictions of the world’s fossil fuel reliance",
-    "summary": "The move to clean electricity will form the focus of the climate summit, which begins next week in coal-obsessed Turkey. The outlook doesn’t look good.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/06/cop31-coal-turkey-fossil-fuel-reliance",
-    "publishedAt": "2026-11-06T07:00:46.000Z"
-  },
-  {
-    "id": "082cb7cdf9c75343",
-    "title": "Australia appoint Mike Hussey as consultant for Ashes and Cricket World Cup",
-    "summary": "Hussey, known as 'Mr Cricket' for his technical expertise, will also work with Australia during the LA 2028 Olympics.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/6/mike-hussey-australia-cricket-batting-consultant-ashes-world-cup?traffic_source=rss",
-    "publishedAt": "2026-11-06T06:52:30.000Z"
-  },
-  {
-    "id": "0a141fe880c5f96c",
-    "title": "Macau jails pro-democracy campaigner in city's first national security case",
-    "summary": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o",
-    "publishedAt": "2026-11-06T06:46:21.000Z"
-  },
-  {
-    "id": "38b201db52028cee",
-    "title": "Who is Kozo Tashima, the Japanese official running for FIFA presidency?",
-    "summary": "Tashima has served as a football player, coach and bureaucrat, and has a reputation for being a safe pair of hands.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/6/kozo-tashima-japan-fifa-president-election-gianni-infantino?traffic_source=rss",
-    "publishedAt": "2026-11-06T06:43:42.000Z"
-  },
-  {
-    "id": "824b61744ffb28cc",
-    "title": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
-    "summary": "In today’s newsletter: From diverted airliners to hacked ​fridges, a string of disruptive incidents has exposed the ​vulnerabilities of modern ​life. ​There is now an increasingly blurred space between peace and conflict, the grey zone.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal",
-    "publishedAt": "2026-11-06T06:43:04.000Z"
-  },
-  {
-    "id": "f5e4a61e7a5bb815",
-    "title": "Judge temporarily halts building work on Trump’s triumphal arch",
-    "summary": "Federal judge issues 14-day restraining order on any construction work on Washington monument, hours after it was approved by planning commission.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington",
-    "publishedAt": "2026-11-06T06:36:20.000Z"
-  },
-  {
-    "id": "c88026a9b84d8721",
-    "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
-    "summary": "She was shot on 14 December 2025 during Hanukah festival and had been in and out of hospital since.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
-    "publishedAt": "2026-11-06T06:26:03.000Z"
   }
 ]
