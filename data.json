@@ -1,5 +1,131 @@
 [
   {
+    "id": "7d2735033d3ad54f",
+    "title": "Wales scraps controversial Uganda tree-planting scheme",
+    "summary": "The Welsh government has given more than £4m to the scheme since 2015, but will end it due to budget pressures.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqm26m2l4p7eo",
+    "publishedAt": "2026-11-06T13:14:24.000Z"
+  },
+  {
+    "id": "ed7aa7825e662c24",
+    "title": "‘Great things to come’: Flávio Bolsonaro upbeat in first appearance since fleeing from Brazil to US",
+    "summary": "Far-right politician is battling to maintain political relevance after losing the presidential election last month.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us",
+    "publishedAt": "2026-11-06T13:03:38.000Z"
+  },
+  {
+    "id": "9c837a62eed35d84",
+    "title": "‘Profound anger’ among black voters over Kemi Badenoch’s slavery remarks",
+    "summary": "Operation Black Vote chair says Tory leader’s claim that Britain should not apologise has caused ‘hurt and disbelief’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/06/kemi-badenoch-slavery-comments-anger-black-voters-operation-black-vote",
+    "publishedAt": "2026-11-06T13:00:42.000Z"
+  },
+  {
+    "id": "117e3ec399d6ea6f",
+    "title": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
+    "summary": "Iran launches diplomatic offensive as US mulls resumption of war.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss",
+    "publishedAt": "2026-11-06T12:57:33.000Z"
+  },
+  {
+    "id": "30f71f0b4502c8a1",
+    "title": "Cristiano Ronaldo: Portugal’s polarising icon and his bitter final act",
+    "summary": "After announcing his international retirement, Portugal's longstanding captain leaves behind a complicated legacy.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/6/cristiano-ronaldo-portugal-retirement-jorge-jesus-manchester-united?traffic_source=rss",
+    "publishedAt": "2026-11-06T12:55:29.000Z"
+  },
+  {
+    "id": "deca45c5c326848d",
+    "title": "Russian extremist group denies sending hoax bomb threats",
+    "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo",
+    "publishedAt": "2026-11-06T12:51:38.000Z"
+  },
+  {
+    "id": "bfedfdf35b25d1f6",
+    "title": "Kenyan court sentences starvation cult leader to 200 years",
+    "summary": "Paul Mackenzie and accomplices were convicted of murdering 190 children and one adult.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/kenyan-court-sentences-starvation-cult-leader-to-200-years?traffic_source=rss",
+    "publishedAt": "2026-11-06T12:50:24.000Z"
+  },
+  {
+    "id": "79cfcadb5415c2b0",
+    "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+    "summary": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+    "publishedAt": "2026-11-06T12:48:37.000Z"
+  },
+  {
+    "id": "4fa5446fd4c0ade3",
+    "title": "US rockets firm could take over mothballed Highland spaceport",
+    "summary": "Colorado-based Leap is looking at the spaceport near Tongue as its first launch site outside of the US.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmrlyy5xw276o",
+    "publishedAt": "2026-11-06T12:47:23.000Z"
+  },
+  {
+    "id": "912ab394c48d41a9",
+    "title": "‘City of immigrants’: Who is Nithya Raman, the Los Angeles mayor-elect?",
+    "summary": "The two biggest cities in the US will now be led by Indian-origin immigrants - both democratic socialists.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/city-of-immigrants-who-is-nithya-raman-the-los-angeles-mayor-elect?traffic_source=rss",
+    "publishedAt": "2026-11-06T12:41:24.000Z"
+  },
+  {
+    "id": "a4e5b28d6d5a36a5",
+    "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
+    "summary": "Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxi.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+    "publishedAt": "2026-11-06T12:38:05.000Z"
+  },
+  {
+    "id": "7dcaeed45ba7ae03",
+    "title": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
+    "summary": "YouGov survey finds support for tree planting and emissions taxes but opposition to air travel and fuel levies.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll",
+    "publishedAt": "2026-11-06T12:27:54.000Z"
+  },
+  {
+    "id": "01a983ad74dfe18e",
+    "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+    "summary": "A judge has blocked construction of Trump's arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day after stocks plunged.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
+    "publishedAt": "2026-11-06T12:24:52.000Z"
+  },
+  {
+    "id": "892ca67ba388e904",
+    "title": "Dream ticket? Super-rich can sleep pretty with Singapore Airlines ‘largest double bed in the sky’",
+    "summary": "Cabin upgrade comes as airlines compete for wealthy customers in race to the top of luxury travel.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/06/dream-ticket-super-rich-singapore-airlines-largest-double-bed",
+    "publishedAt": "2026-11-06T12:24:05.000Z"
+  },
+  {
     "id": "c417a1193268f5a6",
     "title": "Leader of Kenyan doomsday cult sentenced to 200 years in prison",
     "summary": "The leader of a Kenyan doomsday cult linked to the deaths of hundreds of people has been sentenced to 200 years in prison for the murders of 191 people.",
@@ -7,6 +133,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/leader-kenyan-doomsday-cult-sentenced-200-years-prison-137905380",
     "publishedAt": "2026-11-06T12:11:18.000Z"
+  },
+  {
+    "id": "8f4594a291c87828",
+    "title": "Olympic champion Imane Khelif to make professional boxing debut in December",
+    "summary": "The Algerian has not fought since winning gold at Paris 2024, where she was embroiled in a gender row.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/6/olympic-champion-imane-khelif-to-make-professional-boxing-debut-in-december?traffic_source=rss",
+    "publishedAt": "2026-11-06T12:04:52.000Z"
   },
   {
     "id": "b5aaee699351f602",
@@ -97,6 +232,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss",
     "publishedAt": "2026-11-06T11:28:38.000Z"
+  },
+  {
+    "id": "b43a95e51bed2bb6",
+    "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+    "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+    "publishedAt": "2026-11-06T11:20:10.000Z"
   },
   {
     "id": "2c55a995feddf303",
@@ -196,6 +340,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/sport/2026/nov/06/clicky-ponting-cheating-scandal-cricketer-brian-devine-banned-club-relegated",
     "publishedAt": "2026-11-06T10:30:38.000Z"
+  },
+  {
+    "id": "a5b6c69c23f23c8b",
+    "title": "Homes and temples glow across India as Diwali celebrations begin",
+    "summary": "Millions of Indians will mark the festival of lights with glowing lamps, fireworks and traditional sweets.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro",
+    "publishedAt": "2026-11-06T10:21:30.000Z"
+  },
+  {
+    "id": "032f3df66a11ef77",
+    "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
+    "summary": "The scandal involves senior members of President Prabowo Subianto's government, and hint at growing tensions among its elites.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwkg55155mrro",
+    "publishedAt": "2026-11-06T10:10:38.000Z"
   },
   {
     "id": "67ceebbae71b6f93",
@@ -954,6 +1116,15 @@
     "publishedAt": "2026-11-05T21:27:24.000Z"
   },
   {
+    "id": "dcb771ac66309941",
+    "title": "Nasdaq sees worst day in 19 months as investors bet on AI slowdown after Democrats’ election triumph",
+    "summary": "Nearly $2tn shaved off Nasdaq value as worries of curbs to AI datacenters ripple across bourses.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+    "publishedAt": "2026-11-05T21:23:18.000Z"
+  },
+  {
     "id": "5ee41d8e9b8aa674",
     "title": "France protests widen",
     "summary": "Largely peaceful demonstrations took place across France on Thursday, and trade unions went on strike over the cost of living. The Eiffel Tower was closed for the day.",
@@ -1177,176 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
     "publishedAt": "2026-11-05T18:48:07.000Z"
-  },
-  {
-    "id": "383d1ff9832985e6",
-    "title": "What will the NZ election mean for the future of Māori rights?",
-    "summary": "As the people of Aotearoa/New Zealand head to the polls, what will it mean for the nation's founding document, the Treaty of Waitangi, and the future of Māori rights?",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-06/new-zealand-election-2026-treaty-of-waitangi-and-maori-rights/107346020",
-    "publishedAt": "2026-11-05T18:47:39.000Z"
-  },
-  {
-    "id": "ee34a295b1d85b7c",
-    "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
-    "summary": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
-    "publishedAt": "2026-11-05T18:47:10.000Z"
-  },
-  {
-    "id": "29bba3c89545fee3",
-    "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
-    "summary": "Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people's savings.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
-    "publishedAt": "2026-11-05T18:30:16.000Z"
-  },
-  {
-    "id": "f71cdee4b6331496",
-    "title": "Bus collides with truck in eastern Pakistan, killing at least 11 people",
-    "summary": "Officials say a passenger bus has collided with a truck in eastern Pakistan, killing at least 11 people and injuring 33 others.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/bus-collides-truck-eastern-pakistan-killing-11-people-137885693",
-    "publishedAt": "2026-11-05T18:19:07.000Z"
-  },
-  {
-    "id": "155e203a7518751b",
-    "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
-    "summary": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-    "publishedAt": "2026-11-05T18:17:36.000Z"
-  },
-  {
-    "id": "61271f72f3ac672c",
-    "title": "Belarus sentences Catholic priest to 3 years after he opposed the Ukraine war",
-    "summary": "A Roman Catholic priest, who has opposed Russia’s invasion of Ukraine and helped Ukrainian refugees, has been sentenced to three years in prison in Belarus.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/belarus-sentences-catholic-priest-3-years-after-opposed-137885551",
-    "publishedAt": "2026-11-05T18:14:59.000Z"
-  },
-  {
-    "id": "b4dcd993f8681f20",
-    "title": "Herzog to meet Israeli election rivals as decision nears on path to power",
-    "summary": "President calls on all parties to help avoid new election after Netanyahu and Eisenkot blocs fell short of majority.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
-    "publishedAt": "2026-11-05T18:13:01.000Z"
-  },
-  {
-    "id": "be1b302213d8d7c9",
-    "title": "Winner of the Prix Goncourt literary prize admits to using AI",
-    "summary": "Philippe Jaenada told French radio that he used ChatGPT to ‘play with the reader’, after the prize removed a different book from its longlist over allegations of AI use.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada",
-    "publishedAt": "2026-11-05T18:08:58.000Z"
-  },
-  {
-    "id": "952f18146c004dd7",
-    "title": "American national sentenced to life in prison for murders of partner and infant daughter in Rome",
-    "summary": "An Italian court has sentenced an American citizen to life in prison for the murder of his partner and their infant daughter.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/american-national-sentenced-life-prison-murders-partner-infant-137884494",
-    "publishedAt": "2026-11-05T18:05:30.000Z"
-  },
-  {
-    "id": "bad87b539115be2f",
-    "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
-    "summary": "Base rate increases from 3.75% and Bank governor signals another rise in near future to combat rising inflation.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
-    "publishedAt": "2026-11-05T18:00:28.000Z"
-  },
-  {
-    "id": "3ab54bc7dde68812",
-    "title": "What matters to NZ voters? Economy, living costs, and then daylight",
-    "summary": "New Zealand's coalition government faces a fragmented and increasingly disenchanted electorate.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-06/new-zealand-election-2026-inflation-wages-economy/107350046",
-    "publishedAt": "2026-11-05T18:00:00.000Z"
-  },
-  {
-    "id": "6a9419051435aba3",
-    "title": "China wants workers to pay 'social insurance' but many cannot afford it",
-    "summary": "Beijing wants to build a \"more optimised and sustainable social security system\" as China's population aged 60 and over is expected to reach 390 million by 2030.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-06/china-to-fine-employers-not-paying-social-insurance/107326738",
-    "publishedAt": "2026-11-05T18:00:00.000Z"
-  },
-  {
-    "id": "b4370f8a9346467f",
-    "title": "In layman’s terms, this is what is happening at David Jones",
-    "summary": "Can you be in administration and have receivers? Yes, and it is happening at David Jones, which is seeking to restructure but will likely face challenges.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-06/david-jones-what-now-under-administration/107350708",
-    "publishedAt": "2026-11-05T18:00:00.000Z"
-  },
-  {
-    "id": "bae64a4562d8c9f2",
-    "title": "David Jones suppliers report months of unpaid invoices, unanswered phone calls",
-    "summary": "David Jones' suppliers tell the ABC they could see \"the writing on the wall\" as payment times got longer and telephone calls went unanswered.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-06/david-jones-suppliers-unpaid-invoices/107347028",
-    "publishedAt": "2026-11-05T18:00:00.000Z"
-  },
-  {
-    "id": "179aa43485e666a5",
-    "title": "French protests see numbers surge as unions join strikes over high cost of living",
-    "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
-    "publishedAt": "2026-11-05T17:59:53.000Z"
-  },
-  {
-    "id": "e0e95cc58dd5bce7",
-    "title": "AI stocks plunge after election, driving down US markets",
-    "summary": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
-    "publishedAt": "2026-11-05T17:56:17.000Z"
-  },
-  {
-    "id": "45375105df558031",
-    "title": "Harmeet Dhillon, controversial head of DoJ’s civil rights division, steps down",
-    "summary": "Dhillon is first high-level justice department official to leave after historic Republican defeat in 2026 midterms.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/harmeet-dhillon-doj-resignation",
-    "publishedAt": "2026-11-05T17:44:41.000Z"
-  },
-  {
-    "id": "5c6f7f6d00ed1ceb",
-    "title": "Heavy rains bring flash flooding to Georgia-Tennessee border area",
-    "summary": "National Weather Service issues flood warning: ‘Seek higher ground now!’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/heavy-rains-flash-flooding-georgia-tennessee",
-    "publishedAt": "2026-11-05T17:44:11.000Z"
-  },
-  {
-    "id": "31f9061492aeb93e",
-    "title": "British man infected with Ebola in DR Congo arrives in UK for treatment",
-    "summary": "The UK government says there are \"well-established procedures for dealing with cases like this\" and the risk to the public remains low.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo",
-    "publishedAt": "2026-11-05T17:41:07.000Z"
   }
 ]
