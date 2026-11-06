@@ -1,5 +1,68 @@
 [
   {
+    "id": "1be9ae8309328b9f",
+    "title": "Ukrainian President Zelenskyy presses Western allies for postwar security guarantees",
+    "summary": "Ukrainian President Volodymyr Zelenskyy says his government is seeking specific security guarantees from Western allies for post-war support.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/ukrainian-president-zelenskyy-presses-western-allies-clear-postwar-137904910",
+    "publishedAt": "2026-11-06T11:15:19.000Z"
+  },
+  {
+    "id": "e370df6c624a4b7e",
+    "title": "European air traffic targeted by new threats in at least 3 incidents",
+    "summary": "",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/european-air-traffic-targeted-new-threats-3-incidents-137904728",
+    "publishedAt": "2026-11-06T11:13:21.000Z"
+  },
+  {
+    "id": "83acf75ad16227a0",
+    "title": "Russia and US seek to block plan for binding rules on autonomous weapons",
+    "summary": "UN conference this month seen as key moment after years of discussions on filling gap in governance of AI systems.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules",
+    "publishedAt": "2026-11-06T11:08:33.000Z"
+  },
+  {
+    "id": "7c9dde9317a8d0b3",
+    "title": "90-year-old Holocaust survivor dies almost a year after being shot in Sydney massacre",
+    "summary": "A 90-year-old Holocaust survivor has died almost a year after she was wounded during the massacre of 15 people at a Sydney Hanukkah celebration.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/90-year-holocaust-survivor-dies-year-after-shot-137903635",
+    "publishedAt": "2026-11-06T11:07:20.000Z"
+  },
+  {
+    "id": "c1c75838eb96b840",
+    "title": "Bus whose passengers included kids crashes in France, leaving 2 dead and 16 injured",
+    "summary": "A bus crash in eastern France has killed one minor and one young adult.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/bus-passengers-included-school-kids-crashes-france-leaving-137904168",
+    "publishedAt": "2026-11-06T11:05:11.000Z"
+  },
+  {
+    "id": "53dd7b3ce6e8eeab",
+    "title": "‘Everything is so out of whack’: UK trees experience spring six months early",
+    "summary": "Mild autumn temperatures causing premature flowering and raising concerns for pollinators, say experts.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/06/uk-trees-early-spring-mild-autumn",
+    "publishedAt": "2026-11-06T11:00:51.000Z"
+  },
+  {
+    "id": "e9d08434b5377d8a",
+    "title": "‘Clicky Ponting’ cheating scandal cricketer banned and club relegated",
+    "summary": "The club cricketer dubbed “Clicky Ponting” in response to accusations of cheating during the English summer has been handed a two-year ban from the sport. His team, Saltburn CC’s 2nd XI, have also been relegated.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/sport/2026/nov/06/clicky-ponting-cheating-scandal-cricketer-brian-devine-banned-club-relegated",
+    "publishedAt": "2026-11-06T10:30:38.000Z"
+  },
+  {
     "id": "67ceebbae71b6f93",
     "title": "Tanzanian opposition leader found guilty of incitement",
     "summary": "The 58-year-old, who has been detained since April last year, was acquitted of the more serious charge of treason.",
@@ -1285,68 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/05/leon-black-sues-congressman-robert-garcia-epstein",
     "publishedAt": "2026-11-05T16:44:08.000Z"
-  },
-  {
-    "id": "f925cb28aa9fb326",
-    "title": "Republicans hoping to succeed Trump in 2028 dissect midterm rout",
-    "summary": "JD Vance, Ron DeSantis and Ted Cruz all pointed to Iran war and affordability as key factors in Democratic victory.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/republicans-cruz-desantis-vance-midterm-rout",
-    "publishedAt": "2026-11-05T16:36:43.000Z"
-  },
-  {
-    "id": "4bf32da94e2c6cf1",
-    "title": "Burnham wants to ‘recast’ Chagos Islands deal after US resistance",
-    "summary": "UK PM says he wants ‘a new discussion’ with Washington over the disputed islands.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/05/andy-burnham-recast-chagos-islands-deal-us-resistance",
-    "publishedAt": "2026-11-05T16:17:48.000Z"
-  },
-  {
-    "id": "31aa935e17b900ba",
-    "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
-    "summary": "A prosecutor described Brand as a ruthless, calculating, manipulative \"sexual predator.\" Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
-    "publishedAt": "2026-11-05T16:15:02.000Z"
-  },
-  {
-    "id": "24d34b556c18b89a",
-    "title": "Vance eyes 2028 reset, as Republicans mull pivot after US midterms drubbing",
-    "summary": "A Democratic 'blue tsunami' in the US midterms shines a light on emerging distaste for Trump's brand among Republicans.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/vance-eyes-2028-reset-as-republicans-mull-pivot-after-us-midterms-drubbing?traffic_source=rss",
-    "publishedAt": "2026-11-05T16:12:35.000Z"
-  },
-  {
-    "id": "0e7e15d00cc57d3f",
-    "title": "Channel 4 axes Married at First Sight UK after rape allegations",
-    "summary": "Decision made in wake of two reviews ordered following two allegations of rape and one of sexual misconduct during filming.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/05/channel-4-axes-married-at-first-sight-uk-over-rape-allegations",
-    "publishedAt": "2026-11-05T16:05:44.000Z"
-  },
-  {
-    "id": "886ff55cf7f096eb",
-    "title": "Top Japan FA official to stand against Infantino for FIFA presidency",
-    "summary": "Kozo Tashima second person to declare he will challenge Infantino, after former Spurs defender Ramon Vega.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/5/top-japan-fa-official-to-stand-against-infantino-for-fifa-presidency?traffic_source=rss",
-    "publishedAt": "2026-11-05T15:52:15.000Z"
-  },
-  {
-    "id": "d0219fba19e5b1ff",
-    "title": "Nigerian court nullifies presidential contender’s candidacy 2 months before election",
-    "summary": "A Nigerian court has disqualified a leading presidential candidate, complicating the electoral process two months before the election.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/nigerian-court-nullifies-presidential-contenders-candidacy-2-months-137880665",
-    "publishedAt": "2026-11-05T15:48:40.000Z"
   }
 ]
