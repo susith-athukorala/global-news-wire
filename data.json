@@ -1,5 +1,23 @@
 [
   {
+    "id": "866b65294039aa74",
+    "title": "How does it affect me if share prices fall?",
+    "summary": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o",
+    "publishedAt": "2026-11-06T09:21:50.000Z"
+  },
+  {
+    "id": "f29830a60fe0b366",
+    "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
+    "summary": "Pope Leo XIV is kicking off a three-nation tour of Latin America with a visit to Uruguay, three weeks after undergoing lung cancer surgery that had put the entire trip into question.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
+    "publishedAt": "2026-11-06T09:19:57.000Z"
+  },
+  {
     "id": "cd3e75a722bb7c3b",
     "title": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
     "summary": "Sell-off on Wall Street followed by sharp fall in Asian and European markets, with FTSE down 1.5%.",
@@ -1330,23 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/5/why-guinea-bissau-halted-a-controversial-hepatitis-vaccine-trial-for-babies?traffic_source=rss",
     "publishedAt": "2026-11-05T15:01:35.000Z"
-  },
-  {
-    "id": "af70240852b13008",
-    "title": "The best Christmas gifts in the UK for dads, grandads, uncles and friends – tested for 2026",
-    "summary": "What do you get the man who doesn’t seem to want anything? From fiery condiments to chef’s knives, slippers to portable speakers, these ideas are sure to hit the spot.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2026/nov/05/best-christmas-gifts-dads-grandads-uncles-friends-uk",
-    "publishedAt": "2026-11-05T15:00:27.000Z"
-  },
-  {
-    "id": "f0b6d8c3fe928a8d",
-    "title": "Six dead and others injured in fire at New York City building",
-    "summary": "The cause of the blaze is not yet clear, after 230 fire and emergency medical personnel went to the scene.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c39wz44411w0o",
-    "publishedAt": "2026-11-05T15:00:12.000Z"
   }
 ]
