@@ -1,5 +1,32 @@
 [
   {
+    "id": "89aed8ed743fffe9",
+    "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
+    "summary": "Putin meets Iran's top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
+    "publishedAt": "2026-11-06T02:48:19.000Z"
+  },
+  {
+    "id": "d875f3c513836fec",
+    "title": "Liberal bus crashes into shop awning on its first outing of Victorian election campaign",
+    "summary": "Opposition leader Jess Wilson grimaced as the ‘Jess Express’, carrying Liberals and reporters, backs into the structure in suburban Melbourne.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/06/liberal-jess-wilson-campaign-bus-crashes-into-shop-first-day-victorian-election",
+    "publishedAt": "2026-11-06T02:28:02.000Z"
+  },
+  {
+    "id": "49159d4be2045d54",
+    "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+    "summary": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o",
+    "publishedAt": "2026-11-06T02:08:57.000Z"
+  },
+  {
     "id": "e8c0c67decf9c751",
     "title": "California governor commutes sentences of more than 500 people on death row",
     "summary": "Gavin Newsom cites state values and flaws in the legal system as he grants largest mass clemency in US history.",
@@ -34,6 +61,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o",
     "publishedAt": "2026-11-06T01:22:39.000Z"
+  },
+  {
+    "id": "9cf57ea58b9fe7a3",
+    "title": "Trump signs order preventing future presidents from changing Oval Office",
+    "summary": "The order comes after Trump made a series of big changes the Oval Office decor and launched landmark construction projects across Washington.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo",
+    "publishedAt": "2026-11-06T01:20:01.000Z"
   },
   {
     "id": "530d51cbea5a9362",
@@ -1312,41 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts?traffic_source=rss",
     "publishedAt": "2026-11-05T11:32:40.000Z"
-  },
-  {
-    "id": "e176928d6a96d8d7",
-    "title": "Google refused 54K-name petition, say campaigners",
-    "summary": "Campaigners oppose the development of a large data centre on a wildlife site at Thurrock.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5ev3wm3ng42o",
-    "publishedAt": "2026-11-05T11:30:03.000Z"
-  },
-  {
-    "id": "37257c9fa2388e3c",
-    "title": "Police and firefighters around UK gear up for Bonfire Night disorder",
-    "summary": "Leeds and Edinburgh among areas previously hit by fireworks-related violence, as fire brigades union warns of insufficient resources.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/05/police-firefighters-uk-preparing-for-bonfire-night-disorder",
-    "publishedAt": "2026-11-05T11:24:58.000Z"
-  },
-  {
-    "id": "30f853e6c049c997",
-    "title": "Toyota raises profit projection for the year as sales hold up",
-    "summary": "Toyota has reported a 19% drop in fiscal second-quarter profit but raises its full-year forecast.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/toyota-raises-profit-projection-year-sales-hold-137868815",
-    "publishedAt": "2026-11-05T11:22:20.000Z"
-  },
-  {
-    "id": "4e7aef58a22f0a9a",
-    "title": "Midwives concerned over possible baby unit closures",
-    "summary": "The RCM union says possible closures in Norfolk would also affect patients in neighbouring counties.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqe9l7lv9j58o",
-    "publishedAt": "2026-11-05T11:21:55.000Z"
   }
 ]
