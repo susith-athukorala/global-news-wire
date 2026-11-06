@@ -1,5 +1,68 @@
 [
   {
+    "id": "cd3e75a722bb7c3b",
+    "title": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
+    "summary": "Sell-off on Wall Street followed by sharp fall in Asian and European markets, with FTSE down 1.5%.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+    "publishedAt": "2026-11-06T08:58:22.000Z"
+  },
+  {
+    "id": "19041566aabeeb4e",
+    "title": "Employers to be forced to put salaries on job ads, Andy Burnham announces",
+    "summary": "Workers’ rights campaigners say measure will help young people and women in particular achieve more equal pay.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham",
+    "publishedAt": "2026-11-06T08:54:40.000Z"
+  },
+  {
+    "id": "98b24a650d59270b",
+    "title": "Tech stock rout, driven by US AI fears, continues in Asian trading",
+    "summary": "Global markets are being roiled due to concerns over US data centre expansion and AI regulation.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading?traffic_source=rss",
+    "publishedAt": "2026-11-06T08:41:05.000Z"
+  },
+  {
+    "id": "8c04ada618033438",
+    "title": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
+    "summary": "Captain Ajay Pant was in international waters when his allegedly 'shadow' tanker was captured by British soldiers.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss",
+    "publishedAt": "2026-11-06T08:32:57.000Z"
+  },
+  {
+    "id": "f3372422aec89177",
+    "title": "Death a ‘distinct possibility’ in collision running and face-slapping competitions, inquiry hears",
+    "summary": "Impacts in emerging contact sports are akin to coward punches and cannot be made safer with regulation, neurologist says.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/06/run-nation-power-slap-combat-sports-safety-inquiry-nsw",
+    "publishedAt": "2026-11-06T08:23:10.000Z"
+  },
+  {
+    "id": "f2cd36f3aa4967f5",
+    "title": "Seven people arrested in Glasgow after Bonfire Night violence across Scotland",
+    "summary": "Emergency services targeted with fireworks and police vehicle set alight in Glasgow.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/06/arrests-glasgow-bonfire-night-violence-scotland",
+    "publishedAt": "2026-11-06T08:11:24.000Z"
+  },
+  {
+    "id": "e6a8be187879c819",
+    "title": "UK house prices fall at steepest rate in more than three years",
+    "summary": "October drop of 0.6% leaves average price of property at £296,285, says Lloyds, as high mortgage rates hit market.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years",
+    "publishedAt": "2026-11-06T08:05:48.000Z"
+  },
+  {
     "id": "74b63ff59f8a0b31",
     "title": "Somalia's top court rejects president's term extension amid political crisis",
     "summary": "The country's first one person, one vote elections in many years are due next year - a timetable now in doubt.",
@@ -423,6 +486,15 @@
     "publishedAt": "2026-11-06T00:29:06.000Z"
   },
   {
+    "id": "5b7c63cdb250ddac",
+    "title": "Euphoria meets raw fear on Wall Street as stocks plunge post US-midterms",
+    "summary": "Wall Street indices nosedive as investor thinking about the rollout of AI infrastructure turns on its head. So, is this latest sell-off a flash in the plan or the start of a broader bear market?",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-06/wall-street-sees-tech-sell-off-as-investors-rethink-ai-trade/107354110",
+    "publishedAt": "2026-11-06T00:27:50.000Z"
+  },
+  {
     "id": "e59b7ed0ae569608",
     "title": "Turkiye’s parliament ratifies Mecca defence agreement",
     "summary": "Parliament's approval lays the groundwork for further Turkish involvement in Saudi Arabia's conflict with the Houthis.",
@@ -556,6 +628,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/media/2026/nov/04/fox-news-midterm-ratings",
     "publishedAt": "2026-11-05T22:04:20.000Z"
+  },
+  {
+    "id": "099520cf36d22013",
+    "title": "Will Atiku Abubakar be on Nigeria's presidential ballot after court ruling?",
+    "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o",
+    "publishedAt": "2026-11-05T22:00:33.000Z"
   },
   {
     "id": "9e7b5e7b6c4238a3",
@@ -898,6 +979,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
     "publishedAt": "2026-11-05T18:00:28.000Z"
+  },
+  {
+    "id": "3ab54bc7dde68812",
+    "title": "What matters to NZ voters? Economy, living costs, and then daylight",
+    "summary": "New Zealand's coalition government faces a fragmented and increasingly disenchanted electorate.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-06/new-zealand-election-2026-inflation-wages-economy/107350046",
+    "publishedAt": "2026-11-05T18:00:00.000Z"
   },
   {
     "id": "6a9419051435aba3",
@@ -1258,95 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c39wz44411w0o",
     "publishedAt": "2026-11-05T15:00:12.000Z"
-  },
-  {
-    "id": "1212da89a1c71348",
-    "title": "Misogyny and sexism of Russell Brand case have not gone away, say TV insiders",
-    "summary": "Concerns remain that media industry is still failing to confront troubling behaviour.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/05/misogyny-and-sexism-of-russell-brand-case-have-not-gone-away-say-tv-insiders",
-    "publishedAt": "2026-11-05T14:52:36.000Z"
-  },
-  {
-    "id": "0987c826d294237a",
-    "title": "Investigation into 'major fish kill' after pollution incident",
-    "summary": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o",
-    "publishedAt": "2026-11-05T14:51:45.000Z"
-  },
-  {
-    "id": "79e9c9632f207cf2",
-    "title": "Russell Brand found guilty of rape and sexual assault by UK court",
-    "summary": "British comedian was convicted by jury at London court of one count of rape and three counts of sexual assault.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss",
-    "publishedAt": "2026-11-05T14:43:09.000Z"
-  },
-  {
-    "id": "470b77920b2c4199",
-    "title": "BT cuts almost 8,000 jobs amid sweeping cost-saving programme",
-    "summary": "Telecoms group reports £1.1bn pre-tax profit in six months to end of September and share price touches five-year high.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/05/bt-cuts-jobs-cost-saving-programme-profit-share-price",
-    "publishedAt": "2026-11-05T14:40:48.000Z"
-  },
-  {
-    "id": "b9e5704092a8e660",
-    "title": "UK and US condemn ‘cruel’ second jail term handed to Hong Kong activist Joshua Wong",
-    "summary": "Foreign Office says 10-year sentence shows city’s security law is being used to ‘target individuals for political expression’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/uk-and-us-condemn-second-jail-term-handed-to-hong-kong-activist-joshua-wong",
-    "publishedAt": "2026-11-05T14:38:37.000Z"
-  },
-  {
-    "id": "16e106b6e7b3956e",
-    "title": "Amtrak workers’ union denounces plan to let passengers bring guns on trains: ‘Sheer lunacy’",
-    "summary": "New policy would permit passengers to take firearms to their seats in lockboxes on 1,500 trains a day across the US.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/05/amtrak-workers-union-passengers-guns",
-    "publishedAt": "2026-11-05T14:34:44.000Z"
-  },
-  {
-    "id": "148199e7035378af",
-    "title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
-    "summary": "Former army surgeon and Gaza volunteer Hamawy is the first Muslim American elected to the US Congress from New Jersey.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
-    "publishedAt": "2026-11-05T14:30:37.000Z"
-  },
-  {
-    "id": "c6585b5b1b1d177d",
-    "title": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
-    "summary": "Cost of servicing external debt is preventing developing countries from investing for future.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
-    "publishedAt": "2026-11-05T14:30:25.000Z"
-  },
-  {
-    "id": "1266b87d0f752955",
-    "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
-    "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo",
-    "publishedAt": "2026-11-05T14:29:40.000Z"
-  },
-  {
-    "id": "e71efcda2728acf2",
-    "title": "Russell Brand found guilty of rape and sexual assault",
-    "summary": "Judge says actor and comedian faces ‘significant custodial term’ after being convicted of raping a woman and assaulting three others.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-found-guilty-rape-sexual-assault",
-    "publishedAt": "2026-11-05T14:26:33.000Z"
   }
 ]
