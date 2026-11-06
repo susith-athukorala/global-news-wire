@@ -927,6 +927,15 @@
     "publishedAt": "2026-11-06T09:21:50.000Z"
   },
   {
+    "id": "9cf57ea58b9fe7a3",
+    "title": "Trump signs order to preserve Oval Office as national monument",
+    "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo",
+    "publishedAt": "2026-11-06T09:19:57.000Z"
+  },
+  {
     "id": "f29830a60fe0b366",
     "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
     "summary": "Pope Leo XIV is kicking off a three-nation tour of Latin America with a visit to Uruguay, three weeks after undergoing lung cancer surgery that had put the entire trip into question.",
@@ -1287,6 +1296,15 @@
     "publishedAt": "2026-11-06T05:38:44.000Z"
   },
   {
+    "id": "23708090426bccf5",
+    "title": "Beau Lamarre-Condon tells double murder trial firing first shot at Jesse Baird’s shoulder was ‘the right move’",
+    "summary": "Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
+    "publishedAt": "2026-11-06T05:17:05.000Z"
+  },
+  {
     "id": "bfa3680c9519ec7b",
     "title": "Why one Republican won a redrawn Texas district despite blue tsunami",
     "summary": "Republican redistricting largely backfired in Texas and beyond, but one redrawn district delivered for the party.",
@@ -1330,23 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
     "publishedAt": "2026-11-06T04:30:26.000Z"
-  },
-  {
-    "id": "fe18765f21847cfb",
-    "title": "What Indonesia's 'Watergate' moment says about two powerful men",
-    "summary": "After the alleged wire-tapping of the president and some of his most trusted allies, some experts wonder if it signals a growing rift between Indonesia's political heavyweights.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-06/indonesia-alleged-wire-tapping-widodo-subianto-political-drama/107354636",
-    "publishedAt": "2026-11-06T04:02:40.000Z"
-  },
-  {
-    "id": "c88026a9b84d8721",
-    "title": "Bondi beach shooting: Woman, 90, shot during massacre dies in hospital year after antisemitic attack",
-    "summary": "Woman was shot on 14 December 2025 during Hanukkah festival and she has been in and out of hospital since.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
-    "publishedAt": "2026-11-06T03:31:38.000Z"
   }
 ]
