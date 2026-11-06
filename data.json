@@ -1,5 +1,32 @@
 [
   {
+    "id": "d6a5104893280290",
+    "title": "Trump issues proclamation declaring Oval Office national monument",
+    "summary": "Following election losses, the signing marks Trump's third event of the week focused on signature renovation projects.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss",
+    "publishedAt": "2026-11-06T04:48:00.000Z"
+  },
+  {
+    "id": "b739dcae1dc706cf",
+    "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
+    "summary": "Anthony Albanese’s government has taken a blow due to Iran war but voter anxiety around cost of living and datacentres may hit harder.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
+    "publishedAt": "2026-11-06T04:45:24.000Z"
+  },
+  {
+    "id": "29f9807f818fbd9f",
+    "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
+    "summary": "UN says settlers reportedly used live ammunition and beat Palestinians, forcing families to flee for their safety.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
+    "publishedAt": "2026-11-06T04:30:26.000Z"
+  },
+  {
     "id": "fe18765f21847cfb",
     "title": "What Indonesia's 'Watergate' moment says about two powerful men",
     "summary": "After the alleged wire-tapping of the president and some of his most trusted allies, some experts wonder if it signals a growing rift between Indonesia's political heavyweights.",
@@ -1321,32 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/security-officer-attacked-killed-sri-lankan-embassy-jordans-137871485",
     "publishedAt": "2026-11-05T11:46:06.000Z"
-  },
-  {
-    "id": "658b16237c59e586",
-    "title": "Why more investment is not making housing affordable in Ghana",
-    "summary": "High costs, limited financing and rising demand keep homes out of reach.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/why-more-investment-is-not-making-housing-affordable-in-ghana?traffic_source=rss",
-    "publishedAt": "2026-11-05T11:42:29.000Z"
-  },
-  {
-    "id": "133896d361a11332",
-    "title": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume",
-    "summary": "Russia and Ukraine have traded damaging airstrikes as talks resume in Brussels to discuss Ukraine's post-war reconstruction and security guarantees.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/russia-ukraine-trade-airstrikes-reconstruction-security-talks-resume-137871457",
-    "publishedAt": "2026-11-05T11:38:25.000Z"
-  },
-  {
-    "id": "4d6c5216fce3e630",
-    "title": "Palantir mines battlefield intelligence but is Ukraine ‘paying with blood’?",
-    "summary": "The US company is using Kyiv’s unique war data to train its controversial technologies.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood?traffic_source=rss",
-    "publishedAt": "2026-11-05T11:34:29.000Z"
   }
 ]
