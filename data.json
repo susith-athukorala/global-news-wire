@@ -1,5 +1,50 @@
 [
   {
+    "id": "fc0b940e8d8ff473",
+    "title": "Several Democrats renew calls for datacenter pauses after blue wave",
+    "summary": "Tech industry fears delays to its multi-trillion dollar infrastructure buildout meant to power artificial intelligence.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
+    "publishedAt": "2026-11-06T21:14:46.000Z"
+  },
+  {
+    "id": "389b46270e37d014",
+    "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+    "summary": "Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+    "publishedAt": "2026-11-06T20:42:51.000Z"
+  },
+  {
+    "id": "28fd1f853fc8aac1",
+    "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
+    "summary": "US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
+    "publishedAt": "2026-11-06T20:28:07.000Z"
+  },
+  {
+    "id": "98a6805b713d6f60",
+    "title": "Pope Leo arrives in Uruguay starting 12-day Latin America tour",
+    "summary": "The 71-year-old pontiff is visiting three countries despite undergoing surgery to remove a tumour last month.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
+    "publishedAt": "2026-11-06T20:22:22.000Z"
+  },
+  {
+    "id": "5cf0ad4613a8c2ac",
+    "title": "The nine best personalized gift ideas: customized for the person you love",
+    "summary": "Monogramming or customizing takes gifts to the next level – and shows recipients that you know what they like and who they are.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/thefilter-us/2026/nov/06/best-personalized-custom-gift-ideas",
+    "publishedAt": "2026-11-06T20:15:51.000Z"
+  },
+  {
     "id": "ef57be719ae4f306",
     "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
     "summary": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?",
@@ -34,6 +79,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/music/2026/nov/06/macklemore-arenas-free-palestine-tour",
     "publishedAt": "2026-11-06T19:46:56.000Z"
+  },
+  {
+    "id": "fc55b64d1ee0dc3c",
+    "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory",
+    "summary": "Canadian Prime Minister Mark Carney welcomes a Democratic push to repeal U.S. President Donald Trump’s tariffs on Canada after their sweeping midterm victory.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/carney-welcomes-democrats-push-end-trumps-tariffs-canada-137923648",
+    "publishedAt": "2026-11-06T19:46:02.000Z"
   },
   {
     "id": "12dab0289873e890",
@@ -241,6 +295,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o",
     "publishedAt": "2026-11-06T17:35:55.000Z"
+  },
+  {
+    "id": "ffb8d349a96446e6",
+    "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+    "summary": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo",
+    "publishedAt": "2026-11-06T17:19:38.000Z"
   },
   {
     "id": "cf7d22fcd65fb783",
@@ -1285,68 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/06/run-nation-power-slap-combat-sports-safety-inquiry-nsw",
     "publishedAt": "2026-11-06T08:23:10.000Z"
-  },
-  {
-    "id": "f2cd36f3aa4967f5",
-    "title": "Seven people arrested in Glasgow after Bonfire Night violence across Scotland",
-    "summary": "Emergency services targeted with fireworks and police vehicle set alight in Glasgow.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/06/arrests-glasgow-bonfire-night-violence-scotland",
-    "publishedAt": "2026-11-06T08:11:24.000Z"
-  },
-  {
-    "id": "e6a8be187879c819",
-    "title": "UK house prices fall at steepest rate in more than three years",
-    "summary": "October drop of 0.6% leaves average price of property at £296,285, says Lloyds, as high mortgage rates hit market.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years",
-    "publishedAt": "2026-11-06T08:05:48.000Z"
-  },
-  {
-    "id": "74b63ff59f8a0b31",
-    "title": "Somalia's top court rejects president's term extension amid political crisis",
-    "summary": "The country's first one person, one vote elections in many years are due next year - a timetable now in doubt.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o",
-    "publishedAt": "2026-11-06T08:04:46.000Z"
-  },
-  {
-    "id": "829ef7bbf9b45e33",
-    "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-    "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o",
-    "publishedAt": "2026-11-06T07:56:19.000Z"
-  },
-  {
-    "id": "b34a0af407dd53a1",
-    "title": "Myanmar to hold by-elections in April, including in areas where fighting persists",
-    "summary": "Myanmar will hold special elections next April in its first vote since this year's general election that critics said was designed to cement military rule.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/myanmar-hold-elections-april-including-areas-fighting-persists-137903196",
-    "publishedAt": "2026-11-06T07:48:10.000Z"
-  },
-  {
-    "id": "4c43f082488751af",
-    "title": "Former pro-democracy lawmaker sentenced to 12 1/2 years in Macao’s 1st national security case",
-    "summary": "Macao pro-democracy former lawmaker Au Kam San was sentenced to 12 1/2 years in prison Friday in the Chinese city’s first national security case following a closed-door trial that raised concerns about fairness.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/former-pro-democracy-lawmaker-sentenced-12-12-years-137899620",
-    "publishedAt": "2026-11-06T07:47:33.000Z"
-  },
-  {
-    "id": "f12831d59f9d7962",
-    "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-    "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro",
-    "publishedAt": "2026-11-06T07:33:41.000Z"
   }
 ]
