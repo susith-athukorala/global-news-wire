@@ -1,5 +1,113 @@
 [
   {
+    "id": "c417a1193268f5a6",
+    "title": "Leader of Kenyan doomsday cult sentenced to 200 years in prison",
+    "summary": "The leader of a Kenyan doomsday cult linked to the deaths of hundreds of people has been sentenced to 200 years in prison for the murders of 191 people.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/leader-kenyan-doomsday-cult-sentenced-200-years-prison-137905380",
+    "publishedAt": "2026-11-06T12:11:18.000Z"
+  },
+  {
+    "id": "b5aaee699351f602",
+    "title": "Weeks before rape conviction, Russell Brand was featured speaker for Maha group allied with RFK Jr",
+    "summary": "Brand has been supported by Tony Lyons, who runs Maha Action, and has appeared on stage with Mehmet Oz.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-russell-brand-maha-rfk-jr-mehmet-oz",
+    "publishedAt": "2026-11-06T12:00:42.000Z"
+  },
+  {
+    "id": "4cd028ae08205b24",
+    "title": "‘An abomination’: Idaho hunters earned thousands of dollars to kill newborn wolf pups, records reveal",
+    "summary": "Wildlife advocates incensed as documents show state paid out $2,000 per kill in effort to shrink state’s wolf population.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/idaho-hunters-newborn-wolf-pups",
+    "publishedAt": "2026-11-06T12:00:42.000Z"
+  },
+  {
+    "id": "7fda1dbd7e2317cd",
+    "title": "Measles, mumps and misinformation: how Crunchy Moms became ‘the most dangerous’ group on Facebook",
+    "summary": "Meta says it removes content that could cause imminent physical harm – but nearly half a million members have joined a group that regularly promotes misinformation.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/06/crunchy-moms-facebook-vaccines",
+    "publishedAt": "2026-11-06T12:00:41.000Z"
+  },
+  {
+    "id": "74f04d3c699186f3",
+    "title": "First Thing: Global tech stocks wobble over AI regulation fears after midterms",
+    "summary": "Anticipation that Democrats’ ‘blue wave’ will lead to tighter rules on AI and datacenters sends tech stock plunging. Plus a big eight-legged surprise for customs officials in Peru.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/first-thing-tech-stocks-ai-regulation-midterms",
+    "publishedAt": "2026-11-06T11:59:46.000Z"
+  },
+  {
+    "id": "ba28d702a132846f",
+    "title": "‘We are here’: Kurdish club Amedspor shakes up Turkish football",
+    "summary": "The Diyarbakir-based club have risen from the third tier to a top-of-the-table clash in the Turkish Super Lig.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/6/we-are-here-kurdish-club-amedspor-shakes-up-turkish-football?traffic_source=rss",
+    "publishedAt": "2026-11-06T11:59:40.000Z"
+  },
+  {
+    "id": "75d8a8aaaffdf70c",
+    "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
+    "summary": "Dr. Raj Panjabi is the author of Safer: A Playbook. His goal is to help people face a personal crisis — health, workplace, family conflicts — and \"turn fear into action.\"",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
+    "publishedAt": "2026-11-06T11:57:32.000Z"
+  },
+  {
+    "id": "a5922f5bfbd64768",
+    "title": "Tanzania court jails opposition leader for incitement, lifts treason charge",
+    "summary": "Dismissal of treason charge means Tundu Lissu avoids threat of death penalty.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/tanzania-court-jails-opposition-leader-for-incitement-lifts-treason-charge?traffic_source=rss",
+    "publishedAt": "2026-11-06T11:56:57.000Z"
+  },
+  {
+    "id": "ffc3bbb2a33a27a0",
+    "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+    "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o",
+    "publishedAt": "2026-11-06T11:54:08.000Z"
+  },
+  {
+    "id": "21f2fbd1347bc535",
+    "title": "Tanzania’s smallholder farmers struggle to benefit from digital agriculture",
+    "summary": "Poor training and delayed responses leave farmers struggling to access useful market information.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/6/tanzanias-smallholder-farmers-struggle-to-benefit-from-digital-agriculture?traffic_source=rss",
+    "publishedAt": "2026-11-06T11:35:39.000Z"
+  },
+  {
+    "id": "b3578216dc4e7ffc",
+    "title": "Rocket launcher deal illustrates deepening Russia-Iran relations",
+    "summary": "Report of deal comes as top Iranian security official Mohsen Rezaei discusses developing cooperation treaty with Putin.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss",
+    "publishedAt": "2026-11-06T11:28:38.000Z"
+  },
+  {
+    "id": "2c55a995feddf303",
+    "title": "Hoax or bomb threats? What we know about flight disruptions across Europe",
+    "summary": "Security inspections reveal no explosives as fighter jets escort planes amid Europe's major wave of bomb threats.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
+    "publishedAt": "2026-11-06T11:18:02.000Z"
+  },
+  {
     "id": "1be9ae8309328b9f",
     "title": "Ukrainian President Zelenskyy presses Western allies for postwar security guarantees",
     "summary": "Ukrainian President Volodymyr Zelenskyy says his government is seeking specific security guarantees from Western allies for post-war support.",
@@ -18,6 +126,24 @@
     "publishedAt": "2026-11-06T11:13:21.000Z"
   },
   {
+    "id": "d52fa9294fe541bc",
+    "title": "Commuters and shoppers face disruption from tube driver strikes in run-up to Christmas",
+    "summary": "RMT union calls eight 24-hour strikes on London Underground in opposition to plans for four-day week.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/06/commuters-and-shoppers-face-disruption-from-tube-driver-strikes-in-run-up-to-christmas",
+    "publishedAt": "2026-11-06T11:12:58.000Z"
+  },
+  {
+    "id": "369a4e4f36abf76d",
+    "title": "‘Nobody can stop them’: Who are Europe’s Black Bloc protesters?",
+    "summary": "Anarchistic activists who dress in black and clash with police are a regular feature of protests from France to Albania.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/nobody-can-stop-them-who-are-europes-black-bloc-protesters?traffic_source=rss",
+    "publishedAt": "2026-11-06T11:09:04.000Z"
+  },
+  {
     "id": "83acf75ad16227a0",
     "title": "Russia and US seek to block plan for binding rules on autonomous weapons",
     "summary": "UN conference this month seen as key moment after years of discussions on filling gap in governance of AI systems.",
@@ -25,6 +151,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules",
     "publishedAt": "2026-11-06T11:08:33.000Z"
+  },
+  {
+    "id": "d07e11123b3ebbff",
+    "title": "Macao court sentences pro-democracy ex-politician to 12.5 years in jail",
+    "summary": "Court finds Au Kam-san guilty of spreading false information and subversion in bid to disrupt Macao’s 2024 elections.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/macao-sentences-pro-democracy-ex-politician-to-12-5-years-in-jail?traffic_source=rss",
+    "publishedAt": "2026-11-06T11:08:02.000Z"
   },
   {
     "id": "7c9dde9317a8d0b3",
@@ -1213,140 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo",
     "publishedAt": "2026-11-05T17:41:07.000Z"
-  },
-  {
-    "id": "bdfd2b2ef775448f",
-    "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-    "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo",
-    "publishedAt": "2026-11-05T17:39:48.000Z"
-  },
-  {
-    "id": "3d218e3750d110d4",
-    "title": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
-    "summary": "Philippine official says there are ‘signs that point to Thomas Markle Jr’s involvement in crime’, but he’s not yet being treated as a suspect.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
-    "publishedAt": "2026-11-05T17:37:27.000Z"
-  },
-  {
-    "id": "28676603bf0a9b65",
-    "title": "Why have more than 30 European flights been hit by bomb threats this week?",
-    "summary": "With flights disrupted, how concerned should you be about your travel plans?",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-european-flights-airports-disruption-explainer",
-    "publishedAt": "2026-11-05T17:36:43.000Z"
-  },
-  {
-    "id": "dcb771ac66309941",
-    "title": "Nasdaq heading for worst day in 18 months as Wall Street sustains widespread losses",
-    "summary": "Share index slumps 5% amid signs AI industry will face tougher regulation after Democrats’ midterm elections success.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
-    "publishedAt": "2026-11-05T17:31:04.000Z"
-  },
-  {
-    "id": "cb74380025e35bc9",
-    "title": "UK government considers smart glasses ban over secret filming concerns",
-    "summary": "Minister hints at restriction on selling technology ‘to certain users’ amid worries over surreptitious filming of women.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
-    "publishedAt": "2026-11-05T17:21:51.000Z"
-  },
-  {
-    "id": "dd7f854fb23ebfd7",
-    "title": "Protesters march in cities across France as unions stage general strike",
-    "summary": "Hundreds of thousands demonstrate over cost of living and cuts to public services as 70,000 police officers deployed.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
-    "publishedAt": "2026-11-05T17:21:45.000Z"
-  },
-  {
-    "id": "a85489020ca6edfc",
-    "title": "Beware ‘sun, sea and surgery’ cosmetic tourism packages, experts advise",
-    "summary": "British College of Aesthetic Medicine launches checklist as part of ‘vet it before you get it’ campaign.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/05/beware-cosmetic-surgery-tourism-packages-experts-advise",
-    "publishedAt": "2026-11-05T17:17:00.000Z"
-  },
-  {
-    "id": "a043cda1bcb1b69d",
-    "title": "Paraguay President Santiago Peña resigns after bank collapse",
-    "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo",
-    "publishedAt": "2026-11-05T17:14:41.000Z"
-  },
-  {
-    "id": "bfd986f819869537",
-    "title": "Interest rates hiked to 4% in first increase in over three years",
-    "summary": "Most analysts expected the increase from 3.75% to 4%.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
-    "publishedAt": "2026-11-05T17:09:55.000Z"
-  },
-  {
-    "id": "d67f13e39240331f",
-    "title": "K-pop group NewJeans’s contract omitted rights to ‘sleep and free choice’ – report",
-    "summary": "New report finds that record label Ador stripped child protections from group’s contracts when they were minors.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/05/k-pop-group-newjeans-contract",
-    "publishedAt": "2026-11-05T17:08:29.000Z"
-  },
-  {
-    "id": "b53cf15abfc48b30",
-    "title": "Paraguay President Pena resigns in wake of bank collapse",
-    "summary": "President Pena, a Trump ally, had faced an impeachment motion and protests after the collapse of digital lender ueno.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse?traffic_source=rss",
-    "publishedAt": "2026-11-05T17:08:19.000Z"
-  },
-  {
-    "id": "c007e426e5dbe2c9",
-    "title": "Washington state passes ballot measure banning trans girls from school sports",
-    "summary": "Measure in Democratic state says students must submit health documents verifying biological sex for girls’ teams.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/washington-ballot-measure-trans-athlete-ban",
-    "publishedAt": "2026-11-05T17:02:02.000Z"
-  },
-  {
-    "id": "a09ac2cdda652bed",
-    "title": "EU presses UK to guarantee discounted university tuition fees for European students",
-    "summary": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
-    "publishedAt": "2026-11-05T16:58:54.000Z"
-  },
-  {
-    "id": "b43a95e51bed2bb6",
-    "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-    "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
-    "publishedAt": "2026-11-05T16:44:38.000Z"
-  },
-  {
-    "id": "0f368e00ea6a65f1",
-    "title": "Leon Black sues US congressman Robert Garcia for $7.5m over Epstein comments",
-    "summary": "Black in defamation lawsuit alleges California lawmaker made false statements about his ties to Jeffrey Epstein.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/leon-black-sues-congressman-robert-garcia-epstein",
-    "publishedAt": "2026-11-05T16:44:08.000Z"
   }
 ]
