@@ -1,5 +1,68 @@
 [
   {
+    "id": "67ceebbae71b6f93",
+    "title": "Tanzanian opposition leader found guilty of incitement",
+    "summary": "The 58-year-old, who has been detained since April last year, was acquitted of the more serious charge of treason.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo",
+    "publishedAt": "2026-11-06T10:05:32.000Z"
+  },
+  {
+    "id": "ea4004292cad86e1",
+    "title": "Trump wooed Latino voters, but his ICE tactics sent them back to the polls: ‘They’re taking our neighbors’",
+    "summary": "Texas business owner says he expected ICE raids to focus on those with criminal records not his relatives and employees.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/latino-voters-midterms-republicans-trump",
+    "publishedAt": "2026-11-06T10:00:50.000Z"
+  },
+  {
+    "id": "0bf1682f43fe9b9f",
+    "title": "Denmark’s top court to rule on ‘parallel societies’ after ‘non-western’ people evicted",
+    "summary": "Government claims removal of former residents of housing complex in Helsingør is unrelated to their ethnicity.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/06/denmarks-top-court-to-rule-on-parallel-societies-after-non-western-people-evicted",
+    "publishedAt": "2026-11-06T10:00:49.000Z"
+  },
+  {
+    "id": "5937aa0ff8444f2a",
+    "title": "Met police chief urges potential victims of Russell Brand to come forward",
+    "summary": "Mark Rowley says he would not be surprised if many more people emerged with allegations against convicted rapist.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/06/met-police-chief-potential-victims-russell-brand-come-forward",
+    "publishedAt": "2026-11-06T10:00:23.000Z"
+  },
+  {
+    "id": "51df0cd0d74323b7",
+    "title": "'Several victims' after bus crashes in France, officials say",
+    "summary": "The local mayor says the bus \"left the road and hit a tree in the ditch\", with the education minister saying students are involved.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
+    "publishedAt": "2026-11-06T09:57:11.000Z"
+  },
+  {
+    "id": "29b565926ae50ea8",
+    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+    "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
+    "publishedAt": "2026-11-06T09:57:04.000Z"
+  },
+  {
+    "id": "2f6f27691895c759",
+    "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
+    "summary": "Further south this week, severe thunderstorms affect midterms voting in Florida, Oklahoma and Colorado.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
+    "publishedAt": "2026-11-06T09:54:12.000Z"
+  },
+  {
     "id": "866b65294039aa74",
     "title": "How does it affect me if share prices fall?",
     "summary": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
@@ -16,6 +79,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
     "publishedAt": "2026-11-06T09:19:57.000Z"
+  },
+  {
+    "id": "35a94d2cf41682fc",
+    "title": "Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon",
+    "summary": "Najib transitions to house arrest after his party UMNO raises $12m fine via crowdfunding.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon?traffic_source=rss",
+    "publishedAt": "2026-11-06T09:01:40.000Z"
   },
   {
     "id": "cd3e75a722bb7c3b",
@@ -1276,77 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/nigerian-court-nullifies-presidential-contenders-candidacy-2-months-137880665",
     "publishedAt": "2026-11-05T15:48:40.000Z"
-  },
-  {
-    "id": "b0af4125ef1eddab",
-    "title": "Russell Brand is being investigated over two new rape complaints, police say",
-    "summary": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o",
-    "publishedAt": "2026-11-05T15:44:49.000Z"
-  },
-  {
-    "id": "d39892909fefad32",
-    "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-    "summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o",
-    "publishedAt": "2026-11-05T15:27:09.000Z"
-  },
-  {
-    "id": "094ffeabc7a47667",
-    "title": "Why do veterinary fees and sausage rolls vary in price across London?",
-    "summary": "Location is not just the only factor on why prices differ across London, as Anna O'Neill finds out.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo",
-    "publishedAt": "2026-11-05T15:19:36.000Z"
-  },
-  {
-    "id": "1a1d6c683a927ea1",
-    "title": "Small eastern Caribbean archipelago seeking slavery reparations holds general election",
-    "summary": "Grenada and other eastern Caribbean islands are voting in general elections.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/small-eastern-caribbean-archipelago-seeking-slavery-reparations-holds-137879620",
-    "publishedAt": "2026-11-05T15:16:31.000Z"
-  },
-  {
-    "id": "d8f17b2057ef19fc",
-    "title": "Why has Cristiano Ronaldo retired from international football?",
-    "summary": "Portugal superstar Ronaldo calls time on international career after a falling-out with head coach Jorge Jesus.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss",
-    "publishedAt": "2026-11-05T15:14:05.000Z"
-  },
-  {
-    "id": "355bbcfa0949501c",
-    "title": "Ronaldo in records: International milestones from the football icon",
-    "summary": "Ronaldo, 41, ended an illustrious 23-year career that spanned six World Cups and six European Championships.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss",
-    "publishedAt": "2026-11-05T15:09:31.000Z"
-  },
-  {
-    "id": "133896d361a11332",
-    "title": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume",
-    "summary": "Russia and Ukraine have traded damaging airstrikes as talks resume in Brussels to discuss Ukraine's postwar reconstruction and security guarantees.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/russia-ukraine-trade-airstrikes-reconstruction-security-talks-resume-137871457",
-    "publishedAt": "2026-11-05T15:06:22.000Z"
-  },
-  {
-    "id": "cb01fc775ab1cdc8",
-    "title": "Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies",
-    "summary": "Experts have said the US-funded trial would deny critical vaccines to thousands of infants.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/5/why-guinea-bissau-halted-a-controversial-hepatitis-vaccine-trial-for-babies?traffic_source=rss",
-    "publishedAt": "2026-11-05T15:01:35.000Z"
   }
 ]
