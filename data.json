@@ -1,5 +1,14 @@
 [
   {
+    "id": "1428664407bc29bf",
+    "title": "US urges China to honour Busan trade deal commitments",
+    "summary": "Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China's fulfilment of commitments.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+    "publishedAt": "2026-11-06T23:00:37.000Z"
+  },
+  {
     "id": "76879454b4294ce8",
     "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
     "summary": "Wiles thanks president for ‘honor of a lifetime’ as departure leaves behind overwhelmingly male leadership team.",
@@ -1339,14 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
     "publishedAt": "2026-11-06T09:57:04.000Z"
-  },
-  {
-    "id": "2f6f27691895c759",
-    "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
-    "summary": "Further south this week, severe thunderstorms affect midterms voting in Florida, Oklahoma and Colorado.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
-    "publishedAt": "2026-11-06T09:54:12.000Z"
   }
 ]
