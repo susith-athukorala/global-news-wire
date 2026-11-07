@@ -1,5 +1,149 @@
 [
   {
+    "id": "393e0d6d578ae99a",
+    "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+    "summary": "Moscow used 172 drones and 36 ballistic missiles in attacks on electricity substations and bridge over the Dnipro.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+    "publishedAt": "2026-11-07T13:03:03.000Z"
+  },
+  {
+    "id": "d5b05a550a346b22",
+    "title": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
+    "summary": "Architect of Trump’s far-right immigration agenda is now most powerful unelected figure in government – it suggests White House is moving to a war footing.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
+    "publishedAt": "2026-11-07T13:00:12.000Z"
+  },
+  {
+    "id": "395b7d483495f88d",
+    "title": "Court rules against Home Office in asylum seeker kidnapping case",
+    "summary": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in Libya.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
+    "publishedAt": "2026-11-07T13:00:11.000Z"
+  },
+  {
+    "id": "8d7f163f4709d765",
+    "title": "Great British Railways: new dawn for a new network but with plenty of old problems to fix",
+    "summary": "Experts predict a baptism of fire for GBR in 2027, with likely issues ranging from clapped-out trains and track to extreme weather-related stress.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/07/great-british-railways-new-dawn-for-a-new-network-but-with-plenty-of-old-problems-to-fix",
+    "publishedAt": "2026-11-07T13:00:11.000Z"
+  },
+  {
+    "id": "b5a767279afc23b6",
+    "title": "‘Mind-blowing’: dark-sky fans gather on Exmoor to see what light pollution hides",
+    "summary": "The UK is 14th most light-polluted country, but in south-west England the veil is lifted at the dark skies festival.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/07/dark-skies-festival-exmoor-light-pollution",
+    "publishedAt": "2026-11-07T13:00:11.000Z"
+  },
+  {
+    "id": "bf565a693b0b6151",
+    "title": "Thousands pour into a park in Uruguay for Pope Leo's first Mass in South America",
+    "summary": "Thousands of people from Uruguay and neighboring Argentina and Brazil are pouring into a city on the Uruguay River for Pope Leo XIV’s first Mass on the continent.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096",
+    "publishedAt": "2026-11-07T12:52:22.000Z"
+  },
+  {
+    "id": "0545b1b04e570ff4",
+    "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
+    "summary": "Germany, Belgium, Netherlands, Luxembourg and Denmark say cooperation on clean energy will benefit both sides.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
+    "publishedAt": "2026-11-07T12:51:25.000Z"
+  },
+  {
+    "id": "c51ddbc7c8033a48",
+    "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+    "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po",
+    "publishedAt": "2026-11-07T12:49:36.000Z"
+  },
+  {
+    "id": "ec3968efb37b3141",
+    "title": "Google, Meta and TikTok sue to block California youth social media law",
+    "summary": "Google, Meta, and TikTok have sued California to block the enforcement of a state law meant to protect children from getting addicted to social media.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/07/nx-s1-6032764/google-meta-and-tiktok-sue-to-block-california-youth-social-media-law",
+    "publishedAt": "2026-11-07T12:41:13.000Z"
+  },
+  {
+    "id": "e8f61a360470e4da",
+    "title": "Airstrike kills at least 22 people near Yemen's capital, Houthi official says",
+    "summary": "Airstrikes in a town near Yemen's capital, Sanaa, have killed 22 people and wounded 30 others, mostly women and children, according to a spokesman for Yemen’s Houthi-run Health Ministry.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/airstrike-killed-22-people-yemens-capital-houthi-official-137937912",
+    "publishedAt": "2026-11-07T12:36:57.000Z"
+  },
+  {
+    "id": "574b51d0955a0c26",
+    "title": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
+    "summary": "Iran’s Revolutionary Guard says it has lifted the self-imposed limit on its ballistic missile range.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/iran-lifted-imposed-limit-missile-ranges-mideast-news-137937910",
+    "publishedAt": "2026-11-07T12:35:28.000Z"
+  },
+  {
+    "id": "65a817c2e36a90c2",
+    "title": "Two men arrested after boy injured in Gloucester sword attack",
+    "summary": "Armed police attended the scene, which led to two nearby schools going into lockdown on Friday.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
+    "publishedAt": "2026-11-07T12:32:29.000Z"
+  },
+  {
+    "id": "d8fcb7ab2e57b796",
+    "title": "Pro-Russian hackers leak Italian foreign minister’s data on dark web",
+    "summary": "The prime minister blames pro-Russian hackers for the leak, as her top diplomat says the cyberthreat was ongoing.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss",
+    "publishedAt": "2026-11-07T12:29:48.000Z"
+  },
+  {
+    "id": "32dbf104fcb3f38e",
+    "title": "Atletico Madrid vs Barcelona: La Liga – predictions, team news, lineups",
+    "summary": "Barcelona and Atletico clash on Sunday in a blockbuster encounter which could upend the La Liga title race this season.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/7/atletico-madrid-barcelona-la-liga-prediction-team-news-lineups-preview?traffic_source=rss",
+    "publishedAt": "2026-11-07T12:27:58.000Z"
+  },
+  {
+    "id": "5805658a2588812c",
+    "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
+    "summary": "Zero Russian diesel has reached the US as tankers divert and buyers fear legal action.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
+    "publishedAt": "2026-11-07T12:24:11.000Z"
+  },
+  {
+    "id": "1ed61bc0c753865d",
+    "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+    "summary": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
+    "publishedAt": "2026-11-07T12:22:18.000Z"
+  },
+  {
     "id": "58b959ca0c3dd0ed",
     "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
     "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complications.",
@@ -7,6 +151,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
     "publishedAt": "2026-11-07T12:00:13.000Z"
+  },
+  {
+    "id": "48ebc69d655da24b",
+    "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
+    "summary": "Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the war.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
+    "publishedAt": "2026-11-07T12:00:12.000Z"
   },
   {
     "id": "c1395cf60132524b",
@@ -25,6 +178,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/07/florida-republicans-midterm-elections",
     "publishedAt": "2026-11-07T12:00:10.000Z"
+  },
+  {
+    "id": "10e7c1452b4adc95",
+    "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+    "summary": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
+    "publishedAt": "2026-11-07T11:59:26.000Z"
   },
   {
     "id": "c3a491c5b565551b",
@@ -1186,167 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c9w15nggj58o",
     "publishedAt": "2026-11-06T16:40:51.000Z"
-  },
-  {
-    "id": "088528a6165cbecf",
-    "title": "Taiwan to close representative office in Papua New Guinea, blames China",
-    "summary": "Amid the fallout, Taiwan says it will stop purchases of liquefied natural gas from Port Moresby.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
-    "publishedAt": "2026-11-06T16:40:39.000Z"
-  },
-  {
-    "id": "e50f1cdb13d6339a",
-    "title": "What is the Paris Agreement and why does 1.5C matter?",
-    "summary": "The 2015 pact is at the heart of the international commitment to tackle rising global temperatures.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o",
-    "publishedAt": "2026-11-06T16:39:07.000Z"
-  },
-  {
-    "id": "2d362962a9e01ca6",
-    "title": "How to spot the book club scam | Brief letters",
-    "summary": "‘Fan’ mail | Lessons from history | Natural fabrics | Perthshire pirate.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/06/how-to-spot-the-book-club-scam",
-    "publishedAt": "2026-11-06T16:33:23.000Z"
-  },
-  {
-    "id": "b01d31d930d47d65",
-    "title": "UK dairy farmers face further pressure as milk processor cuts prices",
-    "summary": "Freshways lowers price paid to producers by 7p a litre, prompting warnings confidence in the sector is ‘at rock bottom’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/06/uk-dairy-farmers-face-squeeze-as-milk-processor-cuts-prices",
-    "publishedAt": "2026-11-06T16:27:32.000Z"
-  },
-  {
-    "id": "374d4a7163da7950",
-    "title": "What is net zero and is the UK on track to achieve it?",
-    "summary": "Reaching net zero carbon emissions worldwide is essential to limit global warming, UN scientists say.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx238yyr40qo",
-    "publishedAt": "2026-11-06T16:22:51.000Z"
-  },
-  {
-    "id": "dd5e9e71dcd7f180",
-    "title": "Winter support for residents facing cost pressures",
-    "summary": "The plans aim to help more people access food, financial advice and help with heating costs.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm20rrer25ezo",
-    "publishedAt": "2026-11-06T16:22:18.000Z"
-  },
-  {
-    "id": "4413e5eccbae4335",
-    "title": "Spate of bomb threats poses serious challenge to airline industry",
-    "summary": "After a week of disruption, airlines are facing both safety and financial concerns.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo",
-    "publishedAt": "2026-11-06T16:18:44.000Z"
-  },
-  {
-    "id": "6654bc4a3a64c646",
-    "title": "Could the US midterms burst the AI bubble?",
-    "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
-    "publishedAt": "2026-11-06T16:14:23.000Z"
-  },
-  {
-    "id": "9c95d9f4cc46cae2",
-    "title": "Struggling to spell ‘male chauvinist pig’? Apple’s grey list means your iPhone won’t help you",
-    "summary": "There are more than 100,000 words and phrases that the tech giant has restricted its predictive text from completing, research shows.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-    "publishedAt": "2026-11-06T16:12:41.000Z"
-  },
-  {
-    "id": "96c055811ce2d5cc",
-    "title": "Four midterms takeaways for 2028 White House race",
-    "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo",
-    "publishedAt": "2026-11-06T16:12:22.000Z"
-  },
-  {
-    "id": "bc2bd5a9ee52805e",
-    "title": "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads",
-    "summary": "Protesters have broken into a Microsoft data center construction site in Amsterdam.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/protesters-break-microsoft-data-center-site-amsterdam-europes-137915154",
-    "publishedAt": "2026-11-06T16:12:07.000Z"
-  },
-  {
-    "id": "9730eaaf03c95687",
-    "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
-    "summary": "Fewer than 1 million of the 15.4 million people in need emergency shelter in Sudan have received assistance.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss",
-    "publishedAt": "2026-11-06T16:10:51.000Z"
-  },
-  {
-    "id": "8b48cf50d5e9ea79",
-    "title": "US tech stock rout: is the AI bubble bursting?",
-    "summary": "After Thursday’s share price plunge on Wall Street, could the volatility be the start of a huge market meltdown?",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/06/us-tech-stock-ai-bubble-bursting-market-meltdown-explainer",
-    "publishedAt": "2026-11-06T16:09:18.000Z"
-  },
-  {
-    "id": "2ce1b00d88f1ca12",
-    "title": "Paraguay’s Peña loses top aides as impeachment trial resumes over failed bank",
-    "summary": "Top aides to Paraguayan President Santiago Pe&ntilde;a have resigned as the Senate resumed an impeachment trial Friday that could remove him from office.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/paraguays-pea-loses-top-aides-impeachment-trial-resumes-137913219",
-    "publishedAt": "2026-11-06T15:59:26.000Z"
-  },
-  {
-    "id": "88265e3cdee4cdd8",
-    "title": "Meghan Markle’s father arrested in Florida on charges related to child sexual abuse material – reports",
-    "summary": "Markle, 82, was taken into custody near Tampa, according to news wires from AP and Reuters, citing unnamed sources.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
-    "publishedAt": "2026-11-06T15:45:07.000Z"
-  },
-  {
-    "id": "9943930e9aa86415",
-    "title": "‘Clicky Ponting’ handed two-year suspension over cricket cheating scandal",
-    "summary": "Amateur cricketer was clicking his fingers while fielding to trick umpire into thinking the batsman had edged the ball.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/6/clicky-ponting-handed-two-year-suspension-over-cricket-cheating-scandal?traffic_source=rss",
-    "publishedAt": "2026-11-06T15:44:48.000Z"
-  },
-  {
-    "id": "381961bc0e8fbad2",
-    "title": "Why is Denmark separating ‘Western’ and ‘non-Western’ citizens?",
-    "summary": "Evicted families take Denmark’s controversial ‘ghetto law’ to the Supreme Court.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/why-is-denmark-separating-western-and-non-western-citizens?traffic_source=rss",
-    "publishedAt": "2026-11-06T15:42:43.000Z"
-  },
-  {
-    "id": "0469aef7b7774b0e",
-    "title": "Musk says Tesla to wind down polarising Cybertruck production as sales lag",
-    "summary": "Released in 2023, the truck has become a symbol to some of opposition to Musk amid foray into US politics.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/musk-says-tesla-to-wind-down-polarising-cybertruck-production-as-sales-lag?traffic_source=rss",
-    "publishedAt": "2026-11-06T15:35:57.000Z"
   }
 ]
