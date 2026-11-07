@@ -1,5 +1,50 @@
 [
   {
+    "id": "11487214155090fa",
+    "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
+    "summary": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo",
+    "publishedAt": "2026-11-07T02:03:28.000Z"
+  },
+  {
+    "id": "d94247d11890a812",
+    "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+    "summary": "Santiago Peña was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bank.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+    "publishedAt": "2026-11-07T01:55:11.000Z"
+  },
+  {
+    "id": "ef7c2ba006ff9d66",
+    "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+    "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o",
+    "publishedAt": "2026-11-07T01:41:36.000Z"
+  },
+  {
+    "id": "d4e2ad85b75cd59e",
+    "title": "EU prosecutor office investigates fatal train crash in Spain",
+    "summary": "The EU office carries out probes at Spanish rail network administrator, safety agency and state auditors.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
+    "publishedAt": "2026-11-07T01:33:39.000Z"
+  },
+  {
+    "id": "df0f7b26d13d0d00",
+    "title": "Haitian gang reaches out to state disarmament group as gunfights persist",
+    "summary": "One of Haiti’s most powerful gangs says it has reached out to a state agency responsible for dismantling armed gangs in a push for “peace, stability and national reconciliation.”",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/powerful-haitian-gang-reaches-state-disarmament-group-gunfights-137932356",
+    "publishedAt": "2026-11-07T01:32:21.000Z"
+  },
+  {
     "id": "325e133d4c4b0f50",
     "title": "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration",
     "summary": "US voters repudiated mass deportation campaign, but choice of new chief of staff shows Trump doesn’t care.",
@@ -792,6 +837,15 @@
     "publishedAt": "2026-11-06T15:00:44.000Z"
   },
   {
+    "id": "67ceebbae71b6f93",
+    "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+    "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo",
+    "publishedAt": "2026-11-06T14:57:08.000Z"
+  },
+  {
     "id": "e2edaef4ed43aa12",
     "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
     "summary": "Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus.",
@@ -1294,59 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/06/commuters-and-shoppers-face-disruption-from-tube-driver-strikes-in-run-up-to-christmas",
     "publishedAt": "2026-11-06T11:12:58.000Z"
-  },
-  {
-    "id": "369a4e4f36abf76d",
-    "title": "‘Nobody can stop them’: Who are Europe’s Black Bloc protesters?",
-    "summary": "Anarchistic activists who dress in black and clash with police are a regular feature of protests from France to Albania.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/nobody-can-stop-them-who-are-europes-black-bloc-protesters?traffic_source=rss",
-    "publishedAt": "2026-11-06T11:09:04.000Z"
-  },
-  {
-    "id": "83acf75ad16227a0",
-    "title": "Russia and US seek to block plan for binding rules on autonomous weapons",
-    "summary": "UN conference this month seen as key moment after years of discussions on filling gap in governance of AI systems.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules",
-    "publishedAt": "2026-11-06T11:08:33.000Z"
-  },
-  {
-    "id": "d07e11123b3ebbff",
-    "title": "Macao court sentences pro-democracy ex-politician to 12.5 years in jail",
-    "summary": "Court finds Au Kam-san guilty of spreading false information and subversion in bid to disrupt Macao’s 2024 elections.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/macao-sentences-pro-democracy-ex-politician-to-12-5-years-in-jail?traffic_source=rss",
-    "publishedAt": "2026-11-06T11:08:02.000Z"
-  },
-  {
-    "id": "7c9dde9317a8d0b3",
-    "title": "90-year-old Holocaust survivor dies almost a year after being shot in Sydney massacre",
-    "summary": "A 90-year-old Holocaust survivor has died almost a year after she was wounded during the massacre of 15 people at a Sydney Hanukkah celebration.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/90-year-holocaust-survivor-dies-year-after-shot-137903635",
-    "publishedAt": "2026-11-06T11:07:20.000Z"
-  },
-  {
-    "id": "c1c75838eb96b840",
-    "title": "Bus whose passengers included kids crashes in France, leaving 2 dead and 16 injured",
-    "summary": "A bus crash in eastern France has killed one minor and one young adult.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/bus-passengers-included-school-kids-crashes-france-leaving-137904168",
-    "publishedAt": "2026-11-06T11:05:11.000Z"
-  },
-  {
-    "id": "53dd7b3ce6e8eeab",
-    "title": "‘Everything is so out of whack’: UK trees experience spring six months early",
-    "summary": "Mild autumn temperatures causing premature flowering and raising concerns for pollinators, say experts.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/06/uk-trees-early-spring-mild-autumn",
-    "publishedAt": "2026-11-06T11:00:51.000Z"
   }
 ]
