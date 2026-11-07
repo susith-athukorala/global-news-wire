@@ -1,5 +1,23 @@
 [
   {
+    "id": "349660b67248f9c4",
+    "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+    "summary": "TikTok's algorithm 'leading users down rabbit holes they cannot easily escape from', European Commission says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
+    "publishedAt": "2026-11-06T23:33:28.000Z"
+  },
+  {
+    "id": "15c5b359d0de93b6",
+    "title": "When a single vowel stands in the path to victory, the stakes could not be higher for these spelling bee champions",
+    "summary": "Primary school students bested 200,000 competitors across New South Wales to reach the Premier’s Spelling Bee finals in Sydney.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/07/when-a-single-vowel-stands-in-the-path-to-victory-the-stakes-could-not-be-higher-for-these-spelling-bee-champions",
+    "publishedAt": "2026-11-06T23:06:10.000Z"
+  },
+  {
     "id": "1428664407bc29bf",
     "title": "US urges China to honour Busan trade deal commitments",
     "summary": "Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China's fulfilment of commitments.",
@@ -1330,23 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/06/met-police-chief-potential-victims-russell-brand-come-forward",
     "publishedAt": "2026-11-06T10:00:23.000Z"
-  },
-  {
-    "id": "51df0cd0d74323b7",
-    "title": "'Several victims' after bus crashes in France, officials say",
-    "summary": "The local mayor says the bus \"left the road and hit a tree in the ditch\", with the education minister saying students are involved.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
-    "publishedAt": "2026-11-06T09:57:11.000Z"
-  },
-  {
-    "id": "29b565926ae50ea8",
-    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-    "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
-    "publishedAt": "2026-11-06T09:57:04.000Z"
   }
 ]
