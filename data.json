@@ -1,5 +1,68 @@
 [
   {
+    "id": "154e291d30373dd3",
+    "title": "Richard Lloyd, founding member and guitarist of punk band Television, dies aged 75",
+    "summary": "Known for sophisticated musical style in band that played significant role in emerging 1970s punk rock movement.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/07/richard-lloyd-punk-band-television-dies-aged-75",
+    "publishedAt": "2026-11-07T20:06:25.000Z"
+  },
+  {
+    "id": "81aeae3b418c0aae",
+    "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
+    "summary": "Systems provide 360-degree view of airport operations, but concerns have been raised about the technology.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
+    "publishedAt": "2026-11-07T20:03:23.000Z"
+  },
+  {
+    "id": "c58085b689f6dfcf",
+    "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+    "summary": "Knesset has been deadlocked since election last month when Benjamin Netanyahu’s coalition lost its majority.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+    "publishedAt": "2026-11-07T19:49:39.000Z"
+  },
+  {
+    "id": "9461311f214b8f13",
+    "title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
+    "summary": "Trump lashed out at Democrats on Truth Social days after the party won control of Congress.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
+    "publishedAt": "2026-11-07T19:42:46.000Z"
+  },
+  {
+    "id": "e2b9797fcd1b568b",
+    "title": "How did AIPAC-backed candidates fare in the US midterm elections?",
+    "summary": "Many candidates the pro-Israel group backed still won, but most of the money it spent went to candidates who lost.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/how-did-aipac-backed-candidates-fare-in-the-us-midterm-elections?traffic_source=rss",
+    "publishedAt": "2026-11-07T19:29:06.000Z"
+  },
+  {
+    "id": "dd26487adcea92a8",
+    "title": "Malaysian king warns against defying house arrest order for ex-PM Najib",
+    "summary": "Attorney general postponed Najib Razak’s transfer from jail after court cleared him for house arrest on Friday.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
+    "publishedAt": "2026-11-07T19:24:21.000Z"
+  },
+  {
+    "id": "566a74c7d2b45e77",
+    "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
+    "summary": "Civilians bear the brunt of fighting as 27 people reported killed in strikes on a village in Sanaa province.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
+    "publishedAt": "2026-11-07T19:06:31.000Z"
+  },
+  {
     "id": "fcc57baef9eb643a",
     "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
     "summary": "Ahead of Cop31, climate change minister dismisses concerns about whether Australia as a major producer can keep the world moving away from fossil fuels.",
@@ -1285,68 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
     "publishedAt": "2026-11-06T20:42:51.000Z"
-  },
-  {
-    "id": "28fd1f853fc8aac1",
-    "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
-    "summary": "US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
-    "publishedAt": "2026-11-06T20:28:07.000Z"
-  },
-  {
-    "id": "98a6805b713d6f60",
-    "title": "Pope Leo arrives in Uruguay starting 12-day Latin America tour",
-    "summary": "The 71-year-old pontiff is visiting three countries despite undergoing surgery to remove a tumour last month.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
-    "publishedAt": "2026-11-06T20:22:22.000Z"
-  },
-  {
-    "id": "5cf0ad4613a8c2ac",
-    "title": "The nine best personalized gift ideas: customized for the person you love",
-    "summary": "Monogramming or customizing takes gifts to the next level – and shows recipients that you know what they like and who they are.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter-us/2026/nov/06/best-personalized-custom-gift-ideas",
-    "publishedAt": "2026-11-06T20:15:51.000Z"
-  },
-  {
-    "id": "ef57be719ae4f306",
-    "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
-    "summary": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
-    "publishedAt": "2026-11-06T20:09:58.000Z"
-  },
-  {
-    "id": "533775c3cf0a0644",
-    "title": "Stephen Miller to become Trump’s new White House chief of staff",
-    "summary": "US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step down.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
-    "publishedAt": "2026-11-06T20:04:22.000Z"
-  },
-  {
-    "id": "8c6afd433e1d842e",
-    "title": "Pope 'proud to be an American' after US elections, credits God, doctors with rebound",
-    "summary": "Pope Leo XIV says that he was “proud to be an American and to exercise the right” to vote in U.S. midterm elections that gave control of Congress to the Democrats in a repudiation of U.S. President Donald Trump and his policies.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-proud-american-after-us-elections-credits-god-137923797",
-    "publishedAt": "2026-11-06T19:48:16.000Z"
-  },
-  {
-    "id": "53e8717a31c84666",
-    "title": "Macklemore says that nine US arenas turned down his Free Palestine tour",
-    "summary": "Rapper called out ‘intimidation, manipulation and suppression’ in a social media post, claiming major arenas refused to host him after the Ed Sheeran controversy.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/06/macklemore-arenas-free-palestine-tour",
-    "publishedAt": "2026-11-06T19:46:56.000Z"
   }
 ]
