@@ -1,5 +1,32 @@
 [
   {
+    "id": "0b923c2533a6a538",
+    "title": "There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m",
+    "summary": "The dementia treatment for children is available in the US, with funding for UK children unclear.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8046kdw56e2o",
+    "publishedAt": "2026-11-07T21:52:21.000Z"
+  },
+  {
+    "id": "931a1708ecf318b0",
+    "title": "Drone attack on a Colombian military base leaves 3 soldiers dead",
+    "summary": "A drone attack on a military base in northern Colombia killed three soldiers and injured at least 8, Colombia’s army said.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/drone-attack-colombian-military-base-leaves-3-soldiers-137945487",
+    "publishedAt": "2026-11-07T21:41:43.000Z"
+  },
+  {
+    "id": "9d7b8b214be0da42",
+    "title": "Can New Zealand's new government win over disillusioned voters?",
+    "summary": "Polling shows the mood among Kiwis is low, with faith in politics even lower - with voters deserting the main parties at the polls.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo",
+    "publishedAt": "2026-11-07T21:36:16.000Z"
+  },
+  {
     "id": "4a32102f2942fefd",
     "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
     "summary": "President Isaac Herzog formally assigns Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as PM.",
@@ -1321,32 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
     "publishedAt": "2026-11-06T21:23:54.000Z"
-  },
-  {
-    "id": "583af74911502572",
-    "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
-    "summary": "Miller has been a close confidant of Trump since 2016 and an architect of the president's hardline immigration policies.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
-    "publishedAt": "2026-11-06T21:22:57.000Z"
-  },
-  {
-    "id": "52e86082237709a5",
-    "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
-    "summary": "Men allegedly impersonated voices and images of executives to convince employees to send large payments.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
-    "publishedAt": "2026-11-06T21:20:49.000Z"
-  },
-  {
-    "id": "fc0b940e8d8ff473",
-    "title": "Several Democrats renew calls for datacenter pauses after blue wave",
-    "summary": "Tech industry fears delays to its multi-trillion dollar infrastructure buildout meant to power artificial intelligence.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
-    "publishedAt": "2026-11-06T21:14:46.000Z"
   }
 ]
