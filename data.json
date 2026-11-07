@@ -1,5 +1,14 @@
 [
   {
+    "id": "11ee188ff13928a6",
+    "title": "Diwali celebrations coincide with worsening air. Here’s how to stay safer",
+    "summary": "For people across South Asia, especially in northern India, Diwali celebrations coincide with the return of hazardous winter air, raising concerns about how to celebrate safely.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/diwali-celebrations-coincide-worsening-air-heres-stay-safer-137933383",
+    "publishedAt": "2026-11-07T03:05:25.000Z"
+  },
+  {
     "id": "11487214155090fa",
     "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
     "summary": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
@@ -846,6 +855,15 @@
     "publishedAt": "2026-11-06T15:00:44.000Z"
   },
   {
+    "id": "8fdb5074db9c063b",
+    "title": "Bomb threats spread to European newsrooms after wave of passenger jet scares",
+    "summary": "Spain's foreign minister said the continent appeared to be facing \"hybrid aggression and a form of psychological warfare\".",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-07/brk-bomb-threats-planes-europe/107358382",
+    "publishedAt": "2026-11-06T14:58:42.000Z"
+  },
+  {
     "id": "67ceebbae71b6f93",
     "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
     "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
@@ -1008,6 +1026,15 @@
     "publishedAt": "2026-11-06T13:49:07.000Z"
   },
   {
+    "id": "d52fa9294fe541bc",
+    "title": "Commuters and shoppers face disruption from tube driver strikes in run-up to Christmas",
+    "summary": "RMT union calls eight 24-hour strikes on London Underground in opposition to plans for four-day week.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/06/commuters-and-shoppers-face-disruption-from-tube-driver-strikes-in-run-up-to-christmas",
+    "publishedAt": "2026-11-06T13:45:57.000Z"
+  },
+  {
     "id": "2a2c483ce3c39e44",
     "title": "US job growth exceeds expectations in October despite economic uncertainty",
     "summary": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December.",
@@ -1015,6 +1042,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
     "publishedAt": "2026-11-06T13:42:26.000Z"
+  },
+  {
+    "id": "e370df6c624a4b7e",
+    "title": "European air traffic targeted by new threats in at least 3 incidents",
+    "summary": "Officials across Europe report more bomb threats against flights, following a series of hoaxes causing diversions this week.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/european-air-traffic-targeted-new-threats-3-incidents-137904728",
+    "publishedAt": "2026-11-06T13:38:22.000Z"
   },
   {
     "id": "c6531d8501632228",
@@ -1312,41 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/11/6/tanzanias-smallholder-farmers-struggle-to-benefit-from-digital-agriculture?traffic_source=rss",
     "publishedAt": "2026-11-06T11:35:39.000Z"
-  },
-  {
-    "id": "b3578216dc4e7ffc",
-    "title": "Rocket launcher deal illustrates deepening Russia-Iran relations",
-    "summary": "Report of deal comes as top Iranian security official Mohsen Rezaei discusses developing cooperation treaty with Putin.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss",
-    "publishedAt": "2026-11-06T11:28:38.000Z"
-  },
-  {
-    "id": "b43a95e51bed2bb6",
-    "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-    "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
-    "publishedAt": "2026-11-06T11:20:10.000Z"
-  },
-  {
-    "id": "2c55a995feddf303",
-    "title": "Hoax or bomb threats? What we know about flight disruptions across Europe",
-    "summary": "Security inspections reveal no explosives as fighter jets escort planes amid Europe's major wave of bomb threats.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
-    "publishedAt": "2026-11-06T11:18:02.000Z"
-  },
-  {
-    "id": "1be9ae8309328b9f",
-    "title": "Ukrainian President Zelenskyy presses Western allies for postwar security guarantees",
-    "summary": "Ukrainian President Volodymyr Zelenskyy says his government is seeking specific security guarantees from Western allies for post-war support.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ukrainian-president-zelenskyy-presses-western-allies-clear-postwar-137904910",
-    "publishedAt": "2026-11-06T11:15:19.000Z"
   }
 ]
