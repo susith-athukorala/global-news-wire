@@ -1,5 +1,14 @@
 [
   {
+    "id": "56d20b78c2b29579",
+    "title": "Guatemalan lawmaker and three police officers killed in armed attack",
+    "summary": "It happened in a region of the country known to have drug trafficking activity.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
+    "publishedAt": "2026-11-07T16:15:18.000Z"
+  },
+  {
     "id": "0ba1e9bed96e85e6",
     "title": "Paraguay's former president faces prosecutors after his removal over bank collapse",
     "summary": "Paraguay's former President Santiago Pe&ntilde;a has been taken to the attorney general’s office for questioning.",
@@ -97,6 +106,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
     "publishedAt": "2026-11-07T14:24:48.000Z"
+  },
+  {
+    "id": "b348eade91a26c93",
+    "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
+    "summary": "Tech companies like the idea, as they largely eliminate community opposition, and could cut down on utility costs.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
+    "publishedAt": "2026-11-07T14:00:14.000Z"
   },
   {
     "id": "d848c86be31a2065",
@@ -1330,23 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/06/mississippi-senate-race-vote-counting-lawyers",
     "publishedAt": "2026-11-06T18:51:52.000Z"
-  },
-  {
-    "id": "51fc088bcbce7e56",
-    "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
-    "summary": "Separate actions also take place outside fence and across Europe in backlash against impact of AI boom.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
-    "publishedAt": "2026-11-06T18:51:37.000Z"
-  },
-  {
-    "id": "6654bc4a3a64c646",
-    "title": "Why the US midterms sparked an AI stock selloff",
-    "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
-    "publishedAt": "2026-11-06T18:32:16.000Z"
   }
 ]
