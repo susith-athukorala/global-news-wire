@@ -9,6 +9,15 @@
     "publishedAt": "2026-11-07T20:26:58.000Z"
   },
   {
+    "id": "d28f9d856987eb5c",
+    "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+    "summary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+    "publishedAt": "2026-11-07T20:18:18.000Z"
+  },
+  {
     "id": "f1914e95baa8e4ad",
     "title": "More than 140,000 rally as new protests against rising costs sweep France",
     "summary": "Tear gas fired in Paris and Lyon as interior minister warns authorities are 'ready and waiting' for rioters and looters.",
@@ -1339,14 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
     "publishedAt": "2026-11-06T21:14:46.000Z"
-  },
-  {
-    "id": "c937c61b4a1f1978",
-    "title": "AI stocks climb after trillions wiped from market values",
-    "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
-    "publishedAt": "2026-11-06T21:06:25.000Z"
   }
 ]
