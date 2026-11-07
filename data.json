@@ -1,5 +1,77 @@
 [
   {
+    "id": "1b4ca2b7082bdb41",
+    "title": "Writer Nick Harkaway expands his father John le Carré's spyverse in new thriller 'The Taper Man'",
+    "summary": "Fictional spymaster George Smiley is back in \"The Taper Man,\" a new thriller set in the world of John le Carr&eacute; and written by his son, Nick Harkaway.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/writer-nick-harkaway-expands-father-john-le-carrs-137936279",
+    "publishedAt": "2026-11-07T06:00:45.000Z"
+  },
+  {
+    "id": "f3f499cfe1108da4",
+    "title": "Malaysian palace says house arrest order for imprisoned ex-leader Najib must be respected",
+    "summary": "Malaysia's national palace says the royal decision allowing former Prime Minister Najib Razak to serve his prison sentence under house arrest is clear.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/malaysian-palace-house-arrest-order-imprisoned-leader-najib-137936646",
+    "publishedAt": "2026-11-07T06:00:31.000Z"
+  },
+  {
+    "id": "d29e41e562774826",
+    "title": "The end of Maga as we know it",
+    "summary": "The Republican party will regroup after their shellacking in the US midterm elections, but it won’t look the same.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
+    "publishedAt": "2026-11-07T06:00:05.000Z"
+  },
+  {
+    "id": "fd4da6fc0992fc1c",
+    "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+    "summary": "Democrats’ sweep could urge Israel’s divided opposition to join forces and remove prime minister closely allied with Trump.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
+    "publishedAt": "2026-11-07T06:00:04.000Z"
+  },
+  {
+    "id": "4a53911af8d8ea67",
+    "title": "‘Alien-cortical’ mice: Can human brain cells grow inside animals?",
+    "summary": "Modified mice with human brain cells ignite debates over neurohybrids and the future of cross-species medical research.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/alien-cortical-mice-can-human-brain-cells-grow-inside-animals?traffic_source=rss",
+    "publishedAt": "2026-11-07T05:57:25.000Z"
+  },
+  {
+    "id": "4cbf083e0aec499c",
+    "title": "Khawaja claims entire Australia team knew about 2018 ball-tampering scandal",
+    "summary": "The 'Sandpapergate' scandal saw ⁠Australia scuffing the ball with sandpaper in the March 2018 test ​in Cape Town.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja?traffic_source=rss",
+    "publishedAt": "2026-11-07T05:46:54.000Z"
+  },
+  {
+    "id": "9ddb6a0e2f99b122",
+    "title": "President Herzog faces key choice as Israel struggles to form government",
+    "summary": "Eisenkot's bloc and Arab-led parties seek to oust Netanyahu, but failure to form government could leave him in power.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss",
+    "publishedAt": "2026-11-07T05:16:18.000Z"
+  },
+  {
+    "id": "edebd58d56dc5525",
+    "title": "Russia launches missile attack on Kyiv, injuring residents",
+    "summary": "Air strikes damage buildings and injure two civilians after Zelenskyy warns of potential for new attacks.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
+    "publishedAt": "2026-11-07T05:11:03.000Z"
+  },
+  {
     "id": "505934f5cfdf1156",
     "title": "Pakistani astronaut to board Shenzhou 24 and become the first foreigner on China's space station",
     "summary": "A Pakistani astronaut will board China’s Shenzhou 24 spacecraft as the first foreign national on Beijing’s space station.",
@@ -1062,6 +1134,15 @@
     "publishedAt": "2026-11-06T14:27:05.000Z"
   },
   {
+    "id": "c417a1193268f5a6",
+    "title": "Leader of Kenyan doomsday cult sentenced to 200 years in prison",
+    "summary": "The leader of a Kenyan doomsday cult linked to the deaths of hundreds of people has been sentenced to 200 years in prison for the murders of 191 people.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/leader-kenyan-doomsday-cult-sentenced-200-years-prison-137905380",
+    "publishedAt": "2026-11-06T14:25:46.000Z"
+  },
+  {
     "id": "328fabe0c928510e",
     "title": "Japan protests Russian takeover of Japan Tobacco subsidiaries in Russia",
     "summary": "Japan has protested to Moscow after Russia placed four subsidiaries of Japan Tobacco under temporary Russian management.",
@@ -1267,86 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/games/2026/nov/06/the-legend-of-zelda-ocarina-of-time-midnight-game-launch",
     "publishedAt": "2026-11-06T13:00:43.000Z"
-  },
-  {
-    "id": "9c837a62eed35d84",
-    "title": "‘Profound anger’ among black voters over Kemi Badenoch’s slavery remarks",
-    "summary": "Operation Black Vote chair says Tory leader’s claim that Britain should not apologise has caused ‘hurt and disbelief’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/06/kemi-badenoch-slavery-comments-anger-black-voters-operation-black-vote",
-    "publishedAt": "2026-11-06T13:00:42.000Z"
-  },
-  {
-    "id": "117e3ec399d6ea6f",
-    "title": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
-    "summary": "Iran launches diplomatic offensive as US mulls resumption of war.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss",
-    "publishedAt": "2026-11-06T12:57:33.000Z"
-  },
-  {
-    "id": "30f71f0b4502c8a1",
-    "title": "Cristiano Ronaldo: Portugal’s polarising icon and his bitter final act",
-    "summary": "After announcing his international retirement, Portugal's longstanding captain leaves behind a complicated legacy.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/6/cristiano-ronaldo-portugal-retirement-jorge-jesus-manchester-united?traffic_source=rss",
-    "publishedAt": "2026-11-06T12:55:29.000Z"
-  },
-  {
-    "id": "e6a8be187879c819",
-    "title": "UK house prices fall at steepest rate in more than three years",
-    "summary": "October drop of 0.6% leaves average price of property at £296,285, says Lloyds, as high mortgage rates hit market.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years",
-    "publishedAt": "2026-11-06T12:54:32.000Z"
-  },
-  {
-    "id": "deca45c5c326848d",
-    "title": "Russian extremist group denies sending hoax bomb threats",
-    "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo",
-    "publishedAt": "2026-11-06T12:51:38.000Z"
-  },
-  {
-    "id": "bfedfdf35b25d1f6",
-    "title": "Kenyan court sentences starvation cult leader to 200 years",
-    "summary": "Paul Mackenzie and accomplices were convicted of murdering 190 children and one adult.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/kenyan-court-sentences-starvation-cult-leader-to-200-years?traffic_source=rss",
-    "publishedAt": "2026-11-06T12:50:24.000Z"
-  },
-  {
-    "id": "79cfcadb5415c2b0",
-    "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-    "summary": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-    "publishedAt": "2026-11-06T12:48:37.000Z"
-  },
-  {
-    "id": "4fa5446fd4c0ade3",
-    "title": "US rockets firm could take over mothballed Highland spaceport",
-    "summary": "Colorado-based Leap is looking at the spaceport near Tongue as its first launch site outside of the US.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmrlyy5xw276o",
-    "publishedAt": "2026-11-06T12:47:23.000Z"
-  },
-  {
-    "id": "912ab394c48d41a9",
-    "title": "‘City of immigrants’: Who is Nithya Raman, the Los Angeles mayor-elect?",
-    "summary": "The two biggest cities in the US will now be led by Indian-origin immigrants - both democratic socialists.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/city-of-immigrants-who-is-nithya-raman-the-los-angeles-mayor-elect?traffic_source=rss",
-    "publishedAt": "2026-11-06T12:41:24.000Z"
   }
 ]
