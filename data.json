@@ -1,5 +1,23 @@
 [
   {
+    "id": "4a32102f2942fefd",
+    "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+    "summary": "President Isaac Herzog formally assigns Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as PM.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+    "publishedAt": "2026-11-07T20:26:58.000Z"
+  },
+  {
+    "id": "f1914e95baa8e4ad",
+    "title": "More than 140,000 rally as new protests against rising costs sweep France",
+    "summary": "Tear gas fired in Paris and Lyon as interior minister warns authorities are 'ready and waiting' for rioters and looters.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
+    "publishedAt": "2026-11-07T20:12:22.000Z"
+  },
+  {
     "id": "154e291d30373dd3",
     "title": "Richard Lloyd, founding member and guitarist of punk band Television, dies aged 75",
     "summary": "Known for sophisticated musical style in band that played significant role in emerging 1970s punk rock movement.",
@@ -1330,23 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
     "publishedAt": "2026-11-06T21:06:25.000Z"
-  },
-  {
-    "id": "43e42c428382c84e",
-    "title": "Protesters break into Microsoft data centre site in Amsterdam",
-    "summary": "Data centres face protests across Europe due to the massive amounts of computing power and water they use.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
-    "publishedAt": "2026-11-06T21:04:40.000Z"
-  },
-  {
-    "id": "389b46270e37d014",
-    "title": "Israel's Arab-led parties in spotlight after inconclusive election",
-    "summary": "Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
-    "publishedAt": "2026-11-06T20:42:51.000Z"
   }
 ]
