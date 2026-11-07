@@ -1,5 +1,68 @@
 [
   {
+    "id": "e4cfd3af25b8d581",
+    "title": "Rains flood thousands of displaced families’ tents in Gaza",
+    "summary": "Civil Defence says it received 1,500 distress calls in 10 hours as a storm swept through displacement camps.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-07T11:10:02.000Z"
+  },
+  {
+    "id": "b8f1fb73a01c8685",
+    "title": "‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke",
+    "summary": "Santiago Peña’s links to Ueno Bank scrutinized after crisis led to his house arrest and froze millions of bank accounts.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena",
+    "publishedAt": "2026-11-07T11:00:10.000Z"
+  },
+  {
+    "id": "85076b37274a9b3f",
+    "title": "Job cuts, lost customers and a £22bn debt pile: what has gone wrong at Virgin Media O2?",
+    "summary": "The company has lost 182,000 broadband and 644,000 mobile customers in two years and is operating in an increasingly competitive market competition.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/07/job-cuts-lost-customers-and-a-22bn-debt-pile-what-has-gone-wrong-at-virgin-media-o2",
+    "publishedAt": "2026-11-07T11:00:09.000Z"
+  },
+  {
+    "id": "08cc2b9e5bf27be2",
+    "title": "Trump may have lost but don’t bet Democrats can fix the economy",
+    "summary": "There’s not much they can do over the next couple of years to alleviate angry voters’ stress over prices.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
+    "publishedAt": "2026-11-07T11:00:08.000Z"
+  },
+  {
+    "id": "eb3a4198ef59ab29",
+    "title": "India beat New Zealand by four runs via DLS in rain-hit second ODI",
+    "summary": "Put in to bat, New Zealand struggled to gain any momentum as ⁠India's pace attack dismantled their batting lineup.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs?traffic_source=rss",
+    "publishedAt": "2026-11-07T10:50:54.000Z"
+  },
+  {
+    "id": "b7e1981b488467e6",
+    "title": "Sudan war and climate change see parents struggle to feed their children",
+    "summary": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
+    "publishedAt": "2026-11-07T10:36:32.000Z"
+  },
+  {
+    "id": "3892e7fe57db4e16",
+    "title": "Pakistani astronaut to join China’s next space station mission",
+    "summary": "The unnamed individual will be the first foreign national to visit China's space station as part of Shenzhou-24 mission.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss",
+    "publishedAt": "2026-11-07T10:17:53.000Z"
+  },
+  {
     "id": "0cbf74246ec8157b",
     "title": "Russell Brand barrister reports himself to watchdog over clash with journalist",
     "summary": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand’s victims coming forward: ‘I hope you are pleased with yourself’",
@@ -25,6 +88,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
     "publishedAt": "2026-11-07T10:00:08.000Z"
+  },
+  {
+    "id": "b7ff11958707349f",
+    "title": "The datacentre arms race hits pause in south-east Asia",
+    "summary": "Power and water constraints are pressuring what seemed like a juggernaut of growth for the region just months ago.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
+    "publishedAt": "2026-11-07T10:00:07.000Z"
   },
   {
     "id": "6a11415094de6fd6",
@@ -97,6 +169,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/7/doncic-lakers-lebron-cavaliers-sixers-nba-cup-basketball?traffic_source=rss",
     "publishedAt": "2026-11-07T08:10:01.000Z"
+  },
+  {
+    "id": "14e3424ce5f60d24",
+    "title": "Infantino caught in the web as tide turns against Trump in midterms and leaves Fifa exposed | Barney Ronay",
+    "summary": "Trump Exposed Reactor Core Syndrome very much in play after Democrat landslide – and Fifa’s president may pay a price.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/07/gianni-infantino-fifa-donald-trump-democrats-republicans",
+    "publishedAt": "2026-11-07T08:00:05.000Z"
   },
   {
     "id": "eaf6ea934fff544c",
@@ -1267,86 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss",
     "publishedAt": "2026-11-06T15:24:54.000Z"
-  },
-  {
-    "id": "af979b270e63a8aa",
-    "title": "European air traffic is targeted by new threats after a week of hoaxes",
-    "summary": "Officials across Europe reported a fresh slew of bomb threats against multiple flights on Friday, following a string of hoaxes that have caused flight diversions this week. Two broadcasters also received security threats.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
-    "publishedAt": "2026-11-06T15:21:31.000Z"
-  },
-  {
-    "id": "35d583ecb9bdf612",
-    "title": "EU charges TikTok with failing to protect users’ mental health",
-    "summary": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
-    "publishedAt": "2026-11-06T15:17:08.000Z"
-  },
-  {
-    "id": "79e35de4eb39ed8b",
-    "title": "Claims of a Ukrainian ‘torture chamber’ went viral. What really happened?",
-    "summary": "A woman who claimed that men were being violently assaulted in a house for evading the draft has been arrested.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/claims-of-a-ukrainian-torture-chamber-went-viral-what-really-happened?traffic_source=rss",
-    "publishedAt": "2026-11-06T15:14:35.000Z"
-  },
-  {
-    "id": "36abb8aa2fbd145c",
-    "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
-    "summary": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their families.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
-    "publishedAt": "2026-11-06T15:08:43.000Z"
-  },
-  {
-    "id": "38d5e56cbba0c7ea",
-    "title": "Japan announces emergency cybersecurity package following a wave of attacks",
-    "summary": "Japan has announced an emergency cybersecurity package that includes AI and cyber rescue teams.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/japan-announces-emergency-cybersecurity-package-wave-attacks-137911772",
-    "publishedAt": "2026-11-06T15:06:28.000Z"
-  },
-  {
-    "id": "c937c61b4a1f1978",
-    "title": "AI stocks climb after trillions wiped from market values",
-    "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
-    "publishedAt": "2026-11-06T15:04:46.000Z"
-  },
-  {
-    "id": "bf2720faad4004ab",
-    "title": "The 36 best Christmas gifts in the UK for every kind of teenager – chosen by teens",
-    "summary": "From Polaroid cameras to skincare, loungewear to gaming accessories, here are the presents teenage boys and girls told us they rate for 2026.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2026/nov/06/best-christmas-gifts-teenagers-uk",
-    "publishedAt": "2026-11-06T15:00:44.000Z"
-  },
-  {
-    "id": "8fdb5074db9c063b",
-    "title": "Bomb threats spread to European newsrooms after wave of passenger jet scares",
-    "summary": "Spain's foreign minister said the continent appeared to be facing \"hybrid aggression and a form of psychological warfare\".",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-07/brk-bomb-threats-planes-europe/107358382",
-    "publishedAt": "2026-11-06T14:58:42.000Z"
-  },
-  {
-    "id": "67ceebbae71b6f93",
-    "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-    "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo",
-    "publishedAt": "2026-11-06T14:57:08.000Z"
   }
 ]
