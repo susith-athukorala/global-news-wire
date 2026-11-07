@@ -1,5 +1,41 @@
 [
   {
+    "id": "0ba1e9bed96e85e6",
+    "title": "Paraguay's former president faces prosecutors after his removal over bank collapse",
+    "summary": "Paraguay's former President Santiago Pe&ntilde;a has been taken to the attorney general’s office for questioning.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/paraguays-former-president-faces-prosecutors-after-removal-bank-137941605",
+    "publishedAt": "2026-11-07T15:59:01.000Z"
+  },
+  {
+    "id": "dfb312f672dce15f",
+    "title": "Iran’s IRGC says building underground sites for weapons production, storage",
+    "summary": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
+    "publishedAt": "2026-11-07T15:34:58.000Z"
+  },
+  {
+    "id": "fa7aa10fa4edfe0b",
+    "title": "Casualties reported after shooting in Poland’s Krakow",
+    "summary": "Polish Prime Minister Donald Tusk says police are investigating after 'tragic shooting' in second-largest city.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
+    "publishedAt": "2026-11-07T15:22:55.000Z"
+  },
+  {
+    "id": "1e8aa65b185318ce",
+    "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
+    "summary": "Hardline aide offers ‘unwavering commitment’ to president amid fears White House will double down on far-right immigration agenda.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
+    "publishedAt": "2026-11-07T15:15:11.000Z"
+  },
+  {
     "id": "d9a5742fea3d12cd",
     "title": "National Trust votes to seek banking partner more in tune with its environment policies",
     "summary": "Charity’s AGM decided overwhelmingly to begin a tendering process amid criticism of current bank Barclays fossil fuel investments.",
@@ -513,6 +549,15 @@
     "publishedAt": "2026-11-07T08:45:36.000Z"
   },
   {
+    "id": "7c06efd2f1016d2d",
+    "title": "Texas mayor instructs police to limit co-operation with ICE",
+    "summary": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro",
+    "publishedAt": "2026-11-07T08:15:55.000Z"
+  },
+  {
     "id": "69ae258ef1c01055",
     "title": "Doncic’s 53 points lift Lakers as Cavs top Sixers in LeBron James’s return",
     "summary": "LA Lakers star Doncic closed the first half with an astonishing shot from well beyond the half-court line.",
@@ -547,6 +592,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c8r4y9rgqprzo",
     "publishedAt": "2026-11-07T07:48:42.000Z"
+  },
+  {
+    "id": "eb9c0aa63f11dfa0",
+    "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+    "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo",
+    "publishedAt": "2026-11-07T07:27:44.000Z"
   },
   {
     "id": "af59daf2e14ab34b",
@@ -1294,59 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
     "publishedAt": "2026-11-06T18:32:16.000Z"
-  },
-  {
-    "id": "5e6a80be1b1ee464",
-    "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
-    "summary": "Moscow is suffering losses on the battlefield as US traders reportedly refuse to honour Trump's diesel deal with Putin.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold?traffic_source=rss",
-    "publishedAt": "2026-11-06T18:23:11.000Z"
-  },
-  {
-    "id": "811ba6d983a1cc2a",
-    "title": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
-    "summary": "The attack on al-Hadara market in Taiz governorate's al-Waziiya district killed at least 30 people, Houthi rebels say.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
-    "publishedAt": "2026-11-06T18:09:49.000Z"
-  },
-  {
-    "id": "9f46c518d8cf5163",
-    "title": "Brands asked to keep supplying David Jones despite unpaid debts",
-    "summary": "Documents seen by ABC News show the unclear situation facing suppliers after the 188-year-old retailer was plunged into voluntary administration this week.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-07/david-jones-suppliers-waiting-for-debts-to-be-paid/107355408",
-    "publishedAt": "2026-11-06T18:00:00.000Z"
-  },
-  {
-    "id": "fbf1941484639b96",
-    "title": "Prince, the pope, and autumn 2026: purple is hot this season",
-    "summary": "Spotted on Balenciaga, Celine and Valentino catwalks, purple is having a moment. If you really want to stand out, wear it with red.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/nov/06/prince-pope-autumn-2026-purple-hot-this-season",
-    "publishedAt": "2026-11-06T17:51:37.000Z"
-  },
-  {
-    "id": "b04e42e1c31e175a",
-    "title": "Valencia vs Real Madrid: La Liga – preview, team news, predictions",
-    "summary": "A win at struggling Valencia would provisionally take Madrid level on points with league leaders Barcelona.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/6/valencia-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
-    "publishedAt": "2026-11-06T17:50:13.000Z"
-  },
-  {
-    "id": "9510701630b5f59e",
-    "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-    "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o",
-    "publishedAt": "2026-11-06T17:44:02.000Z"
   }
 ]
