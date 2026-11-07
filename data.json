@@ -1,5 +1,41 @@
 [
   {
+    "id": "7010193096d34ffe",
+    "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
+    "summary": "Valverde and Guler's first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
+    "publishedAt": "2026-11-07T22:21:58.000Z"
+  },
+  {
+    "id": "3d8e1a0c18891611",
+    "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+    "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
+    "publishedAt": "2026-11-07T22:19:59.000Z"
+  },
+  {
+    "id": "5829d9d78a07bafc",
+    "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+    "summary": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+    "publishedAt": "2026-11-07T22:12:09.000Z"
+  },
+  {
+    "id": "61ee0bf649b51e6e",
+    "title": "A correspondent finds Cuba's people struggling",
+    "summary": "Reporting from Cuba comes with distinct challenges especially amid widespread power outages and fuel shortages.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling",
+    "publishedAt": "2026-11-07T22:12:06.000Z"
+  },
+  {
     "id": "0b923c2533a6a538",
     "title": "There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m",
     "summary": "The dementia treatment for children is available in the US, with funding for UK children unclear.",
@@ -1107,6 +1143,15 @@
     "publishedAt": "2026-11-07T03:53:01.000Z"
   },
   {
+    "id": "a998b7a654712219",
+    "title": "US offers $29m reward for details on Iran's nuclear program",
+    "summary": "A US State Department program, Rewards for Justice, \"is offering a $US20 million reward — and possible relocation — for information on Iran's nuclear program\".",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-07/us-20-million-rewards-for-justice-iran-nuclear-program-details/107359156",
+    "publishedAt": "2026-11-07T03:27:57.000Z"
+  },
+  {
     "id": "8eabaa61234fa1c6",
     "title": "Paraguay's President Santiago Peña impeached and arrested",
     "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
@@ -1303,50 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
     "publishedAt": "2026-11-06T23:00:37.000Z"
-  },
-  {
-    "id": "76879454b4294ce8",
-    "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
-    "summary": "Wiles thanks president for ‘honor of a lifetime’ as departure leaves behind overwhelmingly male leadership team.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
-    "publishedAt": "2026-11-06T22:35:09.000Z"
-  },
-  {
-    "id": "b32042b45e5ba5c1",
-    "title": "How octopuses squeeze through teeny tiny holes",
-    "summary": "Robots used during search and rescue operations need to be able to wriggle through narrow cracks and crevices. Researchers have turned to a natural contortionist for inspiration — the octopus.",
-    "category": "Science",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/06/nx-s1-6027897/how-octopuses-squeeze-through-teeny-tiny-holes",
-    "publishedAt": "2026-11-06T22:24:10.000Z"
-  },
-  {
-    "id": "29b565926ae50ea8",
-    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-    "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
-    "publishedAt": "2026-11-06T21:49:50.000Z"
-  },
-  {
-    "id": "42a85345953411d8",
-    "title": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape",
-    "summary": "Faculty senate passed resolution expressing deep discontent with school’s response to alleged fraternity rape.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
-    "publishedAt": "2026-11-06T21:46:37.000Z"
-  },
-  {
-    "id": "cd3e75a722bb7c3b",
-    "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
-    "summary": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
-    "publishedAt": "2026-11-06T21:23:54.000Z"
   }
 ]
