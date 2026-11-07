@@ -1,5 +1,113 @@
 [
   {
+    "id": "af59daf2e14ab34b",
+    "title": "New Forest wildfire restoration work begins",
+    "summary": "Work begins to restore nature to part of the New Forest destroyed by a summer wildfire.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo",
+    "publishedAt": "2026-11-07T07:14:33.000Z"
+  },
+  {
+    "id": "19c8ee7bb3b05fa3",
+    "title": "Can AI really save you money on your heating bill? I spent two years testing to find out",
+    "summary": "Samuel Gibbs doubted he could cut costs and still keep warm by putting tech in control. The results surprised him.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill",
+    "publishedAt": "2026-11-07T07:00:07.000Z"
+  },
+  {
+    "id": "9d164e2c0cb76398",
+    "title": "Early release prisoners facing street homelessness, probation staff warn",
+    "summary": "Charities say situation exposes ‘fatal flaw’ in Andy Burnham’s plan to end rough sleeping in England by Christmas.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/07/early-release-prisoners-street-homelessness-england",
+    "publishedAt": "2026-11-07T07:00:06.000Z"
+  },
+  {
+    "id": "f2806492f5b08d05",
+    "title": "Nationwide launches savings account with ‘market leading’ 5.3% interest",
+    "summary": "Many experts think fixed rate on 30-month term will still look good after Bank of England raised base rate.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/07/nationwide-savings-account-market-leading-interest-rate",
+    "publishedAt": "2026-11-07T07:00:05.000Z"
+  },
+  {
+    "id": "6da1f10b9d2e06df",
+    "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+    "summary": "Trump still considering new assault on Iran nuclear sites – though threats less credible after Vance remarks.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+    "publishedAt": "2026-11-07T07:00:04.000Z"
+  },
+  {
+    "id": "0aa5af0a7322bae6",
+    "title": "‘Super-force’ plans a real threat to local policing, English mayors say",
+    "summary": "Regional leaders criticise Met chief’s call for merging of 43 forces into eight or 10, saying it runs counter to devolution drive.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/07/super-force-plans-england-wales-threaten-local-policing-mayors",
+    "publishedAt": "2026-11-07T07:00:04.000Z"
+  },
+  {
+    "id": "0a129b345ce4685b",
+    "title": "Reform UK councillor promoted collapsed $1.9bn ‘Ponzi scheme’ HyperVerse that left victims suicidal",
+    "summary": "Susan Lawrence, elected to Wolverhampton city council, sits on committee overseeing financial reporting of multimillion-pound budget.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/07/reform-uk-councillor-promoted-alleged-ponzi-scheme-hyperverse",
+    "publishedAt": "2026-11-07T07:00:04.000Z"
+  },
+  {
+    "id": "10e7e2890df4013d",
+    "title": "Pope in 'pretty good health' as he starts Latin America tour",
+    "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo",
+    "publishedAt": "2026-11-07T06:59:48.000Z"
+  },
+  {
+    "id": "dbbc1985fb548903",
+    "title": "Beachcombers in Morocco hunt for hidden treasure",
+    "summary": "For many, the search is driven less by profit than by the thrill of an unexpected discovery.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss",
+    "publishedAt": "2026-11-07T06:47:45.000Z"
+  },
+  {
+    "id": "04ef0802bfcb0b20",
+    "title": "'You feel that you're not alone' - the young people finding community in grief",
+    "summary": "Too Young to Grieve is an informal peer support community providing young people with a space to grieve.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c20e32l61xko",
+    "publishedAt": "2026-11-07T06:36:47.000Z"
+  },
+  {
+    "id": "166c9cdf4565a6e5",
+    "title": "Carlos Alcaraz saves match points to reach Paris Masters semifinals",
+    "summary": "Seven-time Grand Slam champion Alcaraz is through to the Paris Masters semifinals for the first time in his career.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/7/carlos-alcaraz-match-point-paris-masters-semifinals-tennis?traffic_source=rss",
+    "publishedAt": "2026-11-07T06:21:04.000Z"
+  },
+  {
+    "id": "c5da810ccb0b02cc",
+    "title": "Governing party ahead in early results of New Zealand’s knife-edge vote",
+    "summary": "Early count suggests New Zealand's National and Labour parties are neck and neck, with neither likely to govern alone.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results?traffic_source=rss",
+    "publishedAt": "2026-11-07T06:20:27.000Z"
+  },
+  {
     "id": "1b4ca2b7082bdb41",
     "title": "Writer Nick Harkaway expands his father John le Carré's spyverse in new thriller 'The Taper Man'",
     "summary": "Fictional spymaster George Smiley is back in \"The Taper Man,\" a new thriller set in the world of John le Carr&eacute; and written by his son, Nick Harkaway.",
@@ -1240,113 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss",
     "publishedAt": "2026-11-06T13:49:07.000Z"
-  },
-  {
-    "id": "d52fa9294fe541bc",
-    "title": "Commuters and shoppers face disruption from tube driver strikes in run-up to Christmas",
-    "summary": "RMT union calls eight 24-hour strikes on London Underground in opposition to plans for four-day week.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/06/commuters-and-shoppers-face-disruption-from-tube-driver-strikes-in-run-up-to-christmas",
-    "publishedAt": "2026-11-06T13:45:57.000Z"
-  },
-  {
-    "id": "2a2c483ce3c39e44",
-    "title": "US job growth exceeds expectations in October despite economic uncertainty",
-    "summary": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
-    "publishedAt": "2026-11-06T13:42:26.000Z"
-  },
-  {
-    "id": "1be9ae8309328b9f",
-    "title": "Ukrainian President Zelenskyy presses Western allies for postwar security guarantees",
-    "summary": "Ukrainian President Volodymyr Zelenskyy says his government is seeking specific security guarantees from Western allies for post-war support.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ukrainian-president-zelenskyy-presses-western-allies-clear-postwar-137904910",
-    "publishedAt": "2026-11-06T13:38:27.000Z"
-  },
-  {
-    "id": "e370df6c624a4b7e",
-    "title": "European air traffic targeted by new threats in at least 3 incidents",
-    "summary": "Officials across Europe report more bomb threats against flights, following a series of hoaxes causing diversions this week.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/european-air-traffic-targeted-new-threats-3-incidents-137904728",
-    "publishedAt": "2026-11-06T13:38:22.000Z"
-  },
-  {
-    "id": "c6531d8501632228",
-    "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-    "summary": "Media organisations in Ireland and UK also affected as apparently coordinated effort to cause chaos continues.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
-    "publishedAt": "2026-11-06T13:34:59.000Z"
-  },
-  {
-    "id": "c2f70f66f991b980",
-    "title": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
-    "summary": "Ukrainian officials say DNA tests are being used to identify bodies while up to 39 remain trapped under rubble.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss",
-    "publishedAt": "2026-11-06T13:30:18.000Z"
-  },
-  {
-    "id": "b43a95e51bed2bb6",
-    "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-    "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
-    "publishedAt": "2026-11-06T13:25:50.000Z"
-  },
-  {
-    "id": "7395eb82da26afbf",
-    "title": "Portugal FA pledges to honour Cristiano Ronaldo as Jorge Jesus names squad",
-    "summary": "Portuguese FA promises to celebrate Ronaldo, although it is unclear whether he ⁠would agree to a farewell appearance.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/6/portugal-fa-pledges-to-honour-cristiano-ronaldo-as-jorge-jesus-names-squad?traffic_source=rss",
-    "publishedAt": "2026-11-06T13:23:52.000Z"
-  },
-  {
-    "id": "9c1efbe88c189277",
-    "title": "US midterm results spark fears in Israel over future of two countries' ties",
-    "summary": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo",
-    "publishedAt": "2026-11-06T13:23:44.000Z"
-  },
-  {
-    "id": "7d2735033d3ad54f",
-    "title": "Wales scraps controversial Uganda tree-planting scheme",
-    "summary": "The Welsh government has given more than £4m to the scheme since 2015, but will end it due to budget pressures.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqm26m2l4p7eo",
-    "publishedAt": "2026-11-06T13:14:24.000Z"
-  },
-  {
-    "id": "ed7aa7825e662c24",
-    "title": "‘Great things to come’: Flávio Bolsonaro upbeat in first appearance since fleeing from Brazil to US",
-    "summary": "Far-right politician is battling to maintain political relevance after losing the presidential election last month.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us",
-    "publishedAt": "2026-11-06T13:03:38.000Z"
-  },
-  {
-    "id": "897148a24bb0b9f0",
-    "title": "The Legend of Zelda: Ocarina of Time has revived the midnight game launch – but was it worth the wait?",
-    "summary": "When our writer found himself among the hundreds on Oxford Street hoping to get their hands on early copies and collectibles, it was a heartwarming reminder of the shared experience of fandom.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/06/the-legend-of-zelda-ocarina-of-time-midnight-game-launch",
-    "publishedAt": "2026-11-06T13:00:43.000Z"
   }
 ]
