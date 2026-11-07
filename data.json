@@ -1,5 +1,50 @@
 [
   {
+    "id": "325e133d4c4b0f50",
+    "title": "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration",
+    "summary": "US voters repudiated mass deportation campaign, but choice of new chief of staff shows Trump doesn’t care.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
+    "publishedAt": "2026-11-07T01:04:52.000Z"
+  },
+  {
+    "id": "3e7c87c95d672468",
+    "title": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
+    "summary": "Zero Limits supplements is co-owned by right-wing podcaster and fitness coach Chris Katelaris, also known as ‘Big Chocky’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb",
+    "publishedAt": "2026-11-07T00:58:11.000Z"
+  },
+  {
+    "id": "7ca22d3b5d77b2fa",
+    "title": "Man in custody after being found in vehicle near White House with guns",
+    "summary": "Ronny Yordrix Guanipa Chrinos arrested by secret service after telling officers voices told him to kill Donald Trump.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump",
+    "publishedAt": "2026-11-07T00:31:59.000Z"
+  },
+  {
+    "id": "7dc48da8a353ffe0",
+    "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+    "summary": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+    "publishedAt": "2026-11-07T00:31:41.000Z"
+  },
+  {
+    "id": "d6e7a1b5404a1971",
+    "title": "New Zealanders head to polls on final day of voting",
+    "summary": "More than half of New Zealand’s voters cast early ballots in the tightly contested race.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
+    "publishedAt": "2026-11-06T23:48:01.000Z"
+  },
+  {
     "id": "349660b67248f9c4",
     "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
     "summary": "TikTok's algorithm 'leading users down rabbit holes they cannot easily escape from', European Commission says.",
@@ -43,6 +88,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/06/nx-s1-6027897/how-octopuses-squeeze-through-teeny-tiny-holes",
     "publishedAt": "2026-11-06T22:24:10.000Z"
+  },
+  {
+    "id": "29b565926ae50ea8",
+    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+    "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
+    "publishedAt": "2026-11-06T21:49:50.000Z"
   },
   {
     "id": "42a85345953411d8",
@@ -637,6 +691,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/6/musk-says-tesla-to-wind-down-polarising-cybertruck-production-as-sales-lag?traffic_source=rss",
     "publishedAt": "2026-11-06T15:35:57.000Z"
+  },
+  {
+    "id": "51df0cd0d74323b7",
+    "title": "Two dead after bus crashes in France, officials say",
+    "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
+    "publishedAt": "2026-11-06T15:33:52.000Z"
   },
   {
     "id": "39cd815211092562",
@@ -1285,68 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/environment/2026/nov/06/uk-trees-early-spring-mild-autumn",
     "publishedAt": "2026-11-06T11:00:51.000Z"
-  },
-  {
-    "id": "e9d08434b5377d8a",
-    "title": "‘Clicky Ponting’ cheating scandal cricketer banned and club relegated",
-    "summary": "The club cricketer dubbed “Clicky Ponting” in response to accusations of cheating during the English summer has been handed a two-year ban from the sport. His team, Saltburn CC’s 2nd XI, have also been relegated.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/sport/2026/nov/06/clicky-ponting-cheating-scandal-cricketer-brian-devine-banned-club-relegated",
-    "publishedAt": "2026-11-06T10:30:38.000Z"
-  },
-  {
-    "id": "a5b6c69c23f23c8b",
-    "title": "Homes and temples glow across India as Diwali celebrations begin",
-    "summary": "Millions of Indians will mark the festival of lights with glowing lamps, fireworks and traditional sweets.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro",
-    "publishedAt": "2026-11-06T10:21:30.000Z"
-  },
-  {
-    "id": "032f3df66a11ef77",
-    "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
-    "summary": "The scandal involves senior members of President Prabowo Subianto's government, and hint at growing tensions among its elites.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwkg55155mrro",
-    "publishedAt": "2026-11-06T10:10:38.000Z"
-  },
-  {
-    "id": "67ceebbae71b6f93",
-    "title": "Tanzanian opposition leader found guilty of incitement",
-    "summary": "The 58-year-old, who has been detained since April last year, was acquitted of the more serious charge of treason.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo",
-    "publishedAt": "2026-11-06T10:05:32.000Z"
-  },
-  {
-    "id": "ea4004292cad86e1",
-    "title": "Trump wooed Latino voters, but his ICE tactics sent them back to the polls: ‘They’re taking our neighbors’",
-    "summary": "Texas business owner says he expected ICE raids to focus on those with criminal records not his relatives and employees.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/06/latino-voters-midterms-republicans-trump",
-    "publishedAt": "2026-11-06T10:00:50.000Z"
-  },
-  {
-    "id": "0bf1682f43fe9b9f",
-    "title": "Denmark’s top court to rule on ‘parallel societies’ after ‘non-western’ people evicted",
-    "summary": "Government claims removal of former residents of housing complex in Helsingør is unrelated to their ethnicity.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/06/denmarks-top-court-to-rule-on-parallel-societies-after-non-western-people-evicted",
-    "publishedAt": "2026-11-06T10:00:49.000Z"
-  },
-  {
-    "id": "5937aa0ff8444f2a",
-    "title": "Met police chief urges potential victims of Russell Brand to come forward",
-    "summary": "Mark Rowley says he would not be surprised if many more people emerged with allegations against convicted rapist.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/06/met-police-chief-potential-victims-russell-brand-come-forward",
-    "publishedAt": "2026-11-06T10:00:23.000Z"
   }
 ]
