@@ -1,5 +1,68 @@
 [
   {
+    "id": "aae7d52c6eaba4c2",
+    "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
+    "summary": "DataVita has revised plan for Chapelhall development to be wholly powered by 1GW of renewable energy.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
+    "publishedAt": "2026-11-07T10:00:08.000Z"
+  },
+  {
+    "id": "9496121a3a2d9951",
+    "title": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
+    "summary": "Democrats and Republicans blast promotion of ‘xenophobe’ who led administration’s immigration crackdown in wake of US midterm elections.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
+    "publishedAt": "2026-11-07T10:00:08.000Z"
+  },
+  {
+    "id": "6a11415094de6fd6",
+    "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+    "summary": "Thousands across the U.S. have gotten involved to oppose data centers. One is a Maryland woman who'd been evicted after a pay cut and became a leader of a community effort that blocked a vast project.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+    "publishedAt": "2026-11-07T10:00:00.000Z"
+  },
+  {
+    "id": "ab2a133b041786fa",
+    "title": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins",
+    "summary": "Palestinian citizens of Israel say Arab parties' success in recent elections has led to growing pressure.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins?traffic_source=rss",
+    "publishedAt": "2026-11-07T09:48:11.000Z"
+  },
+  {
+    "id": "f8b3a7b0e43fd74f",
+    "title": "Missiles target Kyiv and wound 5 as Ukraine prepares for talks with Russia and the US",
+    "summary": "Missile explosions have struck Kyiv, wounding at least five people, as Ukraine prepares for new talks with Russia and the United States.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/missiles-target-kyiv-injure-5-ukraine-prepares-talks-137937211",
+    "publishedAt": "2026-11-07T09:42:17.000Z"
+  },
+  {
+    "id": "febb07c67c85d948",
+    "title": "US Senator Abdul El-Sayed launches ‘Habibi’ political action committee",
+    "summary": "The first Muslim senator's new committee will let him raise money for other candidates.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss",
+    "publishedAt": "2026-11-07T09:18:53.000Z"
+  },
+  {
+    "id": "0cfedc38f47aeb83",
+    "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+    "summary": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+    "publishedAt": "2026-11-07T09:15:35.000Z"
+  },
+  {
     "id": "44d1c1e684bb0c50",
     "title": "TikTok accused of helping to promote sex industry to girls",
     "summary": "Researchers say popular performers covertly market OnlyFans content and tell followers about wealthy lifestyle.",
@@ -1285,68 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o",
     "publishedAt": "2026-11-06T14:46:03.000Z"
-  },
-  {
-    "id": "0d29a1e6bf62e67a",
-    "title": "Somalia’s top court rules president’s term extension is unlawful, deepening power struggle",
-    "summary": "Somalia’s power struggle has deepened after its Supreme Court ruled that the president’s term had expired and ordered elections within 90 days.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/somalias-top-court-rules-presidents-term-extension-unlawful-137911138",
-    "publishedAt": "2026-11-06T14:42:05.000Z"
-  },
-  {
-    "id": "38d5e56cbba0c7ea",
-    "title": "Japan announces emergency cybersecurity package following a wave of attacks",
-    "summary": "Japan has announced an emergency cybersecurity package that includes AI and cyber rescue teams.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/japan-announces-emergency-cybersecurity-package-wave-attacks-137911772",
-    "publishedAt": "2026-11-06T14:39:04.000Z"
-  },
-  {
-    "id": "0cbf74246ec8157b",
-    "title": "Russell Brand barrister reports himself to watchdog over confronting Sunday Times journalist",
-    "summary": "Ian Winter KC told Rosamund Urwin, whose investigation led to Brand’s victims coming forward, ‘I hope you are pleased with yourself’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
-    "publishedAt": "2026-11-06T14:31:55.000Z"
-  },
-  {
-    "id": "c1c75838eb96b840",
-    "title": "Bus carrying schoolchildren crashes in eastern France, killing 2 and injuring 16",
-    "summary": "A bus veered off a road in eastern France, struck trees and landed in a ditch, killing a 7-year-old girl and an 18-year-old boy.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/bus-passengers-included-school-kids-crashes-france-leaving-137904168",
-    "publishedAt": "2026-11-06T14:27:05.000Z"
-  },
-  {
-    "id": "c417a1193268f5a6",
-    "title": "Leader of Kenyan doomsday cult sentenced to 200 years in prison",
-    "summary": "The leader of a Kenyan doomsday cult linked to the deaths of hundreds of people has been sentenced to 200 years in prison for the murders of 191 people.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/leader-kenyan-doomsday-cult-sentenced-200-years-prison-137905380",
-    "publishedAt": "2026-11-06T14:25:46.000Z"
-  },
-  {
-    "id": "328fabe0c928510e",
-    "title": "Japan protests Russian takeover of Japan Tobacco subsidiaries in Russia",
-    "summary": "Japan has protested to Moscow after Russia placed four subsidiaries of Japan Tobacco under temporary Russian management.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/japan-protests-russian-takeover-japan-tobacco-subsidiaries-russia-137905388",
-    "publishedAt": "2026-11-06T14:24:57.000Z"
-  },
-  {
-    "id": "a6aa382b99d60e87",
-    "title": "Tanzania opposition leader Lissu sentenced to 4 years for incitement, acquitted of treason",
-    "summary": "A Tanzanian court sentenced opposition leader Tundu Lissu to four years in prison for inciting people to disrupt last year’s election but acquitted him of treason, ruling that prosecutors had failed to prove he intended to intimidate the government.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/tanzania-opposition-leader-lissu-sentenced-4-years-incitement-137905667",
-    "publishedAt": "2026-11-06T14:24:38.000Z"
   }
 ]
