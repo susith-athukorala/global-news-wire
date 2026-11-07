@@ -1,5 +1,50 @@
 [
   {
+    "id": "c3fa526b390c65e7",
+    "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
+    "summary": "Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
+    "publishedAt": "2026-11-07T13:50:15.000Z"
+  },
+  {
+    "id": "e5980b093e3f1e00",
+    "title": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
+    "summary": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+    "publishedAt": "2026-11-07T13:48:18.000Z"
+  },
+  {
+    "id": "64ce7cad7701e0ee",
+    "title": "‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon",
+    "summary": "The hard-left leader has transformed into a real contender in next year presidential elections.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss",
+    "publishedAt": "2026-11-07T13:35:46.000Z"
+  },
+  {
+    "id": "93c9406c2b3916f9",
+    "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
+    "summary": "A region once offering refuge becomes increasingly dangerous, as 50 people are killed in a single attack.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
+    "publishedAt": "2026-11-07T13:24:41.000Z"
+  },
+  {
+    "id": "213870ee0ec8c650",
+    "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+    "summary": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-07T13:07:23.000Z"
+  },
+  {
     "id": "393e0d6d578ae99a",
     "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
     "summary": "Moscow used 172 drones and 36 ballistic missiles in attacks on electricity substations and bridge over the Dnipro.",
@@ -133,6 +178,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
     "publishedAt": "2026-11-07T12:24:11.000Z"
+  },
+  {
+    "id": "96c055811ce2d5cc",
+    "title": "Four things we learned this week about 2028 White House race",
+    "summary": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo",
+    "publishedAt": "2026-11-07T12:23:28.000Z"
   },
   {
     "id": "1ed61bc0c753865d",
@@ -1152,6 +1206,15 @@
     "publishedAt": "2026-11-06T18:51:37.000Z"
   },
   {
+    "id": "6654bc4a3a64c646",
+    "title": "Why the US midterms sparked an AI stock selloff",
+    "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
+    "publishedAt": "2026-11-06T18:32:16.000Z"
+  },
+  {
     "id": "5e6a80be1b1ee464",
     "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
     "summary": "Moscow is suffering losses on the battlefield as US traders reportedly refuse to honour Trump's diesel deal with Putin.",
@@ -1206,6 +1269,15 @@
     "publishedAt": "2026-11-06T17:44:02.000Z"
   },
   {
+    "id": "bc2bd5a9ee52805e",
+    "title": "Protesters break into Microsoft data center in Amsterdam as Europe backlash spreads",
+    "summary": "Protesters have broken into a Microsoft data center construction site in Amsterdam.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/protesters-break-microsoft-data-center-site-amsterdam-europes-137915154",
+    "publishedAt": "2026-11-06T17:43:05.000Z"
+  },
+  {
     "id": "dfda7c5f3214ed63",
     "title": "How Paraguay’s Ueno collapse is only its latest banking crisis",
     "summary": "President Santiago Pena is under fire over links to parent company of collapsed bank.",
@@ -1242,6 +1314,15 @@
     "publishedAt": "2026-11-06T17:40:23.000Z"
   },
   {
+    "id": "2ce1b00d88f1ca12",
+    "title": "Peña skips Senate impeachment trial as Paraguay reels from Ueno bank collapse",
+    "summary": "Paraguayan President Santiago Pe&ntilde;a failed to appear at his impeachment trial following a scandal surrounding a collapsed bank.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/paraguays-pea-loses-top-aides-impeachment-trial-resumes-137913219",
+    "publishedAt": "2026-11-06T17:38:24.000Z"
+  },
+  {
     "id": "099520cf36d22013",
     "title": "Nigerian court rules opposition candidate cannot stand in elections",
     "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
@@ -1267,86 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
     "publishedAt": "2026-11-06T17:14:31.000Z"
-  },
-  {
-    "id": "cf7d22fcd65fb783",
-    "title": "Under-16s could be banned from buying energy drinks in Wales",
-    "summary": "Young people in Cardiff told BBC Wales they supported the proposed ban.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx4g114r0d2do",
-    "publishedAt": "2026-11-06T17:10:28.000Z"
-  },
-  {
-    "id": "adb6b5b18c9816f6",
-    "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
-    "summary": "Jason Reding Quinones' resignation comes as administration braces for Democrat-led investigations.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
-    "publishedAt": "2026-11-06T17:02:19.000Z"
-  },
-  {
-    "id": "1526e3261fc59e5c",
-    "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
-    "summary": "Political turmoil comes after a digital bank's failure has left half the population without access to their accounts.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss",
-    "publishedAt": "2026-11-06T16:58:56.000Z"
-  },
-  {
-    "id": "5422d547f3df0f3a",
-    "title": "Russell Brand rape conviction must be ‘wake-up call’, says culture secretary",
-    "summary": "Lisa Nandy calls for whistleblowers to be protected and highlights bravery of women who came forward in case.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-conviction-must-be-wake-up-call-says-culture-secretary-lisa-nandy",
-    "publishedAt": "2026-11-06T16:53:06.000Z"
-  },
-  {
-    "id": "effe90ee565c2618",
-    "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-    "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o",
-    "publishedAt": "2026-11-06T16:51:01.000Z"
-  },
-  {
-    "id": "6c3cbccdc5183991",
-    "title": "Burnham aims for ‘quite radical change’ in support for young people",
-    "summary": "Prime minister says ‘root and branch review of childhood’ is needed and he does not rule out some benefit cuts.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/06/andy-burnham-quite-radical-change-young-people-support-benefits-neets",
-    "publishedAt": "2026-11-06T16:50:13.000Z"
-  },
-  {
-    "id": "9a27a57e9fe73945",
-    "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
-    "summary": "Rising global temperatures mean extreme weather events are becoming more common and more intense.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o",
-    "publishedAt": "2026-11-06T16:43:30.000Z"
-  },
-  {
-    "id": "dddd95111fa0794a",
-    "title": "Foodbank to close after 16 years amid rising costs",
-    "summary": "A foodbank in Goole annouces it will close in January as costs rise and donations drop.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro",
-    "publishedAt": "2026-11-06T16:42:23.000Z"
-  },
-  {
-    "id": "0ccf28b337e9fd40",
-    "title": "A really simple guide to climate change",
-    "summary": "Human activities are causing the world to heat up, posing serious threats to people and nature.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9w15nggj58o",
-    "publishedAt": "2026-11-06T16:40:51.000Z"
   }
 ]
