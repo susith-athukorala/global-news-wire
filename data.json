@@ -1,5 +1,32 @@
 [
   {
+    "id": "44d1c1e684bb0c50",
+    "title": "TikTok accused of helping to promote sex industry to girls",
+    "summary": "Researchers say popular performers covertly market OnlyFans content and tell followers about wealthy lifestyle.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans",
+    "publishedAt": "2026-11-07T09:00:07.000Z"
+  },
+  {
+    "id": "ff0eea51cee92d7b",
+    "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+    "summary": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+    "publishedAt": "2026-11-07T08:45:36.000Z"
+  },
+  {
+    "id": "69ae258ef1c01055",
+    "title": "Doncic’s 53 points lift Lakers as Cavs top Sixers in LeBron James’s return",
+    "summary": "LA Lakers star Doncic closed the first half with an astonishing shot from well beyond the half-court line.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/7/doncic-lakers-lebron-cavaliers-sixers-nba-cup-basketball?traffic_source=rss",
+    "publishedAt": "2026-11-07T08:10:01.000Z"
+  },
+  {
     "id": "eaf6ea934fff544c",
     "title": "Houston mayor curbs cooperation of US city’s police with ICE",
     "summary": "People stopped for minor traffic violations will no longer be referred to US Immigration and Customs Enforcement.",
@@ -1170,6 +1197,15 @@
     "publishedAt": "2026-11-06T15:21:31.000Z"
   },
   {
+    "id": "35d583ecb9bdf612",
+    "title": "EU charges TikTok with failing to protect users’ mental health",
+    "summary": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+    "publishedAt": "2026-11-06T15:17:08.000Z"
+  },
+  {
     "id": "79e35de4eb39ed8b",
     "title": "Claims of a Ukrainian ‘torture chamber’ went viral. What really happened?",
     "summary": "A woman who claimed that men were being violently assaulted in a house for evading the draft has been arrested.",
@@ -1312,41 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/tanzania-opposition-leader-lissu-sentenced-4-years-incitement-137905667",
     "publishedAt": "2026-11-06T14:24:38.000Z"
-  },
-  {
-    "id": "bef5828714042a0c",
-    "title": "Sri Lanka unions protest bills expanding police powers and warn of abuses",
-    "summary": "Trade unions and political activists in Sri Lanka's capital have rallied against proposed anti-terrorism and anti-crime bills.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/sri-lanka-unions-protest-bills-expanding-police-powers-137909130",
-    "publishedAt": "2026-11-06T14:15:08.000Z"
-  },
-  {
-    "id": "4796e8be53898d38",
-    "title": "Anti-fire ant eradication activist convicted after using legal arguments ‘similar to sovereign citizens’",
-    "summary": "Legal expert compares Trevor Hold’s failed defence to ‘tried and tested argument’ used by sovereign citizen movement.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/07/trevor-hold-activist-convicted-qld-fire-ant-eradication-program-queensland-ntwnfb",
-    "publishedAt": "2026-11-06T14:00:46.000Z"
-  },
-  {
-    "id": "6d64941928f18c9a",
-    "title": "Fearing AI disruption, white-collar workers are quitting their jobs",
-    "summary": "While there’s no evidence linking AI to mass layoffs, the tech has already ‘changed worker psychology’",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
-    "publishedAt": "2026-11-06T14:00:45.000Z"
-  },
-  {
-    "id": "490729b43c0fa668",
-    "title": "The Victorian Liberals’ campaign bus was supposed to be a reset. Instead it became the symbol of a rough week",
-    "summary": "Crashing into a shop awning ended the first outing of the Jess Express – but the opposition’s electoral momentum will be harder to stop.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/07/the-victorian-liberals-campaign-bus-was-supposed-to-be-a-reset-instead-it-became-the-symbol-of-a-rough-week",
-    "publishedAt": "2026-11-06T14:00:45.000Z"
   }
 ]
