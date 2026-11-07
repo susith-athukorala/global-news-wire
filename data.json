@@ -1,5 +1,86 @@
 [
   {
+    "id": "d9a5742fea3d12cd",
+    "title": "National Trust votes to seek banking partner more in tune with its environment policies",
+    "summary": "Charity’s AGM decided overwhelmingly to begin a tendering process amid criticism of current bank Barclays fossil fuel investments.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies",
+    "publishedAt": "2026-11-07T15:06:59.000Z"
+  },
+  {
+    "id": "306d8dfa440ca4bc",
+    "title": "Vetting candidates is a tricky process but Reform can’t seem to get it right",
+    "summary": "Charges against party members and off-piste remarks highlight problems brought about by rapid expansion.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle",
+    "publishedAt": "2026-11-07T15:00:14.000Z"
+  },
+  {
+    "id": "ead47727fd918b02",
+    "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
+    "summary": "Democratic socialists won the mayorship, a US House seat and powerful positions in Los Angeles – and a large network of volunteers helped them do it.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
+    "publishedAt": "2026-11-07T15:00:14.000Z"
+  },
+  {
+    "id": "d165bac607c247b7",
+    "title": "‘Life-changing’: parents welcome £10m UK play centre for disabled children",
+    "summary": "Gympanzees near Bristol will be the first UK site of its type, catering for children unable to use regular playgrounds.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children",
+    "publishedAt": "2026-11-07T15:00:13.000Z"
+  },
+  {
+    "id": "98b8fe164d544b24",
+    "title": "No clear winner after tight New Zealand general election",
+    "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
+    "publishedAt": "2026-11-07T15:00:10.000Z"
+  },
+  {
+    "id": "3f054a34cb05abc1",
+    "title": "A promising new medicine against heart disease fails unexpectedly",
+    "summary": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
+    "publishedAt": "2026-11-07T14:50:00.000Z"
+  },
+  {
+    "id": "053daca12a9c4c2f",
+    "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
+    "summary": "Iraqi foreign minister tells Al Jazeera that Baghdad is investigating attacks on the Gulf launched from its territory.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
+    "publishedAt": "2026-11-07T14:24:48.000Z"
+  },
+  {
+    "id": "d848c86be31a2065",
+    "title": "Thunderstruck: what does the future hold for lightning?",
+    "summary": "Humans have always been awed by the power and beauty of lightning. How does the experience and understanding of it change in a warming world?",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia",
+    "publishedAt": "2026-11-07T14:00:13.000Z"
+  },
+  {
+    "id": "022e329a512042ed",
+    "title": "Standing in the way of slop bowls: the woman blocking food delivery robots",
+    "summary": "Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
+    "publishedAt": "2026-11-07T14:00:12.000Z"
+  },
+  {
     "id": "c3fa526b390c65e7",
     "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
     "summary": "Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.",
@@ -1267,86 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o",
     "publishedAt": "2026-11-06T17:44:02.000Z"
-  },
-  {
-    "id": "bc2bd5a9ee52805e",
-    "title": "Protesters break into Microsoft data center in Amsterdam as Europe backlash spreads",
-    "summary": "Protesters have broken into a Microsoft data center construction site in Amsterdam.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/protesters-break-microsoft-data-center-site-amsterdam-europes-137915154",
-    "publishedAt": "2026-11-06T17:43:05.000Z"
-  },
-  {
-    "id": "dfda7c5f3214ed63",
-    "title": "How Paraguay’s Ueno collapse is only its latest banking crisis",
-    "summary": "President Santiago Pena is under fire over links to parent company of collapsed bank.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss",
-    "publishedAt": "2026-11-06T17:42:22.000Z"
-  },
-  {
-    "id": "6f41c1fa4d8e1c85",
-    "title": "Students in Belgrade join Serbia's post-election cleanup wave",
-    "summary": "Serbia’s capital Belgrade has been getting a makeover after a youth-led movement’s victory over a long-ruling strongman and his government in Oct. 25 elections.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/students-belgrade-join-serbias-post-election-cleanup-wave-137917643",
-    "publishedAt": "2026-11-06T17:42:17.000Z"
-  },
-  {
-    "id": "d286a4ebbaf9b3ef",
-    "title": "What is Diwali, the Festival of Lights, and how is it celebrated?",
-    "summary": "Diwali, India’s most important festival, is celebrated by more than a billion people, including Hindus, Sikhs, Jains and Buddhists.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/diwali-festival-lights-celebrated-137916244",
-    "publishedAt": "2026-11-06T17:40:26.000Z"
-  },
-  {
-    "id": "6f6e1b22ab41cb69",
-    "title": "Trump will be blocked from putting ‘rightwinger’ on supreme court, Schumer says",
-    "summary": "After midterm wins, Democratics plan comeback for when new Congress is sworn in, including pushback against Trump and his policies.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/06/trump-rightwing-supreme-court-justice",
-    "publishedAt": "2026-11-06T17:40:23.000Z"
-  },
-  {
-    "id": "2ce1b00d88f1ca12",
-    "title": "Peña skips Senate impeachment trial as Paraguay reels from Ueno bank collapse",
-    "summary": "Paraguayan President Santiago Pe&ntilde;a failed to appear at his impeachment trial following a scandal surrounding a collapsed bank.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/paraguays-pea-loses-top-aides-impeachment-trial-resumes-137913219",
-    "publishedAt": "2026-11-06T17:38:24.000Z"
-  },
-  {
-    "id": "099520cf36d22013",
-    "title": "Nigerian court rules opposition candidate cannot stand in elections",
-    "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o",
-    "publishedAt": "2026-11-06T17:35:55.000Z"
-  },
-  {
-    "id": "ffb8d349a96446e6",
-    "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-    "summary": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo",
-    "publishedAt": "2026-11-06T17:19:38.000Z"
-  },
-  {
-    "id": "c6531d8501632228",
-    "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-    "summary": "Media organisations in Ireland and UK also affected as apparently coordinated effort to cause chaos continues.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
-    "publishedAt": "2026-11-06T17:14:31.000Z"
   }
 ]
