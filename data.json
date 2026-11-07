@@ -18,6 +18,15 @@
     "publishedAt": "2026-11-07T01:55:11.000Z"
   },
   {
+    "id": "47b292ea47d69b0e",
+    "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+    "summary": "Children and teenagers make up almost 60 percent of confirmed cases.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
+    "publishedAt": "2026-11-07T01:55:03.000Z"
+  },
+  {
     "id": "ef7c2ba006ff9d66",
     "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
     "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
@@ -891,6 +900,15 @@
     "publishedAt": "2026-11-06T14:31:55.000Z"
   },
   {
+    "id": "c1c75838eb96b840",
+    "title": "Bus carrying schoolchildren crashes in eastern France, killing 2 and injuring 16",
+    "summary": "A bus veered off a road in eastern France, struck trees and landed in a ditch, killing a 7-year-old girl and an 18-year-old boy.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/bus-passengers-included-school-kids-crashes-france-leaving-137904168",
+    "publishedAt": "2026-11-06T14:27:05.000Z"
+  },
+  {
     "id": "328fabe0c928510e",
     "title": "Japan protests Russian takeover of Japan Tobacco subsidiaries in Russia",
     "summary": "Japan has protested to Moscow after Russia placed four subsidiaries of Japan Tobacco under temporary Russian management.",
@@ -1330,23 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/ukrainian-president-zelenskyy-presses-western-allies-clear-postwar-137904910",
     "publishedAt": "2026-11-06T11:15:19.000Z"
-  },
-  {
-    "id": "e370df6c624a4b7e",
-    "title": "European air traffic targeted by new threats in at least 3 incidents",
-    "summary": "",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/european-air-traffic-targeted-new-threats-3-incidents-137904728",
-    "publishedAt": "2026-11-06T11:13:21.000Z"
-  },
-  {
-    "id": "d52fa9294fe541bc",
-    "title": "Commuters and shoppers face disruption from tube driver strikes in run-up to Christmas",
-    "summary": "RMT union calls eight 24-hour strikes on London Underground in opposition to plans for four-day week.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/06/commuters-and-shoppers-face-disruption-from-tube-driver-strikes-in-run-up-to-christmas",
-    "publishedAt": "2026-11-06T11:12:58.000Z"
   }
 ]
