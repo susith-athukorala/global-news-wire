@@ -1,5 +1,14 @@
 [
   {
+    "id": "0cbf74246ec8157b",
+    "title": "Russell Brand barrister reports himself to watchdog over clash with journalist",
+    "summary": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand’s victims coming forward: ‘I hope you are pleased with yourself’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
+    "publishedAt": "2026-11-07T10:04:01.000Z"
+  },
+  {
     "id": "aae7d52c6eaba4c2",
     "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
     "summary": "DataVita has revised plan for Chapelhall development to be wholly powered by 1GW of renewable energy.",
@@ -1089,6 +1098,15 @@
     "publishedAt": "2026-11-06T16:22:18.000Z"
   },
   {
+    "id": "4413e5eccbae4335",
+    "title": "Spate of bomb threats poses serious challenge to airline industry",
+    "summary": "After a week of disruption, airlines are facing both safety and financial concerns.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo",
+    "publishedAt": "2026-11-06T16:18:44.000Z"
+  },
+  {
     "id": "6654bc4a3a64c646",
     "title": "Could the US midterms burst the AI bubble?",
     "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
@@ -1287,6 +1305,15 @@
     "publishedAt": "2026-11-06T15:08:43.000Z"
   },
   {
+    "id": "38d5e56cbba0c7ea",
+    "title": "Japan announces emergency cybersecurity package following a wave of attacks",
+    "summary": "Japan has announced an emergency cybersecurity package that includes AI and cyber rescue teams.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/japan-announces-emergency-cybersecurity-package-wave-attacks-137911772",
+    "publishedAt": "2026-11-06T15:06:28.000Z"
+  },
+  {
     "id": "c937c61b4a1f1978",
     "title": "AI stocks climb after trillions wiped from market values",
     "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
@@ -1321,32 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo",
     "publishedAt": "2026-11-06T14:57:08.000Z"
-  },
-  {
-    "id": "e2edaef4ed43aa12",
-    "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
-    "summary": "Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
-    "publishedAt": "2026-11-06T14:53:46.000Z"
-  },
-  {
-    "id": "11458af0c685be13",
-    "title": "‘A global political awakening’: how gen Z protests are sweeping the world",
-    "summary": "From Serbia to Bangladesh and India to France, young people are pushing back against authoritarianism and reshaping political landscapes.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world",
-    "publishedAt": "2026-11-06T14:52:43.000Z"
-  },
-  {
-    "id": "ffc3bbb2a33a27a0",
-    "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-    "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o",
-    "publishedAt": "2026-11-06T14:46:03.000Z"
   }
 ]
