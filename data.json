@@ -1,5 +1,23 @@
 [
   {
+    "id": "b1b19684ff094b9d",
+    "title": "How the US midterm elections reflected resistance to data centres",
+    "summary": "Voters rejected data centre development in all but one of the 41 measures addressing the issue in Tuesday's midterms.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss",
+    "publishedAt": "2026-11-07T03:22:41.000Z"
+  },
+  {
+    "id": "8acdf42e10a9061d",
+    "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+    "summary": "The president’s announcement comes days after an earlier attack on Iran was made public, and as diplomatic efforts to end the conflict have accelerated.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+    "publishedAt": "2026-11-07T03:07:01.000Z"
+  },
+  {
     "id": "11ee188ff13928a6",
     "title": "Diwali celebrations coincide with worsening air. Here’s how to stay safer",
     "summary": "For people across South Asia, especially in northern India, Diwali celebrations coincide with the return of hazardous winter air, raising concerns about how to celebrate safely.",
@@ -394,6 +412,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/06/prince-harry-others-appeal-daily-mail-phone-hacking-claim",
     "publishedAt": "2026-11-06T18:59:04.000Z"
+  },
+  {
+    "id": "875a79b3dad1b0c5",
+    "title": "After a thumping midterms win, Democrats turn to potential battle within",
+    "summary": "The Democratic Party is no longer just a broad church, but a huge multi-faith centre. Now their prayers for an electoral resurrection have been answered, the perennial battle for the soul of the party begins.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-07/us-midterm-elections-could-start-battle-for-democrats-soul/107354022",
+    "publishedAt": "2026-11-06T18:52:33.000Z"
   },
   {
     "id": "730d2fc3afce6bc2",
@@ -1044,6 +1071,15 @@
     "publishedAt": "2026-11-06T13:42:26.000Z"
   },
   {
+    "id": "1be9ae8309328b9f",
+    "title": "Ukrainian President Zelenskyy presses Western allies for postwar security guarantees",
+    "summary": "Ukrainian President Volodymyr Zelenskyy says his government is seeking specific security guarantees from Western allies for post-war support.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/ukrainian-president-zelenskyy-presses-western-allies-clear-postwar-137904910",
+    "publishedAt": "2026-11-06T13:38:27.000Z"
+  },
+  {
     "id": "e370df6c624a4b7e",
     "title": "European air traffic targeted by new threats in at least 3 incidents",
     "summary": "Officials across Europe report more bomb threats against flights, following a series of hoaxes causing diversions this week.",
@@ -1069,6 +1105,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss",
     "publishedAt": "2026-11-06T13:30:18.000Z"
+  },
+  {
+    "id": "b43a95e51bed2bb6",
+    "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+    "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+    "publishedAt": "2026-11-06T13:25:50.000Z"
   },
   {
     "id": "7395eb82da26afbf",
@@ -1303,50 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/6/we-are-here-kurdish-club-amedspor-shakes-up-turkish-football?traffic_source=rss",
     "publishedAt": "2026-11-06T11:59:40.000Z"
-  },
-  {
-    "id": "75d8a8aaaffdf70c",
-    "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
-    "summary": "Dr. Raj Panjabi is the author of Safer: A Playbook. His goal is to help people face a personal crisis — health, workplace, family conflicts — and \"turn fear into action.\"",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
-    "publishedAt": "2026-11-06T11:57:32.000Z"
-  },
-  {
-    "id": "a5922f5bfbd64768",
-    "title": "Tanzania court jails opposition leader for incitement, lifts treason charge",
-    "summary": "Dismissal of treason charge means Tundu Lissu avoids threat of death penalty.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/tanzania-court-jails-opposition-leader-for-incitement-lifts-treason-charge?traffic_source=rss",
-    "publishedAt": "2026-11-06T11:56:57.000Z"
-  },
-  {
-    "id": "ffc3bbb2a33a27a0",
-    "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-    "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o",
-    "publishedAt": "2026-11-06T11:54:08.000Z"
-  },
-  {
-    "id": "1959a3fb8fc5434d",
-    "title": "'I've taken an extra job to pay for heating oil'",
-    "summary": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo",
-    "publishedAt": "2026-11-06T11:40:35.000Z"
-  },
-  {
-    "id": "21f2fbd1347bc535",
-    "title": "Tanzania’s smallholder farmers struggle to benefit from digital agriculture",
-    "summary": "Poor training and delayed responses leave farmers struggling to access useful market information.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/6/tanzanias-smallholder-farmers-struggle-to-benefit-from-digital-agriculture?traffic_source=rss",
-    "publishedAt": "2026-11-06T11:35:39.000Z"
   }
 ]
