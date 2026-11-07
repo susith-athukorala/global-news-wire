@@ -1,5 +1,14 @@
 [
   {
+    "id": "9a2c320844063b22",
+    "title": "What we know about Krakow mass shooting so far",
+    "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+    "publishedAt": "2026-11-07T17:48:29.000Z"
+  },
+  {
     "id": "d74c8db696ea1ece",
     "title": "Ousted Paraguayan president appears before prosecutors",
     "summary": "Paraguayan President Santiago Peña was removed from office and placed on House arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
@@ -7,6 +16,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
     "publishedAt": "2026-11-07T17:14:36.000Z"
+  },
+  {
+    "id": "d3bebbaf6fce2880",
+    "title": "Houthis say at least 25 killed in Saudi air strike",
+    "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
+    "publishedAt": "2026-11-07T17:09:24.000Z"
   },
   {
     "id": "5351930e6672c6a3",
@@ -1330,23 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
     "publishedAt": "2026-11-06T19:16:07.000Z"
-  },
-  {
-    "id": "3ec91ac54b20b8a4",
-    "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
-    "summary": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
-    "publishedAt": "2026-11-06T19:13:06.000Z"
-  },
-  {
-    "id": "2598b202940fccc4",
-    "title": "Trump appoints adviser Stephen Miller as new White House chief of staff",
-    "summary": "This is a breaking news story.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
-    "publishedAt": "2026-11-06T19:08:31.000Z"
   }
 ]
