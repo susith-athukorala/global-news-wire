@@ -1,5 +1,50 @@
 [
   {
+    "id": "d74c8db696ea1ece",
+    "title": "Ousted Paraguayan president appears before prosecutors",
+    "summary": "Paraguayan President Santiago Peña was removed from office and placed on House arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+    "publishedAt": "2026-11-07T17:14:36.000Z"
+  },
+  {
+    "id": "5351930e6672c6a3",
+    "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
+    "summary": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
+    "publishedAt": "2026-11-07T17:00:16.000Z"
+  },
+  {
+    "id": "f50d287e94f55242",
+    "title": "Five dead after gunman opens fire ‘at random’ in Kraków market square",
+    "summary": "Reports say man fired shots from from his car in Poland’s second city before being caught while trying to flee.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+    "publishedAt": "2026-11-07T16:59:59.000Z"
+  },
+  {
+    "id": "1c084ea74f08dfc4",
+    "title": "Italian foreign minister says hackers leaked his personal data",
+    "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o",
+    "publishedAt": "2026-11-07T16:50:06.000Z"
+  },
+  {
+    "id": "9b1e87c4ad717509",
+    "title": "At least five killed in shooting at Krakow's main square",
+    "summary": "About a dozen other people have been injured after the shooting in Poland's second largest city.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-08/five-killed-in-krakow/107360360",
+    "publishedAt": "2026-11-07T16:35:40.000Z"
+  },
+  {
     "id": "56d20b78c2b29579",
     "title": "Guatemalan lawmaker and three police officers killed in armed attack",
     "summary": "It happened in a region of the country known to have drug trafficking activity.",
@@ -34,6 +79,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
     "publishedAt": "2026-11-07T15:22:55.000Z"
+  },
+  {
+    "id": "499afa3031dd39d7",
+    "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+    "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo",
+    "publishedAt": "2026-11-07T15:19:35.000Z"
   },
   {
     "id": "1e8aa65b185318ce",
@@ -1294,59 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
     "publishedAt": "2026-11-06T19:08:31.000Z"
-  },
-  {
-    "id": "73b2fd09a6ce3ceb",
-    "title": "Armed men kill at least 33 in village in Ebola-hit eastern DRC",
-    "summary": "Locals blame ADF armed group, which pledged allegiance to ISIL in 2019, for the deadly raids on North Kivu villages.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/armed-men-kill-at-least-33-in-village-in-ebola-hit-eastern-drc?traffic_source=rss",
-    "publishedAt": "2026-11-06T19:07:06.000Z"
-  },
-  {
-    "id": "54d6a280d17701c2",
-    "title": "Want to have a better chat? Scientists say the secret is ‘pink noise’",
-    "summary": "The most enjoyable conversations strike a balance between exploring a topic and pulling in fresh ideas, study finds.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/06/better-conversation-study-pink-noise",
-    "publishedAt": "2026-11-06T19:00:49.000Z"
-  },
-  {
-    "id": "7b69296aec775fbc",
-    "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
-    "summary": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
-    "publishedAt": "2026-11-06T19:00:21.000Z"
-  },
-  {
-    "id": "e35edccd40a8dcbf",
-    "title": "Prince Harry and others launch appeal after losing Daily Mail phone-hacking claim",
-    "summary": "Harry, Doreen Lawrence, Elton John, David Furnish, Elizabeth Hurley and Sadie Frost face £50m bill after ruling.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/06/prince-harry-others-appeal-daily-mail-phone-hacking-claim",
-    "publishedAt": "2026-11-06T18:59:04.000Z"
-  },
-  {
-    "id": "875a79b3dad1b0c5",
-    "title": "After a thumping midterms win, Democrats turn to potential battle within",
-    "summary": "The Democratic Party is no longer just a broad church, but a huge multi-faith centre. Now their prayers for an electoral resurrection have been answered, the perennial battle for the soul of the party begins.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-07/us-midterm-elections-could-start-battle-for-democrats-soul/107354022",
-    "publishedAt": "2026-11-06T18:52:33.000Z"
-  },
-  {
-    "id": "730d2fc3afce6bc2",
-    "title": "Lawyers descend on Mississippi as vote counting continues in razor-thin Senate race",
-    "summary": "Democratic and Republican lawyers and groups trade sharp legal letters about procedures for counting ballots in tight race.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/06/mississippi-senate-race-vote-counting-lawyers",
-    "publishedAt": "2026-11-06T18:51:52.000Z"
   }
 ]
