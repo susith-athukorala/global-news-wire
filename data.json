@@ -1,5 +1,59 @@
 [
   {
+    "id": "58b959ca0c3dd0ed",
+    "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
+    "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complications.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
+    "publishedAt": "2026-11-07T12:00:13.000Z"
+  },
+  {
+    "id": "c1395cf60132524b",
+    "title": "Gotta buy ’em all: how Pokémon card collecting became race against scalpers",
+    "summary": "Fans trying to access latest releases are being priced out in a cut-throat market driven by crypto-like hype.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/07/gotta-buy-em-all-how-pokemon-card-collecting-became-race-against-scalpers",
+    "publishedAt": "2026-11-07T12:00:11.000Z"
+  },
+  {
+    "id": "aba7a8e2cb269d5c",
+    "title": "Florida Republicans survived the ‘blue wave’, but find themselves on shaky ground",
+    "summary": "Sunshine state emerged as the lone flag bearer of the Maga agenda, but even there, the GOP finds itself on the defense.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/07/florida-republicans-midterm-elections",
+    "publishedAt": "2026-11-07T12:00:10.000Z"
+  },
+  {
+    "id": "c3a491c5b565551b",
+    "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
+    "summary": "This year's the Princess Diana honor roll highlights 198 inspiring young activists and advocates — including an 18-year-old guy in India who founded Team Period.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+    "publishedAt": "2026-11-07T11:50:21.000Z"
+  },
+  {
+    "id": "713da849e40e66b2",
+    "title": "What to know about the hoax bomb threats that targeted flights in Europe",
+    "summary": "Dozens of flights across Europe have been targeted by bomb threats this week, causing diversions and emergency landings.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/hoax-bomb-threats-targeted-flights-europe-137937700",
+    "publishedAt": "2026-11-07T11:45:07.000Z"
+  },
+  {
+    "id": "68c329ec9278bb64",
+    "title": "Italy's Meloni blames pro-Russian hackers for leak of foreign minister's data on the dark web",
+    "summary": "Italian Foreign Minister Antonio Tajani says his personal data has been leaked on the dark web, exposing him to threats and intimidation.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/italys-meloni-blames-pro-russian-hackers-leak-foreign-137937793",
+    "publishedAt": "2026-11-07T11:45:05.000Z"
+  },
+  {
     "id": "e4cfd3af25b8d581",
     "title": "Rains flood thousands of displaced families’ tents in Gaza",
     "summary": "Civil Defence says it received 1,500 distress calls in 10 hours as a storm swept through displacement camps.",
@@ -711,6 +765,15 @@
     "publishedAt": "2026-11-06T21:14:46.000Z"
   },
   {
+    "id": "c937c61b4a1f1978",
+    "title": "AI stocks climb after trillions wiped from market values",
+    "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+    "publishedAt": "2026-11-06T21:06:25.000Z"
+  },
+  {
     "id": "43e42c428382c84e",
     "title": "Protesters break into Microsoft data centre site in Amsterdam",
     "summary": "Data centres face protests across Europe due to the massive amounts of computing power and water they use.",
@@ -1285,68 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/6/musk-says-tesla-to-wind-down-polarising-cybertruck-production-as-sales-lag?traffic_source=rss",
     "publishedAt": "2026-11-06T15:35:57.000Z"
-  },
-  {
-    "id": "51df0cd0d74323b7",
-    "title": "Two dead after bus crashes in France, officials say",
-    "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
-    "publishedAt": "2026-11-06T15:33:52.000Z"
-  },
-  {
-    "id": "39cd815211092562",
-    "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-    "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko",
-    "publishedAt": "2026-11-06T15:30:42.000Z"
-  },
-  {
-    "id": "2b8b76c54a3c3401",
-    "title": "‘I feel free now’: Shabana Mahmood’s immigration shake-up provokes mixed emotions",
-    "summary": "Some relatives of British citizens say they feel left behind, but announcement has brought relief to many care workers.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/06/shabana-mahmood-uk-immigration-shakeup-reaction",
-    "publishedAt": "2026-11-06T15:28:18.000Z"
-  },
-  {
-    "id": "7d2735033d3ad54f",
-    "title": "Wales scraps controversial Uganda tree-planting scheme",
-    "summary": "The Welsh government has given more than £4m to the scheme since 2015, but will end it due to budget pressures.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqm26m2l4p7eo",
-    "publishedAt": "2026-11-06T15:27:44.000Z"
-  },
-  {
-    "id": "75b0af2bbdb41e45",
-    "title": "PM tells firms to publish salaries in job adverts ahead of new law",
-    "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o",
-    "publishedAt": "2026-11-06T15:25:43.000Z"
-  },
-  {
-    "id": "466b2a58a9546ba9",
-    "title": "New wave of bomb threats hit European airlines",
-    "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo",
-    "publishedAt": "2026-11-06T15:25:35.000Z"
-  },
-  {
-    "id": "2f5337a83c6850fe",
-    "title": "New bomb threats target European broadcasters, air traffic",
-    "summary": "A string of hoax alerts causing flight diversions across Europe this week has broadened to include newsrooms.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss",
-    "publishedAt": "2026-11-06T15:24:54.000Z"
   }
 ]
