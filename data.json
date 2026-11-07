@@ -1,5 +1,50 @@
 [
   {
+    "id": "fcc57baef9eb643a",
+    "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
+    "summary": "Ahead of Cop31, climate change minister dismisses concerns about whether Australia as a major producer can keep the world moving away from fossil fuels.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
+    "publishedAt": "2026-11-07T19:00:20.000Z"
+  },
+  {
+    "id": "85f5a1252208f85f",
+    "title": "A Big Build royal commission helped Ben Carroll become premier. Will it be his downfall?",
+    "summary": "Two weeks of public hearings will begin on Monday morning, right in the middle of the state election campaign.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb",
+    "publishedAt": "2026-11-07T19:00:19.000Z"
+  },
+  {
+    "id": "08ca84292909920a",
+    "title": "Paraguay’s ousted president charged over banking scandal",
+    "summary": "Santiago Pena was impeached over the collapse of Ueno Bank, which left millions unable to access their accounts.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
+    "publishedAt": "2026-11-07T18:35:15.000Z"
+  },
+  {
+    "id": "ced386c4c770a475",
+    "title": "US offers $20m reward for information about Iran's nuclear programme",
+    "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo",
+    "publishedAt": "2026-11-07T18:14:38.000Z"
+  },
+  {
+    "id": "c8b62b99b72a6498",
+    "title": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
+    "summary": "Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
+    "publishedAt": "2026-11-07T18:00:21.000Z"
+  },
+  {
     "id": "9a2c320844063b22",
     "title": "What we know about Krakow mass shooting so far",
     "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
@@ -882,6 +927,15 @@
     "publishedAt": "2026-11-07T05:11:03.000Z"
   },
   {
+    "id": "99fe473442ff7cdc",
+    "title": "US senator with Australian ties now a presidential frontrunner",
+    "summary": "The polling booths have barely been packed down after the US midterms, but Washington is already looking ahead to the presidential election.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-07/us-senator-jon-ossoff-democrats-presidential-campaign/107359376",
+    "publishedAt": "2026-11-07T05:08:23.000Z"
+  },
+  {
     "id": "505934f5cfdf1156",
     "title": "Pakistani astronaut to board Shenzhou 24 and become the first foreigner on China's space station",
     "summary": "A Pakistani astronaut will board China’s Shenzhou 24 spacecraft as the first foreign national on Beijing’s space station.",
@@ -1294,59 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/music/2026/nov/06/macklemore-arenas-free-palestine-tour",
     "publishedAt": "2026-11-06T19:46:56.000Z"
-  },
-  {
-    "id": "fc55b64d1ee0dc3c",
-    "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory",
-    "summary": "Canadian Prime Minister Mark Carney welcomes a Democratic push to repeal U.S. President Donald Trump’s tariffs on Canada after their sweeping midterm victory.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/carney-welcomes-democrats-push-end-trumps-tariffs-canada-137923648",
-    "publishedAt": "2026-11-06T19:46:02.000Z"
-  },
-  {
-    "id": "12dab0289873e890",
-    "title": "Incoming Democratic senators don’t want Chuck Schumer as majority leader",
-    "summary": "New lawmakers from Annie Andrews and Adam Hamilton to Abdul El-Sayed indicate they will not support him.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/06/chuck-schumer-majority-leader-incoming-democratic-senators",
-    "publishedAt": "2026-11-06T19:37:25.000Z"
-  },
-  {
-    "id": "0e8d4099942b7638",
-    "title": "Houston to limit police cooperation with federal immigration authorities",
-    "summary": "Mayor said only immigrants that ‘pose a danger’ would be referred to ICE, after Democrats gain control of governor’s seat.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/06/houston-police-ice-immigration",
-    "publishedAt": "2026-11-06T19:29:55.000Z"
-  },
-  {
-    "id": "dda3c15746289d3d",
-    "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
-    "summary": "The Chilean film-maker, whose films starred Florence Pugh, Julianne Moore and Rachel Weisz, died at his home in Santiago.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
-    "publishedAt": "2026-11-06T19:23:24.000Z"
-  },
-  {
-    "id": "4a7e1ef8907a1e2e",
-    "title": "Russell Brand suspected to have attacked at least 10 other women",
-    "summary": "Met police chief says ‘many more’ victims could come forward, as actor and comedian awaits sentencing.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women",
-    "publishedAt": "2026-11-06T19:23:24.000Z"
-  },
-  {
-    "id": "b8135914bdd3de73",
-    "title": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
-    "summary": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
-    "publishedAt": "2026-11-06T19:16:07.000Z"
   }
 ]
