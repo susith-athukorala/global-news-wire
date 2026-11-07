@@ -1,5 +1,68 @@
 [
   {
+    "id": "505934f5cfdf1156",
+    "title": "Pakistani astronaut to board Shenzhou 24 and become the first foreigner on China's space station",
+    "summary": "A Pakistani astronaut will board China’s Shenzhou 24 spacecraft as the first foreign national on Beijing’s space station.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pakistani-astronaut-board-shenzhou-24-become-foreigner-chinas-137935456",
+    "publishedAt": "2026-11-07T05:03:50.000Z"
+  },
+  {
+    "id": "af090d53e51e7a34",
+    "title": "Russell Brand's convictions renew spotlight on media — and a culture — that may have looked away",
+    "summary": "Russell Brand's convictions this week for rape and sexual assault have renewed scrutiny on the BBC and other media employers that may have looked the other way.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/russell-brands-convictions-renew-spotlight-media-culture-looked-137935637",
+    "publishedAt": "2026-11-07T05:03:46.000Z"
+  },
+  {
+    "id": "75ebae57c2c7b734",
+    "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
+    "summary": "Haiti's National Police announced that alleged gang leader Mathias Saintil was killed in an exchange of gunfire.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss",
+    "publishedAt": "2026-11-07T05:02:49.000Z"
+  },
+  {
+    "id": "43435b5663bf0dc5",
+    "title": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+    "summary": "Its key temperature goal has been missed but experts say the agreement is still proving a vital moral compass for progress.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
+    "publishedAt": "2026-11-07T05:00:02.000Z"
+  },
+  {
+    "id": "ccbb949a8cd3ae54",
+    "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+    "summary": "US Treasury claims firms helped sanctioned Iranian entities and handled funds linked to alleged drug trafficking boss.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
+    "publishedAt": "2026-11-07T04:50:46.000Z"
+  },
+  {
+    "id": "fb30aca16f086ded",
+    "title": "Trump confirms new US strikes on Iran’s Qeshm Island",
+    "summary": "The US president also claims 'a lot of progress' in Washington's negotiations with Tehran.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
+    "publishedAt": "2026-11-07T03:53:01.000Z"
+  },
+  {
+    "id": "8eabaa61234fa1c6",
+    "title": "Paraguay's President Santiago Peña impeached and arrested",
+    "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+    "publishedAt": "2026-11-07T03:25:00.000Z"
+  },
+  {
     "id": "b1b19684ff094b9d",
     "title": "How the US midterm elections reflected resistance to data centres",
     "summary": "Voters rejected data centre development in all but one of the 41 measures addressing the issue in Tuesday's midterms.",
@@ -81,6 +144,24 @@
     "publishedAt": "2026-11-07T01:32:21.000Z"
   },
   {
+    "id": "0e554eb3b413bc4c",
+    "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+    "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo",
+    "publishedAt": "2026-11-07T01:27:47.000Z"
+  },
+  {
+    "id": "b6c1ddc3ab321a4d",
+    "title": "The young Somali woman changing how the world sees Mogadishu",
+    "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o",
+    "publishedAt": "2026-11-07T01:19:49.000Z"
+  },
+  {
     "id": "325e133d4c4b0f50",
     "title": "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration",
     "summary": "US voters repudiated mass deportation campaign, but choice of new chief of staff shows Trump doesn’t care.",
@@ -126,6 +207,15 @@
     "publishedAt": "2026-11-06T23:48:01.000Z"
   },
   {
+    "id": "c508d7d1e98668e7",
+    "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+    "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go",
+    "publishedAt": "2026-11-06T23:46:08.000Z"
+  },
+  {
     "id": "349660b67248f9c4",
     "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
     "summary": "TikTok's algorithm 'leading users down rabbit holes they cannot easily escape from', European Commission says.",
@@ -133,6 +223,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
     "publishedAt": "2026-11-06T23:33:28.000Z"
+  },
+  {
+    "id": "40c7b30f5722c34e",
+    "title": "With Stephen Miller pick, Trump readies for a battle",
+    "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go",
+    "publishedAt": "2026-11-06T23:24:15.000Z"
   },
   {
     "id": "15c5b359d0de93b6",
@@ -918,6 +1017,15 @@
     "publishedAt": "2026-11-06T14:52:43.000Z"
   },
   {
+    "id": "ffc3bbb2a33a27a0",
+    "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+    "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o",
+    "publishedAt": "2026-11-06T14:46:03.000Z"
+  },
+  {
     "id": "0d29a1e6bf62e67a",
     "title": "Somalia’s top court rules president’s term extension is unlawful, deepening power struggle",
     "summary": "Somalia’s power struggle has deepened after its Supreme Court ruled that the president’s term had expired and ordered elections within 90 days.",
@@ -1240,113 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/6/city-of-immigrants-who-is-nithya-raman-the-los-angeles-mayor-elect?traffic_source=rss",
     "publishedAt": "2026-11-06T12:41:24.000Z"
-  },
-  {
-    "id": "a4e5b28d6d5a36a5",
-    "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-    "summary": "Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxi.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
-    "publishedAt": "2026-11-06T12:38:05.000Z"
-  },
-  {
-    "id": "7dcaeed45ba7ae03",
-    "title": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
-    "summary": "YouGov survey finds support for tree planting and emissions taxes but opposition to air travel and fuel levies.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll",
-    "publishedAt": "2026-11-06T12:27:54.000Z"
-  },
-  {
-    "id": "01a983ad74dfe18e",
-    "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
-    "summary": "A judge has blocked construction of Trump's arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day after stocks plunged.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
-    "publishedAt": "2026-11-06T12:24:52.000Z"
-  },
-  {
-    "id": "892ca67ba388e904",
-    "title": "Dream ticket? Super-rich can sleep pretty with Singapore Airlines ‘largest double bed in the sky’",
-    "summary": "Cabin upgrade comes as airlines compete for wealthy customers in race to the top of luxury travel.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/06/dream-ticket-super-rich-singapore-airlines-largest-double-bed",
-    "publishedAt": "2026-11-06T12:24:05.000Z"
-  },
-  {
-    "id": "c417a1193268f5a6",
-    "title": "Leader of Kenyan doomsday cult sentenced to 200 years in prison",
-    "summary": "The leader of a Kenyan doomsday cult linked to the deaths of hundreds of people has been sentenced to 200 years in prison for the murders of 191 people.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/leader-kenyan-doomsday-cult-sentenced-200-years-prison-137905380",
-    "publishedAt": "2026-11-06T12:11:18.000Z"
-  },
-  {
-    "id": "c591cb6001ec90c8",
-    "title": "South Africa's ruling ANC faces huge decline in support, early election results show",
-    "summary": "South Africa's African National Congress faces a significant decline in voter support, according to interim results from local elections held this week.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/south-africas-ruling-anc-faces-huge-decline-voter-137904438",
-    "publishedAt": "2026-11-06T12:10:21.000Z"
-  },
-  {
-    "id": "8f4594a291c87828",
-    "title": "Olympic champion Imane Khelif to make professional boxing debut in December",
-    "summary": "The Algerian has not fought since winning gold at Paris 2024, where she was embroiled in a gender row.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/6/olympic-champion-imane-khelif-to-make-professional-boxing-debut-in-december?traffic_source=rss",
-    "publishedAt": "2026-11-06T12:04:52.000Z"
-  },
-  {
-    "id": "b5aaee699351f602",
-    "title": "Weeks before rape conviction, Russell Brand was featured speaker for Maha group allied with RFK Jr",
-    "summary": "Brand has been supported by Tony Lyons, who runs Maha Action, and has appeared on stage with Mehmet Oz.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-russell-brand-maha-rfk-jr-mehmet-oz",
-    "publishedAt": "2026-11-06T12:00:42.000Z"
-  },
-  {
-    "id": "4cd028ae08205b24",
-    "title": "‘An abomination’: Idaho hunters earned thousands of dollars to kill newborn wolf pups, records reveal",
-    "summary": "Wildlife advocates incensed as documents show state paid out $2,000 per kill in effort to shrink state’s wolf population.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/06/idaho-hunters-newborn-wolf-pups",
-    "publishedAt": "2026-11-06T12:00:42.000Z"
-  },
-  {
-    "id": "7fda1dbd7e2317cd",
-    "title": "Measles, mumps and misinformation: how Crunchy Moms became ‘the most dangerous’ group on Facebook",
-    "summary": "Meta says it removes content that could cause imminent physical harm – but nearly half a million members have joined a group that regularly promotes misinformation.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/06/crunchy-moms-facebook-vaccines",
-    "publishedAt": "2026-11-06T12:00:41.000Z"
-  },
-  {
-    "id": "74f04d3c699186f3",
-    "title": "First Thing: Global tech stocks wobble over AI regulation fears after midterms",
-    "summary": "Anticipation that Democrats’ ‘blue wave’ will lead to tighter rules on AI and datacenters sends tech stock plunging. Plus a big eight-legged surprise for customs officials in Peru.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/06/first-thing-tech-stocks-ai-regulation-midterms",
-    "publishedAt": "2026-11-06T11:59:46.000Z"
-  },
-  {
-    "id": "ba28d702a132846f",
-    "title": "‘We are here’: Kurdish club Amedspor shakes up Turkish football",
-    "summary": "The Diyarbakir-based club have risen from the third tier to a top-of-the-table clash in the Turkish Super Lig.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/6/we-are-here-kurdish-club-amedspor-shakes-up-turkish-football?traffic_source=rss",
-    "publishedAt": "2026-11-06T11:59:40.000Z"
   }
 ]
