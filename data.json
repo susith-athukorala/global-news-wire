@@ -1,5 +1,14 @@
 [
   {
+    "id": "a83a2dd8bffd9da8",
+    "title": "Cruise ship pianist rescued after nine hours treading water miles from shore",
+    "summary": "Man taken to hospital after falling off Royal Caribbean ship in Pacific Ocean, with Coast Guard investigating incident.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/08/royal-caribbean-cruise-ship-pianist-rescue",
+    "publishedAt": "2026-11-08T20:13:09.000Z"
+  },
+  {
     "id": "2bffef7e27e98c7f",
     "title": "Small plane crashes into pickup truck on busy Florida highway",
     "summary": "No one was injured after emergency landing in Fort Myers 50 minutes after takeoff with two people onboard.",
@@ -1125,6 +1134,15 @@
     "publishedAt": "2026-11-08T02:17:59.000Z"
   },
   {
+    "id": "4c2774c555db7cf3",
+    "title": "The life of 'Russian starvation and torture' Ukrainians finally escaped",
+    "summary": "In Russian-controlled Oleshky, Ukrainians say they were forcibly starved and tortured before an evacuation mission allowed them to flee.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-08/life-inside-ukraines-oleshky-before-evacuation/107348714",
+    "publishedAt": "2026-11-08T02:17:44.000Z"
+  },
+  {
     "id": "40305320732219ba",
     "title": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
     "summary": "El Hierro asks Spanish government for help after more than 3,300 people arrived on boats since start of November.",
@@ -1330,23 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
     "publishedAt": "2026-11-07T19:42:46.000Z"
-  },
-  {
-    "id": "aba971b4563c4298",
-    "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to form government",
-    "summary": "Israel's president has chosen Gadi Eisenkot, Benjamin Netanyahu's strongest rival, to try to form a new ​government following a deadlocked election.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-08/israel-president-prime-minister-government-picked-eisenkot/107360472",
-    "publishedAt": "2026-11-07T19:41:50.000Z"
-  },
-  {
-    "id": "e2b9797fcd1b568b",
-    "title": "How did AIPAC-backed candidates fare in the US midterm elections?",
-    "summary": "Many candidates the pro-Israel group backed still won, but most of the money it spent went to candidates who lost.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/how-did-aipac-backed-candidates-fare-in-the-us-midterm-elections?traffic_source=rss",
-    "publishedAt": "2026-11-07T19:29:06.000Z"
   }
 ]
