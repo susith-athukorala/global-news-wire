@@ -1,5 +1,77 @@
 [
   {
+    "id": "6e418a27982b5df9",
+    "title": "Nasa seeks next generation of astronauts to live and work on the moon",
+    "summary": "Applications due on 3 December for new generation of explorers who can ‘shape humanity’s future in space’",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open",
+    "publishedAt": "2026-11-08T16:54:44.000Z"
+  },
+  {
+    "id": "525373ac9a1d9ef6",
+    "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+    "summary": "Bailiffs reportedly seized digital records before court case over alleged intellectual property breaches on Land Rover Defender.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
+    "publishedAt": "2026-11-08T16:50:58.000Z"
+  },
+  {
+    "id": "746756c1e33d7b4d",
+    "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+    "summary": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\".",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+    "publishedAt": "2026-11-08T16:46:15.000Z"
+  },
+  {
+    "id": "ff406199a7cc3594",
+    "title": "Collision of two trains in Egypt kills at least four",
+    "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+    "publishedAt": "2026-11-08T16:38:57.000Z"
+  },
+  {
+    "id": "b86be7e2ad5c6b20",
+    "title": "Met Office issues weather warning as UK conditions create ‘perfect recipe’ for fog",
+    "summary": "Travel may be disrupted until Monday morning in areas including most of southern England and across Midlands.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/08/met-office-weather-warning-uk-fog",
+    "publishedAt": "2026-11-08T16:38:16.000Z"
+  },
+  {
+    "id": "4963a03c586926a2",
+    "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
+    "summary": "The passenger train was travelling from Egypt's capital to Aswan in the south when it derailed, overturning carriages.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
+    "publishedAt": "2026-11-08T16:37:20.000Z"
+  },
+  {
+    "id": "e91fcdf33345d06e",
+    "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+    "summary": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+    "publishedAt": "2026-11-08T16:30:16.000Z"
+  },
+  {
+    "id": "c3a7d0e6f874f256",
+    "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
+    "summary": "Abed Abou Shhadeh says his detention was part of Israel's political measures 'to intimidate Arab society as a whole'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
+    "publishedAt": "2026-11-08T16:18:09.000Z"
+  },
+  {
     "id": "8a0b52f12eda188a",
     "title": "South Africa's ANC is humbled by its worst election results as it continues its decline",
     "summary": "South Africa’s African National Congress is party facing its worst election results ever.",
@@ -52,6 +124,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
     "publishedAt": "2026-11-08T15:07:15.000Z"
+  },
+  {
+    "id": "2dc896e1dc649324",
+    "title": "US employers keep passing rising healthcare costs to workers. There are better options",
+    "summary": "Choosing a healthcare plan can be extremely complicated, but it’s necessary to attract and retain good workers.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/08/employer-healthcare-plans",
+    "publishedAt": "2026-11-08T15:00:43.000Z"
   },
   {
     "id": "34c6cb4164db9271",
@@ -187,6 +268,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/08/second-world-war-veterans-outnumber-former-pms-for-possible-last-time-on-remembrance-sunday",
     "publishedAt": "2026-11-08T13:05:13.000Z"
+  },
+  {
+    "id": "59f54aa8ec8aa2af",
+    "title": "how a UK firm is spearheading growth in trade of US fracked ethane",
+    "summary": "Ineos is driving exports with potentially far-reaching environmental and social repercussions.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/08/ineos-fracking-us",
+    "publishedAt": "2026-11-08T13:00:41.000Z"
   },
   {
     "id": "36ec768f78375c69",
@@ -756,6 +846,15 @@
     "publishedAt": "2026-11-08T02:34:19.000Z"
   },
   {
+    "id": "bf565a693b0b6151",
+    "title": "Pope Leo urges faithful in Uruguay to build bridges of fraternity and faith",
+    "summary": "Pope Leo XIV has urged an estimated 40,000 people in Uruguay to build bridges of fraternity and faith.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096",
+    "publishedAt": "2026-11-08T02:34:04.000Z"
+  },
+  {
     "id": "02a329785f52c08d",
     "title": "US launches task force to disrupt Iran’s land-based supply routes",
     "summary": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.",
@@ -1249,104 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children",
     "publishedAt": "2026-11-07T15:00:13.000Z"
-  },
-  {
-    "id": "98b8fe164d544b24",
-    "title": "No clear winner after tight New Zealand general election",
-    "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
-    "publishedAt": "2026-11-07T15:00:10.000Z"
-  },
-  {
-    "id": "3f054a34cb05abc1",
-    "title": "A promising new medicine against heart disease fails unexpectedly",
-    "summary": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
-    "publishedAt": "2026-11-07T14:50:00.000Z"
-  },
-  {
-    "id": "053daca12a9c4c2f",
-    "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
-    "summary": "Iraqi foreign minister tells Al Jazeera that Baghdad is investigating attacks on the Gulf launched from its territory.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
-    "publishedAt": "2026-11-07T14:24:48.000Z"
-  },
-  {
-    "id": "b348eade91a26c93",
-    "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
-    "summary": "Tech companies like the idea, as they largely eliminate community opposition, and could cut down on utility costs.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
-    "publishedAt": "2026-11-07T14:00:14.000Z"
-  },
-  {
-    "id": "d848c86be31a2065",
-    "title": "Thunderstruck: what does the future hold for lightning?",
-    "summary": "Humans have always been awed by the power and beauty of lightning. How does the experience and understanding of it change in a warming world?",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia",
-    "publishedAt": "2026-11-07T14:00:13.000Z"
-  },
-  {
-    "id": "022e329a512042ed",
-    "title": "Standing in the way of slop bowls: the woman blocking food delivery robots",
-    "summary": "Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
-    "publishedAt": "2026-11-07T14:00:12.000Z"
-  },
-  {
-    "id": "c3fa526b390c65e7",
-    "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
-    "summary": "Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
-    "publishedAt": "2026-11-07T13:50:15.000Z"
-  },
-  {
-    "id": "e5980b093e3f1e00",
-    "title": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
-    "summary": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
-    "publishedAt": "2026-11-07T13:48:18.000Z"
-  },
-  {
-    "id": "64ce7cad7701e0ee",
-    "title": "‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon",
-    "summary": "The hard-left leader has transformed into a real contender in next year presidential elections.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss",
-    "publishedAt": "2026-11-07T13:35:46.000Z"
-  },
-  {
-    "id": "93c9406c2b3916f9",
-    "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
-    "summary": "A region once offering refuge becomes increasingly dangerous, as 50 people are killed in a single attack.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
-    "publishedAt": "2026-11-07T13:24:41.000Z"
-  },
-  {
-    "id": "213870ee0ec8c650",
-    "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
-    "summary": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
-    "publishedAt": "2026-11-07T13:07:23.000Z"
   }
 ]
