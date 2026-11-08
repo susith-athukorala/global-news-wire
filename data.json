@@ -1,5 +1,14 @@
 [
   {
+    "id": "b1be3b5762d7b093",
+    "title": "Trump asks UFC chief Dana White to be White House press secretary",
+    "summary": "Ultimate Fighting Championship CEO says he will meet with the US president on Monday to discuss the offer.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
+    "publishedAt": "2026-11-08T03:12:44.000Z"
+  },
+  {
     "id": "b454e695ed8cfd35",
     "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
     "summary": "Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minority.",
@@ -295,6 +304,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
     "publishedAt": "2026-11-07T17:48:29.000Z"
+  },
+  {
+    "id": "d2de6027aa6c803f",
+    "title": "A Trump dynasty now seems unlikely but it'd be dangerous to write him off",
+    "summary": "Americans exposed the limits of Donald Trump's electoral power and weakened his grip on the Republican Party. But the Democratic landslide in the midterm elections does not spell the end of MAGA nor guarantee a lasting political realignment.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-08/us-midterms-election-end-of-trump-democrats-republicans-gop/107354404",
+    "publishedAt": "2026-11-07T17:45:00.000Z"
   },
   {
     "id": "d74c8db696ea1ece",
@@ -1330,23 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/powerful-haitian-gang-reaches-state-disarmament-group-gunfights-137932356",
     "publishedAt": "2026-11-07T01:32:21.000Z"
-  },
-  {
-    "id": "0e554eb3b413bc4c",
-    "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-    "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo",
-    "publishedAt": "2026-11-07T01:27:47.000Z"
-  },
-  {
-    "id": "b6c1ddc3ab321a4d",
-    "title": "The young Somali woman changing how the world sees Mogadishu",
-    "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o",
-    "publishedAt": "2026-11-07T01:19:49.000Z"
   }
 ]
