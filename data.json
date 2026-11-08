@@ -1,5 +1,68 @@
 [
   {
+    "id": "f34bf47aa06d6951",
+    "title": "Second world war veterans outnumber former PMs for possible last time on Remembrance Sunday",
+    "summary": "Andy Burnham takes part for first time alongside eight ex-premiers as 12 veterans participate in ceremony.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/08/second-world-war-veterans-outnumber-former-pms-for-possible-last-time-on-remembrance-sunday",
+    "publishedAt": "2026-11-08T13:05:13.000Z"
+  },
+  {
+    "id": "36ec768f78375c69",
+    "title": "‘We feel the love’: Epstein survivors overwhelmed by messages of support at pop-up art exhibition",
+    "summary": "Visitors to a touring show drawing attention to Epstein’s crimes have left thousands of ‘powerful’ notes – and survivors say it means a great deal.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/08/jeffrey-epstein-survivors-exhibition",
+    "publishedAt": "2026-11-08T13:00:41.000Z"
+  },
+  {
+    "id": "f34c68ba918b6132",
+    "title": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
+    "summary": "Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continues.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
+    "publishedAt": "2026-11-08T13:00:40.000Z"
+  },
+  {
+    "id": "78e746cd2202d601",
+    "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
+    "summary": "'Terrorism' investigation launched after government officials say suspect likely influenced by far-right ideology.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
+    "publishedAt": "2026-11-08T12:40:12.000Z"
+  },
+  {
+    "id": "b3823dfce331a133",
+    "title": "Dormice 'thrive' at National Trust site",
+    "summary": "Killerton National Trust has 100 nest boxes across its estate in Devon.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c50meerl8xp1o",
+    "publishedAt": "2026-11-08T12:22:05.000Z"
+  },
+  {
+    "id": "bf3a8cb6e847047e",
+    "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+    "summary": "About 850,000 people lose power after Russian attacks on energy infrastructure in Ukraine's Dnipropetrovsk and Kharkiv.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
+    "publishedAt": "2026-11-08T12:20:17.000Z"
+  },
+  {
+    "id": "ab89a4227735d530",
+    "title": "South Africa’s ANC suffers setback in local elections",
+    "summary": "With 99 percent of votes counted, President Cyril Ramaphosa's party wins 31 percent nationally.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
+    "publishedAt": "2026-11-08T12:19:14.000Z"
+  },
+  {
     "id": "ea522c95309640e9",
     "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box",
     "summary": "Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI.",
@@ -1285,68 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
     "publishedAt": "2026-11-07T11:50:21.000Z"
-  },
-  {
-    "id": "713da849e40e66b2",
-    "title": "What to know about the hoax bomb threats that targeted flights in Europe",
-    "summary": "Dozens of flights across Europe have been targeted by bomb threats this week, causing diversions and emergency landings.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/hoax-bomb-threats-targeted-flights-europe-137937700",
-    "publishedAt": "2026-11-07T11:45:07.000Z"
-  },
-  {
-    "id": "68c329ec9278bb64",
-    "title": "Italy's Meloni blames pro-Russian hackers for leak of foreign minister's data on the dark web",
-    "summary": "Italian Foreign Minister Antonio Tajani says his personal data has been leaked on the dark web, exposing him to threats and intimidation.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/italys-meloni-blames-pro-russian-hackers-leak-foreign-137937793",
-    "publishedAt": "2026-11-07T11:45:05.000Z"
-  },
-  {
-    "id": "e4cfd3af25b8d581",
-    "title": "Rains flood thousands of displaced families’ tents in Gaza",
-    "summary": "Civil Defence says it received 1,500 distress calls in 10 hours as a storm swept through displacement camps.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
-    "publishedAt": "2026-11-07T11:10:02.000Z"
-  },
-  {
-    "id": "b8f1fb73a01c8685",
-    "title": "‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke",
-    "summary": "Santiago Peña’s links to Ueno Bank scrutinized after crisis led to his house arrest and froze millions of bank accounts.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena",
-    "publishedAt": "2026-11-07T11:00:10.000Z"
-  },
-  {
-    "id": "85076b37274a9b3f",
-    "title": "Job cuts, lost customers and a £22bn debt pile: what has gone wrong at Virgin Media O2?",
-    "summary": "The company has lost 182,000 broadband and 644,000 mobile customers in two years and is operating in an increasingly competitive market competition.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/07/job-cuts-lost-customers-and-a-22bn-debt-pile-what-has-gone-wrong-at-virgin-media-o2",
-    "publishedAt": "2026-11-07T11:00:09.000Z"
-  },
-  {
-    "id": "08cc2b9e5bf27be2",
-    "title": "Trump may have lost but don’t bet Democrats can fix the economy",
-    "summary": "There’s not much they can do over the next couple of years to alleviate angry voters’ stress over prices.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
-    "publishedAt": "2026-11-07T11:00:08.000Z"
-  },
-  {
-    "id": "eb3a4198ef59ab29",
-    "title": "India beat New Zealand by four runs via DLS in rain-hit second ODI",
-    "summary": "Put in to bat, New Zealand struggled to gain any momentum as ⁠India's pace attack dismantled their batting lineup.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs?traffic_source=rss",
-    "publishedAt": "2026-11-07T10:50:54.000Z"
   }
 ]
