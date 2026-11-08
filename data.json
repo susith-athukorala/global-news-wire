@@ -1,5 +1,68 @@
 [
   {
+    "id": "7820803256f98500",
+    "title": "2 trains crash in Egypt; 2 dead, more than 100 injured",
+    "summary": "Egypt's railway system has a history of mismanagement and poor maintenance.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/collision-2-trains-egypt-kills-7-injures-100-137955543",
+    "publishedAt": "2026-11-08T19:11:26.000Z"
+  },
+  {
+    "id": "5e7bd0492205c5bd",
+    "title": "Turkey and Azerbaijan deny speculation of fraying relationship",
+    "summary": "The Turkish and Azerbaijani presidents have reaffirmed the countries’ close ties following speculation of souring relations.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/turkey-azerbaijan-deny-speculation-fraying-relationship-137956081",
+    "publishedAt": "2026-11-08T18:57:19.000Z"
+  },
+  {
+    "id": "6df01a1e5a4c916b",
+    "title": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates",
+    "summary": "Syria is preparing to send fighters to Saudi Arabia to support its escalating conflict with rebels in neighboring Yemen.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/saudi-arabia-turns-syria-fighting-houthis-escalates-137956922",
+    "publishedAt": "2026-11-08T18:56:47.000Z"
+  },
+  {
+    "id": "6afe169ee149250b",
+    "title": "Paramedic sustains multiple injuries in hospital assault",
+    "summary": "The NI Ambulance Service said the paramedic sustained injuries to the back of her head, neck, face, and hands during the incident.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv0487qpj3o",
+    "publishedAt": "2026-11-08T18:44:52.000Z"
+  },
+  {
+    "id": "8a3ed9a2297b2f21",
+    "title": "Riot breaks out at influencer boxing event attended by Tommy Robinson in Ireland",
+    "summary": "Two people arrested after Robinson’s presence inflames tensions in scenes witnessed by many on social media.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/08/riot-influencer-boxing-event-attended-tommy-robinson-ireland",
+    "publishedAt": "2026-11-08T18:33:34.000Z"
+  },
+  {
+    "id": "8867be261b84aa56",
+    "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
+    "summary": "Alcaraz bagged a 7-6 (7/5), 7-5 straight sets for an elusive Paris crown before the year-end ATP Finals.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
+    "publishedAt": "2026-11-08T18:22:58.000Z"
+  },
+  {
+    "id": "2d584e416be5d768",
+    "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
+    "summary": "Culture secretary pushes back against talk of revisiting Brexit but says closer ties would fulfil referendum promises.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
+    "publishedAt": "2026-11-08T18:20:06.000Z"
+  },
+  {
     "id": "7372e89861ee09bc",
     "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
     "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
@@ -7,6 +70,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
     "publishedAt": "2026-11-08T18:14:11.000Z"
+  },
+  {
+    "id": "1bca3ddfb03889bd",
+    "title": "Eisenkot open to Netanyahu joining Israel’s next government",
+    "summary": "Israel's president officially tasks the opposition leader with forming a new government.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
+    "publishedAt": "2026-11-08T18:12:27.000Z"
   },
   {
     "id": "0d7a934c4c193205",
@@ -945,6 +1017,15 @@
     "publishedAt": "2026-11-08T03:12:44.000Z"
   },
   {
+    "id": "396e29a664cc37fb",
+    "title": "Palestinians return to destroyed West Bank homes after IDF siege",
+    "summary": "Wael al-Jabaa's home was demolished by the IDF after two Israeli soldiers were shot dead. He didn't know until afterwards that his son was one of the gunmen.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-08/palestinians-return-to-hebron-west-bank-after-idf-siege/107354948",
+    "publishedAt": "2026-11-08T03:01:31.000Z"
+  },
+  {
     "id": "b454e695ed8cfd35",
     "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
     "summary": "Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minority.",
@@ -979,6 +1060,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
     "publishedAt": "2026-11-08T02:34:04.000Z"
+  },
+  {
+    "id": "51af74d6082014d6",
+    "title": "The father and son farmers who sent a message to Donald Trump",
+    "summary": "Fred Levendofsky and his son Nick have worked the land in rural Kansas for over half a century and were fervent backers of Donald Trump, but not any more.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-08/us-midterms-the-kansas-farmers-who-turned-on-trump/107358824",
+    "publishedAt": "2026-11-08T02:17:59.000Z"
   },
   {
     "id": "40305320732219ba",
@@ -1258,95 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb",
     "publishedAt": "2026-11-07T19:00:19.000Z"
-  },
-  {
-    "id": "08ca84292909920a",
-    "title": "Paraguay’s ousted president charged over banking scandal",
-    "summary": "Santiago Pena was impeached over the collapse of Ueno Bank, which left millions unable to access their accounts.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
-    "publishedAt": "2026-11-07T18:35:15.000Z"
-  },
-  {
-    "id": "ced386c4c770a475",
-    "title": "US offers $20m reward for information about Iran's nuclear programme",
-    "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo",
-    "publishedAt": "2026-11-07T18:14:38.000Z"
-  },
-  {
-    "id": "c8b62b99b72a6498",
-    "title": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
-    "summary": "Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
-    "publishedAt": "2026-11-07T18:00:21.000Z"
-  },
-  {
-    "id": "9a2c320844063b22",
-    "title": "What we know about Krakow mass shooting so far",
-    "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
-    "publishedAt": "2026-11-07T17:48:29.000Z"
-  },
-  {
-    "id": "d2de6027aa6c803f",
-    "title": "A Trump dynasty now seems unlikely but it'd be dangerous to write him off",
-    "summary": "Americans exposed the limits of Donald Trump's electoral power and weakened his grip on the Republican Party. But the Democratic landslide in the midterm elections does not spell the end of MAGA nor guarantee a lasting political realignment.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-08/us-midterms-election-end-of-trump-democrats-republicans-gop/107354404",
-    "publishedAt": "2026-11-07T17:45:00.000Z"
-  },
-  {
-    "id": "d74c8db696ea1ece",
-    "title": "Ousted Paraguayan president appears before prosecutors",
-    "summary": "Paraguayan President Santiago Peña was removed from office and placed on House arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
-    "publishedAt": "2026-11-07T17:14:36.000Z"
-  },
-  {
-    "id": "d3bebbaf6fce2880",
-    "title": "Houthis say at least 25 killed in Saudi air strike",
-    "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
-    "publishedAt": "2026-11-07T17:09:24.000Z"
-  },
-  {
-    "id": "5351930e6672c6a3",
-    "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
-    "summary": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
-    "publishedAt": "2026-11-07T17:00:16.000Z"
-  },
-  {
-    "id": "f50d287e94f55242",
-    "title": "Five dead after gunman opens fire ‘at random’ in Kraków market square",
-    "summary": "Reports say man fired shots from from his car in Poland’s second city before being caught while trying to flee.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-    "publishedAt": "2026-11-07T16:59:59.000Z"
-  },
-  {
-    "id": "1c084ea74f08dfc4",
-    "title": "Italian foreign minister says hackers leaked his personal data",
-    "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o",
-    "publishedAt": "2026-11-07T16:50:06.000Z"
   }
 ]
