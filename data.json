@@ -1,5 +1,23 @@
 [
   {
+    "id": "4e69f89a3a15c3c5",
+    "title": "Can the Zelda remake capture the magic of the original?",
+    "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o",
+    "publishedAt": "2026-11-08T00:37:45.000Z"
+  },
+  {
+    "id": "acbc26952a99f062",
+    "title": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
+    "summary": "Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMs.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
+    "publishedAt": "2026-11-08T00:17:28.000Z"
+  },
+  {
     "id": "a773de3f0cbd6e3d",
     "title": "Earthquake with preliminary magnitude of 5.7 strikes Japan",
     "summary": "A strong earthquake with a preliminary reading of magnitude 5.7 has struck central Japan.",
@@ -7,6 +25,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/strong-earthquake-preliminary-magnitude-57-strikes-japan-meteorological-137946690",
     "publishedAt": "2026-11-08T00:00:54.000Z"
+  },
+  {
+    "id": "b466e88afd7dcb67",
+    "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+    "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo",
+    "publishedAt": "2026-11-07T23:02:35.000Z"
   },
   {
     "id": "7010193096d34ffe",
@@ -151,6 +178,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
     "publishedAt": "2026-11-07T19:24:21.000Z"
+  },
+  {
+    "id": "5c1f7b15143d6bcb",
+    "title": "Trump offers press secretary role to UFC chief Dana White",
+    "summary": "The White House has been without a press secretary since October when Katie Zacharia left the position after less than a week on the job.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-08/dana-white-press-secretary-trump-announcement/107360444",
+    "publishedAt": "2026-11-07T19:21:27.000Z"
   },
   {
     "id": "566a74c7d2b45e77",
@@ -1312,41 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
     "publishedAt": "2026-11-06T23:48:01.000Z"
-  },
-  {
-    "id": "c508d7d1e98668e7",
-    "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-    "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go",
-    "publishedAt": "2026-11-06T23:46:08.000Z"
-  },
-  {
-    "id": "349660b67248f9c4",
-    "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
-    "summary": "TikTok's algorithm 'leading users down rabbit holes they cannot easily escape from', European Commission says.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
-    "publishedAt": "2026-11-06T23:33:28.000Z"
-  },
-  {
-    "id": "40c7b30f5722c34e",
-    "title": "With Stephen Miller pick, Trump readies for a battle",
-    "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go",
-    "publishedAt": "2026-11-06T23:24:15.000Z"
-  },
-  {
-    "id": "15c5b359d0de93b6",
-    "title": "When a single vowel stands in the path to victory, the stakes could not be higher for these spelling bee champions",
-    "summary": "Primary school students bested 200,000 competitors across New South Wales to reach the Premier’s Spelling Bee finals in Sydney.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/07/when-a-single-vowel-stands-in-the-path-to-victory-the-stakes-could-not-be-higher-for-these-spelling-bee-champions",
-    "publishedAt": "2026-11-06T23:06:10.000Z"
   }
 ]
