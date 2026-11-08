@@ -1107,6 +1107,15 @@
     "publishedAt": "2026-11-07T15:59:01.000Z"
   },
   {
+    "id": "574b51d0955a0c26",
+    "title": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
+    "summary": "Iran’s Revolutionary Guard has lifted its self-imposed limit on the range of its ballistic missiles, hinting at potential developments for longer-range capabilities.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/iran-lifted-imposed-limit-missile-ranges-mideast-news-137937910",
+    "publishedAt": "2026-11-07T15:54:14.000Z"
+  },
+  {
     "id": "f8b3a7b0e43fd74f",
     "title": "Missiles target Kyiv and wound 5 as Ukraine prepares for talks with Russia and the US",
     "summary": "Drone and missile explosions wounded at least nine people across Ukraine Saturday, as Kyiv and Moscow prepared for new talks next week with the United States.",
@@ -1339,14 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096",
     "publishedAt": "2026-11-07T12:52:22.000Z"
-  },
-  {
-    "id": "0545b1b04e570ff4",
-    "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
-    "summary": "Germany, Belgium, Netherlands, Luxembourg and Denmark say cooperation on clean energy will benefit both sides.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
-    "publishedAt": "2026-11-07T12:51:25.000Z"
   }
 ]
