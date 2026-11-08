@@ -1,5 +1,59 @@
 [
   {
+    "id": "ea522c95309640e9",
+    "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box",
+    "summary": "Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+    "publishedAt": "2026-11-08T12:05:58.000Z"
+  },
+  {
+    "id": "fcef0533ef2e4d45",
+    "title": "Healthcare, tariffs – but not Trump impeachment: Democrats chart next two years of power",
+    "summary": "Midterms success gives party potent leverage over Trump – expect tough campaigns of investigating and lawmaking.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms",
+    "publishedAt": "2026-11-08T12:00:40.000Z"
+  },
+  {
+    "id": "eea51ddb4a07560a",
+    "title": "Stimulant overdoses on the rise as opioid deaths decline, but treatment is complex",
+    "summary": "More people recognize opioid overdoses, but education about stimulant overdoses hasn’t been as clear-cut.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/08/stimulant-overdoses-rise",
+    "publishedAt": "2026-11-08T12:00:40.000Z"
+  },
+  {
+    "id": "62e73d35acc1a138",
+    "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+    "summary": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
+    "publishedAt": "2026-11-08T12:00:39.000Z"
+  },
+  {
+    "id": "36d1a006d1aab227",
+    "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
+    "summary": "Officials say suspect holds far-right views and three people found dead at his home were his parents and sister.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
+    "publishedAt": "2026-11-08T11:50:15.000Z"
+  },
+  {
+    "id": "38f02fc341d55aa2",
+    "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
+    "summary": "Israel's former military chief has been given the opportunity to form a government after an inconclusive election.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
+    "publishedAt": "2026-11-08T11:34:58.000Z"
+  },
+  {
     "id": "16a7ddba9cca64d4",
     "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
     "summary": "Delegates from more than 190 countries are gathering in Turkey for climate talks, but the US will be absent.",
@@ -846,6 +900,15 @@
     "publishedAt": "2026-11-07T15:59:01.000Z"
   },
   {
+    "id": "f8b3a7b0e43fd74f",
+    "title": "Missiles target Kyiv and wound 5 as Ukraine prepares for talks with Russia and the US",
+    "summary": "Drone and missile explosions wounded at least nine people across Ukraine Saturday, as Kyiv and Moscow prepared for new talks next week with the United States.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/missiles-target-kyiv-injure-5-ukraine-prepares-talks-137937211",
+    "publishedAt": "2026-11-07T15:46:14.000Z"
+  },
+  {
     "id": "dfb312f672dce15f",
     "title": "Iran’s IRGC says building underground sites for weapons production, storage",
     "summary": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment.",
@@ -1285,68 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs?traffic_source=rss",
     "publishedAt": "2026-11-07T10:50:54.000Z"
-  },
-  {
-    "id": "b7e1981b488467e6",
-    "title": "Sudan war and climate change see parents struggle to feed their children",
-    "summary": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
-    "publishedAt": "2026-11-07T10:36:32.000Z"
-  },
-  {
-    "id": "3892e7fe57db4e16",
-    "title": "Pakistani astronaut to join China’s next space station mission",
-    "summary": "The unnamed individual will be the first foreign national to visit China's space station as part of Shenzhou-24 mission.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss",
-    "publishedAt": "2026-11-07T10:17:53.000Z"
-  },
-  {
-    "id": "0cbf74246ec8157b",
-    "title": "Russell Brand barrister reports himself to watchdog over clash with journalist",
-    "summary": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand’s victims coming forward: ‘I hope you are pleased with yourself’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
-    "publishedAt": "2026-11-07T10:04:01.000Z"
-  },
-  {
-    "id": "aae7d52c6eaba4c2",
-    "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
-    "summary": "DataVita has revised plan for Chapelhall development to be wholly powered by 1GW of renewable energy.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
-    "publishedAt": "2026-11-07T10:00:08.000Z"
-  },
-  {
-    "id": "9496121a3a2d9951",
-    "title": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
-    "summary": "Democrats and Republicans blast promotion of ‘xenophobe’ who led administration’s immigration crackdown in wake of US midterm elections.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
-    "publishedAt": "2026-11-07T10:00:08.000Z"
-  },
-  {
-    "id": "b7ff11958707349f",
-    "title": "The datacentre arms race hits pause in south-east Asia",
-    "summary": "Power and water constraints are pressuring what seemed like a juggernaut of growth for the region just months ago.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
-    "publishedAt": "2026-11-07T10:00:07.000Z"
-  },
-  {
-    "id": "6a11415094de6fd6",
-    "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
-    "summary": "Thousands across the U.S. have gotten involved to oppose data centers. One is a Maryland woman who'd been evicted after a pay cut and became a leader of a community effort that blocked a vast project.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
-    "publishedAt": "2026-11-07T10:00:00.000Z"
   }
 ]
