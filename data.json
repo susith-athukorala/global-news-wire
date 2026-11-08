@@ -1,5 +1,95 @@
 [
   {
+    "id": "7372e89861ee09bc",
+    "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+    "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
+    "publishedAt": "2026-11-08T18:14:11.000Z"
+  },
+  {
+    "id": "0d7a934c4c193205",
+    "title": "Teaching GCSEs early risks turning schools into ‘exam factories’, education secretary warns",
+    "summary": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
+    "publishedAt": "2026-11-08T18:07:54.000Z"
+  },
+  {
+    "id": "b5c72fd278dc9e32",
+    "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
+    "summary": "Kozo Tashima believes he has a '20 to 30 percent' chance of winning the FIFA presidency election against Infantino.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
+    "publishedAt": "2026-11-08T18:01:05.000Z"
+  },
+  {
+    "id": "be3d24b8c30b16fb",
+    "title": "Climate always comes second: are green issues slipping down Burnham’s agenda?",
+    "summary": "Prime minister says he’s committed to meeting climate targets, but some believe his actions suggest otherwise.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/08/andy-burnham-uk-climate-crisis-rosebank-jackdaw",
+    "publishedAt": "2026-11-08T18:01:01.000Z"
+  },
+  {
+    "id": "16f2d02935493c67",
+    "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
+    "summary": "Trump poised to double down on immigration crackdown and refuse concessions to new Democratic majority in Congress.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+    "publishedAt": "2026-11-08T17:58:43.000Z"
+  },
+  {
+    "id": "6472930ee2a7f865",
+    "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+    "summary": "Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+    "publishedAt": "2026-11-08T17:53:59.000Z"
+  },
+  {
+    "id": "836d3453271e05d2",
+    "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
+    "summary": "Exclusive: Louise Haigh likely to weaken mandate for sales that forms key part of emission reduction plan.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
+    "publishedAt": "2026-11-08T17:51:19.000Z"
+  },
+  {
+    "id": "9b9296914dcfd566",
+    "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+    "summary": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+    "publishedAt": "2026-11-08T17:44:51.000Z"
+  },
+  {
+    "id": "4ce2acb328fdd784",
+    "title": "Half of NHS trusts in England lack funds earmarked to cover maternity leave",
+    "summary": "Physiotherapy services hit particularly hard compared with other areas of healthcare such as nursing.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave",
+    "publishedAt": "2026-11-08T17:42:39.000Z"
+  },
+  {
+    "id": "fcafcaba90ec12f1",
+    "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+    "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo",
+    "publishedAt": "2026-11-08T17:35:13.000Z"
+  },
+  {
     "id": "6e418a27982b5df9",
     "title": "Nasa seeks next generation of astronauts to live and work on the moon",
     "summary": "Applications due on 3 December for new generation of explorers who can ‘shape humanity’s future in space’",
@@ -7,6 +97,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open",
     "publishedAt": "2026-11-08T16:54:44.000Z"
+  },
+  {
+    "id": "62e2d11719ecee4a",
+    "title": "Fan hospitalised after falling through stand at Norwegian football match",
+    "summary": "A stand in the away end of Tromso's stadium gave way during a match against Bodo/Glimt, causing fans to fall through.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/8/fan-hospitalised-after-falling-through-stand-at-norwegian-football-match?traffic_source=rss",
+    "publishedAt": "2026-11-08T16:53:03.000Z"
   },
   {
     "id": "525373ac9a1d9ef6",
@@ -162,6 +261,15 @@
     "publishedAt": "2026-11-08T14:49:16.000Z"
   },
   {
+    "id": "a5b6c69c23f23c8b",
+    "title": "Homes and temples glow across India to mark Diwali",
+    "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro",
+    "publishedAt": "2026-11-08T14:42:09.000Z"
+  },
+  {
     "id": "977cd91cbb8ecd75",
     "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
     "summary": "Philippine tennis star Eala stunned after 6-3, 6-0 loss to the 102nd-ranked American in Hong Kong.",
@@ -205,6 +313,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/society/2026/nov/08/new-drug-high-blood-pressure-baxdrostat",
     "publishedAt": "2026-11-08T13:53:41.000Z"
+  },
+  {
+    "id": "5cad03092e6fd08c",
+    "title": "Iran executes three men for 'armed unrest' after January protests",
+    "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo",
+    "publishedAt": "2026-11-08T13:37:50.000Z"
   },
   {
     "id": "42939d3dc97103b7",
@@ -873,6 +990,15 @@
     "publishedAt": "2026-11-08T01:37:55.000Z"
   },
   {
+    "id": "e5980b093e3f1e00",
+    "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+    "summary": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+    "publishedAt": "2026-11-08T01:00:48.000Z"
+  },
+  {
     "id": "683feabe3b7a31c5",
     "title": "The Trump coalition is shattered - what will Republicans do now?",
     "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
@@ -1222,131 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o",
     "publishedAt": "2026-11-07T16:50:06.000Z"
-  },
-  {
-    "id": "9b1e87c4ad717509",
-    "title": "At least five killed in shooting at Krakow's main square",
-    "summary": "About a dozen other people have been injured after the shooting in Poland's second largest city.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-08/five-killed-in-krakow/107360360",
-    "publishedAt": "2026-11-07T16:35:40.000Z"
-  },
-  {
-    "id": "56d20b78c2b29579",
-    "title": "Guatemalan lawmaker and three police officers killed in armed attack",
-    "summary": "It happened in a region of the country known to have drug trafficking activity.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
-    "publishedAt": "2026-11-07T16:15:18.000Z"
-  },
-  {
-    "id": "0ba1e9bed96e85e6",
-    "title": "Paraguay's former president faces prosecutors after his removal over bank collapse",
-    "summary": "Paraguay's former President Santiago Pe&ntilde;a has been taken to the attorney general’s office for questioning.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/paraguays-former-president-faces-prosecutors-after-removal-bank-137941605",
-    "publishedAt": "2026-11-07T15:59:01.000Z"
-  },
-  {
-    "id": "574b51d0955a0c26",
-    "title": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
-    "summary": "Iran’s Revolutionary Guard has lifted its self-imposed limit on the range of its ballistic missiles, hinting at potential developments for longer-range capabilities.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/iran-lifted-imposed-limit-missile-ranges-mideast-news-137937910",
-    "publishedAt": "2026-11-07T15:54:14.000Z"
-  },
-  {
-    "id": "f8b3a7b0e43fd74f",
-    "title": "Missiles target Kyiv and wound 5 as Ukraine prepares for talks with Russia and the US",
-    "summary": "Drone and missile explosions wounded at least nine people across Ukraine Saturday, as Kyiv and Moscow prepared for new talks next week with the United States.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/missiles-target-kyiv-injure-5-ukraine-prepares-talks-137937211",
-    "publishedAt": "2026-11-07T15:46:14.000Z"
-  },
-  {
-    "id": "dfb312f672dce15f",
-    "title": "Iran’s IRGC says building underground sites for weapons production, storage",
-    "summary": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
-    "publishedAt": "2026-11-07T15:34:58.000Z"
-  },
-  {
-    "id": "0545b1b04e570ff4",
-    "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
-    "summary": "Germany, Belgium, Netherlands, Luxembourg and Denmark say cooperation on clean energy will benefit both sides.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
-    "publishedAt": "2026-11-07T15:30:35.000Z"
-  },
-  {
-    "id": "fa7aa10fa4edfe0b",
-    "title": "Casualties reported after shooting in Poland’s Krakow",
-    "summary": "Polish Prime Minister Donald Tusk says police are investigating after 'tragic shooting' in second-largest city.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
-    "publishedAt": "2026-11-07T15:22:55.000Z"
-  },
-  {
-    "id": "499afa3031dd39d7",
-    "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-    "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo",
-    "publishedAt": "2026-11-07T15:19:35.000Z"
-  },
-  {
-    "id": "1e8aa65b185318ce",
-    "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
-    "summary": "Hardline aide offers ‘unwavering commitment’ to president amid fears White House will double down on far-right immigration agenda.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
-    "publishedAt": "2026-11-07T15:15:11.000Z"
-  },
-  {
-    "id": "d9a5742fea3d12cd",
-    "title": "National Trust votes to seek banking partner more in tune with its environment policies",
-    "summary": "Charity’s AGM decided overwhelmingly to begin a tendering process amid criticism of current bank Barclays fossil fuel investments.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies",
-    "publishedAt": "2026-11-07T15:06:59.000Z"
-  },
-  {
-    "id": "306d8dfa440ca4bc",
-    "title": "Vetting candidates is a tricky process but Reform can’t seem to get it right",
-    "summary": "Charges against party members and off-piste remarks highlight problems brought about by rapid expansion.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle",
-    "publishedAt": "2026-11-07T15:00:14.000Z"
-  },
-  {
-    "id": "ead47727fd918b02",
-    "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
-    "summary": "Democratic socialists won the mayorship, a US House seat and powerful positions in Los Angeles – and a large network of volunteers helped them do it.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
-    "publishedAt": "2026-11-07T15:00:14.000Z"
-  },
-  {
-    "id": "d165bac607c247b7",
-    "title": "‘Life-changing’: parents welcome £10m UK play centre for disabled children",
-    "summary": "Gympanzees near Bristol will be the first UK site of its type, catering for children unable to use regular playgrounds.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children",
-    "publishedAt": "2026-11-07T15:00:13.000Z"
   }
 ]
