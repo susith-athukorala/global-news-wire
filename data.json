@@ -1,5 +1,50 @@
 [
   {
+    "id": "8a0b52f12eda188a",
+    "title": "South Africa's ANC is humbled by its worst election results as it continues its decline",
+    "summary": "South Africa’s African National Congress is party facing its worst election results ever.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/south-africas-anc-humbled-worst-election-results-continues-137955443",
+    "publishedAt": "2026-11-08T16:05:32.000Z"
+  },
+  {
+    "id": "6ac10f6dc4053d92",
+    "title": "‘No matter what, he doesn’t quit’: disabled wrestlers draw strength from ring alter egos",
+    "summary": "Scheme in Derry aims to sow confidence by getting people with learning and physical disabilities into wrestling.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/08/disabled-wrestlers-derry-foyle-rumble",
+    "publishedAt": "2026-11-08T15:37:54.000Z"
+  },
+  {
+    "id": "a587e0d9cf053546",
+    "title": "At least 21 dead after boat carrying migrants sinks off Senegal coast, interior ministry says",
+    "summary": "At least 21 people died after a boat carrying migrants sank off Senegal's coast, according to the country's interior ministry.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/21-dead-after-boat-carrying-migrants-sinks-off-137954425",
+    "publishedAt": "2026-11-08T15:37:28.000Z"
+  },
+  {
+    "id": "ebb96ac494708a8d",
+    "title": "Tens of thousands march in Amsterdam, pressing the Dutch government on Gaza and Israel",
+    "summary": "Tens of thousands of people, many dressed in red, have marched through Amsterdam, demanding the Dutch government take stronger action against Israel over Gaza.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/tens-thousands-march-amsterdam-pressing-dutch-government-gaza-137954786",
+    "publishedAt": "2026-11-08T15:37:21.000Z"
+  },
+  {
+    "id": "c2da0adf15d53536",
+    "title": "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans",
+    "summary": "Teammates choke back tears, fans chant his name and his family are promised support by the club at the memorial service.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss",
+    "publishedAt": "2026-11-08T15:37:16.000Z"
+  },
+  {
     "id": "ee39245ad7510060",
     "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
     "summary": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
@@ -1134,6 +1179,15 @@
     "publishedAt": "2026-11-07T15:34:58.000Z"
   },
   {
+    "id": "0545b1b04e570ff4",
+    "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
+    "summary": "Germany, Belgium, Netherlands, Luxembourg and Denmark say cooperation on clean energy will benefit both sides.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
+    "publishedAt": "2026-11-07T15:30:35.000Z"
+  },
+  {
     "id": "fa7aa10fa4edfe0b",
     "title": "Casualties reported after shooting in Poland’s Krakow",
     "summary": "Polish Prime Minister Donald Tusk says police are investigating after 'tragic shooting' in second-largest city.",
@@ -1294,59 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
     "publishedAt": "2026-11-07T13:07:23.000Z"
-  },
-  {
-    "id": "393e0d6d578ae99a",
-    "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-    "summary": "Moscow used 172 drones and 36 ballistic missiles in attacks on electricity substations and bridge over the Dnipro.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-    "publishedAt": "2026-11-07T13:03:03.000Z"
-  },
-  {
-    "id": "d5b05a550a346b22",
-    "title": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
-    "summary": "Architect of Trump’s far-right immigration agenda is now most powerful unelected figure in government – it suggests White House is moving to a war footing.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
-    "publishedAt": "2026-11-07T13:00:12.000Z"
-  },
-  {
-    "id": "395b7d483495f88d",
-    "title": "Court rules against Home Office in asylum seeker kidnapping case",
-    "summary": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in Libya.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
-    "publishedAt": "2026-11-07T13:00:11.000Z"
-  },
-  {
-    "id": "8d7f163f4709d765",
-    "title": "Great British Railways: new dawn for a new network but with plenty of old problems to fix",
-    "summary": "Experts predict a baptism of fire for GBR in 2027, with likely issues ranging from clapped-out trains and track to extreme weather-related stress.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/07/great-british-railways-new-dawn-for-a-new-network-but-with-plenty-of-old-problems-to-fix",
-    "publishedAt": "2026-11-07T13:00:11.000Z"
-  },
-  {
-    "id": "b5a767279afc23b6",
-    "title": "‘Mind-blowing’: dark-sky fans gather on Exmoor to see what light pollution hides",
-    "summary": "The UK is 14th most light-polluted country, but in south-west England the veil is lifted at the dark skies festival.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/07/dark-skies-festival-exmoor-light-pollution",
-    "publishedAt": "2026-11-07T13:00:11.000Z"
-  },
-  {
-    "id": "bf565a693b0b6151",
-    "title": "Thousands pour into a park in Uruguay for Pope Leo's first Mass in South America",
-    "summary": "Thousands of people from Uruguay and neighboring Argentina and Brazil are pouring into a city on the Uruguay River for Pope Leo XIV’s first Mass on the continent.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096",
-    "publishedAt": "2026-11-07T12:52:22.000Z"
   }
 ]
