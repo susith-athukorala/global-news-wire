@@ -369,6 +369,15 @@
     "publishedAt": "2026-11-07T19:21:27.000Z"
   },
   {
+    "id": "8eabaa61234fa1c6",
+    "title": "Paraguay's former president charged after bank collapse",
+    "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+    "publishedAt": "2026-11-07T19:17:22.000Z"
+  },
+  {
     "id": "566a74c7d2b45e77",
     "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
     "summary": "Civilians bear the brunt of fighting as 27 people reported killed in strikes on a village in Sanaa province.",
@@ -1339,14 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/pakistani-astronaut-board-shenzhou-24-become-foreigner-chinas-137935456",
     "publishedAt": "2026-11-07T05:03:50.000Z"
-  },
-  {
-    "id": "af090d53e51e7a34",
-    "title": "Russell Brand's convictions renew spotlight on media — and a culture — that may have looked away",
-    "summary": "Russell Brand's convictions this week for rape and sexual assault have renewed scrutiny on the BBC and other media employers that may have looked the other way.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/russell-brands-convictions-renew-spotlight-media-culture-looked-137935637",
-    "publishedAt": "2026-11-07T05:03:46.000Z"
   }
 ]
