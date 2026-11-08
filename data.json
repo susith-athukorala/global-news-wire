@@ -1,5 +1,41 @@
 [
   {
+    "id": "f22d837c2d1d7f6e",
+    "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
+    "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+    "publishedAt": "2026-11-08T08:00:36.000Z"
+  },
+  {
+    "id": "ae36fa156211797a",
+    "title": "From the overblown to the ordinary? Met Gala 2027 to celebrate ‘poetics of everyday’",
+    "summary": "Event regarded as Oscars of fashion industry replaces John Galliano retrospective with homage to the ‘extra ordinary’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/nov/08/met-gala-2027-theme-poetics-everyday",
+    "publishedAt": "2026-11-08T08:00:36.000Z"
+  },
+  {
+    "id": "60c37a136312b0ac",
+    "title": "Reintroduction of white-tailed eagles puts seabird colonies at risk of wipeout, say experts",
+    "summary": "Naturalists divided over potential impact of proposals to increase number of wild raptors in England and Wales.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/08/reintroduction-white-tailed-eagles-seabird-colonies-risk-england-wales",
+    "publishedAt": "2026-11-08T08:00:35.000Z"
+  },
+  {
+    "id": "00485656fad72f94",
+    "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
+    "summary": "The interceptions come as the Houthis report 33 people killed in a coalition air attack on a village near Sanaa.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+    "publishedAt": "2026-11-08T07:40:07.000Z"
+  },
+  {
     "id": "b4c24fa453190eb0",
     "title": "Countryside managers prepare for climate change",
     "summary": "North Pennines National Landscape's plan includes restoring peatland and wildfire preparedness.",
@@ -1312,41 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja?traffic_source=rss",
     "publishedAt": "2026-11-07T05:46:54.000Z"
-  },
-  {
-    "id": "9ddb6a0e2f99b122",
-    "title": "President Herzog faces key choice as Israel struggles to form government",
-    "summary": "Eisenkot's bloc and Arab-led parties seek to oust Netanyahu, but failure to form government could leave him in power.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss",
-    "publishedAt": "2026-11-07T05:16:18.000Z"
-  },
-  {
-    "id": "edebd58d56dc5525",
-    "title": "Russia launches missile attack on Kyiv, injuring residents",
-    "summary": "Air strikes damage buildings and injure two civilians after Zelenskyy warns of potential for new attacks.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
-    "publishedAt": "2026-11-07T05:11:03.000Z"
-  },
-  {
-    "id": "99fe473442ff7cdc",
-    "title": "US senator with Australian ties now a presidential frontrunner",
-    "summary": "The polling booths have barely been packed down after the US midterms, but Washington is already looking ahead to the presidential election.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-07/us-senator-jon-ossoff-democrats-presidential-campaign/107359376",
-    "publishedAt": "2026-11-07T05:08:23.000Z"
-  },
-  {
-    "id": "505934f5cfdf1156",
-    "title": "Pakistani astronaut to board Shenzhou 24 and become the first foreigner on China's space station",
-    "summary": "A Pakistani astronaut will board China’s Shenzhou 24 spacecraft as the first foreign national on Beijing’s space station.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pakistani-astronaut-board-shenzhou-24-become-foreigner-chinas-137935456",
-    "publishedAt": "2026-11-07T05:03:50.000Z"
   }
 ]
