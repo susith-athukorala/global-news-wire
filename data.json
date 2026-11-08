@@ -1,5 +1,50 @@
 [
   {
+    "id": "203b1895ec72ce35",
+    "title": "Strong earthquake rocks central Japan, injuring at least 22",
+    "summary": "People are being warned about possible strong quakes, especially in the next two to three days, after the magnitude-5.7 earthquake.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-08/japan-earthquake-aichi-prefecture-at-least-22-injured/107361392",
+    "publishedAt": "2026-11-08T10:10:25.000Z"
+  },
+  {
+    "id": "ea49f5f961b234fc",
+    "title": "Bus overturns on a highway in Croatia, killing at least 2 people and injuring scores",
+    "summary": "Croatian police say that at least two people were killed and several were injured when a bus overturned on a highway.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/bus-overturns-highway-croatia-killing-2-people-injuring-137951051",
+    "publishedAt": "2026-11-08T09:45:32.000Z"
+  },
+  {
+    "id": "c7bd76bbcbef2113",
+    "title": "Poles mourn rare mass killing as authorities say attacker had far-right views",
+    "summary": "Poland is in mourning after a 24-year-old man with far-right views drove into a busy square in Krakow and opened fire, killing six people and wounding 15.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/poles-mourn-rare-mass-killing-authorities-attacker-views-137951140",
+    "publishedAt": "2026-11-08T09:45:30.000Z"
+  },
+  {
+    "id": "00b21f280e618730",
+    "title": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
+    "summary": "Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
+    "publishedAt": "2026-11-08T09:30:17.000Z"
+  },
+  {
+    "id": "e792cabafcd55674",
+    "title": "Floods in Gaza leave tens of thousands without shelter",
+    "summary": "Civil Defence reports over 1,500 emergency calls as thousands of tents and shelters destroyed after heavy rains.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
+    "publishedAt": "2026-11-08T09:28:52.000Z"
+  },
+  {
     "id": "e6bd58eb73ec25e4",
     "title": "'Cancer treatment plummeted me into menopause'",
     "summary": "Women are calling for more support to deal with menopause caused by their cancer treatment.",
@@ -7,6 +52,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckr5y8ze8me7o",
     "publishedAt": "2026-11-08T09:17:32.000Z"
+  },
+  {
+    "id": "9f3d6f681de3cb7e",
+    "title": "Former Palestinian detainees at mercy of Israel amid perpetual detention",
+    "summary": "Former Palestinian detainees in the West Bank are being repeatedly detained by Israeli forces, affecting their families.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/8/former-palestinian-detainees-at-mercy-of-israel-amid-perpetual-detention?traffic_source=rss",
+    "publishedAt": "2026-11-08T09:09:59.000Z"
   },
   {
     "id": "86bf698b14c48f09",
@@ -25,6 +79,33 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/08/psychiatrists-paediatricians-extreme-specialist-fees-health-australia",
     "publishedAt": "2026-11-08T09:00:35.000Z"
+  },
+  {
+    "id": "24ab0c4cf2450335",
+    "title": "Rent-a-grandchild: Businesses offering companions to elderly grow in India",
+    "summary": "A small but growing number of firms selling what families once took for granted: someone to take care of the seniors.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/rent-a-grandchild-businesses-offering-companions-to-elderly-grow-in-india?traffic_source=rss",
+    "publishedAt": "2026-11-08T08:57:49.000Z"
+  },
+  {
+    "id": "d2339a9ab1036f64",
+    "title": "Khawaja denies throwing ‘anyone under the bus’ over Sandpapergate scandal",
+    "summary": "Australian cricketer defends waiting so long to place blame, denying it was a marketing ploy to sell his book.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/8/khawaja-denies-throwing-anyone-under-the-bus-over-sandpapergate-scandal?traffic_source=rss",
+    "publishedAt": "2026-11-08T08:57:45.000Z"
+  },
+  {
+    "id": "2f5a90ec5b8274e8",
+    "title": "‘Don’t bring your camera’: Filmmakers face extortion in Lagos",
+    "summary": "Filmmakers and journalists say threats on Lagos streets is making it harder to tell the city’s stories.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/dont-bring-your-camera-filmmakers-face-extortion-in-lagos?traffic_source=rss",
+    "publishedAt": "2026-11-08T08:56:04.000Z"
   },
   {
     "id": "4524229b75c3e1a7",
@@ -1267,86 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo",
     "publishedAt": "2026-11-07T07:14:33.000Z"
-  },
-  {
-    "id": "9cab5458405d1a85",
-    "title": "WTA apologises to Pegula for broadcast of ‘diva’ comment about Andreeva",
-    "summary": "Pegula's conversation with her coach on a practice court at Indian Wells was broadcast on a WTA YouTube livestream.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/7/jessica-pegula-mirra-andreeva-diva-comment-wta-finals-tennis?traffic_source=rss",
-    "publishedAt": "2026-11-07T07:09:12.000Z"
-  },
-  {
-    "id": "19c8ee7bb3b05fa3",
-    "title": "Can AI really save you money on your heating bill? I spent two years testing to find out",
-    "summary": "Samuel Gibbs doubted he could cut costs and still keep warm by putting tech in control. The results surprised him.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill",
-    "publishedAt": "2026-11-07T07:00:07.000Z"
-  },
-  {
-    "id": "9d164e2c0cb76398",
-    "title": "Early release prisoners facing street homelessness, probation staff warn",
-    "summary": "Charities say situation exposes ‘fatal flaw’ in Andy Burnham’s plan to end rough sleeping in England by Christmas.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/07/early-release-prisoners-street-homelessness-england",
-    "publishedAt": "2026-11-07T07:00:06.000Z"
-  },
-  {
-    "id": "f2806492f5b08d05",
-    "title": "Nationwide launches savings account with ‘market leading’ 5.3% interest",
-    "summary": "Many experts think fixed rate on 30-month term will still look good after Bank of England raised base rate.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/07/nationwide-savings-account-market-leading-interest-rate",
-    "publishedAt": "2026-11-07T07:00:05.000Z"
-  },
-  {
-    "id": "6da1f10b9d2e06df",
-    "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
-    "summary": "Trump still considering new assault on Iran nuclear sites – though threats less credible after Vance remarks.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
-    "publishedAt": "2026-11-07T07:00:04.000Z"
-  },
-  {
-    "id": "0aa5af0a7322bae6",
-    "title": "‘Super-force’ plans a real threat to local policing, English mayors say",
-    "summary": "Regional leaders criticise Met chief’s call for merging of 43 forces into eight or 10, saying it runs counter to devolution drive.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/07/super-force-plans-england-wales-threaten-local-policing-mayors",
-    "publishedAt": "2026-11-07T07:00:04.000Z"
-  },
-  {
-    "id": "0a129b345ce4685b",
-    "title": "Reform UK councillor promoted collapsed $1.9bn ‘Ponzi scheme’ HyperVerse that left victims suicidal",
-    "summary": "Susan Lawrence, elected to Wolverhampton city council, sits on committee overseeing financial reporting of multimillion-pound budget.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/07/reform-uk-councillor-promoted-alleged-ponzi-scheme-hyperverse",
-    "publishedAt": "2026-11-07T07:00:04.000Z"
-  },
-  {
-    "id": "10e7e2890df4013d",
-    "title": "Pope in 'pretty good health' as he starts Latin America tour",
-    "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo",
-    "publishedAt": "2026-11-07T06:59:48.000Z"
-  },
-  {
-    "id": "dbbc1985fb548903",
-    "title": "Beachcombers in Morocco hunt for hidden treasure",
-    "summary": "For many, the search is driven less by profit than by the thrill of an unexpected discovery.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss",
-    "publishedAt": "2026-11-07T06:47:45.000Z"
   }
 ]
