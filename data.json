@@ -1,5 +1,32 @@
 [
   {
+    "id": "08249d244a8316d2",
+    "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+    "summary": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurence.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+    "publishedAt": "2026-11-08T06:00:33.000Z"
+  },
+  {
+    "id": "34815c49b17bec47",
+    "title": "Environmentalists criticise choice of Earthshot prize venue owned by fossil fuel firm",
+    "summary": "Mumbai facility is part of Reliance Industries, owner of world’s biggest oil refinery and funder of controversial mega-zoo.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai",
+    "publishedAt": "2026-11-08T06:00:33.000Z"
+  },
+  {
+    "id": "e9a8c9b611343465",
+    "title": "Does Andy Burnham’s pivot from press to social media put scrutiny at risk?",
+    "summary": "A lifestyle podcast or brief TV clip is less taxing than a full press conference – but No 10 insists the PM is not ducking accountability.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/08/andy-burnham-social-media-traditional-media-scrutiny-at-risk",
+    "publishedAt": "2026-11-08T06:00:32.000Z"
+  },
+  {
     "id": "14ea1f816d292445",
     "title": "Ukraine’s new frontier: how space has become critical to balance of the war",
     "summary": "In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own space capabilities.",
@@ -7,6 +34,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink",
     "publishedAt": "2026-11-08T05:00:30.000Z"
+  },
+  {
+    "id": "ee3d9f8f96e5668c",
+    "title": "Drone attack on Colombian army base kills three soldiers and wounds 16",
+    "summary": "Colombian President de la Espriella says those behind the attack in Santa Rosa del Sur will have ‘nowhere to hide’.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss",
+    "publishedAt": "2026-11-08T04:56:37.000Z"
   },
   {
     "id": "40a90b2b46a88128",
@@ -1134,6 +1170,15 @@
     "publishedAt": "2026-11-07T06:20:27.000Z"
   },
   {
+    "id": "a18c897b89c67853",
+    "title": "PM Luxon says 'National is once again the largest party in parliament'",
+    "summary": "A tight election result looms in New Zealand as polls show both major parties may struggle to form a government without support.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-07/nz-election-2026-live-blog/107355448",
+    "publishedAt": "2026-11-07T06:01:27.000Z"
+  },
+  {
     "id": "1b4ca2b7082bdb41",
     "title": "Writer Nick Harkaway expands his father John le Carré's spyverse in new thriller 'The Taper Man'",
     "summary": "Fictional spymaster George Smiley is back in \"The Taper Man,\" a new thriller set in the world of John le Carr&eacute; and written by his son, Nick Harkaway.",
@@ -1303,50 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
     "publishedAt": "2026-11-07T03:07:01.000Z"
-  },
-  {
-    "id": "11ee188ff13928a6",
-    "title": "Diwali celebrations coincide with worsening air. Here’s how to stay safer",
-    "summary": "For people across South Asia, especially in northern India, Diwali celebrations coincide with the return of hazardous winter air, raising concerns about how to celebrate safely.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/diwali-celebrations-coincide-worsening-air-heres-stay-safer-137933383",
-    "publishedAt": "2026-11-07T03:05:25.000Z"
-  },
-  {
-    "id": "11487214155090fa",
-    "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
-    "summary": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo",
-    "publishedAt": "2026-11-07T02:03:28.000Z"
-  },
-  {
-    "id": "d94247d11890a812",
-    "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
-    "summary": "Santiago Peña was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bank.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
-    "publishedAt": "2026-11-07T01:55:11.000Z"
-  },
-  {
-    "id": "47b292ea47d69b0e",
-    "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
-    "summary": "Children and teenagers make up almost 60 percent of confirmed cases.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
-    "publishedAt": "2026-11-07T01:55:03.000Z"
-  },
-  {
-    "id": "ef7c2ba006ff9d66",
-    "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
-    "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o",
-    "publishedAt": "2026-11-07T01:41:36.000Z"
   }
 ]
