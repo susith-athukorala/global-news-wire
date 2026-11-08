@@ -1,5 +1,41 @@
 [
   {
+    "id": "2bffef7e27e98c7f",
+    "title": "Small plane crashes into pickup truck on busy Florida highway",
+    "summary": "No one was injured after emergency landing in Fort Myers 50 minutes after takeoff with two people onboard.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway",
+    "publishedAt": "2026-11-08T19:29:05.000Z"
+  },
+  {
+    "id": "1891a2a8cc9491f7",
+    "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+    "summary": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+    "publishedAt": "2026-11-08T19:25:30.000Z"
+  },
+  {
+    "id": "535a53195e6f678f",
+    "title": "Man United earn 4-4 draw against Aston Villa but remain in relegation zone",
+    "summary": "Michael Carrick's team continue forgettable season with last-gasp draw at Old Trafford in front of angry home fans.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss",
+    "publishedAt": "2026-11-08T19:15:36.000Z"
+  },
+  {
+    "id": "1f59cd90d506c4f5",
+    "title": "Hakeem Jeffries supports impeachment of Pete Hegseth: ‘He has got to go’",
+    "summary": "House Democrat is a ‘hard yes’ on impeachment resolution against defense secretary who ‘has abused his power’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries",
+    "publishedAt": "2026-11-08T19:11:33.000Z"
+  },
+  {
     "id": "7820803256f98500",
     "title": "2 trains crash in Egypt; 2 dead, more than 100 injured",
     "summary": "Egypt's railway system has a history of mismanagement and poor maintenance.",
@@ -16,6 +52,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/turkey-azerbaijan-deny-speculation-fraying-relationship-137956081",
     "publishedAt": "2026-11-08T18:57:19.000Z"
+  },
+  {
+    "id": "6eb4463698810bbc",
+    "title": "Sudan’s military again detains International Criminal Court fugitive Haroun, lawyers say",
+    "summary": "Sudan’s military authorities have once again detained Ahmed Haroun, a former senior Islamist official wanted by the International Criminal Court for atrocities in Darfur.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/sudans-military-detains-international-criminal-court-fugitive-haroun-137956175",
+    "publishedAt": "2026-11-08T18:57:07.000Z"
   },
   {
     "id": "6df01a1e5a4c916b",
@@ -1008,6 +1053,15 @@
     "publishedAt": "2026-11-08T04:20:57.000Z"
   },
   {
+    "id": "d3bebbaf6fce2880",
+    "title": "Houthis say at least 33 killed in Saudi air strike",
+    "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
+    "publishedAt": "2026-11-08T04:03:12.000Z"
+  },
+  {
     "id": "b1be3b5762d7b093",
     "title": "Trump asks UFC chief Dana White to be White House press secretary",
     "summary": "Ultimate Fighting Championship CEO says he will meet with the US president on Monday to discuss the offer.",
@@ -1078,6 +1132,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
     "publishedAt": "2026-11-08T01:37:55.000Z"
+  },
+  {
+    "id": "fd9a11fbc0cef707",
+    "title": "Explosions in Strait of Hormuz as Iran reviews de-escalation proposals",
+    "summary": "Explosions are heard on Iran's Qeshm Island in the Strait of Hormuz, and tankers in the strategic waterway catch fire after hitting mines. Meanwhile, Iran says it has lifted a 2,000km limit on the range of its missiles.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730",
+    "publishedAt": "2026-11-08T01:07:51.000Z"
   },
   {
     "id": "e5980b093e3f1e00",
@@ -1285,68 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/7/how-did-aipac-backed-candidates-fare-in-the-us-midterm-elections?traffic_source=rss",
     "publishedAt": "2026-11-07T19:29:06.000Z"
-  },
-  {
-    "id": "dd26487adcea92a8",
-    "title": "Malaysian king warns against defying house arrest order for ex-PM Najib",
-    "summary": "Attorney general postponed Najib Razak’s transfer from jail after court cleared him for house arrest on Friday.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
-    "publishedAt": "2026-11-07T19:24:21.000Z"
-  },
-  {
-    "id": "5c1f7b15143d6bcb",
-    "title": "Trump offers press secretary role to UFC chief Dana White",
-    "summary": "The White House has been without a press secretary since October when Katie Zacharia left the position after less than a week on the job.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-08/dana-white-press-secretary-trump-announcement/107360444",
-    "publishedAt": "2026-11-07T19:21:27.000Z"
-  },
-  {
-    "id": "8eabaa61234fa1c6",
-    "title": "Paraguay's former president charged after bank collapse",
-    "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
-    "publishedAt": "2026-11-07T19:17:22.000Z"
-  },
-  {
-    "id": "566a74c7d2b45e77",
-    "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
-    "summary": "Civilians bear the brunt of fighting as 27 people reported killed in strikes on a village in Sanaa province.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
-    "publishedAt": "2026-11-07T19:06:31.000Z"
-  },
-  {
-    "id": "b8f1fb73a01c8685",
-    "title": "‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke",
-    "summary": "Santiago Peña charged over alleged role in crisis as prosecutors request he be placed in preventive custody.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena",
-    "publishedAt": "2026-11-07T19:00:43.000Z"
-  },
-  {
-    "id": "fcc57baef9eb643a",
-    "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
-    "summary": "Ahead of Cop31, climate change minister dismisses concerns about whether Australia as a major producer can keep the world moving away from fossil fuels.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
-    "publishedAt": "2026-11-07T19:00:20.000Z"
-  },
-  {
-    "id": "85f5a1252208f85f",
-    "title": "A Big Build royal commission helped Ben Carroll become premier. Will it be his downfall?",
-    "summary": "Two weeks of public hearings will begin on Monday morning, right in the middle of the state election campaign.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb",
-    "publishedAt": "2026-11-07T19:00:19.000Z"
   }
 ]
