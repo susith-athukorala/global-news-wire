@@ -1,5 +1,77 @@
 [
   {
+    "id": "b4c24fa453190eb0",
+    "title": "Countryside managers prepare for climate change",
+    "summary": "North Pennines National Landscape's plan includes restoring peatland and wildfire preparedness.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo",
+    "publishedAt": "2026-11-08T07:16:55.000Z"
+  },
+  {
+    "id": "350bcda2063a9bba",
+    "title": "Traders 'priced out' of £12,000 Christmas market pitches",
+    "summary": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o",
+    "publishedAt": "2026-11-08T07:11:02.000Z"
+  },
+  {
+    "id": "5e71cbc7397da4ca",
+    "title": "Hundreds of seagrass shoots found in estuary",
+    "summary": "There were fears a restoration trial may not succeed when only six seedlings had emerged in April.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wvx3r9rgeo",
+    "publishedAt": "2026-11-08T07:06:13.000Z"
+  },
+  {
+    "id": "ebdfed9765ee11bc",
+    "title": "New Zealanders won't know for weeks who won the election as neither side secures clear victory",
+    "summary": "New Zealanders face weeks of uncertainty after Saturday's election, with no clear winner emerging.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/new-zealanders-weeks-won-election-side-secures-clear-137950485",
+    "publishedAt": "2026-11-08T07:01:48.000Z"
+  },
+  {
+    "id": "f7c9615409fb2cf4",
+    "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+    "summary": "Farmers face big drop in production from extreme weather during this year’s super El Niño event.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+    "publishedAt": "2026-11-08T07:00:34.000Z"
+  },
+  {
+    "id": "2a2d18a832ec5ac5",
+    "title": "Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality",
+    "summary": "President claimed to have ushered in a ‘golden age’ even as prices soared and war dragged on – and midterm voters did not buy his looking-glass narrative.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
+    "publishedAt": "2026-11-08T07:00:34.000Z"
+  },
+  {
+    "id": "2928381dcd52ca51",
+    "title": "‘Windrush’ accusations over sharp rise in Turkish nationals facing removal from UK",
+    "summary": "David Lammy among those raising concerns after errors found in rejected applications for indefinite leave to remain.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush",
+    "publishedAt": "2026-11-08T07:00:33.000Z"
+  },
+  {
+    "id": "fe1449a8c77735a2",
+    "title": "‘Free grand piano’: the scam playing on music lovers’ heartstrings",
+    "summary": "Emails claim to come from a woman whose husband has died – but the offer isn’t what it seems.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/08/free-grand-piano-scam-emails",
+    "publishedAt": "2026-11-08T07:00:33.000Z"
+  },
+  {
     "id": "08249d244a8316d2",
     "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
     "summary": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurence.",
@@ -1276,77 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/russell-brands-convictions-renew-spotlight-media-culture-looked-137935637",
     "publishedAt": "2026-11-07T05:03:46.000Z"
-  },
-  {
-    "id": "75ebae57c2c7b734",
-    "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
-    "summary": "Haiti's National Police announced that alleged gang leader Mathias Saintil was killed in an exchange of gunfire.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss",
-    "publishedAt": "2026-11-07T05:02:49.000Z"
-  },
-  {
-    "id": "43435b5663bf0dc5",
-    "title": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
-    "summary": "Its key temperature goal has been missed but experts say the agreement is still proving a vital moral compass for progress.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
-    "publishedAt": "2026-11-07T05:00:02.000Z"
-  },
-  {
-    "id": "ccbb949a8cd3ae54",
-    "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
-    "summary": "US Treasury claims firms helped sanctioned Iranian entities and handled funds linked to alleged drug trafficking boss.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
-    "publishedAt": "2026-11-07T04:50:46.000Z"
-  },
-  {
-    "id": "fb30aca16f086ded",
-    "title": "Trump confirms new US strikes on Iran’s Qeshm Island",
-    "summary": "The US president also claims 'a lot of progress' in Washington's negotiations with Tehran.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
-    "publishedAt": "2026-11-07T03:53:01.000Z"
-  },
-  {
-    "id": "a998b7a654712219",
-    "title": "US offers $29m reward for details on Iran's nuclear program",
-    "summary": "A US State Department program, Rewards for Justice, \"is offering a $US20 million reward — and possible relocation — for information on Iran's nuclear program\".",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-07/us-20-million-rewards-for-justice-iran-nuclear-program-details/107359156",
-    "publishedAt": "2026-11-07T03:27:57.000Z"
-  },
-  {
-    "id": "8eabaa61234fa1c6",
-    "title": "Paraguay's President Santiago Peña impeached and arrested",
-    "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
-    "publishedAt": "2026-11-07T03:25:00.000Z"
-  },
-  {
-    "id": "b1b19684ff094b9d",
-    "title": "How the US midterm elections reflected resistance to data centres",
-    "summary": "Voters rejected data centre development in all but one of the 41 measures addressing the issue in Tuesday's midterms.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss",
-    "publishedAt": "2026-11-07T03:22:41.000Z"
-  },
-  {
-    "id": "8acdf42e10a9061d",
-    "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
-    "summary": "The president’s announcement comes days after an earlier attack on Iran was made public, and as diplomatic efforts to end the conflict have accelerated.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
-    "publishedAt": "2026-11-07T03:07:01.000Z"
   }
 ]
