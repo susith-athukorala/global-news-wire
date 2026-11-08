@@ -1,5 +1,113 @@
 [
   {
+    "id": "16a7ddba9cca64d4",
+    "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
+    "summary": "Delegates from more than 190 countries are gathering in Turkey for climate talks, but the US will be absent.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
+    "publishedAt": "2026-11-08T11:00:38.000Z"
+  },
+  {
+    "id": "45adcca1814e3f35",
+    "title": "How the story of ‘the girl of 100 portraits’ inspired two books",
+    "summary": "Luc Corlouër made ‘deal’ with Prix Goncourt winner Philippe Jaenada over his research into model Louise Cansot, murdered in Paris in 1949.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer",
+    "publishedAt": "2026-11-08T11:00:38.000Z"
+  },
+  {
+    "id": "ea1a27e2ae390347",
+    "title": "Mother of Royal Navy sailor missing for 40 years calls for suspected killer to confess",
+    "summary": "Margaret Parkes and her husband, in their 80s, want Allan Grimson to reveal location of their son Simon’s remains.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/08/simon-parkes-navy-sailor-mother-allan-grimson-suspected-killer",
+    "publishedAt": "2026-11-08T11:00:37.000Z"
+  },
+  {
+    "id": "b98e4d731ba42869",
+    "title": "Who’s who at Cop31: key players at the climate talks",
+    "summary": "What are the relationships and dominant interests in play, as the summit kicks off after a bitter row over its hosting?",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
+    "publishedAt": "2026-11-08T11:00:16.000Z"
+  },
+  {
+    "id": "ef0d23167a4bf82d",
+    "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
+    "summary": "El Niño rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
+    "publishedAt": "2026-11-08T11:00:00.000Z"
+  },
+  {
+    "id": "ab5c1d3078a8af72",
+    "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+    "summary": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+    "publishedAt": "2026-11-08T11:00:00.000Z"
+  },
+  {
+    "id": "5548e8ea06b1cf2a",
+    "title": "In Maine, a new approach to practicing medicine in the sky",
+    "summary": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+    "publishedAt": "2026-11-08T11:00:00.000Z"
+  },
+  {
+    "id": "f13ba5065619108a",
+    "title": "Messi becomes first player to win back-to-back MLS Golden Boot awards",
+    "summary": "The Argentinian scored 26 goals in regular season, topping the charts and leading Inter Miami to the MLS Cup playoffs.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/8/messi-becomes-first-player-to-win-back-to-back-mls-golden-boot-awards?traffic_source=rss",
+    "publishedAt": "2026-11-08T10:50:12.000Z"
+  },
+  {
+    "id": "b87fc3d96a2dfda2",
+    "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+    "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro",
+    "publishedAt": "2026-11-08T10:44:42.000Z"
+  },
+  {
+    "id": "b89965fa465ad3df",
+    "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Milei's Argentina",
+    "summary": "Pope Leo XIV is wrapping up his visit to Uruguay by marking an important Catholic feast day that is tied to the country’s independence.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-wraps-uruguay-visit-heads-fraught-stop-tour-137951348",
+    "publishedAt": "2026-11-08T10:43:49.000Z"
+  },
+  {
+    "id": "a49b52ce8806a01b",
+    "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
+    "summary": "Saudi Arabia has intercepted missiles targeting its capital, with debris damaging an Aramco building in Riyadh.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951443",
+    "publishedAt": "2026-11-08T10:43:48.000Z"
+  },
+  {
+    "id": "ae001d577457fd00",
+    "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
+    "summary": "A Russian drone has struck emergency workers on rescue missions in southern Ukraine.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536",
+    "publishedAt": "2026-11-08T10:43:45.000Z"
+  },
+  {
     "id": "203b1895ec72ce35",
     "title": "Strong earthquake rocks central Japan, injuring at least 22",
     "summary": "People are being warned about possible strong quakes, especially in the next two to three days, after the magnitude-5.7 earthquake.",
@@ -7,6 +115,15 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-08/japan-earthquake-aichi-prefecture-at-least-22-injured/107361392",
     "publishedAt": "2026-11-08T10:10:25.000Z"
+  },
+  {
+    "id": "5a87954010aefc75",
+    "title": "Tennis world number one Rybakina withdraws from WTA Finals due to virus",
+    "summary": "Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine's Marta Kostyuk replacing the top seed.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss",
+    "publishedAt": "2026-11-08T10:03:21.000Z"
   },
   {
     "id": "ea49f5f961b234fc",
@@ -1231,122 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
     "publishedAt": "2026-11-07T10:00:00.000Z"
-  },
-  {
-    "id": "ab2a133b041786fa",
-    "title": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins",
-    "summary": "Palestinian citizens of Israel say Arab parties' success in recent elections has led to growing pressure.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins?traffic_source=rss",
-    "publishedAt": "2026-11-07T09:48:11.000Z"
-  },
-  {
-    "id": "f8b3a7b0e43fd74f",
-    "title": "Missiles target Kyiv and wound 5 as Ukraine prepares for talks with Russia and the US",
-    "summary": "Missile explosions have struck Kyiv, wounding at least five people, as Ukraine prepares for new talks with Russia and the United States.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/missiles-target-kyiv-injure-5-ukraine-prepares-talks-137937211",
-    "publishedAt": "2026-11-07T09:42:17.000Z"
-  },
-  {
-    "id": "febb07c67c85d948",
-    "title": "US Senator Abdul El-Sayed launches ‘Habibi’ political action committee",
-    "summary": "The first Muslim senator's new committee will let him raise money for other candidates.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss",
-    "publishedAt": "2026-11-07T09:18:53.000Z"
-  },
-  {
-    "id": "0cfedc38f47aeb83",
-    "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-    "summary": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-    "publishedAt": "2026-11-07T09:15:35.000Z"
-  },
-  {
-    "id": "44d1c1e684bb0c50",
-    "title": "TikTok accused of helping to promote sex industry to girls",
-    "summary": "Researchers say popular performers covertly market OnlyFans content and tell followers about wealthy lifestyle.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans",
-    "publishedAt": "2026-11-07T09:00:07.000Z"
-  },
-  {
-    "id": "ff0eea51cee92d7b",
-    "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-    "summary": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
-    "publishedAt": "2026-11-07T08:45:36.000Z"
-  },
-  {
-    "id": "7c06efd2f1016d2d",
-    "title": "Texas mayor instructs police to limit co-operation with ICE",
-    "summary": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro",
-    "publishedAt": "2026-11-07T08:15:55.000Z"
-  },
-  {
-    "id": "69ae258ef1c01055",
-    "title": "Doncic’s 53 points lift Lakers as Cavs top Sixers in LeBron James’s return",
-    "summary": "LA Lakers star Doncic closed the first half with an astonishing shot from well beyond the half-court line.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/7/doncic-lakers-lebron-cavaliers-sixers-nba-cup-basketball?traffic_source=rss",
-    "publishedAt": "2026-11-07T08:10:01.000Z"
-  },
-  {
-    "id": "14e3424ce5f60d24",
-    "title": "Infantino caught in the web as tide turns against Trump in midterms and leaves Fifa exposed | Barney Ronay",
-    "summary": "Trump Exposed Reactor Core Syndrome very much in play after Democrat landslide – and Fifa’s president may pay a price.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/football/2026/nov/07/gianni-infantino-fifa-donald-trump-democrats-republicans",
-    "publishedAt": "2026-11-07T08:00:05.000Z"
-  },
-  {
-    "id": "eaf6ea934fff544c",
-    "title": "Houston mayor curbs cooperation of US city’s police with ICE",
-    "summary": "People stopped for minor traffic violations will no longer be referred to US Immigration and Customs Enforcement.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/houston-mayor-curbs-cooperation-of-us-citys-police-with-ice?traffic_source=rss",
-    "publishedAt": "2026-11-07T07:50:16.000Z"
-  },
-  {
-    "id": "62b19fec0330215f",
-    "title": "Period products 'essential not optional'",
-    "summary": "Matt Tyrer is working on a scheme which will ensure access to free sanitary towels or tampons.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8r4y9rgqprzo",
-    "publishedAt": "2026-11-07T07:48:42.000Z"
-  },
-  {
-    "id": "eb9c0aa63f11dfa0",
-    "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-    "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo",
-    "publishedAt": "2026-11-07T07:27:44.000Z"
-  },
-  {
-    "id": "af59daf2e14ab34b",
-    "title": "New Forest wildfire restoration work begins",
-    "summary": "Work begins to restore nature to part of the New Forest destroyed by a summer wildfire.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo",
-    "publishedAt": "2026-11-07T07:14:33.000Z"
   }
 ]
