@@ -1,5 +1,32 @@
 [
   {
+    "id": "726014e340807cc5",
+    "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
+    "summary": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
+    "publishedAt": "2026-11-08T22:04:13.000Z"
+  },
+  {
+    "id": "862c8b614e8ffa6e",
+    "title": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
+    "summary": "A new permanent exhibition at Paris' Musee d'Orsay showcases works of art suspected to have been looted by Nazis during the Second World War in France. Experts are trying to find the true owners or their descendants.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis",
+    "publishedAt": "2026-11-08T22:04:09.000Z"
+  },
+  {
+    "id": "e2eccdfac70eca01",
+    "title": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
+    "summary": "Footscray man charged over death of 47-year-old Jianming Feng rider in the CBD on Friday night.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
+    "publishedAt": "2026-11-08T22:03:59.000Z"
+  },
+  {
     "id": "fdf2d10328740e06",
     "title": "‘Seismic shift’: Native American women made significant gains in US midterms",
     "summary": "Nationwide, voters elected at least 75 Native women or non-binary candidates in Tuesday’s elections, report says.",
@@ -439,6 +466,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro",
     "publishedAt": "2026-11-08T14:42:09.000Z"
+  },
+  {
+    "id": "c58085b689f6dfcf",
+    "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+    "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+    "publishedAt": "2026-11-08T14:26:14.000Z"
   },
   {
     "id": "977cd91cbb8ecd75",
@@ -1312,41 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling",
     "publishedAt": "2026-11-07T22:12:06.000Z"
-  },
-  {
-    "id": "0b923c2533a6a538",
-    "title": "There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m",
-    "summary": "The dementia treatment for children is available in the US, with funding for UK children unclear.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8046kdw56e2o",
-    "publishedAt": "2026-11-07T21:52:21.000Z"
-  },
-  {
-    "id": "931a1708ecf318b0",
-    "title": "Drone attack on a Colombian military base leaves 3 soldiers dead",
-    "summary": "A drone attack on a military base in northern Colombia killed three soldiers and injured at least 8, Colombia’s army said.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/drone-attack-colombian-military-base-leaves-3-soldiers-137945487",
-    "publishedAt": "2026-11-07T21:41:43.000Z"
-  },
-  {
-    "id": "9d7b8b214be0da42",
-    "title": "Can New Zealand's new government win over disillusioned voters?",
-    "summary": "Polling shows the mood among Kiwis is low, with faith in politics even lower - with voters deserting the main parties at the polls.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo",
-    "publishedAt": "2026-11-07T21:36:16.000Z"
-  },
-  {
-    "id": "4a32102f2942fefd",
-    "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
-    "summary": "President Isaac Herzog formally assigns Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as PM.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
-    "publishedAt": "2026-11-07T20:26:58.000Z"
   }
 ]
