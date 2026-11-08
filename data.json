@@ -1,5 +1,59 @@
 [
   {
+    "id": "ee39245ad7510060",
+    "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+    "summary": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+    "publishedAt": "2026-11-08T15:07:15.000Z"
+  },
+  {
+    "id": "34c6cb4164db9271",
+    "title": "Beef industry quietly squashes part of its own science curriculum after ranchers protest",
+    "summary": "Lesson for teenagers included how cattle’s methane emissions contribute to climate crisis, but it was then scrapped.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/08/beef-industry-climate-impact-education",
+    "publishedAt": "2026-11-08T15:00:43.000Z"
+  },
+  {
+    "id": "923a79fbddc69a79",
+    "title": "‘The end of an era’: Scillonian III sets sail on final voyage from Isles of Scilly",
+    "summary": "Much-loved passenger ship has traversed Atlantic swells between islands and Cornish mainland for almost 50 years.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/08/scillonian-iii-ship-final-voyage-isles-of-scilly-penzance-cornwall",
+    "publishedAt": "2026-11-08T14:56:59.000Z"
+  },
+  {
+    "id": "08adc0b7e080cd0a",
+    "title": "Two police officers hailed as heroes for confronting Kraków gunman",
+    "summary": "Jakub Kulik critically injured and Artur Morański also wounded after actions that ‘prevented further casualties’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
+    "publishedAt": "2026-11-08T14:49:16.000Z"
+  },
+  {
+    "id": "977cd91cbb8ecd75",
+    "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
+    "summary": "Philippine tennis star Eala stunned after 6-3, 6-0 loss to the 102nd-ranked American in Hong Kong.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
+    "publishedAt": "2026-11-08T14:19:17.000Z"
+  },
+  {
+    "id": "19146669e4103eaa",
+    "title": "Tourists and locals recount fatal Krakow mass shooting that left Poland reeling",
+    "summary": "Tourists and locals alike witnessed a mass shooting in Krakow, Poland, that left six people dead and 15 wounded.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/tourists-locals-recount-fatal-krakow-mass-shooting-left-137952616",
+    "publishedAt": "2026-11-08T14:14:27.000Z"
+  },
+  {
     "id": "ded8e92bc29f9c23",
     "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
     "summary": "Analysts said the US mission is unlikely to succeed in choking off Iran's supply lines entirely.",
@@ -1294,59 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
     "publishedAt": "2026-11-07T12:51:25.000Z"
-  },
-  {
-    "id": "c51ddbc7c8033a48",
-    "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
-    "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po",
-    "publishedAt": "2026-11-07T12:49:36.000Z"
-  },
-  {
-    "id": "ec3968efb37b3141",
-    "title": "Google, Meta and TikTok sue to block California youth social media law",
-    "summary": "Google, Meta, and TikTok have sued California to block the enforcement of a state law meant to protect children from getting addicted to social media.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/07/nx-s1-6032764/google-meta-and-tiktok-sue-to-block-california-youth-social-media-law",
-    "publishedAt": "2026-11-07T12:41:13.000Z"
-  },
-  {
-    "id": "713da849e40e66b2",
-    "title": "What to know about the hoax bomb threats that targeted flights in Europe",
-    "summary": "Dozens of flights across Europe have been targeted by bomb threats this week, causing diversions and emergency landings.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/hoax-bomb-threats-targeted-flights-europe-137937700",
-    "publishedAt": "2026-11-07T12:38:16.000Z"
-  },
-  {
-    "id": "e8f61a360470e4da",
-    "title": "Airstrike kills at least 22 people near Yemen's capital, Houthi official says",
-    "summary": "Airstrikes in a town near Yemen's capital, Sanaa, have killed 22 people and wounded 30 others, mostly women and children, according to a spokesman for Yemen’s Houthi-run Health Ministry.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/airstrike-killed-22-people-yemens-capital-houthi-official-137937912",
-    "publishedAt": "2026-11-07T12:36:57.000Z"
-  },
-  {
-    "id": "574b51d0955a0c26",
-    "title": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
-    "summary": "Iran’s Revolutionary Guard says it has lifted the self-imposed limit on its ballistic missile range.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/iran-lifted-imposed-limit-missile-ranges-mideast-news-137937910",
-    "publishedAt": "2026-11-07T12:35:28.000Z"
-  },
-  {
-    "id": "65a817c2e36a90c2",
-    "title": "Two men arrested after boy injured in Gloucester sword attack",
-    "summary": "Armed police attended the scene, which led to two nearby schools going into lockdown on Friday.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
-    "publishedAt": "2026-11-07T12:32:29.000Z"
   }
 ]
