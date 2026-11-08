@@ -1,5 +1,14 @@
 [
   {
+    "id": "a773de3f0cbd6e3d",
+    "title": "Earthquake with preliminary magnitude of 5.7 strikes Japan",
+    "summary": "A strong earthquake with a preliminary reading of magnitude 5.7 has struck central Japan.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/strong-earthquake-preliminary-magnitude-57-strikes-japan-meteorological-137946690",
+    "publishedAt": "2026-11-08T00:00:54.000Z"
+  },
+  {
     "id": "7010193096d34ffe",
     "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
     "summary": "Valverde and Guler's first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.",
@@ -1339,14 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/07/when-a-single-vowel-stands-in-the-path-to-victory-the-stakes-could-not-be-higher-for-these-spelling-bee-champions",
     "publishedAt": "2026-11-06T23:06:10.000Z"
-  },
-  {
-    "id": "1428664407bc29bf",
-    "title": "US urges China to honour Busan trade deal commitments",
-    "summary": "Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China's fulfilment of commitments.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
-    "publishedAt": "2026-11-06T23:00:37.000Z"
   }
 ]
