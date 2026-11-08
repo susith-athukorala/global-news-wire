@@ -1,5 +1,41 @@
 [
   {
+    "id": "8e9064de628a2049",
+    "title": "Lopez double fires Barcelona to win at Atletico Madrid",
+    "summary": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+    "publishedAt": "2026-11-08T22:42:12.000Z"
+  },
+  {
+    "id": "11fe0cc6a5f07407",
+    "title": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
+    "summary": "£40m scheme in England aims to keep most vulnerable people well at home and avoid unnecessary hospital stays.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
+    "publishedAt": "2026-11-08T22:30:51.000Z"
+  },
+  {
+    "id": "ff453408c68646ab",
+    "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
+    "summary": "Pope Leo XIV's visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+    "publishedAt": "2026-11-08T22:16:50.000Z"
+  },
+  {
+    "id": "537b0cc6a7ee2fca",
+    "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+    "summary": "Huang has confirmed he had been having an affair with a woman accused of spying for China.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+    "publishedAt": "2026-11-08T22:16:10.000Z"
+  },
+  {
     "id": "726014e340807cc5",
     "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
     "summary": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
@@ -25,6 +61,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
     "publishedAt": "2026-11-08T22:03:59.000Z"
+  },
+  {
+    "id": "c6262c3ad3c4e729",
+    "title": "Why Trump wants UFC chief Dana White as his new White House press secretary",
+    "summary": "The two have business ties going back decades, and White has helped Trump reach out to younger voters.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
+    "publishedAt": "2026-11-08T22:03:54.000Z"
   },
   {
     "id": "fdf2d10328740e06",
@@ -1044,6 +1089,15 @@
     "publishedAt": "2026-11-08T07:06:13.000Z"
   },
   {
+    "id": "0b923c2533a6a538",
+    "title": "There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m",
+    "summary": "The dementia treatment for children is available in the US, with funding for UK children unclear.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8046kdw56e2o",
+    "publishedAt": "2026-11-08T07:04:36.000Z"
+  },
+  {
     "id": "ebdfed9765ee11bc",
     "title": "New Zealanders won't know for weeks who won the election as neither side secures clear victory",
     "summary": "New Zealanders face weeks of uncertainty after Saturday's election, with no clear winner emerging.",
@@ -1294,59 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
     "publishedAt": "2026-11-08T00:17:28.000Z"
-  },
-  {
-    "id": "a773de3f0cbd6e3d",
-    "title": "Earthquake with preliminary magnitude of 5.7 strikes Japan",
-    "summary": "A strong earthquake with a preliminary reading of magnitude 5.7 has struck central Japan.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/strong-earthquake-preliminary-magnitude-57-strikes-japan-meteorological-137946690",
-    "publishedAt": "2026-11-08T00:00:54.000Z"
-  },
-  {
-    "id": "b466e88afd7dcb67",
-    "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
-    "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo",
-    "publishedAt": "2026-11-07T23:02:35.000Z"
-  },
-  {
-    "id": "7010193096d34ffe",
-    "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
-    "summary": "Valverde and Guler's first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
-    "publishedAt": "2026-11-07T22:21:58.000Z"
-  },
-  {
-    "id": "3d8e1a0c18891611",
-    "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-    "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
-    "publishedAt": "2026-11-07T22:19:59.000Z"
-  },
-  {
-    "id": "5829d9d78a07bafc",
-    "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
-    "summary": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
-    "publishedAt": "2026-11-07T22:12:09.000Z"
-  },
-  {
-    "id": "61ee0bf649b51e6e",
-    "title": "A correspondent finds Cuba's people struggling",
-    "summary": "Reporting from Cuba comes with distinct challenges especially amid widespread power outages and fuel shortages.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling",
-    "publishedAt": "2026-11-07T22:12:06.000Z"
   }
 ]
