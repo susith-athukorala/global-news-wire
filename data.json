@@ -1,5 +1,77 @@
 [
   {
+    "id": "e6bd58eb73ec25e4",
+    "title": "'Cancer treatment plummeted me into menopause'",
+    "summary": "Women are calling for more support to deal with menopause caused by their cancer treatment.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckr5y8ze8me7o",
+    "publishedAt": "2026-11-08T09:17:32.000Z"
+  },
+  {
+    "id": "86bf698b14c48f09",
+    "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+    "summary": "President has opposing views on many issues, and once called Leo’s predecessor the ‘representative of the Evil One’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
+    "publishedAt": "2026-11-08T09:00:35.000Z"
+  },
+  {
+    "id": "66808f105bfb3455",
+    "title": "Psychiatrists and paediatricians among specialists most likely to charge ‘extreme’ fees, thinktank finds",
+    "summary": "Grattan Institute finds some doctors charge up to triple the fees of their peers – well beyond what can be justified by business running costs.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/08/psychiatrists-paediatricians-extreme-specialist-fees-health-australia",
+    "publishedAt": "2026-11-08T09:00:35.000Z"
+  },
+  {
+    "id": "4524229b75c3e1a7",
+    "title": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?",
+    "summary": "Unpolished and understated, Eisenkot offers a stark contrast to Netanyahu but risks continuing his legacy.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss",
+    "publishedAt": "2026-11-08T08:47:36.000Z"
+  },
+  {
+    "id": "201bf524aa7de8c3",
+    "title": "Hossam Hassan sacked as Egypt head coach over ex-wife scandal",
+    "summary": "A series of controversies surrounding Hassan's marital life left a 'negative impact' on the team, Egyptian FA says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/8/hossam-hassan-sacked-as-egypt-head-coach-over-ex-wife-scandal?traffic_source=rss",
+    "publishedAt": "2026-11-08T08:42:16.000Z"
+  },
+  {
+    "id": "00588543661b181d",
+    "title": "Taiwan detains a Communist Party leader over alleged Chinese sponsorship in election",
+    "summary": "Authorities in Taiwan have detained the leader of the Taiwan People’s Communist Party.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/taiwan-detains-communist-party-leader-alleged-chinese-sponsorship-137951046",
+    "publishedAt": "2026-11-08T08:41:21.000Z"
+  },
+  {
+    "id": "6837e69912084966",
+    "title": "Mapping how France’s protest wave spread across Europe",
+    "summary": "More than 1,700 cost-of-living demonstrations have hit 31 European countries since mid-September, led by France.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss",
+    "publishedAt": "2026-11-08T08:18:38.000Z"
+  },
+  {
+    "id": "09762752c149b33e",
+    "title": "As AI data centres guzzle energy, can we harness their wasted heat?",
+    "summary": "The rapid development of AI is draining our resources, but engineers have found a way to use heat lost to the air.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/8/as-ai-data-centres-guzzle-energy-can-we-harness-waste-heat?traffic_source=rss",
+    "publishedAt": "2026-11-08T08:17:12.000Z"
+  },
+  {
     "id": "f22d837c2d1d7f6e",
     "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
     "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to.",
@@ -205,6 +277,24 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
     "publishedAt": "2026-11-08T01:37:55.000Z"
+  },
+  {
+    "id": "683feabe3b7a31c5",
+    "title": "The Trump coalition is shattered - what will Republicans do now?",
+    "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo",
+    "publishedAt": "2026-11-08T00:52:39.000Z"
+  },
+  {
+    "id": "50a422e50fc66d18",
+    "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+    "summary": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko",
+    "publishedAt": "2026-11-08T00:48:59.000Z"
   },
   {
     "id": "4e69f89a3a15c3c5",
@@ -1258,95 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss",
     "publishedAt": "2026-11-07T06:47:45.000Z"
-  },
-  {
-    "id": "04ef0802bfcb0b20",
-    "title": "'You feel that you're not alone' - the young people finding community in grief",
-    "summary": "Too Young to Grieve is an informal peer support community providing young people with a space to grieve.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c20e32l61xko",
-    "publishedAt": "2026-11-07T06:36:47.000Z"
-  },
-  {
-    "id": "166c9cdf4565a6e5",
-    "title": "Carlos Alcaraz saves match points to reach Paris Masters semifinals",
-    "summary": "Seven-time Grand Slam champion Alcaraz is through to the Paris Masters semifinals for the first time in his career.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/7/carlos-alcaraz-match-point-paris-masters-semifinals-tennis?traffic_source=rss",
-    "publishedAt": "2026-11-07T06:21:04.000Z"
-  },
-  {
-    "id": "c5da810ccb0b02cc",
-    "title": "Governing party ahead in early results of New Zealand’s knife-edge vote",
-    "summary": "Early count suggests New Zealand's National and Labour parties are neck and neck, with neither likely to govern alone.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results?traffic_source=rss",
-    "publishedAt": "2026-11-07T06:20:27.000Z"
-  },
-  {
-    "id": "a18c897b89c67853",
-    "title": "PM Luxon says 'National is once again the largest party in parliament'",
-    "summary": "A tight election result looms in New Zealand as polls show both major parties may struggle to form a government without support.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-07/nz-election-2026-live-blog/107355448",
-    "publishedAt": "2026-11-07T06:01:27.000Z"
-  },
-  {
-    "id": "1b4ca2b7082bdb41",
-    "title": "Writer Nick Harkaway expands his father John le Carré's spyverse in new thriller 'The Taper Man'",
-    "summary": "Fictional spymaster George Smiley is back in \"The Taper Man,\" a new thriller set in the world of John le Carr&eacute; and written by his son, Nick Harkaway.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/writer-nick-harkaway-expands-father-john-le-carrs-137936279",
-    "publishedAt": "2026-11-07T06:00:45.000Z"
-  },
-  {
-    "id": "f3f499cfe1108da4",
-    "title": "Malaysian palace says house arrest order for imprisoned ex-leader Najib must be respected",
-    "summary": "Malaysia's national palace says the royal decision allowing former Prime Minister Najib Razak to serve his prison sentence under house arrest is clear.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/malaysian-palace-house-arrest-order-imprisoned-leader-najib-137936646",
-    "publishedAt": "2026-11-07T06:00:31.000Z"
-  },
-  {
-    "id": "d29e41e562774826",
-    "title": "The end of Maga as we know it",
-    "summary": "The Republican party will regroup after their shellacking in the US midterm elections, but it won’t look the same.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
-    "publishedAt": "2026-11-07T06:00:05.000Z"
-  },
-  {
-    "id": "fd4da6fc0992fc1c",
-    "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
-    "summary": "Democrats’ sweep could urge Israel’s divided opposition to join forces and remove prime minister closely allied with Trump.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
-    "publishedAt": "2026-11-07T06:00:04.000Z"
-  },
-  {
-    "id": "4a53911af8d8ea67",
-    "title": "‘Alien-cortical’ mice: Can human brain cells grow inside animals?",
-    "summary": "Modified mice with human brain cells ignite debates over neurohybrids and the future of cross-species medical research.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/alien-cortical-mice-can-human-brain-cells-grow-inside-animals?traffic_source=rss",
-    "publishedAt": "2026-11-07T05:57:25.000Z"
-  },
-  {
-    "id": "4cbf083e0aec499c",
-    "title": "Khawaja claims entire Australia team knew about 2018 ball-tampering scandal",
-    "summary": "The 'Sandpapergate' scandal saw ⁠Australia scuffing the ball with sandpaper in the March 2018 test ​in Cape Town.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja?traffic_source=rss",
-    "publishedAt": "2026-11-07T05:46:54.000Z"
   }
 ]
