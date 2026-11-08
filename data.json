@@ -1,5 +1,32 @@
 [
   {
+    "id": "b454e695ed8cfd35",
+    "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
+    "summary": "Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minority.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation",
+    "publishedAt": "2026-11-08T03:00:28.000Z"
+  },
+  {
+    "id": "bc104d8a3148b0bf",
+    "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
+    "summary": "Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
+    "publishedAt": "2026-11-08T02:34:19.000Z"
+  },
+  {
+    "id": "02a329785f52c08d",
+    "title": "US launches task force to disrupt Iran’s land-based supply routes",
+    "summary": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+    "publishedAt": "2026-11-08T02:34:04.000Z"
+  },
+  {
     "id": "40305320732219ba",
     "title": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
     "summary": "El Hierro asks Spanish government for help after more than 3,300 people arrived on boats since start of November.",
@@ -169,6 +196,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
     "publishedAt": "2026-11-07T19:42:46.000Z"
+  },
+  {
+    "id": "aba971b4563c4298",
+    "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to form government",
+    "summary": "Israel's president has chosen Gadi Eisenkot, Benjamin Netanyahu's strongest rival, to try to form a new ​government following a deadlocked election.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-08/israel-president-prime-minister-government-picked-eisenkot/107360472",
+    "publishedAt": "2026-11-07T19:41:50.000Z"
   },
   {
     "id": "e2b9797fcd1b568b",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o",
     "publishedAt": "2026-11-07T01:19:49.000Z"
-  },
-  {
-    "id": "325e133d4c4b0f50",
-    "title": "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration",
-    "summary": "US voters repudiated mass deportation campaign, but choice of new chief of staff shows Trump doesn’t care.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
-    "publishedAt": "2026-11-07T01:04:52.000Z"
-  },
-  {
-    "id": "3e7c87c95d672468",
-    "title": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
-    "summary": "Zero Limits supplements is co-owned by right-wing podcaster and fitness coach Chris Katelaris, also known as ‘Big Chocky’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb",
-    "publishedAt": "2026-11-07T00:58:11.000Z"
-  },
-  {
-    "id": "7ca22d3b5d77b2fa",
-    "title": "Man in custody after being found in vehicle near White House with guns",
-    "summary": "Ronny Yordrix Guanipa Chrinos arrested by secret service after telling officers voices told him to kill Donald Trump.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump",
-    "publishedAt": "2026-11-07T00:31:59.000Z"
-  },
-  {
-    "id": "7dc48da8a353ffe0",
-    "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
-    "summary": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
-    "publishedAt": "2026-11-07T00:31:41.000Z"
   }
 ]
