@@ -1,5 +1,23 @@
 [
   {
+    "id": "14ea1f816d292445",
+    "title": "Ukraine’s new frontier: how space has become critical to balance of the war",
+    "summary": "In a war driven by drones and battlefield sensors, access to space is essential. After Starlink speed restrictions and Russian Oreshnik missile strikes, Kyiv is racing to develop its own space capabilities.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink",
+    "publishedAt": "2026-11-08T05:00:30.000Z"
+  },
+  {
+    "id": "40a90b2b46a88128",
+    "title": "Earthquake hits central Japan, injuring more than 20 people",
+    "summary": "The magnitude 5.7 quake hit Shizuoka prefecture, and authorities warn of possible strong aftershocks in coming days.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
+    "publishedAt": "2026-11-08T04:20:57.000Z"
+  },
+  {
     "id": "b1be3b5762d7b093",
     "title": "Trump asks UFC chief Dana White to be White House press secretary",
     "summary": "Ultimate Fighting Championship CEO says he will meet with the US president on Monday to discuss the offer.",
@@ -1330,23 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o",
     "publishedAt": "2026-11-07T01:41:36.000Z"
-  },
-  {
-    "id": "d4e2ad85b75cd59e",
-    "title": "EU prosecutor office investigates fatal train crash in Spain",
-    "summary": "The EU office carries out probes at Spanish rail network administrator, safety agency and state auditors.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
-    "publishedAt": "2026-11-07T01:33:39.000Z"
-  },
-  {
-    "id": "df0f7b26d13d0d00",
-    "title": "Haitian gang reaches out to state disarmament group as gunfights persist",
-    "summary": "One of Haiti’s most powerful gangs says it has reached out to a state agency responsible for dismantling armed gangs in a push for “peace, stability and national reconciliation.”",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/powerful-haitian-gang-reaches-state-disarmament-group-gunfights-137932356",
-    "publishedAt": "2026-11-07T01:32:21.000Z"
   }
 ]
