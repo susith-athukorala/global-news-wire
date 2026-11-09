@@ -1,5 +1,50 @@
 [
   {
+    "id": "eec41a5bd7781e3b",
+    "title": "Boeing to cut about 5% of its commercial plane workforce",
+    "summary": "Company will cut jobs through a mix of layoffs and attrition as it moderates the pace of ramping up jet production.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
+    "publishedAt": "2026-11-09T19:11:26.000Z"
+  },
+  {
+    "id": "c0af2dd02b23676c",
+    "title": "Ohio State fraternity suspended after viral video shows two men on fire",
+    "summary": "The university and local police are conducting investigations into Sigma Alpha Epsilon and have placed them on interim suspension.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/ohio-state-sae-fire-suspension",
+    "publishedAt": "2026-11-09T19:03:45.000Z"
+  },
+  {
+    "id": "2b9c7bfa589eef0a",
+    "title": "Former RFK Jr adviser accuses Trump officials of prioritizing special interest groups over voters",
+    "summary": "Calley Means claims officials abandoned Maha agenda and took money from sugar industry leading up to midterms.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/rfk-jr-trump-midterms-maha",
+    "publishedAt": "2026-11-09T18:57:51.000Z"
+  },
+  {
+    "id": "f47f2c083c047f09",
+    "title": "Al Jazeera.net co-founder and cartoonist Shujaat Ali dies aged 54",
+    "summary": "Ali was an award-winning pioneer of animated political caricatures and Pakistan's first court artist.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/al-jazeera-net-co-founder-and-cartoonist-shujaat-ali-dies-aged-54?traffic_source=rss",
+    "publishedAt": "2026-11-09T18:50:29.000Z"
+  },
+  {
+    "id": "5c6ac7ff67ef8f9a",
+    "title": "Barnsley workers strike over nursery privatisation by Reform council",
+    "summary": "Women say move will be ‘massively detrimental’ to services for vulnerable children, and hit their own pensions.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/09/barnsley-strike-nursery-privatisation-reform-council-yorkshire-grimethorpe",
+    "publishedAt": "2026-11-09T18:50:17.000Z"
+  },
+  {
     "id": "21ff527bab1e86ed",
     "title": "Senate votes on bill to speed up projects from gas pipelines to clean energy",
     "summary": "Environmentalists torn over procedural vote to boost infrastructure projects but weaken environmental laws.",
@@ -16,6 +61,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo",
     "publishedAt": "2026-11-09T18:40:31.000Z"
+  },
+  {
+    "id": "36c99229d8510945",
+    "title": "Yemen government forces claim new advances as Houthi border attacks resume",
+    "summary": "Yemeni forces claim fresh advances across key fronts as cross-border Houthi attacks surge amid heavy clashes.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume?traffic_source=rss",
+    "publishedAt": "2026-11-09T18:37:03.000Z"
   },
   {
     "id": "3e1ad611a91a68ab",
@@ -675,6 +729,15 @@
     "publishedAt": "2026-11-09T12:33:24.000Z"
   },
   {
+    "id": "f03fc21c1881897f",
+    "title": "Government's EV targets expected to be reduced this week",
+    "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo",
+    "publishedAt": "2026-11-09T12:06:22.000Z"
+  },
+  {
     "id": "ee941fb427c927d8",
     "title": "At least 21 migrants and refugees die trying to reach Greece’s Crete",
     "summary": "Greece's coastguard said more than 100 people rescued in several operations off the southern coast of Crete.",
@@ -718,6 +781,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmly0dk420rgo",
     "publishedAt": "2026-11-09T11:45:04.000Z"
+  },
+  {
+    "id": "dcb7fd92be6ab116",
+    "title": "UN climate summit kicks off in Turkey after a disastrous year of extreme weather",
+    "summary": "World leaders, delegates and climate activists are in Antalya, Turkey, for a U.N. climate summit.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/leaders-gather-turkey-climate-summit-after-disastrous-year-137963921",
+    "publishedAt": "2026-11-09T11:38:15.000Z"
   },
   {
     "id": "78e561ca962ef92e",
@@ -916,6 +988,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/09/nx-s1-6034057/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
     "publishedAt": "2026-11-09T09:42:57.000Z"
+  },
+  {
+    "id": "bd4f98e1551c9b37",
+    "title": "New Delhi wakes to toxic smog after Diwali firecrackers",
+    "summary": "A thick blanket of smog has shrouded India’s capital after firecrackers lit up the skies over New Delhi during Diwali celebrations.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/new-delhi-wakes-toxic-smog-after-diwali-firecrackers-137964538",
+    "publishedAt": "2026-11-09T09:38:17.000Z"
   },
   {
     "id": "19146669e4103eaa",
@@ -1267,86 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm8ez3e8yy9wo",
     "publishedAt": "2026-11-09T06:10:40.000Z"
-  },
-  {
-    "id": "bdd41aadf2310a3e",
-    "title": "Indoor soft play centres struggling to stay open",
-    "summary": "Jessica Harvey from Whitchurch said there were some days in the summer that no-one visited her centre.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g11exqqwvo",
-    "publishedAt": "2026-11-09T06:10:03.000Z"
-  },
-  {
-    "id": "f1c3684f8f3ff36a",
-    "title": "How yesterday's waste is becoming tomorrow's fashion",
-    "summary": "Brands including Dr Martens, Nike and Coach are among those using recycled materials.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm5yd1q12g1no",
-    "publishedAt": "2026-11-09T06:05:15.000Z"
-  },
-  {
-    "id": "a9c61a1daf88ce0b",
-    "title": "'Painful condition meant I had to leave my job'",
-    "summary": "A charity says women should not have to choose between work and health because of endometriosis.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm8xzkn9e4z7o",
-    "publishedAt": "2026-11-09T06:01:58.000Z"
-  },
-  {
-    "id": "fbc14e5f6ea51acf",
-    "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
-    "summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-    "publishedAt": "2026-11-09T06:01:52.000Z"
-  },
-  {
-    "id": "6aa39fe78cb96560",
-    "title": "Charity wants bee, bird and butterfly population boost",
-    "summary": "Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust aims to raise £70,000 for the project.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckvg77j83p0vo",
-    "publishedAt": "2026-11-09T06:00:40.000Z"
-  },
-  {
-    "id": "73b2f0f08fdd504c",
-    "title": "Inside the French drug gangs recruiting children to kill",
-    "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o",
-    "publishedAt": "2026-11-09T06:00:26.000Z"
-  },
-  {
-    "id": "4be242583ac41afc",
-    "title": "Fixing UK’s youth jobs crisis demands much more investment, TUC boss warns",
-    "summary": "Paul Nowak also calls on government to avoid arbitrary benefit cuts before much-anticipated Milburn report is published this week.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review",
-    "publishedAt": "2026-11-09T06:00:03.000Z"
-  },
-  {
-    "id": "47b90deddcc2ee38",
-    "title": "Starwatch: Count these stars to find out how dark the sky is where you are",
-    "summary": "Great Square of Pegasus’s four corners are widely visible, but its inner stars provide a useful indicator of darkness.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/09/starwatch-count-stars-find-out-how-dark-sky-is",
-    "publishedAt": "2026-11-09T06:00:01.000Z"
-  },
-  {
-    "id": "46d3a9fde55f4d81",
-    "title": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
-    "summary": "‘It’s pretty obvious that there are all sorts of people making all sorts of comments,’ Murray Watt says after budget savings meeting.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues",
-    "publishedAt": "2026-11-09T05:47:49.000Z"
   }
 ]
