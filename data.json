@@ -1,5 +1,68 @@
 [
   {
+    "id": "d37704b654a81030",
+    "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
+    "summary": "Ankara aims to make electricity account for 35 percent of global energy demand by 2035.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
+    "publishedAt": "2026-11-09T05:02:19.000Z"
+  },
+  {
+    "id": "da23c8c76a5062f1",
+    "title": "A joke or test? Why Trump floated UFC’s Dana White as his press secretary",
+    "summary": "White is a close friend of Trump and has endorsed him for president, but has never held a government position.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/a-joke-or-test-why-trump-floated-ufcs-dana-white-as-his-press-secretary?traffic_source=rss",
+    "publishedAt": "2026-11-09T05:02:16.000Z"
+  },
+  {
+    "id": "89b1fda32742bd05",
+    "title": "Burnham’s homelessness pledge to ‘get everyone in for Christmas’ in jeopardy",
+    "summary": "Minister says Labour hoping to offer bed to every rough sleeper in England but cites chronic housing shortage.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/09/burnham-homelessness-pledge-rough-sleeping-england",
+    "publishedAt": "2026-11-09T05:01:01.000Z"
+  },
+  {
+    "id": "40875e0ec3c8ef3d",
+    "title": "Starbucks plans to hire 7,500 staff in major UK expansion plan",
+    "summary": "Coffee shop chain targets growth north of London with extra 500 outlets in big boost for youth employment.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/09/starbucks-hire-7500-staff-uk-expansion-plan",
+    "publishedAt": "2026-11-09T05:01:00.000Z"
+  },
+  {
+    "id": "a70549104648d0f4",
+    "title": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
+    "summary": "Ben Carroll refuses to be drawn on latest opinion poll that puts Labor at all-time low of just 18%, behind One Nation on 21% and the Coalition on 33%.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/09/victoria-election-2026-labor-mps-new-opinion-poll-one-nation-ntwnfb",
+    "publishedAt": "2026-11-09T04:55:15.000Z"
+  },
+  {
+    "id": "f82cba94c0faa01d",
+    "title": "Asian stock markets climb after earlier tech rout",
+    "summary": "Markets rebound after tech rout triggered by Democrats' sweeping victory in US midterm elections.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
+    "publishedAt": "2026-11-09T04:03:02.000Z"
+  },
+  {
+    "id": "d37bdd9c471b3370",
+    "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+    "summary": "US secretary of state says Iran's negotiation demands are 'outrageous and ridiculous, and really not realistic'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
+    "publishedAt": "2026-11-09T04:02:18.000Z"
+  },
+  {
     "id": "7e6b058b77055290",
     "title": "Trump tells 60 Minutes that deportation policy was ‘too tough’",
     "summary": "President makes unusual acknowledgement that one of the defining policies of his second administration had become a political liability.",
@@ -981,6 +1044,15 @@
     "publishedAt": "2026-11-08T12:00:40.000Z"
   },
   {
+    "id": "a4c533ab2b702725",
+    "title": "The efficiency trap: why optimising everything can backfire, badly",
+    "summary": "From roundabouts to the stock market, relentless streamlining could be making the world more dangerous.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly",
+    "publishedAt": "2026-11-08T12:00:39.000Z"
+  },
+  {
     "id": "62e73d35acc1a138",
     "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
     "summary": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives.",
@@ -1276,77 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss",
     "publishedAt": "2026-11-08T08:18:38.000Z"
-  },
-  {
-    "id": "09762752c149b33e",
-    "title": "As AI data centres guzzle energy, can we harness their wasted heat?",
-    "summary": "The rapid development of AI is draining our resources, but engineers have found a way to use heat lost to the air.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/8/as-ai-data-centres-guzzle-energy-can-we-harness-waste-heat?traffic_source=rss",
-    "publishedAt": "2026-11-08T08:17:12.000Z"
-  },
-  {
-    "id": "f22d837c2d1d7f6e",
-    "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
-    "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
-    "publishedAt": "2026-11-08T08:00:36.000Z"
-  },
-  {
-    "id": "ae36fa156211797a",
-    "title": "From the overblown to the ordinary? Met Gala 2027 to celebrate ‘poetics of everyday’",
-    "summary": "Event regarded as Oscars of fashion industry replaces John Galliano retrospective with homage to the ‘extra ordinary’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/nov/08/met-gala-2027-theme-poetics-everyday",
-    "publishedAt": "2026-11-08T08:00:36.000Z"
-  },
-  {
-    "id": "60c37a136312b0ac",
-    "title": "Reintroduction of white-tailed eagles puts seabird colonies at risk of wipeout, say experts",
-    "summary": "Naturalists divided over potential impact of proposals to increase number of wild raptors in England and Wales.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/08/reintroduction-white-tailed-eagles-seabird-colonies-risk-england-wales",
-    "publishedAt": "2026-11-08T08:00:35.000Z"
-  },
-  {
-    "id": "00485656fad72f94",
-    "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
-    "summary": "The interceptions come as the Houthis report 33 people killed in a coalition air attack on a village near Sanaa.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
-    "publishedAt": "2026-11-08T07:40:07.000Z"
-  },
-  {
-    "id": "b4c24fa453190eb0",
-    "title": "Countryside managers prepare for climate change",
-    "summary": "North Pennines National Landscape's plan includes restoring peatland and wildfire preparedness.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo",
-    "publishedAt": "2026-11-08T07:16:55.000Z"
-  },
-  {
-    "id": "350bcda2063a9bba",
-    "title": "Traders 'priced out' of £12,000 Christmas market pitches",
-    "summary": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o",
-    "publishedAt": "2026-11-08T07:11:02.000Z"
-  },
-  {
-    "id": "5e71cbc7397da4ca",
-    "title": "Hundreds of seagrass shoots found in estuary",
-    "summary": "There were fears a restoration trial may not succeed when only six seedlings had emerged in April.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck1wvx3r9rgeo",
-    "publishedAt": "2026-11-08T07:06:13.000Z"
   }
 ]
