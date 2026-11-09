@@ -1,5 +1,23 @@
 [
   {
+    "id": "a3e97f86f9425208",
+    "title": "Moldova launches new power line to Romania to cut reliance on Russia",
+    "summary": "Moldovan President Maia Sandu says 'two more power lines to Romania are on the way'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia?traffic_source=rss",
+    "publishedAt": "2026-11-09T02:35:15.000Z"
+  },
+  {
+    "id": "27ba2ac4c5ad7ca1",
+    "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+    "summary": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+    "publishedAt": "2026-11-09T02:11:25.000Z"
+  },
+  {
     "id": "d9b9c6137e450a02",
     "title": "Wagga Wagga family members of alleged DV murderer charged with being accessories after the fact",
     "summary": "Danielle Madgwick died in regional NSW in September after suffering multiple stab wounds to her upper body.",
@@ -1330,23 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
     "publishedAt": "2026-11-08T06:00:33.000Z"
-  },
-  {
-    "id": "34815c49b17bec47",
-    "title": "Environmentalists criticise choice of Earthshot prize venue owned by fossil fuel firm",
-    "summary": "Mumbai facility is part of Reliance Industries, owner of world’s biggest oil refinery and funder of controversial mega-zoo.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai",
-    "publishedAt": "2026-11-08T06:00:33.000Z"
-  },
-  {
-    "id": "e9a8c9b611343465",
-    "title": "Does Andy Burnham’s pivot from press to social media put scrutiny at risk?",
-    "summary": "A lifestyle podcast or brief TV clip is less taxing than a full press conference – but No 10 insists the PM is not ducking accountability.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/08/andy-burnham-social-media-traditional-media-scrutiny-at-risk",
-    "publishedAt": "2026-11-08T06:00:32.000Z"
   }
 ]
