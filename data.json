@@ -1,5 +1,59 @@
 [
   {
+    "id": "e8a5ecaca0731f8a",
+    "title": "French police officers face trial over beating of black man not wearing mask during Covid",
+    "summary": "Assault on Michel Zecler in 2020 is rare case of police brutality reaching court, at time of heightened tensions.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/09/french-police-officers-face-trial-over-beating-of-black-man-not-wearing-mask-during-covid",
+    "publishedAt": "2026-11-09T09:09:01.000Z"
+  },
+  {
+    "id": "8c2696967193ad88",
+    "title": "Bangladesh's ousted leader Sheikh Hasina appeals for a new passport to return from exile",
+    "summary": "Former Bangladeshi Prime Minister Sheikh Hasina has requested a new passport to facilitate her return from exile two years after she was ousted in a mass uprising.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/bangladeshs-ousted-leader-sheikh-hasina-appeals-new-passport-137965192",
+    "publishedAt": "2026-11-09T09:07:25.000Z"
+  },
+  {
+    "id": "7c033b4c8e9b730e",
+    "title": "UK households face rush to find green energy installer to beat April VAT hike",
+    "summary": "Ministers pushed to reverse ‘policy madness’ of scrapping exemption on 5% tax rise for heat pumps, solar panels and batteries.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/09/uk-households-green-energy-installer-rush-april-vat-hike",
+    "publishedAt": "2026-11-09T09:00:05.000Z"
+  },
+  {
+    "id": "5cd870aebc1fc96a",
+    "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+    "summary": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
+    "publishedAt": "2026-11-09T08:49:17.000Z"
+  },
+  {
+    "id": "bc0e1ef34b58e642",
+    "title": "Trump says his immigration policy ‘too tough’ for voters",
+    "summary": "Trump concedes some voters were unhappy with his administration's controversial deportation drive.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters?traffic_source=rss",
+    "publishedAt": "2026-11-09T08:35:05.000Z"
+  },
+  {
+    "id": "5c0882a6c1f9d016",
+    "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+    "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go",
+    "publishedAt": "2026-11-09T08:16:57.000Z"
+  },
+  {
     "id": "11458af0c685be13",
     "title": "‘A global political awakening’: how gen Z protests are sweeping the world",
     "summary": "From Serbia to Bangladesh and India to France, young people are pushing back against authoritarianism and reshaping political landscapes.",
@@ -7,6 +61,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world",
     "publishedAt": "2026-11-09T08:04:44.000Z"
+  },
+  {
+    "id": "a09cb96332080f6c",
+    "title": "Is it true that … dock leaves cure nettle stings?",
+    "summary": "It’s a time-honoured treatment and rubbing certainly helps, but other leaves could be just as good.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/09/is-it-true-that-dock-leaves-cure-nettle-stings",
+    "publishedAt": "2026-11-09T08:00:03.000Z"
   },
   {
     "id": "0a4072215a1667e9",
@@ -387,6 +450,15 @@
     "publishedAt": "2026-11-09T05:01:00.000Z"
   },
   {
+    "id": "6b17c6abdcc1ed01",
+    "title": "‘Thicky thicky dumb dumb’ satirist Cody Dahler on his viral videos: ‘my material is presented to me on a silver platter’",
+    "summary": "The writer and podcaster on why politics is made to seem more complicated than it is and his mission to unpack world events for everyone.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/stage/2026/nov/09/cody-dahler-the-state-of-this-thicky-thicky-dumb-dumb-comedy",
+    "publishedAt": "2026-11-09T05:00:59.000Z"
+  },
+  {
     "id": "f03fc21c1881897f",
     "title": "Government's EV targets expected to be reduced this week",
     "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
@@ -403,6 +475,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/09/victoria-election-2026-labor-mps-new-opinion-poll-one-nation-ntwnfb",
     "publishedAt": "2026-11-09T04:55:15.000Z"
+  },
+  {
+    "id": "8091b8d97458cddd",
+    "title": "CFMEU ‘enjoy a significant level of influence’ over Victorian government, Big Build royal commission hears",
+    "summary": "Inquiry into allegations of corruption begins block of hearings focused on 2022 level crossing removal project.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/09/big-build-royal-commission-hears-cfmeu-enjoy-a-significant-level-of-influence-over-victorian-government-ntwnfb",
+    "publishedAt": "2026-11-09T04:34:08.000Z"
   },
   {
     "id": "f82cba94c0faa01d",
@@ -720,6 +801,15 @@
     "publishedAt": "2026-11-08T22:03:54.000Z"
   },
   {
+    "id": "c7bd76bbcbef2113",
+    "title": "Poles mourn rare mass killing as authorities say attacker had far-right views",
+    "summary": "Mourners have laid candles and flowers alongside bullet holes in Krakow, Poland, after the city’s central square turned into a site of bloodshed and grief.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/poles-mourn-rare-mass-killing-authorities-attacker-views-137951140",
+    "publishedAt": "2026-11-08T22:02:14.000Z"
+  },
+  {
     "id": "c00e79ed290f9f36",
     "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
     "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
@@ -1026,6 +1116,15 @@
     "publishedAt": "2026-11-08T17:51:19.000Z"
   },
   {
+    "id": "31f6b45c56c3e5b4",
+    "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
+    "summary": "President Cyril Ramaphosa says the verdict must be respected, while the party's secretary-general calls the outcome \"catastrophic\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo",
+    "publishedAt": "2026-11-08T17:51:03.000Z"
+  },
+  {
     "id": "9b9296914dcfd566",
     "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
     "summary": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
@@ -1249,104 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
     "publishedAt": "2026-11-08T14:49:16.000Z"
-  },
-  {
-    "id": "a5b6c69c23f23c8b",
-    "title": "Homes and temples glow across India to mark Diwali",
-    "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro",
-    "publishedAt": "2026-11-08T14:42:09.000Z"
-  },
-  {
-    "id": "c58085b689f6dfcf",
-    "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-    "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-    "publishedAt": "2026-11-08T14:26:14.000Z"
-  },
-  {
-    "id": "977cd91cbb8ecd75",
-    "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
-    "summary": "Philippine tennis star Eala stunned after 6-3, 6-0 loss to the 102nd-ranked American in Hong Kong.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
-    "publishedAt": "2026-11-08T14:19:17.000Z"
-  },
-  {
-    "id": "19146669e4103eaa",
-    "title": "Tourists and locals recount fatal Krakow mass shooting that left Poland reeling",
-    "summary": "Tourists and locals alike witnessed a mass shooting in Krakow, Poland, that left six people dead and 15 wounded.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/tourists-locals-recount-fatal-krakow-mass-shooting-left-137952616",
-    "publishedAt": "2026-11-08T14:14:27.000Z"
-  },
-  {
-    "id": "ded8e92bc29f9c23",
-    "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
-    "summary": "Analysts said the US mission is unlikely to succeed in choking off Iran's supply lines entirely.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
-    "publishedAt": "2026-11-08T14:06:19.000Z"
-  },
-  {
-    "id": "8c0798cef7304430",
-    "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
-    "summary": "Exclusive: Head of IFPI says allowing AI companies access to online content would be a ‘huge mistake’ and damage Australia’s reputation.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
-    "publishedAt": "2026-11-08T14:00:43.000Z"
-  },
-  {
-    "id": "b89965fa465ad3df",
-    "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Argentina",
-    "summary": "Pope Leo XIV has wrapped up his visit to Uruguay by marking an important Catholic feast day tied to the country’s independence.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-wraps-uruguay-visit-heads-fraught-stop-tour-137951348",
-    "publishedAt": "2026-11-08T13:54:16.000Z"
-  },
-  {
-    "id": "ba83425cb0dfcab7",
-    "title": "New drug could be cure for common cause of high blood pressure",
-    "summary": "Benefits of baxdrostat are unexpectedly found to remain up to two years after patients stop taking it.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/08/new-drug-high-blood-pressure-baxdrostat",
-    "publishedAt": "2026-11-08T13:53:41.000Z"
-  },
-  {
-    "id": "5cad03092e6fd08c",
-    "title": "Iran executes three men for 'armed unrest' after January protests",
-    "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo",
-    "publishedAt": "2026-11-08T13:37:50.000Z"
-  },
-  {
-    "id": "42939d3dc97103b7",
-    "title": "UK spent £100m on zombie Brexit border inspection posts",
-    "summary": "Five of seven facilities in England and Wales never reached operational stage as Tories vacillated over plans to check goods.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods",
-    "publishedAt": "2026-11-08T13:32:58.000Z"
-  },
-  {
-    "id": "dbae0af08f3c0fb4",
-    "title": "At least 21 dead as small boat sinks off Senegal",
-    "summary": "Senegalese Interior Ministry says one person rescued as search operation continues after migrant vessel capsized.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
-    "publishedAt": "2026-11-08T13:32:17.000Z"
   }
 ]
