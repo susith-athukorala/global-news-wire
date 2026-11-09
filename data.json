@@ -1,5 +1,104 @@
 [
   {
+    "id": "880dc8ea9314c303",
+    "title": "NHS boss received nearly £400,000 'redundancy' pay-off when she retired",
+    "summary": "The payment comes ahead of a planned major overhaul of Scotland's NHS which could see the number of health boards cut dramatically.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw4g11xkyj1jo",
+    "publishedAt": "2026-11-09T23:05:17.000Z"
+  },
+  {
+    "id": "ea1ae81d170544b4",
+    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "summary": "The US president said the FBI is now investigating the affair. He said he spoke with Jensen Huang and asked him about the affair.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
+    "publishedAt": "2026-11-09T23:01:32.000Z"
+  },
+  {
+    "id": "146fa5ff5a82f09a",
+    "title": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
+    "summary": "President, after talks with Qatari PM, suggests end to war coming ‘fairly soon’ and military escalation not needed.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
+    "publishedAt": "2026-11-09T22:58:31.000Z"
+  },
+  {
+    "id": "9903cbf208565669",
+    "title": "I almost died after a toothache led to sepsis and a rare heart condition",
+    "summary": "Doctors told Danny Ellis it was a \"miracle\" he was alive after his first heart surgery failed.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckr5ypqrjj32o",
+    "publishedAt": "2026-11-09T22:40:54.000Z"
+  },
+  {
+    "id": "ee6742e73a89b92b",
+    "title": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
+    "summary": "Iranian officials dismissed Trump's latest remarks as 'fake news' after the US president suggested a close to the war.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+    "publishedAt": "2026-11-09T22:31:19.000Z"
+  },
+  {
+    "id": "dc54cd1e24ad7f3b",
+    "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+    "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of food.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+    "publishedAt": "2026-11-09T22:30:49.000Z"
+  },
+  {
+    "id": "af48d2ce612cb6f1",
+    "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
+    "summary": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to ‘see out his days’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+    "publishedAt": "2026-11-09T22:26:31.000Z"
+  },
+  {
+    "id": "27c4daec6738afd2",
+    "title": "In northern Ethiopia, conflict pushes a strained healthcare system to the brink",
+    "summary": "Ethiopia's health care system was once considered a model in the region. But in the northern Tigray region, ongoing conflict has left health facilities and medical workers vulnerable to attacks.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/09/nx-s1-5987949/in-northern-ethiopia-conflict-pushes-a-strained-healthcare-system-to-the-brink",
+    "publishedAt": "2026-11-09T22:25:13.000Z"
+  },
+  {
+    "id": "6bc19982ba056b39",
+    "title": "Pope meets with clergy abuse survivors in Argentina",
+    "summary": "During private meetings with survivors, Pope Leo XIV pledged to reinforce safeguards and listen to victims.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss",
+    "publishedAt": "2026-11-09T22:14:37.000Z"
+  },
+  {
+    "id": "d5051ec60681d21c",
+    "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
+    "summary": "Aron Orban reportedly detained as Hungarian authorities raid properties linked to his business associates.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
+    "publishedAt": "2026-11-09T22:13:29.000Z"
+  },
+  {
+    "id": "49d1109f6c1ae648",
+    "title": "Saudi Arabia reports new attack on key East-West pipeline",
+    "summary": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+    "publishedAt": "2026-11-09T22:10:52.000Z"
+  },
+  {
     "id": "f679d6cf2ccd6023",
     "title": "Scientists think they've found ancient remnants of dinosaur blood",
     "summary": "Scientists have studied plenty of dinosaur bones, eggs and footprints. Now, some think they've found their strongest evidence yet of dinosaur blood.",
@@ -16,6 +115,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o",
     "publishedAt": "2026-11-09T21:52:28.000Z"
+  },
+  {
+    "id": "926f55ffe71adf22",
+    "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+    "summary": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo",
+    "publishedAt": "2026-11-09T21:48:38.000Z"
   },
   {
     "id": "cb57b299e0773d7c",
@@ -522,6 +630,15 @@
     "publishedAt": "2026-11-09T16:55:07.000Z"
   },
   {
+    "id": "ed7330f6977d61dc",
+    "title": "France blames Iran for supermarket fridge cyberattacks",
+    "summary": "France's Foreign Minister Jean-Noël Barrot says the Iran's Revolutionary Guards Corp is behind the \"unprecedented\" cyber attacks on supermarket fridges as he vows to press for Europe-wide sanctions.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-10/irgc-iran-fridges-france/107366730",
+    "publishedAt": "2026-11-09T16:52:12.000Z"
+  },
+  {
     "id": "0efff29fa6e1a2af",
     "title": "Poundland unable to buy new stock as fears over collapse grow",
     "summary": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
@@ -565,6 +682,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/09/the-hottest-product-in-britain-this-year-a-2kg-bag-of-ice",
     "publishedAt": "2026-11-09T16:41:58.000Z"
+  },
+  {
+    "id": "5c0882a6c1f9d016",
+    "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+    "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go",
+    "publishedAt": "2026-11-09T16:33:55.000Z"
   },
   {
     "id": "b4ded612646d94ba",
@@ -1222,131 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile",
     "publishedAt": "2026-11-09T10:32:43.000Z"
-  },
-  {
-    "id": "93080ee73830b4e5",
-    "title": "Fog shrouding swathes of UK likely to disrupt transport early this week",
-    "summary": "Drivers warned to take care as ‘perfect’ weather conditions for mist affect areas of England, Wales and Northern Ireland.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/09/fog-uk-weather-transport-disruption",
-    "publishedAt": "2026-11-09T10:29:28.000Z"
-  },
-  {
-    "id": "ffb0b5ca14f59cf3",
-    "title": "At least four killed as Russia and Ukraine trade strikes overnight",
-    "summary": "Russia's second-largest oil refinery was set on fire by drones, while Russian strikes targeted Ukrainian energy sites.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
-    "publishedAt": "2026-11-09T10:08:45.000Z"
-  },
-  {
-    "id": "fbd322b1d31b7863",
-    "title": "He fought France's far right for half a century. Now Mélenchon's presidential bid may hand it power",
-    "summary": "Jean-Luc M&eacute;lenchon is 75 and he's betting his last shot at France’s presidency on a generation young enough to be his grandchildren.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/fought-frances-half-century-now-mlenchons-presidential-bid-137966011",
-    "publishedAt": "2026-11-09T10:07:56.000Z"
-  },
-  {
-    "id": "ccbe947fd6b484da",
-    "title": "Crime pays: how Grand Theft Auto became a cultural colossus",
-    "summary": "Ever since it crashed on to PC and consoles in the late 90s, GTA has been tearing up the game-making rulebook. We explore how its cultural references, rebel spirit and sprawling sense of freedom make it a definitive work of art.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/09/grand-theft-auto-creators-gta",
-    "publishedAt": "2026-11-09T10:00:05.000Z"
-  },
-  {
-    "id": "72b339d6556f7b6f",
-    "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
-    "summary": "The secretive software company has been accused of letting its powerful tools be used by the Trump administration to surveil Americans. Now it's hiring former Sen. Jon Tester to burnish its image.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations",
-    "publishedAt": "2026-11-09T10:00:00.000Z"
-  },
-  {
-    "id": "023e9af4583c7243",
-    "title": "Nebraska rushed Medicaid work rules. Then a cancer patient was told he'd lost coverage",
-    "summary": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
-    "category": "Science",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
-    "publishedAt": "2026-11-09T10:00:00.000Z"
-  },
-  {
-    "id": "64bd8139fd859802",
-    "title": "Iran’s authorities harden domestic security controls amid US strike threats",
-    "summary": "Iran is cracking down on perceived security threats from alleged spies to crowds of youngsters.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss",
-    "publishedAt": "2026-11-09T09:56:13.000Z"
-  },
-  {
-    "id": "940c758583969504",
-    "title": "New GP contract deal a 'start' but more funding needed, BMA warns",
-    "summary": "The Department of Health (DoH) said it will give an additional £40m across two years for \"improvements in patient access and primary care activity\".",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmd7q1w8q0e3o",
-    "publishedAt": "2026-11-09T09:54:37.000Z"
-  },
-  {
-    "id": "618b565a0c85188c",
-    "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
-    "summary": "Chipmaker Nvidia is launching an investigation of its CEO Jensen Huang after news reports he had an affair with a Chinese woman who was recruited to spy for Beijing.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-6034057/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
-    "publishedAt": "2026-11-09T09:42:57.000Z"
-  },
-  {
-    "id": "bd4f98e1551c9b37",
-    "title": "New Delhi wakes to toxic smog after Diwali firecrackers",
-    "summary": "A thick blanket of smog has shrouded India’s capital after firecrackers lit up the skies over New Delhi during Diwali celebrations.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/new-delhi-wakes-toxic-smog-after-diwali-firecrackers-137964538",
-    "publishedAt": "2026-11-09T09:38:17.000Z"
-  },
-  {
-    "id": "19146669e4103eaa",
-    "title": "Tourists and locals recount fatal Krakow mass shooting that left Poland reeling",
-    "summary": "Tourists and locals alike witnessed a mass shooting in Krakow, Poland, that left six people dead and 15 wounded.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/tourists-locals-recount-fatal-krakow-mass-shooting-left-137952616",
-    "publishedAt": "2026-11-09T09:38:12.000Z"
-  },
-  {
-    "id": "2c56e4d3cdc911d5",
-    "title": "Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?",
-    "summary": "Iran has put forward a two-day proposal developed with Qatari mediators that Washington is examining.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
-    "publishedAt": "2026-11-09T09:27:35.000Z"
-  },
-  {
-    "id": "89db9bbf55eb877c",
-    "title": "Ukrainian drone attack sets Russia's Kirishi refinery ablaze",
-    "summary": "Russia's second-largest oil refinery has been set ablaze following a Ukrainian drone attack that killed a local woman, a day before Russian, Ukrainian and US negotiators sit down for their first peace talks since February.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-09/ukrainian-drone-attack-at-russia-kirishi-refinery-woman-dies/107365888",
-    "publishedAt": "2026-11-09T09:22:35.000Z"
-  },
-  {
-    "id": "e8a5ecaca0731f8a",
-    "title": "French police officers face trial over beating of black man not wearing mask during Covid",
-    "summary": "Assault on Michel Zecler in 2020 is rare case of police brutality reaching court, at time of heightened tensions.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/09/french-police-officers-face-trial-over-beating-of-black-man-not-wearing-mask-during-covid",
-    "publishedAt": "2026-11-09T09:09:01.000Z"
   }
 ]
