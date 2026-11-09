@@ -1,5 +1,50 @@
 [
   {
+    "id": "f8794ed89bac2134",
+    "title": "Pope visits struggling Argentine home for people with disabilities to press message",
+    "summary": "Pope Leo XIV is doubling down on his call for Argentina to look out for the weakest.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-visits-struggling-argentine-home-people-disabilities-press-137970019",
+    "publishedAt": "2026-11-09T13:06:38.000Z"
+  },
+  {
+    "id": "ca0a2d825abc3931",
+    "title": "Senior doctors at Glasgow hospital in care delay warning",
+    "summary": "Consultants at the Queen Elizabeth University Hospital say conditions for emergency patients there are deteriorating.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckx2d2vv40w6o",
+    "publishedAt": "2026-11-09T12:53:36.000Z"
+  },
+  {
+    "id": "ba3a2cb1b8d37fe1",
+    "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
+    "summary": "Republicans have just weeks left of control of Congress. Here's what to expect.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+    "publishedAt": "2026-11-09T12:45:14.000Z"
+  },
+  {
+    "id": "7377186a93e26160",
+    "title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
+    "summary": "Police declined to disclose their nationalities but said none of them lived in South Africa.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo",
+    "publishedAt": "2026-11-09T12:33:24.000Z"
+  },
+  {
+    "id": "ee941fb427c927d8",
+    "title": "At least 21 migrants and refugees die trying to reach Greece’s Crete",
+    "summary": "Greece's coastguard said more than 100 people rescued in several operations off the southern coast of Crete.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/at-least-21-migrants-and-refugees-die-trying-to-reach-greeces-crete?traffic_source=rss",
+    "publishedAt": "2026-11-09T12:06:19.000Z"
+  },
+  {
     "id": "89726932eb2101c4",
     "title": "Nvidia stocks tumble as CEO investigated over spy claims | First Thing",
     "summary": "Jensen Huang reportedly had close relationship ‌with Chinese businesswoman who passed information to ‌Beijing. Plus, tennis legend Billie Jean King tells all.",
@@ -16,6 +61,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/death-toll-rises-39-after-migrant-boat-capsizes-137968623",
     "publishedAt": "2026-11-09T11:51:39.000Z"
+  },
+  {
+    "id": "f9f3fb0a8cb6a2c9",
+    "title": "Insurance industry workers: how is climate-related risk managed in your company?",
+    "summary": "Whether you’re a modeller, actuary or underwriter, we’d like to hear how the insurance industry is dealing with climate risk.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/09/insurance-industry-workers-how-is-climate-related-risk-managed-in-your-company",
+    "publishedAt": "2026-11-09T11:51:01.000Z"
   },
   {
     "id": "828addb29212f435",
@@ -115,6 +169,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
     "publishedAt": "2026-11-09T10:47:00.000Z"
+  },
+  {
+    "id": "20010d274c3a81ee",
+    "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+    "summary": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o",
+    "publishedAt": "2026-11-09T10:41:57.000Z"
   },
   {
     "id": "0dc956ecc9c5a530",
@@ -1285,68 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cxnv0487qpj3o",
     "publishedAt": "2026-11-08T18:44:52.000Z"
-  },
-  {
-    "id": "8a3ed9a2297b2f21",
-    "title": "Riot breaks out at influencer boxing event attended by Tommy Robinson in Ireland",
-    "summary": "Two people arrested after Robinson’s presence inflames tensions in scenes witnessed by many on social media.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/08/riot-influencer-boxing-event-attended-tommy-robinson-ireland",
-    "publishedAt": "2026-11-08T18:33:34.000Z"
-  },
-  {
-    "id": "8867be261b84aa56",
-    "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
-    "summary": "Alcaraz bagged a 7-6 (7/5), 7-5 straight sets for an elusive Paris crown before the year-end ATP Finals.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
-    "publishedAt": "2026-11-08T18:22:58.000Z"
-  },
-  {
-    "id": "2d584e416be5d768",
-    "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
-    "summary": "Culture secretary pushes back against talk of revisiting Brexit but says closer ties would fulfil referendum promises.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
-    "publishedAt": "2026-11-08T18:20:06.000Z"
-  },
-  {
-    "id": "7372e89861ee09bc",
-    "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-    "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
-    "publishedAt": "2026-11-08T18:14:11.000Z"
-  },
-  {
-    "id": "1bca3ddfb03889bd",
-    "title": "Eisenkot open to Netanyahu joining Israel’s next government",
-    "summary": "Israel's president officially tasks the opposition leader with forming a new government.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
-    "publishedAt": "2026-11-08T18:12:27.000Z"
-  },
-  {
-    "id": "0d7a934c4c193205",
-    "title": "Teaching GCSEs early risks turning schools into ‘exam factories’, education secretary warns",
-    "summary": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
-    "publishedAt": "2026-11-08T18:07:54.000Z"
-  },
-  {
-    "id": "b5c72fd278dc9e32",
-    "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
-    "summary": "Kozo Tashima believes he has a '20 to 30 percent' chance of winning the FIFA presidency election against Infantino.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
-    "publishedAt": "2026-11-08T18:01:05.000Z"
   }
 ]
