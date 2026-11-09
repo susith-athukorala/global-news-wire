@@ -1,5 +1,23 @@
 [
   {
+    "id": "11458af0c685be13",
+    "title": "‘A global political awakening’: how gen Z protests are sweeping the world",
+    "summary": "From Serbia to Bangladesh and India to France, young people are pushing back against authoritarianism and reshaping political landscapes.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world",
+    "publishedAt": "2026-11-09T08:04:44.000Z"
+  },
+  {
+    "id": "0a4072215a1667e9",
+    "title": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar",
+    "summary": "Aprilia's Marco Bezzecchi wins Qatar Grand Prix as Ducati's Marc Marquez finishes second.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss",
+    "publishedAt": "2026-11-09T07:56:16.000Z"
+  },
+  {
     "id": "e774ffbce83beb3b",
     "title": "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France",
     "summary": "Secretary of State Marco Rubio will meet his counterparts from the Group of 7 industrialized democracies this week.",
@@ -1287,6 +1305,15 @@
     "publishedAt": "2026-11-08T14:00:43.000Z"
   },
   {
+    "id": "b89965fa465ad3df",
+    "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Argentina",
+    "summary": "Pope Leo XIV has wrapped up his visit to Uruguay by marking an important Catholic feast day tied to the country’s independence.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-wraps-uruguay-visit-heads-fraught-stop-tour-137951348",
+    "publishedAt": "2026-11-08T13:54:16.000Z"
+  },
+  {
     "id": "ba83425cb0dfcab7",
     "title": "New drug could be cure for common cause of high blood pressure",
     "summary": "Benefits of baxdrostat are unexpectedly found to remain up to two years after patients stop taking it.",
@@ -1321,32 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
     "publishedAt": "2026-11-08T13:32:17.000Z"
-  },
-  {
-    "id": "884408196833c856",
-    "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-    "summary": "Former rivals in Libya are pushing for a unity government to end years of conflict.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-    "publishedAt": "2026-11-08T13:27:57.000Z"
-  },
-  {
-    "id": "752bfb0c9bd37aaf",
-    "title": "Cop31 must deliver climate progress that people can see is real, host says",
-    "summary": "High-stakes talks involving 190 countries begin on Monday as world grapples with El Niño supercharged by fossil fuels.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says",
-    "publishedAt": "2026-11-08T13:24:00.000Z"
-  },
-  {
-    "id": "200745256bb008e0",
-    "title": "Women in media alleging abuse too often not protected, Lisa Nandy says",
-    "summary": "Culture secretary says there is still a problem in the industry and public life after Russell Brand conviction.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
-    "publishedAt": "2026-11-08T13:18:50.000Z"
   }
 ]
