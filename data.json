@@ -1,5 +1,86 @@
 [
   {
+    "id": "82f505bd8b737474",
+    "title": "Krakow shooting suspect has died in hospital, police say",
+    "summary": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o",
+    "publishedAt": "2026-11-09T07:06:58.000Z"
+  },
+  {
+    "id": "62b4cb088a947f2d",
+    "title": "‘It’s a feeling of being screwed over’: once-quiet village despairs over ‘monster’ warehouse",
+    "summary": "Residents of Astley in Greater Manchester will tell public inquiry next week of ‘cacophony’ of noise causing sleep deprivation and depression.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/09/astley-village-despair-monster-warehouse-inquiry",
+    "publishedAt": "2026-11-09T07:00:03.000Z"
+  },
+  {
+    "id": "868109dbac58a70f",
+    "title": "Why has Royal Mail only delivered letters twice in three months?",
+    "summary": "I am waiting for the overdue results of a cancer test, and the postal service seems to be prioritising parcels over letters.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/09/royal-mail-letter-deliveries-parcels",
+    "publishedAt": "2026-11-09T07:00:02.000Z"
+  },
+  {
+    "id": "5252d0cff00cf054",
+    "title": "Kraków shooting suspect who killed six has died, say police in Poland",
+    "summary": "Terrorism investigation was opened after a 24-year-old opened fire in a market square on the weekend.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
+    "publishedAt": "2026-11-09T06:58:03.000Z"
+  },
+  {
+    "id": "7c85b6afb37cb682",
+    "title": "How Israel’s separation wall compares with the Berlin Wall",
+    "summary": "How Israel's wall, checkpoints and permits divide Palestinians in the occupied West Bank and cut farmers off from land.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall?traffic_source=rss",
+    "publishedAt": "2026-11-09T06:32:18.000Z"
+  },
+  {
+    "id": "3079704836972f1d",
+    "title": "'My brother died, so I smashed up his TV'",
+    "summary": "From bereavement to stillbirth, more women are finding release in rage rooms from Bath to Swindon.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cj5ynv9lvl51o",
+    "publishedAt": "2026-11-09T06:30:54.000Z"
+  },
+  {
+    "id": "1f7498527a0c65bd",
+    "title": "Lando Norris wins Sao Palo Grand Prix, but Mercedes seal constructors title",
+    "summary": "Norris wins from pole position on a rainy Sao Paulo track as Mercedes win team title for the first time since 2021.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/9/lando-norris-wins-sao-palo-grand-prix-but-mercedes-seal-constructors-title?traffic_source=rss",
+    "publishedAt": "2026-11-09T06:21:08.000Z"
+  },
+  {
+    "id": "cd6dd9448eb7fe61",
+    "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
+    "summary": "A bank's collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of political and financial ties.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
+    "publishedAt": "2026-11-09T06:20:44.000Z"
+  },
+  {
+    "id": "9da3f1d375366414",
+    "title": "Print commissioned by Nasa uncovered for exhibition",
+    "summary": "The Pop Art at Cartwright Hall exhibition tells the story of the British International Print Biennale.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw98zm084dr3o",
+    "publishedAt": "2026-11-09T06:18:19.000Z"
+  },
+  {
     "id": "86a5bc3887c36d41",
     "title": "How you can get council's £250 cost of living help",
     "summary": "Applications for household grants of up to £250 are opening to some Surrey residents.",
@@ -160,6 +241,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/09/starbucks-hire-7500-staff-uk-expansion-plan",
     "publishedAt": "2026-11-09T05:01:00.000Z"
+  },
+  {
+    "id": "f03fc21c1881897f",
+    "title": "Government's EV targets expected to be reduced this week",
+    "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo",
+    "publishedAt": "2026-11-09T05:00:43.000Z"
   },
   {
     "id": "a70549104648d0f4",
@@ -576,6 +666,15 @@
     "publishedAt": "2026-11-08T19:25:30.000Z"
   },
   {
+    "id": "ea3264de8a1273d2",
+    "title": "Seven dead and 100 injured after trains collide in Egypt",
+    "summary": "The collision on the edge of Cairo killed at least seven people and injured more than 110.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-09/train-collision-egypt-giza/107361794",
+    "publishedAt": "2026-11-08T19:20:50.000Z"
+  },
+  {
     "id": "535a53195e6f678f",
     "title": "Man United earn 4-4 draw against Aston Villa but remain in relegation zone",
     "summary": "Michael Carrick's team continue forgettable season with last-gasp draw at Old Trafford in front of angry home fans.",
@@ -637,6 +736,15 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-09/iran-conflict-strengthens-case-or-electrification/107351224",
     "publishedAt": "2026-11-08T18:48:27.000Z"
+  },
+  {
+    "id": "64c68a7ba94169c1",
+    "title": "Workers left without wages or answers break silence on Bathla collapse",
+    "summary": "Former employees of collapsed property developer Bathla Group speak for the first time about unpaid wages, mounting financial hardship and fears for their futures in Australia.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-09/workers-break-silence-after-bathla-collapse/107339658",
+    "publishedAt": "2026-11-08T18:45:22.000Z"
   },
   {
     "id": "6afe169ee149250b",
@@ -718,6 +826,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/environment/2026/nov/08/andy-burnham-uk-climate-crisis-rosebank-jackdaw",
     "publishedAt": "2026-11-08T18:01:01.000Z"
+  },
+  {
+    "id": "0e0dfb9d3f531a20",
+    "title": "Interest rate hikes are a crude tool until you look at the alternatives",
+    "summary": "Mortgage holders reeling from the blunt force of five interest rate hikes this year are questioning whether there are other ways of controlling inflation. The answer is not simple.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-09/are-there-alternatives-to-interest-rate-rises/107360716",
+    "publishedAt": "2026-11-08T18:00:00.000Z"
   },
   {
     "id": "16f2d02935493c67",
@@ -862,6 +979,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/south-africas-anc-humbled-worst-election-results-continues-137955443",
     "publishedAt": "2026-11-08T16:05:32.000Z"
+  },
+  {
+    "id": "00588543661b181d",
+    "title": "Taiwan detains Communist Party leader over alleged Chinese sponsorship in election",
+    "summary": "He's accused of running under the direction of China’s Communist Party.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/taiwan-detains-communist-party-leader-alleged-chinese-sponsorship-137951046",
+    "publishedAt": "2026-11-08T15:44:57.000Z"
   },
   {
     "id": "6ac10f6dc4053d92",
@@ -1222,131 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer",
     "publishedAt": "2026-11-08T11:00:38.000Z"
-  },
-  {
-    "id": "ea1a27e2ae390347",
-    "title": "Mother of Royal Navy sailor missing for 40 years calls for suspected killer to confess",
-    "summary": "Margaret Parkes and her husband, in their 80s, want Allan Grimson to reveal location of their son Simon’s remains.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/08/simon-parkes-navy-sailor-mother-allan-grimson-suspected-killer",
-    "publishedAt": "2026-11-08T11:00:37.000Z"
-  },
-  {
-    "id": "b98e4d731ba42869",
-    "title": "Who’s who at Cop31: key players at the climate talks",
-    "summary": "What are the relationships and dominant interests in play, as the summit kicks off after a bitter row over its hosting?",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
-    "publishedAt": "2026-11-08T11:00:16.000Z"
-  },
-  {
-    "id": "ef0d23167a4bf82d",
-    "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
-    "summary": "El Niño rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
-    "publishedAt": "2026-11-08T11:00:00.000Z"
-  },
-  {
-    "id": "ab5c1d3078a8af72",
-    "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-    "summary": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
-    "category": "Science",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-    "publishedAt": "2026-11-08T11:00:00.000Z"
-  },
-  {
-    "id": "5548e8ea06b1cf2a",
-    "title": "In Maine, a new approach to practicing medicine in the sky",
-    "summary": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
-    "publishedAt": "2026-11-08T11:00:00.000Z"
-  },
-  {
-    "id": "f13ba5065619108a",
-    "title": "Messi becomes first player to win back-to-back MLS Golden Boot awards",
-    "summary": "The Argentinian scored 26 goals in regular season, topping the charts and leading Inter Miami to the MLS Cup playoffs.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/8/messi-becomes-first-player-to-win-back-to-back-mls-golden-boot-awards?traffic_source=rss",
-    "publishedAt": "2026-11-08T10:50:12.000Z"
-  },
-  {
-    "id": "b87fc3d96a2dfda2",
-    "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-    "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro",
-    "publishedAt": "2026-11-08T10:44:42.000Z"
-  },
-  {
-    "id": "b89965fa465ad3df",
-    "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Milei's Argentina",
-    "summary": "Pope Leo XIV is wrapping up his visit to Uruguay by marking an important Catholic feast day that is tied to the country’s independence.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-wraps-uruguay-visit-heads-fraught-stop-tour-137951348",
-    "publishedAt": "2026-11-08T10:43:49.000Z"
-  },
-  {
-    "id": "a49b52ce8806a01b",
-    "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
-    "summary": "Saudi Arabia has intercepted missiles targeting its capital, with debris damaging an Aramco building in Riyadh.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951443",
-    "publishedAt": "2026-11-08T10:43:48.000Z"
-  },
-  {
-    "id": "ae001d577457fd00",
-    "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
-    "summary": "A Russian drone has struck emergency workers on rescue missions in southern Ukraine.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536",
-    "publishedAt": "2026-11-08T10:43:45.000Z"
-  },
-  {
-    "id": "203b1895ec72ce35",
-    "title": "Strong earthquake rocks central Japan, injuring at least 22",
-    "summary": "People are being warned about possible strong quakes, especially in the next two to three days, after the magnitude-5.7 earthquake.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-08/japan-earthquake-aichi-prefecture-at-least-22-injured/107361392",
-    "publishedAt": "2026-11-08T10:10:25.000Z"
-  },
-  {
-    "id": "5a87954010aefc75",
-    "title": "Tennis world number one Rybakina withdraws from WTA Finals due to virus",
-    "summary": "Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine's Marta Kostyuk replacing the top seed.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss",
-    "publishedAt": "2026-11-08T10:03:21.000Z"
-  },
-  {
-    "id": "ea49f5f961b234fc",
-    "title": "Bus overturns on a highway in Croatia, killing at least 2 people and injuring scores",
-    "summary": "Croatian police say that at least two people were killed and several were injured when a bus overturned on a highway.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/bus-overturns-highway-croatia-killing-2-people-injuring-137951051",
-    "publishedAt": "2026-11-08T09:45:32.000Z"
-  },
-  {
-    "id": "c7bd76bbcbef2113",
-    "title": "Poles mourn rare mass killing as authorities say attacker had far-right views",
-    "summary": "Poland is in mourning after a 24-year-old man with far-right views drove into a busy square in Krakow and opened fire, killing six people and wounding 15.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/poles-mourn-rare-mass-killing-authorities-attacker-views-137951140",
-    "publishedAt": "2026-11-08T09:45:30.000Z"
   }
 ]
