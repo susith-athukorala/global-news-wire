@@ -1,5 +1,104 @@
 [
   {
+    "id": "37afe5e19fed5488",
+    "title": "‘Exceedingly heavy-handed’: ACT police criticised by magistrate for Tasering disabled Aboriginal woman",
+    "summary": "Exclusive: Body-worn camera footage shows woman pulled off bench and a Taser activated despite ‘putting up no resistance’, magistrate says.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/10/exceedingly-heavy-handed-act-police-officers-criticised-by-magistrate-for-taser-arrest-of-disabled-aboriginal-woman-ntwnfb",
+    "publishedAt": "2026-11-09T14:00:13.000Z"
+  },
+  {
+    "id": "50ea12e14dd3aace",
+    "title": "There’s more than a whiff of politics to the sudden call to slash Labor’s green energy subsidies",
+    "summary": "EVs and home batteries are in Treasury crosshairs despite a better economic case for scaling back nuclear-powered submarines and diesel fuel rebates for miners.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/10/labor-cuts-green-energy-subsidies-inflation",
+    "publishedAt": "2026-11-09T14:00:12.000Z"
+  },
+  {
+    "id": "eea9b1843c8a5753",
+    "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
+    "summary": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+    "publishedAt": "2026-11-09T14:00:11.000Z"
+  },
+  {
+    "id": "de14c131ed8319be",
+    "title": "British-Somali ‌‌boxer Ramla Ali defeats Mikiah Kreps for first ⁠⁠world title",
+    "summary": "Ali wins a controversial split -decision fight against American Kreps to claim IBO and WBF junior featherweight belts.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/9/british-somali-boxer-ramla-ali-defeats-mikiah-kreps-for-first-%e2%81%a0%e2%81%a0world-title?traffic_source=rss",
+    "publishedAt": "2026-11-09T13:59:24.000Z"
+  },
+  {
+    "id": "1cd3d206e6cbb836",
+    "title": "Thirteen migrants die after boat sinks off Crete",
+    "summary": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo",
+    "publishedAt": "2026-11-09T13:50:01.000Z"
+  },
+  {
+    "id": "79bc331941130221",
+    "title": "Paraguay raids ex-president’s home: Why a bank crash brought down Pena",
+    "summary": "Santiago Pena faces charges of financial crimes following Ueno Bank's collapse, impacting half of Paraguay's population.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena?traffic_source=rss",
+    "publishedAt": "2026-11-09T13:44:00.000Z"
+  },
+  {
+    "id": "aa930c646752664e",
+    "title": "‘Obvious risk of further tragedy’ at rail crossing type at which Amazon driver died, inquiry finds",
+    "summary": "Call for overhaul of manually operated level crossings after delivery worker was killed by passenger train in Kent.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/09/amazon-driver-died-inquiry-manually-operated-level-crossing-kent",
+    "publishedAt": "2026-11-09T13:43:57.000Z"
+  },
+  {
+    "id": "73acf381ec2190fa",
+    "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
+    "summary": "Syrian officials deny reports Damascus is sending troops to Yemen, but Syrian security integration appears under way.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
+    "publishedAt": "2026-11-09T13:15:27.000Z"
+  },
+  {
+    "id": "460a50597021b7a7",
+    "title": "Which Republicans are running for minority leadership roles in Congress?",
+    "summary": "Republicans in US House and Senate will hold elections on Tuesday to select leadership after losing their majorities.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/which-republicans-are-running-for-minority-leadership-roles-in-congress?traffic_source=rss",
+    "publishedAt": "2026-11-09T13:14:57.000Z"
+  },
+  {
+    "id": "ee85900ed9d2fff2",
+    "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China row?",
+    "summary": "Donald Trump praised the chipmaker’s CEO despite reports he had an affair with a suspected Chinese spy.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-us-china-donald-trump-spy",
+    "publishedAt": "2026-11-09T13:09:23.000Z"
+  },
+  {
+    "id": "931c77e00354dba2",
+    "title": "Sudan teachers go on strike over meagre salaries and dilapidated schools",
+    "summary": "Teachers across the country say their pay no longer covers basic living costs.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools?traffic_source=rss",
+    "publishedAt": "2026-11-09T13:08:35.000Z"
+  },
+  {
     "id": "f8794ed89bac2134",
     "title": "Pope visits struggling Argentine home for people with disabilities to press message",
     "summary": "Pope Leo XIV is doubling down on his call for Argentina to look out for the weakest.",
@@ -7,6 +106,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/pope-visits-struggling-argentine-home-people-disabilities-press-137970019",
     "publishedAt": "2026-11-09T13:06:38.000Z"
+  },
+  {
+    "id": "c1e95fc8ad4d6d3f",
+    "title": "Black girls in LA keep seeing women around them getting killed. They’re driving change",
+    "summary": "Black women and girls represent an outsized share of LA homicide victims – frustrated with police and legislators’ failures, they’re stepping up and speaking out to stop the violence.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/09/black-women-girls-los-angeles-homicides-violence",
+    "publishedAt": "2026-11-09T13:00:09.000Z"
   },
   {
     "id": "ca0a2d825abc3931",
@@ -1053,6 +1161,15 @@
     "publishedAt": "2026-11-08T23:36:47.000Z"
   },
   {
+    "id": "7372e89861ee09bc",
+    "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+    "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
+    "publishedAt": "2026-11-08T23:34:18.000Z"
+  },
+  {
     "id": "8e9064de628a2049",
     "title": "Lopez double fires Barcelona to win at Atletico Madrid",
     "summary": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
@@ -1231,122 +1348,5 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-09/queensland-sharing-friends-women-co-housing-project/107337800",
     "publishedAt": "2026-11-08T19:41:36.000Z"
-  },
-  {
-    "id": "2bffef7e27e98c7f",
-    "title": "Small plane crashes into pickup truck on busy Florida highway",
-    "summary": "No one was injured after emergency landing in Fort Myers 50 minutes after takeoff with two people onboard.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway",
-    "publishedAt": "2026-11-08T19:29:05.000Z"
-  },
-  {
-    "id": "1891a2a8cc9491f7",
-    "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
-    "summary": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
-    "publishedAt": "2026-11-08T19:25:30.000Z"
-  },
-  {
-    "id": "ea3264de8a1273d2",
-    "title": "Seven dead and 100 injured after trains collide in Egypt",
-    "summary": "The collision on the edge of Cairo killed at least seven people and injured more than 110.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-09/train-collision-egypt-giza/107361794",
-    "publishedAt": "2026-11-08T19:20:50.000Z"
-  },
-  {
-    "id": "535a53195e6f678f",
-    "title": "Man United earn 4-4 draw against Aston Villa but remain in relegation zone",
-    "summary": "Michael Carrick's team continue forgettable season with last-gasp draw at Old Trafford in front of angry home fans.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss",
-    "publishedAt": "2026-11-08T19:15:36.000Z"
-  },
-  {
-    "id": "1f59cd90d506c4f5",
-    "title": "Hakeem Jeffries supports impeachment of Pete Hegseth: ‘He has got to go’",
-    "summary": "House Democrat is a ‘hard yes’ on impeachment resolution against defense secretary who ‘has abused his power’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries",
-    "publishedAt": "2026-11-08T19:11:33.000Z"
-  },
-  {
-    "id": "7820803256f98500",
-    "title": "2 trains crash in Egypt; 2 dead, more than 100 injured",
-    "summary": "Egypt's railway system has a history of mismanagement and poor maintenance.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/collision-2-trains-egypt-kills-7-injures-100-137955543",
-    "publishedAt": "2026-11-08T19:11:26.000Z"
-  },
-  {
-    "id": "37633c45d2b5160e",
-    "title": "The questionable sales tactics prompting people to switch their super",
-    "summary": "Unqualified and unlicensed telemarketers are targeting Australians to switch their superannuation savings into riskier schemes. This has prompted the corporate regulator to threaten the licences of financial advice firms that use these \"lead generators\".",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-09/asic-warns-firms-using-lead-generators-to-push-super-switching/107356376",
-    "publishedAt": "2026-11-08T19:01:22.000Z"
-  },
-  {
-    "id": "5e7bd0492205c5bd",
-    "title": "Turkey and Azerbaijan deny speculation of fraying relationship",
-    "summary": "The Turkish and Azerbaijani presidents have reaffirmed the countries’ close ties following speculation of souring relations.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/turkey-azerbaijan-deny-speculation-fraying-relationship-137956081",
-    "publishedAt": "2026-11-08T18:57:19.000Z"
-  },
-  {
-    "id": "6eb4463698810bbc",
-    "title": "Sudan’s military again detains International Criminal Court fugitive Haroun, lawyers say",
-    "summary": "Sudan’s military authorities have once again detained Ahmed Haroun, a former senior Islamist official wanted by the International Criminal Court for atrocities in Darfur.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/sudans-military-detains-international-criminal-court-fugitive-haroun-137956175",
-    "publishedAt": "2026-11-08T18:57:07.000Z"
-  },
-  {
-    "id": "6df01a1e5a4c916b",
-    "title": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates",
-    "summary": "Syria is preparing to send fighters to Saudi Arabia to support its escalating conflict with rebels in neighboring Yemen.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/saudi-arabia-turns-syria-fighting-houthis-escalates-137956922",
-    "publishedAt": "2026-11-08T18:56:47.000Z"
-  },
-  {
-    "id": "fbcd8be35275939a",
-    "title": "Trump championed oil, but instead he fuelled an electro revolution",
-    "summary": "The Iran war might have cost Donald Trump the midterm elections, but it has helped EV sales boom and strengthened the case for electrification, as the costs of solar and batteries plummet.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-09/iran-conflict-strengthens-case-or-electrification/107351224",
-    "publishedAt": "2026-11-08T18:48:27.000Z"
-  },
-  {
-    "id": "64c68a7ba94169c1",
-    "title": "Workers left without wages or answers break silence on Bathla collapse",
-    "summary": "Former employees of collapsed property developer Bathla Group speak for the first time about unpaid wages, mounting financial hardship and fears for their futures in Australia.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-09/workers-break-silence-after-bathla-collapse/107339658",
-    "publishedAt": "2026-11-08T18:45:22.000Z"
-  },
-  {
-    "id": "6afe169ee149250b",
-    "title": "Paramedic sustains multiple injuries in hospital assault",
-    "summary": "The NI Ambulance Service said the paramedic sustained injuries to the back of her head, neck, face, and hands during the incident.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxnv0487qpj3o",
-    "publishedAt": "2026-11-08T18:44:52.000Z"
   }
 ]
