@@ -1,5 +1,59 @@
 [
   {
+    "id": "7e6b058b77055290",
+    "title": "Trump tells 60 Minutes that deportation policy was ‘too tough’",
+    "summary": "President makes unusual acknowledgement that one of the defining policies of his second administration had become a political liability.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
+    "publishedAt": "2026-11-09T03:59:31.000Z"
+  },
+  {
+    "id": "bd4f98e1551c9b37",
+    "title": "New Delhi wakes to toxic smog after Diwali firecrackers",
+    "summary": "A thick blanket of smog has shrouded India’s capital after firecrackers lit up the skies over New Delhi during Diwali celebrations.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/new-delhi-wakes-toxic-smog-after-diwali-firecrackers-137964538",
+    "publishedAt": "2026-11-09T03:43:12.000Z"
+  },
+  {
+    "id": "c389ca056fdb9527",
+    "title": "Mexico arrests alleged major leader of Jalisco cartel",
+    "summary": "Rafael Alvarez, alias 'R2', was captured with intelligence shared by the ⁠US Drug Enforcement Administration.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/mexico-arrests-major-leader-of-jalisco-cartel?traffic_source=rss",
+    "publishedAt": "2026-11-09T03:42:57.000Z"
+  },
+  {
+    "id": "dcb7fd92be6ab116",
+    "title": "Leaders gather in Turkey for UN climate summit after a disastrous year of extreme weather",
+    "summary": "World leaders, delegates and climate activists are gathering in Antalya, Turkey, for a U.N. climate summit.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/leaders-gather-turkey-climate-summit-after-disastrous-year-137963921",
+    "publishedAt": "2026-11-09T03:41:56.000Z"
+  },
+  {
+    "id": "2cb997c8b0d74675",
+    "title": "‘Outrageous and racist’: premier responds to NSW One Nation candidate’s claim Australians are being ‘demographically replaced’",
+    "summary": "Chris Minns and human rights commissioner lambast comments made by Stuart Bonds, who leads party’s NSW upper house ticket.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb",
+    "publishedAt": "2026-11-09T03:33:14.000Z"
+  },
+  {
+    "id": "2bb28c52b26f224e",
+    "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+    "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o",
+    "publishedAt": "2026-11-09T02:50:13.000Z"
+  },
+  {
     "id": "a3e97f86f9425208",
     "title": "Moldova launches new power line to Romania to cut reliance on Russia",
     "summary": "Moldovan President Maia Sandu says 'two more power lines to Romania are on the way'.",
@@ -124,6 +178,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
     "publishedAt": "2026-11-08T23:50:17.000Z"
+  },
+  {
+    "id": "7aa5e2ab9b41c525",
+    "title": "Trump says he was 'kidding' about offering Dana White press secretary job",
+    "summary": "The US president backtracks on his announcement offering Ultimate Fighting Championship CEO Dana White the vacant White House press secretary role.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-09/donald-trump-says-he-was-kidding-about-dana-white-job-offer/107362886",
+    "publishedAt": "2026-11-08T23:49:39.000Z"
   },
   {
     "id": "a06abf90dcf2a885",
@@ -1285,68 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ck1wvx3r9rgeo",
     "publishedAt": "2026-11-08T07:06:13.000Z"
-  },
-  {
-    "id": "0b923c2533a6a538",
-    "title": "There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m",
-    "summary": "The dementia treatment for children is available in the US, with funding for UK children unclear.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8046kdw56e2o",
-    "publishedAt": "2026-11-08T07:04:36.000Z"
-  },
-  {
-    "id": "ebdfed9765ee11bc",
-    "title": "New Zealanders won't know for weeks who won the election as neither side secures clear victory",
-    "summary": "New Zealanders face weeks of uncertainty after Saturday's election, with no clear winner emerging.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/new-zealanders-weeks-won-election-side-secures-clear-137950485",
-    "publishedAt": "2026-11-08T07:01:48.000Z"
-  },
-  {
-    "id": "f7c9615409fb2cf4",
-    "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
-    "summary": "Farmers face big drop in production from extreme weather during this year’s super El Niño event.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
-    "publishedAt": "2026-11-08T07:00:34.000Z"
-  },
-  {
-    "id": "2a2d18a832ec5ac5",
-    "title": "Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality",
-    "summary": "President claimed to have ushered in a ‘golden age’ even as prices soared and war dragged on – and midterm voters did not buy his looking-glass narrative.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
-    "publishedAt": "2026-11-08T07:00:34.000Z"
-  },
-  {
-    "id": "2928381dcd52ca51",
-    "title": "‘Windrush’ accusations over sharp rise in Turkish nationals facing removal from UK",
-    "summary": "David Lammy among those raising concerns after errors found in rejected applications for indefinite leave to remain.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush",
-    "publishedAt": "2026-11-08T07:00:33.000Z"
-  },
-  {
-    "id": "fe1449a8c77735a2",
-    "title": "‘Free grand piano’: the scam playing on music lovers’ heartstrings",
-    "summary": "Emails claim to come from a woman whose husband has died – but the offer isn’t what it seems.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/08/free-grand-piano-scam-emails",
-    "publishedAt": "2026-11-08T07:00:33.000Z"
-  },
-  {
-    "id": "08249d244a8316d2",
-    "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
-    "summary": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurence.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
-    "publishedAt": "2026-11-08T06:00:33.000Z"
   }
 ]
