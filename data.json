@@ -189,6 +189,15 @@
     "publishedAt": "2026-11-08T21:37:36.000Z"
   },
   {
+    "id": "bc104d8a3148b0bf",
+    "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
+    "summary": "Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
+    "publishedAt": "2026-11-08T21:25:10.000Z"
+  },
+  {
     "id": "fdf2d10328740e06",
     "title": "‘Seismic shift’: Native American women made significant gains in US midterms",
     "summary": "Nationwide, voters elected at least 75 Native women or non-binary candidates in Tuesday’s elections, report says.",
@@ -241,6 +250,15 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-09/five-ways-israel-coalition-negotiations-could-go/107361790",
     "publishedAt": "2026-11-08T20:02:30.000Z"
+  },
+  {
+    "id": "6b8f43c0903323bf",
+    "title": "$120,000 and a 50-year lease: Australian-first housing solution for older women",
+    "summary": "It is hoped the development will become the way forward for housing older, single women facing housing insecurity.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-09/queensland-sharing-friends-women-co-housing-project/107337800",
+    "publishedAt": "2026-11-08T19:41:36.000Z"
   },
   {
     "id": "2bffef7e27e98c7f",
@@ -1330,23 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
     "publishedAt": "2026-11-08T04:20:57.000Z"
-  },
-  {
-    "id": "d3bebbaf6fce2880",
-    "title": "Houthis say at least 33 killed in Saudi air strike",
-    "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
-    "publishedAt": "2026-11-08T04:03:12.000Z"
-  },
-  {
-    "id": "b1be3b5762d7b093",
-    "title": "Trump asks UFC chief Dana White to be White House press secretary",
-    "summary": "Ultimate Fighting Championship CEO says he will meet with the US president on Monday to discuss the offer.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
-    "publishedAt": "2026-11-08T03:12:44.000Z"
   }
 ]
