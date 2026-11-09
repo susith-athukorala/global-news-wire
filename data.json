@@ -1,5 +1,113 @@
 [
   {
+    "id": "86a988233c43972a",
+    "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+    "summary": "New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
+    "publishedAt": "2026-11-09T15:09:53.000Z"
+  },
+  {
+    "id": "a987b421dd7c728a",
+    "title": "Los Angeles mayoral race points to growing sway of democratic socialists",
+    "summary": "Nithya Raman taps into frustration with economic and political status quo to become mayor of the second-largest US city.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/los-angeles-mayoral-race-points-to-growing-sway-of-democratic-socialists?traffic_source=rss",
+    "publishedAt": "2026-11-09T15:05:22.000Z"
+  },
+  {
+    "id": "1873c2f01613b0ed",
+    "title": "KFC’s arrival at Italian ski slopes angers food and mountain purists",
+    "summary": "Fast-food outlets on slopes at two prestigious Dolomites resorts are Italy’s first, with legal action threatened.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/09/kfc-italian-ski-slopes-dolomites-fast-food",
+    "publishedAt": "2026-11-09T15:00:21.000Z"
+  },
+  {
+    "id": "2240778db6cf0e34",
+    "title": "More than 400,000 Russians killed fighting in Ukraine war, leaked data suggests",
+    "summary": "Hacked death records reveal scale of losses since Moscow launched full-scale invasion nearly five years ago.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/09/russians-killed-ukraine-war-leaked-data",
+    "publishedAt": "2026-11-09T14:58:01.000Z"
+  },
+  {
+    "id": "b4ef7c62c1d1c150",
+    "title": "UK court hands comedian Russell Brand 10.5 years for rape, sexual assault",
+    "summary": "Brand was convicted last week of raping one woman and sexually assaulting three more between 2004 ​and 2009.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/uk-court-hands-comedian-russel-brand-10-5-years-for-rape-sexual-assault?traffic_source=rss",
+    "publishedAt": "2026-11-09T14:42:39.000Z"
+  },
+  {
+    "id": "45e67a501d3facdb",
+    "title": "Iran stands by demands to end the war as US ramps up military pressure",
+    "summary": "Talks aimed at preventing new major fighting between the US and Iran are ongoing.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure?traffic_source=rss",
+    "publishedAt": "2026-11-09T14:39:32.000Z"
+  },
+  {
+    "id": "4987983bd58cb740",
+    "title": "Russia's top independent newspaper closes after three decades, citing pressure",
+    "summary": "Russia’s most celebrated independent newspaper, Novaya Gazeta, has closed its Moscow offices, citing relentless pressure from the government.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/russias-top-independent-newspaper-closes-office-after-decades-137972997",
+    "publishedAt": "2026-11-09T14:34:26.000Z"
+  },
+  {
+    "id": "9cc36b253bd19830",
+    "title": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assault",
+    "summary": "Disgraced actor and comedian, 51, was described as a ruthless and manipulative sexual predator during trial.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault",
+    "publishedAt": "2026-11-09T14:28:49.000Z"
+  },
+  {
+    "id": "cc6f296f6528938c",
+    "title": "More than 100,000 sign petition for inquiry into UK role in Gaza genocide",
+    "summary": "The number of signatures requires the British parliament to consider the topic for debate.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/more-than-100000-sign-petition-for-inquiry-into-uk-role-in-gaza-genocide?traffic_source=rss",
+    "publishedAt": "2026-11-09T14:24:51.000Z"
+  },
+  {
+    "id": "eaaf087e9e57403d",
+    "title": "‘No concession’: What to expect from Russia-US-Ukraine talks in Abu Dhabi",
+    "summary": "A fourth round of peace talks in 2026 takes place this week, with security guarantees high on the agenda.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi?traffic_source=rss",
+    "publishedAt": "2026-11-09T14:24:31.000Z"
+  },
+  {
+    "id": "c55d4da5e4e50654",
+    "title": "Joe Biden to limit White House memoir promotion due to advancing cancer",
+    "summary": "Former president’s new book Promise Me America provides an inside look at January 6, Covid-19 response and more.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/biden-presidency-memoir-promise-me-america-cancer",
+    "publishedAt": "2026-11-09T14:18:00.000Z"
+  },
+  {
+    "id": "8ed5918251423f9d",
+    "title": "What ‘catastrophic’ South Africa local election results mean for ANC",
+    "summary": "The country is transitioning away from the era of ANC electoral dominance towards a more fragmented political system.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/what-catastrophic-south-africa-local-election-results-mean-for-anc?traffic_source=rss",
+    "publishedAt": "2026-11-09T14:14:28.000Z"
+  },
+  {
     "id": "37afe5e19fed5488",
     "title": "‘Exceedingly heavy-handed’: ACT police criticised by magistrate for Tasering disabled Aboriginal woman",
     "summary": "Exclusive: Body-worn camera footage shows woman pulled off bench and a Taser activated despite ‘putting up no resistance’, magistrate says.",
@@ -421,6 +529,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
     "publishedAt": "2026-11-09T08:49:17.000Z"
+  },
+  {
+    "id": "7820803256f98500",
+    "title": "2 trains crash in Egypt; 2 dead, more than 100 injured",
+    "summary": "Egypt's railway system has a history of mismanagement and poor maintenance.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/collision-2-trains-egypt-kills-7-injures-100-137955543",
+    "publishedAt": "2026-11-09T08:49:12.000Z"
   },
   {
     "id": "bc0e1ef34b58e642",
@@ -1231,122 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
     "publishedAt": "2026-11-08T22:03:59.000Z"
-  },
-  {
-    "id": "c6262c3ad3c4e729",
-    "title": "Why Trump wants UFC chief Dana White as his new White House press secretary",
-    "summary": "The two have business ties going back decades, and White has helped Trump reach out to younger voters.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
-    "publishedAt": "2026-11-08T22:03:54.000Z"
-  },
-  {
-    "id": "c7bd76bbcbef2113",
-    "title": "Poles mourn rare mass killing as authorities say attacker had far-right views",
-    "summary": "Mourners have laid candles and flowers alongside bullet holes in Krakow, Poland, after the city’s central square turned into a site of bloodshed and grief.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/poles-mourn-rare-mass-killing-authorities-attacker-views-137951140",
-    "publishedAt": "2026-11-08T22:02:14.000Z"
-  },
-  {
-    "id": "c00e79ed290f9f36",
-    "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-    "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo",
-    "publishedAt": "2026-11-08T21:37:36.000Z"
-  },
-  {
-    "id": "bc104d8a3148b0bf",
-    "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
-    "summary": "Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
-    "publishedAt": "2026-11-08T21:25:10.000Z"
-  },
-  {
-    "id": "fdf2d10328740e06",
-    "title": "‘Seismic shift’: Native American women made significant gains in US midterms",
-    "summary": "Nationwide, voters elected at least 75 Native women or non-binary candidates in Tuesday’s elections, report says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/08/native-american-women-midterm-elections",
-    "publishedAt": "2026-11-08T21:04:49.000Z"
-  },
-  {
-    "id": "2b527a5d8a869d76",
-    "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
-    "summary": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
-    "publishedAt": "2026-11-08T21:00:58.000Z"
-  },
-  {
-    "id": "a587e0d9cf053546",
-    "title": "At least 21 dead after boat carrying migrants sinks off Senegal coast, interior ministry says",
-    "summary": "At least 21 people died after a boat carrying migrants sank off Senegal's coast, according to the country's interior ministry.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/21-dead-after-boat-carrying-migrants-sinks-off-137954425",
-    "publishedAt": "2026-11-08T20:34:13.000Z"
-  },
-  {
-    "id": "f57f17f72c2ed939",
-    "title": "Poland treats fatal mass shooting as 'terrorist offence'",
-    "summary": "Four women and two men were killed in the shooting in the Main Square of Krakow's Old Town, which Poland's defence minister has described as an \"act of terror\".",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-09/poland-treating-mass-shooting-as-terrorist-offence/107362106",
-    "publishedAt": "2026-11-08T20:25:36.000Z"
-  },
-  {
-    "id": "cb84708313583494",
-    "title": "Iran threatens to ‘rain down hell’ if US escalates war",
-    "summary": "President Trump warns that US forces are 'locked and loaded' and ready to strike, if necessary.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
-    "publishedAt": "2026-11-08T20:13:39.000Z"
-  },
-  {
-    "id": "a83a2dd8bffd9da8",
-    "title": "Cruise ship pianist rescued after nine hours treading water miles from shore",
-    "summary": "Man taken to hospital after falling off Royal Caribbean ship in Pacific Ocean, with Coast Guard investigating incident.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/08/royal-caribbean-cruise-ship-pianist-rescue",
-    "publishedAt": "2026-11-08T20:13:09.000Z"
-  },
-  {
-    "id": "ae534e8020e60f90",
-    "title": "Eisenkot is trying to form government in Israel. Here are five ways it could go",
-    "summary": "Gadi Eisenkot's path to power could involve some creative political arithmetic and manoeuvring. So, what are the options from here?",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-09/five-ways-israel-coalition-negotiations-could-go/107361790",
-    "publishedAt": "2026-11-08T20:02:30.000Z"
-  },
-  {
-    "id": "fcafcaba90ec12f1",
-    "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-    "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo",
-    "publishedAt": "2026-11-08T19:58:02.000Z"
-  },
-  {
-    "id": "6b8f43c0903323bf",
-    "title": "$120,000 and a 50-year lease: Australian-first housing solution for older women",
-    "summary": "It is hoped the development will become the way forward for housing older, single women facing housing insecurity.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-09/queensland-sharing-friends-women-co-housing-project/107337800",
-    "publishedAt": "2026-11-08T19:41:36.000Z"
   }
 ]
