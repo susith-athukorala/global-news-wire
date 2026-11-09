@@ -1,5 +1,122 @@
 [
   {
+    "id": "e774ffbce83beb3b",
+    "title": "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France",
+    "summary": "Secretary of State Marco Rubio will meet his counterparts from the Group of 7 industrialized democracies this week.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/rubio-discuss-iran-ukraine-ai-g7-allies-france-137965744",
+    "publishedAt": "2026-11-09T07:49:33.000Z"
+  },
+  {
+    "id": "887d7574cd404ae0",
+    "title": "A pastor at a Beijing underground church has been arrested, his wife says",
+    "summary": "Chinese authorities have arrested a pastor from a house church in Beijing, according to his wife.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pastor-beijing-underground-church-arrested-wife-137966622",
+    "publishedAt": "2026-11-09T07:45:42.000Z"
+  },
+  {
+    "id": "2174a261962d0964",
+    "title": "Greek authorities find 12 bodies in a boat carrying migrants; 18 people are rescued",
+    "summary": "Greek authorities have recovered 12 bodies from a migrant boat found south of Crete.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/greek-authorities-find-12-bodies-boat-carrying-migrants-137966627",
+    "publishedAt": "2026-11-09T07:44:14.000Z"
+  },
+  {
+    "id": "325ebaf8b914a27c",
+    "title": "Police say the 24-year-old who fatally shot 6 people in a Krakow square has died in the hospital",
+    "summary": "Police said the 24-year-old who opened fire in a city square in Poland, killing six people and wounding 15 on Saturday, died in the hospital Monday morning.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/police-24-year-fatally-shot-6-people-krakow-137966856",
+    "publishedAt": "2026-11-09T07:42:58.000Z"
+  },
+  {
+    "id": "c7423f5878dd627b",
+    "title": "Remembering Kristallnacht: Witness says night of terror risks being a lesson not learned",
+    "summary": "Germany is marking the 88th anniversary of the “Night of Broken Glass,” the Nazi-led attacks on Jewish communities on Nov. 9, 1938, when synagogues, homes and thousands of Jewish businesses were destroyed.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/remembering-kristallnacht-witness-night-terror-risks-lesson-learned-137966717",
+    "publishedAt": "2026-11-09T07:42:55.000Z"
+  },
+  {
+    "id": "d5971d98b1711f6d",
+    "title": "What to know about the shooting in the Polish city of Krakow that killed 6 people",
+    "summary": "Poland is in shock after a gunman opened fire in Krakow over the weekend, killing six people and wounding 15 before police shot and wounded him.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/shooting-polish-city-krakow-killed-6-people-137952518",
+    "publishedAt": "2026-11-09T07:42:40.000Z"
+  },
+  {
+    "id": "698ae3566b50cd50",
+    "title": "Gunman with far-right views who killed 6 people in a Polish city square dies in hospital, police say",
+    "summary": "Police said the 24-year-old who opened fire in a city square in Poland, killing six people and wounding 15 on Saturday, died in the hospital Monday morning.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/gunman-views-killed-6-people-polish-city-square-137966857",
+    "publishedAt": "2026-11-09T07:42:37.000Z"
+  },
+  {
+    "id": "552d6914ecaddd21",
+    "title": "Work to save the Afghan capital’s crumbling ancient fortress uncovers archaeological treasures",
+    "summary": "The imposing fortress of Bala Hissar in the Afghan capital Kabul has endured centuries of upheaval and war.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/work-save-afghan-capitals-crumbling-ancient-fortress-uncovers-137966473",
+    "publishedAt": "2026-11-09T07:42:34.000Z"
+  },
+  {
+    "id": "4ab0869a7a357eea",
+    "title": "Scientists predict 2026 hottest year on record as climate talks begin",
+    "summary": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo",
+    "publishedAt": "2026-11-09T07:30:12.000Z"
+  },
+  {
+    "id": "d8e1ae60749d3e0d",
+    "title": "Rare call for more electricity supplies as wind power drops across Europe",
+    "summary": "Neso issues ‘electricity margin notice’ for gas power plants on Britain to fire up and boost generation this morning amid energy shortfall.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/09/rare-call-more-electricity-supplies-windpower-drops-britain-energy-shortfall",
+    "publishedAt": "2026-11-09T07:21:50.000Z"
+  },
+  {
+    "id": "232c0cdb2baed557",
+    "title": "Which countries and industries emit the most greenhouse gases?",
+    "summary": "The US has emitted the most CO2 in history; China is now the biggest emitter. Here’s who is driving global emissions.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss",
+    "publishedAt": "2026-11-09T07:21:37.000Z"
+  },
+  {
+    "id": "8b768a35f7171ec1",
+    "title": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
+    "summary": "Hasina, who has been living in India for two years, has promised that she would return to Bangladesh in December.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss",
+    "publishedAt": "2026-11-09T07:12:09.000Z"
+  },
+  {
+    "id": "597a3b496bcbceea",
+    "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
+    "summary": "International Maritime Organization records at least 25 deaths since the conflict started on February 28.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
+    "publishedAt": "2026-11-09T07:07:26.000Z"
+  },
+  {
     "id": "82f505bd8b737474",
     "title": "Krakow shooting suspect has died in hospital, police say",
     "summary": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
@@ -7,6 +124,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o",
     "publishedAt": "2026-11-09T07:06:58.000Z"
+  },
+  {
+    "id": "c0a45d64564a37c9",
+    "title": "Poland mass shooting assailant dies in hospital, police say",
+    "summary": "The assailant was shot by police officers and arrested minutes ‌after he ​opened fire at people in central Krakow.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss",
+    "publishedAt": "2026-11-09T07:03:24.000Z"
   },
   {
     "id": "62b4cb088a947f2d",
@@ -331,6 +457,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o",
     "publishedAt": "2026-11-09T02:50:13.000Z"
+  },
+  {
+    "id": "a49b52ce8806a01b",
+    "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
+    "summary": "Saudi Arabia has intercepted missiles targeting its capital and other regions.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951443",
+    "publishedAt": "2026-11-09T02:42:11.000Z"
   },
   {
     "id": "a3e97f86f9425208",
@@ -702,6 +837,15 @@
     "publishedAt": "2026-11-08T19:11:26.000Z"
   },
   {
+    "id": "37633c45d2b5160e",
+    "title": "The questionable sales tactics prompting people to switch their super",
+    "summary": "Unqualified and unlicensed telemarketers are targeting Australians to switch their superannuation savings into riskier schemes. This has prompted the corporate regulator to threaten the licences of financial advice firms that use these \"lead generators\".",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-09/asic-warns-firms-using-lead-generators-to-push-super-switching/107356376",
+    "publishedAt": "2026-11-08T19:01:22.000Z"
+  },
+  {
     "id": "5e7bd0492205c5bd",
     "title": "Turkey and Azerbaijan deny speculation of fraying relationship",
     "summary": "The Turkish and Azerbaijani presidents have reaffirmed the countries’ close ties following speculation of souring relations.",
@@ -990,6 +1134,15 @@
     "publishedAt": "2026-11-08T15:44:57.000Z"
   },
   {
+    "id": "ae001d577457fd00",
+    "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
+    "summary": "A Russian drone has struck emergency workers on rescue missions in southern Ukraine.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536",
+    "publishedAt": "2026-11-08T15:39:29.000Z"
+  },
+  {
     "id": "6ac10f6dc4053d92",
     "title": "‘No matter what, he doesn’t quit’: disabled wrestlers draw strength from ring alter egos",
     "summary": "Scheme in Derry aims to sow confidence by getting people with learning and physical disabilities into wrestling.",
@@ -1006,6 +1159,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/21-dead-after-boat-carrying-migrants-sinks-off-137954425",
     "publishedAt": "2026-11-08T15:37:28.000Z"
+  },
+  {
+    "id": "b87fc3d96a2dfda2",
+    "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+    "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro",
+    "publishedAt": "2026-11-08T15:37:25.000Z"
   },
   {
     "id": "ebb96ac494708a8d",
@@ -1186,167 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
     "publishedAt": "2026-11-08T13:18:50.000Z"
-  },
-  {
-    "id": "4fb97b66a29aa5d4",
-    "title": "Could Iraq’s Kurdish region return to two separate administrations?",
-    "summary": "A political impasse between the KRG and PUK threatens to break up the semiautonomous northern region.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss",
-    "publishedAt": "2026-11-08T13:06:28.000Z"
-  },
-  {
-    "id": "f34bf47aa06d6951",
-    "title": "Second world war veterans outnumber former PMs for possible last time on Remembrance Sunday",
-    "summary": "Andy Burnham takes part for first time alongside eight ex-premiers as 12 veterans participate in ceremony.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/08/second-world-war-veterans-outnumber-former-pms-for-possible-last-time-on-remembrance-sunday",
-    "publishedAt": "2026-11-08T13:05:13.000Z"
-  },
-  {
-    "id": "59f54aa8ec8aa2af",
-    "title": "how a UK firm is spearheading growth in trade of US fracked ethane",
-    "summary": "Ineos is driving exports with potentially far-reaching environmental and social repercussions.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/08/ineos-fracking-us",
-    "publishedAt": "2026-11-08T13:00:41.000Z"
-  },
-  {
-    "id": "36ec768f78375c69",
-    "title": "‘We feel the love’: Epstein survivors overwhelmed by messages of support at pop-up art exhibition",
-    "summary": "Visitors to a touring show drawing attention to Epstein’s crimes have left thousands of ‘powerful’ notes – and survivors say it means a great deal.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/08/jeffrey-epstein-survivors-exhibition",
-    "publishedAt": "2026-11-08T13:00:41.000Z"
-  },
-  {
-    "id": "f34c68ba918b6132",
-    "title": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
-    "summary": "Trump administration has gutted regulations that protect lives and natural resources as pipeline build-out continues.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
-    "publishedAt": "2026-11-08T13:00:40.000Z"
-  },
-  {
-    "id": "78e746cd2202d601",
-    "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
-    "summary": "'Terrorism' investigation launched after government officials say suspect likely influenced by far-right ideology.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
-    "publishedAt": "2026-11-08T12:40:12.000Z"
-  },
-  {
-    "id": "b3823dfce331a133",
-    "title": "Dormice 'thrive' at National Trust site",
-    "summary": "Killerton National Trust has 100 nest boxes across its estate in Devon.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c50meerl8xp1o",
-    "publishedAt": "2026-11-08T12:22:05.000Z"
-  },
-  {
-    "id": "bf3a8cb6e847047e",
-    "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-    "summary": "About 850,000 people lose power after Russian attacks on energy infrastructure in Ukraine's Dnipropetrovsk and Kharkiv.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
-    "publishedAt": "2026-11-08T12:20:17.000Z"
-  },
-  {
-    "id": "ab89a4227735d530",
-    "title": "South Africa’s ANC suffers setback in local elections",
-    "summary": "With 99 percent of votes counted, President Cyril Ramaphosa's party wins 31 percent nationally.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
-    "publishedAt": "2026-11-08T12:19:14.000Z"
-  },
-  {
-    "id": "ea522c95309640e9",
-    "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box",
-    "summary": "Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
-    "publishedAt": "2026-11-08T12:05:58.000Z"
-  },
-  {
-    "id": "fcef0533ef2e4d45",
-    "title": "Healthcare, tariffs – but not Trump impeachment: Democrats chart next two years of power",
-    "summary": "Midterms success gives party potent leverage over Trump – expect tough campaigns of investigating and lawmaking.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms",
-    "publishedAt": "2026-11-08T12:00:40.000Z"
-  },
-  {
-    "id": "eea51ddb4a07560a",
-    "title": "Stimulant overdoses on the rise as opioid deaths decline, but treatment is complex",
-    "summary": "More people recognize opioid overdoses, but education about stimulant overdoses hasn’t been as clear-cut.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/08/stimulant-overdoses-rise",
-    "publishedAt": "2026-11-08T12:00:40.000Z"
-  },
-  {
-    "id": "a4c533ab2b702725",
-    "title": "The efficiency trap: why optimising everything can backfire, badly",
-    "summary": "From roundabouts to the stock market, relentless streamlining could be making the world more dangerous.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly",
-    "publishedAt": "2026-11-08T12:00:39.000Z"
-  },
-  {
-    "id": "62e73d35acc1a138",
-    "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
-    "summary": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
-    "publishedAt": "2026-11-08T12:00:39.000Z"
-  },
-  {
-    "id": "36d1a006d1aab227",
-    "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
-    "summary": "Officials say suspect holds far-right views and three people found dead at his home were his parents and sister.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
-    "publishedAt": "2026-11-08T11:50:15.000Z"
-  },
-  {
-    "id": "38f02fc341d55aa2",
-    "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
-    "summary": "Israel's former military chief has been given the opportunity to form a government after an inconclusive election.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
-    "publishedAt": "2026-11-08T11:34:58.000Z"
-  },
-  {
-    "id": "16a7ddba9cca64d4",
-    "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
-    "summary": "Delegates from more than 190 countries are gathering in Turkey for climate talks, but the US will be absent.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
-    "publishedAt": "2026-11-08T11:00:38.000Z"
-  },
-  {
-    "id": "45adcca1814e3f35",
-    "title": "How the story of ‘the girl of 100 portraits’ inspired two books",
-    "summary": "Luc Corlouër made ‘deal’ with Prix Goncourt winner Philippe Jaenada over his research into model Louise Cansot, murdered in Paris in 1949.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer",
-    "publishedAt": "2026-11-08T11:00:38.000Z"
   }
 ]
