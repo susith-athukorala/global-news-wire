@@ -1,5 +1,113 @@
 [
   {
+    "id": "8d4bce7599242fec",
+    "title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides",
+    "summary": "For the first time since February, Russian, Ukrainian and U.S. negotiators are scheduled to hold talks on ending the full-scale war that is nearing the five-year mark.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/us-led-peace-talks-russia-ukraine-security-guarantees-137966016",
+    "publishedAt": "2026-11-09T11:15:04.000Z"
+  },
+  {
+    "id": "bf904fda69221af0",
+    "title": "In Senegal, Black surfers want to reclaim the waves despite lack of resources",
+    "summary": "The origins of surfing can be traced back to the native populations of Peru, Polynesia and Hawaii, and European travelers documented children surfing along the coast of what is now Ghana as early as the 17th century.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/senegal-black-surfers-reclaim-waves-despite-lack-resources-137967918",
+    "publishedAt": "2026-11-09T11:14:28.000Z"
+  },
+  {
+    "id": "499e7a8e6a7793de",
+    "title": "A day before US-brokered talks, Russia and Ukraine batter each other with long-range strikes",
+    "summary": "Russia has hit Ukraine's power grid again, while Ukrainian forces targeted a major Russian oil refinery.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
+    "publishedAt": "2026-11-09T11:14:22.000Z"
+  },
+  {
+    "id": "0e1c50d39b827c12",
+    "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
+    "summary": "Violent storms lash northern Iraq and parts of Iran, while Portugal faces strong winds and Japan braces for further snowfall.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
+    "publishedAt": "2026-11-09T10:59:06.000Z"
+  },
+  {
+    "id": "408a5794c8685a70",
+    "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
+    "summary": "Four children and a woman were killed after heavy rain caused a sandbank to collapse on their tent.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
+    "publishedAt": "2026-11-09T10:50:49.000Z"
+  },
+  {
+    "id": "1d33d0b4e24377a5",
+    "title": "EU sues IBM and two European firms over troubled entry/exit border system",
+    "summary": "Lawsuit filed last year against IBM, Atos and Leonardo after delays to passengers blamed on the system, first reported in the FT.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system",
+    "publishedAt": "2026-11-09T10:49:23.000Z"
+  },
+  {
+    "id": "dd80f3b61036cc56",
+    "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
+    "summary": "Allegations linking CEO to Chinese intelligence shake markets with chipmaker's shares falling more than 4 percent.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
+    "publishedAt": "2026-11-09T10:49:02.000Z"
+  },
+  {
+    "id": "5b51937e7c4a6f4a",
+    "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
+    "summary": "Through civic participation and liberal education, South Korean educators hope to \"quietly stitch the fabric of our democracy…before it unravels beyond repair.\"",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
+    "publishedAt": "2026-11-09T10:47:00.000Z"
+  },
+  {
+    "id": "0dc956ecc9c5a530",
+    "title": "Usman Khawaja’s ‘Sandpapergate’ claims are ‘accurate’, says David Warner",
+    "summary": "'We're not here to point fingers and we're not opening old wounds,' Australia's Warner said of himself and Khawaja.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/9/usman-khawajas-sandpapergate-claims-are-accurate-says-david-warner?traffic_source=rss",
+    "publishedAt": "2026-11-09T10:38:10.000Z"
+  },
+  {
+    "id": "9e88044f20eaca36",
+    "title": "Thames Water asks creditors for more time to help repay £20bn debt pile",
+    "summary": "Troubled utility lobbies for deadline on part of the debt to be extended to March 2028.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile",
+    "publishedAt": "2026-11-09T10:32:43.000Z"
+  },
+  {
+    "id": "93080ee73830b4e5",
+    "title": "Fog shrouding swathes of UK likely to disrupt transport early this week",
+    "summary": "Drivers warned to take care as ‘perfect’ weather conditions for mist affect areas of England, Wales and Northern Ireland.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/09/fog-uk-weather-transport-disruption",
+    "publishedAt": "2026-11-09T10:29:28.000Z"
+  },
+  {
+    "id": "ffb0b5ca14f59cf3",
+    "title": "At least four killed as Russia and Ukraine trade strikes overnight",
+    "summary": "Russia's second-largest oil refinery was set on fire by drones, while Russian strikes targeted Ukrainian energy sites.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
+    "publishedAt": "2026-11-09T10:08:45.000Z"
+  },
+  {
     "id": "fbd322b1d31b7863",
     "title": "He fought France's far right for half a century. Now Mélenchon's presidential bid may hand it power",
     "summary": "Jean-Luc M&eacute;lenchon is 75 and he's betting his last shot at France’s presidency on a generation young enough to be his grandchildren.",
@@ -115,6 +223,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go",
     "publishedAt": "2026-11-09T08:16:57.000Z"
+  },
+  {
+    "id": "ebb96ac494708a8d",
+    "title": "Tens of thousands march in Amsterdam, pressing the Dutch government on Gaza and Israel",
+    "summary": "Tens of thousands of people, many dressed in red, have marched through Amsterdam, demanding the Dutch government take stronger action against Israel over Gaza.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/tens-thousands-march-amsterdam-pressing-dutch-government-gaza-137954786",
+    "publishedAt": "2026-11-09T08:10:21.000Z"
   },
   {
     "id": "11458af0c685be13",
@@ -927,6 +1044,15 @@
     "publishedAt": "2026-11-08T21:00:58.000Z"
   },
   {
+    "id": "a587e0d9cf053546",
+    "title": "At least 21 dead after boat carrying migrants sinks off Senegal coast, interior ministry says",
+    "summary": "At least 21 people died after a boat carrying migrants sank off Senegal's coast, according to the country's interior ministry.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/21-dead-after-boat-carrying-migrants-sinks-off-137954425",
+    "publishedAt": "2026-11-08T20:34:13.000Z"
+  },
+  {
     "id": "f57f17f72c2ed939",
     "title": "Poland treats fatal mass shooting as 'terrorist offence'",
     "summary": "Four women and two men were killed in the shooting in the Main Square of Krakow's Old Town, which Poland's defence minister has described as an \"act of terror\".",
@@ -1222,131 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave",
     "publishedAt": "2026-11-08T17:42:39.000Z"
-  },
-  {
-    "id": "fcafcaba90ec12f1",
-    "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-    "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo",
-    "publishedAt": "2026-11-08T17:35:13.000Z"
-  },
-  {
-    "id": "6e418a27982b5df9",
-    "title": "Nasa seeks next generation of astronauts to live and work on the moon",
-    "summary": "Applications due on 3 December for new generation of explorers who can ‘shape humanity’s future in space’",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open",
-    "publishedAt": "2026-11-08T16:54:44.000Z"
-  },
-  {
-    "id": "62e2d11719ecee4a",
-    "title": "Fan hospitalised after falling through stand at Norwegian football match",
-    "summary": "A stand in the away end of Tromso's stadium gave way during a match against Bodo/Glimt, causing fans to fall through.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/8/fan-hospitalised-after-falling-through-stand-at-norwegian-football-match?traffic_source=rss",
-    "publishedAt": "2026-11-08T16:53:03.000Z"
-  },
-  {
-    "id": "525373ac9a1d9ef6",
-    "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
-    "summary": "Bailiffs reportedly seized digital records before court case over alleged intellectual property breaches on Land Rover Defender.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
-    "publishedAt": "2026-11-08T16:50:58.000Z"
-  },
-  {
-    "id": "746756c1e33d7b4d",
-    "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
-    "summary": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\".",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
-    "publishedAt": "2026-11-08T16:46:15.000Z"
-  },
-  {
-    "id": "ff406199a7cc3594",
-    "title": "Collision of two trains in Egypt kills at least four",
-    "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-    "publishedAt": "2026-11-08T16:38:57.000Z"
-  },
-  {
-    "id": "b86be7e2ad5c6b20",
-    "title": "Met Office issues weather warning as UK conditions create ‘perfect recipe’ for fog",
-    "summary": "Travel may be disrupted until Monday morning in areas including most of southern England and across Midlands.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/08/met-office-weather-warning-uk-fog",
-    "publishedAt": "2026-11-08T16:38:16.000Z"
-  },
-  {
-    "id": "4963a03c586926a2",
-    "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
-    "summary": "The passenger train was travelling from Egypt's capital to Aswan in the south when it derailed, overturning carriages.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
-    "publishedAt": "2026-11-08T16:37:20.000Z"
-  },
-  {
-    "id": "e91fcdf33345d06e",
-    "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
-    "summary": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
-    "publishedAt": "2026-11-08T16:30:16.000Z"
-  },
-  {
-    "id": "c3a7d0e6f874f256",
-    "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
-    "summary": "Abed Abou Shhadeh says his detention was part of Israel's political measures 'to intimidate Arab society as a whole'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
-    "publishedAt": "2026-11-08T16:18:09.000Z"
-  },
-  {
-    "id": "8a0b52f12eda188a",
-    "title": "South Africa's ANC is humbled by its worst election results as it continues its decline",
-    "summary": "South Africa’s African National Congress is party facing its worst election results ever.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/south-africas-anc-humbled-worst-election-results-continues-137955443",
-    "publishedAt": "2026-11-08T16:05:32.000Z"
-  },
-  {
-    "id": "00588543661b181d",
-    "title": "Taiwan detains Communist Party leader over alleged Chinese sponsorship in election",
-    "summary": "He's accused of running under the direction of China’s Communist Party.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/taiwan-detains-communist-party-leader-alleged-chinese-sponsorship-137951046",
-    "publishedAt": "2026-11-08T15:44:57.000Z"
-  },
-  {
-    "id": "ae001d577457fd00",
-    "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
-    "summary": "A Russian drone has struck emergency workers on rescue missions in southern Ukraine.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536",
-    "publishedAt": "2026-11-08T15:39:29.000Z"
-  },
-  {
-    "id": "6ac10f6dc4053d92",
-    "title": "‘No matter what, he doesn’t quit’: disabled wrestlers draw strength from ring alter egos",
-    "summary": "Scheme in Derry aims to sow confidence by getting people with learning and physical disabilities into wrestling.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/08/disabled-wrestlers-derry-foyle-rumble",
-    "publishedAt": "2026-11-08T15:37:54.000Z"
   }
 ]
