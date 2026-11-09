@@ -1,5 +1,41 @@
 [
   {
+    "id": "f679d6cf2ccd6023",
+    "title": "Scientists think they've found ancient remnants of dinosaur blood",
+    "summary": "Scientists have studied plenty of dinosaur bones, eggs and footprints. Now, some think they've found their strongest evidence yet of dinosaur blood.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/09/nx-s1-6026704/scientists-think-theyve-found-ancient-remnants-of-dinosaur-blood",
+    "publishedAt": "2026-11-09T22:00:49.000Z"
+  },
+  {
+    "id": "dbf98c5ab7b4b11b",
+    "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+    "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o",
+    "publishedAt": "2026-11-09T21:52:28.000Z"
+  },
+  {
+    "id": "cb57b299e0773d7c",
+    "title": "Mice can learn to fight by watching tiny rodent cage matches, study finds",
+    "summary": "Brain scientists set up \"gladiator style\" cage matches for mice — and found that simply observing fighting matches can rewire a mouse's brain to resemble those who actually fought.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/09/nx-s1-6027938/mice-can-learn-to-fight-by-watching-tiny-rodent-cage-matches-study-finds",
+    "publishedAt": "2026-11-09T21:39:35.000Z"
+  },
+  {
+    "id": "37905215367a3c00",
+    "title": "US citizen shot by ICE officer near children’s bus stop sues government for $25m",
+    "summary": "Lawsuit also alleges agents followed Carlos Jimenez to a hospital and ‘interfered’ in his care, with bullet fragments still lodged near lung.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/citizen-shot-ice-officer-lawsuit-california",
+    "publishedAt": "2026-11-09T21:31:26.000Z"
+  },
+  {
     "id": "cb6ccd791592af55",
     "title": "Judge denies motion to dismiss Lindsay Clancy's murder case - media reports",
     "summary": "The ruling means prosecutors can pursue the case, meaning they could reduce charges in a potential second trial or dismiss them altogether.",
@@ -34,6 +70,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/pope-meets-survivors-clergy-abuse-argentina-reckons-legacy-137988212",
     "publishedAt": "2026-11-09T20:52:20.000Z"
+  },
+  {
+    "id": "370da75e876c60b5",
+    "title": "Cyprus rivals agree new crossings across island’s dividing line",
+    "summary": "The island has been split since 1974, when Turkiye invaded and seized the northern part after a coup by the Greeks.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line?traffic_source=rss",
+    "publishedAt": "2026-11-09T20:50:20.000Z"
   },
   {
     "id": "7c95fe6ed78be419",
@@ -171,6 +216,15 @@
     "publishedAt": "2026-11-09T19:07:42.000Z"
   },
   {
+    "id": "14ab2f012b0006a7",
+    "title": "University backflips on decision to cut 87 per cent of arts subjects",
+    "summary": "Federation University staff have walked off the job following eight months of failed enterprise agreement negotiations, and a back-step by management that left staff \"fearful\".",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-10/federation-university-staff-strike-for-24-hours-arts-subjects/107364274",
+    "publishedAt": "2026-11-09T19:04:32.000Z"
+  },
+  {
     "id": "c0af2dd02b23676c",
     "title": "Ohio State fraternity suspended after viral video shows two men on fire",
     "summary": "The university and local police are conducting investigations into Sigma Alpha Epsilon and have placed them on interim suspension.",
@@ -259,6 +313,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide",
     "publishedAt": "2026-11-09T18:27:51.000Z"
+  },
+  {
+    "id": "71755b9f792c49e1",
+    "title": "Operator of Neil the seal merchandise website fined for false claims",
+    "summary": "The operator of a now-closed Neil the seal merchandise website has been fined for \"falsely\" claiming it was donating a portion of its profits to conservation organisations.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-10/fairtrading-fines-neil-the-seal-merch-website-owner/107362984",
+    "publishedAt": "2026-11-09T18:25:32.000Z"
   },
   {
     "id": "a87b0df058bb599a",
@@ -738,6 +801,15 @@
     "publishedAt": "2026-11-09T14:24:31.000Z"
   },
   {
+    "id": "698ae3566b50cd50",
+    "title": "Gunman with far-right views who killed 6 in Polish city square dies in hospital, police say",
+    "summary": "Police say a 24-year-old gunman who opened fire in a city square in Poland, killing six people and wounding 15, has died in a hospital.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/gunman-views-killed-6-people-polish-city-square-137966857",
+    "publishedAt": "2026-11-09T14:18:22.000Z"
+  },
+  {
     "id": "c55d4da5e4e50654",
     "title": "Joe Biden to limit White House memoir promotion due to advancing cancer",
     "summary": "Former president’s new book Promise Me America provides an inside look at January 6, Covid-19 response and more.",
@@ -927,6 +999,15 @@
     "publishedAt": "2026-11-09T12:45:14.000Z"
   },
   {
+    "id": "e774ffbce83beb3b",
+    "title": "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France",
+    "summary": "Foreign ministers from the Group of Seven industrialized democracies have begun two days of talks in Paris as they struggle with multiple unresolved world crises amid questions how U.S. President Donald Trump will approach foreign policy after his Repu.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/rubio-discuss-iran-ukraine-ai-g7-allies-france-137965744",
+    "publishedAt": "2026-11-09T12:34:13.000Z"
+  },
+  {
     "id": "7377186a93e26160",
     "title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
     "summary": "Police declined to disclose their nationalities but said none of them lived in South Africa.",
@@ -997,6 +1078,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmly0dk420rgo",
     "publishedAt": "2026-11-09T11:45:04.000Z"
+  },
+  {
+    "id": "583f767e1cc0b8b4",
+    "title": "Gunman dies in hospital after killing six and injuring 15 in Krakow shooting",
+    "summary": "A gunman who killed six people and injured 15 others in a mass shooting in central Krakow, Poland, has died in hospital.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-09/krakow-shooter-dies-in-hospital/107366174",
+    "publishedAt": "2026-11-09T11:38:58.000Z"
   },
   {
     "id": "dcb7fd92be6ab116",
@@ -1242,6 +1332,15 @@
     "publishedAt": "2026-11-09T09:27:35.000Z"
   },
   {
+    "id": "89db9bbf55eb877c",
+    "title": "Ukrainian drone attack sets Russia's Kirishi refinery ablaze",
+    "summary": "Russia's second-largest oil refinery has been set ablaze following a Ukrainian drone attack that killed a local woman, a day before Russian, Ukrainian and US negotiators sit down for their first peace talks since February.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-09/ukrainian-drone-attack-at-russia-kirishi-refinery-woman-dies/107365888",
+    "publishedAt": "2026-11-09T09:22:35.000Z"
+  },
+  {
     "id": "e8a5ecaca0731f8a",
     "title": "French police officers face trial over beating of black man not wearing mask during Covid",
     "summary": "Assault on Michel Zecler in 2020 is rare case of police brutality reaching court, at time of heightened tensions.",
@@ -1249,104 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/09/french-police-officers-face-trial-over-beating-of-black-man-not-wearing-mask-during-covid",
     "publishedAt": "2026-11-09T09:09:01.000Z"
-  },
-  {
-    "id": "8c2696967193ad88",
-    "title": "Bangladesh's ousted leader Sheikh Hasina appeals for a new passport to return from exile",
-    "summary": "Former Bangladeshi Prime Minister Sheikh Hasina has requested a new passport to facilitate her return from exile two years after she was ousted in a mass uprising.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/bangladeshs-ousted-leader-sheikh-hasina-appeals-new-passport-137965192",
-    "publishedAt": "2026-11-09T09:07:25.000Z"
-  },
-  {
-    "id": "7c033b4c8e9b730e",
-    "title": "UK households face rush to find green energy installer to beat April VAT hike",
-    "summary": "Ministers pushed to reverse ‘policy madness’ of scrapping exemption on 5% tax rise for heat pumps, solar panels and batteries.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/09/uk-households-green-energy-installer-rush-april-vat-hike",
-    "publishedAt": "2026-11-09T09:00:05.000Z"
-  },
-  {
-    "id": "5cd870aebc1fc96a",
-    "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-    "summary": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo",
-    "publishedAt": "2026-11-09T08:49:17.000Z"
-  },
-  {
-    "id": "7820803256f98500",
-    "title": "2 trains crash in Egypt; 2 dead, more than 100 injured",
-    "summary": "Egypt's railway system has a history of mismanagement and poor maintenance.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/collision-2-trains-egypt-kills-7-injures-100-137955543",
-    "publishedAt": "2026-11-09T08:49:12.000Z"
-  },
-  {
-    "id": "bc0e1ef34b58e642",
-    "title": "Trump says his immigration policy ‘too tough’ for voters",
-    "summary": "Trump concedes some voters were unhappy with his administration's controversial deportation drive.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters?traffic_source=rss",
-    "publishedAt": "2026-11-09T08:35:05.000Z"
-  },
-  {
-    "id": "5c0882a6c1f9d016",
-    "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-    "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go",
-    "publishedAt": "2026-11-09T08:16:57.000Z"
-  },
-  {
-    "id": "ebb96ac494708a8d",
-    "title": "Tens of thousands march in Amsterdam, pressing the Dutch government on Gaza and Israel",
-    "summary": "Tens of thousands of people, many dressed in red, have marched through Amsterdam, demanding the Dutch government take stronger action against Israel over Gaza.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/tens-thousands-march-amsterdam-pressing-dutch-government-gaza-137954786",
-    "publishedAt": "2026-11-09T08:10:21.000Z"
-  },
-  {
-    "id": "4626a0812e9b7350",
-    "title": "Fuel retailer accused of selling unleaded 91 as premium petrol",
-    "summary": "The WA Commissioner for Consumer Protection launches civil court action against a fuel retailer it alleges has been making false or misleading claims about the octane rating of petrol.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-09/wa-consumer-protection-fuel-retailer-supreme-court/107298706",
-    "publishedAt": "2026-11-09T08:05:51.000Z"
-  },
-  {
-    "id": "11458af0c685be13",
-    "title": "‘A global political awakening’: how gen Z protests are sweeping the world",
-    "summary": "From Serbia to Bangladesh and India to France, young people are pushing back against authoritarianism and reshaping political landscapes.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world",
-    "publishedAt": "2026-11-09T08:04:44.000Z"
-  },
-  {
-    "id": "a09cb96332080f6c",
-    "title": "Is it true that … dock leaves cure nettle stings?",
-    "summary": "It’s a time-honoured treatment and rubbing certainly helps, but other leaves could be just as good.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/09/is-it-true-that-dock-leaves-cure-nettle-stings",
-    "publishedAt": "2026-11-09T08:00:03.000Z"
-  },
-  {
-    "id": "0a4072215a1667e9",
-    "title": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar",
-    "summary": "Aprilia's Marco Bezzecchi wins Qatar Grand Prix as Ducati's Marc Marquez finishes second.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss",
-    "publishedAt": "2026-11-09T07:56:16.000Z"
   }
 ]
