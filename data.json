@@ -1,5 +1,32 @@
 [
   {
+    "id": "08a8e362f8ed8bed",
+    "title": "A glimmer of good news for Britain's sleepy dormouse",
+    "summary": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o",
+    "publishedAt": "2026-11-09T00:56:43.000Z"
+  },
+  {
+    "id": "d5680fe4b603b805",
+    "title": "Maya Jama steps down as Love Island host after nine seasons",
+    "summary": "‘Time to throw myself into something new,’ 32-year-old presenter announces on social media while hailing her ‘unforgettable time’ on the show.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/09/maya-jama-steps-down-as-love-island-host-after-nine-seasons",
+    "publishedAt": "2026-11-09T00:43:39.000Z"
+  },
+  {
+    "id": "38ba8ee9ee67af2e",
+    "title": "Israel’s president gives Eisenkot the first chance to form the next government",
+    "summary": "Israeli President Isaac Herzog has formally given opposition leader Gadi Eisenkot the first chance to form the next government.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/israels-president-eisenkot-chance-form-government-137951844",
+    "publishedAt": "2026-11-09T00:30:37.000Z"
+  },
+  {
     "id": "9a163dd578211e1d",
     "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
     "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
@@ -1321,32 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
     "publishedAt": "2026-11-08T03:12:44.000Z"
-  },
-  {
-    "id": "396e29a664cc37fb",
-    "title": "Palestinians return to destroyed West Bank homes after IDF siege",
-    "summary": "Wael al-Jabaa's home was demolished by the IDF after two Israeli soldiers were shot dead. He didn't know until afterwards that his son was one of the gunmen.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-08/palestinians-return-to-hebron-west-bank-after-idf-siege/107354948",
-    "publishedAt": "2026-11-08T03:01:31.000Z"
-  },
-  {
-    "id": "b454e695ed8cfd35",
-    "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
-    "summary": "Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minority.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation",
-    "publishedAt": "2026-11-08T03:00:28.000Z"
-  },
-  {
-    "id": "bc104d8a3148b0bf",
-    "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
-    "summary": "Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
-    "publishedAt": "2026-11-08T02:34:19.000Z"
   }
 ]
