@@ -1,5 +1,86 @@
 [
   {
+    "id": "9a163dd578211e1d",
+    "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+    "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no",
+    "publishedAt": "2026-11-09T00:16:49.000Z"
+  },
+  {
+    "id": "58435d411c44147d",
+    "title": "Doing these things now will help you save money at Christmas",
+    "summary": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo",
+    "publishedAt": "2026-11-09T00:09:14.000Z"
+  },
+  {
+    "id": "d1d86ec4c6826785",
+    "title": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+    "summary": "Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
+    "publishedAt": "2026-11-09T00:07:02.000Z"
+  },
+  {
+    "id": "940c758583969504",
+    "title": "New contract will make it 'easier' to get GP appointments",
+    "summary": "The Department of Health (DoH) said it will give an additional £40m across two years for \"improvements in patient access and primary care activity\".",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7q1w8q0e3o",
+    "publishedAt": "2026-11-09T00:00:27.000Z"
+  },
+  {
+    "id": "3005cb1e1cf9e347",
+    "title": "Mexican mayor found alive after hours-long abduction",
+    "summary": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
+    "publishedAt": "2026-11-08T23:55:37.000Z"
+  },
+  {
+    "id": "ce7710e6d7d39aad",
+    "title": "‘This happened very quick’: Beau Lamarre-Condon reenacts shooting Jesse Baird during double murder trial",
+    "summary": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in early 2024.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
+    "publishedAt": "2026-11-08T23:50:17.000Z"
+  },
+  {
+    "id": "a06abf90dcf2a885",
+    "title": "Kidnapped Mexican border town mayor found alive",
+    "summary": "He was kidnapped for several hours while traveling in the state of Zacatecas.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/mexican-border-town-mayor-found-alive-after-hourslong-137959695",
+    "publishedAt": "2026-11-08T23:42:57.000Z"
+  },
+  {
+    "id": "1dfdb5d77304ac5c",
+    "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+    "summary": "Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
+    "publishedAt": "2026-11-08T23:39:47.000Z"
+  },
+  {
+    "id": "c1496ce38262de16",
+    "title": "NASA is looking for astronauts to live and work on the Moon",
+    "summary": "NASA needs more recruits in order to return to the moon after being gone more than half a century.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
+    "publishedAt": "2026-11-08T23:36:47.000Z"
+  },
+  {
     "id": "8e9064de628a2049",
     "title": "Lopez double fires Barcelona to win at Atletico Madrid",
     "summary": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
@@ -72,6 +153,15 @@
     "publishedAt": "2026-11-08T22:03:54.000Z"
   },
   {
+    "id": "c00e79ed290f9f36",
+    "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+    "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo",
+    "publishedAt": "2026-11-08T21:37:36.000Z"
+  },
+  {
     "id": "fdf2d10328740e06",
     "title": "‘Seismic shift’: Native American women made significant gains in US midterms",
     "summary": "Nationwide, voters elected at least 75 Native women or non-binary candidates in Tuesday’s elections, report says.",
@@ -88,6 +178,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
     "publishedAt": "2026-11-08T21:00:58.000Z"
+  },
+  {
+    "id": "f57f17f72c2ed939",
+    "title": "Poland treats fatal mass shooting as 'terrorist offence'",
+    "summary": "Four women and two men were killed in the shooting in the Main Square of Krakow's Old Town, which Poland's defence minister has described as an \"act of terror\".",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-09/poland-treating-mass-shooting-as-terrorist-offence/107362106",
+    "publishedAt": "2026-11-08T20:25:36.000Z"
   },
   {
     "id": "cb84708313583494",
@@ -1249,104 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
     "publishedAt": "2026-11-08T02:34:19.000Z"
-  },
-  {
-    "id": "bf565a693b0b6151",
-    "title": "Pope Leo urges faithful in Uruguay to build bridges of fraternity and faith",
-    "summary": "Pope Leo XIV has urged an estimated 40,000 people in Uruguay to build bridges of fraternity and faith.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096",
-    "publishedAt": "2026-11-08T02:34:04.000Z"
-  },
-  {
-    "id": "02a329785f52c08d",
-    "title": "US launches task force to disrupt Iran’s land-based supply routes",
-    "summary": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
-    "publishedAt": "2026-11-08T02:34:04.000Z"
-  },
-  {
-    "id": "51af74d6082014d6",
-    "title": "The father and son farmers who sent a message to Donald Trump",
-    "summary": "Fred Levendofsky and his son Nick have worked the land in rural Kansas for over half a century and were fervent backers of Donald Trump, but not any more.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-08/us-midterms-the-kansas-farmers-who-turned-on-trump/107358824",
-    "publishedAt": "2026-11-08T02:17:59.000Z"
-  },
-  {
-    "id": "4c2774c555db7cf3",
-    "title": "The life of 'Russian starvation and torture' Ukrainians finally escaped",
-    "summary": "In Russian-controlled Oleshky, Ukrainians say they were forcibly starved and tortured before an evacuation mission allowed them to flee.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-08/life-inside-ukraines-oleshky-before-evacuation/107348714",
-    "publishedAt": "2026-11-08T02:17:44.000Z"
-  },
-  {
-    "id": "40305320732219ba",
-    "title": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
-    "summary": "El Hierro asks Spanish government for help after more than 3,300 people arrived on boats since start of November.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
-    "publishedAt": "2026-11-08T01:37:55.000Z"
-  },
-  {
-    "id": "fd9a11fbc0cef707",
-    "title": "Explosions in Strait of Hormuz as Iran reviews de-escalation proposals",
-    "summary": "Explosions are heard on Iran's Qeshm Island in the Strait of Hormuz, and tankers in the strategic waterway catch fire after hitting mines. Meanwhile, Iran says it has lifted a 2,000km limit on the range of its missiles.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730",
-    "publishedAt": "2026-11-08T01:07:51.000Z"
-  },
-  {
-    "id": "e5980b093e3f1e00",
-    "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
-    "summary": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
-    "publishedAt": "2026-11-08T01:00:48.000Z"
-  },
-  {
-    "id": "683feabe3b7a31c5",
-    "title": "The Trump coalition is shattered - what will Republicans do now?",
-    "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo",
-    "publishedAt": "2026-11-08T00:52:39.000Z"
-  },
-  {
-    "id": "50a422e50fc66d18",
-    "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-    "summary": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko",
-    "publishedAt": "2026-11-08T00:48:59.000Z"
-  },
-  {
-    "id": "4e69f89a3a15c3c5",
-    "title": "Can the Zelda remake capture the magic of the original?",
-    "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o",
-    "publishedAt": "2026-11-08T00:37:45.000Z"
-  },
-  {
-    "id": "acbc26952a99f062",
-    "title": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
-    "summary": "Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMs.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
-    "publishedAt": "2026-11-08T00:17:28.000Z"
   }
 ]
