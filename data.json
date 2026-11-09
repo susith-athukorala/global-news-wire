@@ -1,5 +1,86 @@
 [
   {
+    "id": "ebc96c3f5b6c20f3",
+    "title": "The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security",
+    "summary": "Jensen Huang’s close relationship with president means Nvidia CEO’s affair with woman alleged to be working for Beijing is a big deal.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security",
+    "publishedAt": "2026-11-09T20:01:05.000Z"
+  },
+  {
+    "id": "7ff5589d2bdd5aff",
+    "title": "Tommy Walsh, co-presenter of BBC’s Ground Force, dies aged 69",
+    "summary": "Former builder got his big break after restoring the home of a producer who was working on a precursor to the show.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/09/tommy-walsh-co-presenter-of-bbcs-ground-force-dies-aged-69",
+    "publishedAt": "2026-11-09T19:59:36.000Z"
+  },
+  {
+    "id": "850a20be4f744a1d",
+    "title": "Explosion at Turkish steel plant kills at least 16 people",
+    "summary": "President Erdogan announces an investigation after a crane collapsed into a furnace, triggering the blast near Izmir.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
+    "publishedAt": "2026-11-09T19:58:40.000Z"
+  },
+  {
+    "id": "1d6e26eab7f4d940",
+    "title": "Progressives head to US House in record numbers after winning red districts",
+    "summary": "Caucus had 100 members in the last Congress, and six of the nine candidates it endorsed won, flipping seats.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/progressives-us-house-flipped-seats",
+    "publishedAt": "2026-11-09T19:57:32.000Z"
+  },
+  {
+    "id": "70d067f37c963226",
+    "title": "South Africa detains foreigners suspected of heading to join Russian forces",
+    "summary": "Africans and others continue to be recruited to fight for Russia in its war on Ukraine.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
+    "publishedAt": "2026-11-09T19:56:45.000Z"
+  },
+  {
+    "id": "2d19e7a793a272ae",
+    "title": "Honduras awaits verdict in disappearance case that exposed sex trafficking ring",
+    "summary": "Relatives, lawyers and feminist groups in Honduras are demanding justice in the case of Angie Pe&ntilde;a, a 22-year-old who disappeared in 2022.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/honduras-awaits-verdict-disappearance-case-exposed-sex-trafficking-137985538",
+    "publishedAt": "2026-11-09T19:43:47.000Z"
+  },
+  {
+    "id": "719bb566ef54dc42",
+    "title": "Cyber-attack on French supermarket freezers has geopolitical context",
+    "summary": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across Europe.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
+    "publishedAt": "2026-11-09T19:40:45.000Z"
+  },
+  {
+    "id": "f2ec6235cd6559a5",
+    "title": "Republican Thomas Massie moves to force vote to impeach Pete Hegseth",
+    "summary": "US representative accuses defense secretary of illegally waging war without congressional authorization and abusing his powers.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie",
+    "publishedAt": "2026-11-09T19:31:36.000Z"
+  },
+  {
+    "id": "32ae78fe6fe4625c",
+    "title": "Jemima Goldsmith says ex-partner Russell Brand physically assaulted her",
+    "summary": "TV producer, who was in relationship with ex-comedian that reportedly ended in 2014, accuses him of ‘violence, coercive control and abuse’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/2026/nov/09/jemima-goldsmith-says-ex-partner-russell-brand-physically-assaulted-her",
+    "publishedAt": "2026-11-09T19:27:22.000Z"
+  },
+  {
     "id": "eec41a5bd7781e3b",
     "title": "Boeing to cut about 5% of its commercial plane workforce",
     "summary": "Company will cut jobs through a mix of layoffs and attrition as it moderates the pace of ramping up jet production.",
@@ -7,6 +88,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
     "publishedAt": "2026-11-09T19:11:26.000Z"
+  },
+  {
+    "id": "e1524bbf76270337",
+    "title": "US agencies unite to combat rogue drone threats nationwide",
+    "summary": "More than $40bn allocated by NATO for counter-drone technologies as US agencies ramp up measures against aerial threats.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
+    "publishedAt": "2026-11-09T19:07:56.000Z"
+  },
+  {
+    "id": "873f11b357f12a21",
+    "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
+    "summary": "Democratic Senate leader Schumer criticises Trump's poll denialism, calling it an avoidable return to baseless claims.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss",
+    "publishedAt": "2026-11-09T19:07:42.000Z"
   },
   {
     "id": "c0af2dd02b23676c",
@@ -25,6 +124,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/09/rfk-jr-trump-midterms-maha",
     "publishedAt": "2026-11-09T18:57:51.000Z"
+  },
+  {
+    "id": "6b2cbe07192f2f95",
+    "title": "Two security breaches near White House prompt brief lockdown",
+    "summary": "Active investigations are under way after a vehicle crashed at Lafayette Park and a second individual jumped a barrier.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown?traffic_source=rss",
+    "publishedAt": "2026-11-09T18:57:01.000Z"
   },
   {
     "id": "f47f2c083c047f09",
@@ -414,6 +522,15 @@
     "publishedAt": "2026-11-09T15:53:44.000Z"
   },
   {
+    "id": "fbc14e5f6ea51acf",
+    "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+    "publishedAt": "2026-11-09T15:46:20.000Z"
+  },
+  {
     "id": "1b752bc5d3f266f5",
     "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
     "summary": "Analysts say a small intelligence-focused unit cannot seal Iran’s borders, and others warn it could expand the war.",
@@ -576,6 +693,15 @@
     "publishedAt": "2026-11-09T14:00:13.000Z"
   },
   {
+    "id": "2a4a3b3f2ff2aefd",
+    "title": "‘Settle down’, ‘do your own swabs’: how alleged rape victims are treated in Queensland revealed in major report",
+    "summary": "Prosecutors dropped cases because survivors ‘didn’t act how a rape victim should’, Australian Institute of Criminology review of 19,000 sexual assault cases finds.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/10/settle-down-do-your-own-swabs-how-alleged-victims-are-treated-in-queensland-revealed-in-major-report",
+    "publishedAt": "2026-11-09T14:00:12.000Z"
+  },
+  {
     "id": "50ea12e14dd3aace",
     "title": "There’s more than a whiff of politics to the sudden call to slash Labor’s green energy subsidies",
     "summary": "EVs and home batteries are in Treasury crosshairs despite a better economic case for scaling back nuclear-powered submarines and diesel fuel rebates for miners.",
@@ -646,6 +772,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/south-african-police-arrest-9-foreign-nationals-suspected-137970412",
     "publishedAt": "2026-11-09T13:19:10.000Z"
+  },
+  {
+    "id": "f1c3684f8f3ff36a",
+    "title": "How yesterday's waste is becoming tomorrow's fashion",
+    "summary": "Brands including Dr Martens, Nike and Coach are among those using recycled materials.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm5yd1q12g1no",
+    "publishedAt": "2026-11-09T13:18:38.000Z"
   },
   {
     "id": "73acf381ec2190fa",
@@ -1213,140 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss",
     "publishedAt": "2026-11-09T07:21:37.000Z"
-  },
-  {
-    "id": "8b768a35f7171ec1",
-    "title": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
-    "summary": "Hasina, who has been living in India for two years, has promised that she would return to Bangladesh in December.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss",
-    "publishedAt": "2026-11-09T07:12:09.000Z"
-  },
-  {
-    "id": "597a3b496bcbceea",
-    "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
-    "summary": "International Maritime Organization records at least 25 deaths since the conflict started on February 28.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
-    "publishedAt": "2026-11-09T07:07:26.000Z"
-  },
-  {
-    "id": "82f505bd8b737474",
-    "title": "Krakow shooting suspect has died in hospital, police say",
-    "summary": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o",
-    "publishedAt": "2026-11-09T07:06:58.000Z"
-  },
-  {
-    "id": "c0a45d64564a37c9",
-    "title": "Poland mass shooting assailant dies in hospital, police say",
-    "summary": "The assailant was shot by police officers and arrested minutes ‌after he ​opened fire at people in central Krakow.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss",
-    "publishedAt": "2026-11-09T07:03:24.000Z"
-  },
-  {
-    "id": "62b4cb088a947f2d",
-    "title": "‘It’s a feeling of being screwed over’: once-quiet village despairs over ‘monster’ warehouse",
-    "summary": "Residents of Astley in Greater Manchester will tell public inquiry next week of ‘cacophony’ of noise causing sleep deprivation and depression.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/09/astley-village-despair-monster-warehouse-inquiry",
-    "publishedAt": "2026-11-09T07:00:03.000Z"
-  },
-  {
-    "id": "868109dbac58a70f",
-    "title": "Why has Royal Mail only delivered letters twice in three months?",
-    "summary": "I am waiting for the overdue results of a cancer test, and the postal service seems to be prioritising parcels over letters.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/09/royal-mail-letter-deliveries-parcels",
-    "publishedAt": "2026-11-09T07:00:02.000Z"
-  },
-  {
-    "id": "5252d0cff00cf054",
-    "title": "Kraków shooting suspect who killed six has died, say police in Poland",
-    "summary": "Terrorism investigation was opened after a 24-year-old opened fire in a market square on the weekend.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
-    "publishedAt": "2026-11-09T06:58:03.000Z"
-  },
-  {
-    "id": "7c85b6afb37cb682",
-    "title": "How Israel’s separation wall compares with the Berlin Wall",
-    "summary": "How Israel's wall, checkpoints and permits divide Palestinians in the occupied West Bank and cut farmers off from land.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall?traffic_source=rss",
-    "publishedAt": "2026-11-09T06:32:18.000Z"
-  },
-  {
-    "id": "3079704836972f1d",
-    "title": "'My brother died, so I smashed up his TV'",
-    "summary": "From bereavement to stillbirth, more women are finding release in rage rooms from Bath to Swindon.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cj5ynv9lvl51o",
-    "publishedAt": "2026-11-09T06:30:54.000Z"
-  },
-  {
-    "id": "1f7498527a0c65bd",
-    "title": "Lando Norris wins Sao Palo Grand Prix, but Mercedes seal constructors title",
-    "summary": "Norris wins from pole position on a rainy Sao Paulo track as Mercedes win team title for the first time since 2021.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/9/lando-norris-wins-sao-palo-grand-prix-but-mercedes-seal-constructors-title?traffic_source=rss",
-    "publishedAt": "2026-11-09T06:21:08.000Z"
-  },
-  {
-    "id": "cd6dd9448eb7fe61",
-    "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
-    "summary": "A bank's collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of political and financial ties.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
-    "publishedAt": "2026-11-09T06:20:44.000Z"
-  },
-  {
-    "id": "9da3f1d375366414",
-    "title": "Print commissioned by Nasa uncovered for exhibition",
-    "summary": "The Pop Art at Cartwright Hall exhibition tells the story of the British International Print Biennale.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw98zm084dr3o",
-    "publishedAt": "2026-11-09T06:18:19.000Z"
-  },
-  {
-    "id": "89254e8187b4712b",
-    "title": "Hut owner wins battle to keep living in off-grid home he built",
-    "summary": "The man has lived in the self-built hut since 2020 - but never told authorities or asked for permission.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c933x074xz58o",
-    "publishedAt": "2026-11-09T06:13:11.000Z"
-  },
-  {
-    "id": "86a5bc3887c36d41",
-    "title": "How you can get council's £250 cost of living help",
-    "summary": "Applications for household grants of up to £250 are opening to some Surrey residents.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmd6dd3652zvo",
-    "publishedAt": "2026-11-09T06:11:28.000Z"
-  },
-  {
-    "id": "5a207a7341c0fb3e",
-    "title": "Cancer survivor's battle for fertility funding",
-    "summary": "A woman who survived stage four blood cancer says she no longer has access to fertility treatment.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm8ez3e8yy9wo",
-    "publishedAt": "2026-11-09T06:10:40.000Z"
   }
 ]
