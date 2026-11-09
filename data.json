@@ -1,5 +1,86 @@
 [
   {
+    "id": "cb84f65d2a5c346c",
+    "title": "Civil servant who secretly held five jobs found guilty of fraud",
+    "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do",
+    "publishedAt": "2026-11-09T16:10:08.000Z"
+  },
+  {
+    "id": "c58d7e0e8d4bb2a3",
+    "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
+    "summary": "The energy secretary says reducing bills is key to maintaining public support for climate action.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo",
+    "publishedAt": "2026-11-09T16:01:19.000Z"
+  },
+  {
+    "id": "acd7522b9a609305",
+    "title": "Nvidia shares slump amid investigation into CEO Jensen Huang",
+    "summary": "Huang admits infidelity, denies compromising Nvidia security as China spy inquiry shakes $4.5 trillion AI firm.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss",
+    "publishedAt": "2026-11-09T16:00:10.000Z"
+  },
+  {
+    "id": "031c48b899bb8cdc",
+    "title": "More than 50,000 displaced by deadly Ethiopia border clashes",
+    "summary": "Families arrive in Kenya with little food or shelter as host communities struggle to cope.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes?traffic_source=rss",
+    "publishedAt": "2026-11-09T15:55:27.000Z"
+  },
+  {
+    "id": "a889ee13c00c85b0",
+    "title": "Hardline Trump aide Stephen Miller takes over as White House chief of staff",
+    "summary": "Miller, known as the architect of Trump’s controversial immigration crackdown, is replacing Susie Wiles in new role.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff",
+    "publishedAt": "2026-11-09T15:53:44.000Z"
+  },
+  {
+    "id": "1b752bc5d3f266f5",
+    "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
+    "summary": "Analysts say a small intelligence-focused unit cannot seal Iran’s borders, and others warn it could expand the war.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
+    "publishedAt": "2026-11-09T15:31:37.000Z"
+  },
+  {
+    "id": "2ad20e12736945da",
+    "title": "Senegal human rights group demands government action after deadly sinking",
+    "summary": "Thousands ⁠of people have ⁠died in recent years attempting to reach Spain’s Canary Islands from West Africa.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss",
+    "publishedAt": "2026-11-09T15:30:09.000Z"
+  },
+  {
+    "id": "ca0f4f4474041de0",
+    "title": "Japan to provide coastal radar and drones to the Philippines under $27M deal",
+    "summary": "Japan said it will provide a coastal radar system and unmanned aircraft to the Philippines under a security aid deal, as both countries face growing tensions with China.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/japan-provide-coastal-radar-drones-philippines-27m-deal-137975977",
+    "publishedAt": "2026-11-09T15:26:21.000Z"
+  },
+  {
+    "id": "626d8ea3c3e0eaa6",
+    "title": "Dortmund police attacked as crowd storms kebab shop for €1 doner",
+    "summary": "Officers pelted with bottles, stones and fireworks after people try to get their hands on special introductory offer.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/09/german-police-attacked-crowd-storms-dortmund-kebab-shop-for-one-euro-doner",
+    "publishedAt": "2026-11-09T15:23:17.000Z"
+  },
+  {
     "id": "86a988233c43972a",
     "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
     "summary": "New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.",
@@ -153,6 +234,15 @@
     "publishedAt": "2026-11-09T13:50:01.000Z"
   },
   {
+    "id": "72ba5b29087d0475",
+    "title": "Germany set to get 1st female president as governing parties unite around ex-minister",
+    "summary": "Germany is set to get its first female president after Chancellor Friedrich Merz’s party nominated Ilse Aigner, a center-right politician with appeal to liberals, to become the country’s head of state next year.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/germany-set-1st-female-president-governing-parties-unite-137970711",
+    "publishedAt": "2026-11-09T13:46:28.000Z"
+  },
+  {
     "id": "79bc331941130221",
     "title": "Paraguay raids ex-president’s home: Why a bank crash brought down Pena",
     "summary": "Santiago Pena faces charges of financial crimes following Ueno Bank's collapse, impacting half of Paraguay's population.",
@@ -169,6 +259,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/09/amazon-driver-died-inquiry-manually-operated-level-crossing-kent",
     "publishedAt": "2026-11-09T13:43:57.000Z"
+  },
+  {
+    "id": "bdb5f529b835538f",
+    "title": "South African police arrest 9 foreign nationals suspected of traveling to Russia to fight in Ukraine",
+    "summary": "South African police have arrested nine foreign nationals suspected of trying to travel to Russia to fight in the war between Russia and Ukraine.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/south-african-police-arrest-9-foreign-nationals-suspected-137970412",
+    "publishedAt": "2026-11-09T13:19:10.000Z"
   },
   {
     "id": "73acf381ec2190fa",
@@ -448,6 +547,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/games/2026/nov/09/grand-theft-auto-creators-gta",
     "publishedAt": "2026-11-09T10:00:05.000Z"
+  },
+  {
+    "id": "72b339d6556f7b6f",
+    "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+    "summary": "The secretive software company has been accused of letting its powerful tools be used by the Trump administration to surveil Americans. Now it's hiring former Sen. Jon Tester to burnish its image.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations",
+    "publishedAt": "2026-11-09T10:00:00.000Z"
   },
   {
     "id": "023e9af4583c7243",
@@ -1188,6 +1296,15 @@
     "publishedAt": "2026-11-09T00:30:37.000Z"
   },
   {
+    "id": "2b527a5d8a869d76",
+    "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+    "summary": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+    "publishedAt": "2026-11-09T00:25:28.000Z"
+  },
+  {
     "id": "9a163dd578211e1d",
     "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
     "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
@@ -1231,122 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
     "publishedAt": "2026-11-08T23:55:37.000Z"
-  },
-  {
-    "id": "ce7710e6d7d39aad",
-    "title": "‘This happened very quick’: Beau Lamarre-Condon reenacts shooting Jesse Baird during double murder trial",
-    "summary": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in early 2024.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
-    "publishedAt": "2026-11-08T23:50:17.000Z"
-  },
-  {
-    "id": "7aa5e2ab9b41c525",
-    "title": "Trump says he was 'kidding' about offering Dana White press secretary job",
-    "summary": "The US president backtracks on his announcement offering Ultimate Fighting Championship CEO Dana White the vacant White House press secretary role.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-09/donald-trump-says-he-was-kidding-about-dana-white-job-offer/107362886",
-    "publishedAt": "2026-11-08T23:49:39.000Z"
-  },
-  {
-    "id": "a06abf90dcf2a885",
-    "title": "Kidnapped Mexican border town mayor found alive",
-    "summary": "He was kidnapped for several hours while traveling in the state of Zacatecas.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/mexican-border-town-mayor-found-alive-after-hourslong-137959695",
-    "publishedAt": "2026-11-08T23:42:57.000Z"
-  },
-  {
-    "id": "1dfdb5d77304ac5c",
-    "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
-    "summary": "Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
-    "publishedAt": "2026-11-08T23:39:47.000Z"
-  },
-  {
-    "id": "c1496ce38262de16",
-    "title": "NASA is looking for astronauts to live and work on the Moon",
-    "summary": "NASA needs more recruits in order to return to the moon after being gone more than half a century.",
-    "category": "Science",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
-    "publishedAt": "2026-11-08T23:36:47.000Z"
-  },
-  {
-    "id": "7372e89861ee09bc",
-    "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-    "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
-    "publishedAt": "2026-11-08T23:34:18.000Z"
-  },
-  {
-    "id": "8e9064de628a2049",
-    "title": "Lopez double fires Barcelona to win at Atletico Madrid",
-    "summary": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
-    "publishedAt": "2026-11-08T22:42:12.000Z"
-  },
-  {
-    "id": "11fe0cc6a5f07407",
-    "title": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
-    "summary": "£40m scheme in England aims to keep most vulnerable people well at home and avoid unnecessary hospital stays.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
-    "publishedAt": "2026-11-08T22:30:51.000Z"
-  },
-  {
-    "id": "ff453408c68646ab",
-    "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
-    "summary": "Pope Leo XIV's visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
-    "publishedAt": "2026-11-08T22:16:50.000Z"
-  },
-  {
-    "id": "537b0cc6a7ee2fca",
-    "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
-    "summary": "Huang has confirmed he had been having an affair with a woman accused of spying for China.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
-    "publishedAt": "2026-11-08T22:16:10.000Z"
-  },
-  {
-    "id": "726014e340807cc5",
-    "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
-    "summary": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
-    "publishedAt": "2026-11-08T22:04:13.000Z"
-  },
-  {
-    "id": "862c8b614e8ffa6e",
-    "title": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
-    "summary": "A new permanent exhibition at Paris' Musee d'Orsay showcases works of art suspected to have been looted by Nazis during the Second World War in France. Experts are trying to find the true owners or their descendants.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis",
-    "publishedAt": "2026-11-08T22:04:09.000Z"
-  },
-  {
-    "id": "e2eccdfac70eca01",
-    "title": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
-    "summary": "Footscray man charged over death of 47-year-old Jianming Feng rider in the CBD on Friday night.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
-    "publishedAt": "2026-11-08T22:03:59.000Z"
   }
 ]
