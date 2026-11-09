@@ -1,5 +1,68 @@
 [
   {
+    "id": "fbd322b1d31b7863",
+    "title": "He fought France's far right for half a century. Now Mélenchon's presidential bid may hand it power",
+    "summary": "Jean-Luc M&eacute;lenchon is 75 and he's betting his last shot at France’s presidency on a generation young enough to be his grandchildren.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/fought-frances-half-century-now-mlenchons-presidential-bid-137966011",
+    "publishedAt": "2026-11-09T10:07:56.000Z"
+  },
+  {
+    "id": "ccbe947fd6b484da",
+    "title": "Crime pays: how Grand Theft Auto became a cultural colossus",
+    "summary": "Ever since it crashed on to PC and consoles in the late 90s, GTA has been tearing up the game-making rulebook. We explore how its cultural references, rebel spirit and sprawling sense of freedom make it a definitive work of art.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/09/grand-theft-auto-creators-gta",
+    "publishedAt": "2026-11-09T10:00:05.000Z"
+  },
+  {
+    "id": "023e9af4583c7243",
+    "title": "Nebraska rushed Medicaid work rules. Then a cancer patient was told he'd lost coverage",
+    "summary": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
+    "publishedAt": "2026-11-09T10:00:00.000Z"
+  },
+  {
+    "id": "64bd8139fd859802",
+    "title": "Iran’s authorities harden domestic security controls amid US strike threats",
+    "summary": "Iran is cracking down on perceived security threats from alleged spies to crowds of youngsters.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss",
+    "publishedAt": "2026-11-09T09:56:13.000Z"
+  },
+  {
+    "id": "618b565a0c85188c",
+    "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+    "summary": "Chipmaker Nvidia is launching an investigation of its CEO Jensen Huang after news reports he had an affair with a Chinese woman who was recruited to spy for Beijing.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/09/nx-s1-6034057/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+    "publishedAt": "2026-11-09T09:42:57.000Z"
+  },
+  {
+    "id": "19146669e4103eaa",
+    "title": "Tourists and locals recount fatal Krakow mass shooting that left Poland reeling",
+    "summary": "Tourists and locals alike witnessed a mass shooting in Krakow, Poland, that left six people dead and 15 wounded.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/tourists-locals-recount-fatal-krakow-mass-shooting-left-137952616",
+    "publishedAt": "2026-11-09T09:38:12.000Z"
+  },
+  {
+    "id": "2c56e4d3cdc911d5",
+    "title": "Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?",
+    "summary": "Iran has put forward a two-day proposal developed with Qatari mediators that Washington is examining.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
+    "publishedAt": "2026-11-09T09:27:35.000Z"
+  },
+  {
     "id": "e8a5ecaca0731f8a",
     "title": "French police officers face trial over beating of black man not wearing mask during Covid",
     "summary": "Assault on Michel Zecler in 2020 is rare case of police brutality reaching court, at time of heightened tensions.",
@@ -621,6 +684,15 @@
     "publishedAt": "2026-11-09T00:56:43.000Z"
   },
   {
+    "id": "6585dfd0eb7b2fde",
+    "title": "What's your love language - and does it actually mean anything?",
+    "summary": "The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o",
+    "publishedAt": "2026-11-09T00:55:35.000Z"
+  },
+  {
     "id": "d5680fe4b603b805",
     "title": "Maya Jama steps down as Love Island host after nine seasons",
     "summary": "‘Time to throw myself into something new,’ 32-year-old presenter announces on social media while hailing her ‘unforgettable time’ on the show.",
@@ -628,6 +700,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/media/2026/nov/09/maya-jama-steps-down-as-love-island-host-after-nine-seasons",
     "publishedAt": "2026-11-09T00:43:39.000Z"
+  },
+  {
+    "id": "b89965fa465ad3df",
+    "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Argentina",
+    "summary": "Pope Leo XIV has delivered a diplomatic but subtly strong critique of Argentine President Javier Milei’s austerity measures and libertarian agenda.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-wraps-uruguay-visit-heads-fraught-stop-tour-137951348",
+    "publishedAt": "2026-11-09T00:42:15.000Z"
   },
   {
     "id": "38ba8ee9ee67af2e",
@@ -1267,86 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/08/disabled-wrestlers-derry-foyle-rumble",
     "publishedAt": "2026-11-08T15:37:54.000Z"
-  },
-  {
-    "id": "a587e0d9cf053546",
-    "title": "At least 21 dead after boat carrying migrants sinks off Senegal coast, interior ministry says",
-    "summary": "At least 21 people died after a boat carrying migrants sank off Senegal's coast, according to the country's interior ministry.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/21-dead-after-boat-carrying-migrants-sinks-off-137954425",
-    "publishedAt": "2026-11-08T15:37:28.000Z"
-  },
-  {
-    "id": "b87fc3d96a2dfda2",
-    "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-    "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro",
-    "publishedAt": "2026-11-08T15:37:25.000Z"
-  },
-  {
-    "id": "ebb96ac494708a8d",
-    "title": "Tens of thousands march in Amsterdam, pressing the Dutch government on Gaza and Israel",
-    "summary": "Tens of thousands of people, many dressed in red, have marched through Amsterdam, demanding the Dutch government take stronger action against Israel over Gaza.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/tens-thousands-march-amsterdam-pressing-dutch-government-gaza-137954786",
-    "publishedAt": "2026-11-08T15:37:21.000Z"
-  },
-  {
-    "id": "c2da0adf15d53536",
-    "title": "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans",
-    "summary": "Teammates choke back tears, fans chant his name and his family are promised support by the club at the memorial service.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss",
-    "publishedAt": "2026-11-08T15:37:16.000Z"
-  },
-  {
-    "id": "ee39245ad7510060",
-    "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
-    "summary": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
-    "publishedAt": "2026-11-08T15:07:15.000Z"
-  },
-  {
-    "id": "2dc896e1dc649324",
-    "title": "US employers keep passing rising healthcare costs to workers. There are better options",
-    "summary": "Choosing a healthcare plan can be extremely complicated, but it’s necessary to attract and retain good workers.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/08/employer-healthcare-plans",
-    "publishedAt": "2026-11-08T15:00:43.000Z"
-  },
-  {
-    "id": "34c6cb4164db9271",
-    "title": "Beef industry quietly squashes part of its own science curriculum after ranchers protest",
-    "summary": "Lesson for teenagers included how cattle’s methane emissions contribute to climate crisis, but it was then scrapped.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/08/beef-industry-climate-impact-education",
-    "publishedAt": "2026-11-08T15:00:43.000Z"
-  },
-  {
-    "id": "923a79fbddc69a79",
-    "title": "‘The end of an era’: Scillonian III sets sail on final voyage from Isles of Scilly",
-    "summary": "Much-loved passenger ship has traversed Atlantic swells between islands and Cornish mainland for almost 50 years.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/08/scillonian-iii-ship-final-voyage-isles-of-scilly-penzance-cornwall",
-    "publishedAt": "2026-11-08T14:56:59.000Z"
-  },
-  {
-    "id": "08adc0b7e080cd0a",
-    "title": "Two police officers hailed as heroes for confronting Kraków gunman",
-    "summary": "Jakub Kulik critically injured and Artur Morański also wounded after actions that ‘prevented further casualties’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
-    "publishedAt": "2026-11-08T14:49:16.000Z"
   }
 ]
