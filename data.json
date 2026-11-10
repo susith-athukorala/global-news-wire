@@ -1,5 +1,14 @@
 [
   {
+    "id": "4ff6cac987ba471a",
+    "title": "Liquidators probe multi-million-dollar sale of collapsed Mundella assets",
+    "summary": "Creditors are still owed $12.5 million as liquidators find preliminary evidence of more than $2 million in potentially insolvent and unreasonable director-related transactions at the collapsed dairy manufacturer, Mundella Foods.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-10/liquidator-scrutiny-collapsed-mundella-dairy/107366016",
+    "publishedAt": "2026-11-10T02:16:55.000Z"
+  },
+  {
     "id": "594d4ea3663f68f9",
     "title": "Woolies plans facial recognition technology trial in two Canberra supermarkets",
     "summary": "Woolworths has proposed to trial new facial recognition technology in two Canberra stores.",
@@ -7,6 +16,15 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-10/two-woolworths-stores-canberra-trial-facial-recognition-tech/107367158",
     "publishedAt": "2026-11-10T02:07:34.000Z"
+  },
+  {
+    "id": "b8309b7ae717bb25",
+    "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+    "summary": "Americans say the US should prioritise avoiding higher prices over achieving Trump's military goals in Iran.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
+    "publishedAt": "2026-11-10T01:56:47.000Z"
   },
   {
     "id": "790d116569176fff",
@@ -774,6 +792,15 @@
     "publishedAt": "2026-11-09T17:06:23.000Z"
   },
   {
+    "id": "7377186a93e26160",
+    "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+    "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo",
+    "publishedAt": "2026-11-09T17:06:18.000Z"
+  },
+  {
     "id": "c557d34e0b175436",
     "title": "France blames Iran’s Revolutionary Guards for cyber-attacks on supermarket fridges",
     "summary": "French foreign minister vows European sanctions against Tehran over ‘unprecedented’ hacks last month.",
@@ -853,6 +880,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/09/the-hottest-product-in-britain-this-year-a-2kg-bag-of-ice",
     "publishedAt": "2026-11-09T16:41:58.000Z"
+  },
+  {
+    "id": "ca0a2d825abc3931",
+    "title": "Senior doctors at Glasgow hospital in care delay warning",
+    "summary": "Consultants at the Queen Elizabeth University Hospital say conditions for emergency patients there are deteriorating.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckx2d2vv40w6o",
+    "publishedAt": "2026-11-09T16:34:48.000Z"
   },
   {
     "id": "5c0882a6c1f9d016",
@@ -1312,41 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/9/which-republicans-are-running-for-minority-leadership-roles-in-congress?traffic_source=rss",
     "publishedAt": "2026-11-09T13:14:57.000Z"
-  },
-  {
-    "id": "ee85900ed9d2fff2",
-    "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China row?",
-    "summary": "Donald Trump praised the chipmaker’s CEO despite reports he had an affair with a suspected Chinese spy.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-us-china-donald-trump-spy",
-    "publishedAt": "2026-11-09T13:09:23.000Z"
-  },
-  {
-    "id": "931c77e00354dba2",
-    "title": "Sudan teachers go on strike over meagre salaries and dilapidated schools",
-    "summary": "Teachers across the country say their pay no longer covers basic living costs.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools?traffic_source=rss",
-    "publishedAt": "2026-11-09T13:08:35.000Z"
-  },
-  {
-    "id": "f8794ed89bac2134",
-    "title": "Pope visits struggling Argentine home for people with disabilities to press message",
-    "summary": "Pope Leo XIV is doubling down on his call for Argentina to look out for the weakest.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-visits-struggling-argentine-home-people-disabilities-press-137970019",
-    "publishedAt": "2026-11-09T13:06:38.000Z"
-  },
-  {
-    "id": "c1e95fc8ad4d6d3f",
-    "title": "Black girls in LA keep seeing women around them getting killed. They’re driving change",
-    "summary": "Black women and girls represent an outsized share of LA homicide victims – frustrated with police and legislators’ failures, they’re stepping up and speaking out to stop the violence.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/09/black-women-girls-los-angeles-homicides-violence",
-    "publishedAt": "2026-11-09T13:00:09.000Z"
   }
 ]
