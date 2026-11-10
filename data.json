@@ -1,5 +1,131 @@
 [
   {
+    "id": "4213adc3bb2b7845",
+    "title": "5 Cambodian schoolgirls killed as a bus skids off a road into a pond",
+    "summary": "Five girls died Tuesday morning in Cambodia when a school bus veered off the road and plunged into a pond.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/5-cambodian-schoolgirls-killed-bus-skids-off-road-138005484",
+    "publishedAt": "2026-11-10T12:17:20.000Z"
+  },
+  {
+    "id": "6d8b77fff3c64281",
+    "title": "Rwandan man in the US sent back home to face genocide charges",
+    "summary": "A Rwandan man suspected of participating in the country’s 1994 genocide was deported from the United States and is due to stand trial for his alleged crimes, according to local authorities.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/rwandan-man-us-back-home-face-genocide-charges-138005599",
+    "publishedAt": "2026-11-10T12:16:10.000Z"
+  },
+  {
+    "id": "9e78ddd1bbbf97a9",
+    "title": "At least 12 people killed in crashes on a foggy Bulgarian motorway, minister says",
+    "summary": "A thick fog on a motorway in eastern Bulgaria caused a string of vehicle crashes that killed at least 12 people and injured dozens.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/12-people-killed-dozens-hurt-crashes-foggy-bulgarian-138004407",
+    "publishedAt": "2026-11-10T12:11:56.000Z"
+  },
+  {
+    "id": "f2414ff08a918e6d",
+    "title": "Malaysian high court clears final hurdle for former Prime Minister Najib's transfer to house arrest",
+    "summary": "A high court in Malaysia has cleared all legal hurdles for former Prime Minister Najib Razak to serve the rest of his graft sentence under house arrest.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/malaysian-high-court-clears-final-hurdle-former-prime-138005201",
+    "publishedAt": "2026-11-10T12:10:31.000Z"
+  },
+  {
+    "id": "e0f03e476cdae6b3",
+    "title": "Indonesia's vice president offers resignation as questions mount over his eligibility",
+    "summary": "Indonesia’s Vice President Gibran Rakabuming Raka has offered to resign amid mounting pressure over his academic credentials, officials say.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/indonesias-vice-president-offers-resignation-questions-mount-eligibility-138005690",
+    "publishedAt": "2026-11-10T12:10:30.000Z"
+  },
+  {
+    "id": "5e88919a5f756e27",
+    "title": "US and rest of world must follow China’s lead on green energy, says John Kerry",
+    "summary": "Former US secretary of state says most nations are ‘stumbling along’ while Beijing has ‘hugely accelerated’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31",
+    "publishedAt": "2026-11-10T12:08:23.000Z"
+  },
+  {
+    "id": "c4e776d4794d6b8e",
+    "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
+    "summary": "The House could vote to impeach Hegseth, but removing him from office will be tough. And, SCOTUS ruled that a federal judge did not have the authority to halt border wall construction.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
+    "publishedAt": "2026-11-10T12:01:04.000Z"
+  },
+  {
+    "id": "96a82aaf6b9fc602",
+    "title": "‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex",
+    "summary": "Comedian and former Britain’s Got Talent judge alleged to have groomed fans he met when they were as young as 15 and harassed women in the workplace over a number of years. He denies the allegations.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women",
+    "publishedAt": "2026-11-10T12:00:52.000Z"
+  },
+  {
+    "id": "4abed32047ca498e",
+    "title": "David Walliams accused of using celebrity status to prey on young women for sex",
+    "summary": "Guardian reports accusations after court rejects legal attempt to prevent publication. Walliams denies any wrongdoing.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/10/david-walliams-accused-preying-on-young-women-for-sex",
+    "publishedAt": "2026-11-10T12:00:51.000Z"
+  },
+  {
+    "id": "c95b62b2f4ee626e",
+    "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+    "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o",
+    "publishedAt": "2026-11-10T11:43:06.000Z"
+  },
+  {
+    "id": "43defc4189c3f105",
+    "title": "Oil price relief as Trump declares US war on Iran ‘ending fairly soon’ | First Thing",
+    "summary": "Speaking in the White House, the president said the US remained ‘locked and loaded’ but escalation was not needed. Plus how Grand Theft Auto became a cultural colossus.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/first-thing-oil-price-relief-trump-us-war-iran-ending-fairly-soon",
+    "publishedAt": "2026-11-10T11:36:00.000Z"
+  },
+  {
+    "id": "c327cbe63229a1e8",
+    "title": "Amber alert as Scotland faces blood donation shortages",
+    "summary": "An amber alert has been issued after stockpiles of blood fell below target several times in recent months.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c678p8yz0k38o",
+    "publishedAt": "2026-11-10T11:30:32.000Z"
+  },
+  {
+    "id": "4e7da90deb2ca500",
+    "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
+    "summary": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo",
+    "publishedAt": "2026-11-10T11:23:18.000Z"
+  },
+  {
+    "id": "05b29a14d959b80a",
+    "title": "Malaysian court clears former PM Najib Razak for house arrest transfer",
+    "summary": "Najib, 73, was jailed for his role in looting the now-defunct sovereign wealth fund 1MDB.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/malaysian-court-clears-former-pm-najib-razak-for-house-arrest-transfer?traffic_source=rss",
+    "publishedAt": "2026-11-10T11:17:36.000Z"
+  },
+  {
     "id": "37bc8c85059a3f71",
     "title": "Moroccan trio make African Player of Year shortlist as Salah absent",
     "summary": "WAFCON winners Cameroon dominate women’s list after heroics from Monique Ngock, Michaely Bihina and Marie Ngah Manga.",
@@ -385,6 +511,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo",
     "publishedAt": "2026-11-10T06:21:02.000Z"
+  },
+  {
+    "id": "69e012db731c7b76",
+    "title": "Who is Jensen Huang and why is the Nvidia CEO scandal important?",
+    "summary": "After news broke of Nvidia CEO Jensen Huang's affair with an alleged Chinese intelligence asset Nvidia's value plummeted. Why?",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-10/who-is-jensen-huang-and-why-is-nvidia-ceo-scandal-important/107368698",
+    "publishedAt": "2026-11-10T06:18:12.000Z"
   },
   {
     "id": "f032c1950f9b2e92",
@@ -1213,140 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
     "publishedAt": "2026-11-09T19:56:45.000Z"
-  },
-  {
-    "id": "2d19e7a793a272ae",
-    "title": "Honduras awaits verdict in disappearance case that exposed sex trafficking ring",
-    "summary": "Relatives, lawyers and feminist groups in Honduras are demanding justice in the case of Angie Pe&ntilde;a, a 22-year-old who disappeared in 2022.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/honduras-awaits-verdict-disappearance-case-exposed-sex-trafficking-137985538",
-    "publishedAt": "2026-11-09T19:43:47.000Z"
-  },
-  {
-    "id": "719bb566ef54dc42",
-    "title": "Cyber-attack on French supermarket freezers has geopolitical context",
-    "summary": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across Europe.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
-    "publishedAt": "2026-11-09T19:40:45.000Z"
-  },
-  {
-    "id": "f2ec6235cd6559a5",
-    "title": "Republican Thomas Massie moves to force vote to impeach Pete Hegseth",
-    "summary": "US representative accuses defense secretary of illegally waging war without congressional authorization and abusing his powers.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie",
-    "publishedAt": "2026-11-09T19:31:36.000Z"
-  },
-  {
-    "id": "32ae78fe6fe4625c",
-    "title": "Jemima Goldsmith says ex-partner Russell Brand physically assaulted her",
-    "summary": "TV producer, who was in relationship with ex-comedian that reportedly ended in 2014, accuses him of ‘violence, coercive control and abuse’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2026/nov/09/jemima-goldsmith-says-ex-partner-russell-brand-physically-assaulted-her",
-    "publishedAt": "2026-11-09T19:27:22.000Z"
-  },
-  {
-    "id": "69c93673bb127dff",
-    "title": "Fresh attempt to impeach Hegseth introduced in US Congress",
-    "summary": "Questions hang over Pete Hegseth's tenure as US defense secretary as a congressman launches a fresh attempt to impeach him amid growing bipartisan calls for him to resign.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/us-defence-secretary-pete-hegseth-subject-of-new-impeachment-bid/107366698",
-    "publishedAt": "2026-11-09T19:24:06.000Z"
-  },
-  {
-    "id": "eec41a5bd7781e3b",
-    "title": "Boeing to cut about 5% of its commercial plane workforce",
-    "summary": "Company will cut jobs through a mix of layoffs and attrition as it moderates the pace of ramping up jet production.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
-    "publishedAt": "2026-11-09T19:11:26.000Z"
-  },
-  {
-    "id": "e1524bbf76270337",
-    "title": "US agencies unite to combat rogue drone threats nationwide",
-    "summary": "More than $40bn allocated by NATO for counter-drone technologies as US agencies ramp up measures against aerial threats.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
-    "publishedAt": "2026-11-09T19:07:56.000Z"
-  },
-  {
-    "id": "873f11b357f12a21",
-    "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
-    "summary": "Democratic Senate leader Schumer criticises Trump's poll denialism, calling it an avoidable return to baseless claims.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss",
-    "publishedAt": "2026-11-09T19:07:42.000Z"
-  },
-  {
-    "id": "14ab2f012b0006a7",
-    "title": "University backflips on decision to cut 87 per cent of arts subjects",
-    "summary": "Federation University staff have walked off the job following eight months of failed enterprise agreement negotiations, and a back-step by management that left staff \"fearful\".",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/federation-university-staff-strike-for-24-hours-arts-subjects/107364274",
-    "publishedAt": "2026-11-09T19:04:32.000Z"
-  },
-  {
-    "id": "c0af2dd02b23676c",
-    "title": "Ohio State fraternity suspended after viral video shows two men on fire",
-    "summary": "The university and local police are conducting investigations into Sigma Alpha Epsilon and have placed them on interim suspension.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/ohio-state-sae-fire-suspension",
-    "publishedAt": "2026-11-09T19:03:45.000Z"
-  },
-  {
-    "id": "2b9c7bfa589eef0a",
-    "title": "Former RFK Jr adviser accuses Trump officials of prioritizing special interest groups over voters",
-    "summary": "Calley Means claims officials abandoned Maha agenda and took money from sugar industry leading up to midterms.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/rfk-jr-trump-midterms-maha",
-    "publishedAt": "2026-11-09T18:57:51.000Z"
-  },
-  {
-    "id": "6b2cbe07192f2f95",
-    "title": "Two security breaches near White House prompt brief lockdown",
-    "summary": "Active investigations are under way after a vehicle crashed at Lafayette Park and a second individual jumped a barrier.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown?traffic_source=rss",
-    "publishedAt": "2026-11-09T18:57:01.000Z"
-  },
-  {
-    "id": "f47f2c083c047f09",
-    "title": "Al Jazeera.net co-founder and cartoonist Shujaat Ali dies aged 54",
-    "summary": "Ali was an award-winning pioneer of animated political caricatures and Pakistan's first court artist.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/al-jazeera-net-co-founder-and-cartoonist-shujaat-ali-dies-aged-54?traffic_source=rss",
-    "publishedAt": "2026-11-09T18:50:29.000Z"
-  },
-  {
-    "id": "5c6ac7ff67ef8f9a",
-    "title": "Barnsley workers strike over nursery privatisation by Reform council",
-    "summary": "Women say move will be ‘massively detrimental’ to services for vulnerable children, and hit their own pensions.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/09/barnsley-strike-nursery-privatisation-reform-council-yorkshire-grimethorpe",
-    "publishedAt": "2026-11-09T18:50:17.000Z"
-  },
-  {
-    "id": "21ff527bab1e86ed",
-    "title": "Senate votes on bill to speed up projects from gas pipelines to clean energy",
-    "summary": "Environmentalists torn over procedural vote to boost infrastructure projects but weaken environmental laws.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
-    "publishedAt": "2026-11-09T18:42:32.000Z"
   }
 ]
