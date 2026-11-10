@@ -1,5 +1,77 @@
 [
   {
+    "id": "f091d0b7fce2957b",
+    "title": "UNIFIL patrol comes under fire in southern Lebanon",
+    "summary": "UNIFIL said on Tuesday that 'about a dozen rounds' were fired at one of its patrols, without identifying the assailants.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
+    "publishedAt": "2026-11-10T22:03:50.000Z"
+  },
+  {
+    "id": "e61ff03e9da10e86",
+    "title": "US poll shows death penalty lost majority support for first time since 1971",
+    "summary": "Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
+    "publishedAt": "2026-11-10T22:03:20.000Z"
+  },
+  {
+    "id": "268485ea037a8b72",
+    "title": "US prosecutors charge Iranian operative allegedly responsible for UK air force base attack",
+    "summary": "New indictment claims Mohammad Dawood al-Saadi, a dual Iranian and Iraqi national, plotted while in US custody.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
+    "publishedAt": "2026-11-10T21:57:57.000Z"
+  },
+  {
+    "id": "c89268657c7aa2e2",
+    "title": "IBM’s biggest division ends most US foreign worker sponsorships",
+    "summary": "Announcement follows Trump administration crackdown on visa programmes for skilled foreign workers.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships?traffic_source=rss",
+    "publishedAt": "2026-11-10T21:55:49.000Z"
+  },
+  {
+    "id": "3fdb0ebceea9e7b8",
+    "title": "4 grizzly bears linked by DNA to deadly attack on mother and daughter in Canada",
+    "summary": "Canadian wildlife officials say four grizzly bears captured in western Canada were responsible for killing a mother and her adult daughter earlier this month in what investigators believe was a rare predatory attack.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/4-grizzly-bears-linked-dna-deadly-attack-mother-138026387",
+    "publishedAt": "2026-11-10T21:36:04.000Z"
+  },
+  {
+    "id": "faea3f5a1a739bdc",
+    "title": "Law on 'holiday hunger' passed by Stormont assembly",
+    "summary": "A majority of 49 to 24 assembly members backed the legislation, which was proposed by Sinn Féin's Danny Baker and welcomed by some parents and charities.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo",
+    "publishedAt": "2026-11-10T21:24:06.000Z"
+  },
+  {
+    "id": "fbc14e5f6ea51acf",
+    "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+    "publishedAt": "2026-11-10T21:22:36.000Z"
+  },
+  {
+    "id": "58c11c189828fd26",
+    "title": "Why does Australia want Brits to swap Sydney for the outback?",
+    "summary": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o",
+    "publishedAt": "2026-11-10T21:17:00.000Z"
+  },
+  {
     "id": "1f5643d963b77074",
     "title": "US charges three men over terror plots, including planned assault on UK airbase",
     "summary": "Three men are charged by US authorities with plotting a \"campaign of terror\" of nearly 20 attacks targeting Jewish communities in Europe and the US and the British military base at RAF Fairford.",
@@ -43,6 +115,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
     "publishedAt": "2026-11-10T20:41:53.000Z"
+  },
+  {
+    "id": "da18ec92b03a66b7",
+    "title": "Damning report urges new investigations into Epstein associates",
+    "summary": "US politicians are calling for further investigations into Jeffrey Epstein's associates in a scathing report blaming prosecutors, financial institutions and powerful connections for allowing his abuse to continue.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-11/us-politicians-urge-new-epstein-investigations-in-damning-report/107371370",
+    "publishedAt": "2026-11-10T20:32:44.000Z"
   },
   {
     "id": "7630802a768d077f",
@@ -133,6 +214,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/10/trump-administration-seeks-to-cut-food-aid-for-more-than-six-million-people?traffic_source=rss",
     "publishedAt": "2026-11-10T20:00:18.000Z"
+  },
+  {
+    "id": "cf27878220f24a91",
+    "title": "Israeli opposition hurries to seize control as new Knesset is sworn in",
+    "summary": "Former military chief Gadi Eisenkot has mandate to try to form a government – with Netanyahu waiting if he fails.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
+    "publishedAt": "2026-11-10T19:59:33.000Z"
   },
   {
     "id": "679554b7246bb4ef",
@@ -475,6 +565,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/10/msc-seascape-homicide-cruise-ship",
     "publishedAt": "2026-11-10T16:53:05.000Z"
+  },
+  {
+    "id": "a1a36b2813201282",
+    "title": "Some pupils 'struggling just to get a hot meal'",
+    "summary": "Students speak out as school dinner prices are set to increase for the second time in a year.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o",
+    "publishedAt": "2026-11-10T16:46:21.000Z"
   },
   {
     "id": "ed112b9d1f6dcb36",
@@ -1170,6 +1269,15 @@
     "publishedAt": "2026-11-10T11:30:32.000Z"
   },
   {
+    "id": "ff649028dad65ce1",
+    "title": "Police officer dies and another injured after backpack explosion in northern Spain",
+    "summary": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o",
+    "publishedAt": "2026-11-10T11:25:46.000Z"
+  },
+  {
     "id": "4e7da90deb2ca500",
     "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
     "summary": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
@@ -1215,6 +1323,15 @@
     "publishedAt": "2026-11-10T10:58:18.000Z"
   },
   {
+    "id": "b791ed4e8aa57b83",
+    "title": "Disgraced former leader Sheikh Hasina plans return to Bangladesh from exile",
+    "summary": "Former prime minister faces death penalty upon return after being sentenced in absentia over deaths in 2024 uprising.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
+    "publishedAt": "2026-11-10T10:57:51.000Z"
+  },
+  {
     "id": "167e633aeec1b781",
     "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
     "summary": "The French government said it is seeking tough sanctions to deter further cyberattacks across Europe.",
@@ -1231,122 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/news/2026/nov/10/lucy-powell-russell-brand-cross-examination-victims",
     "publishedAt": "2026-11-10T10:28:51.000Z"
-  },
-  {
-    "id": "978e8b44774b1f5e",
-    "title": "UK author M John Harrison’s End of Everything wins Booker Prize",
-    "summary": "The book uses dark humour and elusive narratives to cast a futuristic lens on modern politics post-calamity.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/uk-author-m-john-harrisons-end-of-everything-wins-booker-prize?traffic_source=rss",
-    "publishedAt": "2026-11-10T10:22:35.000Z"
-  },
-  {
-    "id": "2295899b7ad7d5f2",
-    "title": "David Jones’s finances were reviewed and restructuring flagged months before it fell into administration",
-    "summary": "Department store group kept buying new products and fell months behind in payments to some brands despite discussions with administrators.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/10/david-joness-finances-were-reviewed-and-restructuring-flagged-months-before-it-fell-into-administration",
-    "publishedAt": "2026-11-10T10:04:46.000Z"
-  },
-  {
-    "id": "136b5117374fcbb0",
-    "title": "Are walking pads worth it? We put the best under-desk treadmills to the test",
-    "summary": "Want to get your steps in while working or watching TV? Our expert puts walking pads through their paces to find the best for comfort, noise and ease of storage.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2025/apr/03/best-walking-pads-under-desk-treadmills-uk",
-    "publishedAt": "2026-11-10T10:00:05.000Z"
-  },
-  {
-    "id": "c8bc095ef350b507",
-    "title": "How word of mouth is helping an Amish community's fight against measles",
-    "summary": "In Pennsylvania, health officials use a quiet vaccination campaign designed to win the trust of the state's Amish community, which has been hit hard by the measles outbreak.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/10/nx-s1-6021511/pennsylvania-amish-measles-vaccine-trust",
-    "publishedAt": "2026-11-10T10:00:00.000Z"
-  },
-  {
-    "id": "0dc6502a93776b3a",
-    "title": "Is honesty always the best policy? When to speak up — or stay silent",
-    "summary": "Should you tell your boss she's got food on their face? Your partner you hate their outfit?",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/10/nx-s1-6034519/is-honesty-always-the-best-policy-when-to-speak-up-or-stay-silent",
-    "publishedAt": "2026-11-10T10:00:00.000Z"
-  },
-  {
-    "id": "fc281f4b359ab9cc",
-    "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-    "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko",
-    "publishedAt": "2026-11-10T09:57:49.000Z"
-  },
-  {
-    "id": "c2481ff0a6af706b",
-    "title": "Nearly 20,000 households eligible for £250 to help with heating bills",
-    "summary": "The Welsh government has announced a £130m package to provide support to those affected by the cost of living.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm70p050824po",
-    "publishedAt": "2026-11-10T09:57:29.000Z"
-  },
-  {
-    "id": "f49c000f8f8e7250",
-    "title": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
-    "summary": "FTSE 100 and other markets climb after president downplays prospect of further strikes in Middle East.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
-    "publishedAt": "2026-11-10T09:52:47.000Z"
-  },
-  {
-    "id": "02a67351f25ba578",
-    "title": "What is Hasina’s game plan as she seeks a passport to return to Bangladesh?",
-    "summary": "The ousted leader faces the prospect of being hanged upon return for her violent suppression of the 2024 uprising.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/what-is-hasinas-game-plan-as-she-seeks-passport-to-return-to-bangladesh?traffic_source=rss",
-    "publishedAt": "2026-11-10T09:46:43.000Z"
-  },
-  {
-    "id": "b10c24292e959a43",
-    "title": "Nvidia spy scandal fuels debate over chip exports to China",
-    "summary": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO's relationship with alleged spy.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
-    "publishedAt": "2026-11-10T09:42:04.000Z"
-  },
-  {
-    "id": "46e4a36996b50f63",
-    "title": "Trump says more US attacks on Iran 'highly unlikely'",
-    "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o",
-    "publishedAt": "2026-11-10T09:40:31.000Z"
-  },
-  {
-    "id": "375c2c22806beb9e",
-    "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
-    "summary": "President Trump's top envoy is in Abu Dhabi with negotiators from Russia and Ukraine to resume peace talks.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine",
-    "publishedAt": "2026-11-10T09:38:34.000Z"
-  },
-  {
-    "id": "82feddc6d3ddf0e5",
-    "title": "Investigation continues into Nvidia CEO's alleged relationship with Chinese spy",
-    "summary": "Fallout continues at the chip giant Nvidia. Its powerful CEO is accused of having an affair with a Chinese spy.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/10/nx-s1-6035019/investigation-continues-into-nvidia-ceos-alleged-relationship-with-chinese-spy",
-    "publishedAt": "2026-11-10T09:38:11.000Z"
   }
 ]
