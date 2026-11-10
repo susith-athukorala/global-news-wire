@@ -1,5 +1,95 @@
 [
   {
+    "id": "74dd878b1546a766",
+    "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+    "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo",
+    "publishedAt": "2026-11-10T00:14:03.000Z"
+  },
+  {
+    "id": "70b57ef97c80babd",
+    "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+    "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
+    "publishedAt": "2026-11-10T00:09:49.000Z"
+  },
+  {
+    "id": "de19283f1fb05fb0",
+    "title": "The superpower battle over energy – and what it means for your bills",
+    "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o",
+    "publishedAt": "2026-11-10T00:08:28.000Z"
+  },
+  {
+    "id": "c39541ae699c88b4",
+    "title": "Headteachers consider leaving jobs earlier than planned after new Ofsted inspection",
+    "summary": "Almost two-thirds of school leaders polled say new regime is much more intense than previous framework.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/education/2026/nov/10/headteachers-consider-leaving-job-earlier-than-planned-new-ofsted-inspection",
+    "publishedAt": "2026-11-10T00:01:22.000Z"
+  },
+  {
+    "id": "a1a36b2813201282",
+    "title": "Headteachers say families will struggle after another rise in school dinner prices",
+    "summary": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o",
+    "publishedAt": "2026-11-10T00:00:22.000Z"
+  },
+  {
+    "id": "32b6523ccabdfbf7",
+    "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
+    "summary": "Outgoing Republican lawmaker Thomas Massie calls on Congress to oust Hegseth over accusations of unlawful orders.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
+    "publishedAt": "2026-11-09T23:53:03.000Z"
+  },
+  {
+    "id": "27ce09cfc5348cd3",
+    "title": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend",
+    "summary": "Ruling said law enacted by Congress reflects preference for border control over environmental and recreational harm.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend",
+    "publishedAt": "2026-11-09T23:48:36.000Z"
+  },
+  {
+    "id": "80a2911359d169ef",
+    "title": "Trinidad and Tobago Coast Guard searches for at least 5 missing after boat crash",
+    "summary": "Authorities in Trinidad and Tobago are conducting search and rescue operations for several people missing after a boating accident.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/trinidad-tobago-coast-guard-searches-5-missing-after-137993891",
+    "publishedAt": "2026-11-09T23:43:02.000Z"
+  },
+  {
+    "id": "51f0a6cfe0b06907",
+    "title": "Peru's move to reconsider protections for Mashco Piro raises fears of Amazon logging",
+    "summary": "Indigenous leaders in Peru are warning that a government decision to reconsider protections for the Mashco Piro could expose their Amazon rainforest territory to logging.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/perus-move-reconsider-protections-uncontacted-mashco-piro-raises-137994344",
+    "publishedAt": "2026-11-09T23:42:01.000Z"
+  },
+  {
+    "id": "5037a8e6a60bfb5a",
+    "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
+    "summary": "Lawsuit had sought to block border wall construction in national park by targeting waivers that sidestep protections.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss",
+    "publishedAt": "2026-11-09T23:15:19.000Z"
+  },
+  {
     "id": "880dc8ea9314c303",
     "title": "NHS boss received nearly £400,000 'redundancy' pay-off when she retired",
     "summary": "The payment comes ahead of a planned major overhaul of Scotland's NHS which could see the number of health boards cut dramatically.",
@@ -873,6 +963,15 @@
     "publishedAt": "2026-11-09T14:42:39.000Z"
   },
   {
+    "id": "552d6914ecaddd21",
+    "title": "Archaeological treasures uncovered beneath Kabul's crumbling ancient fortress",
+    "summary": "The imposing fortress of Bala Hissar in the Afghan capital Kabul has endured centuries of upheaval and war.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/work-save-afghan-capitals-crumbling-ancient-fortress-uncovers-137966473",
+    "publishedAt": "2026-11-09T14:42:33.000Z"
+  },
+  {
     "id": "45e67a501d3facdb",
     "title": "Iran stands by demands to end the war as US ramps up military pressure",
     "summary": "Talks aimed at preventing new major fighting between the US and Iran are ongoing.",
@@ -1033,6 +1132,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/09/amazon-driver-died-inquiry-manually-operated-level-crossing-kent",
     "publishedAt": "2026-11-09T13:43:57.000Z"
+  },
+  {
+    "id": "2174a261962d0964",
+    "title": "Death toll from migrant boat found with bodies on board south of Greece rises to 14",
+    "summary": "Greek authorities have recovered 13 bodies from a migrant boat found south of Crete.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/greek-authorities-find-12-bodies-boat-carrying-migrants-137966627",
+    "publishedAt": "2026-11-09T13:30:22.000Z"
   },
   {
     "id": "bdb5f529b835538f",
@@ -1233,120 +1341,12 @@
     "publishedAt": "2026-11-09T11:33:58.000Z"
   },
   {
-    "id": "8d4bce7599242fec",
-    "title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides",
-    "summary": "For the first time since February, Russian, Ukrainian and U.S. negotiators are scheduled to hold talks on ending the full-scale war that is nearing the five-year mark.",
+    "id": "fbd322b1d31b7863",
+    "title": "He fought France's far right for half a century. Now Mélenchon's presidential bid may hand it power",
+    "summary": "Jean-Luc M&eacute;lenchon is 75 and he's betting his last shot at France’s presidency on a generation young enough to be his grandchildren.",
     "category": "World",
     "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/us-led-peace-talks-russia-ukraine-security-guarantees-137966016",
-    "publishedAt": "2026-11-09T11:15:04.000Z"
-  },
-  {
-    "id": "bf904fda69221af0",
-    "title": "In Senegal, Black surfers want to reclaim the waves despite lack of resources",
-    "summary": "The origins of surfing can be traced back to the native populations of Peru, Polynesia and Hawaii, and European travelers documented children surfing along the coast of what is now Ghana as early as the 17th century.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/senegal-black-surfers-reclaim-waves-despite-lack-resources-137967918",
-    "publishedAt": "2026-11-09T11:14:28.000Z"
-  },
-  {
-    "id": "499e7a8e6a7793de",
-    "title": "A day before US-brokered talks, Russia and Ukraine batter each other with long-range strikes",
-    "summary": "Russia has hit Ukraine's power grid again, while Ukrainian forces targeted a major Russian oil refinery.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
-    "publishedAt": "2026-11-09T11:14:22.000Z"
-  },
-  {
-    "id": "c7bd76bbcbef2113",
-    "title": "Poles mourn rare mass killing as authorities say attacker had far-right views",
-    "summary": "Mourners have laid candles and flowers alongside bullet holes in Krakow, Poland, after the city’s central square turned into a site of bloodshed and grief.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/poles-mourn-rare-mass-killing-authorities-attacker-views-137951140",
-    "publishedAt": "2026-11-09T11:06:16.000Z"
-  },
-  {
-    "id": "b653c461e3860d9e",
-    "title": "Economic relief is on the way, Democrats say. But what, how and when?",
-    "summary": "Winning candidates promised to cut costs, rein in corporations, curb billionaire power and improve the economy.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/democrats-midterms-economy-healthcare",
-    "publishedAt": "2026-11-09T11:00:07.000Z"
-  },
-  {
-    "id": "0e1c50d39b827c12",
-    "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
-    "summary": "Violent storms lash northern Iraq and parts of Iran, while Portugal faces strong winds and Japan braces for further snowfall.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
-    "publishedAt": "2026-11-09T10:59:06.000Z"
-  },
-  {
-    "id": "408a5794c8685a70",
-    "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
-    "summary": "Four children and a woman were killed after heavy rain caused a sandbank to collapse on their tent.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
-    "publishedAt": "2026-11-09T10:50:49.000Z"
-  },
-  {
-    "id": "1d33d0b4e24377a5",
-    "title": "EU sues IBM and two European firms over troubled entry/exit border system",
-    "summary": "Lawsuit filed last year against IBM, Atos and Leonardo after delays to passengers blamed on the system, first reported in the FT.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system",
-    "publishedAt": "2026-11-09T10:49:23.000Z"
-  },
-  {
-    "id": "dd80f3b61036cc56",
-    "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
-    "summary": "Allegations linking CEO to Chinese intelligence shake markets with chipmaker's shares falling more than 4 percent.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
-    "publishedAt": "2026-11-09T10:49:02.000Z"
-  },
-  {
-    "id": "5b51937e7c4a6f4a",
-    "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
-    "summary": "Through civic participation and liberal education, South Korean educators hope to \"quietly stitch the fabric of our democracy…before it unravels beyond repair.\"",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
-    "publishedAt": "2026-11-09T10:47:00.000Z"
-  },
-  {
-    "id": "20010d274c3a81ee",
-    "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-    "summary": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o",
-    "publishedAt": "2026-11-09T10:41:57.000Z"
-  },
-  {
-    "id": "0dc956ecc9c5a530",
-    "title": "Usman Khawaja’s ‘Sandpapergate’ claims are ‘accurate’, says David Warner",
-    "summary": "'We're not here to point fingers and we're not opening old wounds,' Australia's Warner said of himself and Khawaja.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/9/usman-khawajas-sandpapergate-claims-are-accurate-says-david-warner?traffic_source=rss",
-    "publishedAt": "2026-11-09T10:38:10.000Z"
-  },
-  {
-    "id": "9e88044f20eaca36",
-    "title": "Thames Water asks creditors for more time to help repay £20bn debt pile",
-    "summary": "Troubled utility lobbies for deadline on part of the debt to be extended to March 2028.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile",
-    "publishedAt": "2026-11-09T10:32:43.000Z"
+    "link": "https://abcnews.com/International/wireStory/fought-frances-half-century-now-mlenchons-presidential-bid-137966011",
+    "publishedAt": "2026-11-09T11:30:15.000Z"
   }
 ]
