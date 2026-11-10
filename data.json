@@ -1,5 +1,86 @@
 [
   {
+    "id": "1f5643d963b77074",
+    "title": "US charges three men over terror plots, including planned assault on UK airbase",
+    "summary": "Three men are charged by US authorities with plotting a \"campaign of terror\" of nearly 20 attacks targeting Jewish communities in Europe and the US and the British military base at RAF Fairford.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-11/us-charges-3-men-with-plotting-terror-attacks/107371492",
+    "publishedAt": "2026-11-10T21:10:35.000Z"
+  },
+  {
+    "id": "e2e75fdcf2d7f23a",
+    "title": "White House announces funds for law enforcement programme in several cities",
+    "summary": "Trump administration awarded more than $60m each to St Louis, Missouri, and Jackson, Mississippi, in crime push.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
+    "publishedAt": "2026-11-10T21:00:01.000Z"
+  },
+  {
+    "id": "4d00bca1032131c2",
+    "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+    "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro",
+    "publishedAt": "2026-11-10T20:53:33.000Z"
+  },
+  {
+    "id": "27cf5b92e8425c23",
+    "title": "Spain's king and queen attend memorial service for rail crash victims",
+    "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo",
+    "publishedAt": "2026-11-10T20:46:40.000Z"
+  },
+  {
+    "id": "c85990e2dcad1612",
+    "title": "US soldier arrested in UK on suspicion of spying for Russia",
+    "summary": "London Metropolitan Police says its 'counterterror' forces worked closely with the FBI and US military to make arrest.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+    "publishedAt": "2026-11-10T20:41:53.000Z"
+  },
+  {
+    "id": "7630802a768d077f",
+    "title": "Emmanuel and Brigitte Macron file new defamation lawsuit against Candace Owens",
+    "summary": "Legal battle escalates as far-right US podcaster continues to spread false claims that France’s first lady was born a man.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/10/emmanuel-brigitte-macron-defamation-lawsuit-candace-owens",
+    "publishedAt": "2026-11-10T20:28:47.000Z"
+  },
+  {
+    "id": "290c1b8b7e931734",
+    "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
+    "summary": "Salvadoran troops backed the police operation ahead of the Haitian prime minister’s visit to El Salvador.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
+    "publishedAt": "2026-11-10T20:22:21.000Z"
+  },
+  {
+    "id": "6ca42c0ed7d9d0ad",
+    "title": "FDA warns of rare eye condition causing blindness from GLP-1 weight loss medications",
+    "summary": "The federal agency is requiring all GLP-1s to include information about the potential risk on warning labels.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/fda-glp-1-weight-loss-blindness-risk",
+    "publishedAt": "2026-11-10T20:18:14.000Z"
+  },
+  {
+    "id": "599182ceb8d5600b",
+    "title": "F1 champion Lewis Hamilton visits Gaza border",
+    "summary": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
+    "publishedAt": "2026-11-10T20:14:34.000Z"
+  },
+  {
     "id": "49bafff93b608e49",
     "title": "Thomas Markle, father of Meghan, cut off his ankle monitor, DoJ says",
     "summary": "Estranged father of Duchess of Sussex was arrested for keeping child sexual abuse material in storage units in California.",
@@ -7,6 +88,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
     "publishedAt": "2026-11-10T20:08:10.000Z"
+  },
+  {
+    "id": "4d72459b2cefbd69",
+    "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
+    "summary": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
+    "publishedAt": "2026-11-10T20:07:01.000Z"
   },
   {
     "id": "f5f2ae55de09ab44",
@@ -34,6 +124,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/10/french-police-raid-ritz-hotel-in-mohamed-al-fayed-sexual-abuse-investigation",
     "publishedAt": "2026-11-10T20:00:43.000Z"
+  },
+  {
+    "id": "cdddfddffbced3e2",
+    "title": "Trump administration seeks to cut food aid for more than six million people",
+    "summary": "Trump’s proposal builds on earlier cuts to federal food aid programme used by more than 36 million low-income Americans.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/trump-administration-seeks-to-cut-food-aid-for-more-than-six-million-people?traffic_source=rss",
+    "publishedAt": "2026-11-10T20:00:18.000Z"
+  },
+  {
+    "id": "679554b7246bb4ef",
+    "title": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
+    "summary": "Ohio Congressman Jim Jordan to succeed Mike Johnson as GOP minority leader, promising unity and a robust opposition.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader?traffic_source=rss",
+    "publishedAt": "2026-11-10T19:54:46.000Z"
   },
   {
     "id": "b24a24057237750a",
@@ -909,6 +1017,15 @@
     "publishedAt": "2026-11-10T12:48:48.000Z"
   },
   {
+    "id": "78aa026d0c91fe6f",
+    "title": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+    "summary": "California lawsuit comes as Donald Trump says FBI is investigating tech CEO’s links with Alice Huang.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+    "publishedAt": "2026-11-10T12:45:54.000Z"
+  },
+  {
     "id": "6f39694ac05b9b95",
     "title": "Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you",
     "summary": "\"School Girls; Or, The African Mean Girls Play,\" is ending a Broadway run this week and celebrating with livestream broadcasts. We interviewed the Tony-nominated playwright, Jocelyn Bioh.",
@@ -1231,122 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/10/nx-s1-6035019/investigation-continues-into-nvidia-ceos-alleged-relationship-with-chinese-spy",
     "publishedAt": "2026-11-10T09:38:11.000Z"
-  },
-  {
-    "id": "faea3f5a1a739bdc",
-    "title": "Holiday hunger bill to face final Stormont hurdle",
-    "summary": "The new law would would help poorer families with food costs during school holidays.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo",
-    "publishedAt": "2026-11-10T09:35:03.000Z"
-  },
-  {
-    "id": "6a4fa27f4fb7f39d",
-    "title": "Three workers die at Tata’s iPhone parts plant in India’s Tamil Nadu",
-    "summary": "The workers had inhaled gas while inspecting an external nano-filtration tank, a district official says.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/three-workers-die-at-tatas-iphone-parts-plant-in-indias-tamil-nadu?traffic_source=rss",
-    "publishedAt": "2026-11-10T09:29:54.000Z"
-  },
-  {
-    "id": "80a8cf59624ff8c6",
-    "title": "Myanmar army seizes key resistance HQ and bases held by opposition, state media says",
-    "summary": "Myanmar’s military has seized a key resistance command headquarters and 10 other bases in the country’s southern region.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/myanmar-army-seizes-key-resistance-headquarters-10-bases-138003361",
-    "publishedAt": "2026-11-10T09:29:41.000Z"
-  },
-  {
-    "id": "ff649028dad65ce1",
-    "title": "Police officer dies and another injured after backpack explosion in Oviedo",
-    "summary": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o",
-    "publishedAt": "2026-11-10T09:26:20.000Z"
-  },
-  {
-    "id": "88d803268c5a19fd",
-    "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-    "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo",
-    "publishedAt": "2026-11-10T09:23:55.000Z"
-  },
-  {
-    "id": "a1a36b2813201282",
-    "title": "Headteachers say families will struggle after another rise in school dinner prices",
-    "summary": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o",
-    "publishedAt": "2026-11-10T09:13:30.000Z"
-  },
-  {
-    "id": "b791ed4e8aa57b83",
-    "title": "Disgraced former leader Sheikh Hasina plans return to Bangladesh after two years in exile",
-    "summary": "Hasina fled to India in 2024 after mass uprising. She faces death penalty upon return.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
-    "publishedAt": "2026-11-10T09:01:30.000Z"
-  },
-  {
-    "id": "e30660410332a1e2",
-    "title": "Britons stockpiling water and food tins but not panic buying, figures show",
-    "summary": "Shoppers appear to have taken government’s Be Ready campaign seriously, retail analysts say.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/10/britons-stockpiling-water-food-tins-panic-buy-be-ready",
-    "publishedAt": "2026-11-10T08:53:30.000Z"
-  },
-  {
-    "id": "6658a7a9ce45293b",
-    "title": "California voters reject billionaire tax",
-    "summary": "The proposed measure would have imposed a one-time 5 percent tax on Californian billionaires to fund healthcare.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/california-voters-reject-billionaire-tax?traffic_source=rss",
-    "publishedAt": "2026-11-10T08:38:26.000Z"
-  },
-  {
-    "id": "29de32f274e6af40",
-    "title": "What powers does Netanyahu have as Israel’s interim PM?",
-    "summary": "As Israel faces political gridlock, Netanyahu wields caretaker powers to manage security and disrupt his rivals.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/what-powers-does-netanyahu-have-as-israels-interim-pm?traffic_source=rss",
-    "publishedAt": "2026-11-10T08:38:11.000Z"
-  },
-  {
-    "id": "ea1ae81d170544b4",
-    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-    "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
-    "publishedAt": "2026-11-10T08:23:21.000Z"
-  },
-  {
-    "id": "67d89afb04481509",
-    "title": "Viktor Orbán’s brother detained in people-smuggling investigation, Hungarian PM says",
-    "summary": "Arrest made by anti-corruption body set up to investigate alleged graft during former PM’s 16-year rule.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/10/viktor-orban-brother-aron-detained-people-smuggling-investigation-hungarian-pm-says",
-    "publishedAt": "2026-11-10T08:18:38.000Z"
-  },
-  {
-    "id": "a2506723218a63d0",
-    "title": "Locals launch campaign to buy ancient wood",
-    "summary": "Locals have a year to raise the money needed to buy Ruscombe Wood near Stroud.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3rryynzqxwno",
-    "publishedAt": "2026-11-10T08:13:42.000Z"
   }
 ]
