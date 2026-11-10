@@ -1,5 +1,32 @@
 [
   {
+    "id": "546347761b78d12b",
+    "title": "‘Europe belongs at this table,’ Germany tells US before Ukraine talks",
+    "summary": "G7 foreign ministers are meeting in Paris ahead of the US-mediated Russia-Ukraine talks in Abu Dhabi.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks?traffic_source=rss",
+    "publishedAt": "2026-11-10T05:02:33.000Z"
+  },
+  {
+    "id": "799d3791f46aadd7",
+    "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+    "summary": "First substantive peace talks since February to include US proposal for ‘long-term security architecture’ between Moscow and Europe.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+    "publishedAt": "2026-11-10T05:00:29.000Z"
+  },
+  {
+    "id": "88c1d819f606ecfc",
+    "title": "Sydney private school accused of sexual abuse should be banned from enrolling new students, inquiry says",
+    "summary": "Inquiry recommends NSW police investigate allegations of sexual assault and other abuse at Redeemer Baptist school.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/10/redeemer-baptist-school-sexual-abuse-inquiry-ntwnfb",
+    "publishedAt": "2026-11-10T04:51:39.000Z"
+  },
+  {
     "id": "32c6dc360d3c9348",
     "title": "Dozens of CFMEU stoppages in a week before rail site takeover, hearing told",
     "summary": "The royal commission into the CFMEU and Victoria's Big Build projects hears a site supervisor suspected the union had an agenda when it raised 31 safety concerns in a week at Sunbury.",
@@ -684,6 +711,15 @@
     "publishedAt": "2026-11-09T18:37:03.000Z"
   },
   {
+    "id": "bd79cef68438d300",
+    "title": "Workers say HungryPanda docked their pay to cover cost of stolen food",
+    "summary": "Delivery workers say they are being forced to pay for orders that are stolen from them, as attention turns to safety after the stabbing death of Feng Jianming in Melbourne.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-10/hungrypanda-workers-say-they-must-pay-for-stolen-food/107360956",
+    "publishedAt": "2026-11-09T18:34:44.000Z"
+  },
+  {
     "id": "3e1ad611a91a68ab",
     "title": "Teachers strike in Paraguay to demand pension fund protections following bank's collapse",
     "summary": "Thousands of public schoolteachers went on strike in Paraguay and took to the streets of several cities following the collapse of a major bank that resulted in the removal of the nation’s president last week.",
@@ -772,6 +808,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/09/shabana-mahmood-ice-style-immigration-raid-agency-accused-fishing-expeditions",
     "publishedAt": "2026-11-09T18:00:15.000Z"
+  },
+  {
+    "id": "c463a844d551352a",
+    "title": "The election outcomes with profound implications for Australia",
+    "summary": "Soaring global inflation has spurred voters to flip the political status quo in the US and NZ. The outcomes of both elections will have profound implications for Australia.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-10/why-cost-of-living-concerns-are-up-ending-global-politics-us-nz/107365544",
+    "publishedAt": "2026-11-09T18:00:00.000Z"
+  },
+  {
+    "id": "abb388000c71af15",
+    "title": "ASIC launches investigation into collapsed Bathla Group",
+    "summary": "Corporate regulator ASIC launches a formal investigation into collapsed property giant Bathla Group, which owes creditors at least $3.4 billion.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-10/asic-launches-investigation-into-bathla-group/107365198",
+    "publishedAt": "2026-11-09T18:00:00.000Z"
   },
   {
     "id": "cb7863665107d049",
@@ -1143,6 +1197,15 @@
     "publishedAt": "2026-11-09T15:23:17.000Z"
   },
   {
+    "id": "7fcd57f0ae267743",
+    "title": "COP31 summit targets major electrification push as 1.5C goal slips away",
+    "summary": "The climate summit will push for nations around the world to electrify their energy faster and move away from fossil fuels, as Chris Bowen predicts global temperatures will rise to 2.6 degrees above pre-industrial levels.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-10/cop31-tingle-global-temperature-1-5c/107366402",
+    "publishedAt": "2026-11-09T15:15:10.000Z"
+  },
+  {
     "id": "86a988233c43972a",
     "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
     "summary": "New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.",
@@ -1168,6 +1231,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/09/kfc-italian-ski-slopes-dolomites-fast-food",
     "publishedAt": "2026-11-09T15:00:21.000Z"
+  },
+  {
+    "id": "72ba5b29087d0475",
+    "title": "Germany set to get 1st female president as governing parties unite around ex-minister",
+    "summary": "Germany is set to get its first female president after Chancellor Friedrich Merz’s party nominated Ilse Aigner, a center-right politician with appeal to liberals, to become the country’s head of state next year.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/germany-set-1st-female-president-governing-parties-unite-137970711",
+    "publishedAt": "2026-11-09T14:58:45.000Z"
   },
   {
     "id": "2240778db6cf0e34",
@@ -1276,77 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/9/more-than-100000-sign-petition-for-inquiry-into-uk-role-in-gaza-genocide?traffic_source=rss",
     "publishedAt": "2026-11-09T14:24:51.000Z"
-  },
-  {
-    "id": "eaaf087e9e57403d",
-    "title": "‘No concession’: What to expect from Russia-US-Ukraine talks in Abu Dhabi",
-    "summary": "A fourth round of peace talks in 2026 takes place this week, with security guarantees high on the agenda.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi?traffic_source=rss",
-    "publishedAt": "2026-11-09T14:24:31.000Z"
-  },
-  {
-    "id": "1d33d0b4e24377a5",
-    "title": "EU sues IBM and two European firms over troubled entry/exit border system",
-    "summary": "Lawsuit filed last year against IBM, Atos and Leonardo after delays to delivery to troubled new system.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system",
-    "publishedAt": "2026-11-09T14:24:26.000Z"
-  },
-  {
-    "id": "698ae3566b50cd50",
-    "title": "Gunman with far-right views who killed 6 in Polish city square dies in hospital, police say",
-    "summary": "Police say a 24-year-old gunman who opened fire in a city square in Poland, killing six people and wounding 15, has died in a hospital.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/gunman-views-killed-6-people-polish-city-square-137966857",
-    "publishedAt": "2026-11-09T14:18:22.000Z"
-  },
-  {
-    "id": "c55d4da5e4e50654",
-    "title": "Joe Biden to limit White House memoir promotion due to advancing cancer",
-    "summary": "Former president’s new book Promise Me America provides an inside look at January 6, Covid-19 response and more.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/biden-presidency-memoir-promise-me-america-cancer",
-    "publishedAt": "2026-11-09T14:18:00.000Z"
-  },
-  {
-    "id": "8ed5918251423f9d",
-    "title": "What ‘catastrophic’ South Africa local election results mean for ANC",
-    "summary": "The country is transitioning away from the era of ANC electoral dominance towards a more fragmented political system.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/what-catastrophic-south-africa-local-election-results-mean-for-anc?traffic_source=rss",
-    "publishedAt": "2026-11-09T14:14:28.000Z"
-  },
-  {
-    "id": "9e88044f20eaca36",
-    "title": "Thames Water asks creditors for more time to help repay £20bn debt pile",
-    "summary": "Troubled utility lobbies for deadline on part of the debt to be extended to March 2028.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile",
-    "publishedAt": "2026-11-09T14:08:09.000Z"
-  },
-  {
-    "id": "37afe5e19fed5488",
-    "title": "‘Exceedingly heavy-handed’: ACT police criticised by magistrate for Tasering disabled Aboriginal woman",
-    "summary": "Exclusive: Body-worn camera footage shows woman pulled off bench and a Taser activated despite ‘putting up no resistance’, magistrate says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/10/exceedingly-heavy-handed-act-police-officers-criticised-by-magistrate-for-taser-arrest-of-disabled-aboriginal-woman-ntwnfb",
-    "publishedAt": "2026-11-09T14:00:13.000Z"
-  },
-  {
-    "id": "2a4a3b3f2ff2aefd",
-    "title": "‘Settle down’, ‘do your own swabs’: how alleged rape victims are treated in Queensland revealed in major report",
-    "summary": "Prosecutors dropped cases because survivors ‘didn’t act how a rape victim should’, Australian Institute of Criminology review of 19,000 sexual assault cases finds.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/10/settle-down-do-your-own-swabs-how-alleged-victims-are-treated-in-queensland-revealed-in-major-report",
-    "publishedAt": "2026-11-09T14:00:12.000Z"
   }
 ]
