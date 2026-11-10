@@ -1,5 +1,41 @@
 [
   {
+    "id": "b791ed4e8aa57b83",
+    "title": "Disgraced former leader Sheikh Hasina plans return to Bangladesh after two years in exile",
+    "summary": "Hasina fled to India in 2024 after mass uprising. She faces death penalty upon return.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
+    "publishedAt": "2026-11-10T09:01:30.000Z"
+  },
+  {
+    "id": "e30660410332a1e2",
+    "title": "Britons stockpiling water and food tins but not panic buying, figures show",
+    "summary": "Shoppers appear to have taken government’s Be Ready campaign seriously, retail analysts say.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/10/britons-stockpiling-water-food-tins-panic-buy-be-ready",
+    "publishedAt": "2026-11-10T08:53:30.000Z"
+  },
+  {
+    "id": "6658a7a9ce45293b",
+    "title": "California voters reject billionaire tax",
+    "summary": "The proposed measure would have imposed a one-time 5 percent tax on Californian billionaires to fund healthcare.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/california-voters-reject-billionaire-tax?traffic_source=rss",
+    "publishedAt": "2026-11-10T08:38:26.000Z"
+  },
+  {
+    "id": "29de32f274e6af40",
+    "title": "What powers does Netanyahu have as Israel’s interim PM?",
+    "summary": "As Israel faces political gridlock, Netanyahu wields caretaker powers to manage security and disrupt his rivals.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/what-powers-does-netanyahu-have-as-israels-interim-pm?traffic_source=rss",
+    "publishedAt": "2026-11-10T08:38:11.000Z"
+  },
+  {
     "id": "a2506723218a63d0",
     "title": "Locals launch campaign to buy ancient wood",
     "summary": "Locals have a year to raise the money needed to buy Ruscombe Wood near Stroud.",
@@ -7,6 +43,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c3rryynzqxwno",
     "publishedAt": "2026-11-10T08:13:42.000Z"
+  },
+  {
+    "id": "3085af022d58f421",
+    "title": "US moves aircraft from second UK base over ‘threat from Iran’",
+    "summary": "Two refuelling tankers and several other aircraft diverted from RAF Mildenhall airbase ​to other locations, WSJ reports.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss",
+    "publishedAt": "2026-11-10T08:08:24.000Z"
   },
   {
     "id": "77bc603f2d1dba73",
@@ -115,6 +160,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo",
     "publishedAt": "2026-11-10T06:30:29.000Z"
+  },
+  {
+    "id": "a5e6c1e9571071d5",
+    "title": "Oxford museum returns ancestral Naga skulls to India",
+    "summary": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o",
+    "publishedAt": "2026-11-10T06:23:42.000Z"
   },
   {
     "id": "52085c7e43728e01",
@@ -891,6 +945,15 @@
     "publishedAt": "2026-11-09T20:27:07.000Z"
   },
   {
+    "id": "7b5a8f3e87f950ba",
+    "title": "France accuses Iran of supermarket fridge hacking",
+    "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo",
+    "publishedAt": "2026-11-09T20:20:08.000Z"
+  },
+  {
     "id": "2e17a1f5473919af",
     "title": "ASX 200 climbs 1.1pc to highest level since August",
     "summary": "Australian shares have climbed to their highest level in more than two months, with heavyweight miners leading gains.",
@@ -1285,68 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/france-blames-iran-months-cyberattack-supermarket-fridges-137980107",
     "publishedAt": "2026-11-09T17:30:19.000Z"
-  },
-  {
-    "id": "fc55d1f496b8d35f",
-    "title": "How Mandela's ANC lost its way in South Africa and voters deserted it",
-    "summary": "The African National Congress party in South Africa faces growing dissatisfaction and an exodus of supporters.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/mandelas-anc-lost-south-africa-voters-deserted-137977700",
-    "publishedAt": "2026-11-09T17:30:19.000Z"
-  },
-  {
-    "id": "099785ea177cf35b",
-    "title": "How to get the buzz back on Britain’s high streets | Letters",
-    "summary": "Readers respond to an article about the decline of town centres.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/09/how-to-get-the-buzz-back-on-britains-high-streets",
-    "publishedAt": "2026-11-09T17:25:00.000Z"
-  },
-  {
-    "id": "cb84f65d2a5c346c",
-    "title": "Civil servant who secretly held five jobs found guilty of fraud",
-    "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do",
-    "publishedAt": "2026-11-09T17:17:16.000Z"
-  },
-  {
-    "id": "17ed3f790fff4f74",
-    "title": "Trump questions midterm elections integrity after previously accepting results",
-    "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o",
-    "publishedAt": "2026-11-09T17:16:42.000Z"
-  },
-  {
-    "id": "eb2e4bb1d2fc9ed0",
-    "title": "Only known handwritten final draft of MLK Jr’s I Have A Dream speech to be auctioned",
-    "summary": "The document is expected to fetch more than $10m and the proceeds will be donated to several charities.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/mlk-dream-speech-auction",
-    "publishedAt": "2026-11-09T17:13:27.000Z"
-  },
-  {
-    "id": "ba436dfdc0d3e84d",
-    "title": "Nvidia’s board needs to do some succession planning – sharpish | Nils Pratley",
-    "summary": "The chipmaker faces business risks and political scrutiny due to its over-reliance on founder and CEO Jensen Huang.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang",
-    "publishedAt": "2026-11-09T17:06:23.000Z"
-  },
-  {
-    "id": "7377186a93e26160",
-    "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-    "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo",
-    "publishedAt": "2026-11-09T17:06:18.000Z"
   }
 ]
