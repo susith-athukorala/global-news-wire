@@ -1,5 +1,122 @@
 [
   {
+    "id": "49bafff93b608e49",
+    "title": "Thomas Markle, father of Meghan, cut off his ankle monitor, DoJ says",
+    "summary": "Estranged father of Duchess of Sussex was arrested for keeping child sexual abuse material in storage units in California.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
+    "publishedAt": "2026-11-10T20:08:10.000Z"
+  },
+  {
+    "id": "f5f2ae55de09ab44",
+    "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+    "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
+    "publishedAt": "2026-11-10T20:03:41.000Z"
+  },
+  {
+    "id": "6af5a86cb035ac4b",
+    "title": "UK counter-terrorism police arrest senior US soldier with alleged links to Russia",
+    "summary": "Man, 41, arrested near Gloucester by police working with US authorities in investigation involving ‘allegations of espionage’, according to FBI director.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
+    "publishedAt": "2026-11-10T20:03:28.000Z"
+  },
+  {
+    "id": "4ba68be2318560d0",
+    "title": "French police raid Ritz hotel in Mohamed Al Fayed sexual abuse investigation",
+    "summary": "Arrests made after three properties were searched in relation to inquiry into late businessman.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/10/french-police-raid-ritz-hotel-in-mohamed-al-fayed-sexual-abuse-investigation",
+    "publishedAt": "2026-11-10T20:00:43.000Z"
+  },
+  {
+    "id": "b24a24057237750a",
+    "title": "US soldier arrested in Britain on suspicion of espionage linked to Russia",
+    "summary": "Counterterror police in England have arrested a U.S. Army soldier on suspicion of espionage related to Russia.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/us-soldier-arrested-britain-suspicion-espionage-linked-russia-138022230",
+    "publishedAt": "2026-11-10T19:52:37.000Z"
+  },
+  {
+    "id": "cd5ee0a0d52917c8",
+    "title": "Street boxing matches gain popularity in Bogota",
+    "summary": "Santiago Abril has been organizing pop-up boxing matches in parks around Bogota, Colombia, without official permits.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/street-boxing-matches-gain-popularity-bogota-138023461",
+    "publishedAt": "2026-11-10T19:52:32.000Z"
+  },
+  {
+    "id": "743ec3b55d65225b",
+    "title": "Parents sue to stop Washington state trans sports ban that could require ‘invasive’ genital exams",
+    "summary": "Voters adopted extreme policy requiring medical sex verification for all girls who want to play team sports.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/washington-trans-sports-ban-lawsuit",
+    "publishedAt": "2026-11-10T19:49:49.000Z"
+  },
+  {
+    "id": "3f9c6e550b012a42",
+    "title": "Spain holds state funeral for 69 killed in high-speed rail crash",
+    "summary": "Relatives of the 69 people killed in a high-speed rail collision in Spain last month attended a state funeral Tuesday.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/spain-holds-state-funeral-69-killed-high-speed-138022635",
+    "publishedAt": "2026-11-10T19:46:28.000Z"
+  },
+  {
+    "id": "b6f8f845969f0e1c",
+    "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
+    "summary": "As Democrats prepare to take control of Congress, Republicans pick Jordan for last two years of Trump’s presidency.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
+    "publishedAt": "2026-11-10T19:40:10.000Z"
+  },
+  {
+    "id": "061c01bac511cd22",
+    "title": "Senior US soldier arrested by UK counter-terror police",
+    "summary": "The 41-year-old was arrested on suspicion of offences under the National Security Act which relate to Russia, police say.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo",
+    "publishedAt": "2026-11-10T19:34:48.000Z"
+  },
+  {
+    "id": "4d79f8dbd6d79d1a",
+    "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+    "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko",
+    "publishedAt": "2026-11-10T19:26:42.000Z"
+  },
+  {
+    "id": "4313f0f3aeef08c9",
+    "title": "Trump’s FCC nominee avoids questions from Democrats on Carr’s ‘censorship agenda’",
+    "summary": "Senators pressured Danielle Thumann, senior counsel to FCC chair Brendan Carr, to speak about agency’s actions toward ABC and Jimmy Kimmel.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-fcc-nominee-danielle-thumann",
+    "publishedAt": "2026-11-10T19:19:46.000Z"
+  },
+  {
+    "id": "09a5817069d10609",
+    "title": "US Senate advances major bill boosting energy infrastructure",
+    "summary": "Rare bipartisan bill requires data centres to pay for infrastructure, but environmental groups say it falls short.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/us-senate-advances-major-bill-boosting-energy-infrastructure?traffic_source=rss",
+    "publishedAt": "2026-11-10T19:09:12.000Z"
+  },
+  {
     "id": "76dd978295b6cc0a",
     "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
     "summary": "Drone makers are testing new, big drones that can deliver water or fire retardant with AI assistance. Aspen, Colorado is the first place trying them out.",
@@ -34,6 +151,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/10/house-republicans-epstein-investigation",
     "publishedAt": "2026-11-10T18:44:17.000Z"
+  },
+  {
+    "id": "e8e7aaa4aba82880",
+    "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+    "summary": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o",
+    "publishedAt": "2026-11-10T18:43:04.000Z"
   },
   {
     "id": "46f689c1c3b61ca3",
@@ -79,6 +205,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/10/woman-jailed-for-posing-as-man-dupe-partner-sex-guilty-of-similar-deception",
     "publishedAt": "2026-11-10T18:08:29.000Z"
+  },
+  {
+    "id": "a9ae8073281d5c53",
+    "title": "Arrests made after visit from former US President Biden",
+    "summary": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck78p827y642o",
+    "publishedAt": "2026-11-10T18:07:56.000Z"
   },
   {
     "id": "27b037defcab3821",
@@ -484,6 +619,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/artanddesign/2026/nov/10/petra-heights-flintstones-style-towers-future-of-eco-building",
     "publishedAt": "2026-11-10T14:25:29.000Z"
+  },
+  {
+    "id": "db60a703114c0936",
+    "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
+    "summary": "Little is known about her except that she's reportedly about 13 and named Kim Ju Ae, but Korea's spy agency says she's likely her father's heir.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
+    "publishedAt": "2026-11-10T14:16:53.000Z"
   },
   {
     "id": "f4e7dc124530cc13",
@@ -1089,6 +1233,15 @@
     "publishedAt": "2026-11-10T09:38:11.000Z"
   },
   {
+    "id": "faea3f5a1a739bdc",
+    "title": "Holiday hunger bill to face final Stormont hurdle",
+    "summary": "The new law would would help poorer families with food costs during school holidays.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo",
+    "publishedAt": "2026-11-10T09:35:03.000Z"
+  },
+  {
     "id": "6a4fa27f4fb7f39d",
     "title": "Three workers die at Tata’s iPhone parts plant in India’s Tamil Nadu",
     "summary": "The workers had inhaled gas while inspecting an external nano-filtration tank, a district official says.",
@@ -1195,158 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c3rryynzqxwno",
     "publishedAt": "2026-11-10T08:13:42.000Z"
-  },
-  {
-    "id": "3085af022d58f421",
-    "title": "US moves aircraft from second UK base over ‘threat from Iran’",
-    "summary": "Two refuelling tankers and several other aircraft diverted from RAF Mildenhall airbase ​to other locations, WSJ reports.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss",
-    "publishedAt": "2026-11-10T08:08:24.000Z"
-  },
-  {
-    "id": "77bc603f2d1dba73",
-    "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
-    "summary": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo",
-    "publishedAt": "2026-11-10T07:43:11.000Z"
-  },
-  {
-    "id": "5aaf31bc68a0eed0",
-    "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
-    "summary": "From the assassinations of her husband and mother-in-law to press stonewalling under Modi, Belonging offers an insider’s account of India’s political evolution.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
-    "publishedAt": "2026-11-10T07:30:31.000Z"
-  },
-  {
-    "id": "78aa026d0c91fe6f",
-    "title": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy",
-    "summary": "Legal action comes as Donald Trump says FBI is investigating tech company CEO’s links with Alice Huang.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
-    "publishedAt": "2026-11-10T07:30:15.000Z"
-  },
-  {
-    "id": "06bbb196a74ccb73",
-    "title": "House martin artificial nests scheme set to expand",
-    "summary": "The artificial nests are more robust than the endangered migratory birds' own mud creations.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c64g1ge73y8lo",
-    "publishedAt": "2026-11-10T07:27:21.000Z"
-  },
-  {
-    "id": "cde23c72ae1c0ce6",
-    "title": "Australia tightens AI oversight rules after OpenAI government breach",
-    "summary": "The decision comes after ​an OpenAI agent breached ​an Australian government website in June.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
-    "publishedAt": "2026-11-10T07:05:11.000Z"
-  },
-  {
-    "id": "6b05ec01f6818d12",
-    "title": "Author Jojo Moyes among UK travellers at risk of EU ban amid digital border system glitches",
-    "summary": "Errors in entry and exit records leave some Britons wrongly flagged as having overstayed post-Brexit 90-day limit.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/10/jojo-moyes-uk-travellers-eu-ban-digital-border-system-ees",
-    "publishedAt": "2026-11-10T07:00:32.000Z"
-  },
-  {
-    "id": "71ad979424b93225",
-    "title": "How a chat with ‘auntie’ helped a young worker bag free money in a UK pensions scheme",
-    "summary": "Joining a company scheme at 18 seemed ‘too expensive’ for Rio until someone close put him right.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/10/uk-pensions-scottish-widows-young-worker",
-    "publishedAt": "2026-11-10T07:00:32.000Z"
-  },
-  {
-    "id": "09e66f1e63c8d084",
-    "title": "Apple MacBook Pro review: lighter, thinner and a stunning OLED touchscreen",
-    "summary": "Redesigned flagship laptop has a fantastic display, killer performance and the first touchscreen on a Mac, but comes with a serious price tag.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/10/apple-macbook-pro-review-lighter-thinner-stunning-oled-touchscreen",
-    "publishedAt": "2026-11-10T07:00:31.000Z"
-  },
-  {
-    "id": "f3dde674069aa847",
-    "title": "G7 attention turns to Ukraine while US-mediated talks get underway in Abu Dhabi",
-    "summary": "U.S. Secretary of State Marco Rubio and his counterparts from the Group of 7 developed democracies are turning their attention toward Ukraine and how to support it in its struggle to defend itself from Russia.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/g7-attention-paris-turns-ukraine-us-mediated-talks-138001993",
-    "publishedAt": "2026-11-10T06:57:41.000Z"
-  },
-  {
-    "id": "1a478ad3efb3bbfd",
-    "title": "US reportedly evacuated aircraft from RAF Mildenhall over Iran threat",
-    "summary": "The reported evacuation comes weeks after the US withdrew bombers from RAF Fairford over a suspected Iran-linked security incident.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
-    "publishedAt": "2026-11-10T06:46:53.000Z"
-  },
-  {
-    "id": "f91bbf3404957a88",
-    "title": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
-    "summary": "More than 2,000 Gaza buildings risk collapse amid floods, with 400,000 displaced in vulnerable zones, says government.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
-    "publishedAt": "2026-11-10T06:37:13.000Z"
-  },
-  {
-    "id": "c07fddaa7ce39baa",
-    "title": "The swan sanctuary wetland fighting climate change",
-    "summary": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo",
-    "publishedAt": "2026-11-10T06:30:29.000Z"
-  },
-  {
-    "id": "a5e6c1e9571071d5",
-    "title": "Oxford museum returns ancestral Naga skulls to India",
-    "summary": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o",
-    "publishedAt": "2026-11-10T06:23:42.000Z"
-  },
-  {
-    "id": "52085c7e43728e01",
-    "title": "Independent bookshop closing after rise in bills",
-    "summary": "The Chicken and Frog in Brentwood says business rates and electricity bills have risen dramatically.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crx2dd92ne9yo",
-    "publishedAt": "2026-11-10T06:22:52.000Z"
-  },
-  {
-    "id": "52b685089b4ded05",
-    "title": "Luka Doncic’s 32 points help Lakers beat Hawks; Wembanyama powers Spurs",
-    "summary": "Doncic has been averaging 40 points per game this season with the Lakers on top of the NBA Western Conference.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/10/nba-doncic-lakers-wembanyama-spurs-curry-warriors?traffic_source=rss",
-    "publishedAt": "2026-11-10T06:22:35.000Z"
-  },
-  {
-    "id": "df306a5985c9cf90",
-    "title": "Khor Mor drone attack raises fears over Iraq’s energy security",
-    "summary": "Drone strike disrupts electricity supply in Iraq's semi-autonomous Kurdish region, renewing concerns about armed groups.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss",
-    "publishedAt": "2026-11-10T06:22:00.000Z"
   }
 ]
