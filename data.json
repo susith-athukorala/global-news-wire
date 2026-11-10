@@ -1,5 +1,50 @@
 [
   {
+    "id": "a2506723218a63d0",
+    "title": "Locals launch campaign to buy ancient wood",
+    "summary": "Locals have a year to raise the money needed to buy Ruscombe Wood near Stroud.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3rryynzqxwno",
+    "publishedAt": "2026-11-10T08:13:42.000Z"
+  },
+  {
+    "id": "77bc603f2d1dba73",
+    "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+    "summary": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo",
+    "publishedAt": "2026-11-10T07:43:11.000Z"
+  },
+  {
+    "id": "5aaf31bc68a0eed0",
+    "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
+    "summary": "From the assassinations of her husband and mother-in-law to press stonewalling under Modi, Belonging offers an insider’s account of India’s political evolution.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
+    "publishedAt": "2026-11-10T07:30:31.000Z"
+  },
+  {
+    "id": "78aa026d0c91fe6f",
+    "title": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy",
+    "summary": "Legal action comes as Donald Trump says FBI is investigating tech company CEO’s links with Alice Huang.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+    "publishedAt": "2026-11-10T07:30:15.000Z"
+  },
+  {
+    "id": "06bbb196a74ccb73",
+    "title": "House martin artificial nests scheme set to expand",
+    "summary": "The artificial nests are more robust than the endangered migratory birds' own mud creations.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c64g1ge73y8lo",
+    "publishedAt": "2026-11-10T07:27:21.000Z"
+  },
+  {
     "id": "cde23c72ae1c0ce6",
     "title": "Australia tightens AI oversight rules after OpenAI government breach",
     "summary": "The decision comes after ​an OpenAI agent breached ​an Australian government website in June.",
@@ -468,6 +513,15 @@
     "publishedAt": "2026-11-10T01:09:19.000Z"
   },
   {
+    "id": "2707c774be8e31e8",
+    "title": "The Nvidia 'honey trap' scandal could shape the global AI race",
+    "summary": "Allegations of espionage between China and the US are nothing new. But a target as big as Jensen Huang could change who wins the AI race.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-10/nvidia-and-spy-affair-could-reshape-us-china-ai-race/107367578",
+    "publishedAt": "2026-11-10T01:06:06.000Z"
+  },
+  {
     "id": "5f790a66be4c8dcb",
     "title": "Senate advances bill to speed up permit reviews for infrastructure projects",
     "summary": "Chamber voted 73-25 to formally take up bill that will shorten timelines to start energy and datacenter projects.",
@@ -502,6 +556,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
     "publishedAt": "2026-11-10T00:44:28.000Z"
+  },
+  {
+    "id": "69569f4c31611539",
+    "title": "Court ruling paves way for Lindsay Clancy's retrial for murder",
+    "summary": "A US judge denies a motion to dismiss the murder case against Lindsay Clancy, which opens the possibility of a retrial.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-10/lindsay-clancy-could-be-tried-again-over-childrens-deaths/107367706",
+    "publishedAt": "2026-11-10T00:42:16.000Z"
   },
   {
     "id": "fe145ebdbe69b432",
@@ -565,6 +628,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
     "publishedAt": "2026-11-09T23:53:03.000Z"
+  },
+  {
+    "id": "fbc14e5f6ea51acf",
+    "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+    "publishedAt": "2026-11-09T23:51:22.000Z"
   },
   {
     "id": "27ce09cfc5348cd3",
@@ -909,6 +981,15 @@
     "publishedAt": "2026-11-09T19:27:22.000Z"
   },
   {
+    "id": "69c93673bb127dff",
+    "title": "Fresh attempt to impeach Hegseth introduced in US Congress",
+    "summary": "Questions hang over Pete Hegseth's tenure as US defense secretary as a congressman launches a fresh attempt to impeach him amid growing bipartisan calls for him to resign.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-10/us-defence-secretary-pete-hegseth-subject-of-new-impeachment-bid/107366698",
+    "publishedAt": "2026-11-09T19:24:06.000Z"
+  },
+  {
     "id": "eec41a5bd7781e3b",
     "title": "Boeing to cut about 5% of its commercial plane workforce",
     "summary": "Company will cut jobs through a mix of layoffs and attrition as it moderates the pace of ramping up jet production.",
@@ -1224,6 +1305,15 @@
     "publishedAt": "2026-11-09T17:25:00.000Z"
   },
   {
+    "id": "cb84f65d2a5c346c",
+    "title": "Civil servant who secretly held five jobs found guilty of fraud",
+    "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do",
+    "publishedAt": "2026-11-09T17:17:16.000Z"
+  },
+  {
     "id": "17ed3f790fff4f74",
     "title": "Trump questions midterm elections integrity after previously accepting results",
     "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
@@ -1258,95 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo",
     "publishedAt": "2026-11-09T17:06:18.000Z"
-  },
-  {
-    "id": "c557d34e0b175436",
-    "title": "France blames Iran’s Revolutionary Guards for cyber-attacks on supermarket fridges",
-    "summary": "French foreign minister vows European sanctions against Tehran over ‘unprecedented’ hacks last month.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
-    "publishedAt": "2026-11-09T17:02:58.000Z"
-  },
-  {
-    "id": "fca3622683b24180",
-    "title": "Labour’s Brexit red lines ready for ‘dignified retirement’, says their co-author",
-    "summary": "Exclusive: MP Chris Ward believes ditching pledges and forming closer ties with EU would protect it from global threats.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/09/labour-mp-brexit-red-lines-dignified-retirement",
-    "publishedAt": "2026-11-09T17:00:14.000Z"
-  },
-  {
-    "id": "7b5a8f3e87f950ba",
-    "title": "France accuses Iran of supermarket fridge hacking",
-    "summary": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo",
-    "publishedAt": "2026-11-09T16:55:07.000Z"
-  },
-  {
-    "id": "ed7330f6977d61dc",
-    "title": "France blames Iran for supermarket fridge cyberattacks",
-    "summary": "France's Foreign Minister Jean-Noël Barrot says the Iran's Revolutionary Guards Corp is behind the \"unprecedented\" cyber attacks on supermarket fridges as he vows to press for Europe-wide sanctions.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/irgc-iran-fridges-france/107366730",
-    "publishedAt": "2026-11-09T16:52:12.000Z"
-  },
-  {
-    "id": "0efff29fa6e1a2af",
-    "title": "Poundland unable to buy new stock as fears over collapse grow",
-    "summary": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o",
-    "publishedAt": "2026-11-09T16:46:40.000Z"
-  },
-  {
-    "id": "b5a98a502a9d7f82",
-    "title": "Pope draws record Buenos Aires crowd after rebuking Milei over austerity",
-    "summary": "More than 2.5 million worshippers attend the pontiff's Mass in the Argentinian capital, with some camping overnight to get a glimpse of the Catholic leader.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/pope-argentina-milei-crowd-record/107366696",
-    "publishedAt": "2026-11-09T16:43:06.000Z"
-  },
-  {
-    "id": "b34093d38dcd8a89",
-    "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
-    "summary": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair in an email to employees.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
-    "publishedAt": "2026-11-09T16:42:35.000Z"
-  },
-  {
-    "id": "3bcb07a683bf9962",
-    "title": "Medical breakthrough offers hope to people with same stiff person syndrome as Céline Dion",
-    "summary": "Some patients with autoimmune condition, taking part in trial, have been able to return to work and resume hobbies.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/09/medical-breakthrough-offers-hope-to-people-with-same-stiff-person-syndrome-as-celine-dion",
-    "publishedAt": "2026-11-09T16:42:22.000Z"
-  },
-  {
-    "id": "6516a79a40d75f80",
-    "title": "The hottest product in Britain this year? A 2kg bag of ice",
-    "summary": "As the UK endured record-breaking temperatures this summer, nothing grew in popularity on Deliveroo like sacks of sweet relief from the supermarket Iceland.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/09/the-hottest-product-in-britain-this-year-a-2kg-bag-of-ice",
-    "publishedAt": "2026-11-09T16:41:58.000Z"
-  },
-  {
-    "id": "ca0a2d825abc3931",
-    "title": "Senior doctors at Glasgow hospital in care delay warning",
-    "summary": "Consultants at the Queen Elizabeth University Hospital say conditions for emergency patients there are deteriorating.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckx2d2vv40w6o",
-    "publishedAt": "2026-11-09T16:34:48.000Z"
   }
 ]
