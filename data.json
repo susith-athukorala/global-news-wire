@@ -1,5 +1,14 @@
 [
   {
+    "id": "62e590857f05f895",
+    "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+    "summary": "Trump ally, accused of an array of illegal acts, had earlier condemned impeachment push as ‘a farce and a stunt’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
+    "publishedAt": "2026-11-10T23:08:57.000Z"
+  },
+  {
     "id": "f19028c7366b0364",
     "title": "Russia expels Moldovan diplomat in tit-for-tat move",
     "summary": "Relations between Moscow and Chisinau have worsened since Russia's full-scale invasion of Ukraine in 2022.",
@@ -1339,14 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c678p8yz0k38o",
     "publishedAt": "2026-11-10T11:30:32.000Z"
-  },
-  {
-    "id": "ff649028dad65ce1",
-    "title": "Police officer dies and another injured after backpack explosion in northern Spain",
-    "summary": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o",
-    "publishedAt": "2026-11-10T11:25:46.000Z"
   }
 ]
