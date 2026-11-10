@@ -1,5 +1,23 @@
 [
   {
+    "id": "136b5117374fcbb0",
+    "title": "Are walking pads worth it? We put the best under-desk treadmills to the test",
+    "summary": "Want to get your steps in while working or watching TV? Our expert puts walking pads through their paces to find the best for comfort, noise and ease of storage.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2025/apr/03/best-walking-pads-under-desk-treadmills-uk",
+    "publishedAt": "2026-11-10T10:00:05.000Z"
+  },
+  {
+    "id": "c8bc095ef350b507",
+    "title": "How word of mouth is helping an Amish community's fight against measles",
+    "summary": "In Pennsylvania, health officials use a quiet vaccination campaign designed to win the trust of the state's Amish community, which has been hit hard by the measles outbreak.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6021511/pennsylvania-amish-measles-vaccine-trust",
+    "publishedAt": "2026-11-10T10:00:00.000Z"
+  },
+  {
     "id": "0dc6502a93776b3a",
     "title": "Is honesty always the best policy? When to speak up — or stay silent",
     "summary": "Should you tell your boss she's got food on their face? Your partner you hate their outfit?",
@@ -34,6 +52,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
     "publishedAt": "2026-11-10T09:52:47.000Z"
+  },
+  {
+    "id": "02a67351f25ba578",
+    "title": "What is Hasina’s game plan as she seeks a passport to return to Bangladesh?",
+    "summary": "The ousted leader faces the prospect of being hanged upon return for her violent suppression of the 2024 uprising.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/what-is-hasinas-game-plan-as-she-seeks-passport-to-return-to-bangladesh?traffic_source=rss",
+    "publishedAt": "2026-11-10T09:46:43.000Z"
+  },
+  {
+    "id": "b10c24292e959a43",
+    "title": "Nvidia spy scandal fuels debate over chip exports to China",
+    "summary": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO's relationship with alleged spy.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
+    "publishedAt": "2026-11-10T09:42:04.000Z"
   },
   {
     "id": "375c2c22806beb9e",
@@ -1312,41 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/pope-visits-struggling-argentine-home-people-disabilities-press-137970019",
     "publishedAt": "2026-11-09T18:13:51.000Z"
-  },
-  {
-    "id": "cfcba81110793f09",
-    "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-    "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
-    "publishedAt": "2026-11-09T18:11:11.000Z"
-  },
-  {
-    "id": "453fbb9cf6be8178",
-    "title": "Meta rolls out automated age checks for teens globally",
-    "summary": "AI-powered scans will be used for Instagram accounts starting this month and later extended to Facebook and Threads.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss",
-    "publishedAt": "2026-11-09T18:09:26.000Z"
-  },
-  {
-    "id": "60274129e254c83e",
-    "title": "Turkey steel factory blast kills at least 16 people",
-    "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo",
-    "publishedAt": "2026-11-09T18:04:01.000Z"
-  },
-  {
-    "id": "3e55692acb79d191",
-    "title": "Mahmood’s ICE-style immigration raid agency accused of ‘fishing expeditions’",
-    "summary": "Exclusive: Almost two-thirds of visits lead to no arrests and nearly three-quarters are conducted without a warrant.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/09/shabana-mahmood-ice-style-immigration-raid-agency-accused-fishing-expeditions",
-    "publishedAt": "2026-11-09T18:00:15.000Z"
   }
 ]
