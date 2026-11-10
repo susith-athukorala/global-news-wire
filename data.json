@@ -1,5 +1,41 @@
 [
   {
+    "id": "f19028c7366b0364",
+    "title": "Russia expels Moldovan diplomat in tit-for-tat move",
+    "summary": "Relations between Moscow and Chisinau have worsened since Russia's full-scale invasion of Ukraine in 2022.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
+    "publishedAt": "2026-11-10T22:41:07.000Z"
+  },
+  {
+    "id": "a0a5f902d6ab5410",
+    "title": "US House begins vote on motion to advance impeachment of Pete Hegseth",
+    "summary": "Defence Secretary has been accused of spearheading war on Iran without required congressional approval.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
+    "publishedAt": "2026-11-10T22:36:14.000Z"
+  },
+  {
+    "id": "32a880d3165a7e96",
+    "title": "Bernie Sanders says he will not back Schumer for Senate Democratic leader",
+    "summary": "Progressive senator says ‘I like Chuck … but the time is now for change’ as calls grow for new Democratic leadership.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats",
+    "publishedAt": "2026-11-10T22:16:32.000Z"
+  },
+  {
+    "id": "c51098760953be81",
+    "title": "Dominican president says he backs Bukele and Salvadoran troops in Haiti",
+    "summary": "The president of the Dominican Republic says his government is collaborating with El Salvador’s president and providing him with logistics and intelligence as some 2,500 troops from the Central American country battle violent gangs in Haiti.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/dominican-president-backs-bukele-salvadoran-troops-haiti-138027231",
+    "publishedAt": "2026-11-10T22:12:51.000Z"
+  },
+  {
     "id": "f091d0b7fce2957b",
     "title": "UNIFIL patrol comes under fire in southern Lebanon",
     "summary": "UNIFIL said on Tuesday that 'about a dozen rounds' were fired at one of its patrols, without identifying the assailants.",
@@ -79,6 +115,15 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-11/us-charges-3-men-with-plotting-terror-attacks/107371492",
     "publishedAt": "2026-11-10T21:10:35.000Z"
+  },
+  {
+    "id": "37e2ad9dac02382c",
+    "title": "Meghan Markle's father jailed for cutting off ankle monitor",
+    "summary": "A US judge orders Thomas Markle to go to jail after he allegedly cut off his ankle monitor, which was a condition of his bail after being charged over child sexual abuse material.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-11/thomas-markle-accused-of-cutting-off-ankle-monitor/107371466",
+    "publishedAt": "2026-11-10T21:02:41.000Z"
   },
   {
     "id": "e2e75fdcf2d7f23a",
@@ -178,6 +223,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
     "publishedAt": "2026-11-10T20:07:01.000Z"
+  },
+  {
+    "id": "4a5484128e653676",
+    "title": "South Road scandal to become subject of parliamentary inquiry",
+    "summary": "The Malinauskas government's handling of alleged bikie infiltration into the $15.4 billion Torrens to Darlington project is set to face more scrutiny.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-11/t2d-scandal-to-become-subject-of-parliamentary-inquiry/107368122",
+    "publishedAt": "2026-11-10T20:05:02.000Z"
   },
   {
     "id": "f5f2ae55de09ab44",
@@ -531,6 +585,15 @@
     "publishedAt": "2026-11-10T17:16:15.000Z"
   },
   {
+    "id": "fc281f4b359ab9cc",
+    "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+    "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko",
+    "publishedAt": "2026-11-10T17:04:55.000Z"
+  },
+  {
     "id": "e352637e6831520a",
     "title": "Call it tough love, with the love removed: it’s Kemi’s war on benefits claimants",
     "summary": "The Tory leader outlines her £36bn welfare cuts, again, to an audience of an age and a wealth that they don’t need to work.",
@@ -637,6 +700,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo",
     "publishedAt": "2026-11-10T16:07:51.000Z"
+  },
+  {
+    "id": "c2481ff0a6af706b",
+    "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
+    "summary": "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm70p050824po",
+    "publishedAt": "2026-11-10T16:03:46.000Z"
   },
   {
     "id": "18e836c17680477a",
@@ -1276,77 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o",
     "publishedAt": "2026-11-10T11:25:46.000Z"
-  },
-  {
-    "id": "4e7da90deb2ca500",
-    "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-    "summary": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo",
-    "publishedAt": "2026-11-10T11:23:18.000Z"
-  },
-  {
-    "id": "05b29a14d959b80a",
-    "title": "Malaysian court clears former PM Najib Razak for house arrest transfer",
-    "summary": "Najib, 73, was jailed for his role in looting the now-defunct sovereign wealth fund 1MDB.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/malaysian-court-clears-former-pm-najib-razak-for-house-arrest-transfer?traffic_source=rss",
-    "publishedAt": "2026-11-10T11:17:36.000Z"
-  },
-  {
-    "id": "37bc8c85059a3f71",
-    "title": "Moroccan trio make African Player of Year shortlist as Salah absent",
-    "summary": "WAFCON winners Cameroon dominate women’s list after heroics from Monique Ngock, Michaely Bihina and Marie Ngah Manga.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/10/moroccan-trio-make-african-player-of-year-shortlist-as-salah-absent?traffic_source=rss",
-    "publishedAt": "2026-11-10T11:05:20.000Z"
-  },
-  {
-    "id": "17a37279a89c57df",
-    "title": "‘We said no, no, no, but they kept insisting’: the Paraguayan people battling a eucalyptus empire",
-    "summary": "It is Paraguay’s largest private investment but local people accuse a forestry giant of ignoring their contamination concerns over its vast plantation.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/nov/10/investigation-pulp-company-paraguay-paracel-eucalyptus-plantation",
-    "publishedAt": "2026-11-10T11:00:49.000Z"
-  },
-  {
-    "id": "30a5c026a2951871",
-    "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
-    "summary": "The two-day session in the UAE's capital, Abu Dhabi, is the first such meeting since February. It will focus on security guarantees, the White House said before the discussions.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
-    "publishedAt": "2026-11-10T10:58:18.000Z"
-  },
-  {
-    "id": "b791ed4e8aa57b83",
-    "title": "Disgraced former leader Sheikh Hasina plans return to Bangladesh from exile",
-    "summary": "Former prime minister faces death penalty upon return after being sentenced in absentia over deaths in 2024 uprising.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
-    "publishedAt": "2026-11-10T10:57:51.000Z"
-  },
-  {
-    "id": "167e633aeec1b781",
-    "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
-    "summary": "The French government said it is seeking tough sanctions to deter further cyberattacks across Europe.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss",
-    "publishedAt": "2026-11-10T10:51:02.000Z"
-  },
-  {
-    "id": "0349d100d32a62f6",
-    "title": "Brand barrister’s cross-examination of victims shocking and depressing, says Labour deputy",
-    "summary": "Lucy Powell says she thought ‘we’d gone past that sort of culture’, and that she regrets setting up Miliband interview with comedian in 2015.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2026/nov/10/lucy-powell-russell-brand-cross-examination-victims",
-    "publishedAt": "2026-11-10T10:28:51.000Z"
   }
 ]
