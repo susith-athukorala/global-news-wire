@@ -1,5 +1,86 @@
 [
   {
+    "id": "0dc6502a93776b3a",
+    "title": "Is honesty always the best policy? When to speak up — or stay silent",
+    "summary": "Should you tell your boss she's got food on their face? Your partner you hate their outfit?",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6034519/is-honesty-always-the-best-policy-when-to-speak-up-or-stay-silent",
+    "publishedAt": "2026-11-10T10:00:00.000Z"
+  },
+  {
+    "id": "fc281f4b359ab9cc",
+    "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+    "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko",
+    "publishedAt": "2026-11-10T09:57:49.000Z"
+  },
+  {
+    "id": "c2481ff0a6af706b",
+    "title": "Nearly 20,000 households eligible for £250 to help with heating bills",
+    "summary": "The Welsh government has announced a £130m package to provide support to those affected by the cost of living.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm70p050824po",
+    "publishedAt": "2026-11-10T09:57:29.000Z"
+  },
+  {
+    "id": "f49c000f8f8e7250",
+    "title": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
+    "summary": "FTSE 100 and other markets climb after president downplays prospect of further strikes in Middle East.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
+    "publishedAt": "2026-11-10T09:52:47.000Z"
+  },
+  {
+    "id": "375c2c22806beb9e",
+    "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
+    "summary": "President Trump's top envoy is in Abu Dhabi with negotiators from Russia and Ukraine to resume peace talks.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine",
+    "publishedAt": "2026-11-10T09:38:34.000Z"
+  },
+  {
+    "id": "82feddc6d3ddf0e5",
+    "title": "Investigation continues into Nvidia CEO's alleged relationship with Chinese spy",
+    "summary": "Fallout continues at the chip giant Nvidia. Its powerful CEO is accused of having an affair with a Chinese spy.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6035019/investigation-continues-into-nvidia-ceos-alleged-relationship-with-chinese-spy",
+    "publishedAt": "2026-11-10T09:38:11.000Z"
+  },
+  {
+    "id": "6a4fa27f4fb7f39d",
+    "title": "Three workers die at Tata’s iPhone parts plant in India’s Tamil Nadu",
+    "summary": "The workers had inhaled gas while inspecting an external nano-filtration tank, a district official says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/three-workers-die-at-tatas-iphone-parts-plant-in-indias-tamil-nadu?traffic_source=rss",
+    "publishedAt": "2026-11-10T09:29:54.000Z"
+  },
+  {
+    "id": "80a8cf59624ff8c6",
+    "title": "Myanmar army seizes key resistance HQ and bases held by opposition, state media says",
+    "summary": "Myanmar’s military has seized a key resistance command headquarters and 10 other bases in the country’s southern region.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/myanmar-army-seizes-key-resistance-headquarters-10-bases-138003361",
+    "publishedAt": "2026-11-10T09:29:41.000Z"
+  },
+  {
+    "id": "ff649028dad65ce1",
+    "title": "Police officer dies and another injured after backpack explosion in Oviedo",
+    "summary": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o",
+    "publishedAt": "2026-11-10T09:26:20.000Z"
+  },
+  {
     "id": "b791ed4e8aa57b83",
     "title": "Disgraced former leader Sheikh Hasina plans return to Bangladesh after two years in exile",
     "summary": "Hasina fled to India in 2024 after mass uprising. She faces death penalty upon return.",
@@ -34,6 +115,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/10/what-powers-does-netanyahu-have-as-israels-interim-pm?traffic_source=rss",
     "publishedAt": "2026-11-10T08:38:11.000Z"
+  },
+  {
+    "id": "67d89afb04481509",
+    "title": "Viktor Orbán’s brother detained in people-smuggling investigation, Hungarian PM says",
+    "summary": "Arrest made by anti-corruption body set up to investigate alleged graft during former PM’s 16-year rule.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/10/viktor-orban-brother-aron-detained-people-smuggling-investigation-hungarian-pm-says",
+    "publishedAt": "2026-11-10T08:18:38.000Z"
   },
   {
     "id": "a2506723218a63d0",
@@ -1258,95 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/09/shabana-mahmood-ice-style-immigration-raid-agency-accused-fishing-expeditions",
     "publishedAt": "2026-11-09T18:00:15.000Z"
-  },
-  {
-    "id": "c463a844d551352a",
-    "title": "The election outcomes with profound implications for Australia",
-    "summary": "Soaring global inflation has spurred voters to flip the political status quo in the US and NZ. The outcomes of both elections will have profound implications for Australia.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/why-cost-of-living-concerns-are-up-ending-global-politics-us-nz/107365544",
-    "publishedAt": "2026-11-09T18:00:00.000Z"
-  },
-  {
-    "id": "abb388000c71af15",
-    "title": "ASIC launches investigation into collapsed Bathla Group",
-    "summary": "Corporate regulator ASIC launches a formal investigation into collapsed property giant Bathla Group, which owes creditors at least $3.4 billion.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/asic-launches-investigation-into-bathla-group/107365198",
-    "publishedAt": "2026-11-09T18:00:00.000Z"
-  },
-  {
-    "id": "cb7863665107d049",
-    "title": "Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
-    "summary": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
-    "publishedAt": "2026-11-09T17:58:05.000Z"
-  },
-  {
-    "id": "d3f01c2cdf47f82d",
-    "title": "Reform UK councillor in Sunderland handed community order after racist ‘joke’ about Nigerians",
-    "summary": "Glenn Gibbins sentenced to 150 hours of unpaid work by South Tyneside magistrates over 2024 Facebook post.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/09/reform-uk-councillor-sunderland-community-order",
-    "publishedAt": "2026-11-09T17:57:50.000Z"
-  },
-  {
-    "id": "a107579327a4328a",
-    "title": "Air pollution soars as fog traps emissions in England’s urban areas",
-    "summary": "Particles from fireworks and bonfires likely to have contributed to levels well above WHO’s daily guideline.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/09/air-pollution-soars-fog-traps-emissions-england-urban-areas",
-    "publishedAt": "2026-11-09T17:50:28.000Z"
-  },
-  {
-    "id": "7c87832cea7d7c35",
-    "title": "Donnie Dunagan, original voice of Disney’s Bambi and triple Purple Heart marine, dies aged 92",
-    "summary": "Dunagan was six when he voiced the young deer in the classic cartoon, with an assistant director instructing him to pretend his own mother had died.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/09/donnie-dunagan-bambi-voice-triple-purple-heart-marine-dies",
-    "publishedAt": "2026-11-09T17:48:31.000Z"
-  },
-  {
-    "id": "6c653c6d8a88db95",
-    "title": "High fossil fuel prices spread inflation ‘like a cancer’, UN climate negotiator tells Cop31",
-    "summary": "Simon Stiell makes opening address at summit in Turkey, where talks are under way about speeding up shift to electrification.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31",
-    "publishedAt": "2026-11-09T17:47:04.000Z"
-  },
-  {
-    "id": "015e96ce30e36b81",
-    "title": "France accelerates minimum wage hike in bid to quell protest",
-    "summary": "Unions slam the increase as insufficient, as the government seeks to defuse the unrest ahead of upcoming elections.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss",
-    "publishedAt": "2026-11-09T17:46:28.000Z"
-  },
-  {
-    "id": "807ae9a928a62fbf",
-    "title": "Ethnically split Cyprus' rival leaders agree to 2 more crossings across island's dividing line",
-    "summary": "The rival leaders of ethnically split Cyprus have agreed to open two new crossing points for vehicular traffic along a U.N.-controlled buffer zone in the first such development in nearly a decade.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ethnically-split-cyprus-rival-leaders-agree-2-crossings-137976803",
-    "publishedAt": "2026-11-09T17:30:56.000Z"
-  },
-  {
-    "id": "d187738b91179198",
-    "title": "France blames Iran for the last month's cyberattack on supermarket fridges",
-    "summary": "France has blamed Iran for a cyberattack on supermarket fridges last month.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/france-blames-iran-months-cyberattack-supermarket-fridges-137980107",
-    "publishedAt": "2026-11-09T17:30:19.000Z"
   }
 ]
