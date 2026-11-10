@@ -1,5 +1,86 @@
 [
   {
+    "id": "76dd978295b6cc0a",
+    "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
+    "summary": "Drone makers are testing new, big drones that can deliver water or fire retardant with AI assistance. Aspen, Colorado is the first place trying them out.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
+    "publishedAt": "2026-11-10T19:00:00.000Z"
+  },
+  {
+    "id": "a7361005bd5aa1e8",
+    "title": "Deal agreed to end health visitor strike affecting baby appointments",
+    "summary": "Health visitors are set to return to work next week, ending a nine-month dispute over pay and grading.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c317k7kn44nzo",
+    "publishedAt": "2026-11-10T18:55:34.000Z"
+  },
+  {
+    "id": "de9f765bb3ae2b9e",
+    "title": "U.S. boycotts U.N. human rights review for second year running",
+    "summary": "The U.S. has skipped a key U.N. human rights review for the second year running. Rights groups warn the absence risks undermining global accountability.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+    "publishedAt": "2026-11-10T18:53:34.000Z"
+  },
+  {
+    "id": "a79b0e4db041d302",
+    "title": "House Republicans urge DoJ to further investigate ‘key witnesses’ in Epstein case",
+    "summary": "Republicans on House panel criticize US government’s investigation into Jeffrey Epstein and Ghislaine Maxwell.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/house-republicans-epstein-investigation",
+    "publishedAt": "2026-11-10T18:44:17.000Z"
+  },
+  {
+    "id": "46f689c1c3b61ca3",
+    "title": "UK children’s author David Walliams accused of grooming minors",
+    "summary": "A joint investigation by The Guardian and ITV News details allegations made by multiple women against the 55-year-old.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/uk-comedian-and-childrens-author-david-walliams-accused-of-grooming-minors?traffic_source=rss",
+    "publishedAt": "2026-11-10T18:42:14.000Z"
+  },
+  {
+    "id": "72681ec87ec2b0c1",
+    "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+    "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do",
+    "publishedAt": "2026-11-10T18:33:51.000Z"
+  },
+  {
+    "id": "0817a0f1b620ddab",
+    "title": "Trump administration again boycotts UN human rights review",
+    "summary": "UN Human Rights Council delays US human rights record examination until January after Washington refuses meeting.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/trump-administration-again-boycotts-un-human-rights-review?traffic_source=rss",
+    "publishedAt": "2026-11-10T18:29:56.000Z"
+  },
+  {
+    "id": "d8f73e22b6881fcb",
+    "title": "Judge who sentenced Russell Brand praised for dispelling rape myths",
+    "summary": "Criminal Bar Association and campaigners hail Mr Justice Bennathan for delivering remarks with ‘piercing clarity’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/2026/nov/10/judge-sentenced-russell-brand-praised-rape-myths-justice-bennathan",
+    "publishedAt": "2026-11-10T18:11:00.000Z"
+  },
+  {
+    "id": "fbccd08caedf2a64",
+    "title": "Woman jailed for posing as man to dupe partner into sex found guilty of similar deception",
+    "summary": "Jury finds Blade Silvano, who presented herself as a male army veteran, guilty of six counts of sexual assault.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/10/woman-jailed-for-posing-as-man-dupe-partner-sex-guilty-of-similar-deception",
+    "publishedAt": "2026-11-10T18:08:29.000Z"
+  },
+  {
     "id": "27b037defcab3821",
     "title": "Spain braces for nationwide walkout as anger over housing, costs boils over",
     "summary": "The 24-hour walkout, called by Spain’s two biggest unions, is due to start on Wednesday.",
@@ -1035,6 +1116,15 @@
     "publishedAt": "2026-11-10T09:26:20.000Z"
   },
   {
+    "id": "88d803268c5a19fd",
+    "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+    "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo",
+    "publishedAt": "2026-11-10T09:23:55.000Z"
+  },
+  {
     "id": "a1a36b2813201282",
     "title": "Headteachers say families will struggle after another rise in school dinner prices",
     "summary": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
@@ -1258,95 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss",
     "publishedAt": "2026-11-10T06:22:00.000Z"
-  },
-  {
-    "id": "faea3f5a1a739bdc",
-    "title": "Holiday hunger bill to face final Stormont hurdle",
-    "summary": "The new law would would help poorer families with food costs during school holidays.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo",
-    "publishedAt": "2026-11-10T06:21:02.000Z"
-  },
-  {
-    "id": "880dc8ea9314c303",
-    "title": "NHS boss received nearly £400,000 'redundancy' pay-off when she retired",
-    "summary": "The payment comes ahead of a planned major overhaul of Scotland's NHS which could see the number of health boards cut dramatically.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw4g11xkyj1jo",
-    "publishedAt": "2026-11-10T06:20:31.000Z"
-  },
-  {
-    "id": "69e012db731c7b76",
-    "title": "Who is Jensen Huang and why is the Nvidia CEO scandal important?",
-    "summary": "After news broke of Nvidia CEO Jensen Huang's affair with an alleged Chinese intelligence asset Nvidia's value plummeted. Why?",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/who-is-jensen-huang-and-why-is-nvidia-ceo-scandal-important/107368698",
-    "publishedAt": "2026-11-10T06:18:12.000Z"
-  },
-  {
-    "id": "f032c1950f9b2e92",
-    "title": "How North Korean defectors view Kim Jong Un's daughter as his possible successor",
-    "summary": "Kim Jong Un’s teenage daughter is at the center of global media speculation that she is being groomed to be her father’s heir.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/north-korean-defectors-view-kim-jong-uns-daughter-137999884",
-    "publishedAt": "2026-11-10T06:18:07.000Z"
-  },
-  {
-    "id": "9077aecfe126b435",
-    "title": "'Screening may have picked up my lung cancer earlier'",
-    "summary": "Joan McConville is calling for a national screening programme in Northern Ireland, like there is in England and Wales.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cke8r704e8l6o",
-    "publishedAt": "2026-11-10T06:16:50.000Z"
-  },
-  {
-    "id": "8861a002951d08c4",
-    "title": "‘Like gods reigning over humans’: Many defectors see daughter of North Korea's Kim as heir apparent",
-    "summary": "It's been about four years since the teenage daughter of North Korean leader Kim Jong Un first publicly accompanied her father on major state events.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/gods-reigning-humans-defectors-daughter-north-koreas-kim-137999978",
-    "publishedAt": "2026-11-10T06:16:10.000Z"
-  },
-  {
-    "id": "968c104f243eedb8",
-    "title": "Past talks involving Russia and Ukraine have yielded little progress toward peace",
-    "summary": "Negotiators from Moscow, Kyiv and Washington are scheduled to meet in Abu Dhabi, United Arab Emirates, on Tuesday and Wednesday for talks aimed at trying to end Russia's 4 1/2-year-old full-scale invasion of Ukraine.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/past-talks-involving-russia-ukraine-yielded-progress-peace-138002084",
-    "publishedAt": "2026-11-10T06:16:04.000Z"
-  },
-  {
-    "id": "ed807d79fd32793c",
-    "title": "Cricket Australia will not open another investigation into ‘sandpapergate’",
-    "summary": "'We’re comfortable with the outcome of the investigation,' Cricket Australia chief says after Khawaja's revelations.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/10/cricket-australia-will-not-open-another-investigation-into-sandpapergate?traffic_source=rss",
-    "publishedAt": "2026-11-10T06:13:00.000Z"
-  },
-  {
-    "id": "19f9d99d3aa95c18",
-    "title": "What a lower tax rise could mean for you - and the council",
-    "summary": "The leader of Calderdale Council says next year's council tax rise will be lower than expected.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c63r55vpze41o",
-    "publishedAt": "2026-11-10T06:10:50.000Z"
-  },
-  {
-    "id": "71e8ac828ee1b3cf",
-    "title": "New chief outlines main issues facing Isle of Man",
-    "summary": "The chief minister says connectivity and food storage were among his top government priorities.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw0737zmv799o",
-    "publishedAt": "2026-11-10T06:09:01.000Z"
   }
 ]
