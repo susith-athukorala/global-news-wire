@@ -1,5 +1,194 @@
 [
   {
+    "id": "f4e7dc124530cc13",
+    "title": "Historic ocean liner to ‘live on’ beneath waves as world’s biggest artificial reef",
+    "summary": "The SS United States will sink off Florida coast to become an artificial reef, ending long-running wrangle over its fate.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/ocean-liner-ship-sunk-artificial-reef",
+    "publishedAt": "2026-11-10T14:05:32.000Z"
+  },
+  {
+    "id": "bf7fb43822110246",
+    "title": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
+    "summary": "Decision by the Iraqi Civil Aviation Authority reportedly related to ⁠US sanctions imposed on Iranian airlines.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/10/iraq-bars-iranian-football-teams-plane-from-landing-in-basra-report?traffic_source=rss",
+    "publishedAt": "2026-11-10T14:03:31.000Z"
+  },
+  {
+    "id": "4c87d88682370250",
+    "title": "US inflation higher than expected in October - here's what is happening with prices",
+    "summary": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
+    "publishedAt": "2026-11-10T14:03:00.000Z"
+  },
+  {
+    "id": "f5c2b76eb6e0e785",
+    "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
+    "summary": "His resignation offer comes amid a widening political rift between Prabowo and Widodo and a separate investigation into allegations that senior police officials wiretapped the president.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
+    "publishedAt": "2026-11-10T14:01:14.000Z"
+  },
+  {
+    "id": "bba6ef90d6548874",
+    "title": "FIA chief says Qatar and Abu Dhabi Grand Prix to go ahead despite tensions",
+    "summary": "This year's Saudi Arabian Grand Prix was scrapped following the outbreak of the US and Israel's war with Iran.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/10/fia-chief-says-qatar-and-abu-dhabi-grand-prix-to-go-ahead-despite-tensions?traffic_source=rss",
+    "publishedAt": "2026-11-10T14:01:09.000Z"
+  },
+  {
+    "id": "3acf2cd4b4552e89",
+    "title": "Victorian Labor’s ‘unforgivable’ preferences decision risks Liberal-One Nation government, Greens warn",
+    "summary": "Exclusive: Ellen Sandell says Labor’s decision not to back progressives in key inner-seat could hand power to right-wing coalition in close election.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/11/labor-decision-greens-preference-one-nation-battleground-seat-prahran-ntwnfb",
+    "publishedAt": "2026-11-10T14:00:55.000Z"
+  },
+  {
+    "id": "58911f3bdcba830f",
+    "title": "Meta’s AI age-check goes global: Can it protect teens?",
+    "summary": "The tech giant rolls out age-detection tool for Instagram and Facebook, but experts doubt whether it can help protect teens.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/metas-ai-age-check-goes-global-can-it-protect-teens?traffic_source=rss",
+    "publishedAt": "2026-11-10T13:58:37.000Z"
+  },
+  {
+    "id": "cd9bd0e588d5079b",
+    "title": "Who is Jean Leonard Teganya, deported by US over Rwanda genocide claims?",
+    "summary": "Teganya, a former medical student, is accused of participating in the 1994 genocide against the Tutsi in Rwanda.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/who-is-jean-leonard-teganya-deported-by-us-over-rwanda-genocide-claims?traffic_source=rss",
+    "publishedAt": "2026-11-10T13:54:35.000Z"
+  },
+  {
+    "id": "19d89e3ee6360c27",
+    "title": "Overnight strikes in Yemen kill at least 1 person and wound 9, and other Mideast news",
+    "summary": "Overnight strikes in Yemen have hit a gas station and an oil facility, killing at least one person and wounding nine others.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/overnight-strikes-yemen-kill-1-person-wound-9-138005785",
+    "publishedAt": "2026-11-10T13:54:10.000Z"
+  },
+  {
+    "id": "1fc97fcbb43a05c3",
+    "title": "US Air Force evacuates aircraft from a base in England because of a threat, US official says",
+    "summary": "An American official says the U.S. Air Force has evacuated aircraft from a base in eastern England because of a threat.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/us-air-force-evacuates-aircraft-base-england-threat-138004017",
+    "publishedAt": "2026-11-10T13:54:00.000Z"
+  },
+  {
+    "id": "7b5a8f3e87f950ba",
+    "title": "Iran rejects French claims it was behind supermarket fridge hacking",
+    "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo",
+    "publishedAt": "2026-11-10T13:45:13.000Z"
+  },
+  {
+    "id": "6326fc4249902c8a",
+    "title": "New regulation for heating oil market, but no price controls",
+    "summary": "The Competition and Markets Authority has investigated the heating oil market in Northern Ireland and other parts of the UK.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o",
+    "publishedAt": "2026-11-10T13:42:29.000Z"
+  },
+  {
+    "id": "cb84f65d2a5c346c",
+    "title": "Civil servant who secretly held five jobs found guilty of fraud",
+    "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do",
+    "publishedAt": "2026-11-10T13:39:28.000Z"
+  },
+  {
+    "id": "4fb60736a818f0ce",
+    "title": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
+    "summary": "New data comes after Republicans’ midterms losses – which were largely seen as a rebuke of the party over high prices.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report",
+    "publishedAt": "2026-11-10T13:36:16.000Z"
+  },
+  {
+    "id": "d4d15f28e58a1dc0",
+    "title": "Israeli soldiers are also settlers in West Bank: Al Jazeera investigation",
+    "summary": "Blurred lines between Israeli soldiers and settlers fuel systematic West Bank violence and mass displacement.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/israeli-soldiers-are-also-settlers-in-west-bank-al-jazeera-investigation?traffic_source=rss",
+    "publishedAt": "2026-11-10T13:34:33.000Z"
+  },
+  {
+    "id": "8f0d8102efa34c10",
+    "title": "Spain mulls TikTok suspension after investigation into child sex abuse videos",
+    "summary": "Ministry of Youth and Children calls for urgent meeting with TikTok leadership in Spain.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/spanish-probe-finds-over-20000-suspected-paedophile-profiles-on-tiktok?traffic_source=rss",
+    "publishedAt": "2026-11-10T13:33:55.000Z"
+  },
+  {
+    "id": "82be1423bfc94c94",
+    "title": "Hegseth calls Republican’s bid to impeach him a ‘stunt’ by critics of Trump",
+    "summary": "Thomas Massie has accused US defense secretary of illegally waging war without congressional authorization and abusing his powers.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-massie",
+    "publishedAt": "2026-11-10T13:32:07.000Z"
+  },
+  {
+    "id": "59beddc567fcb3c3",
+    "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
+    "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o",
+    "publishedAt": "2026-11-10T13:23:54.000Z"
+  },
+  {
+    "id": "c6071aca3cb7a821",
+    "title": "Pentagon Chief Hegseth calls US House impeachment effort a ‘farce’",
+    "summary": "Hegseth condemns impeachment resolution against him as 'sabotage', defending his actions and policy decisions.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce?traffic_source=rss",
+    "publishedAt": "2026-11-10T13:23:41.000Z"
+  },
+  {
+    "id": "5ca9374d0a7238ec",
+    "title": "California police investigate after 27 fall ill at half-marathon running event",
+    "summary": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go",
+    "publishedAt": "2026-11-10T13:22:12.000Z"
+  },
+  {
+    "id": "1017054ad62d70ce",
+    "title": "Tech’s biggest names sunk a tax on billionaires’ wealth with $425m and a familiar playbook",
+    "summary": "California saw the most expensive opposition campaign in its history as funding of political campaigns broke records in the US midterms.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/california-billionaire-tax-opposition",
+    "publishedAt": "2026-11-10T13:19:35.000Z"
+  },
+  {
     "id": "12050a325dc072d6",
     "title": "Anthropic to raise $64bn in major stock market listing",
     "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
@@ -25,6 +214,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/10/pharma-firms-weight-loss-drugs-insulin-glp-1-ozempic-mounjaro",
     "publishedAt": "2026-11-10T13:00:53.000Z"
+  },
+  {
+    "id": "7fb612869a03d098",
+    "title": "This small Alaska town is swamped by cruise ship visitors every summer. But what happens when they all go home?",
+    "summary": "Skagway’s 1,100 permanent residents are caught between a boom time – when the ships bring more than a million tourists – and a lull in winter.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/10/alaska-skagway-community-cruise-ship-tourism-housing",
+    "publishedAt": "2026-11-10T13:00:52.000Z"
+  },
+  {
+    "id": "6999615490c266f2",
+    "title": "‘Without storyboards, I feel like I’m in Grand Central station in my underwear’: film’s fightback against AI",
+    "summary": "As Hollywood begins to adopt the technology, the professionals in most direct jeopardy are the illustrators mapping out directors’ first visions. They sketch out what could be lost.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai",
+    "publishedAt": "2026-11-10T13:00:24.000Z"
   },
   {
     "id": "134bdafbb02c72ea",
@@ -223,6 +430,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/10/moroccan-trio-make-african-player-of-year-shortlist-as-salah-absent?traffic_source=rss",
     "publishedAt": "2026-11-10T11:05:20.000Z"
+  },
+  {
+    "id": "17a37279a89c57df",
+    "title": "‘We said no, no, no, but they kept insisting’: the Paraguayan people battling a eucalyptus empire",
+    "summary": "It is Paraguay’s largest private investment but local people accuse a forestry giant of ignoring their contamination concerns over its vast plantation.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/nov/10/investigation-pulp-company-paraguay-paracel-eucalyptus-plantation",
+    "publishedAt": "2026-11-10T11:00:49.000Z"
   },
   {
     "id": "30a5c026a2951871",
@@ -1132,221 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/perus-move-reconsider-protections-uncontacted-mashco-piro-raises-137994344",
     "publishedAt": "2026-11-09T23:42:01.000Z"
-  },
-  {
-    "id": "5037a8e6a60bfb5a",
-    "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
-    "summary": "Lawsuit had sought to block border wall construction in national park by targeting waivers that sidestep protections.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss",
-    "publishedAt": "2026-11-09T23:15:19.000Z"
-  },
-  {
-    "id": "880dc8ea9314c303",
-    "title": "NHS boss received nearly £400,000 'redundancy' pay-off when she retired",
-    "summary": "The payment comes ahead of a planned major overhaul of Scotland's NHS which could see the number of health boards cut dramatically.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw4g11xkyj1jo",
-    "publishedAt": "2026-11-09T23:05:17.000Z"
-  },
-  {
-    "id": "ea1ae81d170544b4",
-    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-    "summary": "The US president said the FBI is now investigating the affair. He said he spoke with Jensen Huang and asked him about the affair.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
-    "publishedAt": "2026-11-09T23:01:32.000Z"
-  },
-  {
-    "id": "146fa5ff5a82f09a",
-    "title": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
-    "summary": "President, after talks with Qatari PM, suggests end to war coming ‘fairly soon’ and military escalation not needed.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
-    "publishedAt": "2026-11-09T22:58:31.000Z"
-  },
-  {
-    "id": "9903cbf208565669",
-    "title": "I almost died after a toothache led to sepsis and a rare heart condition",
-    "summary": "Doctors told Danny Ellis it was a \"miracle\" he was alive after his first heart surgery failed.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckr5ypqrjj32o",
-    "publishedAt": "2026-11-09T22:40:54.000Z"
-  },
-  {
-    "id": "ee6742e73a89b92b",
-    "title": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
-    "summary": "Iranian officials dismissed Trump's latest remarks as 'fake news' after the US president suggested a close to the war.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
-    "publishedAt": "2026-11-09T22:31:19.000Z"
-  },
-  {
-    "id": "dc54cd1e24ad7f3b",
-    "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-    "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of food.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-    "publishedAt": "2026-11-09T22:30:49.000Z"
-  },
-  {
-    "id": "af48d2ce612cb6f1",
-    "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
-    "summary": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to ‘see out his days’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
-    "publishedAt": "2026-11-09T22:26:31.000Z"
-  },
-  {
-    "id": "27c4daec6738afd2",
-    "title": "In northern Ethiopia, conflict pushes a strained healthcare system to the brink",
-    "summary": "Ethiopia's health care system was once considered a model in the region. But in the northern Tigray region, ongoing conflict has left health facilities and medical workers vulnerable to attacks.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-5987949/in-northern-ethiopia-conflict-pushes-a-strained-healthcare-system-to-the-brink",
-    "publishedAt": "2026-11-09T22:25:13.000Z"
-  },
-  {
-    "id": "6bc19982ba056b39",
-    "title": "Pope meets with clergy abuse survivors in Argentina",
-    "summary": "During private meetings with survivors, Pope Leo XIV pledged to reinforce safeguards and listen to victims.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss",
-    "publishedAt": "2026-11-09T22:14:37.000Z"
-  },
-  {
-    "id": "d5051ec60681d21c",
-    "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
-    "summary": "Aron Orban reportedly detained as Hungarian authorities raid properties linked to his business associates.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
-    "publishedAt": "2026-11-09T22:13:29.000Z"
-  },
-  {
-    "id": "49d1109f6c1ae648",
-    "title": "Saudi Arabia reports new attack on key East-West pipeline",
-    "summary": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
-    "publishedAt": "2026-11-09T22:10:52.000Z"
-  },
-  {
-    "id": "f679d6cf2ccd6023",
-    "title": "Scientists think they've found ancient remnants of dinosaur blood",
-    "summary": "Scientists have studied plenty of dinosaur bones, eggs and footprints. Now, some think they've found their strongest evidence yet of dinosaur blood.",
-    "category": "Science",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-6026704/scientists-think-theyve-found-ancient-remnants-of-dinosaur-blood",
-    "publishedAt": "2026-11-09T22:00:49.000Z"
-  },
-  {
-    "id": "937eedb0321b7ffd",
-    "title": "What Trump meant when he said the U.S. is cutting aid to Israel",
-    "summary": "President Trump says he's halting aid to Israel. Israelis are worried.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-6029320/us-trump-israel-military-aid",
-    "publishedAt": "2026-11-09T21:58:14.000Z"
-  },
-  {
-    "id": "dbf98c5ab7b4b11b",
-    "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-    "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o",
-    "publishedAt": "2026-11-09T21:52:28.000Z"
-  },
-  {
-    "id": "926f55ffe71adf22",
-    "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
-    "summary": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo",
-    "publishedAt": "2026-11-09T21:48:38.000Z"
-  },
-  {
-    "id": "cb57b299e0773d7c",
-    "title": "Mice can learn to fight by watching tiny rodent cage matches, study finds",
-    "summary": "Brain scientists set up \"gladiator style\" cage matches for mice — and found that simply observing fighting matches can rewire a mouse's brain to resemble those who actually fought.",
-    "category": "Science",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-6027938/mice-can-learn-to-fight-by-watching-tiny-rodent-cage-matches-study-finds",
-    "publishedAt": "2026-11-09T21:39:35.000Z"
-  },
-  {
-    "id": "37905215367a3c00",
-    "title": "US citizen shot by ICE officer near children’s bus stop sues government for $25m",
-    "summary": "Lawsuit also alleges agents followed Carlos Jimenez to a hospital and ‘interfered’ in his care, with bullet fragments still lodged near lung.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/citizen-shot-ice-officer-lawsuit-california",
-    "publishedAt": "2026-11-09T21:31:26.000Z"
-  },
-  {
-    "id": "cb6ccd791592af55",
-    "title": "Judge denies motion to dismiss Lindsay Clancy's murder case - media reports",
-    "summary": "The ruling means prosecutors can pursue the case, meaning they could reduce charges in a potential second trial or dismiss them altogether.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo",
-    "publishedAt": "2026-11-09T21:14:52.000Z"
-  },
-  {
-    "id": "d40c8f7261a26f5a",
-    "title": "Leaked documents reveal confidential Woodside deal with traditional owners",
-    "summary": "Woodside's traditional owner partners of 30 years have criticised the land access deal behind Australia's biggest gas project, withdrawing support for its Browse expansion.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/traditional-owners-confidential-woodside-gas-deal-oppose-browse/107170088",
-    "publishedAt": "2026-11-09T21:00:18.000Z"
-  },
-  {
-    "id": "f9251271f0ffa728",
-    "title": "Suspect in Charlie Kirk killing to stand trial for murder in July 2028",
-    "summary": "Utah judge sets timeline for trial of Tyler Robinson, accused of fatally shooting the far-right activist in September 2025.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/charlie-kirk-murder-trial",
-    "publishedAt": "2026-11-09T20:55:57.000Z"
-  },
-  {
-    "id": "2d19e7a793a272ae",
-    "title": "Honduran court delays verdict in disappearance case that exposed sex trafficking ring",
-    "summary": "A Honduran court has postponed a verdict in a sex-trafficking case linked to the 2022 disappearance of Angie Pe&ntilde;a.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/honduras-awaits-verdict-disappearance-case-exposed-sex-trafficking-137985538",
-    "publishedAt": "2026-11-09T20:53:46.000Z"
-  },
-  {
-    "id": "1ac571815baae652",
-    "title": "Pope meets with survivors of clergy abuse in Argentina as it reckons with legacy and ongoing cases",
-    "summary": "Pope Leo XIV have met with survivors of clergy abuse during his visit to Argentina.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-meets-survivors-clergy-abuse-argentina-reckons-legacy-137988212",
-    "publishedAt": "2026-11-09T20:52:20.000Z"
-  },
-  {
-    "id": "370da75e876c60b5",
-    "title": "Cyprus rivals agree new crossings across island’s dividing line",
-    "summary": "The island has been split since 1974, when Turkiye invaded and seized the northern part after a coup by the Greeks.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line?traffic_source=rss",
-    "publishedAt": "2026-11-09T20:50:20.000Z"
   }
 ]
