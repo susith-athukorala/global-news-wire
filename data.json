@@ -1,5 +1,77 @@
 [
   {
+    "id": "171a9e50802d6242",
+    "title": "US petrol prices are down, but elevated inflation continues",
+    "summary": "Inflation has remained high, despite some easing in fuel prices caused by the US war on Iran.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss",
+    "publishedAt": "2026-11-10T17:40:35.000Z"
+  },
+  {
+    "id": "34eba12618a858e8",
+    "title": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
+    "summary": "Iran says it is committed to non-proliferation treaty, but hardliners may be pushing for a change in nuclear policy.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss",
+    "publishedAt": "2026-11-10T17:35:07.000Z"
+  },
+  {
+    "id": "96721366569b200d",
+    "title": "UK social media ban expansion for under-16s could cover YouTube Kids",
+    "summary": "Regulations under consideration could affect up to 150 platforms, including LegoPlay, Spotify and eBay, sources say.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids",
+    "publishedAt": "2026-11-10T17:30:15.000Z"
+  },
+  {
+    "id": "d4402c5a71c3e47d",
+    "title": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
+    "summary": "New alliance with the Netherlands and Baltic and Nordic countries comes in response to 41% increase in Russian naval activity around UK.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations",
+    "publishedAt": "2026-11-10T17:26:59.000Z"
+  },
+  {
+    "id": "4160fdff6a1903ee",
+    "title": "Anthropic targets $1.4 trillion valuation in massive stock market debut",
+    "summary": "The maker of Claude is looking to raise up to $64.4bn in one of the largest IPOs in history next week.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss",
+    "publishedAt": "2026-11-10T17:21:58.000Z"
+  },
+  {
+    "id": "656e4de6b34ecd04",
+    "title": "Israeli president warns against repeat election in new Knesset session",
+    "summary": "Herzog calls for an inquiry into the October 7 attacks during a Knesset session amid political gridlock following elections.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
+    "publishedAt": "2026-11-10T17:16:15.000Z"
+  },
+  {
+    "id": "e352637e6831520a",
+    "title": "Call it tough love, with the love removed: it’s Kemi’s war on benefits claimants",
+    "summary": "The Tory leader outlines her £36bn welfare cuts, again, to an audience of an age and a wealth that they don’t need to work.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/10/john-crace-kemi-badenoch-tough-love-war-on-benefits",
+    "publishedAt": "2026-11-10T17:04:29.000Z"
+  },
+  {
+    "id": "6cbf568ba5168ded",
+    "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+    "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro",
+    "publishedAt": "2026-11-10T17:00:11.000Z"
+  },
+  {
     "id": "af6851c413b32ae5",
     "title": "Texas man charged with murder of woman aboard MSC cruise ship",
     "summary": "Jason Leon Watford said he ‘snapped’ after verbal dispute with the woman, before allegedly killing her in a cabin.",
@@ -63,6 +135,15 @@
     "publishedAt": "2026-11-10T16:08:42.000Z"
   },
   {
+    "id": "8a629d43609f1d6d",
+    "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
+    "summary": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo",
+    "publishedAt": "2026-11-10T16:07:51.000Z"
+  },
+  {
     "id": "18e836c17680477a",
     "title": "People in deprived areas of England more than ‘twice as likely’ to die prematurely",
     "summary": "Early death risk for men and women in most deprived areas 2.3 times higher than those more affluent, study shows.",
@@ -117,6 +198,15 @@
     "publishedAt": "2026-11-10T15:36:49.000Z"
   },
   {
+    "id": "1aa1a7b1e4c98af5",
+    "title": "Pope urges Argentines to follow model of saints during Mass in the 'land of saints'",
+    "summary": "Pope Leo XIV is urging Argentines to follow the examples of some of the country's best-known saints.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-urges-argentines-follow-model-saints-mass-land-138011787",
+    "publishedAt": "2026-11-10T15:26:11.000Z"
+  },
+  {
     "id": "1af921259329d3f4",
     "title": "Deadly Egypt train crash prompts calls for political accountability",
     "summary": "A deadly train collision in Egypt's al-Ayyat prompts demands for political accountability and rail upgrade reviews.",
@@ -124,6 +214,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/10/deadly-egypt-train-collision-prompts-calls-for-political-accountability?traffic_source=rss",
     "publishedAt": "2026-11-10T15:22:17.000Z"
+  },
+  {
+    "id": "51d70fb391baa8a3",
+    "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+    "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o",
+    "publishedAt": "2026-11-10T15:21:18.000Z"
   },
   {
     "id": "e5eb01cfdb56cf49",
@@ -295,6 +394,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/10/metas-ai-age-check-goes-global-can-it-protect-teens?traffic_source=rss",
     "publishedAt": "2026-11-10T13:58:37.000Z"
+  },
+  {
+    "id": "0d5634dd2e72938d",
+    "title": "Explosive device kills a police officer in northern Spain",
+    "summary": "Spain's police say that one police officer was killed and another seriously wounded when an explosive device went off while they were responding to a shooting in the northern city of Oviedo.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/explosive-device-kills-police-officer-northern-spain-138008418",
+    "publishedAt": "2026-11-10T13:58:14.000Z"
   },
   {
     "id": "cd9bd0e588d5079b",
@@ -1170,6 +1278,15 @@
     "publishedAt": "2026-11-10T06:01:44.000Z"
   },
   {
+    "id": "f3135f0075a53548",
+    "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+    "summary": "Government flags criminal law changes to ensure companies can’t argue in future ‘that someone didn’t know the computer was loaded’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+    "publishedAt": "2026-11-10T06:00:52.000Z"
+  },
+  {
     "id": "d301c20d986819a0",
     "title": "New Knesset speaker could be key to ousting Netanyahu as Israel’s PM",
     "summary": "Opposition politicians get first chance to take control of levers of power, even as they struggle to form government.",
@@ -1231,122 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/10/moscow-summit-tests-russias-waning-grip-on-former-soviet-allies?traffic_source=rss",
     "publishedAt": "2026-11-10T05:38:50.000Z"
-  },
-  {
-    "id": "ff59dfad99feef5c",
-    "title": "Beau Lamarre-Condon admits entering Jesse Baird’s house when he wasn’t home and eating Easter egg, murder trial hears",
-    "summary": "Former police officer tells jury he joked about being ‘white girl crazy’ with friends as lawyer questions him about start of relationship with TV presenter.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
-    "publishedAt": "2026-11-10T05:28:25.000Z"
-  },
-  {
-    "id": "326f2d169f652b1f",
-    "title": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank",
-    "summary": "Israel's military says its soldiers opened fire to prevent Palestinians from throwing stones at vehicles in Burqa.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss",
-    "publishedAt": "2026-11-10T05:23:57.000Z"
-  },
-  {
-    "id": "bd0382d1c3586a96",
-    "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-    "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po",
-    "publishedAt": "2026-11-10T05:22:39.000Z"
-  },
-  {
-    "id": "a2af7d68231e8954",
-    "title": "Mortgage holders’ confidence crashes to lowest level since 1994 as year that ‘feels like a recession’ looms",
-    "summary": "Westpac survey results signal growing sense of ‘helplessness’ while Jim Chalmers faces growing pressure to rein in spending.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/10/mortgage-holders-confidence-crashes-to-lowest-level-since-1994-as-year-that-feels-like-a-recession-looms",
-    "publishedAt": "2026-11-10T05:17:31.000Z"
-  },
-  {
-    "id": "546347761b78d12b",
-    "title": "‘Europe belongs at this table,’ Germany tells US before Ukraine talks",
-    "summary": "G7 foreign ministers are meeting in Paris ahead of the US-mediated Russia-Ukraine talks in Abu Dhabi.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks?traffic_source=rss",
-    "publishedAt": "2026-11-10T05:02:33.000Z"
-  },
-  {
-    "id": "799d3791f46aadd7",
-    "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
-    "summary": "First substantive peace talks since February to include US proposal for ‘long-term security architecture’ between Moscow and Europe.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
-    "publishedAt": "2026-11-10T05:00:29.000Z"
-  },
-  {
-    "id": "88c1d819f606ecfc",
-    "title": "Sydney private school accused of sexual abuse should be banned from enrolling new students, inquiry says",
-    "summary": "Inquiry recommends NSW police investigate allegations of sexual assault and other abuse at Redeemer Baptist school.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/10/redeemer-baptist-school-sexual-abuse-inquiry-ntwnfb",
-    "publishedAt": "2026-11-10T04:51:39.000Z"
-  },
-  {
-    "id": "32c6dc360d3c9348",
-    "title": "Dozens of CFMEU stoppages in a week before rail site takeover, hearing told",
-    "summary": "The royal commission into the CFMEU and Victoria's Big Build projects hears a site supervisor suspected the union had an agenda when it raised 31 safety concerns in a week at Sunbury.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/royal-commission-cfmeu-vic-big-build-day-two/107368012",
-    "publishedAt": "2026-11-10T04:09:24.000Z"
-  },
-  {
-    "id": "46e4a36996b50f63",
-    "title": "Trump says more US attacks on Iran 'highly unlikely'",
-    "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o",
-    "publishedAt": "2026-11-10T04:09:16.000Z"
-  },
-  {
-    "id": "bf904fda69221af0",
-    "title": "In Senegal, Black surfers want to reclaim the waves despite lack of resources",
-    "summary": "The origins of surfing can be traced back to the native populations of Peru, Polynesia and Hawaii, and European travelers documented children surfing along the coast of what is now Ghana as early as the 17th century.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/senegal-black-surfers-reclaim-waves-despite-lack-resources-137967918",
-    "publishedAt": "2026-11-10T04:03:17.000Z"
-  },
-  {
-    "id": "4987983bd58cb740",
-    "title": "Russia's top independent newspaper closes after three decades, citing pressure",
-    "summary": "Russia’s most celebrated independent newspaper, Novaya Gazeta, has closed its Moscow offices, citing relentless pressure from the government.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/russias-top-independent-newspaper-closes-office-after-decades-137972997",
-    "publishedAt": "2026-11-10T04:02:21.000Z"
-  },
-  {
-    "id": "c0153e5e48e81232",
-    "title": "Californians reject wealth tax for billionaires",
-    "summary": "Proposition 40 targeted Californian billionaires with a 5% tax on their total wealth, including assets such as shares as well as income.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq398em3032wo",
-    "publishedAt": "2026-11-10T03:34:46.000Z"
-  },
-  {
-    "id": "474865538082d5e9",
-    "title": "One Nation dumps Victorian election candidate who praised Adolf Hitler as ‘GOAT’",
-    "summary": "Party disendorses Preston candidate Franco Guardiani after social media posts emerge.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/10/one-nation-dumps-franco-guardiani-praised-hitler-victoria-elections-ntwnfb",
-    "publishedAt": "2026-11-10T03:33:55.000Z"
   }
 ]
