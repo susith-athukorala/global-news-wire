@@ -1,5 +1,86 @@
 [
   {
+    "id": "9077aecfe126b435",
+    "title": "'Screening may have picked up my lung cancer earlier'",
+    "summary": "Joan McConville is calling for a national screening programme in Northern Ireland, like there is in England and Wales.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cke8r704e8l6o",
+    "publishedAt": "2026-11-10T06:16:50.000Z"
+  },
+  {
+    "id": "71e8ac828ee1b3cf",
+    "title": "New chief outlines main issues facing Isle of Man",
+    "summary": "The chief minister says connectivity and food storage were among his top government priorities.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw0737zmv799o",
+    "publishedAt": "2026-11-10T06:09:01.000Z"
+  },
+  {
+    "id": "88d803268c5a19fd",
+    "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+    "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo",
+    "publishedAt": "2026-11-10T06:01:44.000Z"
+  },
+  {
+    "id": "f3b35d58b5b43ab8",
+    "title": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
+    "summary": "Former Labour leader Jeremy Corbyn called the findings ‘outrageous and frankly insulting to the public’.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions?traffic_source=rss",
+    "publishedAt": "2026-11-10T05:39:50.000Z"
+  },
+  {
+    "id": "8f981035a6a6051b",
+    "title": "Polish unity on show in silent march to honour Krakow shooting victims",
+    "summary": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no",
+    "publishedAt": "2026-11-10T05:38:53.000Z"
+  },
+  {
+    "id": "9e9d03c007dcfcd5",
+    "title": "Moscow summit tests Russia’s waning grip on former Soviet allies",
+    "summary": "The CSTO's influence is declining as Armenia turns away, while former allies pursue independent partnerships.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/moscow-summit-tests-russias-waning-grip-on-former-soviet-allies?traffic_source=rss",
+    "publishedAt": "2026-11-10T05:38:50.000Z"
+  },
+  {
+    "id": "326f2d169f652b1f",
+    "title": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank",
+    "summary": "Israel's military says its soldiers opened fire to prevent Palestinians from throwing stones at vehicles in Burqa.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss",
+    "publishedAt": "2026-11-10T05:23:57.000Z"
+  },
+  {
+    "id": "bd0382d1c3586a96",
+    "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+    "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po",
+    "publishedAt": "2026-11-10T05:22:39.000Z"
+  },
+  {
+    "id": "a2af7d68231e8954",
+    "title": "Mortgage holders’ confidence crashes to lowest level since 1994 as year that ‘feels like a recession’ looms",
+    "summary": "Westpac survey results signal growing sense of ‘helplessness’ while Jim Chalmers faces growing pressure to rein in spending.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/10/mortgage-holders-confidence-crashes-to-lowest-level-since-1994-as-year-that-feels-like-a-recession-looms",
+    "publishedAt": "2026-11-10T05:17:31.000Z"
+  },
+  {
     "id": "546347761b78d12b",
     "title": "‘Europe belongs at this table,’ Germany tells US before Ukraine talks",
     "summary": "G7 foreign ministers are meeting in Paris ahead of the US-mediated Russia-Ukraine talks in Abu Dhabi.",
@@ -160,6 +241,15 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-10/clive-palmer-resort-coolum-reopening/107363986",
     "publishedAt": "2026-11-10T01:54:36.000Z"
+  },
+  {
+    "id": "154a39172dfaa44a",
+    "title": "'Cruise for life' ship seized in Singapore",
+    "summary": "The ship was meant to take guests around the world, but the trip was cut short after its operator ran out of money.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o",
+    "publishedAt": "2026-11-10T01:49:06.000Z"
   },
   {
     "id": "29dc3ada50a44e0a",
@@ -1258,95 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o",
     "publishedAt": "2026-11-09T14:52:07.000Z"
-  },
-  {
-    "id": "499e7a8e6a7793de",
-    "title": "A day before US-brokered talks, Russia and Ukraine batter each other with strikes",
-    "summary": "Russia has hit Ukraine's power grid again while Ukrainian forces targeted a major Russian oil refinery.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
-    "publishedAt": "2026-11-09T14:42:43.000Z"
-  },
-  {
-    "id": "b4ef7c62c1d1c150",
-    "title": "UK court hands comedian Russell Brand 10.5 years for rape, sexual assault",
-    "summary": "Brand was convicted last week of raping one woman and sexually assaulting three more between 2004 ​and 2009.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/uk-court-hands-comedian-russel-brand-10-5-years-for-rape-sexual-assault?traffic_source=rss",
-    "publishedAt": "2026-11-09T14:42:39.000Z"
-  },
-  {
-    "id": "8d4bce7599242fec",
-    "title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides",
-    "summary": "For the first time since February, Russian, Ukrainian and U.S. negotiators are scheduled to hold talks on ending the full-scale war that is nearing its five-year mark.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/us-led-peace-talks-russia-ukraine-security-guarantees-137966016",
-    "publishedAt": "2026-11-09T14:42:33.000Z"
-  },
-  {
-    "id": "552d6914ecaddd21",
-    "title": "Archaeological treasures uncovered beneath Kabul's crumbling ancient fortress",
-    "summary": "The imposing fortress of Bala Hissar in the Afghan capital Kabul has endured centuries of upheaval and war.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/work-save-afghan-capitals-crumbling-ancient-fortress-uncovers-137966473",
-    "publishedAt": "2026-11-09T14:42:33.000Z"
-  },
-  {
-    "id": "45e67a501d3facdb",
-    "title": "Iran stands by demands to end the war as US ramps up military pressure",
-    "summary": "Talks aimed at preventing new major fighting between the US and Iran are ongoing.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure?traffic_source=rss",
-    "publishedAt": "2026-11-09T14:39:32.000Z"
-  },
-  {
-    "id": "b59416b873e765e5",
-    "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
-    "summary": "Russell Brand, who became a celebrity darling in the early 2000s, was found guilty on one count of rape and three counts of sexual assault in a case brought by six women.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
-    "publishedAt": "2026-11-09T14:36:54.000Z"
-  },
-  {
-    "id": "aba98be872d4c7e3",
-    "title": "Russell Brand jailed for more than 10 years for rape and sexual assault",
-    "summary": "Russell Brand was found guilty last week of one count of rape and three counts of sexual assault relating to four women between 2004 and 2009.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/russell-brand-sentenced/107365656",
-    "publishedAt": "2026-11-09T14:35:23.000Z"
-  },
-  {
-    "id": "4987983bd58cb740",
-    "title": "Russia's top independent newspaper closes after three decades, citing pressure",
-    "summary": "Russia’s most celebrated independent newspaper, Novaya Gazeta, has closed its Moscow offices, citing relentless pressure from the government.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/russias-top-independent-newspaper-closes-office-after-decades-137972997",
-    "publishedAt": "2026-11-09T14:34:26.000Z"
-  },
-  {
-    "id": "9cc36b253bd19830",
-    "title": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assault",
-    "summary": "Disgraced actor and comedian, 51, was described as a ruthless and manipulative sexual predator during trial.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault",
-    "publishedAt": "2026-11-09T14:28:49.000Z"
-  },
-  {
-    "id": "cc6f296f6528938c",
-    "title": "More than 100,000 sign petition for inquiry into UK role in Gaza genocide",
-    "summary": "The number of signatures requires the British parliament to consider the topic for debate.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/more-than-100000-sign-petition-for-inquiry-into-uk-role-in-gaza-genocide?traffic_source=rss",
-    "publishedAt": "2026-11-09T14:24:51.000Z"
   }
 ]
