@@ -1,5 +1,59 @@
 [
   {
+    "id": "37bc8c85059a3f71",
+    "title": "Moroccan trio make African Player of Year shortlist as Salah absent",
+    "summary": "WAFCON winners Cameroon dominate women’s list after heroics from Monique Ngock, Michaely Bihina and Marie Ngah Manga.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/10/moroccan-trio-make-african-player-of-year-shortlist-as-salah-absent?traffic_source=rss",
+    "publishedAt": "2026-11-10T11:05:20.000Z"
+  },
+  {
+    "id": "30a5c026a2951871",
+    "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+    "summary": "The two-day session in the UAE's capital, Abu Dhabi, is the first such meeting since February. It will focus on security guarantees, the White House said before the discussions.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+    "publishedAt": "2026-11-10T10:58:18.000Z"
+  },
+  {
+    "id": "167e633aeec1b781",
+    "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
+    "summary": "The French government said it is seeking tough sanctions to deter further cyberattacks across Europe.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss",
+    "publishedAt": "2026-11-10T10:51:02.000Z"
+  },
+  {
+    "id": "0349d100d32a62f6",
+    "title": "Brand barrister’s cross-examination of victims shocking and depressing, says Labour deputy",
+    "summary": "Lucy Powell says she thought ‘we’d gone past that sort of culture’, and that she regrets setting up Miliband interview with comedian in 2015.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/2026/nov/10/lucy-powell-russell-brand-cross-examination-victims",
+    "publishedAt": "2026-11-10T10:28:51.000Z"
+  },
+  {
+    "id": "978e8b44774b1f5e",
+    "title": "UK author M John Harrison’s End of Everything wins Booker Prize",
+    "summary": "The book uses dark humour and elusive narratives to cast a futuristic lens on modern politics post-calamity.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/uk-author-m-john-harrisons-end-of-everything-wins-booker-prize?traffic_source=rss",
+    "publishedAt": "2026-11-10T10:22:35.000Z"
+  },
+  {
+    "id": "2295899b7ad7d5f2",
+    "title": "David Jones’s finances were reviewed and restructuring flagged months before it fell into administration",
+    "summary": "Department store group kept buying new products and fell months behind in payments to some brands despite discussions with administrators.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/10/david-joness-finances-were-reviewed-and-restructuring-flagged-months-before-it-fell-into-administration",
+    "publishedAt": "2026-11-10T10:04:46.000Z"
+  },
+  {
     "id": "136b5117374fcbb0",
     "title": "Are walking pads worth it? We put the best under-desk treadmills to the test",
     "summary": "Want to get your steps in while working or watching TV? Our expert puts walking pads through their paces to find the best for comfort, noise and ease of storage.",
@@ -963,6 +1017,15 @@
     "publishedAt": "2026-11-09T22:00:49.000Z"
   },
   {
+    "id": "937eedb0321b7ffd",
+    "title": "What Trump meant when he said the U.S. is cutting aid to Israel",
+    "summary": "President Trump says he's halting aid to Israel. Israelis are worried.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/09/nx-s1-6029320/us-trump-israel-military-aid",
+    "publishedAt": "2026-11-09T21:58:14.000Z"
+  },
+  {
     "id": "dbf98c5ab7b4b11b",
     "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
     "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
@@ -1053,6 +1116,15 @@
     "publishedAt": "2026-11-09T20:42:22.000Z"
   },
   {
+    "id": "60274129e254c83e",
+    "title": "Turkey steel factory blast kills at least 17 people",
+    "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo",
+    "publishedAt": "2026-11-09T20:42:04.000Z"
+  },
+  {
     "id": "e7f68e372fb69c70",
     "title": "Share price tumbles as Nvidia investigates CEO and 'foreign intelligence'",
     "summary": "Nvidia shares tumble as the computer chip maker opens an investigation into reports that foreign intelligence targeted CEO Jensen Huang.",
@@ -1114,6 +1186,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
     "publishedAt": "2026-11-09T19:58:40.000Z"
+  },
+  {
+    "id": "cfcba81110793f09",
+    "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
+    "publishedAt": "2026-11-09T19:58:01.000Z"
   },
   {
     "id": "1d6e26eab7f4d940",
@@ -1267,86 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
     "publishedAt": "2026-11-09T18:42:32.000Z"
-  },
-  {
-    "id": "7afcd5b2fc851ef1",
-    "title": "How a civil servant got away with juggling five jobs for so long",
-    "summary": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo",
-    "publishedAt": "2026-11-09T18:40:31.000Z"
-  },
-  {
-    "id": "36c99229d8510945",
-    "title": "Yemen government forces claim new advances as Houthi border attacks resume",
-    "summary": "Yemeni forces claim fresh advances across key fronts as cross-border Houthi attacks surge amid heavy clashes.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume?traffic_source=rss",
-    "publishedAt": "2026-11-09T18:37:03.000Z"
-  },
-  {
-    "id": "bd79cef68438d300",
-    "title": "Workers say HungryPanda docked their pay to cover cost of stolen food",
-    "summary": "Delivery workers say they are being forced to pay for orders that are stolen from them, as attention turns to safety after the stabbing death of Feng Jianming in Melbourne.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/hungrypanda-workers-say-they-must-pay-for-stolen-food/107360956",
-    "publishedAt": "2026-11-09T18:34:44.000Z"
-  },
-  {
-    "id": "3e1ad611a91a68ab",
-    "title": "Teachers strike in Paraguay to demand pension fund protections following bank's collapse",
-    "summary": "Thousands of public schoolteachers went on strike in Paraguay and took to the streets of several cities following the collapse of a major bank that resulted in the removal of the nation’s president last week.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/teachers-strike-paraguay-demand-pension-fund-protections-banks-137982428",
-    "publishedAt": "2026-11-09T18:29:46.000Z"
-  },
-  {
-    "id": "ba693569e882ca13",
-    "title": "Witnesses recount struggle to save people buried in ‘horrifying’ Gaza landslide",
-    "summary": "High winds and heavy train triggered collapse of sand bank overlooking camp for displaced families.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide",
-    "publishedAt": "2026-11-09T18:27:51.000Z"
-  },
-  {
-    "id": "71755b9f792c49e1",
-    "title": "Operator of Neil the seal merchandise website fined for false claims",
-    "summary": "The operator of a now-closed Neil the seal merchandise website has been fined for \"falsely\" claiming it was donating a portion of its profits to conservation organisations.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/fairtrading-fines-neil-the-seal-merch-website-owner/107362984",
-    "publishedAt": "2026-11-09T18:25:32.000Z"
-  },
-  {
-    "id": "a87b0df058bb599a",
-    "title": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
-    "summary": "The paper was one of the few remaining outlets in Russia that criticised Moscow's war on Ukraine.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss",
-    "publishedAt": "2026-11-09T18:21:38.000Z"
-  },
-  {
-    "id": "b6d252dfd8ae2d70",
-    "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-    "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro",
-    "publishedAt": "2026-11-09T18:19:19.000Z"
-  },
-  {
-    "id": "f8794ed89bac2134",
-    "title": "Pope draws 2.5M to Mass in Argentina, says people with disabilities are a blessing",
-    "summary": "Pope Leo XIV has drawn 2.5 million people to his first Mass in Argentina.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-visits-struggling-argentine-home-people-disabilities-press-137970019",
-    "publishedAt": "2026-11-09T18:13:51.000Z"
   }
 ]
