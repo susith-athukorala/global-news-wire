@@ -1,5 +1,50 @@
 [
   {
+    "id": "a8ac22e9bbc65c20",
+    "title": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
+    "summary": "Campaign over Prop 40, as measure was known, was most expensive in state history, flush with Silicon Valley dollars.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40",
+    "publishedAt": "2026-11-10T02:54:54.000Z"
+  },
+  {
+    "id": "1ccab107978df8ec",
+    "title": "Harare demolitions leave families homeless after years of building",
+    "summary": "Residents who say they legally bought land have seen their homes demolished.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/harare-demolitions-leave-families-homeless-after-years-of-building?traffic_source=rss",
+    "publishedAt": "2026-11-10T02:48:19.000Z"
+  },
+  {
+    "id": "a04fd7adeba6eb98",
+    "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+    "summary": "Zelenskyy claims Russia 'suffering record losses' as Trump says US seeing 'strong inclination' to end war in Ukraine.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
+    "publishedAt": "2026-11-10T02:45:14.000Z"
+  },
+  {
+    "id": "f3135f0075a53548",
+    "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+    "summary": "Government flags criminal law changes to ensure companies can’t argue in future ‘that someone didn’t know the computer was loaded’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+    "publishedAt": "2026-11-10T02:31:08.000Z"
+  },
+  {
+    "id": "3f65f8896d489108",
+    "title": "Police investigate as nearly 30 Santa Barbara half-marathon runners fall ill with ‘unusual symptoms’",
+    "summary": "Runners seek medical treatment as 13-mile race held amid unusually high November temperatures.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/santa-barbara-half-marathon-illness-police",
+    "publishedAt": "2026-11-10T02:19:47.000Z"
+  },
+  {
     "id": "4ff6cac987ba471a",
     "title": "Liquidators probe multi-million-dollar sale of collapsed Mundella assets",
     "summary": "Creditors are still owed $12.5 million as liquidators find preliminary evidence of more than $2 million in potentially insolvent and unreasonable director-related transactions at the collapsed dairy manufacturer, Mundella Foods.",
@@ -16,6 +61,15 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-10/two-woolworths-stores-canberra-trial-facial-recognition-tech/107367158",
     "publishedAt": "2026-11-10T02:07:34.000Z"
+  },
+  {
+    "id": "6d640a4314630138",
+    "title": "Cameroon sets date for twice-delayed legislative and local elections",
+    "summary": "President Paul Biya, the world's oldest leader, sets February 7 for Cameroon's delayed legislative and local polls.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss",
+    "publishedAt": "2026-11-10T02:03:59.000Z"
   },
   {
     "id": "b8309b7ae717bb25",
@@ -637,6 +691,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro",
     "publishedAt": "2026-11-09T18:19:19.000Z"
+  },
+  {
+    "id": "f8794ed89bac2134",
+    "title": "Pope draws 2.5M to Mass in Argentina, says people with disabilities are a blessing",
+    "summary": "Pope Leo XIV has drawn 2.5 million people to his first Mass in Argentina.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-visits-struggling-argentine-home-people-disabilities-press-137970019",
+    "publishedAt": "2026-11-09T18:13:51.000Z"
   },
   {
     "id": "cfcba81110793f09",
@@ -1285,68 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena?traffic_source=rss",
     "publishedAt": "2026-11-09T13:44:00.000Z"
-  },
-  {
-    "id": "aa930c646752664e",
-    "title": "‘Obvious risk of further tragedy’ at rail crossing type at which Amazon driver died, inquiry finds",
-    "summary": "Call for overhaul of manually operated level crossings after delivery worker was killed by passenger train in Kent.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/09/amazon-driver-died-inquiry-manually-operated-level-crossing-kent",
-    "publishedAt": "2026-11-09T13:43:57.000Z"
-  },
-  {
-    "id": "bf904fda69221af0",
-    "title": "In Senegal, Black surfers want to reclaim the waves despite lack of resources",
-    "summary": "The origins of surfing can be traced back to the native populations of Peru, Polynesia and Hawaii, and European travelers documented children surfing along the coast of what is now Ghana as early as the 17th century.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/senegal-black-surfers-reclaim-waves-despite-lack-resources-137967918",
-    "publishedAt": "2026-11-09T13:38:17.000Z"
-  },
-  {
-    "id": "2174a261962d0964",
-    "title": "Death toll from migrant boat found with bodies on board south of Greece rises to 14",
-    "summary": "Greek authorities have recovered 13 bodies from a migrant boat found south of Crete.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/greek-authorities-find-12-bodies-boat-carrying-migrants-137966627",
-    "publishedAt": "2026-11-09T13:30:22.000Z"
-  },
-  {
-    "id": "bdb5f529b835538f",
-    "title": "South African police arrest 9 foreign nationals suspected of traveling to Russia to fight in Ukraine",
-    "summary": "South African police have arrested nine foreign nationals suspected of trying to travel to Russia to fight in the war between Russia and Ukraine.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/south-african-police-arrest-9-foreign-nationals-suspected-137970412",
-    "publishedAt": "2026-11-09T13:19:10.000Z"
-  },
-  {
-    "id": "f1c3684f8f3ff36a",
-    "title": "How yesterday's waste is becoming tomorrow's fashion",
-    "summary": "Brands including Dr Martens, Nike and Coach are among those using recycled materials.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm5yd1q12g1no",
-    "publishedAt": "2026-11-09T13:18:38.000Z"
-  },
-  {
-    "id": "73acf381ec2190fa",
-    "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
-    "summary": "Syrian officials deny reports Damascus is sending troops to Yemen, but Syrian security integration appears under way.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
-    "publishedAt": "2026-11-09T13:15:27.000Z"
-  },
-  {
-    "id": "460a50597021b7a7",
-    "title": "Which Republicans are running for minority leadership roles in Congress?",
-    "summary": "Republicans in US House and Senate will hold elections on Tuesday to select leadership after losing their majorities.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/which-republicans-are-running-for-minority-leadership-roles-in-congress?traffic_source=rss",
-    "publishedAt": "2026-11-09T13:14:57.000Z"
   }
 ]
