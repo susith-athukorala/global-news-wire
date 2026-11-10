@@ -1,5 +1,77 @@
 [
   {
+    "id": "12050a325dc072d6",
+    "title": "Anthropic to raise $64bn in major stock market listing",
+    "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
+    "publishedAt": "2026-11-10T13:01:03.000Z"
+  },
+  {
+    "id": "935d44ae0f761445",
+    "title": "White supremacist Nick Fuentes linked to college Republican group, records show",
+    "summary": "Computer records reveal College Republican Patriot Coalition’s web domain in account registered to Fuentes-managed company.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/nick-fuentes-crpc-college-republicans",
+    "publishedAt": "2026-11-10T13:00:54.000Z"
+  },
+  {
+    "id": "53b418211229e082",
+    "title": "Pharma firms’ focus on weight-loss drugs could put insulin supply at risk, experts warn",
+    "summary": "GLP-1 products such as Ozempic and Mounjaro spread but many in poorer countries struggle to get basic diabetes treatment.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/10/pharma-firms-weight-loss-drugs-insulin-glp-1-ozempic-mounjaro",
+    "publishedAt": "2026-11-10T13:00:53.000Z"
+  },
+  {
+    "id": "134bdafbb02c72ea",
+    "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
+    "summary": "Experts ask whether longer-range missiles are intended to hit targets beyond the Middle East.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means?traffic_source=rss",
+    "publishedAt": "2026-11-10T12:56:41.000Z"
+  },
+  {
+    "id": "c1b0130d703b667e",
+    "title": "At least 12 people killed in motorway crash in southeastern Bulgaria",
+    "summary": "Dozens of people hospitalised after 50 vehicle pile-up caused by thick fog.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria?traffic_source=rss",
+    "publishedAt": "2026-11-10T12:54:04.000Z"
+  },
+  {
+    "id": "bcce9ae4b67eff18",
+    "title": "Seven days of chaos in the ER: How this country's healthcare system is unraveling",
+    "summary": "Renewed fighting has pushed Ethiopia's healthcare system close to collapse: \"The whole emergency (room) was flooded with war trauma patients,\" one surgeon says of a brutal week in September.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/10/g-s1-152693/healthcare-ethiopia-conflict-emergency-room",
+    "publishedAt": "2026-11-10T12:48:48.000Z"
+  },
+  {
+    "id": "6f39694ac05b9b95",
+    "title": "Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you",
+    "summary": "\"School Girls; Or, The African Mean Girls Play,\" is ending a Broadway run this week and celebrating with livestream broadcasts. We interviewed the Tony-nominated playwright, Jocelyn Bioh.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
+    "publishedAt": "2026-11-10T12:28:36.000Z"
+  },
+  {
+    "id": "ef57a426da2eaa60",
+    "title": "Israel's new parliament to be sworn in as leaders compete to form government",
+    "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o",
+    "publishedAt": "2026-11-10T12:25:48.000Z"
+  },
+  {
     "id": "4213adc3bb2b7845",
     "title": "5 Cambodian schoolgirls killed as a bus skids off a road into a pond",
     "summary": "Five girls died Tuesday morning in Cambodia when a school bus veered off the road and plunged into a pond.",
@@ -45,6 +117,15 @@
     "publishedAt": "2026-11-10T12:10:30.000Z"
   },
   {
+    "id": "fe03fc111db6df8e",
+    "title": "Why the GCC is setting up an advanced military command base in Kuwait",
+    "summary": "Gulf leaders emphasised the need to strengthen defence coordination to confront present and future regional challenges.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss",
+    "publishedAt": "2026-11-10T12:09:54.000Z"
+  },
+  {
     "id": "5e88919a5f756e27",
     "title": "US and rest of world must follow China’s lead on green energy, says John Kerry",
     "summary": "Former US secretary of state says most nations are ‘stumbling along’ while Beijing has ‘hugely accelerated’",
@@ -79,6 +160,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/tv-and-radio/2026/nov/10/david-walliams-accused-preying-on-young-women-for-sex",
     "publishedAt": "2026-11-10T12:00:51.000Z"
+  },
+  {
+    "id": "401b87e565889afd",
+    "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
+    "summary": "Analysts say Trump’s comments are more likely to be political posturing than a reflection of serious policy priorities.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
+    "publishedAt": "2026-11-10T11:52:34.000Z"
   },
   {
     "id": "c95b62b2f4ee626e",
@@ -565,6 +655,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/10/cricket-australia-will-not-open-another-investigation-into-sandpapergate?traffic_source=rss",
     "publishedAt": "2026-11-10T06:13:00.000Z"
+  },
+  {
+    "id": "19f9d99d3aa95c18",
+    "title": "What a lower tax rise could mean for you - and the council",
+    "summary": "The leader of Calderdale Council says next year's council tax rise will be lower than expected.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c63r55vpze41o",
+    "publishedAt": "2026-11-10T06:10:50.000Z"
   },
   {
     "id": "71e8ac828ee1b3cf",
@@ -1224,6 +1323,15 @@
     "publishedAt": "2026-11-09T20:55:57.000Z"
   },
   {
+    "id": "2d19e7a793a272ae",
+    "title": "Honduran court delays verdict in disappearance case that exposed sex trafficking ring",
+    "summary": "A Honduran court has postponed a verdict in a sex-trafficking case linked to the 2022 disappearance of Angie Pe&ntilde;a.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/honduras-awaits-verdict-disappearance-case-exposed-sex-trafficking-137985538",
+    "publishedAt": "2026-11-09T20:53:46.000Z"
+  },
+  {
     "id": "1ac571815baae652",
     "title": "Pope meets with survivors of clergy abuse in Argentina as it reckons with legacy and ongoing cases",
     "summary": "Pope Leo XIV have met with survivors of clergy abuse during his visit to Argentina.",
@@ -1240,113 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line?traffic_source=rss",
     "publishedAt": "2026-11-09T20:50:20.000Z"
-  },
-  {
-    "id": "7c95fe6ed78be419",
-    "title": "Judge clears way for Lindsay Clancy to be retried on murder charges",
-    "summary": "Massachusetts judge rejects bid by Clancy’s attorneys to have the case against her dismissed.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/lindsay-clancy-judge-retrial",
-    "publishedAt": "2026-11-09T20:42:22.000Z"
-  },
-  {
-    "id": "60274129e254c83e",
-    "title": "Turkey steel factory blast kills at least 17 people",
-    "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo",
-    "publishedAt": "2026-11-09T20:42:04.000Z"
-  },
-  {
-    "id": "e7f68e372fb69c70",
-    "title": "Share price tumbles as Nvidia investigates CEO and 'foreign intelligence'",
-    "summary": "Nvidia shares tumble as the computer chip maker opens an investigation into reports that foreign intelligence targeted CEO Jensen Huang.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/nvidia-share-price-falls-ceo-jensen-huang-investigated/107366868",
-    "publishedAt": "2026-11-09T20:28:14.000Z"
-  },
-  {
-    "id": "506a7d7aad4b0289",
-    "title": "Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?",
-    "summary": "Huang built Nvidia as a family business but after the co-founder had an affair with an alleged Chinese spy, its board faces a difficult decision.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia",
-    "publishedAt": "2026-11-09T20:27:07.000Z"
-  },
-  {
-    "id": "7b5a8f3e87f950ba",
-    "title": "France accuses Iran of supermarket fridge hacking",
-    "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo",
-    "publishedAt": "2026-11-09T20:20:08.000Z"
-  },
-  {
-    "id": "2e17a1f5473919af",
-    "title": "ASX 200 climbs 1.1pc to highest level since August",
-    "summary": "Australian shares have climbed to their highest level in more than two months, with heavyweight miners leading gains.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/asx-markets-business-live-news-november-10-2026/107363300",
-    "publishedAt": "2026-11-09T20:19:02.000Z"
-  },
-  {
-    "id": "ebc96c3f5b6c20f3",
-    "title": "The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security",
-    "summary": "Jensen Huang’s close relationship with president means Nvidia CEO’s affair with woman alleged to be working for Beijing is a big deal.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security",
-    "publishedAt": "2026-11-09T20:01:05.000Z"
-  },
-  {
-    "id": "7ff5589d2bdd5aff",
-    "title": "Tommy Walsh, co-presenter of BBC’s Ground Force, dies aged 69",
-    "summary": "Former builder got his big break after restoring the home of a producer who was working on a precursor to the show.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/09/tommy-walsh-co-presenter-of-bbcs-ground-force-dies-aged-69",
-    "publishedAt": "2026-11-09T19:59:36.000Z"
-  },
-  {
-    "id": "850a20be4f744a1d",
-    "title": "Explosion at Turkish steel plant kills at least 16 people",
-    "summary": "President Erdogan announces an investigation after a crane collapsed into a furnace, triggering the blast near Izmir.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
-    "publishedAt": "2026-11-09T19:58:40.000Z"
-  },
-  {
-    "id": "cfcba81110793f09",
-    "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-    "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
-    "publishedAt": "2026-11-09T19:58:01.000Z"
-  },
-  {
-    "id": "1d6e26eab7f4d940",
-    "title": "Progressives head to US House in record numbers after winning red districts",
-    "summary": "Caucus had 100 members in the last Congress, and six of the nine candidates it endorsed won, flipping seats.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/progressives-us-house-flipped-seats",
-    "publishedAt": "2026-11-09T19:57:32.000Z"
-  },
-  {
-    "id": "70d067f37c963226",
-    "title": "South Africa detains foreigners suspected of heading to join Russian forces",
-    "summary": "Africans and others continue to be recruited to fight for Russia in its war on Ukraine.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
-    "publishedAt": "2026-11-09T19:56:45.000Z"
   }
 ]
