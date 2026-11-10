@@ -1,5 +1,104 @@
 [
   {
+    "id": "178a33b991e2cb11",
+    "title": "Little Britain star David Walliams accused of using fame to groom teenagers",
+    "summary": "Actor, comedian and children's author David Walliams has been accused of allegedly grooming and preying on teenage girls for sexual purposes in the early 2000s.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-11/david-walliams-accused-of-grooming-teenage-girls/107370934",
+    "publishedAt": "2026-11-10T16:08:42.000Z"
+  },
+  {
+    "id": "18e836c17680477a",
+    "title": "People in deprived areas of England more than ‘twice as likely’ to die prematurely",
+    "summary": "Early death risk for men and women in most deprived areas 2.3 times higher than those more affluent, study shows.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/2026/nov/10/early-death-deprived-areas-england",
+    "publishedAt": "2026-11-10T16:02:45.000Z"
+  },
+  {
+    "id": "6f153975f29469ea",
+    "title": "Twelve dead, 50 injured in Bulgarian motorway pile-up in heavy fog",
+    "summary": "Footage shows cars and trucks piled up, crushed and overturned across six lanes of the highway, with the country's prime minister declaring a day of mourning.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-11/bulgaria-deadly-pile-up-highway/107371178",
+    "publishedAt": "2026-11-10T15:56:26.000Z"
+  },
+  {
+    "id": "9c7595fa9e7c183f",
+    "title": "Haitian boy, 8, detained by ICE is now unaccounted for, lawmaker says",
+    "summary": "Juan Vargas, a congressman, says he’s working to reunite the third-grader with loved ones.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/haitian-boy-ice-california",
+    "publishedAt": "2026-11-10T15:51:42.000Z"
+  },
+  {
+    "id": "9f595a95456e361c",
+    "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
+    "summary": "Israel has killed more than 1,600 people in Gaza since last year's 'ceasefire', the enclave's Health Ministry says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
+    "publishedAt": "2026-11-10T15:49:36.000Z"
+  },
+  {
+    "id": "87cfd790eced3664",
+    "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+    "summary": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+    "publishedAt": "2026-11-10T15:39:26.000Z"
+  },
+  {
+    "id": "95398d0e0f293ef3",
+    "title": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
+    "summary": "Suspect in deadly November 7 Krakow shooting looked up the white supremacist who killed dozens in 2011, a minister says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss",
+    "publishedAt": "2026-11-10T15:36:49.000Z"
+  },
+  {
+    "id": "1af921259329d3f4",
+    "title": "Deadly Egypt train crash prompts calls for political accountability",
+    "summary": "A deadly train collision in Egypt's al-Ayyat prompts demands for political accountability and rail upgrade reviews.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/deadly-egypt-train-collision-prompts-calls-for-political-accountability?traffic_source=rss",
+    "publishedAt": "2026-11-10T15:22:17.000Z"
+  },
+  {
+    "id": "e5eb01cfdb56cf49",
+    "title": "‘Positive momentum’: Is the US war on Iran about to end?",
+    "summary": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
+    "publishedAt": "2026-11-10T15:18:32.000Z"
+  },
+  {
+    "id": "c5bf3663b29cf35c",
+    "title": "Gilded statue in DC mocks Trump for ‘dodging’ Vietnam war draft over bone spurs",
+    "summary": "New statue titled The Foot Soldier was installed on the National Mall just two days before Veterans Day.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-toe-statue-dc-vietnam-war-draft",
+    "publishedAt": "2026-11-10T15:12:28.000Z"
+  },
+  {
+    "id": "48df5c0b8e4b54ba",
+    "title": "Welcome Break Rotherham: is this really Britain’s best motorway service station?",
+    "summary": "It is modelled on a Yorkshire village and came top in a new survey, with 99% of visitors praising it. But with its branches of Burger King, Pret and Krispy Kreme, what makes it a cut above?",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/10/welcome-break-rotherham-britains-best-motorway-service-station",
+    "publishedAt": "2026-11-10T15:09:16.000Z"
+  },
+  {
     "id": "8ae0a884a0b8f412",
     "title": "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
     "summary": "India has influence with both sides, but shipping security and Russia’s cooperation remain major obstacles.",
@@ -45,6 +144,15 @@
     "publishedAt": "2026-11-10T14:45:22.000Z"
   },
   {
+    "id": "70b57ef97c80babd",
+    "title": "First day of Ukraine peace talks 'very productive', US says",
+    "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
+    "publishedAt": "2026-11-10T14:36:57.000Z"
+  },
+  {
     "id": "45aca3ded394f8c7",
     "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
     "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
@@ -61,6 +169,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/10/what-is-shahid-kaveh-%e2%81%a0the-iran-cyber-unit-tied-to-frances-fridge-hacking?traffic_source=rss",
     "publishedAt": "2026-11-10T14:27:45.000Z"
+  },
+  {
+    "id": "d89f591c16350d80",
+    "title": "Yabba dabba doo Could these bulging, Flintstones-style towers be the future of eco-building?",
+    "summary": "Ruggedly good-looking and greener than bricks and concrete, Petra Heights are made of three-metre slabs of rough rock. Could they herald a new stone age?",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/artanddesign/2026/nov/10/petra-heights-flintstones-style-towers-future-of-eco-building",
+    "publishedAt": "2026-11-10T14:25:29.000Z"
   },
   {
     "id": "f4e7dc124530cc13",
@@ -268,6 +385,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/10/nick-fuentes-crpc-college-republicans",
     "publishedAt": "2026-11-10T13:00:54.000Z"
+  },
+  {
+    "id": "ce8b471c16bf3fcc",
+    "title": "A Trump proposal would punish single parents. Other wealthy countries have a different approach",
+    "summary": "Canada, the Netherlands and Sweden offer extra support to solo-parent households. In its latest pronatalist push, the Trump administration aims to shift funds away from them.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-vance-parents-payment-analysis",
+    "publishedAt": "2026-11-10T13:00:53.000Z"
   },
   {
     "id": "53b418211229e082",
@@ -664,6 +790,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o",
     "publishedAt": "2026-11-10T09:26:20.000Z"
+  },
+  {
+    "id": "a1a36b2813201282",
+    "title": "Headteachers say families will struggle after another rise in school dinner prices",
+    "summary": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o",
+    "publishedAt": "2026-11-10T09:13:30.000Z"
   },
   {
     "id": "b791ed4e8aa57b83",
@@ -1213,140 +1348,5 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-10/liquidator-scrutiny-collapsed-mundella-dairy/107366016",
     "publishedAt": "2026-11-10T02:16:55.000Z"
-  },
-  {
-    "id": "594d4ea3663f68f9",
-    "title": "Woolies plans facial recognition technology trial in two Canberra supermarkets",
-    "summary": "Woolworths has proposed to trial new facial recognition technology in two Canberra stores.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/two-woolworths-stores-canberra-trial-facial-recognition-tech/107367158",
-    "publishedAt": "2026-11-10T02:07:34.000Z"
-  },
-  {
-    "id": "6d640a4314630138",
-    "title": "Cameroon sets date for twice-delayed legislative and local elections",
-    "summary": "President Paul Biya, the world's oldest leader, sets February 7 for Cameroon's delayed legislative and local polls.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss",
-    "publishedAt": "2026-11-10T02:03:59.000Z"
-  },
-  {
-    "id": "b8309b7ae717bb25",
-    "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
-    "summary": "Americans say the US should prioritise avoiding higher prices over achieving Trump's military goals in Iran.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
-    "publishedAt": "2026-11-10T01:56:47.000Z"
-  },
-  {
-    "id": "790d116569176fff",
-    "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-    "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo",
-    "publishedAt": "2026-11-10T01:55:22.000Z"
-  },
-  {
-    "id": "98a9186713b38945",
-    "title": "Clive Palmer says dilapidated luxury resort will reopen after decade in mothballs",
-    "summary": "The billionaire has repeatedly promised to revamp the rundown five-star Coolum resort he shut in 2015. Will this time be different?",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/clive-palmer-resort-coolum-reopening/107363986",
-    "publishedAt": "2026-11-10T01:54:36.000Z"
-  },
-  {
-    "id": "154a39172dfaa44a",
-    "title": "'Cruise for life' ship seized in Singapore",
-    "summary": "The ship was meant to take guests around the world, but the trip was cut short after its operator ran out of money.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o",
-    "publishedAt": "2026-11-10T01:49:06.000Z"
-  },
-  {
-    "id": "29dc3ada50a44e0a",
-    "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
-    "summary": "Australian carrier announces agreement with Accenture amid ‘unprecedented’ technological disruption, CEO Vanessa Hudson says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
-    "publishedAt": "2026-11-10T01:34:47.000Z"
-  },
-  {
-    "id": "daaeaa9f86a3498c",
-    "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
-    "summary": "Boy says he was first exposed to extremist material on TikTok, turned to Telegram and YouTube for bomb-making instructions, and used ChatGPT to devise his plans.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
-    "publishedAt": "2026-11-10T01:09:19.000Z"
-  },
-  {
-    "id": "2707c774be8e31e8",
-    "title": "The Nvidia 'honey trap' scandal could shape the global AI race",
-    "summary": "Allegations of espionage between China and the US are nothing new. But a target as big as Jensen Huang could change who wins the AI race.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/nvidia-and-spy-affair-could-reshape-us-china-ai-race/107367578",
-    "publishedAt": "2026-11-10T01:06:06.000Z"
-  },
-  {
-    "id": "5f790a66be4c8dcb",
-    "title": "Senate advances bill to speed up permit reviews for infrastructure projects",
-    "summary": "Chamber voted 73-25 to formally take up bill that will shorten timelines to start energy and datacenter projects.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-advances-bill-energy-projects",
-    "publishedAt": "2026-11-10T01:03:14.000Z"
-  },
-  {
-    "id": "ababb815bfd84c8d",
-    "title": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
-    "summary": "Angie Pena's disappearance in 2022 exposed what prosecutors called a sex-trafficking network and state corruption.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss",
-    "publishedAt": "2026-11-10T00:57:58.000Z"
-  },
-  {
-    "id": "ff59dfad99feef5c",
-    "title": "Beau Lamarre-Condon denies being ‘obsessed’ with Jesse Baird as double murder trial continues",
-    "summary": "Former police officer tells jury he joked about being ‘white girl crazy’ with friends as lawyer questions him over start of relationship with Baird.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
-    "publishedAt": "2026-11-10T00:53:54.000Z"
-  },
-  {
-    "id": "2f5656f79050aa61",
-    "title": "Trump says FBI probing Nvidia CEO’s affair with alleged spy",
-    "summary": "US president says he believes CEO Jensen Huang had no knowledge of woman's alleged work for Chinese intelligence.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
-    "publishedAt": "2026-11-10T00:44:28.000Z"
-  },
-  {
-    "id": "69569f4c31611539",
-    "title": "Court ruling paves way for Lindsay Clancy's retrial for murder",
-    "summary": "A US judge denies a motion to dismiss the murder case against Lindsay Clancy, which opens the possibility of a retrial.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/lindsay-clancy-could-be-tried-again-over-childrens-deaths/107367706",
-    "publishedAt": "2026-11-10T00:42:16.000Z"
-  },
-  {
-    "id": "fe145ebdbe69b432",
-    "title": "I took Vinted to court to get my money back",
-    "summary": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo",
-    "publishedAt": "2026-11-10T00:27:37.000Z"
   }
 ]
