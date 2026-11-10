@@ -1,5 +1,122 @@
 [
   {
+    "id": "cde23c72ae1c0ce6",
+    "title": "Australia tightens AI oversight rules after OpenAI government breach",
+    "summary": "The decision comes after ​an OpenAI agent breached ​an Australian government website in June.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
+    "publishedAt": "2026-11-10T07:05:11.000Z"
+  },
+  {
+    "id": "6b05ec01f6818d12",
+    "title": "Author Jojo Moyes among UK travellers at risk of EU ban amid digital border system glitches",
+    "summary": "Errors in entry and exit records leave some Britons wrongly flagged as having overstayed post-Brexit 90-day limit.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/10/jojo-moyes-uk-travellers-eu-ban-digital-border-system-ees",
+    "publishedAt": "2026-11-10T07:00:32.000Z"
+  },
+  {
+    "id": "71ad979424b93225",
+    "title": "How a chat with ‘auntie’ helped a young worker bag free money in a UK pensions scheme",
+    "summary": "Joining a company scheme at 18 seemed ‘too expensive’ for Rio until someone close put him right.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/10/uk-pensions-scottish-widows-young-worker",
+    "publishedAt": "2026-11-10T07:00:32.000Z"
+  },
+  {
+    "id": "09e66f1e63c8d084",
+    "title": "Apple MacBook Pro review: lighter, thinner and a stunning OLED touchscreen",
+    "summary": "Redesigned flagship laptop has a fantastic display, killer performance and the first touchscreen on a Mac, but comes with a serious price tag.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/10/apple-macbook-pro-review-lighter-thinner-stunning-oled-touchscreen",
+    "publishedAt": "2026-11-10T07:00:31.000Z"
+  },
+  {
+    "id": "f3dde674069aa847",
+    "title": "G7 attention turns to Ukraine while US-mediated talks get underway in Abu Dhabi",
+    "summary": "U.S. Secretary of State Marco Rubio and his counterparts from the Group of 7 developed democracies are turning their attention toward Ukraine and how to support it in its struggle to defend itself from Russia.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/g7-attention-paris-turns-ukraine-us-mediated-talks-138001993",
+    "publishedAt": "2026-11-10T06:57:41.000Z"
+  },
+  {
+    "id": "1a478ad3efb3bbfd",
+    "title": "US reportedly evacuated aircraft from RAF Mildenhall over Iran threat",
+    "summary": "The reported evacuation comes weeks after the US withdrew bombers from RAF Fairford over a suspected Iran-linked security incident.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
+    "publishedAt": "2026-11-10T06:46:53.000Z"
+  },
+  {
+    "id": "f91bbf3404957a88",
+    "title": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
+    "summary": "More than 2,000 Gaza buildings risk collapse amid floods, with 400,000 displaced in vulnerable zones, says government.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
+    "publishedAt": "2026-11-10T06:37:13.000Z"
+  },
+  {
+    "id": "c07fddaa7ce39baa",
+    "title": "The swan sanctuary wetland fighting climate change",
+    "summary": "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo",
+    "publishedAt": "2026-11-10T06:30:29.000Z"
+  },
+  {
+    "id": "52085c7e43728e01",
+    "title": "Independent bookshop closing after rise in bills",
+    "summary": "The Chicken and Frog in Brentwood says business rates and electricity bills have risen dramatically.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crx2dd92ne9yo",
+    "publishedAt": "2026-11-10T06:22:52.000Z"
+  },
+  {
+    "id": "52b685089b4ded05",
+    "title": "Luka Doncic’s 32 points help Lakers beat Hawks; Wembanyama powers Spurs",
+    "summary": "Doncic has been averaging 40 points per game this season with the Lakers on top of the NBA Western Conference.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/10/nba-doncic-lakers-wembanyama-spurs-curry-warriors?traffic_source=rss",
+    "publishedAt": "2026-11-10T06:22:35.000Z"
+  },
+  {
+    "id": "df306a5985c9cf90",
+    "title": "Khor Mor drone attack raises fears over Iraq’s energy security",
+    "summary": "Drone strike disrupts electricity supply in Iraq's semi-autonomous Kurdish region, renewing concerns about armed groups.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss",
+    "publishedAt": "2026-11-10T06:22:00.000Z"
+  },
+  {
+    "id": "faea3f5a1a739bdc",
+    "title": "Holiday hunger bill to face final Stormont hurdle",
+    "summary": "The new law would would help poorer families with food costs during school holidays.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo",
+    "publishedAt": "2026-11-10T06:21:02.000Z"
+  },
+  {
+    "id": "f032c1950f9b2e92",
+    "title": "How North Korean defectors view Kim Jong Un's daughter as his possible successor",
+    "summary": "Kim Jong Un’s teenage daughter is at the center of global media speculation that she is being groomed to be her father’s heir.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/north-korean-defectors-view-kim-jong-uns-daughter-137999884",
+    "publishedAt": "2026-11-10T06:18:07.000Z"
+  },
+  {
     "id": "9077aecfe126b435",
     "title": "'Screening may have picked up my lung cancer earlier'",
     "summary": "Joan McConville is calling for a national screening programme in Northern Ireland, like there is in England and Wales.",
@@ -7,6 +124,33 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cke8r704e8l6o",
     "publishedAt": "2026-11-10T06:16:50.000Z"
+  },
+  {
+    "id": "8861a002951d08c4",
+    "title": "‘Like gods reigning over humans’: Many defectors see daughter of North Korea's Kim as heir apparent",
+    "summary": "It's been about four years since the teenage daughter of North Korean leader Kim Jong Un first publicly accompanied her father on major state events.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/gods-reigning-humans-defectors-daughter-north-koreas-kim-137999978",
+    "publishedAt": "2026-11-10T06:16:10.000Z"
+  },
+  {
+    "id": "968c104f243eedb8",
+    "title": "Past talks involving Russia and Ukraine have yielded little progress toward peace",
+    "summary": "Negotiators from Moscow, Kyiv and Washington are scheduled to meet in Abu Dhabi, United Arab Emirates, on Tuesday and Wednesday for talks aimed at trying to end Russia's 4 1/2-year-old full-scale invasion of Ukraine.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/past-talks-involving-russia-ukraine-yielded-progress-peace-138002084",
+    "publishedAt": "2026-11-10T06:16:04.000Z"
+  },
+  {
+    "id": "ed807d79fd32793c",
+    "title": "Cricket Australia will not open another investigation into ‘sandpapergate’",
+    "summary": "'We’re comfortable with the outcome of the investigation,' Cricket Australia chief says after Khawaja's revelations.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/10/cricket-australia-will-not-open-another-investigation-into-sandpapergate?traffic_source=rss",
+    "publishedAt": "2026-11-10T06:13:00.000Z"
   },
   {
     "id": "71e8ac828ee1b3cf",
@@ -25,6 +169,33 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo",
     "publishedAt": "2026-11-10T06:01:44.000Z"
+  },
+  {
+    "id": "d301c20d986819a0",
+    "title": "New Knesset speaker could be key to ousting Netanyahu as Israel’s PM",
+    "summary": "Opposition politicians get first chance to take control of levers of power, even as they struggle to form government.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
+    "publishedAt": "2026-11-10T06:00:31.000Z"
+  },
+  {
+    "id": "573d8c836a0e016c",
+    "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief",
+    "summary": "Jens Eskelund says Europe may need to allow its companies to become part of Chinese firms’ supply chains.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund",
+    "publishedAt": "2026-11-10T06:00:30.000Z"
+  },
+  {
+    "id": "09534a20df3ee975",
+    "title": "Young people in UK hit by ‘low-gear economy’, warns Bank of England deputy",
+    "summary": "Exclusive: Iran war has fuelled energy price rise and clouded outlook, driving up unemployment, says Clare Lombardelli.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli",
+    "publishedAt": "2026-11-10T06:00:30.000Z"
   },
   {
     "id": "f3b35d58b5b43ab8",
@@ -124,6 +295,33 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o",
     "publishedAt": "2026-11-10T04:09:16.000Z"
+  },
+  {
+    "id": "bf904fda69221af0",
+    "title": "In Senegal, Black surfers want to reclaim the waves despite lack of resources",
+    "summary": "The origins of surfing can be traced back to the native populations of Peru, Polynesia and Hawaii, and European travelers documented children surfing along the coast of what is now Ghana as early as the 17th century.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/senegal-black-surfers-reclaim-waves-despite-lack-resources-137967918",
+    "publishedAt": "2026-11-10T04:03:17.000Z"
+  },
+  {
+    "id": "4987983bd58cb740",
+    "title": "Russia's top independent newspaper closes after three decades, citing pressure",
+    "summary": "Russia’s most celebrated independent newspaper, Novaya Gazeta, has closed its Moscow offices, citing relentless pressure from the government.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/russias-top-independent-newspaper-closes-office-after-decades-137972997",
+    "publishedAt": "2026-11-10T04:02:21.000Z"
+  },
+  {
+    "id": "c0153e5e48e81232",
+    "title": "Californians reject wealth tax for billionaires",
+    "summary": "Proposition 40 targeted Californian billionaires with a 5% tax on their total wealth, including assets such as shares as well as income.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq398em3032wo",
+    "publishedAt": "2026-11-10T03:34:46.000Z"
   },
   {
     "id": "474865538082d5e9",
@@ -304,6 +502,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
     "publishedAt": "2026-11-10T00:44:28.000Z"
+  },
+  {
+    "id": "fe145ebdbe69b432",
+    "title": "I took Vinted to court to get my money back",
+    "summary": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo",
+    "publishedAt": "2026-11-10T00:27:37.000Z"
   },
   {
     "id": "74dd878b1546a766",
@@ -610,6 +817,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia",
     "publishedAt": "2026-11-09T20:27:07.000Z"
+  },
+  {
+    "id": "2e17a1f5473919af",
+    "title": "ASX 200 climbs 1.1pc to highest level since August",
+    "summary": "Australian shares have climbed to their highest level in more than two months, with heavyweight miners leading gains.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-10/asx-markets-business-live-news-november-10-2026/107363300",
+    "publishedAt": "2026-11-09T20:19:02.000Z"
   },
   {
     "id": "ebc96c3f5b6c20f3",
@@ -1132,221 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckx2d2vv40w6o",
     "publishedAt": "2026-11-09T16:34:48.000Z"
-  },
-  {
-    "id": "5c0882a6c1f9d016",
-    "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
-    "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go",
-    "publishedAt": "2026-11-09T16:33:55.000Z"
-  },
-  {
-    "id": "b4ded612646d94ba",
-    "title": "France accuses Iran of cyberattack on European fridges",
-    "summary": "This is a breaking news story.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss",
-    "publishedAt": "2026-11-09T16:33:33.000Z"
-  },
-  {
-    "id": "322552a6c6fda103",
-    "title": "Judo star Teddy Riner announces plan to run in France’s presidential election",
-    "summary": "Five-times Olympic champion says he is neither leftwing nor rightwing but would seek to ‘bring people together’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
-    "publishedAt": "2026-11-09T16:24:50.000Z"
-  },
-  {
-    "id": "53ae5be20846d9a8",
-    "title": "‘Black English’ and ‘Asian English’ should be census options, MPs say",
-    "summary": "Exclusive: Cross-party call for ethnicity options to be broadened beyond ‘English’ being only within ‘White’ category.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/09/black-english-asian-english-should-be-census-options-mps",
-    "publishedAt": "2026-11-09T16:19:11.000Z"
-  },
-  {
-    "id": "6e108d8440b50d96",
-    "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
-    "summary": "Netanyahu and Zini's interference claims lack evidence, according to law enforcement officials quoted by Haaretz.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report?traffic_source=rss",
-    "publishedAt": "2026-11-09T16:18:28.000Z"
-  },
-  {
-    "id": "cb84f65d2a5c346c",
-    "title": "Civil servant who secretly held five jobs found guilty of fraud",
-    "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do",
-    "publishedAt": "2026-11-09T16:10:08.000Z"
-  },
-  {
-    "id": "bdb5f529b835538f",
-    "title": "South African police arrest 9 foreigners for trying to join Russia-Ukraine war",
-    "summary": "South African police have arrested nine foreign nationals suspected of trying to travel to Russia to fight in the war between Russia and Ukraine.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/south-african-police-arrest-9-foreign-nationals-suspected-137970412",
-    "publishedAt": "2026-11-09T16:02:18.000Z"
-  },
-  {
-    "id": "c58d7e0e8d4bb2a3",
-    "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
-    "summary": "The energy secretary says reducing bills is key to maintaining public support for climate action.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo",
-    "publishedAt": "2026-11-09T16:01:19.000Z"
-  },
-  {
-    "id": "acd7522b9a609305",
-    "title": "Nvidia shares slump amid investigation into CEO Jensen Huang",
-    "summary": "Huang admits infidelity, denies compromising Nvidia security as China spy inquiry shakes $4.5 trillion AI firm.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss",
-    "publishedAt": "2026-11-09T16:00:10.000Z"
-  },
-  {
-    "id": "031c48b899bb8cdc",
-    "title": "More than 50,000 displaced by deadly Ethiopia border clashes",
-    "summary": "Families arrive in Kenya with little food or shelter as host communities struggle to cope.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes?traffic_source=rss",
-    "publishedAt": "2026-11-09T15:55:27.000Z"
-  },
-  {
-    "id": "a889ee13c00c85b0",
-    "title": "Hardline Trump aide Stephen Miller takes over as White House chief of staff",
-    "summary": "Miller, known as the architect of Trump’s controversial immigration crackdown, is replacing Susie Wiles in new role.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff",
-    "publishedAt": "2026-11-09T15:53:44.000Z"
-  },
-  {
-    "id": "5252d0cff00cf054",
-    "title": "Polish prosecutors say ‘too early’ to tell if Kraków gunman was motivated by political ideology",
-    "summary": "Terrorism investigation will continue after suspect who killed six after opening fire in market square died.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
-    "publishedAt": "2026-11-09T15:52:26.000Z"
-  },
-  {
-    "id": "fbc14e5f6ea51acf",
-    "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-    "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-    "publishedAt": "2026-11-09T15:46:20.000Z"
-  },
-  {
-    "id": "1b752bc5d3f266f5",
-    "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
-    "summary": "Analysts say a small intelligence-focused unit cannot seal Iran’s borders, and others warn it could expand the war.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
-    "publishedAt": "2026-11-09T15:31:37.000Z"
-  },
-  {
-    "id": "2ad20e12736945da",
-    "title": "Senegal human rights group demands government action after deadly sinking",
-    "summary": "Thousands ⁠of people have ⁠died in recent years attempting to reach Spain’s Canary Islands from West Africa.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss",
-    "publishedAt": "2026-11-09T15:30:09.000Z"
-  },
-  {
-    "id": "ca0f4f4474041de0",
-    "title": "Japan to provide coastal radar and drones to the Philippines under $27M deal",
-    "summary": "Japan said it will provide a coastal radar system and unmanned aircraft to the Philippines under a security aid deal, as both countries face growing tensions with China.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/japan-provide-coastal-radar-drones-philippines-27m-deal-137975977",
-    "publishedAt": "2026-11-09T15:26:21.000Z"
-  },
-  {
-    "id": "626d8ea3c3e0eaa6",
-    "title": "Dortmund police attacked as crowd storms kebab shop for €1 doner",
-    "summary": "Officers pelted with bottles, stones and fireworks after people try to get their hands on special introductory offer.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/09/german-police-attacked-crowd-storms-dortmund-kebab-shop-for-one-euro-doner",
-    "publishedAt": "2026-11-09T15:23:17.000Z"
-  },
-  {
-    "id": "7fcd57f0ae267743",
-    "title": "COP31 summit targets major electrification push as 1.5C goal slips away",
-    "summary": "The climate summit will push for nations around the world to electrify their energy faster and move away from fossil fuels, as Chris Bowen predicts global temperatures will rise to 2.6 degrees above pre-industrial levels.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-10/cop31-tingle-global-temperature-1-5c/107366402",
-    "publishedAt": "2026-11-09T15:15:10.000Z"
-  },
-  {
-    "id": "86a988233c43972a",
-    "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
-    "summary": "New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
-    "publishedAt": "2026-11-09T15:09:53.000Z"
-  },
-  {
-    "id": "a987b421dd7c728a",
-    "title": "Los Angeles mayoral race points to growing sway of democratic socialists",
-    "summary": "Nithya Raman taps into frustration with economic and political status quo to become mayor of the second-largest US city.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/9/los-angeles-mayoral-race-points-to-growing-sway-of-democratic-socialists?traffic_source=rss",
-    "publishedAt": "2026-11-09T15:05:22.000Z"
-  },
-  {
-    "id": "1873c2f01613b0ed",
-    "title": "KFC’s arrival at Italian ski slopes angers food and mountain purists",
-    "summary": "Fast-food outlets on slopes at two prestigious Dolomites resorts are Italy’s first, with legal action threatened.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/09/kfc-italian-ski-slopes-dolomites-fast-food",
-    "publishedAt": "2026-11-09T15:00:21.000Z"
-  },
-  {
-    "id": "72ba5b29087d0475",
-    "title": "Germany set to get 1st female president as governing parties unite around ex-minister",
-    "summary": "Germany is set to get its first female president after Chancellor Friedrich Merz’s party nominated Ilse Aigner, a center-right politician with appeal to liberals, to become the country’s head of state next year.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/germany-set-1st-female-president-governing-parties-unite-137970711",
-    "publishedAt": "2026-11-09T14:58:45.000Z"
-  },
-  {
-    "id": "2240778db6cf0e34",
-    "title": "More than 400,000 Russians killed fighting in Ukraine war, leaked data suggests",
-    "summary": "Hacked death records reveal scale of losses since Moscow launched full-scale invasion nearly five years ago.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/09/russians-killed-ukraine-war-leaked-data",
-    "publishedAt": "2026-11-09T14:58:01.000Z"
-  },
-  {
-    "id": "78e561ca962ef92e",
-    "title": "Birds return to waterfowl park after oil vandalism",
-    "summary": "The vandalism of a nearby home heating oil tank resulted in the death of 13 birds from the park.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o",
-    "publishedAt": "2026-11-09T14:52:07.000Z"
   }
 ]
