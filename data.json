@@ -1,5 +1,50 @@
 [
   {
+    "id": "0573dea62fd62001",
+    "title": "David Jones to close half its stores triggering mass job losses under ‘urgent restructure’",
+    "summary": "Australia’s oldest department store collapsed into voluntary administration last week after years of steep losses.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/11/david-jones-store-closures-administration-restructure",
+    "publishedAt": "2026-11-11T03:59:03.000Z"
+  },
+  {
+    "id": "40a1a840624973fa",
+    "title": "Three dead in Los Angeles after driver crashes into pedestrians, officials say",
+    "summary": "Three others critically injured and taken to hospitals as reports say car crashed into food stand in North Hollywood.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/los-angeles-vehicle-crash",
+    "publishedAt": "2026-11-11T03:52:05.000Z"
+  },
+  {
+    "id": "9fde798b7011c5fd",
+    "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+    "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o",
+    "publishedAt": "2026-11-11T03:44:06.000Z"
+  },
+  {
+    "id": "a3123473338da200",
+    "title": "Kennedy family joins US lawsuits to block Trump’s ‘unlawful’ arch plan",
+    "summary": "Kennedy dynasty has filed a motion to stop Trump's arch from obscuring JFK Eternal Flame and family gravesites.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/kennedy-family-joins-us-lawsuits-to-block-trumps-unlawful-arch-plan?traffic_source=rss",
+    "publishedAt": "2026-11-11T03:21:40.000Z"
+  },
+  {
+    "id": "a811fef19efc2984",
+    "title": "Labor won’t scrap ABC and SBS ombudsmen in favour of external body as suggested by antisemitism envoy",
+    "summary": "Exclusive : Jillian Segal suggested ‘transferring’ powers in updated report released a fortnight ago but government sources note media regulator already exists.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/11/labor-abc-sbs-ombudsmen-antisemitism-envoy-gaza-coverage-ntwnfb",
+    "publishedAt": "2026-11-11T03:10:37.000Z"
+  },
+  {
     "id": "6246c6933abec87f",
     "title": "Underworld figure Mick Gatto gave CFEMU official gold bracelet after construction site assault, Big Build royal commission told",
     "summary": "Former CFMEU official Paul Tzimas tells inquiry he suffered fractured ankle and a colleague was left with major injuries and severe PTSD.",
@@ -16,6 +61,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/11/foo-fighters-dave-grohl-sydney-concert-tribute-beaconsfield-miner-todd-russell",
     "publishedAt": "2026-11-11T03:03:24.000Z"
+  },
+  {
+    "id": "baf91874cb862d94",
+    "title": "Aussie filmmakers left scrambling amid David Walliams allegations",
+    "summary": "Amid grooming accusations, David Walliams has been scrubbed from the upcoming movie, Fing!, which was filmed in Queensland and based on his 2019 children's book.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-11/david-walliams-movie-fing-transmission-cuts-cameo/107372206",
+    "publishedAt": "2026-11-11T03:00:34.000Z"
+  },
+  {
+    "id": "c1999501005847ee",
+    "title": "GOP-led House report slams systemic failures in handling of Epstein case",
+    "summary": "Decades of preferential treatment shielded Epstein and his associates, GOP-led report finds.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/gop-led-house-report-slams-systemic-failures-in-handling-of-epstein-case?traffic_source=rss",
+    "publishedAt": "2026-11-11T02:58:26.000Z"
   },
   {
     "id": "5af1a32e3034abeb",
@@ -1080,6 +1143,15 @@
     "publishedAt": "2026-11-10T15:39:26.000Z"
   },
   {
+    "id": "4fb60736a818f0ce",
+    "title": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
+    "summary": "New data comes after Republicans’ midterms losses – which were largely seen as a rebuke of the party over high prices.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report",
+    "publishedAt": "2026-11-10T15:38:48.000Z"
+  },
+  {
     "id": "95398d0e0f293ef3",
     "title": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
     "summary": "Suspect in deadly November 7 Krakow shooting looked up the white supremacist who killed dozens in 2011, a minister says.",
@@ -1276,77 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
     "publishedAt": "2026-11-10T14:03:00.000Z"
-  },
-  {
-    "id": "f5c2b76eb6e0e785",
-    "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
-    "summary": "His resignation offer comes amid a widening political rift between Prabowo and Widodo and a separate investigation into allegations that senior police officials wiretapped the president.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
-    "publishedAt": "2026-11-10T14:01:14.000Z"
-  },
-  {
-    "id": "bba6ef90d6548874",
-    "title": "FIA chief says Qatar and Abu Dhabi Grand Prix to go ahead despite tensions",
-    "summary": "This year's Saudi Arabian Grand Prix was scrapped following the outbreak of the US and Israel's war with Iran.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/10/fia-chief-says-qatar-and-abu-dhabi-grand-prix-to-go-ahead-despite-tensions?traffic_source=rss",
-    "publishedAt": "2026-11-10T14:01:09.000Z"
-  },
-  {
-    "id": "3acf2cd4b4552e89",
-    "title": "Victorian Labor’s ‘unforgivable’ preferences decision risks Liberal-One Nation government, Greens warn",
-    "summary": "Exclusive: Ellen Sandell says Labor’s decision not to back progressives in key inner-seat could hand power to right-wing coalition in close election.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/11/labor-decision-greens-preference-one-nation-battleground-seat-prahran-ntwnfb",
-    "publishedAt": "2026-11-10T14:00:55.000Z"
-  },
-  {
-    "id": "58911f3bdcba830f",
-    "title": "Meta’s AI age-check goes global: Can it protect teens?",
-    "summary": "The tech giant rolls out age-detection tool for Instagram and Facebook, but experts doubt whether it can help protect teens.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/metas-ai-age-check-goes-global-can-it-protect-teens?traffic_source=rss",
-    "publishedAt": "2026-11-10T13:58:37.000Z"
-  },
-  {
-    "id": "0d5634dd2e72938d",
-    "title": "Explosive device kills a police officer in northern Spain",
-    "summary": "Spain's police say that one police officer was killed and another seriously wounded when an explosive device went off while they were responding to a shooting in the northern city of Oviedo.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/explosive-device-kills-police-officer-northern-spain-138008418",
-    "publishedAt": "2026-11-10T13:58:14.000Z"
-  },
-  {
-    "id": "cd9bd0e588d5079b",
-    "title": "Who is Jean Leonard Teganya, deported by US over Rwanda genocide claims?",
-    "summary": "Teganya, a former medical student, is accused of participating in the 1994 genocide against the Tutsi in Rwanda.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/who-is-jean-leonard-teganya-deported-by-us-over-rwanda-genocide-claims?traffic_source=rss",
-    "publishedAt": "2026-11-10T13:54:35.000Z"
-  },
-  {
-    "id": "19d89e3ee6360c27",
-    "title": "Overnight strikes in Yemen kill at least 1 person and wound 9, and other Mideast news",
-    "summary": "Overnight strikes in Yemen have hit a gas station and an oil facility, killing at least one person and wounding nine others.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/overnight-strikes-yemen-kill-1-person-wound-9-138005785",
-    "publishedAt": "2026-11-10T13:54:10.000Z"
-  },
-  {
-    "id": "1fc97fcbb43a05c3",
-    "title": "US Air Force evacuates aircraft from a base in England because of a threat, US official says",
-    "summary": "An American official says the U.S. Air Force has evacuated aircraft from a base in eastern England because of a threat.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/us-air-force-evacuates-aircraft-base-england-threat-138004017",
-    "publishedAt": "2026-11-10T13:54:00.000Z"
   }
 ]
