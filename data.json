@@ -1,5 +1,113 @@
 [
   {
+    "id": "028185b6b4fe568f",
+    "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
+    "summary": "Bessent, driving force behind US push to cripple Iran’s economy, relocates over alleged threat to his life.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
+    "publishedAt": "2026-11-11T09:11:31.000Z"
+  },
+  {
+    "id": "cad48f4e5f60d93b",
+    "title": "Ed Miliband says national security of all countries at risk from climate crisis",
+    "summary": "Exclusive: UK foreign secretary to tell world leaders at Cop31 summit that sci-fi scenarios of destruction ‘now regular occurrences’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31",
+    "publishedAt": "2026-11-11T09:09:47.000Z"
+  },
+  {
+    "id": "03609645c83946f7",
+    "title": "Successive governments 'asleep at the wheel' over social care, says head of review",
+    "summary": "Baroness Casey criticises variability of services and fees charged to self-funders in England.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9143zxyyvndo",
+    "publishedAt": "2026-11-11T09:08:48.000Z"
+  },
+  {
+    "id": "e3c2f145db638800",
+    "title": "Dozens injured in South Korea after bus crashes into 32 vehicles",
+    "summary": "Fire officials in South Korea say a commuter bus struck more than 30 vehicles stopped at a traffic light during the morning rush hour Wednesday.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/dozens-injured-south-korea-after-bus-crashes-32-138033410",
+    "publishedAt": "2026-11-11T09:06:14.000Z"
+  },
+  {
+    "id": "8e81e3b89390e2b2",
+    "title": "US embassy refutes Houthis’ Yemen blockade claims, highlights siege on Taiz",
+    "summary": "US embassy says goods still flowing into Yemeni areas under Houthi control, while accusing the rebels of besieging Taiz.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/us-embassy-refutes-houthis-yemen-blockade-claims-highlights-siege-on-taiz?traffic_source=rss",
+    "publishedAt": "2026-11-11T08:58:59.000Z"
+  },
+  {
+    "id": "e2e7aea6e84e28dc",
+    "title": "Jonathan Ross ‘horrified’ by David Walliams and Russell Brand revelations",
+    "summary": "TV presenter says he was ‘genuinely unaware’ of pair’s conduct despite joking about Walliams going home with 15-year-old girl in 2004.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/11/jonathan-ross-david-walliams-russell-brand-revelations",
+    "publishedAt": "2026-11-11T08:43:18.000Z"
+  },
+  {
+    "id": "ea6f89841540e69e",
+    "title": "Analysts weigh how Democrats’ midterm wins could shift Trump’s Latin America policy",
+    "summary": "Analysts are examining how recent Democratic wins in the U.S. midterm elections might impact Latin America during President Donald Trump's final two years.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/analysts-weigh-democrats-midterm-wins-shift-trumps-latin-138037365",
+    "publishedAt": "2026-11-11T08:35:54.000Z"
+  },
+  {
+    "id": "74a10ce57c0ae556",
+    "title": "China and ASEAN make progress on South China Sea pact but can't finish talks this year",
+    "summary": "Regional diplomats say China and Southeast Asian countries have made progress on a South China Sea pact but won’t be able to conclude negotiations this year as agreed.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/china-asean-make-progress-south-china-sea-pact-138034044",
+    "publishedAt": "2026-11-11T08:35:48.000Z"
+  },
+  {
+    "id": "753a39da89f08f2f",
+    "title": "How are Pakistan’s imports from India growing again despite tensions?",
+    "summary": "Formally, they're not trading at all. But Pakistan's imports from India are back to pre-war levels.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/how-are-pakistans-imports-from-india-growing-again-despite-tensions?traffic_source=rss",
+    "publishedAt": "2026-11-11T08:30:40.000Z"
+  },
+  {
+    "id": "dbeaf7ae0a3119d3",
+    "title": "Why China’s $1 trillion trade surplus isn’t all good news for its economy",
+    "summary": "Booming exports mask a thriftiness among the Chinese that could undermine long-term growth.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/11/why-chinas-1-trillion-trade-surplus-isnt-all-good-news-for-its-economy?traffic_source=rss",
+    "publishedAt": "2026-11-11T08:29:10.000Z"
+  },
+  {
+    "id": "f45703afa2255454",
+    "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+    "summary": "Mohsen Rezaei's comments come as the IRGC said at least three ships had hit mines and caught fire in the Hormuz strait.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met?traffic_source=rss",
+    "publishedAt": "2026-11-11T08:21:56.000Z"
+  },
+  {
+    "id": "1aa1a7b1e4c98af5",
+    "title": "Pope Leo XIV urges youth in Argentina to reject 'idols' and to follow the model of saints",
+    "summary": "Pope Leo XIV has urged Argentines to reject the “idols” of money, drugs and pornography and to model their lives on the saints.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-urges-argentines-follow-model-saints-mass-land-138011787",
+    "publishedAt": "2026-11-11T07:54:40.000Z"
+  },
+  {
     "id": "ef9c51ac439e934d",
     "title": "Tories would have to raise state pension age above 70 to keep triple lock, says minister",
     "summary": "Kemi Badenoch attacked reforms but is not being clear about how party would meet costs, Torsten Bell claims.",
@@ -288,6 +396,15 @@
     "publishedAt": "2026-11-11T03:44:06.000Z"
   },
   {
+    "id": "f2414ff08a918e6d",
+    "title": "Malaysia's ex-leader Najib moved from prison to house arrest after court clears transfer",
+    "summary": "Former Prime Minister Najib Razak has been transferred from prison to house arrest to serve the remainder of his graft sentence.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/malaysian-high-court-clears-final-hurdle-former-prime-138005201",
+    "publishedAt": "2026-11-11T03:30:20.000Z"
+  },
+  {
     "id": "a3123473338da200",
     "title": "Kennedy family joins US lawsuits to block Trump’s ‘unlawful’ arch plan",
     "summary": "Kennedy dynasty has filed a motion to stop Trump's arch from obscuring JFK Eternal Flame and family gravesites.",
@@ -421,6 +538,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
     "publishedAt": "2026-11-11T01:18:56.000Z"
+  },
+  {
+    "id": "4df1d491719ab463",
+    "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+    "summary": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do",
+    "publishedAt": "2026-11-11T01:18:09.000Z"
   },
   {
     "id": "5fd791b2b236e9ce",
@@ -1222,131 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
     "publishedAt": "2026-11-10T17:56:12.000Z"
-  },
-  {
-    "id": "52fad6a9c25f3f92",
-    "title": "Activist wins 10-year fight against homophobic Trinidad and Tobago laws",
-    "summary": "Jason Jones welcomes decision by privy council in London to overturn 2025 ruling that outlawed anal sex.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/10/activist-jason-jones-wins-10-year-fight-against-homophobic-trinidad-tobago-laws",
-    "publishedAt": "2026-11-10T17:55:10.000Z"
-  },
-  {
-    "id": "73fb8de9459dd699",
-    "title": "Growth at all costs is not a sustainable policy | Letters",
-    "summary": "The key task should be to ensure that essential services improve the wellbeing of individuals and local communities, writes Peter Riddle . Plus letters from Sheila Triggs and Stephen Smith.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/10/growth-at-all-costs-is-not-a-sustainable-policy",
-    "publishedAt": "2026-11-10T17:52:52.000Z"
-  },
-  {
-    "id": "997bcff61d7c31d5",
-    "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
-    "summary": "Hamish Falconer says UK has ‘not accepted principle’ of linking electricity trade to ‘cohesion fund’ but two sides will discuss issue.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-    "publishedAt": "2026-11-10T17:52:07.000Z"
-  },
-  {
-    "id": "e39c9d3177bd5ba9",
-    "title": "Top UK appeals court rules gay sex not a crime in the Caribbean nation of Trinidad and Tobago",
-    "summary": "A final court of appeals in England has struck down a centuries-old gay sex ban in Trinidad and Tobago in a ruling that activists are celebrating.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/top-uk-appeals-court-rules-gay-sex-crime-138017724",
-    "publishedAt": "2026-11-10T17:51:17.000Z"
-  },
-  {
-    "id": "171a9e50802d6242",
-    "title": "US petrol prices are down, but elevated inflation continues",
-    "summary": "Inflation has remained high, despite some easing in fuel prices caused by the US war on Iran.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss",
-    "publishedAt": "2026-11-10T17:40:35.000Z"
-  },
-  {
-    "id": "34eba12618a858e8",
-    "title": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
-    "summary": "Iran says it is committed to non-proliferation treaty, but hardliners may be pushing for a change in nuclear policy.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss",
-    "publishedAt": "2026-11-10T17:35:07.000Z"
-  },
-  {
-    "id": "96721366569b200d",
-    "title": "UK social media ban expansion for under-16s could cover YouTube Kids",
-    "summary": "Regulations under consideration could affect up to 150 platforms, including LegoPlay, Spotify and eBay, sources say.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids",
-    "publishedAt": "2026-11-10T17:30:15.000Z"
-  },
-  {
-    "id": "d4402c5a71c3e47d",
-    "title": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
-    "summary": "New alliance with the Netherlands and Baltic and Nordic countries comes in response to 41% increase in Russian naval activity around UK.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations",
-    "publishedAt": "2026-11-10T17:26:59.000Z"
-  },
-  {
-    "id": "4160fdff6a1903ee",
-    "title": "Anthropic targets $1.4 trillion valuation in massive stock market debut",
-    "summary": "The maker of Claude is looking to raise up to $64.4bn in one of the largest IPOs in history next week.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss",
-    "publishedAt": "2026-11-10T17:21:58.000Z"
-  },
-  {
-    "id": "656e4de6b34ecd04",
-    "title": "Israeli president warns against repeat election in new Knesset session",
-    "summary": "Herzog calls for an inquiry into the October 7 attacks during a Knesset session amid political gridlock following elections.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
-    "publishedAt": "2026-11-10T17:16:15.000Z"
-  },
-  {
-    "id": "fc281f4b359ab9cc",
-    "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-    "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko",
-    "publishedAt": "2026-11-10T17:04:55.000Z"
-  },
-  {
-    "id": "e352637e6831520a",
-    "title": "Call it tough love, with the love removed: it’s Kemi’s war on benefits claimants",
-    "summary": "The Tory leader outlines her £36bn welfare cuts, again, to an audience of an age and a wealth that they don’t need to work.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/10/john-crace-kemi-badenoch-tough-love-war-on-benefits",
-    "publishedAt": "2026-11-10T17:04:29.000Z"
-  },
-  {
-    "id": "ef57a426da2eaa60",
-    "title": "Israel's new parliament sworn in as leaders compete to form government",
-    "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o",
-    "publishedAt": "2026-11-10T17:03:16.000Z"
-  },
-  {
-    "id": "6cbf568ba5168ded",
-    "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
-    "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro",
-    "publishedAt": "2026-11-10T17:00:11.000Z"
   }
 ]
