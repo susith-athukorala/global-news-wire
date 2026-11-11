@@ -1,5 +1,32 @@
 [
   {
+    "id": "ae9ccc3e0872fc32",
+    "title": "UN peacekeepers failed to protect civilians before South Sudan massacre, Amnesty says",
+    "summary": "Amnesty International says U.N. peacekeepers had weeks of warning before an attack killed more than 200 people in South Sudan but failed to do enough to protect civilians.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/peacekeepers-failed-protect-civilians-south-sudan-massacre-amnesty-138059244",
+    "publishedAt": "2026-11-11T21:34:11.000Z"
+  },
+  {
+    "id": "859ad4dd6532c1d9",
+    "title": "A cafe in Ukraine relocates from its besieged hometown and reopens",
+    "summary": "After Russian airstrikes destroyed a popular cafe in a frontline Ukrainian city, the cafe reopened in a safer region, an example of how Ukrainian businesses are trying to survive amid repeated bombing.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/11/nx-s1-6034533/a-cafe-in-ukraine-relocates-from-its-besieged-hometown-and-reopens",
+    "publishedAt": "2026-11-11T21:24:01.000Z"
+  },
+  {
+    "id": "bf486b75525366c8",
+    "title": "Human torso found on sofa in Sydney bushland prompts homicide investigation",
+    "summary": "Police called to Lane Cove North on Wednesday after sofa found containing human torso believed to be that of adult man.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
+    "publishedAt": "2026-11-11T21:09:56.000Z"
+  },
+  {
     "id": "559181db63ab3703",
     "title": "Opponents of Israel's prime minister may have to cross a red line to build new coalition",
     "summary": "Opponents of Israel's hardline prime minister are trying to oust him, by building a new coalition. To do so, they may have to cross a red line drawn by most Israeli parties: Work with Arab colleagues.",
@@ -70,6 +97,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko",
     "publishedAt": "2026-11-11T20:00:54.000Z"
+  },
+  {
+    "id": "b4c61accff62b7c2",
+    "title": "Pope Leo returns to what is expected to be a national party in his second homeland of Peru",
+    "summary": "Pope Leo XIV is headed to his second homeland.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-leo-returns-expected-national-party-homeland-peru-138054377",
+    "publishedAt": "2026-11-11T19:57:13.000Z"
   },
   {
     "id": "d52e8cf8d9f3601b",
@@ -1312,41 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/11/pakistans-pti-demands-access-to-jailed-khan-after-overnight-hospital-visit?traffic_source=rss",
     "publishedAt": "2026-11-11T09:47:25.000Z"
-  },
-  {
-    "id": "c8dd526043676f46",
-    "title": "Burnham lauds £12bn offshore wind investment as he prepares for climate summit",
-    "summary": "Package for plan off Norfolk coast revealed as government tries to calm critics after approving Jackdaw gasfield.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield",
-    "publishedAt": "2026-11-11T09:46:18.000Z"
-  },
-  {
-    "id": "e8e49eaaa7a14a8f",
-    "title": "Tearful Smith switches allegiance to Netherlands",
-    "summary": "Tatjana Smith, South Africa's most decorated Olympian, switches allegiance to the Netherlands.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno",
-    "publishedAt": "2026-11-11T09:45:14.000Z"
-  },
-  {
-    "id": "48052ecfcabece32",
-    "title": "Germany reportedly bans Chinese drones at military bases over security concerns",
-    "summary": "Western military forces increasingly worried Chinese-made technology ⁠could send ‌sensitive information to Beijing.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/11/germany-bans-chinese-drones-military-bases-spying-security",
-    "publishedAt": "2026-11-11T09:41:05.000Z"
-  },
-  {
-    "id": "cde917a1b0526993",
-    "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
-    "summary": "Congo's Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the relentless spread of the disease.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
-    "publishedAt": "2026-11-11T09:16:01.000Z"
   }
 ]
