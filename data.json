@@ -1,5 +1,50 @@
 [
   {
+    "id": "f67c5d112d2a4e19",
+    "title": "Free SAD lamps given out as disorder 'makes it hard to do anything on darker days'",
+    "summary": "Seasonal affective disorder can affect mood, energy and sleep during the winter months.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6wyvy50r2ewo",
+    "publishedAt": "2026-11-11T22:40:57.000Z"
+  },
+  {
+    "id": "fca1d9c740ddcd9e",
+    "title": "Poland's president joins a nationalist march as the country reels from the Krakow shooting",
+    "summary": "Polish President Karol Nawrocki joins thousands of right-wing demonstractors at an annual march in the capital to mark Independence Day.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/polands-president-joins-nationalist-march-country-reels-krakow-138059994",
+    "publishedAt": "2026-11-11T22:30:06.000Z"
+  },
+  {
+    "id": "a469bbd60ff60094",
+    "title": "UK appoints world’s first special representative for climate security",
+    "summary": "Exclusive: Madeleine Alessandri, chair of the joint intelligence committee, will take on the role of advising No 10 on climate-related national security risks.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security",
+    "publishedAt": "2026-11-11T22:30:01.000Z"
+  },
+  {
+    "id": "7f3cbcadfe6e1e50",
+    "title": "Welsh NHS bosses call for multi-year health funding",
+    "summary": "Next week Welsh ministers will unveil next year's draft spending plans for all public services.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmn80735d3eqo",
+    "publishedAt": "2026-11-11T22:26:26.000Z"
+  },
+  {
+    "id": "008f3dd410e56302",
+    "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
+    "summary": "The BBC denies defamation charge as Trump celebrates “huge victory” in court decision.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss",
+    "publishedAt": "2026-11-11T22:10:12.000Z"
+  },
+  {
     "id": "ae9ccc3e0872fc32",
     "title": "UN peacekeepers failed to protect civilians before South Sudan massacre, Amnesty says",
     "summary": "Amnesty International says U.N. peacekeepers had weeks of warning before an attack killed more than 200 people in South Sudan but failed to do enough to protect civilians.",
@@ -1303,50 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/germanys-military-stop-chinese-made-drones-training-purposes-138038908",
     "publishedAt": "2026-11-11T10:00:26.000Z"
-  },
-  {
-    "id": "5011a547602ad834",
-    "title": "AI hoaxes are deceiving 911 dispatchers, and they're only getting harder to detect",
-    "summary": "Swatters are increasingly using AI technology that creates synthetic voices or sound effects to generate remarkably believable fake emergency calls to law enforcement.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/11/nx-s1-6034449/ai-911-calls-swatting",
-    "publishedAt": "2026-11-11T10:00:00.000Z"
-  },
-  {
-    "id": "8eba96cd8c45810f",
-    "title": "Pakistan women’s captain Fatima Sana calls for gender equality in cricket",
-    "summary": "Fatima Sana 'dreams of a time' when the men's and women's cricket teams are treated as equals.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/11/fatima-sana-pakistan-cricket-equal-treatment-wbbl-perth-scorchers?traffic_source=rss",
-    "publishedAt": "2026-11-11T09:57:37.000Z"
-  },
-  {
-    "id": "0434155b7b85a65a",
-    "title": "Spain's first general strike in 14 years demands solutions to housing crisis",
-    "summary": "Less than three weeks before a national election that could catapult the far right to power, Spain's workers are striking on Wednesday to demand that the government remedy the nation's housing crisis.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
-    "publishedAt": "2026-11-11T09:54:54.000Z"
-  },
-  {
-    "id": "ea095d06f6d20111",
-    "title": "NAZA documentary on Gaza killings becomes one of year’s most watched",
-    "summary": "The film, which details Israel’s surveillance of Palestinian civilians, has been seen by more than 1.5m people in less than two months.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/11/naza-documentary-on-gaza-killings-becomes-one-of-years-most-watched",
-    "publishedAt": "2026-11-11T09:47:46.000Z"
-  },
-  {
-    "id": "77b4bfd91a783bc6",
-    "title": "Pakistan’s PTI demands access to jailed Khan after overnight hospital visit",
-    "summary": "Former Prime Minister Imran Khan ⁠is taken ⁠to a government hospital in Islamabad for treatment and returned to prison.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/pakistans-pti-demands-access-to-jailed-khan-after-overnight-hospital-visit?traffic_source=rss",
-    "publishedAt": "2026-11-11T09:47:25.000Z"
   }
 ]
