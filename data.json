@@ -1,5 +1,68 @@
 [
   {
+    "id": "9244a066fda1e03c",
+    "title": "Man City whistleblower Rui Pinto could help UK uncover more sporting crime",
+    "summary": "Rui Pinto is 'in talks' with UK authorities to help uncover more crime in exchange for police protection, reports say.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/11/man-city-whistleblower-rui-pinto-could-help-uk-uncover-more-sporting-crime?traffic_source=rss",
+    "publishedAt": "2026-11-11T11:05:50.000Z"
+  },
+  {
+    "id": "d11de94cab5cb8a6",
+    "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
+    "summary": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
+    "publishedAt": "2026-11-11T11:00:46.000Z"
+  },
+  {
+    "id": "55205569eacf640c",
+    "title": "Did Democrats save Pete Hegseth from impeachment?",
+    "summary": "Eleven Democrats are absent from procedural vote that narrowly shelves House impeachment vote against defence secretary.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss",
+    "publishedAt": "2026-11-11T10:32:03.000Z"
+  },
+  {
+    "id": "93e06b5b687f9514",
+    "title": "What’s the Falklands oil project at the heart of latest UK-Argentina spat?",
+    "summary": "UK says it will defend its interests at tribunal hearing, as Argentina seeks measures to block the offshore project.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/whats-the-falklands-oil-project-at-the-heart-of-latest-uk-argentina-spat?traffic_source=rss",
+    "publishedAt": "2026-11-11T10:28:12.000Z"
+  },
+  {
+    "id": "4e6fd8c5cba0065b",
+    "title": "Spain’s first general strike in 14 years begins",
+    "summary": "Strike disrupts public transport and industries amid demands for housing reform ahead of November 29 elections.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
+    "publishedAt": "2026-11-11T10:18:28.000Z"
+  },
+  {
+    "id": "19ede4959bdf873a",
+    "title": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
+    "summary": "Iran is said to have geo-located Bessent's $12.5m mansion in Washington, DC after a photo of it was published.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
+    "publishedAt": "2026-11-11T10:16:38.000Z"
+  },
+  {
+    "id": "7820de11f37e5152",
+    "title": "Gaza’s infrastructure collapse leaves residents defenceless against floods",
+    "summary": "Winter weather has continued to wreak havoc in Gaza, with flooding and strong winds.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods?traffic_source=rss",
+    "publishedAt": "2026-11-11T10:12:37.000Z"
+  },
+  {
     "id": "9c28c3c981fa3cd4",
     "title": "Kenya discharges last Ebola patient, beginning countdown to Ebola-free declaration",
     "summary": "Kenya has discharged its last Ebola patient, starting a 42-day countdown to being declared Ebola-free.",
@@ -7,6 +70,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/kenya-discharges-ebola-patient-beginning-countdown-ebola-free-138038701",
     "publishedAt": "2026-11-11T10:04:35.000Z"
+  },
+  {
+    "id": "8f76ea0999427606",
+    "title": "Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets",
+    "summary": "Iran-backed operatives have been charged over nearly 20 attacks, including a plot on a U.K. base housing U.S. troops. Separately, a U.S. soldier is held in the U.K. on Russia spying claims.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
+    "publishedAt": "2026-11-11T10:02:54.000Z"
   },
   {
     "id": "10e84288463f16e0",
@@ -1276,77 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
     "publishedAt": "2026-11-10T19:01:33.000Z"
-  },
-  {
-    "id": "76dd978295b6cc0a",
-    "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
-    "summary": "Drone makers are testing new, big drones that can deliver water or fire retardant with AI assistance. Aspen, Colorado is the first place trying them out.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
-    "publishedAt": "2026-11-10T19:00:00.000Z"
-  },
-  {
-    "id": "8837469147146245",
-    "title": "India's sugar cane is too dry and consumers will pay the price",
-    "summary": "Low rainfall hits sugarcane crops in India as farmers grapple with rising fuel and fertiliser costs.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-11/india-sugar-prices-rise-as-super-el-nino-weakens-monsoon/107339514",
-    "publishedAt": "2026-11-10T18:57:56.000Z"
-  },
-  {
-    "id": "a7361005bd5aa1e8",
-    "title": "Deal agreed to end health visitor strike affecting baby appointments",
-    "summary": "Health visitors are set to return to work next week, ending a nine-month dispute over pay and grading.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c317k7kn44nzo",
-    "publishedAt": "2026-11-10T18:55:34.000Z"
-  },
-  {
-    "id": "de9f765bb3ae2b9e",
-    "title": "U.S. boycotts U.N. human rights review for second year running",
-    "summary": "The U.S. has skipped a key U.N. human rights review for the second year running. Rights groups warn the absence risks undermining global accountability.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
-    "publishedAt": "2026-11-10T18:53:34.000Z"
-  },
-  {
-    "id": "787db7b917812b3f",
-    "title": "Would you push a neighbour into unemployment to reduce inflation?",
-    "summary": "We need more unemployment to drag inflation down. Will you volunteer?",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-11/rba-full-employment-andrew-hauser-trust-in-central-banks/107359286",
-    "publishedAt": "2026-11-10T18:52:55.000Z"
-  },
-  {
-    "id": "e5cf3473076f7646",
-    "title": "Buyers ditch backyards for balconies as rates rise",
-    "summary": "Unit values outperform houses in most capital cities as rising interest rates shrink borrowing power and reshape demand.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-11/how-house-unit-values-compare-across-capitals-2026/107337340",
-    "publishedAt": "2026-11-10T18:51:06.000Z"
-  },
-  {
-    "id": "a79b0e4db041d302",
-    "title": "House Republicans urge DoJ to further investigate ‘key witnesses’ in Epstein case",
-    "summary": "Republicans on House panel criticize US government’s investigation into Jeffrey Epstein and Ghislaine Maxwell.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/house-republicans-epstein-investigation",
-    "publishedAt": "2026-11-10T18:44:17.000Z"
-  },
-  {
-    "id": "e8e7aaa4aba82880",
-    "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
-    "summary": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o",
-    "publishedAt": "2026-11-10T18:43:04.000Z"
   }
 ]
