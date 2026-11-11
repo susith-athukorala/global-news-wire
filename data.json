@@ -1,5 +1,68 @@
 [
   {
+    "id": "6246c6933abec87f",
+    "title": "Underworld figure Mick Gatto gave CFEMU official gold bracelet after construction site assault, Big Build royal commission told",
+    "summary": "Former CFMEU official Paul Tzimas tells inquiry he suffered fractured ankle and a colleague was left with major injuries and severe PTSD.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/11/mick-gatto-cfmeu-big-build-royal-commission-ntwnfb",
+    "publishedAt": "2026-11-11T03:07:14.000Z"
+  },
+  {
+    "id": "b3c8cae225aaefa8",
+    "title": "Foo Fighters interrupt Sydney concert to pay tribute to Beaconsfield miner Todd Russell",
+    "summary": "Dave Grohl tells Sydney crowd Russell, whose death was announced this week, was a ‘big’ hero of his.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/11/foo-fighters-dave-grohl-sydney-concert-tribute-beaconsfield-miner-todd-russell",
+    "publishedAt": "2026-11-11T03:03:24.000Z"
+  },
+  {
+    "id": "5af1a32e3034abeb",
+    "title": "Rising Tide banned from using council land for protests at world’s largest coal port in Newcastle",
+    "summary": "NSW premier Chris Minns warned council would be complicit in any ‘illegal activities that occur at these protests’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/11/rising-tide-climate-protests-banned-chris-minns-newcastle-council-ntwnfb",
+    "publishedAt": "2026-11-11T02:55:05.000Z"
+  },
+  {
+    "id": "44e9141710192071",
+    "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+    "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo",
+    "publishedAt": "2026-11-11T02:47:59.000Z"
+  },
+  {
+    "id": "f6d4528a4d9ec551",
+    "title": "Two white students at University of Mississippi make monkey gestures in Ring video",
+    "summary": "Women are reportedly upstairs neighbors of three Black students, including one who uploaded video to TikTok.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/university-of-mississippi-white-students-monkey-gestures",
+    "publishedAt": "2026-11-11T02:26:10.000Z"
+  },
+  {
+    "id": "2e5dbf4bfb2cb598",
+    "title": "Stacy Keach, Mike Hammer actor whose career spanned stage and screen, dies aged 85",
+    "summary": "The US actor died in Poland on Tuesday, ‘after a long and difficult battle with a serious heart condition and heart failure’, his wife said.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/11/stacy-keach-mike-hammer-actor-death-aged-85",
+    "publishedAt": "2026-11-11T02:23:21.000Z"
+  },
+  {
+    "id": "8e882e4174852fb5",
+    "title": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
+    "summary": "Lebanese authorities launch a 'murder' investigation after al-Alwani's body is found in an apartment in Beirut.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss",
+    "publishedAt": "2026-11-11T02:07:15.000Z"
+  },
+  {
     "id": "550ebaa80a45c3f1",
     "title": "Nima Momeni sentenced to 16 years to life in murder of Cash App founder Bob Lee",
     "summary": "Tech consultant convicted of second-degree murder in 2023 stabbing death of Cash App founder.",
@@ -747,6 +810,15 @@
     "publishedAt": "2026-11-10T17:59:02.000Z"
   },
   {
+    "id": "12050a325dc072d6",
+    "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+    "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
+    "publishedAt": "2026-11-10T17:56:12.000Z"
+  },
+  {
     "id": "52fad6a9c25f3f92",
     "title": "Activist wins 10-year fight against homophobic Trinidad and Tobago laws",
     "summary": "Jason Jones welcomes decision by privy council in London to overturn 2025 ruling that outlawed anal sex.",
@@ -1276,77 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/us-air-force-evacuates-aircraft-base-england-threat-138004017",
     "publishedAt": "2026-11-10T13:54:00.000Z"
-  },
-  {
-    "id": "9e78ddd1bbbf97a9",
-    "title": "At least 12 people killed in crashes on a foggy Bulgarian motorway, minister says",
-    "summary": "Thick fog on a motorway in eastern Bulgaria has caused two major crashes, killing at least 12 people and injuring dozens more.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/12-people-killed-dozens-hurt-crashes-foggy-bulgarian-138004407",
-    "publishedAt": "2026-11-10T13:46:27.000Z"
-  },
-  {
-    "id": "7b5a8f3e87f950ba",
-    "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-    "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo",
-    "publishedAt": "2026-11-10T13:45:13.000Z"
-  },
-  {
-    "id": "6326fc4249902c8a",
-    "title": "New regulation for heating oil market, but no price controls",
-    "summary": "The Competition and Markets Authority has investigated the heating oil market in Northern Ireland and other parts of the UK.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o",
-    "publishedAt": "2026-11-10T13:42:29.000Z"
-  },
-  {
-    "id": "cb84f65d2a5c346c",
-    "title": "Civil servant who secretly held five jobs found guilty of fraud",
-    "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do",
-    "publishedAt": "2026-11-10T13:39:28.000Z"
-  },
-  {
-    "id": "4fb60736a818f0ce",
-    "title": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
-    "summary": "New data comes after Republicans’ midterms losses – which were largely seen as a rebuke of the party over high prices.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report",
-    "publishedAt": "2026-11-10T13:36:16.000Z"
-  },
-  {
-    "id": "d4d15f28e58a1dc0",
-    "title": "Israeli soldiers are also settlers in West Bank: Al Jazeera investigation",
-    "summary": "Blurred lines between Israeli soldiers and settlers fuel systematic West Bank violence and mass displacement.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/israeli-soldiers-are-also-settlers-in-west-bank-al-jazeera-investigation?traffic_source=rss",
-    "publishedAt": "2026-11-10T13:34:33.000Z"
-  },
-  {
-    "id": "8f0d8102efa34c10",
-    "title": "Spain mulls TikTok suspension after investigation into child sex abuse videos",
-    "summary": "Ministry of Youth and Children calls for urgent meeting with TikTok leadership in Spain.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/spanish-probe-finds-over-20000-suspected-paedophile-profiles-on-tiktok?traffic_source=rss",
-    "publishedAt": "2026-11-10T13:33:55.000Z"
-  },
-  {
-    "id": "82be1423bfc94c94",
-    "title": "Hegseth calls Republican’s bid to impeach him a ‘stunt’ by critics of Trump",
-    "summary": "Thomas Massie has accused US defense secretary of illegally waging war without congressional authorization and abusing his powers.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-massie",
-    "publishedAt": "2026-11-10T13:32:07.000Z"
   }
 ]
