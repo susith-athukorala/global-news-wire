@@ -1,5 +1,41 @@
 [
   {
+    "id": "d42724c68448d1f6",
+    "title": "Lending to property investors falls at record pace, as Australians fall behind on home loans",
+    "summary": "Share of CBA customers struggling to repay their mortgages has climbed to 12-year high.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/11/property-investor-lending-rates-fall-cba-mortgage-repayments",
+    "publishedAt": "2026-11-11T07:02:15.000Z"
+  },
+  {
+    "id": "d03bc3f1122697de",
+    "title": "AI has made it ‘close to impossible’ to assess university coursework, regulator says",
+    "summary": "Office for Students says institutions in England should return to traditional exams and in-person presentations.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
+    "publishedAt": "2026-11-11T07:00:33.000Z"
+  },
+  {
+    "id": "4914cd13061a16ce",
+    "title": "Mini record player on track for No 1 in Christmas toy parade",
+    "summary": "Industry experts pick out tiny turntable as one of their ‘15 hottest toys’ for the festive season.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/11/mini-record-player-on-track-for-no-1-in-christmas-toy-parade",
+    "publishedAt": "2026-11-11T07:00:33.000Z"
+  },
+  {
+    "id": "a3264c37951d18f0",
+    "title": "Developing countries in limbo as rich nations delay new climate finance plans",
+    "summary": "Many governments are yet to set targets, leaving recipient countries struggling to plan and attract private investment.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/11/developing-countries-climate-finance-delay",
+    "publishedAt": "2026-11-11T07:00:32.000Z"
+  },
+  {
     "id": "1c7695d0c1eff066",
     "title": "Bid to restore rare Atlantic rainforest secures £6m lottery grant",
     "summary": "Hubs offering training in conservation work are to be set up in Torridon, Morvern and mid-Argyll.",
@@ -583,6 +619,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats",
     "publishedAt": "2026-11-10T22:16:32.000Z"
+  },
+  {
+    "id": "3a6523e380129f36",
+    "title": "Savers urged to check interest rates on accounts as Macquarie admits failings",
+    "summary": "Macquarie Bank has admitted to failures in the promotion of its \"welcome\" interest rate for new savings account customers.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-11/asic-sues-macquarie-for-savings-rates-failures/107371760",
+    "publishedAt": "2026-11-10T22:16:06.000Z"
   },
   {
     "id": "c51098760953be81",
@@ -1303,50 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget",
     "publishedAt": "2026-11-10T16:44:27.000Z"
-  },
-  {
-    "id": "b2e9cf06acc75387",
-    "title": "Michigan sports parent allegedly defecates in rival high school’s corridor: ‘definitely a first’",
-    "summary": "The suspect, tracked down from surveillance video, claims to have had a medical emergency.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/michigan-sports-parent-defecates",
-    "publishedAt": "2026-11-10T16:23:12.000Z"
-  },
-  {
-    "id": "2416fa2bca9ccd0d",
-    "title": "Rare cancer discovered after mum underwent hysterectomy",
-    "summary": "Mum-of-four Donna Marklew, from Coventry, discovered she had cancer after a post-op biopsy.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crq5n5w26lp5o",
-    "publishedAt": "2026-11-10T16:22:18.000Z"
-  },
-  {
-    "id": "45aca3ded394f8c7",
-    "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-    "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo",
-    "publishedAt": "2026-11-10T16:19:48.000Z"
-  },
-  {
-    "id": "8a541d0f4144173d",
-    "title": "Flying cars could launch in China next summer, maker of two-seat model says",
-    "summary": "XPeng says its $300k low-altitude device will soon be ready for emergency services and recreational use in rural areas.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng",
-    "publishedAt": "2026-11-10T16:14:50.000Z"
-  },
-  {
-    "id": "a1514935e728d490",
-    "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
-    "summary": "Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AI.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
-    "publishedAt": "2026-11-10T16:13:13.000Z"
   }
 ]
