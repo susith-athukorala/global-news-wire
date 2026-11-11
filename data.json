@@ -1,5 +1,23 @@
 [
   {
+    "id": "fb88eb6e8efe563f",
+    "title": "David Walliams cameo cut from Australian film after sexual harassment allegations",
+    "summary": "Children’s author and comedian, who wrote the book on which the movie Fing! is based, will also be removed from the publicity tour.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/11/david-walliams-australian-film-cameo-cut-sexual-harassment-allegations-ntwnfb",
+    "publishedAt": "2026-11-11T15:13:23.000Z"
+  },
+  {
+    "id": "2d164b67e7e1d019",
+    "title": "Dua Lipa, Tame Impala and SZA set to headline Coachella 2027",
+    "summary": "The California festival has unveiled its lineup, which also features Madonna, Phoebe Bridgers and Robyn.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/11/coachella-lineup-2027-dua-lipa",
+    "publishedAt": "2026-11-11T15:07:38.000Z"
+  },
+  {
     "id": "f3fccc6147cd9e23",
     "title": "The 37 best Christmas gifts in the UK for tweens – chosen by 10- to 12-year-olds",
     "summary": "We asked 20 tweenagers what they already own, love and think would make great gifts. Turns out it’s Lego, dance mats and plenty of lotions and potions.",
@@ -34,6 +52,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo",
     "publishedAt": "2026-11-11T14:56:11.000Z"
+  },
+  {
+    "id": "df6dd84b4db9ac93",
+    "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+    "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
+    "publishedAt": "2026-11-11T14:51:26.000Z"
   },
   {
     "id": "68fdba7a25248e25",
@@ -855,6 +882,15 @@
     "publishedAt": "2026-11-11T07:54:40.000Z"
   },
   {
+    "id": "635999376d1f6ed5",
+    "title": "Christmas toy rush being driven by squishies and building sets",
+    "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o",
+    "publishedAt": "2026-11-11T07:52:05.000Z"
+  },
+  {
     "id": "fbc14e5f6ea51acf",
     "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
     "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
@@ -1312,41 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/11/macquarie-bank-14m-penalty-welcome-rate-savings-account",
     "publishedAt": "2026-11-11T01:23:39.000Z"
-  },
-  {
-    "id": "dafd0f351ed2df50",
-    "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
-    "summary": "Trump-appointed judge Jeffrey T Kuntz partially denies British broadcaster’s motion to dismiss over edit.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
-    "publishedAt": "2026-11-11T01:18:56.000Z"
-  },
-  {
-    "id": "4df1d491719ab463",
-    "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
-    "summary": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do",
-    "publishedAt": "2026-11-11T01:18:09.000Z"
-  },
-  {
-    "id": "5fd791b2b236e9ce",
-    "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-    "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo",
-    "publishedAt": "2026-11-11T01:14:40.000Z"
-  },
-  {
-    "id": "fbe0abc159ce04cd",
-    "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
-    "summary": "Displaced families face renewed uncertainty as fighting returns to Tigray.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
-    "publishedAt": "2026-11-11T01:11:04.000Z"
   }
 ]
