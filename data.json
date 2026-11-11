@@ -1,5 +1,86 @@
 [
   {
+    "id": "f3fccc6147cd9e23",
+    "title": "The 37 best Christmas gifts in the UK for tweens – chosen by 10- to 12-year-olds",
+    "summary": "We asked 20 tweenagers what they already own, love and think would make great gifts. Turns out it’s Lego, dance mats and plenty of lotions and potions.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2026/nov/11/best-christmas-gifts-ideas-tweens-uk",
+    "publishedAt": "2026-11-11T15:00:52.000Z"
+  },
+  {
+    "id": "ae21c2f528d9d3a5",
+    "title": "How years of research built Grand Theft Auto VI’s obsessively detailed world",
+    "summary": "The developers behind its virtual Florida share how they built their most ambitious world so far.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/11/a-world-of-its-own-inside-the-making-of-the-most-detailed-grand-theft-auto-yet",
+    "publishedAt": "2026-11-11T15:00:51.000Z"
+  },
+  {
+    "id": "1b416dbabf9e7c70",
+    "title": "Qatar Grand Prix was ‘right decision’ despite regional tensions: MotoGP",
+    "summary": "MotoGP chief says 'it was normal that the riders showed their concerns' but was surprised at Yamaha's ⁠⁠⁠⁠withdrawal.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/11/motogp-carlos-ezpeleta-deputy-ceo-qatar-grand-prix-yamaha-iran-war?traffic_source=rss",
+    "publishedAt": "2026-11-11T14:58:15.000Z"
+  },
+  {
+    "id": "35d10a6d1eb12e43",
+    "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+    "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo",
+    "publishedAt": "2026-11-11T14:56:11.000Z"
+  },
+  {
+    "id": "68fdba7a25248e25",
+    "title": "Burnham signals support for bill to make ‘Black English’ and ‘Asian English’ census options",
+    "summary": "PM welcomes cross-party push to reject ethnic basis for Englishness promoted by Reform UK politicians.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/11/andy-burnham-black-english-asian-english-census-bill-ethnicity",
+    "publishedAt": "2026-11-11T14:50:15.000Z"
+  },
+  {
+    "id": "19dd389ee9441787",
+    "title": "Italy vs France: UEFA Nations League – preview, team news, predictions",
+    "summary": "Kylian Mbappe 'under treatment' as Group A1 leaders France travel to Italy for a game at the San Siro, Milan.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/11/italy-vs-france-uefa-nations-league-preview-team-news?traffic_source=rss",
+    "publishedAt": "2026-11-11T14:43:46.000Z"
+  },
+  {
+    "id": "6d79df247cc12721",
+    "title": "Virginia man convicted of murder says he did not kill wife before dismembering her body",
+    "summary": "Naresh Bhatt, 28, said he dismembered wife’s body after she took her own life, a claim prosecutors called ‘ridiculous’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/11/virginia-murder-dismembering",
+    "publishedAt": "2026-11-11T14:40:16.000Z"
+  },
+  {
+    "id": "d04de3dbce543570",
+    "title": "Consultant doctors in England call off two-day pay strike",
+    "summary": "Action on 25 and 26 November suspended to allow for formal negotations with the government.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/11/consultant-doctors-in-england-call-off-nhs-strike",
+    "publishedAt": "2026-11-11T14:33:44.000Z"
+  },
+  {
+    "id": "ade52d7ccbf1d52c",
+    "title": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial",
+    "summary": "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashes.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
+    "publishedAt": "2026-11-11T14:30:15.000Z"
+  },
+  {
     "id": "a93f4fde5beed18f",
     "title": "British man who died in Kraków shooting named as James Campbell",
     "summary": "Campbell, 32, from Prestwick, South Ayrshire, was one of six people killed in the 7 November attack in Polish city.",
@@ -16,6 +97,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/11/andy-burnham-says-government-will-unveil-10-year-plan-by-mid-december",
     "publishedAt": "2026-11-11T14:12:14.000Z"
+  },
+  {
+    "id": "1210327ea4b04222",
+    "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
+    "summary": "Torn between military action and diplomacy, US appears to settle for drawn-out economic pressure campaign, blockade.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss",
+    "publishedAt": "2026-11-11T14:10:47.000Z"
   },
   {
     "id": "887325dee5283142",
@@ -531,6 +621,15 @@
     "publishedAt": "2026-11-11T10:04:35.000Z"
   },
   {
+    "id": "b9c0719774360ef5",
+    "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+    "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko",
+    "publishedAt": "2026-11-11T10:03:34.000Z"
+  },
+  {
     "id": "8f76ea0999427606",
     "title": "Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets",
     "summary": "Iran-backed operatives have been charged over nearly 20 attacks, including a plot on a U.K. base housing U.S. troops. Separately, a U.S. soldier is held in the U.K. on Russia spying claims.",
@@ -754,6 +853,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/pope-urges-argentines-follow-model-saints-mass-land-138011787",
     "publishedAt": "2026-11-11T07:54:40.000Z"
+  },
+  {
+    "id": "fbc14e5f6ea51acf",
+    "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+    "publishedAt": "2026-11-11T07:44:24.000Z"
   },
   {
     "id": "4a8fbecd7963f6e4",
@@ -1240,113 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
     "publishedAt": "2026-11-11T01:11:04.000Z"
-  },
-  {
-    "id": "25032f9b030f02b5",
-    "title": "Kennedys sue to block Trump’s gilded arch, saying it would ‘cast shadow’ over JFK grave site",
-    "summary": "250ft arch risks ‘permanently diminishing’ memorials to ex-president and relatives at Arlington cemetery, lawsuit says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/kennedy-family-lawsuit-trump-arch-jfk",
-    "publishedAt": "2026-11-11T01:09:55.000Z"
-  },
-  {
-    "id": "df6dd84b4db9ac93",
-    "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-    "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
-    "publishedAt": "2026-11-11T01:01:20.000Z"
-  },
-  {
-    "id": "ca9e4be27112ebfc",
-    "title": "Beau Lamarre-Condon denies making fake Grindr account for Jesse Baird, double murder trial hears",
-    "summary": "Former police officer accused of murdering Baird and Luke Davies cross-examined in NSW supreme court.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/11/beau-lamarre-condon-murder-trial-fake-grindr-account-ntwnfb",
-    "publishedAt": "2026-11-11T01:00:28.000Z"
-  },
-  {
-    "id": "41449cd98a224303",
-    "title": "China's trade surplus surpasses $US1 trillion for second straight year",
-    "summary": "Chinese exports surged 35 per cent last month, with the country on track to surpass the $US1.2 trillion trade surplus it achieved last year.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-11/china-trade-surpasses-1-trillion-for-second-straight-year/107372090",
-    "publishedAt": "2026-11-11T00:57:12.000Z"
-  },
-  {
-    "id": "27b074b0e7359ba7",
-    "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
-    "summary": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwm242plggldo",
-    "publishedAt": "2026-11-11T00:35:14.000Z"
-  },
-  {
-    "id": "6495f1cb22385ce1",
-    "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-    "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o",
-    "publishedAt": "2026-11-11T00:26:02.000Z"
-  },
-  {
-    "id": "054890063f134ee4",
-    "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
-    "summary": "Climate activist urges world leaders to put people and planet before profit as she arrives at UN climate talks.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/everything-and-everyone-we-love-is-at-stake-thunberg-slams-cop31-talks?traffic_source=rss",
-    "publishedAt": "2026-11-11T00:24:27.000Z"
-  },
-  {
-    "id": "dbc18bb74c445b55",
-    "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
-    "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o",
-    "publishedAt": "2026-11-11T00:19:42.000Z"
-  },
-  {
-    "id": "8bc24e27b81a68f0",
-    "title": "Robot vessels take on the dangerous work of mine hunting",
-    "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o",
-    "publishedAt": "2026-11-11T00:19:13.000Z"
-  },
-  {
-    "id": "fcf75a6d87ff880b",
-    "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-    "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo",
-    "publishedAt": "2026-11-11T00:18:07.000Z"
-  },
-  {
-    "id": "126510cc29926fc2",
-    "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
-    "summary": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo",
-    "publishedAt": "2026-11-11T00:17:42.000Z"
-  },
-  {
-    "id": "635999376d1f6ed5",
-    "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
-    "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o",
-    "publishedAt": "2026-11-11T00:16:44.000Z"
   }
 ]
