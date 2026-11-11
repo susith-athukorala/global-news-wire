@@ -1,5 +1,77 @@
 [
   {
+    "id": "d5216de1e2726acd",
+    "title": "Democrat Scott Colom unseats Cindy Hyde-Smith in shocking Mississippi Senate win",
+    "summary": "Colom takes victory by razor-thin margin in state that hasn’t elected a Democrat to the Senate since 1982.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race",
+    "publishedAt": "2026-11-11T23:10:16.000Z"
+  },
+  {
+    "id": "b492a23bee05e448",
+    "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+    "summary": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+    "publishedAt": "2026-11-11T23:09:07.000Z"
+  },
+  {
+    "id": "0b29ab9cde481d32",
+    "title": "After 40 years apart, a Chilean mother reunites with two children stolen during dictatorship",
+    "summary": "Teresita de Jes&uacute;s Padilla has reunited with her two sons after they were taken from her in Chile four decades ago.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/after-40-years-apart-chilean-mother-reunites-children-138062026",
+    "publishedAt": "2026-11-11T23:04:41.000Z"
+  },
+  {
+    "id": "c1e95fc8ad4d6d3f",
+    "title": "Black girls in LA keep seeing women around them getting killed. They’re driving change",
+    "summary": "Black women and girls represent an outsized share of LA homicide victims – frustrated with police and legislators’ failures, they’re stepping up and speaking out to stop the violence.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/09/black-women-girls-los-angeles-homicides-violence",
+    "publishedAt": "2026-11-11T23:01:10.000Z"
+  },
+  {
+    "id": "30c231e439cecae4",
+    "title": "Hegseth and aides scolded by guard for laughing at Tomb of the Unknown Soldier",
+    "summary": "Group attending Veterans Day ceremony sharply reminded by sentinel to maintain ‘silence and respect’ at sacred site.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/11/hegseth-scolded-tomb-unknown-soldier",
+    "publishedAt": "2026-11-11T23:00:21.000Z"
+  },
+  {
+    "id": "487f359ed546011b",
+    "title": "Israeli strikes hit tent camp as five killed in Gaza",
+    "summary": "Tent camp attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-11T22:55:37.000Z"
+  },
+  {
+    "id": "2f369d508278da65",
+    "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
+    "summary": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
+    "publishedAt": "2026-11-11T22:50:37.000Z"
+  },
+  {
+    "id": "aa932b3d176d27ef",
+    "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
+    "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, says expert.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro",
+    "publishedAt": "2026-11-11T22:48:59.000Z"
+  },
+  {
     "id": "f67c5d112d2a4e19",
     "title": "Free SAD lamps given out as disorder 'makes it hard to do anything on darker days'",
     "summary": "Seasonal affective disorder can affect mood, energy and sleep during the winter months.",
@@ -7,6 +79,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6wyvy50r2ewo",
     "publishedAt": "2026-11-11T22:40:57.000Z"
+  },
+  {
+    "id": "b82478859e8ac7f3",
+    "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
+    "summary": "The move comes months after the government of Javier Milei designated Iran's IRGC as a 'terrorist organisation'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
+    "publishedAt": "2026-11-11T22:34:43.000Z"
   },
   {
     "id": "fca1d9c740ddcd9e",
@@ -1267,86 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/11/whats-the-falklands-oil-project-at-the-heart-of-latest-uk-argentina-spat?traffic_source=rss",
     "publishedAt": "2026-11-11T10:28:12.000Z"
-  },
-  {
-    "id": "4e6fd8c5cba0065b",
-    "title": "Spain’s first general strike in 14 years begins",
-    "summary": "Strike disrupts public transport and industries amid demands for housing reform ahead of November 29 elections.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
-    "publishedAt": "2026-11-11T10:18:28.000Z"
-  },
-  {
-    "id": "19ede4959bdf873a",
-    "title": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
-    "summary": "Iran is said to have geo-located Bessent's $12.5m mansion in Washington, DC after a photo of it was published.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
-    "publishedAt": "2026-11-11T10:16:38.000Z"
-  },
-  {
-    "id": "3a7d9d7f9f45541f",
-    "title": "One Nation Victoria candidate apologises for slew of offensive comments about lesbians, Indians and Julia Gillard",
-    "summary": "Exclusive: Chris Moore, running for the party in Greenvale, made derogatory social media comments between 2010 and 2012.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/11/one-nation-candidate-apologises-offensive-comments-ntwnfb",
-    "publishedAt": "2026-11-11T10:12:42.000Z"
-  },
-  {
-    "id": "7820de11f37e5152",
-    "title": "Gaza’s infrastructure collapse leaves residents defenceless against floods",
-    "summary": "Winter weather has continued to wreak havoc in Gaza, with flooding and strong winds.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods?traffic_source=rss",
-    "publishedAt": "2026-11-11T10:12:37.000Z"
-  },
-  {
-    "id": "9c28c3c981fa3cd4",
-    "title": "Kenya discharges last Ebola patient, beginning countdown to Ebola-free declaration",
-    "summary": "Kenya has discharged its last Ebola patient, starting a 42-day countdown to being declared Ebola-free.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/kenya-discharges-ebola-patient-beginning-countdown-ebola-free-138038701",
-    "publishedAt": "2026-11-11T10:04:35.000Z"
-  },
-  {
-    "id": "b9c0719774360ef5",
-    "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-    "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko",
-    "publishedAt": "2026-11-11T10:03:34.000Z"
-  },
-  {
-    "id": "8f76ea0999427606",
-    "title": "Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets",
-    "summary": "Iran-backed operatives have been charged over nearly 20 attacks, including a plot on a U.K. base housing U.S. troops. Separately, a U.S. soldier is held in the U.K. on Russia spying claims.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
-    "publishedAt": "2026-11-11T10:02:54.000Z"
-  },
-  {
-    "id": "10e84288463f16e0",
-    "title": "UK probes alleged Iran-backed plot against base hosting US forces",
-    "summary": "Two investigations in Britain raise security concerns: an alleged Iran-backed plot targeting a U.K. base hosting U.S. forces, and a U.S. soldier arrested on suspicion of spying for Russia.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/11/nx-s1-6036786/uk-probes-alleged-iran-backed-plot-against-base-hosting-us-forces",
-    "publishedAt": "2026-11-11T10:02:54.000Z"
-  },
-  {
-    "id": "37cc2d863ebf14d8",
-    "title": "Germany's military will stop using Chinese-made drones for training purposes",
-    "summary": "The German government says its military will stop using Chinese-made drones for training purposes and replace them with German or other European models.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/germanys-military-stop-chinese-made-drones-training-purposes-138038908",
-    "publishedAt": "2026-11-11T10:00:26.000Z"
   }
 ]
