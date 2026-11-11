@@ -1,5 +1,158 @@
 [
   {
+    "id": "a93f4fde5beed18f",
+    "title": "British man who died in Kraków shooting named as James Campbell",
+    "summary": "Campbell, 32, from Prestwick, South Ayrshire, was one of six people killed in the 7 November attack in Polish city.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/11/british-man-died-krakow-shooting-named-james-campbell",
+    "publishedAt": "2026-11-11T14:13:54.000Z"
+  },
+  {
+    "id": "369eb6341cf5b9fc",
+    "title": "Andy Burnham says government will unveil 10-year plan by mid-December",
+    "summary": "Prime minister tells Kemi Badenoch at PMQs that flagship strategy will be revealed before Commons Christmas recess.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/11/andy-burnham-says-government-will-unveil-10-year-plan-by-mid-december",
+    "publishedAt": "2026-11-11T14:12:14.000Z"
+  },
+  {
+    "id": "887325dee5283142",
+    "title": "Toby Jones stars in film about UK Mars mission",
+    "summary": "Mackenzie Crook directs the story of the British professor whose probe lost contact upon touchdown.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqm2l304w0x9o",
+    "publishedAt": "2026-11-11T14:10:11.000Z"
+  },
+  {
+    "id": "335e45d81e0a6603",
+    "title": "Spain sees widespread disruption in first general strike for 14 years",
+    "summary": "Protests were expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
+    "publishedAt": "2026-11-11T14:06:27.000Z"
+  },
+  {
+    "id": "641fcc7a995b1b78",
+    "title": "As Gaza floods subside, Palestinians assess human and material damage",
+    "summary": "A deadly sandbank collapse buried families alive in Deir el-Balah, as survivors describe desperate rescue attempts.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/11/as-gaza-flood-waters-subside-palestinians-assess-human-and-material-damage?traffic_source=rss",
+    "publishedAt": "2026-11-11T14:04:17.000Z"
+  },
+  {
+    "id": "ef9e27d31c2b408b",
+    "title": "Killing of journalist underscores deteriorating conditions in Ecuador",
+    "summary": "Tomás Beltrán was shot dead amid gang warfare that has turned Latin American country into one of its most violent.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing",
+    "publishedAt": "2026-11-11T14:00:52.000Z"
+  },
+  {
+    "id": "2c37c0bebae462ef",
+    "title": "First Covid lockdowns, then alcohol to your door: rise in young Victorians with liver diseases prompts fears",
+    "summary": "While young people are drinking less across the board, one expert says a small minority are actually drinking huge and damaging amounts of alcohol.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/12/first-covid-lockdowns-then-alcohol-to-your-door-rise-in-young-victorians-with-liver-diseases-prompts-fears",
+    "publishedAt": "2026-11-11T14:00:51.000Z"
+  },
+  {
+    "id": "e131cecd72b6e711",
+    "title": "‘We were quite surprised’: Finland’s embassy goes viral with staff training day post on Instagram",
+    "summary": "After a promotion for a ‘Finnish Dinner Date’ went ‘a bit viral’, the Canberra envoy’s next post became an unlikely social media hit.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/11/we-were-quite-surprised-finlands-embassy-goes-viral-with-staff-training-day-post-on-instagram",
+    "publishedAt": "2026-11-11T14:00:50.000Z"
+  },
+  {
+    "id": "c4dd5381cd780abb",
+    "title": "Anthony Albanese fails to mention fossil fuels in Cop summit speech",
+    "summary": "Australian PM boasts of success in renewables but is criticised for not addressing the nation’s huge coal industry.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/11/anthony-albanese-avoids-mention-of-fossil-fuels-in-cop-summit-speech",
+    "publishedAt": "2026-11-11T13:57:22.000Z"
+  },
+  {
+    "id": "5b7fd783a9522989",
+    "title": "Why is Pochettino the favourite to replace Carrick at Manchester United?",
+    "summary": "What would Mauricio Pochettino bring to the job if he replaces Michael Carrick in the Old Trafford hot seat?",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/11/why-is-pochettino-the-favourite-to-replace-carrick-at-manchester-united?traffic_source=rss",
+    "publishedAt": "2026-11-11T13:56:53.000Z"
+  },
+  {
+    "id": "24a1e9f2a98dfe53",
+    "title": "Millions join Spain’s first general strike in 14 years in protest at rising housing costs",
+    "summary": "The 24-hour stoppage has drawn high participation across sectors and comes weeks before election in which far right could gain power.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
+    "publishedAt": "2026-11-11T13:54:36.000Z"
+  },
+  {
+    "id": "70ce5cacaf27f5a1",
+    "title": "Nigerian court orders journalist kept in custody, renewing concerns over freedom",
+    "summary": "A decision by a court in Nigeria to keep investigative journalist Daniel Ojukwu in custody has sparked renewed concerns about media freedom.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/nigerian-court-orders-journalist-custody-report-renewing-concerns-138043178",
+    "publishedAt": "2026-11-11T13:44:05.000Z"
+  },
+  {
+    "id": "fa5d81a8b340172d",
+    "title": "Air traffic control boss says he was ‘most disliked person in the UK’ after flight chaos",
+    "summary": "Nats chief says he ‘quite enjoyed’ ignoring calls from Ryanair CEO to quit over system outages in September.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/11/air-traffic-control-nats-martin-rolfe-outages-ryanair",
+    "publishedAt": "2026-11-11T13:35:52.000Z"
+  },
+  {
+    "id": "cce1b97e6c1a467c",
+    "title": "Diesel still costing close to a ’dismal’ £2 a litre despite oil price falls",
+    "summary": "Pump prices stay stubbornly high as leading bank official warns energy costs are likely to remain ‘elevated’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/11/diesel-prices-petrol-business-oil-hormuz",
+    "publishedAt": "2026-11-11T13:30:27.000Z"
+  },
+  {
+    "id": "9f60abedf723abed",
+    "title": "Austria tightens laws against spying to protect the international organizations it hosts",
+    "summary": "Austria has launched plans to tighten its espionage laws, which currently only ban spying against Austria itself.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/austria-tightens-laws-spying-protect-international-organizations-hosts-138042201",
+    "publishedAt": "2026-11-11T13:30:27.000Z"
+  },
+  {
+    "id": "16acc59220e3ab2f",
+    "title": "Russia and Ukraine agree to a large exchange of prisoners of war, officials say",
+    "summary": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+    "publishedAt": "2026-11-11T13:30:00.000Z"
+  },
+  {
+    "id": "2378adacf44fb56b",
+    "title": "At least 300 schools evacuated in Italy after email bomb alerts",
+    "summary": "Italian PM Meloni says there is no danger as UK and Northern Ireland authorities also report 'bogus' alerts.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss",
+    "publishedAt": "2026-11-11T13:18:36.000Z"
+  },
+  {
     "id": "4bcf9cb4f996bb96",
     "title": "Four grizzly bears killed in Canada after fatal attack on mum and daughter",
     "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
@@ -7,6 +160,33 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo",
     "publishedAt": "2026-11-11T13:17:34.000Z"
+  },
+  {
+    "id": "3970882a984ae815",
+    "title": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
+    "summary": "The talks in the UAE capital were the first ⁠between the two warring sides since February.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss",
+    "publishedAt": "2026-11-11T13:16:30.000Z"
+  },
+  {
+    "id": "9ac47fc2bd3701f9",
+    "title": "Nissan reduces petrol car production as EV sales boom in China",
+    "summary": "Manufacturer says ‘shift to new energy vehicles is happening faster than expected’ and market is harsh.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china",
+    "publishedAt": "2026-11-11T13:11:58.000Z"
+  },
+  {
+    "id": "c9fecbb19afab63c",
+    "title": "Molecular signal in blood helps detect early risk for ovarian cancer, study finds",
+    "summary": "Researchers discover a potential diagnostic breakthrough for a disease often ⁠discovered after it has already spread.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/11/ovarian-cancer-study-early-detection-blood",
+    "publishedAt": "2026-11-11T13:05:57.000Z"
   },
   {
     "id": "09ebfa7e4234c2e1",
@@ -963,6 +1143,15 @@
     "publishedAt": "2026-11-11T02:47:59.000Z"
   },
   {
+    "id": "4d00bca1032131c2",
+    "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+    "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro",
+    "publishedAt": "2026-11-11T02:41:16.000Z"
+  },
+  {
     "id": "f6d4528a4d9ec551",
     "title": "Two white students at University of Mississippi make monkey gestures in Ring video",
     "summary": "Women are reportedly upstairs neighbors of three Black students, including one who uploaded video to TikTok.",
@@ -1159,194 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o",
     "publishedAt": "2026-11-11T00:16:44.000Z"
-  },
-  {
-    "id": "b9c0719774360ef5",
-    "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
-    "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko",
-    "publishedAt": "2026-11-11T00:02:07.000Z"
-  },
-  {
-    "id": "a3ea32f0930462f5",
-    "title": "‘No one is in charge’: social care system in England in chaos, Louise Casey to say",
-    "summary": "Head of major review into adult social care will say that governments have been ‘asleep at the wheel’ of vital system.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/11/louise-casey-england-social-care-system",
-    "publishedAt": "2026-11-11T00:01:23.000Z"
-  },
-  {
-    "id": "ba2c982f0c8e7f5d",
-    "title": "Disabled people in England ‘have to wait up to two years for wheelchairs’",
-    "summary": "Ombudsman’s report says delays have profound consequences and limit users’ ability to lead independent lives.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/11/disabled-people-in-england-have-to-wait-up-to-two-years-for-wheelchairs",
-    "publishedAt": "2026-11-11T00:01:23.000Z"
-  },
-  {
-    "id": "fc1a063d03dbed1d",
-    "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
-    "summary": "Thinktank Niesr says timid rate rise last week likely to make inflation more persistent feature of UK economy.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
-    "publishedAt": "2026-11-11T00:01:23.000Z"
-  },
-  {
-    "id": "2b4bece985463fee",
-    "title": "Maybe it’s a new tagline. Maybe it’s more punctuation. Maybelline’s 35-year-old slogan has an update",
-    "summary": "First introduced in 1991, ‘Maybe she’s born with it’ is out the door – but is the new slogan a glow-up?",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/nov/11/maybelline-new-tagline-maybe-quote-slogan-new-update",
-    "publishedAt": "2026-11-10T23:40:42.000Z"
-  },
-  {
-    "id": "b576f5730f2a943e",
-    "title": "Fire contained on platform in Iran’s South Pars gas field",
-    "summary": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
-    "publishedAt": "2026-11-10T23:38:02.000Z"
-  },
-  {
-    "id": "f52aa4165c948dac",
-    "title": "French far-right author Zemmour launches second presidential bid",
-    "summary": "Zemmour seeks to expel 'foreign unemployed people' after last month's violent protests.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
-    "publishedAt": "2026-11-10T23:23:12.000Z"
-  },
-  {
-    "id": "62e590857f05f895",
-    "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
-    "summary": "Trump ally, accused of an array of illegal acts, had earlier condemned impeachment push as ‘a farce and a stunt’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
-    "publishedAt": "2026-11-10T23:08:57.000Z"
-  },
-  {
-    "id": "5356250cf3a0dcba",
-    "title": "US justice department sues Lyft over alleged refusal to serve passengers with disabilities",
-    "summary": "Lawsuit filed in California claims drivers routinely refuse to transport individuals with service animals or mobility devices.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/10/doj-lyft-discrimination-disability-lawsuit",
-    "publishedAt": "2026-11-10T22:45:42.000Z"
-  },
-  {
-    "id": "f19028c7366b0364",
-    "title": "Russia expels Moldovan diplomat in tit-for-tat move",
-    "summary": "Relations between Moscow and Chisinau have worsened since Russia's full-scale invasion of Ukraine in 2022.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
-    "publishedAt": "2026-11-10T22:41:07.000Z"
-  },
-  {
-    "id": "a0a5f902d6ab5410",
-    "title": "US House begins vote on motion to advance impeachment of Pete Hegseth",
-    "summary": "Defence Secretary has been accused of spearheading war on Iran without required congressional approval.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
-    "publishedAt": "2026-11-10T22:36:14.000Z"
-  },
-  {
-    "id": "32a880d3165a7e96",
-    "title": "Bernie Sanders says he will not back Schumer for Senate Democratic leader",
-    "summary": "Progressive senator says ‘I like Chuck … but the time is now for change’ as calls grow for new Democratic leadership.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats",
-    "publishedAt": "2026-11-10T22:16:32.000Z"
-  },
-  {
-    "id": "3a6523e380129f36",
-    "title": "Savers urged to check interest rates on accounts as Macquarie admits failings",
-    "summary": "Macquarie Bank has admitted to failures in the promotion of its \"welcome\" interest rate for new savings account customers.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-11/asic-sues-macquarie-for-savings-rates-failures/107371760",
-    "publishedAt": "2026-11-10T22:16:06.000Z"
-  },
-  {
-    "id": "c51098760953be81",
-    "title": "Dominican president says he backs Bukele and Salvadoran troops in Haiti",
-    "summary": "The president of the Dominican Republic says his government is collaborating with El Salvador’s president and providing him with logistics and intelligence as some 2,500 troops from the Central American country battle violent gangs in Haiti.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/dominican-president-backs-bukele-salvadoran-troops-haiti-138027231",
-    "publishedAt": "2026-11-10T22:12:51.000Z"
-  },
-  {
-    "id": "f091d0b7fce2957b",
-    "title": "UNIFIL patrol comes under fire in southern Lebanon",
-    "summary": "UNIFIL said on Tuesday that 'about a dozen rounds' were fired at one of its patrols, without identifying the assailants.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
-    "publishedAt": "2026-11-10T22:03:50.000Z"
-  },
-  {
-    "id": "e61ff03e9da10e86",
-    "title": "US poll shows death penalty lost majority support for first time since 1971",
-    "summary": "Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
-    "publishedAt": "2026-11-10T22:03:20.000Z"
-  },
-  {
-    "id": "268485ea037a8b72",
-    "title": "US prosecutors charge Iranian operative allegedly responsible for UK air force base attack",
-    "summary": "New indictment claims Mohammad Dawood al-Saadi, a dual Iranian and Iraqi national, plotted while in US custody.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
-    "publishedAt": "2026-11-10T21:57:57.000Z"
-  },
-  {
-    "id": "c89268657c7aa2e2",
-    "title": "IBM’s biggest division ends most US foreign worker sponsorships",
-    "summary": "Announcement follows Trump administration crackdown on visa programmes for skilled foreign workers.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships?traffic_source=rss",
-    "publishedAt": "2026-11-10T21:55:49.000Z"
-  },
-  {
-    "id": "3fdb0ebceea9e7b8",
-    "title": "4 grizzly bears linked by DNA to deadly attack on mother and daughter in Canada",
-    "summary": "Canadian wildlife officials say four grizzly bears captured in western Canada were responsible for killing a mother and her adult daughter earlier this month in what investigators believe was a rare predatory attack.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/4-grizzly-bears-linked-dna-deadly-attack-mother-138026387",
-    "publishedAt": "2026-11-10T21:36:04.000Z"
-  },
-  {
-    "id": "faea3f5a1a739bdc",
-    "title": "Law on 'holiday hunger' passed by Stormont assembly",
-    "summary": "A majority of 49 to 24 assembly members backed the legislation, which was proposed by Sinn Féin's Danny Baker and welcomed by some parents and charities.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo",
-    "publishedAt": "2026-11-10T21:24:06.000Z"
-  },
-  {
-    "id": "fbc14e5f6ea51acf",
-    "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-    "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-    "publishedAt": "2026-11-10T21:22:36.000Z"
   }
 ]
