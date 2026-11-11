@@ -1,5 +1,122 @@
 [
   {
+    "id": "72a49903c059f579",
+    "title": "Morgan McSweeney calls for rethink of cabinet ministers’ ‘quasi-judicial’ powers",
+    "summary": "Keir Starmer’s former chief of staff also says the ‘thicket of rules’ about how PMs operate should be cleared away.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/11/morgan-mcsweeney-calls-for-rethink-of-cabinet-ministers-quasi-judicial-powers",
+    "publishedAt": "2026-11-11T16:12:11.000Z"
+  },
+  {
+    "id": "e9dd6f9958cd5eda",
+    "title": "Argentine lawyer mocks UK’s sovereignty claim in Falklands oil case",
+    "summary": "Lawyer says Britain wrong to believe in historic doctrine that Crown has sovereignty over parts of oceans.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
+    "publishedAt": "2026-11-11T16:05:45.000Z"
+  },
+  {
+    "id": "84b1df9f9fbd1919",
+    "title": "Labour MPs warn against weakening electric vehicle targets ahead of crunch talks",
+    "summary": "Exclusive: Cutting 2030 goal would be a ‘step backwards’, say MPs, as ministers clash over proposed reductions.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/11/labour-mps-electric-vehicle-targets",
+    "publishedAt": "2026-11-11T16:01:41.000Z"
+  },
+  {
+    "id": "a990b2e2c5db2c84",
+    "title": "BMI alternative for identifying obesity ‘could prevent misdiagnosis in millions’",
+    "summary": "Combining body mass index with other measurements and tests would lead to better care and outcomes, experts say.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index",
+    "publishedAt": "2026-11-11T16:00:53.000Z"
+  },
+  {
+    "id": "c4e53680b808884a",
+    "title": "Hoax bomb threats made to hundreds of schools in Scotland and Northern Ireland",
+    "summary": "Police assure parents and teachers that warnings were bogus despite pupils being evacuated from some sites.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/education/2026/nov/11/bomb-threats-hoax-schools-scotland-northern-ireland",
+    "publishedAt": "2026-11-11T15:58:39.000Z"
+  },
+  {
+    "id": "1f115a320e91a91f",
+    "title": "The space rocket I could have been aboard explodes: Rhiannon Adam’s best photograph",
+    "summary": "‘I was chosen to go around the Moon on a SpaceX starship. Preparations took over my life.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/artanddesign/2026/nov/11/space-rocket-explodes-rhiannon-adam-best-photograph-spacex-moon",
+    "publishedAt": "2026-11-11T15:53:17.000Z"
+  },
+  {
+    "id": "e2eacfb4413917f7",
+    "title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
+    "summary": "Lebanese wheat production hit by war as farmlands face severe destruction in the south and Bekaa Valley.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss",
+    "publishedAt": "2026-11-11T15:48:39.000Z"
+  },
+  {
+    "id": "7ba3efb1a1461632",
+    "title": "Russia bans two French lawmakers, two journalists in tit-for-tat move",
+    "summary": "Kremlin spokeswoman says ban responds to the expulsion of a Russian commentator who used to head RT France.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move?traffic_source=rss",
+    "publishedAt": "2026-11-11T15:47:37.000Z"
+  },
+  {
+    "id": "263f7a45ce67c612",
+    "title": "Is the US blue wave a turning point for Europe, too?",
+    "summary": "Far-right populists remain insurgent and pro-EU governments are braced for Trump’s betrayal. But the midterms also showed that democracy can fight back.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too",
+    "publishedAt": "2026-11-11T15:40:52.000Z"
+  },
+  {
+    "id": "56a7ce14571d651a",
+    "title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
+    "summary": "The government is defiant and planning for the worst, but a US siege is expected to make most Iranians poorer.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
+    "publishedAt": "2026-11-11T15:40:17.000Z"
+  },
+  {
+    "id": "1f6edcee47c9c552",
+    "title": "Kenya discharges last Ebola patient, awaits disease-free status",
+    "summary": "Health Minister Aden Duale says Kenya will continue to exercise prevention measures until December 23.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/kenya-discharges-last-ebola-patient?traffic_source=rss",
+    "publishedAt": "2026-11-11T15:34:00.000Z"
+  },
+  {
+    "id": "094084ceb095512f",
+    "title": "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?",
+    "summary": "A deliberate expansion of Iran’s campaign of retaliation beyond the Middle East could be taking place, said an expert.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil?traffic_source=rss",
+    "publishedAt": "2026-11-11T15:33:38.000Z"
+  },
+  {
+    "id": "28c69088cff55802",
+    "title": "Inside the fight against Denmark’s ‘straight up racist’ housing law",
+    "summary": "Residents say Denmark’s ‘ghetto law’ is breaking up strong communities, as the Supreme Court prepares to rule.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/11/they-see-me-as-non-western-top-court-to-rule-on-denmarks-housing-law?traffic_source=rss",
+    "publishedAt": "2026-11-11T15:15:10.000Z"
+  },
+  {
     "id": "fb88eb6e8efe563f",
     "title": "David Walliams cameo cut from Australian film after sexual harassment allegations",
     "summary": "Children’s author and comedian, who wrote the book on which the movie Fing! is based, will also be removed from the publicity tour.",
@@ -16,6 +133,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/music/2026/nov/11/coachella-lineup-2027-dua-lipa",
     "publishedAt": "2026-11-11T15:07:38.000Z"
+  },
+  {
+    "id": "05e4e3eb6e07e426",
+    "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+    "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o",
+    "publishedAt": "2026-11-11T15:05:11.000Z"
   },
   {
     "id": "f3fccc6147cd9e23",
@@ -529,6 +655,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
     "publishedAt": "2026-11-11T11:49:12.000Z"
+  },
+  {
+    "id": "5fd791b2b236e9ce",
+    "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
+    "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo",
+    "publishedAt": "2026-11-11T11:47:22.000Z"
   },
   {
     "id": "ebc3e5fcbca76a78",
@@ -1213,140 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/malaysian-high-court-clears-final-hurdle-former-prime-138005201",
     "publishedAt": "2026-11-11T03:30:20.000Z"
-  },
-  {
-    "id": "a3123473338da200",
-    "title": "Kennedy family joins US lawsuits to block Trump’s ‘unlawful’ arch plan",
-    "summary": "Kennedy dynasty has filed a motion to stop Trump's arch from obscuring JFK Eternal Flame and family gravesites.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/kennedy-family-joins-us-lawsuits-to-block-trumps-unlawful-arch-plan?traffic_source=rss",
-    "publishedAt": "2026-11-11T03:21:40.000Z"
-  },
-  {
-    "id": "a811fef19efc2984",
-    "title": "Labor won’t scrap ABC and SBS ombudsmen in favour of external body as suggested by antisemitism envoy",
-    "summary": "Exclusive : Jillian Segal suggested ‘transferring’ powers in updated report released a fortnight ago but government sources note media regulator already exists.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/11/labor-abc-sbs-ombudsmen-antisemitism-envoy-gaza-coverage-ntwnfb",
-    "publishedAt": "2026-11-11T03:10:37.000Z"
-  },
-  {
-    "id": "6246c6933abec87f",
-    "title": "Underworld figure Mick Gatto gave CFEMU official gold bracelet after construction site assault, Big Build royal commission told",
-    "summary": "Former CFMEU official Paul Tzimas tells inquiry he suffered fractured ankle and a colleague was left with major injuries and severe PTSD.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/11/mick-gatto-cfmeu-big-build-royal-commission-ntwnfb",
-    "publishedAt": "2026-11-11T03:07:14.000Z"
-  },
-  {
-    "id": "b3c8cae225aaefa8",
-    "title": "Foo Fighters interrupt Sydney concert to pay tribute to Beaconsfield miner Todd Russell",
-    "summary": "Dave Grohl tells Sydney crowd Russell, whose death was announced this week, was a ‘big’ hero of his.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/11/foo-fighters-dave-grohl-sydney-concert-tribute-beaconsfield-miner-todd-russell",
-    "publishedAt": "2026-11-11T03:03:24.000Z"
-  },
-  {
-    "id": "baf91874cb862d94",
-    "title": "Aussie filmmakers left scrambling amid David Walliams allegations",
-    "summary": "Amid grooming accusations, David Walliams has been scrubbed from the upcoming movie, Fing!, which was filmed in Queensland and based on his 2019 children's book.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-11/david-walliams-movie-fing-transmission-cuts-cameo/107372206",
-    "publishedAt": "2026-11-11T03:00:34.000Z"
-  },
-  {
-    "id": "c1999501005847ee",
-    "title": "GOP-led House report slams systemic failures in handling of Epstein case",
-    "summary": "Decades of preferential treatment shielded Epstein and his associates, GOP-led report finds.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/gop-led-house-report-slams-systemic-failures-in-handling-of-epstein-case?traffic_source=rss",
-    "publishedAt": "2026-11-11T02:58:26.000Z"
-  },
-  {
-    "id": "5af1a32e3034abeb",
-    "title": "Rising Tide banned from using council land for protests at world’s largest coal port in Newcastle",
-    "summary": "NSW premier Chris Minns warned council would be complicit in any ‘illegal activities that occur at these protests’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/11/rising-tide-climate-protests-banned-chris-minns-newcastle-council-ntwnfb",
-    "publishedAt": "2026-11-11T02:55:05.000Z"
-  },
-  {
-    "id": "44e9141710192071",
-    "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-    "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo",
-    "publishedAt": "2026-11-11T02:47:59.000Z"
-  },
-  {
-    "id": "4d00bca1032131c2",
-    "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-    "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro",
-    "publishedAt": "2026-11-11T02:41:16.000Z"
-  },
-  {
-    "id": "f6d4528a4d9ec551",
-    "title": "Two white students at University of Mississippi make monkey gestures in Ring video",
-    "summary": "Women are reportedly upstairs neighbors of three Black students, including one who uploaded video to TikTok.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/university-of-mississippi-white-students-monkey-gestures",
-    "publishedAt": "2026-11-11T02:26:10.000Z"
-  },
-  {
-    "id": "2e5dbf4bfb2cb598",
-    "title": "Stacy Keach, Mike Hammer actor whose career spanned stage and screen, dies aged 85",
-    "summary": "The US actor died in Poland on Tuesday, ‘after a long and difficult battle with a serious heart condition and heart failure’, his wife said.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/11/stacy-keach-mike-hammer-actor-death-aged-85",
-    "publishedAt": "2026-11-11T02:23:21.000Z"
-  },
-  {
-    "id": "8e882e4174852fb5",
-    "title": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
-    "summary": "Lebanese authorities launch a 'murder' investigation after al-Alwani's body is found in an apartment in Beirut.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss",
-    "publishedAt": "2026-11-11T02:07:15.000Z"
-  },
-  {
-    "id": "550ebaa80a45c3f1",
-    "title": "Nima Momeni sentenced to 16 years to life in murder of Cash App founder Bob Lee",
-    "summary": "Tech consultant convicted of second-degree murder in 2023 stabbing death of Cash App founder.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/bob-lee-cash-app-nima-momeni-sentenced",
-    "publishedAt": "2026-11-11T01:53:38.000Z"
-  },
-  {
-    "id": "145a77caf8dda619",
-    "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
-    "summary": "The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
-    "publishedAt": "2026-11-11T01:44:21.000Z"
-  },
-  {
-    "id": "58c1501be82c2a7d",
-    "title": "Macquarie Bank to pay $14m penalty after confusing ‘welcome rate’ promotion",
-    "summary": "Asic says customers should not have to check every transaction to ensure they receive the correct interest.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/11/macquarie-bank-14m-penalty-welcome-rate-savings-account",
-    "publishedAt": "2026-11-11T01:23:39.000Z"
   }
 ]
