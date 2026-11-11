@@ -1,5 +1,167 @@
 [
   {
+    "id": "4bcf9cb4f996bb96",
+    "title": "Four grizzly bears killed in Canada after fatal attack on mum and daughter",
+    "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo",
+    "publishedAt": "2026-11-11T13:17:34.000Z"
+  },
+  {
+    "id": "09ebfa7e4234c2e1",
+    "title": "US could lose measles-free status soon as RFK Jr’s pushes anti-vaccine agenda",
+    "summary": "Country is in the middle of worst measles outbreak since 1991, with more than 5,400 cases nationally.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/11/measles-status-rfk-jr-anti-vaccine-agenda",
+    "publishedAt": "2026-11-11T13:00:49.000Z"
+  },
+  {
+    "id": "b1b4be5ea213edec",
+    "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+    "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o",
+    "publishedAt": "2026-11-11T12:53:11.000Z"
+  },
+  {
+    "id": "73ba1f4a367b046c",
+    "title": "What are cold weather payments and who can get them?",
+    "summary": "Some people in England, Wales and Northern Ireland can get help with heating costs during cold spells.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c87470q4w21o",
+    "publishedAt": "2026-11-11T12:49:31.000Z"
+  },
+  {
+    "id": "2479403c8a2526e8",
+    "title": "‘Climate crisis is outrunning us,’ UN chief Guterres says at COP31",
+    "summary": "Guterres says the world must fight harder, accuses the fossil fuel lobby of delaying climate action at critical talks.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31?traffic_source=rss",
+    "publishedAt": "2026-11-11T12:48:21.000Z"
+  },
+  {
+    "id": "6e2cb6eb04aaf39d",
+    "title": "Senior doctors call off two-day strike planned this month",
+    "summary": "Consultants in England were due to walk out on 25 November in disputes over pay and working conditions.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo",
+    "publishedAt": "2026-11-11T12:42:05.000Z"
+  },
+  {
+    "id": "7635ba664e7bfd4a",
+    "title": "Mbappe misses France training before Nations League clash with Italy",
+    "summary": "Kylian Mbappe left the pitch during France's game in September but has been playing regularly for Real Madrid.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/11/kylian-mbappe-france-training-italy-uefa-nations-league?traffic_source=rss",
+    "publishedAt": "2026-11-11T12:38:46.000Z"
+  },
+  {
+    "id": "781f282edaeb1269",
+    "title": "Some 300 Italian schools evacuated due to bomb threats",
+    "summary": "Italian authorities evacuated around 300 schools on Wednesday after receiving a bomb threat via email.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/300-italian-schools-evacuated-due-bomb-threats-138040834",
+    "publishedAt": "2026-11-11T12:36:18.000Z"
+  },
+  {
+    "id": "25e5a2a22a11f12f",
+    "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+    "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o",
+    "publishedAt": "2026-11-11T12:32:06.000Z"
+  },
+  {
+    "id": "fc8919446cdf5047",
+    "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
+    "summary": "Emails containing the false warnings were sent to schools in Rome, Naples, Vicenza, Florence, Pisa, Trieste and other Italian cities, officials say.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o",
+    "publishedAt": "2026-11-11T12:30:29.000Z"
+  },
+  {
+    "id": "f007e27d5ec18fa4",
+    "title": "African rights body raises alarm over treatment of Niger’s Mahamid Arabs",
+    "summary": "Rights commission appeals to Niger president over alleged abuses against Mahamid.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/african-rights-body-raises-alarm-over-treatment-of-nigers-mahamid-arabs?traffic_source=rss",
+    "publishedAt": "2026-11-11T12:23:44.000Z"
+  },
+  {
+    "id": "315746735b88799a",
+    "title": "US soldier arrested for Russia spying: What we know",
+    "summary": "A 41-year-old man has been arrested near Gloucester on suspicion of offences under the National Security Act.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/us-soldier-arrested-for-russia-spying-what-we-know?traffic_source=rss",
+    "publishedAt": "2026-11-11T12:23:22.000Z"
+  },
+  {
+    "id": "9d9f5b88df97de08",
+    "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
+    "summary": "Defense Secretary Pete Hegseth has been spared from the House's impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
+    "publishedAt": "2026-11-11T12:21:59.000Z"
+  },
+  {
+    "id": "9e88384bbb7dabf6",
+    "title": "ITV to cut costs by £30m amid falling advertising sales",
+    "summary": "Ad revenue slowdown forces company to reduce spending on content by £25m before inquiry into takeover by Sky.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/11/itv-cut-costs-falling-advertising-sales",
+    "publishedAt": "2026-11-11T12:13:57.000Z"
+  },
+  {
+    "id": "1ea385862a2fae8d",
+    "title": "What is northern Europe’s new drone and warship plan to counter Russia?",
+    "summary": "UK-led coalition of 10 Northern European nations announces joint defence framework amid rising threats from Moscow.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/whats-northern-europes-new-drones-and-warships-plan-to-counter-russia?traffic_source=rss",
+    "publishedAt": "2026-11-11T12:13:52.000Z"
+  },
+  {
+    "id": "3acbe89121a7ad9f",
+    "title": "Belgian plan for ICE-style immigration raids on homes criticised as ‘law of fear’",
+    "summary": "Rights groups oppose law that will let police forcibly enter homes to remove refused asylum seekers.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/11/belgium-ice-style-home-raids-immigration",
+    "publishedAt": "2026-11-11T12:13:37.000Z"
+  },
+  {
+    "id": "0c1d2e4d370e4d84",
+    "title": "‘I’d steal 10-15 times a day’: ex-offenders on the addictions driving prolific shoplifting",
+    "summary": "Former shoplifters say treatment and drug rehabilitation are essential to ending cycle of theft and imprisonment.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/11/drug-addiction-shoplifting-rehabilitation",
+    "publishedAt": "2026-11-11T12:10:24.000Z"
+  },
+  {
+    "id": "01eabd65288eb909",
+    "title": "Rights group raises concerns about jailed Dr Abu Safia amid strikes on Gaza",
+    "summary": "PHRI says the arbitrary detention of Gaza doctors violates individual rights and undermines healthcare system.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/rights-group-raises-concerns-about-jailed-dr-abu-safia-amid-strikes-on-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-11T12:05:51.000Z"
+  },
+  {
     "id": "e17a92b1cbc61c57",
     "title": "Pete Hegseth survives effort to impeach him | First Thing",
     "summary": "House Republicans block impeachment resolution that cited US military actions in Iran, Yemen and Venezuela. Plus, SS United States to be sunk to create artificial reef.",
@@ -79,6 +241,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/11/police-target-chronic-shoplifters-retail-crackdown-england-wales",
     "publishedAt": "2026-11-11T11:46:37.000Z"
+  },
+  {
+    "id": "daca68b5a7f5ac38",
+    "title": "Transport workers in Chile block highways in protest over surging fuel prices",
+    "summary": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o",
+    "publishedAt": "2026-11-11T11:34:50.000Z"
   },
   {
     "id": "49fd977ed9793125",
@@ -666,6 +837,15 @@
     "publishedAt": "2026-11-11T04:34:47.000Z"
   },
   {
+    "id": "cd5ee0a0d52917c8",
+    "title": "Strangers trade punches and chase thrills at Colombia’s pop-up fights",
+    "summary": "Santiago Abril has been organizing pop-up boxing matches in parks around Bogota, Colombia, without official permits.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/street-boxing-matches-gain-popularity-bogota-138023461",
+    "publishedAt": "2026-11-11T04:26:14.000Z"
+  },
+  {
     "id": "c77dbe115117484a",
     "title": "How grooming claims against David Walliams came to light",
     "summary": "A three-year investigation by UK media has unearthed accusations against high-profile UK celebrity David Walliams of grooming and sexual assault.",
@@ -1168,185 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
     "publishedAt": "2026-11-10T21:22:36.000Z"
-  },
-  {
-    "id": "70b57ef97c80babd",
-    "title": "First day of Ukraine peace talks constructive, Zelensky says",
-    "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
-    "publishedAt": "2026-11-10T21:21:55.000Z"
-  },
-  {
-    "id": "58c11c189828fd26",
-    "title": "Why does Australia want Brits to swap Sydney for the outback?",
-    "summary": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o",
-    "publishedAt": "2026-11-10T21:17:00.000Z"
-  },
-  {
-    "id": "1f5643d963b77074",
-    "title": "US charges three men over terror plots, including planned assault on UK airbase",
-    "summary": "Three men are charged by US authorities with plotting a \"campaign of terror\" of nearly 20 attacks targeting Jewish communities in Europe and the US and the British military base at RAF Fairford.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-11/us-charges-3-men-with-plotting-terror-attacks/107371492",
-    "publishedAt": "2026-11-10T21:10:35.000Z"
-  },
-  {
-    "id": "37e2ad9dac02382c",
-    "title": "Meghan Markle's father jailed for cutting off ankle monitor",
-    "summary": "A US judge orders Thomas Markle to go to jail after he allegedly cut off his ankle monitor, which was a condition of his bail after being charged over child sexual abuse material.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-11/thomas-markle-accused-of-cutting-off-ankle-monitor/107371466",
-    "publishedAt": "2026-11-10T21:02:41.000Z"
-  },
-  {
-    "id": "e2e75fdcf2d7f23a",
-    "title": "White House announces funds for law enforcement programme in several cities",
-    "summary": "Trump administration awarded more than $60m each to St Louis, Missouri, and Jackson, Mississippi, in crime push.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
-    "publishedAt": "2026-11-10T21:00:01.000Z"
-  },
-  {
-    "id": "4d00bca1032131c2",
-    "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
-    "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro",
-    "publishedAt": "2026-11-10T20:53:33.000Z"
-  },
-  {
-    "id": "27cf5b92e8425c23",
-    "title": "Spain's king and queen attend memorial service for rail crash victims",
-    "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo",
-    "publishedAt": "2026-11-10T20:46:40.000Z"
-  },
-  {
-    "id": "c85990e2dcad1612",
-    "title": "US soldier arrested in UK on suspicion of spying for Russia",
-    "summary": "London Metropolitan Police says its 'counterterror' forces worked closely with the FBI and US military to make arrest.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
-    "publishedAt": "2026-11-10T20:41:53.000Z"
-  },
-  {
-    "id": "da18ec92b03a66b7",
-    "title": "Damning report urges new investigations into Epstein associates",
-    "summary": "US politicians are calling for further investigations into Jeffrey Epstein's associates in a scathing report blaming prosecutors, financial institutions and powerful connections for allowing his abuse to continue.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-11/us-politicians-urge-new-epstein-investigations-in-damning-report/107371370",
-    "publishedAt": "2026-11-10T20:32:44.000Z"
-  },
-  {
-    "id": "7630802a768d077f",
-    "title": "Emmanuel and Brigitte Macron file new defamation lawsuit against Candace Owens",
-    "summary": "Legal battle escalates as far-right US podcaster continues to spread false claims that France’s first lady was born a man.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/10/emmanuel-brigitte-macron-defamation-lawsuit-candace-owens",
-    "publishedAt": "2026-11-10T20:28:47.000Z"
-  },
-  {
-    "id": "290c1b8b7e931734",
-    "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
-    "summary": "Salvadoran troops backed the police operation ahead of the Haitian prime minister’s visit to El Salvador.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
-    "publishedAt": "2026-11-10T20:22:21.000Z"
-  },
-  {
-    "id": "6ca42c0ed7d9d0ad",
-    "title": "FDA warns of rare eye condition causing blindness from GLP-1 weight loss medications",
-    "summary": "The federal agency is requiring all GLP-1s to include information about the potential risk on warning labels.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/fda-glp-1-weight-loss-blindness-risk",
-    "publishedAt": "2026-11-10T20:18:14.000Z"
-  },
-  {
-    "id": "599182ceb8d5600b",
-    "title": "F1 champion Lewis Hamilton visits Gaza border",
-    "summary": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
-    "publishedAt": "2026-11-10T20:14:34.000Z"
-  },
-  {
-    "id": "49bafff93b608e49",
-    "title": "Thomas Markle, father of Meghan, cut off his ankle monitor, DoJ says",
-    "summary": "Estranged father of Duchess of Sussex was arrested for keeping child sexual abuse material in storage units in California.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
-    "publishedAt": "2026-11-10T20:08:10.000Z"
-  },
-  {
-    "id": "4d72459b2cefbd69",
-    "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
-    "summary": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
-    "publishedAt": "2026-11-10T20:07:01.000Z"
-  },
-  {
-    "id": "4a5484128e653676",
-    "title": "South Road scandal to become subject of parliamentary inquiry",
-    "summary": "The Malinauskas government's handling of alleged bikie infiltration into the $15.4 billion Torrens to Darlington project is set to face more scrutiny.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-11/t2d-scandal-to-become-subject-of-parliamentary-inquiry/107368122",
-    "publishedAt": "2026-11-10T20:05:02.000Z"
-  },
-  {
-    "id": "f5f2ae55de09ab44",
-    "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-    "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
-    "publishedAt": "2026-11-10T20:03:41.000Z"
-  },
-  {
-    "id": "6af5a86cb035ac4b",
-    "title": "UK counter-terrorism police arrest senior US soldier with alleged links to Russia",
-    "summary": "Man, 41, arrested near Gloucester by police working with US authorities in investigation involving ‘allegations of espionage’, according to FBI director.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
-    "publishedAt": "2026-11-10T20:03:28.000Z"
-  },
-  {
-    "id": "4ba68be2318560d0",
-    "title": "French police raid Ritz hotel in Mohamed Al Fayed sexual abuse investigation",
-    "summary": "Arrests made after three properties were searched in relation to inquiry into late businessman.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/10/french-police-raid-ritz-hotel-in-mohamed-al-fayed-sexual-abuse-investigation",
-    "publishedAt": "2026-11-10T20:00:43.000Z"
-  },
-  {
-    "id": "cdddfddffbced3e2",
-    "title": "Trump administration seeks to cut food aid for more than six million people",
-    "summary": "Trump’s proposal builds on earlier cuts to federal food aid programme used by more than 36 million low-income Americans.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/trump-administration-seeks-to-cut-food-aid-for-more-than-six-million-people?traffic_source=rss",
-    "publishedAt": "2026-11-10T20:00:18.000Z"
   }
 ]
