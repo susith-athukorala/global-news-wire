@@ -1,5 +1,104 @@
 [
   {
+    "id": "7ff29ca18725dd5c",
+    "title": "All Kemi had at PMQs was jokes … and unfunny jokes at that | John Crace",
+    "summary": "Even her own MPs were stony-faced as the Tory leader ran though her set list of gags from the budget to Russell Brand.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/11/kemi-badenoch-pmqs-unfunny-jokes",
+    "publishedAt": "2026-11-11T17:04:37.000Z"
+  },
+  {
+    "id": "9d59dd53a91be065",
+    "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
+    "summary": "US envoys to visit Moscow and Dublin on Thursday for talks with Vladimir Putin and Volodymyr Zelenskyy respectively.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
+    "publishedAt": "2026-11-11T17:03:43.000Z"
+  },
+  {
+    "id": "f979a9a328c0f173",
+    "title": "Islamic State group-affiliated rebels kill at least 22 in Congo's eastern region",
+    "summary": "A rebel group affiliated with the Islamic State group has killed at least 22 people in Congo's eastern Ituri province.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/islamic-state-group-affiliated-rebels-kill-22-congos-138049699",
+    "publishedAt": "2026-11-11T17:01:01.000Z"
+  },
+  {
+    "id": "3fd73a3a9e14d556",
+    "title": "Senior Reform UK official quits as questions over vetting failures continue",
+    "summary": "Departure of Tom Waterhouse, Reform’s ‘latest fall guy’, will be blow to party amid push towards professionalisation.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/11/senior-reform-uk-official-tom-waterhouse-quits-questions-vetting-failures-continue",
+    "publishedAt": "2026-11-11T16:57:53.000Z"
+  },
+  {
+    "id": "cbf76496af5df4bb",
+    "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts",
+    "summary": "White House warns Democratic pledges to investigate president ‘may cross line into blatant criminality’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/11/democrat-investigation-white-house-letter-garcia",
+    "publishedAt": "2026-11-11T16:54:36.000Z"
+  },
+  {
+    "id": "48cbc287b0c9ca61",
+    "title": "Israeli army kills Palestinian footballer Mahmoud Kamal Abdel-Malek in Gaza",
+    "summary": "Abdel-Malek, the captain and goalkeeper of Gaza Sports Club, recently played in the Thousand Martyrs Cup final.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/11/israeli-army-kills-palestinian-footballer-mahmoud-kamal-abdel-malek-in-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-11T16:48:48.000Z"
+  },
+  {
+    "id": "1204222903564835",
+    "title": "Marco Rubio spent over $1.2m of taxpayer money traveling to son’s football games",
+    "summary": "Ethics watchdogs question necessity of the US secretary of state flying between DC and Gainesville so often.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/11/marco-rubio-travel-costs-university-florida-football",
+    "publishedAt": "2026-11-11T16:47:41.000Z"
+  },
+  {
+    "id": "202ef3396d79e953",
+    "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+    "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o",
+    "publishedAt": "2026-11-11T16:45:11.000Z"
+  },
+  {
+    "id": "f57f8322ed7afed7",
+    "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+    "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
+    "publishedAt": "2026-11-11T16:38:07.000Z"
+  },
+  {
+    "id": "4374ccda9708c13c",
+    "title": "Democrats lambast absent peers allowing Republicans to squash Hegseth impeachment attempt",
+    "summary": "Eleven Democrats missed the key procedural vote on the impeachment effort, which failed by just seven votes.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/11/democrats-hegseth-impeachment-vote",
+    "publishedAt": "2026-11-11T16:34:02.000Z"
+  },
+  {
+    "id": "06dbca5b3b1c3d3b",
+    "title": "‘It’s just too expensive’: Housing and wages at the heart of Spain’s strike",
+    "summary": "Mass walkout across several cities marks first general strike in 14 years.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/its-just-too-expensive-housing-and-wages-at-the-heart-of-spains-strike?traffic_source=rss",
+    "publishedAt": "2026-11-11T16:20:13.000Z"
+  },
+  {
     "id": "72a49903c059f579",
     "title": "Morgan McSweeney calls for rethink of cabinet ministers’ ‘quasi-judicial’ powers",
     "summary": "Keir Starmer’s former chief of staff also says the ‘thicket of rules’ about how PMs operate should be cleared away.",
@@ -538,6 +637,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
     "publishedAt": "2026-11-11T12:21:59.000Z"
+  },
+  {
+    "id": "44e9141710192071",
+    "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+    "summary": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo",
+    "publishedAt": "2026-11-11T12:14:12.000Z"
   },
   {
     "id": "9e88384bbb7dabf6",
@@ -1240,113 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words?traffic_source=rss",
     "publishedAt": "2026-11-11T05:16:57.000Z"
-  },
-  {
-    "id": "2eab93aff5e263a9",
-    "title": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
-    "summary": "Charities warn of lack of protection amid health fears for more than 940,000 displaced people living in flood-prone areas.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
-    "publishedAt": "2026-11-11T05:00:32.000Z"
-  },
-  {
-    "id": "54914aeaa4eddf09",
-    "title": "Thousands of rare wildflowers rescued from eroding Scottish coast",
-    "summary": "Conservationists relocate 3,400 one-flowered wintergreens, a species estimated to have lost more than half its UK population in the past 50 years.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/11/one-flowered-wintergreen-rescue-eroding-coast-scotland",
-    "publishedAt": "2026-11-11T05:00:32.000Z"
-  },
-  {
-    "id": "06a09136c46a3512",
-    "title": "Fresh concerns raised over Gaza doctor held by Israel for 23 months without charge",
-    "summary": "Independent Israeli professor says Hussam Abu Safiya’s life will be at risk until he receives proper medical treatment.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/11/fresh-concerns-over-gaza-doctor-held-by-israel",
-    "publishedAt": "2026-11-11T05:00:29.000Z"
-  },
-  {
-    "id": "a335541aa4ff5a28",
-    "title": "Youpla directors disqualified over collapsed funeral fund that targeted Aboriginal families",
-    "summary": "Three directors were fined a combined $90,000 in federal court judgment and disqualified from managing a corporation for between five and 10 years.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/11/youpla-directors-disqualified-over-collapsed-funeral-fund-that-targeted-aboriginal-families-ntwnfb",
-    "publishedAt": "2026-11-11T04:55:28.000Z"
-  },
-  {
-    "id": "5af8dc7177f58531",
-    "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
-    "summary": "Authorities struggling to contain DRC's largest Ebola outbreak due to delayed detection and conflict.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss",
-    "publishedAt": "2026-11-11T04:44:18.000Z"
-  },
-  {
-    "id": "ba2e02794cff07d4",
-    "title": "Russia claims interception of 146 drones in Leningrad region",
-    "summary": "Attacks also reported in the Russian-occupied Donbas region of Ukraine as US-mediated talks continue in Abu Dhabi.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss",
-    "publishedAt": "2026-11-11T04:34:47.000Z"
-  },
-  {
-    "id": "cd5ee0a0d52917c8",
-    "title": "Strangers trade punches and chase thrills at Colombia’s pop-up fights",
-    "summary": "Santiago Abril has been organizing pop-up boxing matches in parks around Bogota, Colombia, without official permits.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/street-boxing-matches-gain-popularity-bogota-138023461",
-    "publishedAt": "2026-11-11T04:26:14.000Z"
-  },
-  {
-    "id": "c77dbe115117484a",
-    "title": "How grooming claims against David Walliams came to light",
-    "summary": "A three-year investigation by UK media has unearthed accusations against high-profile UK celebrity David Walliams of grooming and sexual assault.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-11/david-walliams-grooming-sexual-misconduct-accusations-uk-media/107371962",
-    "publishedAt": "2026-11-11T04:01:40.000Z"
-  },
-  {
-    "id": "0573dea62fd62001",
-    "title": "David Jones to close half its stores triggering mass job losses under ‘urgent restructure’",
-    "summary": "Australia’s oldest department store collapsed into voluntary administration last week after years of steep losses.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/11/david-jones-store-closures-administration-restructure",
-    "publishedAt": "2026-11-11T03:59:03.000Z"
-  },
-  {
-    "id": "40a1a840624973fa",
-    "title": "Three dead in Los Angeles after driver crashes into pedestrians, officials say",
-    "summary": "Three others critically injured and taken to hospitals as reports say car crashed into food stand in North Hollywood.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/los-angeles-vehicle-crash",
-    "publishedAt": "2026-11-11T03:52:05.000Z"
-  },
-  {
-    "id": "9fde798b7011c5fd",
-    "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-    "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o",
-    "publishedAt": "2026-11-11T03:44:06.000Z"
-  },
-  {
-    "id": "f2414ff08a918e6d",
-    "title": "Malaysia's ex-leader Najib moved from prison to house arrest after court clears transfer",
-    "summary": "Former Prime Minister Najib Razak has been transferred from prison to house arrest to serve the remainder of his graft sentence.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/malaysian-high-court-clears-final-hurdle-former-prime-138005201",
-    "publishedAt": "2026-11-11T03:30:20.000Z"
   }
 ]
