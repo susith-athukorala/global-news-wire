@@ -1,5 +1,32 @@
 [
   {
+    "id": "ef9c51ac439e934d",
+    "title": "Tories would have to raise state pension age above 70 to keep triple lock, says minister",
+    "summary": "Kemi Badenoch attacked reforms but is not being clear about how party would meet costs, Torsten Bell claims.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/11/tories-raise-state-pension-age-70-triple-lock-torsten-bell",
+    "publishedAt": "2026-11-11T07:29:40.000Z"
+  },
+  {
+    "id": "2ad23da9e9edd024",
+    "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+    "summary": "Investigation reveals Chinese entities accessing US-restricted AI tech despite stringent export control measures.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
+    "publishedAt": "2026-11-11T07:26:28.000Z"
+  },
+  {
+    "id": "1d045e990c0e2490",
+    "title": "If hackers can take over a supermarket fridge, what else is at risk?",
+    "summary": "As our lives become more digitised, we show which smart systems can be hacked and how to protect yourself.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk?traffic_source=rss",
+    "publishedAt": "2026-11-11T07:20:08.000Z"
+  },
+  {
     "id": "d42724c68448d1f6",
     "title": "Lending to property investors falls at record pace, as Australians fall behind on home loans",
     "summary": "Share of CBA customers struggling to repay their mortgages has climbed to 12-year high.",
@@ -223,6 +250,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss",
     "publishedAt": "2026-11-11T04:34:47.000Z"
+  },
+  {
+    "id": "c77dbe115117484a",
+    "title": "How grooming claims against David Walliams came to light",
+    "summary": "A three-year investigation by UK media has unearthed accusations against high-profile UK celebrity David Walliams of grooming and sexual assault.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-11/david-walliams-grooming-sexual-misconduct-accusations-uk-media/107371962",
+    "publishedAt": "2026-11-11T04:01:40.000Z"
   },
   {
     "id": "0573dea62fd62001",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro",
     "publishedAt": "2026-11-10T17:00:11.000Z"
-  },
-  {
-    "id": "799d3791f46aadd7",
-    "title": "US officials seek ‘final end’ to Russia-Ukraine war, as Abu Dhabi talks set to continue",
-    "summary": "First substantive peace talks since February include US proposal for ‘long-term security architecture’ between Moscow and Europe.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
-    "publishedAt": "2026-11-10T16:59:04.000Z"
-  },
-  {
-    "id": "af6851c413b32ae5",
-    "title": "Texas man charged with murder of woman aboard MSC cruise ship",
-    "summary": "Jason Leon Watford said he ‘snapped’ after verbal dispute with the woman, before allegedly killing her in a cabin.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/msc-seascape-homicide-cruise-ship",
-    "publishedAt": "2026-11-10T16:53:05.000Z"
-  },
-  {
-    "id": "a1a36b2813201282",
-    "title": "Some pupils 'struggling just to get a hot meal'",
-    "summary": "Students speak out as school dinner prices are set to increase for the second time in a year.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o",
-    "publishedAt": "2026-11-10T16:46:21.000Z"
-  },
-  {
-    "id": "ed112b9d1f6dcb36",
-    "title": "Merz accused of ‘blackmail’ by Slovak PM after demand for Ukraine aid in EU budget",
-    "summary": "German chancellor has signalled he will block budget with no aid deal, complaining that burden is ‘carried mostly by only a few member states’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget",
-    "publishedAt": "2026-11-10T16:44:27.000Z"
   }
 ]
