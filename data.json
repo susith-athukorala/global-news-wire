@@ -1,5 +1,68 @@
 [
   {
+    "id": "635999376d1f6ed5",
+    "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+    "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o",
+    "publishedAt": "2026-11-11T00:16:44.000Z"
+  },
+  {
+    "id": "b9c0719774360ef5",
+    "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+    "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko",
+    "publishedAt": "2026-11-11T00:02:07.000Z"
+  },
+  {
+    "id": "a3ea32f0930462f5",
+    "title": "‘No one is in charge’: social care system in England in chaos, Louise Casey to say",
+    "summary": "Head of major review into adult social care will say that governments have been ‘asleep at the wheel’ of vital system.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/11/louise-casey-england-social-care-system",
+    "publishedAt": "2026-11-11T00:01:23.000Z"
+  },
+  {
+    "id": "ba2c982f0c8e7f5d",
+    "title": "Disabled people in England ‘have to wait up to two years for wheelchairs’",
+    "summary": "Ombudsman’s report says delays have profound consequences and limit users’ ability to lead independent lives.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/11/disabled-people-in-england-have-to-wait-up-to-two-years-for-wheelchairs",
+    "publishedAt": "2026-11-11T00:01:23.000Z"
+  },
+  {
+    "id": "fc1a063d03dbed1d",
+    "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
+    "summary": "Thinktank Niesr says timid rate rise last week likely to make inflation more persistent feature of UK economy.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
+    "publishedAt": "2026-11-11T00:01:23.000Z"
+  },
+  {
+    "id": "b576f5730f2a943e",
+    "title": "Fire contained on platform in Iran’s South Pars gas field",
+    "summary": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
+    "publishedAt": "2026-11-10T23:38:02.000Z"
+  },
+  {
+    "id": "f52aa4165c948dac",
+    "title": "French far-right author Zemmour launches second presidential bid",
+    "summary": "Zemmour seeks to expel 'foreign unemployed people' after last month's violent protests.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
+    "publishedAt": "2026-11-10T23:23:12.000Z"
+  },
+  {
     "id": "62e590857f05f895",
     "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
     "summary": "Trump ally, accused of an array of illegal acts, had earlier condemned impeachment push as ‘a farce and a stunt’",
@@ -909,6 +972,15 @@
     "publishedAt": "2026-11-10T14:25:29.000Z"
   },
   {
+    "id": "a8b452a969c95dc3",
+    "title": "Fresh round of Ukraine-Russia talks held as Trump insists peace close",
+    "summary": "Envoys from Kyiv, Moscow and Washington DC discuss security guarantees, territorial concessions and a Europe-wide security framework at their first meeting since February.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-11/ukraine-russia-talks-abu-dhabi/107371042",
+    "publishedAt": "2026-11-10T14:21:50.000Z"
+  },
+  {
     "id": "db60a703114c0936",
     "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
     "summary": "Little is known about her except that she's reportedly about 13 and named Kim Ju Ae, but Korea's spy agency says she's likely her father's heir.",
@@ -1276,77 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss",
     "publishedAt": "2026-11-10T12:09:54.000Z"
-  },
-  {
-    "id": "5e88919a5f756e27",
-    "title": "US and rest of world must follow China’s lead on green energy, says John Kerry",
-    "summary": "Former US secretary of state says most nations are ‘stumbling along’ while Beijing has ‘hugely accelerated’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31",
-    "publishedAt": "2026-11-10T12:08:23.000Z"
-  },
-  {
-    "id": "c4e776d4794d6b8e",
-    "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
-    "summary": "The House could vote to impeach Hegseth, but removing him from office will be tough. And, SCOTUS ruled that a federal judge did not have the authority to halt border wall construction.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
-    "publishedAt": "2026-11-10T12:01:04.000Z"
-  },
-  {
-    "id": "96a82aaf6b9fc602",
-    "title": "‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex",
-    "summary": "Comedian and former Britain’s Got Talent judge alleged to have groomed fans he met when they were as young as 15 and harassed women in the workplace over a number of years. He denies the allegations.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women",
-    "publishedAt": "2026-11-10T12:00:52.000Z"
-  },
-  {
-    "id": "4abed32047ca498e",
-    "title": "David Walliams accused of using celebrity status to prey on young women for sex",
-    "summary": "Guardian reports accusations after court rejects legal attempt to prevent publication. Walliams denies any wrongdoing.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/10/david-walliams-accused-preying-on-young-women-for-sex",
-    "publishedAt": "2026-11-10T12:00:51.000Z"
-  },
-  {
-    "id": "401b87e565889afd",
-    "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
-    "summary": "Analysts say Trump’s comments are more likely to be political posturing than a reflection of serious policy priorities.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
-    "publishedAt": "2026-11-10T11:52:34.000Z"
-  },
-  {
-    "id": "c95b62b2f4ee626e",
-    "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-    "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o",
-    "publishedAt": "2026-11-10T11:43:06.000Z"
-  },
-  {
-    "id": "43defc4189c3f105",
-    "title": "Oil price relief as Trump declares US war on Iran ‘ending fairly soon’ | First Thing",
-    "summary": "Speaking in the White House, the president said the US remained ‘locked and loaded’ but escalation was not needed. Plus how Grand Theft Auto became a cultural colossus.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/first-thing-oil-price-relief-trump-us-war-iran-ending-fairly-soon",
-    "publishedAt": "2026-11-10T11:36:00.000Z"
-  },
-  {
-    "id": "c327cbe63229a1e8",
-    "title": "Amber alert as Scotland faces blood donation shortages",
-    "summary": "An amber alert has been issued after stockpiles of blood fell below target several times in recent months.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c678p8yz0k38o",
-    "publishedAt": "2026-11-10T11:30:32.000Z"
   }
 ]
