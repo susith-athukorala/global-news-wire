@@ -1,5 +1,50 @@
 [
   {
+    "id": "2eab93aff5e263a9",
+    "title": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
+    "summary": "Charities warn of lack of protection amid health fears for more than 940,000 displaced people living in flood-prone areas.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
+    "publishedAt": "2026-11-11T05:00:32.000Z"
+  },
+  {
+    "id": "54914aeaa4eddf09",
+    "title": "Thousands of rare wildflowers rescued from eroding Scottish coast",
+    "summary": "Conservationists relocate 3,400 one-flowered wintergreens, a species estimated to have lost more than half its UK population in the past 50 years.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/11/one-flowered-wintergreen-rescue-eroding-coast-scotland",
+    "publishedAt": "2026-11-11T05:00:32.000Z"
+  },
+  {
+    "id": "06a09136c46a3512",
+    "title": "Fresh concerns raised over Gaza doctor held by Israel for 23 months without charge",
+    "summary": "Independent Israeli professor says Hussam Abu Safiya’s life will be at risk until he receives proper medical treatment.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/11/fresh-concerns-over-gaza-doctor-held-by-israel",
+    "publishedAt": "2026-11-11T05:00:29.000Z"
+  },
+  {
+    "id": "5af8dc7177f58531",
+    "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
+    "summary": "Authorities struggling to contain DRC's largest Ebola outbreak due to delayed detection and conflict.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss",
+    "publishedAt": "2026-11-11T04:44:18.000Z"
+  },
+  {
+    "id": "ba2e02794cff07d4",
+    "title": "Russia claims interception of 146 drones in Leningrad region",
+    "summary": "Attacks also reported in the Russian-occupied Donbas region of Ukraine as US-mediated talks continue in Abu Dhabi.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss",
+    "publishedAt": "2026-11-11T04:34:47.000Z"
+  },
+  {
     "id": "0573dea62fd62001",
     "title": "David Jones to close half its stores triggering mass job losses under ‘urgent restructure’",
     "summary": "Australia’s oldest department store collapsed into voluntary administration last week after years of steep losses.",
@@ -765,6 +810,24 @@
     "publishedAt": "2026-11-10T18:53:34.000Z"
   },
   {
+    "id": "787db7b917812b3f",
+    "title": "Would you push a neighbour into unemployment to reduce inflation?",
+    "summary": "We need more unemployment to drag inflation down. Will you volunteer?",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-11/rba-full-employment-andrew-hauser-trust-in-central-banks/107359286",
+    "publishedAt": "2026-11-10T18:52:55.000Z"
+  },
+  {
+    "id": "e5cf3473076f7646",
+    "title": "Buyers ditch backyards for balconies as rates rise",
+    "summary": "Unit values outperform houses in most capital cities as rising interest rates shrink borrowing power and reshape demand.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-11/how-house-unit-values-compare-across-capitals-2026/107337340",
+    "publishedAt": "2026-11-10T18:51:06.000Z"
+  },
+  {
     "id": "a79b0e4db041d302",
     "title": "House Republicans urge DoJ to further investigate ‘key witnesses’ in Epstein case",
     "summary": "Republicans on House panel criticize US government’s investigation into Jeffrey Epstein and Ghislaine Maxwell.",
@@ -862,6 +925,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/10/myanmar-summons-german-diplomat-following-controversial-facebook-video?traffic_source=rss",
     "publishedAt": "2026-11-10T18:03:06.000Z"
+  },
+  {
+    "id": "ec1070ee2a531f1d",
+    "title": "Solar retailer banned by regulator after hundreds of complaints",
+    "summary": "Prominent solar retailer Solar Power Nation has been banned by the Clean Energy Regulator following an ABC investigation that revealed serious safety concerns and incomplete installations.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-11/solar-power-nation-suspended-by-energy-regulator/107369530",
+    "publishedAt": "2026-11-10T18:00:00.000Z"
   },
   {
     "id": "e28c3c8e9395aba0",
@@ -1276,77 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
     "publishedAt": "2026-11-10T14:36:57.000Z"
-  },
-  {
-    "id": "45aca3ded394f8c7",
-    "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-    "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo",
-    "publishedAt": "2026-11-10T14:29:00.000Z"
-  },
-  {
-    "id": "e98e6ad7f6d835d6",
-    "title": "What is Shahid Kaveh, ⁠⁠the Iran cyberunit tied to France’s fridge hacking?",
-    "summary": "IRGC-linked unit operates through front groups posing as vigilante hackers to hit adversaries, says French intelligence.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/what-is-shahid-kaveh-%e2%81%a0the-iran-cyber-unit-tied-to-frances-fridge-hacking?traffic_source=rss",
-    "publishedAt": "2026-11-10T14:27:45.000Z"
-  },
-  {
-    "id": "d89f591c16350d80",
-    "title": "Yabba dabba doo Could these bulging, Flintstones-style towers be the future of eco-building?",
-    "summary": "Ruggedly good-looking and greener than bricks and concrete, Petra Heights are made of three-metre slabs of rough rock. Could they herald a new stone age?",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/artanddesign/2026/nov/10/petra-heights-flintstones-style-towers-future-of-eco-building",
-    "publishedAt": "2026-11-10T14:25:29.000Z"
-  },
-  {
-    "id": "a8b452a969c95dc3",
-    "title": "Fresh round of Ukraine-Russia talks held as Trump insists peace close",
-    "summary": "Envoys from Kyiv, Moscow and Washington DC discuss security guarantees, territorial concessions and a Europe-wide security framework at their first meeting since February.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-11/ukraine-russia-talks-abu-dhabi/107371042",
-    "publishedAt": "2026-11-10T14:21:50.000Z"
-  },
-  {
-    "id": "db60a703114c0936",
-    "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
-    "summary": "Little is known about her except that she's reportedly about 13 and named Kim Ju Ae, but Korea's spy agency says she's likely her father's heir.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
-    "publishedAt": "2026-11-10T14:16:53.000Z"
-  },
-  {
-    "id": "f4e7dc124530cc13",
-    "title": "Historic ocean liner to ‘live on’ beneath waves as world’s biggest artificial reef",
-    "summary": "The SS United States will sink off Florida coast to become an artificial reef, ending long-running wrangle over its fate.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/ocean-liner-ship-sunk-artificial-reef",
-    "publishedAt": "2026-11-10T14:05:32.000Z"
-  },
-  {
-    "id": "bf7fb43822110246",
-    "title": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
-    "summary": "Decision by the Iraqi Civil Aviation Authority reportedly related to ⁠US sanctions imposed on Iranian airlines.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/10/iraq-bars-iranian-football-teams-plane-from-landing-in-basra-report?traffic_source=rss",
-    "publishedAt": "2026-11-10T14:03:31.000Z"
-  },
-  {
-    "id": "4c87d88682370250",
-    "title": "US inflation higher than expected in October - here's what is happening with prices",
-    "summary": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
-    "publishedAt": "2026-11-10T14:03:00.000Z"
   }
 ]
