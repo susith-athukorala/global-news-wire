@@ -1,5 +1,95 @@
 [
   {
+    "id": "4f41e3f0abb2e738",
+    "title": "Women in town hit poor health earlier than average",
+    "summary": "Luton study reveals age of onset of poor health for women is five years below national average.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqp8g8jr5ke8o",
+    "publishedAt": "2026-11-11T06:13:26.000Z"
+  },
+  {
+    "id": "a8df386110642e78",
+    "title": "Artist creates world's biggest soil painting",
+    "summary": "Phil Lambert used four types of soil, including some collected from his mother, to create his work.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm3wvvp5d1qzo",
+    "publishedAt": "2026-11-11T06:06:21.000Z"
+  },
+  {
+    "id": "250e0adfd88311bd",
+    "title": "Aldi cuts hundreds of UK head office and logistics roles as part of global cost trimming",
+    "summary": "Supermarket’s move labelled ‘shortsighted’ by worker who calls upper management ‘woefully out of touch with reality’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming",
+    "publishedAt": "2026-11-11T06:00:34.000Z"
+  },
+  {
+    "id": "e0fd4668b4a94ec7",
+    "title": "Woman in Saudi Arabia sentenced to 100 lashes for giving birth outside marriage",
+    "summary": "Rights groups condemn reported punishment of Kenyan migrant worker as an ‘act of violence’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/nov/11/woman-in-saudi-arabia-sentenced-to-100-lashes-for-giving-birth-outside-marriage",
+    "publishedAt": "2026-11-11T06:00:33.000Z"
+  },
+  {
+    "id": "ba416e612d448f38",
+    "title": "Whitehall is too ‘tame, reactive and risk-averse’, says UK’s top civil servant",
+    "summary": "Antonia Romeo pledges to ‘rewire’ civil service by incentivising and rewarding top performers.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/11/whitehall-tame-reactive-risk-averse-antonia-romeo-cabinet-secretary",
+    "publishedAt": "2026-11-11T06:00:31.000Z"
+  },
+  {
+    "id": "e9718b0af7cd534d",
+    "title": "Labour MPs raise concerns Burnham’s 10-year-plan will not be radical enough",
+    "summary": "Exclusive: Reindustrialisation Research Group to meet with Cabinet Office to discuss worries over PM’s long-term strategy.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/11/labour-mps-raise-concerns-andy-burnham-10-year-plan-not-radical-enough",
+    "publishedAt": "2026-11-11T06:00:30.000Z"
+  },
+  {
+    "id": "799def459ef79312",
+    "title": "South African swimmer Tatjana Smith switches allegiance to Netherlands",
+    "summary": "Double Olympic gold medallist cites 'financial and practical challenges' of swimming.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss",
+    "publishedAt": "2026-11-11T05:52:28.000Z"
+  },
+  {
+    "id": "81c38962384cf105",
+    "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
+    "summary": "Yemen's government says 190 rebel fighters killed and wounded, as Houthis also claim inflicting heavy losses.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
+    "publishedAt": "2026-11-11T05:39:26.000Z"
+  },
+  {
+    "id": "6c235661bd82d981",
+    "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+    "summary": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effort.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+    "publishedAt": "2026-11-11T05:33:27.000Z"
+  },
+  {
+    "id": "92a0a78d8ebb540e",
+    "title": "‘I pay $500 for 5 square metres’: Spain’s protesters, in their own words",
+    "summary": "Young people are stuck in the family home or forced into cramped, overpriced rentals with little security or control.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words?traffic_source=rss",
+    "publishedAt": "2026-11-11T05:16:57.000Z"
+  },
+  {
     "id": "2eab93aff5e263a9",
     "title": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
     "summary": "Charities warn of lack of protection amid health fears for more than 940,000 displaced people living in flood-prone areas.",
@@ -25,6 +115,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/11/fresh-concerns-over-gaza-doctor-held-by-israel",
     "publishedAt": "2026-11-11T05:00:29.000Z"
+  },
+  {
+    "id": "a335541aa4ff5a28",
+    "title": "Youpla directors disqualified over collapsed funeral fund that targeted Aboriginal families",
+    "summary": "Three directors were fined a combined $90,000 in federal court judgment and disqualified from managing a corporation for between five and 10 years.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/11/youpla-directors-disqualified-over-collapsed-funeral-fund-that-targeted-aboriginal-families-ntwnfb",
+    "publishedAt": "2026-11-11T04:55:28.000Z"
   },
   {
     "id": "5af8dc7177f58531",
@@ -918,6 +1017,15 @@
     "publishedAt": "2026-11-10T18:04:18.000Z"
   },
   {
+    "id": "d81b2280955c0648",
+    "title": "Taunts, heckling and fiery Netanyahu speech as Israel's Knesset sworn in",
+    "summary": "Benjamin Netanyahu uses a speech traditionally used as a toast to rail against Arab Israeli members of the Knesset, three weeks after a deadlocked election result.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-11/knesset-sworn-in-taunts-heckling/107371226",
+    "publishedAt": "2026-11-10T18:04:14.000Z"
+  },
+  {
     "id": "519ddaa2f818c8a5",
     "title": "Myanmar summons German envoy over controversial video",
     "summary": "Mathias Licharz calls for the 'unconditional' release of ousted politicians, including former leader Aung San Suu Kyi.",
@@ -961,6 +1069,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/10/activist-jason-jones-wins-10-year-fight-against-homophobic-trinidad-tobago-laws",
     "publishedAt": "2026-11-10T17:55:10.000Z"
+  },
+  {
+    "id": "73fb8de9459dd699",
+    "title": "Growth at all costs is not a sustainable policy | Letters",
+    "summary": "The key task should be to ensure that essential services improve the wellbeing of individuals and local communities, writes Peter Riddle . Plus letters from Sheila Triggs and Stephen Smith.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/10/growth-at-all-costs-is-not-a-sustainable-policy",
+    "publishedAt": "2026-11-10T17:52:52.000Z"
   },
   {
     "id": "997bcff61d7c31d5",
@@ -1125,6 +1242,15 @@
     "publishedAt": "2026-11-10T16:22:18.000Z"
   },
   {
+    "id": "45aca3ded394f8c7",
+    "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+    "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo",
+    "publishedAt": "2026-11-10T16:19:48.000Z"
+  },
+  {
     "id": "8a541d0f4144173d",
     "title": "Flying cars could launch in China next summer, maker of two-seat model says",
     "summary": "XPeng says its $300k low-altitude device will soon be ready for emergency services and recreational use in rural areas.",
@@ -1222,131 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report",
     "publishedAt": "2026-11-10T15:38:48.000Z"
-  },
-  {
-    "id": "95398d0e0f293ef3",
-    "title": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
-    "summary": "Suspect in deadly November 7 Krakow shooting looked up the white supremacist who killed dozens in 2011, a minister says.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss",
-    "publishedAt": "2026-11-10T15:36:49.000Z"
-  },
-  {
-    "id": "1aa1a7b1e4c98af5",
-    "title": "Pope urges Argentines to follow model of saints during Mass in the 'land of saints'",
-    "summary": "Pope Leo XIV is urging Argentines to follow the examples of some of the country's best-known saints.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-urges-argentines-follow-model-saints-mass-land-138011787",
-    "publishedAt": "2026-11-10T15:26:11.000Z"
-  },
-  {
-    "id": "1af921259329d3f4",
-    "title": "Deadly Egypt train crash prompts calls for political accountability",
-    "summary": "A deadly train collision in Egypt's al-Ayyat prompts demands for political accountability and rail upgrade reviews.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/deadly-egypt-train-collision-prompts-calls-for-political-accountability?traffic_source=rss",
-    "publishedAt": "2026-11-10T15:22:17.000Z"
-  },
-  {
-    "id": "51d70fb391baa8a3",
-    "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-    "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o",
-    "publishedAt": "2026-11-10T15:21:18.000Z"
-  },
-  {
-    "id": "e5eb01cfdb56cf49",
-    "title": "‘Positive momentum’: Is the US war on Iran about to end?",
-    "summary": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
-    "publishedAt": "2026-11-10T15:18:32.000Z"
-  },
-  {
-    "id": "c5bf3663b29cf35c",
-    "title": "Gilded statue in DC mocks Trump for ‘dodging’ Vietnam war draft over bone spurs",
-    "summary": "New statue titled The Foot Soldier was installed on the National Mall just two days before Veterans Day.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-toe-statue-dc-vietnam-war-draft",
-    "publishedAt": "2026-11-10T15:12:28.000Z"
-  },
-  {
-    "id": "c95b62b2f4ee626e",
-    "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-    "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o",
-    "publishedAt": "2026-11-10T15:10:20.000Z"
-  },
-  {
-    "id": "48df5c0b8e4b54ba",
-    "title": "Welcome Break Rotherham: is this really Britain’s best motorway service station?",
-    "summary": "It is modelled on a Yorkshire village and came top in a new survey, with 99% of visitors praising it. But with its branches of Burger King, Pret and Krispy Kreme, what makes it a cut above?",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/10/welcome-break-rotherham-britains-best-motorway-service-station",
-    "publishedAt": "2026-11-10T15:09:16.000Z"
-  },
-  {
-    "id": "8ae0a884a0b8f412",
-    "title": "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
-    "summary": "India has influence with both sides, but shipping security and Russia’s cooperation remain major obstacles.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor?traffic_source=rss",
-    "publishedAt": "2026-11-10T15:04:30.000Z"
-  },
-  {
-    "id": "6c735a29b9a9ff65",
-    "title": "Jimmy Carter’s Georgia farm to open to the public: ‘This land shaped him and his legacy’",
-    "summary": "Conservation group acquires former US president’s family farm with plans to transfer it to the state in 2028.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/jimmy-carter-georgia-farm-conserved-open-to-public",
-    "publishedAt": "2026-11-10T15:01:41.000Z"
-  },
-  {
-    "id": "51aef502ab732754",
-    "title": "The vaccine limbo in the US is worsening the measles outbreak",
-    "summary": "Earlier doses for children, a focus on unvaccinated adults, a risk strategy based on geography – here’s how a functioning ACIP would address the measles outbreak.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/measles-outbreak-vaccinations-acip",
-    "publishedAt": "2026-11-10T15:00:46.000Z"
-  },
-  {
-    "id": "1080ea75cd5fd772",
-    "title": "UK and Argentina clash over Falklands oil project as Hamburg tribunal starts",
-    "summary": "Sea Lion project in the North Falkland basin threatens to deepen sovereignty dispute.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
-    "publishedAt": "2026-11-10T14:49:32.000Z"
-  },
-  {
-    "id": "dfdd54041a2c5900",
-    "title": "Hegseth impeachment: What is he accused of, and could he be removed?",
-    "summary": "Eight articles brought by a Republican lawmaker accuse the Pentagon chief of waging unlawful wars on Iran and Venezuela.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss",
-    "publishedAt": "2026-11-10T14:45:22.000Z"
-  },
-  {
-    "id": "70b57ef97c80babd",
-    "title": "First day of Ukraine peace talks 'very productive', US says",
-    "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
-    "publishedAt": "2026-11-10T14:36:57.000Z"
   }
 ]
