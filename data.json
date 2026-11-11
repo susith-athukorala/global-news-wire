@@ -1,5 +1,104 @@
 [
   {
+    "id": "9c28c3c981fa3cd4",
+    "title": "Kenya discharges last Ebola patient, beginning countdown to Ebola-free declaration",
+    "summary": "Kenya has discharged its last Ebola patient, starting a 42-day countdown to being declared Ebola-free.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/kenya-discharges-ebola-patient-beginning-countdown-ebola-free-138038701",
+    "publishedAt": "2026-11-11T10:04:35.000Z"
+  },
+  {
+    "id": "10e84288463f16e0",
+    "title": "UK probes alleged Iran-backed plot against base hosting US forces",
+    "summary": "Two investigations in Britain raise security concerns: an alleged Iran-backed plot targeting a U.K. base hosting U.S. forces, and a U.S. soldier arrested on suspicion of spying for Russia.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/11/nx-s1-6036786/uk-probes-alleged-iran-backed-plot-against-base-hosting-us-forces",
+    "publishedAt": "2026-11-11T10:02:54.000Z"
+  },
+  {
+    "id": "37cc2d863ebf14d8",
+    "title": "Germany's military will stop using Chinese-made drones for training purposes",
+    "summary": "The German government says its military will stop using Chinese-made drones for training purposes and replace them with German or other European models.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/germanys-military-stop-chinese-made-drones-training-purposes-138038908",
+    "publishedAt": "2026-11-11T10:00:26.000Z"
+  },
+  {
+    "id": "5011a547602ad834",
+    "title": "AI hoaxes are deceiving 911 dispatchers, and they're only getting harder to detect",
+    "summary": "Swatters are increasingly using AI technology that creates synthetic voices or sound effects to generate remarkably believable fake emergency calls to law enforcement.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/11/nx-s1-6034449/ai-911-calls-swatting",
+    "publishedAt": "2026-11-11T10:00:00.000Z"
+  },
+  {
+    "id": "8eba96cd8c45810f",
+    "title": "Pakistan women’s captain Fatima Sana calls for gender equality in cricket",
+    "summary": "Fatima Sana 'dreams of a time' when the men's and women's cricket teams are treated as equals.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/11/fatima-sana-pakistan-cricket-equal-treatment-wbbl-perth-scorchers?traffic_source=rss",
+    "publishedAt": "2026-11-11T09:57:37.000Z"
+  },
+  {
+    "id": "0434155b7b85a65a",
+    "title": "Spain's first general strike in 14 years demands solutions to housing crisis",
+    "summary": "Less than three weeks before a national election that could catapult the far right to power, Spain's workers are striking on Wednesday to demand that the government remedy the nation's housing crisis.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
+    "publishedAt": "2026-11-11T09:54:54.000Z"
+  },
+  {
+    "id": "ea095d06f6d20111",
+    "title": "NAZA documentary on Gaza killings becomes one of year’s most watched",
+    "summary": "The film, which details Israel’s surveillance of Palestinian civilians, has been seen by more than 1.5m people in less than two months.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/film/2026/nov/11/naza-documentary-on-gaza-killings-becomes-one-of-years-most-watched",
+    "publishedAt": "2026-11-11T09:47:46.000Z"
+  },
+  {
+    "id": "77b4bfd91a783bc6",
+    "title": "Pakistan’s PTI demands access to jailed Khan after overnight hospital visit",
+    "summary": "Former Prime Minister Imran Khan ⁠is taken ⁠to a government hospital in Islamabad for treatment and returned to prison.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/pakistans-pti-demands-access-to-jailed-khan-after-overnight-hospital-visit?traffic_source=rss",
+    "publishedAt": "2026-11-11T09:47:25.000Z"
+  },
+  {
+    "id": "c8dd526043676f46",
+    "title": "Burnham lauds £12bn offshore wind investment as he prepares for climate summit",
+    "summary": "Package for plan off Norfolk coast revealed as government tries to calm critics after approving Jackdaw gasfield.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield",
+    "publishedAt": "2026-11-11T09:46:18.000Z"
+  },
+  {
+    "id": "e8e49eaaa7a14a8f",
+    "title": "Tearful Smith switches allegiance to Netherlands",
+    "summary": "Tatjana Smith, South Africa's most decorated Olympian, switches allegiance to the Netherlands.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno",
+    "publishedAt": "2026-11-11T09:45:14.000Z"
+  },
+  {
+    "id": "cde917a1b0526993",
+    "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
+    "summary": "Congo's Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the relentless spread of the disease.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
+    "publishedAt": "2026-11-11T09:16:01.000Z"
+  },
+  {
     "id": "028185b6b4fe568f",
     "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
     "summary": "Bessent, driving force behind US push to cripple Iran’s economy, relocates over alleged threat to his life.",
@@ -34,6 +133,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/dozens-injured-south-korea-after-bus-crashes-32-138033410",
     "publishedAt": "2026-11-11T09:06:14.000Z"
+  },
+  {
+    "id": "a85c28bfc3a7b389",
+    "title": "Economies are improving, but rule of law is slipping. The buck now stops with Africa’s leaders | Kenneth Mohammed",
+    "summary": "The west has spent decades judging Africa’s governance and colonialism is much to blame. But Mo Ibrahim’s latest index offers a different perspective – and some uncomfortable truths.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/nov/11/mo-ibrahim-africa-governance-colonialism-power-development-corruption-buck-stops",
+    "publishedAt": "2026-11-11T09:00:34.000Z"
   },
   {
     "id": "8e81e3b89390e2b2",
@@ -106,6 +214,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/pope-urges-argentines-follow-model-saints-mass-land-138011787",
     "publishedAt": "2026-11-11T07:54:40.000Z"
+  },
+  {
+    "id": "4a8fbecd7963f6e4",
+    "title": "US warns Madagascar over growing military ties with Russia",
+    "summary": "US general warns the Sahel model-like security deal with Russia could lead to greater instability in Africa.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo",
+    "publishedAt": "2026-11-11T07:30:15.000Z"
   },
   {
     "id": "ef9c51ac439e934d",
@@ -1231,122 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o",
     "publishedAt": "2026-11-10T18:43:04.000Z"
-  },
-  {
-    "id": "46f689c1c3b61ca3",
-    "title": "UK children’s author David Walliams accused of grooming minors",
-    "summary": "A joint investigation by The Guardian and ITV News details allegations made by multiple women against the 55-year-old.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/uk-comedian-and-childrens-author-david-walliams-accused-of-grooming-minors?traffic_source=rss",
-    "publishedAt": "2026-11-10T18:42:14.000Z"
-  },
-  {
-    "id": "72681ec87ec2b0c1",
-    "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-    "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do",
-    "publishedAt": "2026-11-10T18:33:51.000Z"
-  },
-  {
-    "id": "0817a0f1b620ddab",
-    "title": "Trump administration again boycotts UN human rights review",
-    "summary": "UN Human Rights Council delays US human rights record examination until January after Washington refuses meeting.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/trump-administration-again-boycotts-un-human-rights-review?traffic_source=rss",
-    "publishedAt": "2026-11-10T18:29:56.000Z"
-  },
-  {
-    "id": "d8f73e22b6881fcb",
-    "title": "Judge who sentenced Russell Brand praised for dispelling rape myths",
-    "summary": "Criminal Bar Association and campaigners hail Mr Justice Bennathan for delivering remarks with ‘piercing clarity’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2026/nov/10/judge-sentenced-russell-brand-praised-rape-myths-justice-bennathan",
-    "publishedAt": "2026-11-10T18:11:00.000Z"
-  },
-  {
-    "id": "fbccd08caedf2a64",
-    "title": "Woman jailed for posing as man to dupe partner into sex found guilty of similar deception",
-    "summary": "Jury finds Blade Silvano, who presented herself as a male army veteran, guilty of six counts of sexual assault.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/10/woman-jailed-for-posing-as-man-dupe-partner-sex-guilty-of-similar-deception",
-    "publishedAt": "2026-11-10T18:08:29.000Z"
-  },
-  {
-    "id": "a9ae8073281d5c53",
-    "title": "Arrests made after visit from former US President Biden",
-    "summary": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck78p827y642o",
-    "publishedAt": "2026-11-10T18:07:56.000Z"
-  },
-  {
-    "id": "27b037defcab3821",
-    "title": "Spain braces for nationwide walkout as anger over housing, costs boils over",
-    "summary": "The 24-hour walkout, called by Spain’s two biggest unions, is due to start on Wednesday.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over?traffic_source=rss",
-    "publishedAt": "2026-11-10T18:07:23.000Z"
-  },
-  {
-    "id": "22be6c429b1a194f",
-    "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-    "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o",
-    "publishedAt": "2026-11-10T18:04:18.000Z"
-  },
-  {
-    "id": "d81b2280955c0648",
-    "title": "Taunts, heckling and fiery Netanyahu speech as Israel's Knesset sworn in",
-    "summary": "Benjamin Netanyahu uses a speech traditionally used as a toast to rail against Arab Israeli members of the Knesset, three weeks after a deadlocked election result.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-11/knesset-sworn-in-taunts-heckling/107371226",
-    "publishedAt": "2026-11-10T18:04:14.000Z"
-  },
-  {
-    "id": "519ddaa2f818c8a5",
-    "title": "Myanmar summons German envoy over controversial video",
-    "summary": "Mathias Licharz calls for the 'unconditional' release of ousted politicians, including former leader Aung San Suu Kyi.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/myanmar-summons-german-diplomat-following-controversial-facebook-video?traffic_source=rss",
-    "publishedAt": "2026-11-10T18:03:06.000Z"
-  },
-  {
-    "id": "ec1070ee2a531f1d",
-    "title": "Solar retailer banned by regulator after hundreds of complaints",
-    "summary": "Prominent solar retailer Solar Power Nation has been banned by the Clean Energy Regulator following an ABC investigation that revealed serious safety concerns and incomplete installations.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-11/solar-power-nation-suspended-by-energy-regulator/107369530",
-    "publishedAt": "2026-11-10T18:00:00.000Z"
-  },
-  {
-    "id": "e28c3c8e9395aba0",
-    "title": "US federal authorities could have prevented Epstein crimes, report finds",
-    "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o",
-    "publishedAt": "2026-11-10T17:59:02.000Z"
-  },
-  {
-    "id": "12050a325dc072d6",
-    "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-    "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
-    "publishedAt": "2026-11-10T17:56:12.000Z"
   }
 ]
