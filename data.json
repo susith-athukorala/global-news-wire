@@ -1,5 +1,41 @@
 [
   {
+    "id": "550ebaa80a45c3f1",
+    "title": "Nima Momeni sentenced to 16 years to life in murder of Cash App founder Bob Lee",
+    "summary": "Tech consultant convicted of second-degree murder in 2023 stabbing death of Cash App founder.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/bob-lee-cash-app-nima-momeni-sentenced",
+    "publishedAt": "2026-11-11T01:53:38.000Z"
+  },
+  {
+    "id": "145a77caf8dda619",
+    "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+    "summary": "The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+    "publishedAt": "2026-11-11T01:44:21.000Z"
+  },
+  {
+    "id": "58c1501be82c2a7d",
+    "title": "Macquarie Bank to pay $14m penalty after confusing ‘welcome rate’ promotion",
+    "summary": "Asic says customers should not have to check every transaction to ensure they receive the correct interest.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/11/macquarie-bank-14m-penalty-welcome-rate-savings-account",
+    "publishedAt": "2026-11-11T01:23:39.000Z"
+  },
+  {
+    "id": "dafd0f351ed2df50",
+    "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+    "summary": "Trump-appointed judge Jeffrey T Kuntz partially denies British broadcaster’s motion to dismiss over edit.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+    "publishedAt": "2026-11-11T01:18:56.000Z"
+  },
+  {
     "id": "5fd791b2b236e9ce",
     "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
     "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
@@ -558,6 +594,15 @@
     "publishedAt": "2026-11-10T19:09:12.000Z"
   },
   {
+    "id": "e267e80a2222339e",
+    "title": "UK arrests US Army member suspected of helping Russia",
+    "summary": "British police say a ‌senior member of the US Army ‌has been arrested over allegations that he was assisting Russian intelligence.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-11/uk-police-say-member-of-us-army-arrested-under-national-security/107371280",
+    "publishedAt": "2026-11-10T19:05:05.000Z"
+  },
+  {
     "id": "76dd978295b6cc0a",
     "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
     "summary": "Drone makers are testing new, big drones that can deliver water or fire retardant with AI assistance. Aspen, Colorado is the first place trying them out.",
@@ -565,6 +610,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
     "publishedAt": "2026-11-10T19:00:00.000Z"
+  },
+  {
+    "id": "8837469147146245",
+    "title": "India's sugar cane is too dry and consumers will pay the price",
+    "summary": "Low rainfall hits sugarcane crops in India as farmers grapple with rising fuel and fertiliser costs.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-11/india-sugar-prices-rise-as-super-el-nino-weakens-monsoon/107339514",
+    "publishedAt": "2026-11-10T18:57:56.000Z"
   },
   {
     "id": "a7361005bd5aa1e8",
@@ -790,6 +844,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/10/john-crace-kemi-badenoch-tough-love-war-on-benefits",
     "publishedAt": "2026-11-10T17:04:29.000Z"
+  },
+  {
+    "id": "ef57a426da2eaa60",
+    "title": "Israel's new parliament sworn in as leaders compete to form government",
+    "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o",
+    "publishedAt": "2026-11-10T17:03:16.000Z"
   },
   {
     "id": "6cbf568ba5168ded",
@@ -1215,6 +1278,15 @@
     "publishedAt": "2026-11-10T13:54:00.000Z"
   },
   {
+    "id": "9e78ddd1bbbf97a9",
+    "title": "At least 12 people killed in crashes on a foggy Bulgarian motorway, minister says",
+    "summary": "Thick fog on a motorway in eastern Bulgaria has caused two major crashes, killing at least 12 people and injuring dozens more.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/12-people-killed-dozens-hurt-crashes-foggy-bulgarian-138004407",
+    "publishedAt": "2026-11-10T13:46:27.000Z"
+  },
+  {
     "id": "7b5a8f3e87f950ba",
     "title": "Iran rejects French claims it was behind supermarket fridge hacking",
     "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
@@ -1276,77 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-massie",
     "publishedAt": "2026-11-10T13:32:07.000Z"
-  },
-  {
-    "id": "59beddc567fcb3c3",
-    "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-    "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o",
-    "publishedAt": "2026-11-10T13:23:54.000Z"
-  },
-  {
-    "id": "c6071aca3cb7a821",
-    "title": "Pentagon Chief Hegseth calls US House impeachment effort a ‘farce’",
-    "summary": "Hegseth condemns impeachment resolution against him as 'sabotage', defending his actions and policy decisions.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce?traffic_source=rss",
-    "publishedAt": "2026-11-10T13:23:41.000Z"
-  },
-  {
-    "id": "5ca9374d0a7238ec",
-    "title": "California police investigate after 27 fall ill at half-marathon running event",
-    "summary": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go",
-    "publishedAt": "2026-11-10T13:22:12.000Z"
-  },
-  {
-    "id": "1017054ad62d70ce",
-    "title": "Tech’s biggest names sunk a tax on billionaires’ wealth with $425m and a familiar playbook",
-    "summary": "California saw the most expensive opposition campaign in its history as funding of political campaigns broke records in the US midterms.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/california-billionaire-tax-opposition",
-    "publishedAt": "2026-11-10T13:19:35.000Z"
-  },
-  {
-    "id": "12050a325dc072d6",
-    "title": "Anthropic to raise $64bn in major stock market listing",
-    "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
-    "publishedAt": "2026-11-10T13:01:03.000Z"
-  },
-  {
-    "id": "935d44ae0f761445",
-    "title": "White supremacist Nick Fuentes linked to college Republican group, records show",
-    "summary": "Computer records reveal College Republican Patriot Coalition’s web domain in account registered to Fuentes-managed company.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/nick-fuentes-crpc-college-republicans",
-    "publishedAt": "2026-11-10T13:00:54.000Z"
-  },
-  {
-    "id": "ce8b471c16bf3fcc",
-    "title": "A Trump proposal would punish single parents. Other wealthy countries have a different approach",
-    "summary": "Canada, the Netherlands and Sweden offer extra support to solo-parent households. In its latest pronatalist push, the Trump administration aims to shift funds away from them.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-vance-parents-payment-analysis",
-    "publishedAt": "2026-11-10T13:00:53.000Z"
-  },
-  {
-    "id": "53b418211229e082",
-    "title": "Pharma firms’ focus on weight-loss drugs could put insulin supply at risk, experts warn",
-    "summary": "GLP-1 products such as Ozempic and Mounjaro spread but many in poorer countries struggle to get basic diabetes treatment.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/10/pharma-firms-weight-loss-drugs-insulin-glp-1-ozempic-mounjaro",
-    "publishedAt": "2026-11-10T13:00:53.000Z"
   }
 ]
