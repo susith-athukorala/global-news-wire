@@ -1,5 +1,113 @@
 [
   {
+    "id": "e17a92b1cbc61c57",
+    "title": "Pete Hegseth survives effort to impeach him | First Thing",
+    "summary": "House Republicans block impeachment resolution that cited US military actions in Iran, Yemen and Venezuela. Plus, SS United States to be sunk to create artificial reef.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/11/first-thing-pete-hegseth-survives-effort-to-impeach-him",
+    "publishedAt": "2026-11-11T12:04:36.000Z"
+  },
+  {
+    "id": "ad97d9224ac8eb96",
+    "title": "Poultry and captive birds must be kept inside in England and Scotland because of bird flu",
+    "summary": "Increased risk of devastating strain means restrictions imposed for second year in a row.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/11/bird-flu-poultry-captive-birds-kept-inside-england-scotland",
+    "publishedAt": "2026-11-11T12:03:15.000Z"
+  },
+  {
+    "id": "a7eee42707c5c4f9",
+    "title": "New Orleans attorney fined $400,000 after exposing abusive priest says it was ‘worth it’",
+    "summary": "Richard Trahant says accusers have been vindicated after Catholic church officially classifies Paul Hart as sex abuser.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/11/new-orleans-lawyer-abusive-priest",
+    "publishedAt": "2026-11-11T12:00:49.000Z"
+  },
+  {
+    "id": "6acb111c18e6ee27",
+    "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+    "summary": "181GW of gas-fired capacity proposed for sites in US and Europe because of delays in connecting to national grids, says report.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
+    "publishedAt": "2026-11-11T12:00:48.000Z"
+  },
+  {
+    "id": "afc91ddb3f418767",
+    "title": "Pope will wrap up Argentina tour with a visit to a prison and a shrine before heading home to Peru",
+    "summary": "Pope Leo XIV will wrap up his visit to Argentina with two poignant moments: a meeting with inmates at a prison with a history linked to the country’s military dictatorship, and a final Mass at Argentina’s national shrine.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-wrap-argentina-tour-visit-prison-shrine-heading-138038537",
+    "publishedAt": "2026-11-11T11:52:41.000Z"
+  },
+  {
+    "id": "77c3bc663b2f8c61",
+    "title": "El Salvador's Bukele makes a political gamble with a Haiti gang offensive ahead of an election",
+    "summary": "Salvadoran President Nayib Bukele has sought to present himself as the savior to Haiti’s gang crisis.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/el-salvadors-bukele-makes-political-gamble-haiti-gang-138040031",
+    "publishedAt": "2026-11-11T11:50:44.000Z"
+  },
+  {
+    "id": "c13004370be5d3a7",
+    "title": "Militants ambush police vehicles in northwestern Pakistan, killing at least 10 officers",
+    "summary": "Police say militants have ambushed vehicles carrying police officers in northwestern Pakistan, triggering a gunbattle that killed at least 10 officers.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/militants-ambush-police-vehicles-northwestern-pakistan-killing-10-138040033",
+    "publishedAt": "2026-11-11T11:50:42.000Z"
+  },
+  {
+    "id": "38bafe3be8f01c30",
+    "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
+    "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
+    "publishedAt": "2026-11-11T11:49:12.000Z"
+  },
+  {
+    "id": "ebc3e5fcbca76a78",
+    "title": "Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales",
+    "summary": "Tactics to include GPS tagging for repeat offenders, high street bans and tougher sentences.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/11/police-target-chronic-shoplifters-retail-crackdown-england-wales",
+    "publishedAt": "2026-11-11T11:46:37.000Z"
+  },
+  {
+    "id": "49fd977ed9793125",
+    "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+    "summary": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo",
+    "publishedAt": "2026-11-11T11:33:24.000Z"
+  },
+  {
+    "id": "f89027ea8ad422d2",
+    "title": "Private renters in the UK: how difficult is the rental market where you live?",
+    "summary": "We’d like to hear from private renters about rising costs, finding somewhere to live and dealing with landlords.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/11/private-renters-in-the-uk-how-difficult-is-the-rental-market-where-you-live",
+    "publishedAt": "2026-11-11T11:29:02.000Z"
+  },
+  {
+    "id": "5a1383b904f2b265",
+    "title": "Eswatini gives illegal foreign businesses 12 months to leave",
+    "summary": "The law follows the growth of foreign-owned businesses in retail sector in rural areas.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gnq2pw2kro",
+    "publishedAt": "2026-11-11T11:15:00.000Z"
+  },
+  {
     "id": "9244a066fda1e03c",
     "title": "Man City whistleblower Rui Pinto could help UK uncover more sporting crime",
     "summary": "Rui Pinto is 'in talks' with UK authorities to help uncover more crime in exchange for police protection, reports say.",
@@ -160,6 +268,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno",
     "publishedAt": "2026-11-11T09:45:14.000Z"
+  },
+  {
+    "id": "48052ecfcabece32",
+    "title": "Germany reportedly bans Chinese drones at military bases over security concerns",
+    "summary": "Western military forces increasingly worried Chinese-made technology ⁠could send ‌sensitive information to Beijing.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/11/germany-bans-chinese-drones-military-bases-spying-security",
+    "publishedAt": "2026-11-11T09:41:05.000Z"
   },
   {
     "id": "cde917a1b0526993",
@@ -1231,122 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/10/trump-administration-seeks-to-cut-food-aid-for-more-than-six-million-people?traffic_source=rss",
     "publishedAt": "2026-11-10T20:00:18.000Z"
-  },
-  {
-    "id": "cf27878220f24a91",
-    "title": "Israeli opposition hurries to seize control as new Knesset is sworn in",
-    "summary": "Former military chief Gadi Eisenkot has mandate to try to form a government – with Netanyahu waiting if he fails.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
-    "publishedAt": "2026-11-10T19:59:33.000Z"
-  },
-  {
-    "id": "679554b7246bb4ef",
-    "title": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
-    "summary": "Ohio Congressman Jim Jordan to succeed Mike Johnson as GOP minority leader, promising unity and a robust opposition.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader?traffic_source=rss",
-    "publishedAt": "2026-11-10T19:54:46.000Z"
-  },
-  {
-    "id": "b24a24057237750a",
-    "title": "US soldier arrested in Britain on suspicion of espionage linked to Russia",
-    "summary": "Counterterror police in England have arrested a U.S. Army soldier on suspicion of espionage related to Russia.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/us-soldier-arrested-britain-suspicion-espionage-linked-russia-138022230",
-    "publishedAt": "2026-11-10T19:52:37.000Z"
-  },
-  {
-    "id": "cd5ee0a0d52917c8",
-    "title": "Street boxing matches gain popularity in Bogota",
-    "summary": "Santiago Abril has been organizing pop-up boxing matches in parks around Bogota, Colombia, without official permits.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/street-boxing-matches-gain-popularity-bogota-138023461",
-    "publishedAt": "2026-11-10T19:52:32.000Z"
-  },
-  {
-    "id": "743ec3b55d65225b",
-    "title": "Parents sue to stop Washington state trans sports ban that could require ‘invasive’ genital exams",
-    "summary": "Voters adopted extreme policy requiring medical sex verification for all girls who want to play team sports.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/washington-trans-sports-ban-lawsuit",
-    "publishedAt": "2026-11-10T19:49:49.000Z"
-  },
-  {
-    "id": "3f9c6e550b012a42",
-    "title": "Spain holds state funeral for 69 killed in high-speed rail crash",
-    "summary": "Relatives of the 69 people killed in a high-speed rail collision in Spain last month attended a state funeral Tuesday.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/spain-holds-state-funeral-69-killed-high-speed-138022635",
-    "publishedAt": "2026-11-10T19:46:28.000Z"
-  },
-  {
-    "id": "b6f8f845969f0e1c",
-    "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
-    "summary": "As Democrats prepare to take control of Congress, Republicans pick Jordan for last two years of Trump’s presidency.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
-    "publishedAt": "2026-11-10T19:40:10.000Z"
-  },
-  {
-    "id": "061c01bac511cd22",
-    "title": "Senior US soldier arrested by UK counter-terror police",
-    "summary": "The 41-year-old was arrested on suspicion of offences under the National Security Act which relate to Russia, police say.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo",
-    "publishedAt": "2026-11-10T19:34:48.000Z"
-  },
-  {
-    "id": "4d79f8dbd6d79d1a",
-    "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-    "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko",
-    "publishedAt": "2026-11-10T19:26:42.000Z"
-  },
-  {
-    "id": "4313f0f3aeef08c9",
-    "title": "Trump’s FCC nominee avoids questions from Democrats on Carr’s ‘censorship agenda’",
-    "summary": "Senators pressured Danielle Thumann, senior counsel to FCC chair Brendan Carr, to speak about agency’s actions toward ABC and Jimmy Kimmel.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-fcc-nominee-danielle-thumann",
-    "publishedAt": "2026-11-10T19:19:46.000Z"
-  },
-  {
-    "id": "09a5817069d10609",
-    "title": "US Senate advances major bill boosting energy infrastructure",
-    "summary": "Rare bipartisan bill requires data centres to pay for infrastructure, but environmental groups say it falls short.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/10/us-senate-advances-major-bill-boosting-energy-infrastructure?traffic_source=rss",
-    "publishedAt": "2026-11-10T19:09:12.000Z"
-  },
-  {
-    "id": "e267e80a2222339e",
-    "title": "UK arrests US Army member suspected of helping Russia",
-    "summary": "British police say a ‌senior member of the US Army ‌has been arrested over allegations that he was assisting Russian intelligence.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-11/uk-police-say-member-of-us-army-arrested-under-national-security/107371280",
-    "publishedAt": "2026-11-10T19:05:05.000Z"
-  },
-  {
-    "id": "1080ea75cd5fd772",
-    "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
-    "summary": "Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty dispute.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
-    "publishedAt": "2026-11-10T19:01:33.000Z"
   }
 ]
