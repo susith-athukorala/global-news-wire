@@ -1,5 +1,77 @@
 [
   {
+    "id": "165828d14e631504",
+    "title": "Former Italian Red Brigades member escapes house arrest in Argentina",
+    "summary": "Bertulazzi used a rope and harness to climb down from a fifth-floor apartment and evade authorities in Argentina.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina?traffic_source=rss",
+    "publishedAt": "2026-11-12T01:04:28.000Z"
+  },
+  {
+    "id": "feab1dfa21ab958c",
+    "title": "Australian states could sue tobacco companies for billions in healthcare costs under proposal",
+    "summary": "Exclusive: Former barrister who helped legally establish that secondhand smoke causes lung cancer argues states could seek up to $50bn in compensation.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/12/australian-states-could-sue-tobacco-companies-for-billions-smoking-healthcare-costs",
+    "publishedAt": "2026-11-12T01:02:01.000Z"
+  },
+  {
+    "id": "db48ae06ce9dc39d",
+    "title": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
+    "summary": "Chip giants stock price falls more than 8 percent amid speculation over co-founder's position.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
+    "publishedAt": "2026-11-12T00:43:26.000Z"
+  },
+  {
+    "id": "a6b2f9d2807ed788",
+    "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
+    "summary": "Guard at memorial site can be heard yelling at group to 'maintain an atmosphere of silence and respect at all times'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
+    "publishedAt": "2026-11-12T00:42:37.000Z"
+  },
+  {
+    "id": "fa827469545270a3",
+    "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+    "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo",
+    "publishedAt": "2026-11-12T00:36:11.000Z"
+  },
+  {
+    "id": "eebaa12392d0daa7",
+    "title": "Why the US, Mexico and Guatemala may lose their measles-free status",
+    "summary": "An independent commission is reviewing whether countries in the Americas still meet measles elimination criteria.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/why-the-us-mexico-and-guatemala-may-lose-their-measles-free-status?traffic_source=rss",
+    "publishedAt": "2026-11-12T00:33:44.000Z"
+  },
+  {
+    "id": "f6a95fffb5982951",
+    "title": "Cameroon: Who is really calling the shots?",
+    "summary": "Biya’s absences raise questions about who holds power and what comes next in Cameroon.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/cameroon-who-is-really-calling-the-shots?traffic_source=rss",
+    "publishedAt": "2026-11-12T00:29:33.000Z"
+  },
+  {
+    "id": "1fe1ab9d58153bba",
+    "title": "Beau Lamarre-Condon admits throwing Jesse Baird’s phone off a bridge after alleged murders, trial hears",
+    "summary": "Court hears former police officer agrees he was trying to destroy evidence that might incriminate him.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
+    "publishedAt": "2026-11-12T00:24:22.000Z"
+  },
+  {
     "id": "e0a8cb9010d78543",
     "title": "Sunbed firms must not downplay cancer risk, says watchdog",
     "summary": "The advertising watchdog says they also must not make misleading claims that sunbeds can treat skin conditions or improve mental health.",
@@ -25,6 +97,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cjkgep4rgngro",
     "publishedAt": "2026-11-12T00:12:28.000Z"
+  },
+  {
+    "id": "3d378b613dbd2db0",
+    "title": "US election results could be positive for Lebanon, Hezbollah chief says",
+    "summary": "Naim Qassem says Republican losses and Israel's election result could help Lebanon maintain sovereignty.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
+    "publishedAt": "2026-11-12T00:06:50.000Z"
   },
   {
     "id": "7149bcf16ed51080",
@@ -234,6 +315,15 @@
     "publishedAt": "2026-11-11T22:08:56.000Z"
   },
   {
+    "id": "38bafe3be8f01c30",
+    "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
+    "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
+    "publishedAt": "2026-11-11T21:59:07.000Z"
+  },
+  {
     "id": "ae9ccc3e0872fc32",
     "title": "UN peacekeepers failed to protect civilians before South Sudan massacre, Amnesty says",
     "summary": "Amnesty International says U.N. peacekeepers had weeks of warning before an attack killed more than 200 people in South Sudan but failed to do enough to protect civilians.",
@@ -439,6 +529,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/11/one-million-people-in-lebanon-facing-acute-food-insecurity-un-says?traffic_source=rss",
     "publishedAt": "2026-11-11T18:43:40.000Z"
+  },
+  {
+    "id": "41748fdcdec29b58",
+    "title": "Famed ship SS United States to be sunk off coast of Florida",
+    "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o",
+    "publishedAt": "2026-11-11T18:42:27.000Z"
   },
   {
     "id": "fdebfcc5154887ba",
@@ -1249,104 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
     "publishedAt": "2026-11-11T12:21:59.000Z"
-  },
-  {
-    "id": "44e9141710192071",
-    "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-    "summary": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo",
-    "publishedAt": "2026-11-11T12:14:12.000Z"
-  },
-  {
-    "id": "9e88384bbb7dabf6",
-    "title": "ITV to cut costs by £30m amid falling advertising sales",
-    "summary": "Ad revenue slowdown forces company to reduce spending on content by £25m before inquiry into takeover by Sky.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/11/itv-cut-costs-falling-advertising-sales",
-    "publishedAt": "2026-11-11T12:13:57.000Z"
-  },
-  {
-    "id": "1ea385862a2fae8d",
-    "title": "What is northern Europe’s new drone and warship plan to counter Russia?",
-    "summary": "UK-led coalition of 10 Northern European nations announces joint defence framework amid rising threats from Moscow.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/whats-northern-europes-new-drones-and-warships-plan-to-counter-russia?traffic_source=rss",
-    "publishedAt": "2026-11-11T12:13:52.000Z"
-  },
-  {
-    "id": "3acbe89121a7ad9f",
-    "title": "Belgian plan for ICE-style immigration raids on homes criticised as ‘law of fear’",
-    "summary": "Rights groups oppose law that will let police forcibly enter homes to remove refused asylum seekers.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/11/belgium-ice-style-home-raids-immigration",
-    "publishedAt": "2026-11-11T12:13:37.000Z"
-  },
-  {
-    "id": "0c1d2e4d370e4d84",
-    "title": "‘I’d steal 10-15 times a day’: ex-offenders on the addictions driving prolific shoplifting",
-    "summary": "Former shoplifters say treatment and drug rehabilitation are essential to ending cycle of theft and imprisonment.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/11/drug-addiction-shoplifting-rehabilitation",
-    "publishedAt": "2026-11-11T12:10:24.000Z"
-  },
-  {
-    "id": "01eabd65288eb909",
-    "title": "Rights group raises concerns about jailed Dr Abu Safia amid strikes on Gaza",
-    "summary": "PHRI says the arbitrary detention of Gaza doctors violates individual rights and undermines healthcare system.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/rights-group-raises-concerns-about-jailed-dr-abu-safia-amid-strikes-on-gaza?traffic_source=rss",
-    "publishedAt": "2026-11-11T12:05:51.000Z"
-  },
-  {
-    "id": "e17a92b1cbc61c57",
-    "title": "Pete Hegseth survives effort to impeach him | First Thing",
-    "summary": "House Republicans block impeachment resolution that cited US military actions in Iran, Yemen and Venezuela. Plus, SS United States to be sunk to create artificial reef.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/11/first-thing-pete-hegseth-survives-effort-to-impeach-him",
-    "publishedAt": "2026-11-11T12:04:36.000Z"
-  },
-  {
-    "id": "ad97d9224ac8eb96",
-    "title": "Poultry and captive birds must be kept inside in England and Scotland because of bird flu",
-    "summary": "Increased risk of devastating strain means restrictions imposed for second year in a row.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/11/bird-flu-poultry-captive-birds-kept-inside-england-scotland",
-    "publishedAt": "2026-11-11T12:03:15.000Z"
-  },
-  {
-    "id": "a7eee42707c5c4f9",
-    "title": "New Orleans attorney fined $400,000 after exposing abusive priest says it was ‘worth it’",
-    "summary": "Richard Trahant says accusers have been vindicated after Catholic church officially classifies Paul Hart as sex abuser.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/11/new-orleans-lawyer-abusive-priest",
-    "publishedAt": "2026-11-11T12:00:49.000Z"
-  },
-  {
-    "id": "6acb111c18e6ee27",
-    "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
-    "summary": "181GW of gas-fired capacity proposed for sites in US and Europe because of delays in connecting to national grids, says report.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
-    "publishedAt": "2026-11-11T12:00:48.000Z"
-  },
-  {
-    "id": "afc91ddb3f418767",
-    "title": "Pope will wrap up Argentina tour with a visit to a prison and a shrine before heading home to Peru",
-    "summary": "Pope Leo XIV will wrap up his visit to Argentina with two poignant moments: a meeting with inmates at a prison with a history linked to the country’s military dictatorship, and a final Mass at Argentina’s national shrine.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-wrap-argentina-tour-visit-prison-shrine-heading-138038537",
-    "publishedAt": "2026-11-11T11:52:41.000Z"
   }
 ]
