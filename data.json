@@ -1,5 +1,149 @@
 [
   {
+    "id": "cc03bc5b729f3d25",
+    "title": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
+    "summary": "Huang co-founded the chipmaker Nvidia, which has become one of the driving forces behind the AI boom. But reports that he may have had an affair with an alleged Chinese spy quickly sank his career.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-board-fired",
+    "publishedAt": "2026-11-12T14:17:20.000Z"
+  },
+  {
+    "id": "1823e2dd13e56066",
+    "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
+    "summary": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationship with employee.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
+    "publishedAt": "2026-11-12T14:04:50.000Z"
+  },
+  {
+    "id": "20fe8e3b7cd05c71",
+    "title": "What’s behind Australia’s surge in teen extremism?",
+    "summary": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
+    "publishedAt": "2026-11-12T14:00:45.000Z"
+  },
+  {
+    "id": "2714c90369b5afa8",
+    "title": "Icac’s drama and dirt files show NSW’s ‘guns for hire’ problem. But neither major party is serious about reform",
+    "summary": "Chris Minns is trying to address the threat of undeclared lobbying but falls well short of what the commission recommended five years ago.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb",
+    "publishedAt": "2026-11-12T14:00:44.000Z"
+  },
+  {
+    "id": "a048229e172720f5",
+    "title": "NSW’s latest news Instagram account has an unlikely group behind it: the Labor party",
+    "summary": "Expert warns of ‘huge loophole in political communication laws’ as state government among parties presenting accounts as unaffiliated news sources.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/13/nsw-newsroom-instagram-account-labor-party",
+    "publishedAt": "2026-11-12T14:00:42.000Z"
+  },
+  {
+    "id": "ceb1fb455d77f157",
+    "title": "‘It is much, much faster’: could China’s battery-swapping e-trucks be the answer to EV range anxiety?",
+    "summary": "Battery maker CATL aims to have 2,000 swapping stations in China by the end of 2027 and to bring the tech to Europe.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety",
+    "publishedAt": "2026-11-12T14:00:42.000Z"
+  },
+  {
+    "id": "efb9d7817b0d84dc",
+    "title": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
+    "summary": "Film features testimony from 24 Israeli officials involved in surveillance and remote killing of Palestinian civilians.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/global/2026/nov/12/naza-how-to-watch-guardian-acclaimed-gaza-documentary",
+    "publishedAt": "2026-11-12T13:57:05.000Z"
+  },
+  {
+    "id": "093b4f1bda0559f1",
+    "title": "Nvidia CEO Jensen Huang steps down amid spy scandal and market loss",
+    "summary": "This is a breaking news story.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo?traffic_source=rss",
+    "publishedAt": "2026-11-12T13:55:07.000Z"
+  },
+  {
+    "id": "ef285a6160b9ce10",
+    "title": "Yacht captain on reality show 'Below Deck' arrested in Turkey after teenager dies",
+    "summary": "A participant from the U.S. reality TV show “Below Deck” has been arrested in Turkey following a fight in Bodrum that left a 17-year-old dead.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/yacht-captain-reality-show-below-deck-arrested-turkey-138075373",
+    "publishedAt": "2026-11-12T13:52:05.000Z"
+  },
+  {
+    "id": "f96cdd998b68b517",
+    "title": "Poundland owner secures two extra weeks to ensure retail chain’s survival",
+    "summary": "US investment firm Gordon Brothers is ‘taking due care’ to consider if one of three bidders has enough funds.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/12/poundland-owner-secures-two-extra-weeks-ensure-retail-chains-survival",
+    "publishedAt": "2026-11-12T13:46:34.000Z"
+  },
+  {
+    "id": "fe2ac0750721ab87",
+    "title": "‘A second chance’: children guilty of serious offences will no longer have to declare criminal records",
+    "summary": "Government proposal aims to reduce number of children in custody in England and Wales and boost youth employment.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/12/children-criminal-records-england-wales-labour",
+    "publishedAt": "2026-11-12T13:44:20.000Z"
+  },
+  {
+    "id": "6a6e2a81e093441b",
+    "title": "First Thing: Mississippi turns blue as Scott Colom unseats Republican Senate incumbent",
+    "summary": "Defeating Cindy Hyde-Smith makes the 43-year-old district attorney the first Black Mississippi senator elected since Reconstruction. Plus, the South Korean scarf vendor who has gone viral for telling people not to buy.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/first-thing-mississippi-turns-blue-scott-colom-democrat-senate",
+    "publishedAt": "2026-11-12T13:38:57.000Z"
+  },
+  {
+    "id": "0bbe1a466ad895b9",
+    "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+    "summary": "The UK is seeing impressive growth, but will it last?",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo",
+    "publishedAt": "2026-11-12T13:27:09.000Z"
+  },
+  {
+    "id": "6681da1f1fc3f88e",
+    "title": "Father of South Carolina infant who survived being buried alive charged with attempted murder",
+    "summary": "Authorities say the boy was in the care of Michael Comer’s mother, but she left him with her son to run an errand.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/father-charged-bury-child-alive-south-carolina",
+    "publishedAt": "2026-11-12T13:24:40.000Z"
+  },
+  {
+    "id": "148b8dc9c2cade45",
+    "title": "More than 1,800 Italian schools targeted by new hoax bomb alerts",
+    "summary": "The latest warnings come amid rising concerns ⁠⁠⁠⁠⁠⁠⁠⁠in Europe about hybrid warfare threats.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts?traffic_source=rss",
+    "publishedAt": "2026-11-12T13:20:20.000Z"
+  },
+  {
+    "id": "2d5446f7d51e047a",
+    "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+    "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+    "publishedAt": "2026-11-12T13:14:38.000Z"
+  },
+  {
     "id": "efd84043b0c06504",
     "title": "I'm burnt out and feel forgotten as a young carer",
     "summary": "Min, 16, says people do not always understand her sacrifices and how valuable support is.",
@@ -574,6 +718,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o",
     "publishedAt": "2026-11-12T07:16:54.000Z"
+  },
+  {
+    "id": "f5ca583ba50d7356",
+    "title": "With Jensen Huang under pressure, Nvidia finds itself with no succession plan",
+    "summary": "Holding the position of co-founder, president and chief executive, Jensen Huang has about 60 executives reporting directly to him and has said himself he does not believe in succession planning.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-12/jensen-huang-nvidia-ceo-succession-plan-after-spy-plot/107376722",
+    "publishedAt": "2026-11-12T07:01:07.000Z"
   },
   {
     "id": "be8c73e4dd0cfc64",
@@ -1195,158 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmn80735d3eqo",
     "publishedAt": "2026-11-11T22:26:26.000Z"
-  },
-  {
-    "id": "502a4a7d097f5604",
-    "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
-    "summary": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o",
-    "publishedAt": "2026-11-11T22:26:18.000Z"
-  },
-  {
-    "id": "008f3dd410e56302",
-    "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
-    "summary": "The BBC denies defamation charge as Trump celebrates “huge victory” in court decision.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss",
-    "publishedAt": "2026-11-11T22:10:12.000Z"
-  },
-  {
-    "id": "b9c0719774360ef5",
-    "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-    "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko",
-    "publishedAt": "2026-11-11T22:08:56.000Z"
-  },
-  {
-    "id": "335e45d81e0a6603",
-    "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-    "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
-    "publishedAt": "2026-11-11T22:07:37.000Z"
-  },
-  {
-    "id": "38bafe3be8f01c30",
-    "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
-    "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
-    "publishedAt": "2026-11-11T21:59:07.000Z"
-  },
-  {
-    "id": "ae9ccc3e0872fc32",
-    "title": "UN peacekeepers failed to protect civilians before South Sudan massacre, Amnesty says",
-    "summary": "Amnesty International says U.N. peacekeepers had weeks of warning before an attack killed more than 200 people in South Sudan but failed to do enough to protect civilians.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/peacekeepers-failed-protect-civilians-south-sudan-massacre-amnesty-138059244",
-    "publishedAt": "2026-11-11T21:34:11.000Z"
-  },
-  {
-    "id": "859ad4dd6532c1d9",
-    "title": "A cafe in Ukraine relocates from its besieged hometown and reopens",
-    "summary": "After Russian airstrikes destroyed a popular cafe in a frontline Ukrainian city, the cafe reopened in a safer region, an example of how Ukrainian businesses are trying to survive amid repeated bombing.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/11/nx-s1-6034533/a-cafe-in-ukraine-relocates-from-its-besieged-hometown-and-reopens",
-    "publishedAt": "2026-11-11T21:24:01.000Z"
-  },
-  {
-    "id": "bf486b75525366c8",
-    "title": "Human torso found on sofa in Sydney bushland prompts homicide investigation",
-    "summary": "Police called to Lane Cove North on Wednesday after sofa found containing human torso believed to be that of adult man.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
-    "publishedAt": "2026-11-11T21:09:56.000Z"
-  },
-  {
-    "id": "559181db63ab3703",
-    "title": "Opponents of Israel's prime minister may have to cross a red line to build new coalition",
-    "summary": "Opponents of Israel's hardline prime minister are trying to oust him, by building a new coalition. To do so, they may have to cross a red line drawn by most Israeli parties: Work with Arab colleagues.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/11/nx-s1-6035550/opponents-of-israels-prime-minister-may-have-to-cross-a-red-line-to-build-new-coalition",
-    "publishedAt": "2026-11-11T21:05:20.000Z"
-  },
-  {
-    "id": "2ddd2143029782cd",
-    "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
-    "summary": "Iran's parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
-    "publishedAt": "2026-11-11T21:03:40.000Z"
-  },
-  {
-    "id": "ed3e67598eded1de",
-    "title": "Oil production nears pre-Iran war levels, OPEC says",
-    "summary": "Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
-    "publishedAt": "2026-11-11T20:45:30.000Z"
-  },
-  {
-    "id": "ff69673c51486386",
-    "title": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
-    "summary": "Democratic lawmaker Robert Garcia denounced a White House letter as an unconstitutional attack on legislative branch.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
-    "publishedAt": "2026-11-11T20:39:50.000Z"
-  },
-  {
-    "id": "e49b96af5b2d4880",
-    "title": "Nvidia board meets after Jensen Huang allegedly had second affair",
-    "summary": "Numerous reports say the Nvidia board is preparing to oust CEO Jensen Huang after he allegedly had two extramarital affairs, including one with a suspected Chinese spy.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-12/asx-markets-business-news-live-updates-thursday-12-november/107374826",
-    "publishedAt": "2026-11-11T20:33:21.000Z"
-  },
-  {
-    "id": "40a1a840624973fa",
-    "title": "Driver faces DUI and murder charges after three killed in LA crash, officials say",
-    "summary": "Driver, 61, faces DUI and murder charges after Tuesday crash critically injuring two others in North Hollywood.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/los-angeles-vehicle-crash",
-    "publishedAt": "2026-11-11T20:30:56.000Z"
-  },
-  {
-    "id": "d69184e718d9bcec",
-    "title": "F1 champion Lewis Hamilton calls on Israel to open Gaza’s Rafah border",
-    "summary": "Hamilton visited the Egypt-Gaza border as conditions worsened for Palestinians in Gaza after heavy rains.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/f1-champion-lewis-hamilton-calls-on-israel-to-open-rafah-border?traffic_source=rss",
-    "publishedAt": "2026-11-11T20:24:51.000Z"
-  },
-  {
-    "id": "69db2c6fdc286aa3",
-    "title": "17-year-old charged in fatal Bronx shooting of 15-year-old boy",
-    "summary": "Death of Javits Frimpong, who moved to the US from Ghana a year ago, has affected close-knit Ghanaian community.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/11/bronx-fatal-shooting-teen-boy-arrest",
-    "publishedAt": "2026-11-11T20:21:14.000Z"
-  },
-  {
-    "id": "408fe5da48df0689",
-    "title": "African writing award probe finds 'no evidence' winning story was AI generated",
-    "summary": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko",
-    "publishedAt": "2026-11-11T20:00:54.000Z"
   }
 ]
