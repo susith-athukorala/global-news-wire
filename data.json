@@ -1,5 +1,50 @@
 [
   {
+    "id": "47e46de3e9f31518",
+    "title": "Pope tells Peru's bishops to accompany their flocks and respond to abuse victims with truth, justice",
+    "summary": "Pope Leo XIV is opening his first day in Peru by giving marching orders to the country’s Catholic bishops.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-tells-perus-bishops-accompany-flocks-respond-abuse-138081099",
+    "publishedAt": "2026-11-12T16:04:34.000Z"
+  },
+  {
+    "id": "ca20ca3d532785d0",
+    "title": "Florida St Patrick’s Day parade cancelled over Republican anti-DEI law, causing outrage",
+    "summary": "Ron DeSantis signed law prompting the city of Delray Beach to announce it was scrapping its popular Irish celebration.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/florida-st-patricks-day-parade-cancelled-dei",
+    "publishedAt": "2026-11-12T15:51:29.000Z"
+  },
+  {
+    "id": "3bf6dc30ef51d060",
+    "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+    "summary": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+    "publishedAt": "2026-11-12T15:26:34.000Z"
+  },
+  {
+    "id": "fd25624fd8f90a60",
+    "title": "UK court finds two Iranian men guilty of spying for Iran",
+    "summary": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
+    "publishedAt": "2026-11-12T15:15:48.000Z"
+  },
+  {
+    "id": "536c0521e12bf1e8",
+    "title": "Spain approves housing reforms after nationwide strike over costs",
+    "summary": "Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
+    "publishedAt": "2026-11-12T15:02:30.000Z"
+  },
+  {
     "id": "caced9783dab4cd6",
     "title": "US workers are fighting to protect their jobs from AI – and winning",
     "summary": "As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harms.",
@@ -16,6 +61,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
     "publishedAt": "2026-11-12T14:48:55.000Z"
+  },
+  {
+    "id": "ccba7e485bb3efe2",
+    "title": "Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?",
+    "summary": "Outgoing Nvidia chief credited with easing US-China chip ties but personal scandal unlikely to upend next week's talks.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/trump-heads-to-china-amid-nvidia-scandal-will-he-get-tougher-on-beijing?traffic_source=rss",
+    "publishedAt": "2026-11-12T14:48:10.000Z"
   },
   {
     "id": "2f056bf8a4230f94",
@@ -115,6 +169,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/society/2026/nov/12/time-running-out-young-people-meningitis-b-vaccines-uk",
     "publishedAt": "2026-11-12T14:16:18.000Z"
+  },
+  {
+    "id": "83450e3d58d53088",
+    "title": "Before Scott Colom, these two men were the last black US senators in Mississippi",
+    "summary": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do",
+    "publishedAt": "2026-11-12T14:12:55.000Z"
   },
   {
     "id": "79bed904631621d7",
@@ -261,6 +324,15 @@
     "publishedAt": "2026-11-12T13:20:20.000Z"
   },
   {
+    "id": "048ae611e438b898",
+    "title": "Some under-25s should get fewer benefits, Milburn review to say",
+    "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o",
+    "publishedAt": "2026-11-12T13:16:59.000Z"
+  },
+  {
     "id": "2d5446f7d51e047a",
     "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
     "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’",
@@ -315,6 +387,15 @@
     "publishedAt": "2026-11-12T12:57:12.000Z"
   },
   {
+    "id": "b492a23bee05e448",
+    "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+    "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+    "publishedAt": "2026-11-12T12:56:55.000Z"
+  },
+  {
     "id": "c05ce6250333c9a3",
     "title": "Canada won’t let Russian players enter for ice hockey junior championship",
     "summary": "Russian, Belarusian athletes and officials will be prevented from entering Canada regardless of their visa status.",
@@ -349,6 +430,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/armed-robbers-flee-paris-jewelry-store-motorcycles-138074429",
     "publishedAt": "2026-11-12T12:42:21.000Z"
+  },
+  {
+    "id": "b8ecd525451ef32f",
+    "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+    "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o",
+    "publishedAt": "2026-11-12T12:39:39.000Z"
   },
   {
     "id": "c0b6c5ae0f71e34b",
@@ -999,6 +1089,15 @@
     "publishedAt": "2026-11-12T06:13:52.000Z"
   },
   {
+    "id": "f67c5d112d2a4e19",
+    "title": "Free Sad lamps given out as disorder 'makes it hard to do anything on darker days'",
+    "summary": "Seasonal Affective Disorder can affect mood, energy and sleep during the winter months.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6wyvy50r2ewo",
+    "publishedAt": "2026-11-12T06:11:41.000Z"
+  },
+  {
     "id": "9a90c1e43d1bf9bb",
     "title": "I saved a stranger's life and my husband's at the same time",
     "summary": "Una Brown had always said she would give a kidney to her husband Sean if the time came, and she did so in a roundabout way.",
@@ -1024,6 +1123,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo",
     "publishedAt": "2026-11-12T06:06:41.000Z"
+  },
+  {
+    "id": "aa932b3d176d27ef",
+    "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
+    "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro",
+    "publishedAt": "2026-11-12T06:02:55.000Z"
   },
   {
     "id": "00df9dd843dca4b3",
@@ -1240,113 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
     "publishedAt": "2026-11-12T00:43:26.000Z"
-  },
-  {
-    "id": "a6b2f9d2807ed788",
-    "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
-    "summary": "Guard at memorial site can be heard yelling at group to 'maintain an atmosphere of silence and respect at all times'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-    "publishedAt": "2026-11-12T00:42:37.000Z"
-  },
-  {
-    "id": "fa827469545270a3",
-    "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
-    "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo",
-    "publishedAt": "2026-11-12T00:36:11.000Z"
-  },
-  {
-    "id": "eebaa12392d0daa7",
-    "title": "Why the US, Mexico and Guatemala may lose their measles-free status",
-    "summary": "An independent commission is reviewing whether countries in the Americas still meet measles elimination criteria.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/why-the-us-mexico-and-guatemala-may-lose-their-measles-free-status?traffic_source=rss",
-    "publishedAt": "2026-11-12T00:33:44.000Z"
-  },
-  {
-    "id": "f6a95fffb5982951",
-    "title": "Cameroon: Who is really calling the shots?",
-    "summary": "Biya’s absences raise questions about who holds power and what comes next in Cameroon.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/cameroon-who-is-really-calling-the-shots?traffic_source=rss",
-    "publishedAt": "2026-11-12T00:29:33.000Z"
-  },
-  {
-    "id": "1fe1ab9d58153bba",
-    "title": "Beau Lamarre-Condon admits throwing Jesse Baird’s phone off a bridge after alleged murders, trial hears",
-    "summary": "Court hears former police officer agrees he was trying to destroy evidence that might incriminate him.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
-    "publishedAt": "2026-11-12T00:24:22.000Z"
-  },
-  {
-    "id": "e0a8cb9010d78543",
-    "title": "Sunbed firms must not downplay cancer risk, says watchdog",
-    "summary": "The advertising watchdog says they also must not make misleading claims that sunbeds can treat skin conditions or improve mental health.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o",
-    "publishedAt": "2026-11-12T00:13:27.000Z"
-  },
-  {
-    "id": "5c3c92dd1a71452b",
-    "title": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
-    "summary": "The decline has been put down to severe restrictions placed on the substances' use.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo",
-    "publishedAt": "2026-11-12T00:12:59.000Z"
-  },
-  {
-    "id": "7bba35411a1e93f3",
-    "title": "Are max strength cold and flu pills worth the money?",
-    "summary": "Some cold and flu remedies cost 20 times as much as a basic pack of paracetamol or ibuprofen.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cjkgep4rgngro",
-    "publishedAt": "2026-11-12T00:12:28.000Z"
-  },
-  {
-    "id": "3d378b613dbd2db0",
-    "title": "US election results could be positive for Lebanon, Hezbollah chief says",
-    "summary": "Naim Qassem says Republican losses and Israel's election result could help Lebanon maintain sovereignty.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
-    "publishedAt": "2026-11-12T00:06:50.000Z"
-  },
-  {
-    "id": "7149bcf16ed51080",
-    "title": "Brooklyn building collapse kills at least one, traps others in wreckage",
-    "summary": "Three-story building was at the edge of a construction site where another edifice had been demolished.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse",
-    "publishedAt": "2026-11-12T00:06:10.000Z"
-  },
-  {
-    "id": "c13231d6f73f9435",
-    "title": "From Paris to DC - why offices are being turned into apartments",
-    "summary": "Office buildings with low occupancy rates are being transformed into flats.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo",
-    "publishedAt": "2026-11-12T00:05:40.000Z"
-  },
-  {
-    "id": "816868731ba4260b",
-    "title": "Bronze leg found in Scottish bog sheds new light on Roman occupation",
-    "summary": "Once thought to have been looted by Scottish tribes, the gilded limb is the centrepiece of a new exhibition on Roman Scotland in Edinburgh.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/12/bronze-leg-scottish-bog-roman-occupation-exhibit",
-    "publishedAt": "2026-11-12T00:01:03.000Z"
   }
 ]
