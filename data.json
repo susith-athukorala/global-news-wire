@@ -1,5 +1,59 @@
 [
   {
+    "id": "efd84043b0c06504",
+    "title": "I'm burnt out and feel forgotten as a young carer",
+    "summary": "Min, 16, says people do not always understand her sacrifices and how valuable support is.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c68xzylnzjv9o",
+    "publishedAt": "2026-11-12T13:07:06.000Z"
+  },
+  {
+    "id": "890bcea5880dd8cf",
+    "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+    "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo",
+    "publishedAt": "2026-11-12T13:02:37.000Z"
+  },
+  {
+    "id": "e88013ff850da643",
+    "title": "London court finds 2 Iranian men guilty of spying for Tehran",
+    "summary": "Two Iranian men have been found guilty of spying on journalists in London for Tehran.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/london-court-finds-2-iranian-men-guilty-spying-138075096",
+    "publishedAt": "2026-11-12T12:58:15.000Z"
+  },
+  {
+    "id": "9be06ac92f63eba3",
+    "title": "FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal",
+    "summary": "FIFA says its 'security assessments' for the 48-team tournament remain unchanged after US Soccer pulled out.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal?traffic_source=rss",
+    "publishedAt": "2026-11-12T12:57:12.000Z"
+  },
+  {
+    "id": "c05ce6250333c9a3",
+    "title": "Canada won’t let Russian players enter for ice hockey junior championship",
+    "summary": "Russian, Belarusian athletes and officials will be prevented from entering Canada regardless of their visa status.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/12/canada-wont-let-russian-players-enter-for-ice-hockey-junior-championship?traffic_source=rss",
+    "publishedAt": "2026-11-12T12:56:27.000Z"
+  },
+  {
+    "id": "05ed366c779bec66",
+    "title": "Europe views US with ‘much less horror’ after Trump’s midterms defeat",
+    "summary": "But experts say Washington’s shift away from Europe runs deeper than Trump and is unlikely to be reversed.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/europe-views-us-with-much-less-horror-after-trumps-midterms-defeat?traffic_source=rss",
+    "publishedAt": "2026-11-12T12:51:43.000Z"
+  },
+  {
     "id": "6555c152931b217d",
     "title": "Metro Bank up for sale, with billionaire investor in line for £420m windfall",
     "summary": "Shares up 7% after announcement as Jaime Gilinski Bacal seeks exit three years after helping to rescue bank.",
@@ -7,6 +61,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/12/metro-bank-up-for-sale-billionaire-investor-in-line-420m-windfall",
     "publishedAt": "2026-11-12T12:43:49.000Z"
+  },
+  {
+    "id": "c0b6c5ae0f71e34b",
+    "title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
+    "summary": "Israel, the US, Christian Zionism and the search for Armageddon.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/12/greater-israel-how-christian-zionism-infiltrated-us-policy?traffic_source=rss",
+    "publishedAt": "2026-11-12T12:39:21.000Z"
   },
   {
     "id": "a685f82f317483a5",
@@ -738,6 +801,15 @@
     "publishedAt": "2026-11-12T04:40:25.000Z"
   },
   {
+    "id": "41748fdcdec29b58",
+    "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
+    "summary": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o",
+    "publishedAt": "2026-11-12T04:03:13.000Z"
+  },
+  {
     "id": "fbc14e5f6ea51acf",
     "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
     "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
@@ -1276,77 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko",
     "publishedAt": "2026-11-11T20:00:54.000Z"
-  },
-  {
-    "id": "b4c61accff62b7c2",
-    "title": "Pope Leo returns to what is expected to be a national party in his second homeland of Peru",
-    "summary": "Pope Leo XIV is headed to his second homeland.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-leo-returns-expected-national-party-homeland-peru-138054377",
-    "publishedAt": "2026-11-11T19:57:13.000Z"
-  },
-  {
-    "id": "d52e8cf8d9f3601b",
-    "title": "Veteran actor Irma P Hall, star of The Ladykillers, dies aged 91",
-    "summary": "Once a Dallas school teacher, Hall became a star in later life with roles in Soul Food and Collateral.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/11/irma-p-hall-actor-dies",
-    "publishedAt": "2026-11-11T19:47:16.000Z"
-  },
-  {
-    "id": "6be9f289f6ede05f",
-    "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-    "summary": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo",
-    "publishedAt": "2026-11-11T19:15:45.000Z"
-  },
-  {
-    "id": "bd0731fb3c38db8f",
-    "title": "Which key races remain undecided one week after the US midterms?",
-    "summary": "Democrats hope several races that are still too close to call will further expand their majorities in the US Congress.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/which-key-races-remain-undecided-one-week-after-the-us-midterms?traffic_source=rss",
-    "publishedAt": "2026-11-11T19:14:29.000Z"
-  },
-  {
-    "id": "115de878dd5a9be1",
-    "title": "Poundland owner extracted millions when chain was on ‘knife-edge’, MPs say",
-    "summary": "Retailer’s management to seek two-week extension of legal protection from creditors in high court.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
-    "publishedAt": "2026-11-11T19:10:26.000Z"
-  },
-  {
-    "id": "e31a6b811e511549",
-    "title": "Double amputee marathon runner criticises Badenoch for ‘weaponising his success’",
-    "summary": "Paralympian Richard Whitehead ‘gobsmacked’ at Tory leader’s speech over proposed £36bn welfare cuts.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/sport/2026/nov/11/double-amputee-runner-richard-whitehead-badenoch-weaponising-success-welfare",
-    "publishedAt": "2026-11-11T19:07:36.000Z"
-  },
-  {
-    "id": "efa89ef0f2cdd064",
-    "title": "British soldier charged with rape of army servicewoman in Cyprus",
-    "summary": "L/Cpl Nicholas Horne, from the 4th Battalion of the Royal Regiment of Scotland, charged with one count of rape on 23 October.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/11/scots-soldier-charged-with-of-army-servicewoman-in-cyprus",
-    "publishedAt": "2026-11-11T19:06:48.000Z"
-  },
-  {
-    "id": "e6e68d81a95acbe5",
-    "title": "HungryPanda driver's death shows crime at 'appalling level', voters say",
-    "summary": "Some in the Chinese community say the fatal stabbing of a delivery driver is evidence that crime is at \"an appalling level\".",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-12/fatal-stabbing-concerns-the-chinese-community/107371462",
-    "publishedAt": "2026-11-11T19:01:39.000Z"
   }
 ]
