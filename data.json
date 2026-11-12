@@ -1,5 +1,14 @@
 [
   {
+    "id": "fbc14e5f6ea51acf",
+    "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+    "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+    "publishedAt": "2026-11-12T04:01:14.000Z"
+  },
+  {
     "id": "df72687aa87f346f",
     "title": "Building collapse in Brooklyn kills two, injures more than a dozen",
     "summary": "Rescue crews search for victims as Mayor Mamdani says first responders arrived one minute after emergency call.",
@@ -1339,14 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss",
     "publishedAt": "2026-11-11T13:16:30.000Z"
-  },
-  {
-    "id": "9ac47fc2bd3701f9",
-    "title": "Nissan reduces petrol car production as EV sales boom in China",
-    "summary": "Manufacturer says ‘shift to new energy vehicles is happening faster than expected’ and market is harsh.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china",
-    "publishedAt": "2026-11-11T13:11:58.000Z"
   }
 ]
