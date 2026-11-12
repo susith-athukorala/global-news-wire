@@ -1,5 +1,50 @@
 [
   {
+    "id": "388c180a1aeca5f9",
+    "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
+    "summary": "An alert on Microsoft’s site said it was ‘aggressively pursuing all pathways to reduce impact’ and blamed a server issue.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+    "publishedAt": "2026-11-12T21:00:07.000Z"
+  },
+  {
+    "id": "ce619eba8b16aa70",
+    "title": "‘Win-win’ deal with EU could be done, Andy Burmham says",
+    "summary": "Prime minister says reset could be a deal ‘like the Brexit people thought they were voting for in 2016’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
+    "publishedAt": "2026-11-12T20:59:05.000Z"
+  },
+  {
+    "id": "8686ec50a7cc1b89",
+    "title": "Woman, 18, admits murdering girl, 16, in Leeds",
+    "summary": "Kayla Smith stabbed Chloe Watson Dransfield to death during planned fight over young man.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/12/woman-18-admits-murdering-girl-16-in-leeds",
+    "publishedAt": "2026-11-12T20:57:07.000Z"
+  },
+  {
+    "id": "f5055e4f554c0da0",
+    "title": "Be sea-ing you: humpback whale spotted in New York’s Hudson River",
+    "summary": "Sightings of the species are becoming increasingly common as experts worry about danger posed by busy waterways.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/humpback-whale-new-york-city-hudson-river",
+    "publishedAt": "2026-11-12T20:53:49.000Z"
+  },
+  {
+    "id": "692df73aa84131b5",
+    "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
+    "summary": "The report seeks to address concerns about the Trump administration's handling of revenue held in trust for Venezuela.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
+    "publishedAt": "2026-11-12T20:49:36.000Z"
+  },
+  {
     "id": "680cc0a2f3f31671",
     "title": "CDC reports six measles deaths in 2026 as US battles worst outbreak in 35 years",
     "summary": "Figures highlight spread of virus, officially declared eliminated in US in 2000, but CDC does not identify which states accounted for deaths.",
@@ -88,6 +133,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics?traffic_source=rss",
     "publishedAt": "2026-11-12T19:32:25.000Z"
+  },
+  {
+    "id": "bdd95c40cbaa24ce",
+    "title": "Microsoft platforms suffering widespread outages, including Outlook",
+    "summary": "A global outage has hit Microsoft platforms, including Outlook, with many users encountering trouble using their email accounts and other errors across the tech giant's suite of apps.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage/107380958",
+    "publishedAt": "2026-11-12T19:29:40.000Z"
   },
   {
     "id": "633d5f2300bbfb2e",
@@ -891,6 +945,15 @@
     "publishedAt": "2026-11-12T11:53:14.000Z"
   },
   {
+    "id": "92084135542b22be",
+    "title": "A missing teen is found alive after 6 days in the Australian woodlands",
+    "summary": "A 17-year-old boy with autism has been found alive after six days lost in eastern Australian woodlands.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/missing-teen-found-alive-after-6-days-australian-138068466",
+    "publishedAt": "2026-11-12T11:49:32.000Z"
+  },
+  {
     "id": "5ad75f51d323d115",
     "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
     "summary": "CEO of chip maker is under scrutiny after reports of affairs, including a relationship with an alleged Chinese spy.",
@@ -936,6 +999,15 @@
     "publishedAt": "2026-11-12T11:30:33.000Z"
   },
   {
+    "id": "be8c73e4dd0cfc64",
+    "title": "Indonesia's vice president resigns as his eligibility and academic credentials are questioned",
+    "summary": "Indonesia’s vice president has resigned as questions grew over his eligibility for the office after recent court rulings disputed his educational credentials.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/indonesias-vice-president-resigns-eligibility-academic-credentials-questioned-138069107",
+    "publishedAt": "2026-11-12T11:30:27.000Z"
+  },
+  {
     "id": "7cf80c14f947f13b",
     "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
     "summary": "Patients awaiting surgery die in attack on one of few remaining medical facilities in the strip, doctor says.",
@@ -943,6 +1015,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
     "publishedAt": "2026-11-12T11:24:09.000Z"
+  },
+  {
+    "id": "4fb876fe22cf4a1f",
+    "title": "UK economy grows at fastest rate for more than two years",
+    "summary": "The UK economy grew by 0.7% in the three months to September, according to official figures.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o",
+    "publishedAt": "2026-11-12T11:20:25.000Z"
   },
   {
     "id": "092148901e2564bb",
@@ -1267,86 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/dutch-coalition-collapse-1-party-upset-tax-deal-138071590",
     "publishedAt": "2026-11-12T08:58:19.000Z"
-  },
-  {
-    "id": "021fbddc959de733",
-    "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
-    "summary": "A cargo ship is set to leave Ireland for Russia with alumina, a white powder that experts say is likely used to make weapons.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ireland-faces-pressure-stop-sending-russia-ingredient-vital-138069912",
-    "publishedAt": "2026-11-12T08:58:15.000Z"
-  },
-  {
-    "id": "f57f8322ed7afed7",
-    "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-    "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
-    "publishedAt": "2026-11-12T08:46:57.000Z"
-  },
-  {
-    "id": "504deffe05e75bb2",
-    "title": "India bypasses own rules to buy Israeli phone-hacking tech",
-    "summary": "India's expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
-    "publishedAt": "2026-11-12T08:40:08.000Z"
-  },
-  {
-    "id": "b0a8093170fae7fd",
-    "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
-    "summary": "Officers were returning from a mine in Kohat district when fighters opened fire on them, authorities say.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
-    "publishedAt": "2026-11-12T08:35:20.000Z"
-  },
-  {
-    "id": "2e231ca11348f7f2",
-    "title": "‘Tourists hate themselves’ – which is why Tasmania is telling them to stay away",
-    "summary": "Island state declares it ‘is not really for tourists’ – but is the marketing strategy just a cheeky piece of reverse psychology?",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/12/tourists-hate-themselves-which-is-why-tasmania-is-telling-people-to-stay-away",
-    "publishedAt": "2026-11-12T08:30:57.000Z"
-  },
-  {
-    "id": "d09e865f9c014694",
-    "title": "What to know as European leaders meet to discuss Ukraine's security, and their own",
-    "summary": "Leaders from over 40 European countries are gathering in Dublin for a summit focused on the continent’s fragile security.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/european-leaders-meet-dublin-discuss-ukraines-security-138070889",
-    "publishedAt": "2026-11-12T08:10:22.000Z"
-  },
-  {
-    "id": "f80527b0e02efa3a",
-    "title": "Water industry bonus ban to be tightened as Ofwat warns of ‘damage to public trust’",
-    "summary": "Regulator to hasten review over concerns that firms are ‘undermining’ rules to make large payments to bosses.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat",
-    "publishedAt": "2026-11-12T07:59:52.000Z"
-  },
-  {
-    "id": "826cb0c90a0335e4",
-    "title": "UK economy grows at fastest pace for more than two years",
-    "summary": "GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
-    "publishedAt": "2026-11-12T07:56:19.000Z"
-  },
-  {
-    "id": "1f4dcf54856ef40a",
-    "title": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
-    "summary": "The head teacher of the school has been arrested to assist police investigations.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo",
-    "publishedAt": "2026-11-12T07:45:52.000Z"
   }
 ]
