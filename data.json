@@ -1,5 +1,95 @@
 [
   {
+    "id": "e0a8cb9010d78543",
+    "title": "Sunbed firms must not downplay cancer risk, says watchdog",
+    "summary": "The advertising watchdog says they also must not make misleading claims that sunbeds can treat skin conditions or improve mental health.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o",
+    "publishedAt": "2026-11-12T00:13:27.000Z"
+  },
+  {
+    "id": "5c3c92dd1a71452b",
+    "title": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
+    "summary": "The decline has been put down to severe restrictions placed on the substances' use.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo",
+    "publishedAt": "2026-11-12T00:12:59.000Z"
+  },
+  {
+    "id": "7bba35411a1e93f3",
+    "title": "Are max strength cold and flu pills worth the money?",
+    "summary": "Some cold and flu remedies cost 20 times as much as a basic pack of paracetamol or ibuprofen.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cjkgep4rgngro",
+    "publishedAt": "2026-11-12T00:12:28.000Z"
+  },
+  {
+    "id": "7149bcf16ed51080",
+    "title": "Brooklyn building collapse kills at least one, traps others in wreckage",
+    "summary": "Three-story building was at the edge of a construction site where another edifice had been demolished.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse",
+    "publishedAt": "2026-11-12T00:06:10.000Z"
+  },
+  {
+    "id": "c13231d6f73f9435",
+    "title": "From Paris to DC - why offices are being turned into apartments",
+    "summary": "Office buildings with low occupancy rates are being transformed into flats.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo",
+    "publishedAt": "2026-11-12T00:05:40.000Z"
+  },
+  {
+    "id": "816868731ba4260b",
+    "title": "Bronze leg found in Scottish bog sheds new light on Roman occupation",
+    "summary": "Once thought to have been looted by Scottish tribes, the gilded limb is the centrepiece of a new exhibition on Roman Scotland in Edinburgh.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/12/bronze-leg-scottish-bog-roman-occupation-exhibit",
+    "publishedAt": "2026-11-12T00:01:03.000Z"
+  },
+  {
+    "id": "81a2eb1db642adb2",
+    "title": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
+    "summary": "Inspectors find some officers acted on potential matches from retrospective searches without making enough checks.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
+    "publishedAt": "2026-11-12T00:01:03.000Z"
+  },
+  {
+    "id": "c7f0c9eb00773ec3",
+    "title": "Democrats push to rein in Trump on immigration after voter backlash to ICE raids",
+    "summary": "Members of Congress seek to ‘bring sanity’ to system but decline to give details on plans to reform or abolish agency.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda",
+    "publishedAt": "2026-11-11T23:42:08.000Z"
+  },
+  {
+    "id": "2b537f6af7fe32a0",
+    "title": "Hacker claims to have sold VCE exam papers to hundreds of students after government website hack",
+    "summary": "With year 12 exams under way, VCAA says there is no evidence any have leaked and hacker is attempting to exploit ‘anxious students’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/12/vce-exams-hack-year-12-papers-vcaa-victorian-curriculum-and-assessment-authority",
+    "publishedAt": "2026-11-11T23:28:17.000Z"
+  },
+  {
+    "id": "048ae611e438b898",
+    "title": "Some under-25s should get less benefits, Milburn review to say",
+    "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o",
+    "publishedAt": "2026-11-11T23:22:04.000Z"
+  },
+  {
     "id": "d5216de1e2726acd",
     "title": "Democrat Scott Colom unseats Cindy Hyde-Smith in shocking Mississippi Senate win",
     "summary": "Colom takes victory by razor-thin margin in state that hasn’t elected a Democrat to the Senate since 1982.",
@@ -16,6 +106,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
     "publishedAt": "2026-11-11T23:09:07.000Z"
+  },
+  {
+    "id": "19cef2d2485d9bf7",
+    "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
+    "summary": "The historic victory flips an eighth US Senate seat for Democrats after last week's pivotal midterm election.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
+    "publishedAt": "2026-11-11T23:05:34.000Z"
   },
   {
     "id": "0b29ab9cde481d32",
@@ -124,6 +223,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss",
     "publishedAt": "2026-11-11T22:10:12.000Z"
+  },
+  {
+    "id": "b9c0719774360ef5",
+    "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+    "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko",
+    "publishedAt": "2026-11-11T22:08:56.000Z"
   },
   {
     "id": "ae9ccc3e0872fc32",
@@ -792,6 +900,15 @@
     "publishedAt": "2026-11-11T14:43:46.000Z"
   },
   {
+    "id": "8313a28070c3fbeb",
+    "title": "Ukraine and Russia agree to large prisoner swap after US-mediated talks",
+    "summary": "Following two days of US-mediated talks, Ukraine and Russia have agreed to a large exchange of prisoners of war.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462",
+    "publishedAt": "2026-11-11T14:42:51.000Z"
+  },
+  {
     "id": "6d79df247cc12721",
     "title": "Virginia man convicted of murder says he did not kill wife before dismembering her body",
     "summary": "Naresh Bhatt, 28, said he dismembered wife’s body after she took her own life, a claim prosecutors called ‘ridiculous’",
@@ -1231,122 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/pope-wrap-argentina-tour-visit-prison-shrine-heading-138038537",
     "publishedAt": "2026-11-11T11:52:41.000Z"
-  },
-  {
-    "id": "77c3bc663b2f8c61",
-    "title": "El Salvador's Bukele makes a political gamble with a Haiti gang offensive ahead of an election",
-    "summary": "Salvadoran President Nayib Bukele has sought to present himself as the savior to Haiti’s gang crisis.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/el-salvadors-bukele-makes-political-gamble-haiti-gang-138040031",
-    "publishedAt": "2026-11-11T11:50:44.000Z"
-  },
-  {
-    "id": "c13004370be5d3a7",
-    "title": "Militants ambush police vehicles in northwestern Pakistan, killing at least 10 officers",
-    "summary": "Police say militants have ambushed vehicles carrying police officers in northwestern Pakistan, triggering a gunbattle that killed at least 10 officers.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/militants-ambush-police-vehicles-northwestern-pakistan-killing-10-138040033",
-    "publishedAt": "2026-11-11T11:50:42.000Z"
-  },
-  {
-    "id": "38bafe3be8f01c30",
-    "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
-    "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
-    "publishedAt": "2026-11-11T11:49:12.000Z"
-  },
-  {
-    "id": "5fd791b2b236e9ce",
-    "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
-    "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo",
-    "publishedAt": "2026-11-11T11:47:22.000Z"
-  },
-  {
-    "id": "ebc3e5fcbca76a78",
-    "title": "Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales",
-    "summary": "Tactics to include GPS tagging for repeat offenders, high street bans and tougher sentences.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/11/police-target-chronic-shoplifters-retail-crackdown-england-wales",
-    "publishedAt": "2026-11-11T11:46:37.000Z"
-  },
-  {
-    "id": "daca68b5a7f5ac38",
-    "title": "Transport workers in Chile block highways in protest over surging fuel prices",
-    "summary": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o",
-    "publishedAt": "2026-11-11T11:34:50.000Z"
-  },
-  {
-    "id": "49fd977ed9793125",
-    "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-    "summary": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo",
-    "publishedAt": "2026-11-11T11:33:24.000Z"
-  },
-  {
-    "id": "f89027ea8ad422d2",
-    "title": "Private renters in the UK: how difficult is the rental market where you live?",
-    "summary": "We’d like to hear from private renters about rising costs, finding somewhere to live and dealing with landlords.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/11/private-renters-in-the-uk-how-difficult-is-the-rental-market-where-you-live",
-    "publishedAt": "2026-11-11T11:29:02.000Z"
-  },
-  {
-    "id": "5a1383b904f2b265",
-    "title": "Eswatini gives illegal foreign businesses 12 months to leave",
-    "summary": "The law follows the growth of foreign-owned businesses in retail sector in rural areas.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gnq2pw2kro",
-    "publishedAt": "2026-11-11T11:15:00.000Z"
-  },
-  {
-    "id": "9244a066fda1e03c",
-    "title": "Man City whistleblower Rui Pinto could help UK uncover more sporting crime",
-    "summary": "Rui Pinto is 'in talks' with UK authorities to help uncover more crime in exchange for police protection, reports say.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/11/man-city-whistleblower-rui-pinto-could-help-uk-uncover-more-sporting-crime?traffic_source=rss",
-    "publishedAt": "2026-11-11T11:05:50.000Z"
-  },
-  {
-    "id": "d11de94cab5cb8a6",
-    "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
-    "summary": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
-    "publishedAt": "2026-11-11T11:00:46.000Z"
-  },
-  {
-    "id": "55205569eacf640c",
-    "title": "Did Democrats save Pete Hegseth from impeachment?",
-    "summary": "Eleven Democrats are absent from procedural vote that narrowly shelves House impeachment vote against defence secretary.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss",
-    "publishedAt": "2026-11-11T10:32:03.000Z"
-  },
-  {
-    "id": "93e06b5b687f9514",
-    "title": "What’s the Falklands oil project at the heart of latest UK-Argentina spat?",
-    "summary": "UK says it will defend its interests at tribunal hearing, as Argentina seeks measures to block the offshore project.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/whats-the-falklands-oil-project-at-the-heart-of-latest-uk-argentina-spat?traffic_source=rss",
-    "publishedAt": "2026-11-11T10:28:12.000Z"
   }
 ]
