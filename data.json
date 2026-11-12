@@ -1,5 +1,77 @@
 [
   {
+    "id": "633d5f2300bbfb2e",
+    "title": "Trump orders JD Vance to stop Iran war negotiations and focus on domestic policy",
+    "summary": "President says vice-president will focus on supposed ‘Massive Corruption and Crime taking place in Democrat run Cities and States’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
+    "publishedAt": "2026-11-12T19:01:16.000Z"
+  },
+  {
+    "id": "bdd6ff2e3ac86e42",
+    "title": "Former death row prisoners call Byron Donalds to halt future Florida executions",
+    "summary": "Donalds is governor-elect in state that leads the US in the number of executions, with its 20th this year taking place next week.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/byron-donalds-florida-executions",
+    "publishedAt": "2026-11-12T18:58:44.000Z"
+  },
+  {
+    "id": "6eff6376874dc0bd",
+    "title": "Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley",
+    "summary": "CEO was viewed as ‘irreplaceable’, but recklessness of affair with a woman regarded by US officials as a Chinese spy made him a political liability.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
+    "publishedAt": "2026-11-12T18:46:48.000Z"
+  },
+  {
+    "id": "097549300596c52f",
+    "title": "Pro-Palestine philanthropist faces US extradition hearing in Spain",
+    "summary": "James 'Fergie' Chambers denies wrongdoing, while his wife urges PM Sanchez to grant him political asylum.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/james-fergie-chambers-extradition-hearing?traffic_source=rss",
+    "publishedAt": "2026-11-12T18:41:40.000Z"
+  },
+  {
+    "id": "0702b11143429d4b",
+    "title": "UK ministers look at quick ways to limit NDAs after Walliams allegations",
+    "summary": "Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personality.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
+    "publishedAt": "2026-11-12T18:38:13.000Z"
+  },
+  {
+    "id": "6e9cda982b724130",
+    "title": "Home sales in the US are at their lowest level since 2016",
+    "summary": "The sale of previously owned homes dropped 5.5 percent in October, the lowest level since August 2010.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/12/home-sales-in-the-us-are-at-their-lowest-level-since-2016?traffic_source=rss",
+    "publishedAt": "2026-11-12T18:26:28.000Z"
+  },
+  {
+    "id": "a321f7b903d396cd",
+    "title": "What to know about the Logan Circle shooting in Washington, DC",
+    "summary": "Trump has showcased the capital city as an example of his tough-on-crime approach.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/what-to-know-about-the-logan-circle-shooting-in-washington-dc?traffic_source=rss",
+    "publishedAt": "2026-11-12T18:22:04.000Z"
+  },
+  {
+    "id": "26732e1fb8451a56",
+    "title": "THC drink companies rush to sell inventory as Illinois ban takes effect",
+    "summary": "Many hemp companies are shipping their remaining inventory to Wisconsin, Minnesota and Tennessee, which have different regulations.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/thc-drinks-ban-illinois",
+    "publishedAt": "2026-11-12T18:21:46.000Z"
+  },
+  {
     "id": "eda2470930b5f44c",
     "title": "Pete Hegseth awards medal to soldier who reprimanded him near Tomb of the Unknown Soldier",
     "summary": "‘We love standards. Well done, Specialist’, the defense secretary writes following Veterans Day visit.",
@@ -34,6 +106,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/music/2026/nov/12/duran-duran-drummer-roger-taylor-leaves-band-due-to-tinnitus",
     "publishedAt": "2026-11-12T17:44:44.000Z"
+  },
+  {
+    "id": "5dcebfc05be386f5",
+    "title": "Military helicopter crashes in southern Turkey, killing 4",
+    "summary": "The Turkish Defense Ministry says a military helicopter has crashed in southern Turkey, killing four personnel.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/military-helicopter-crashes-southern-turkey-killing-4-138085371",
+    "publishedAt": "2026-11-12T17:42:19.000Z"
   },
   {
     "id": "4222657b99009790",
@@ -88,6 +169,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/12/the-stakes-new-democrats-congress-orientation",
     "publishedAt": "2026-11-12T17:05:55.000Z"
+  },
+  {
+    "id": "097fc4f244c4543f",
+    "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+    "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+    "publishedAt": "2026-11-12T16:54:12.000Z"
   },
   {
     "id": "7930300f7248d501",
@@ -178,6 +268,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/12/florida-st-patricks-day-parade-cancelled-dei",
     "publishedAt": "2026-11-12T15:51:29.000Z"
+  },
+  {
+    "id": "fbc14e5f6ea51acf",
+    "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
+    "summary": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+    "publishedAt": "2026-11-12T15:26:39.000Z"
   },
   {
     "id": "3bf6dc30ef51d060",
@@ -1249,104 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmpw48zwnevlo",
     "publishedAt": "2026-11-12T06:24:44.000Z"
-  },
-  {
-    "id": "38b34d2d58ce742a",
-    "title": "Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges",
-    "summary": "The meeting comes after the executive and co-founder admitted to having a romantic relationship with a woman who is alleged to be a Chinese spy.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair",
-    "publishedAt": "2026-11-12T06:21:20.000Z"
-  },
-  {
-    "id": "8306a1a432b52f3a",
-    "title": "From Pong to GTA VI: Play your way through 50 years of video games",
-    "summary": "Video games are now a $200bn business. Play through the six games that tell the story of how they got there.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/longform/2026/11/12/from-pong-to-gta-vi-play-your-way-through-50-years-of-video-games?traffic_source=rss",
-    "publishedAt": "2026-11-12T06:17:48.000Z"
-  },
-  {
-    "id": "fb74d18782a11dce",
-    "title": "Gas bills to rise as Middle East turmoil persists",
-    "summary": "Gas bills will increase by about 5% from 1 December, Island Energy announces.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckregdvr2y3go",
-    "publishedAt": "2026-11-12T06:15:36.000Z"
-  },
-  {
-    "id": "f127620a594c39f8",
-    "title": "Art trail celebrates arrival of black bears at zoo",
-    "summary": "Jersey Zoo says the art trail will celebrate the world's \"largest inhabitants to its smallest.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c39wzv2vqgxvo",
-    "publishedAt": "2026-11-12T06:13:52.000Z"
-  },
-  {
-    "id": "f67c5d112d2a4e19",
-    "title": "Free Sad lamps given out as disorder 'makes it hard to do anything on darker days'",
-    "summary": "Seasonal Affective Disorder can affect mood, energy and sleep during the winter months.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6wyvy50r2ewo",
-    "publishedAt": "2026-11-12T06:11:41.000Z"
-  },
-  {
-    "id": "9a90c1e43d1bf9bb",
-    "title": "I saved a stranger's life and my husband's at the same time",
-    "summary": "Una Brown had always said she would give a kidney to her husband Sean if the time came, and she did so in a roundabout way.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8qlq33llr6no",
-    "publishedAt": "2026-11-12T06:09:45.000Z"
-  },
-  {
-    "id": "2f56f11deb16a82f",
-    "title": "Teenager in critical condition after likely ‘train surfing’ on Sydney Harbour Bridge, police say",
-    "summary": "‘You just don’t mess or play with a 400-tonne train’, Sydney Trains says as 17-year-old suffers multiple injuries to head, chest and pelvis.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say",
-    "publishedAt": "2026-11-12T06:09:21.000Z"
-  },
-  {
-    "id": "b6766d1eb2938f96",
-    "title": "Nurdle impact to be researched for a year",
-    "summary": "Research will be carried out on sea-birds and marine life following a microplastic spillage in July.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo",
-    "publishedAt": "2026-11-12T06:06:41.000Z"
-  },
-  {
-    "id": "aa932b3d176d27ef",
-    "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
-    "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro",
-    "publishedAt": "2026-11-12T06:02:55.000Z"
-  },
-  {
-    "id": "00df9dd843dca4b3",
-    "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-    "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o",
-    "publishedAt": "2026-11-12T05:59:18.000Z"
-  },
-  {
-    "id": "df774adc5e55fa9a",
-    "title": "What went wrong for Indonesia's VP Gibran Rakabuming Raka?",
-    "summary": "Indonesia's vice-president has resigned amid mounting calls for his impeachment. Here's what we know about why he resigned and who could be in the running for the position.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-12/why-did-indonesia-vp-gibran-rakabuming-raka-resign/107377964",
-    "publishedAt": "2026-11-12T05:45:14.000Z"
   }
 ]
