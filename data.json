@@ -1,5 +1,122 @@
 [
   {
+    "id": "4fb876fe22cf4a1f",
+    "title": "UK economy grows at fastest rate for more than two years",
+    "summary": "The UK economy grew by 0.7% in the three months to September, according to official figures.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o",
+    "publishedAt": "2026-11-12T07:16:54.000Z"
+  },
+  {
+    "id": "be8c73e4dd0cfc64",
+    "title": "Indonesia's vice president resigns as his eligibility and academic credentials are questioned",
+    "summary": "Indonesia’s vice president has resigned as questions grew over his eligibility for the office after recent court rulings disputed his educational credentials.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/indonesias-vice-president-resigns-eligibility-academic-credentials-questioned-138069107",
+    "publishedAt": "2026-11-12T06:58:19.000Z"
+  },
+  {
+    "id": "92084135542b22be",
+    "title": "A missing teen found alive after 6 days in Australian woodlands",
+    "summary": "A 17-year-old boy with autism has been found found alive after six days lost in eastern Australian woodlands.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/missing-teen-found-alive-after-6-days-australian-138068466",
+    "publishedAt": "2026-11-12T06:58:19.000Z"
+  },
+  {
+    "id": "955db39045169f6f",
+    "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
+    "summary": "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
+    "publishedAt": "2026-11-12T06:55:44.000Z"
+  },
+  {
+    "id": "021fbddc959de733",
+    "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
+    "summary": "A cargo ship is set to leave Ireland for Russia with alumina, a white powder that experts say is likely used to make weapons.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/ireland-faces-pressure-stop-sending-russia-ingredient-vital-138069912",
+    "publishedAt": "2026-11-12T06:50:30.000Z"
+  },
+  {
+    "id": "9993434fd9161404",
+    "title": "Netanyahu’s legacy: Personality politics reshapes Israeli democracy",
+    "summary": "Netanyahu's fight for political survival turns the parliament's opening into a scene of insults and acrimony.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy?traffic_source=rss",
+    "publishedAt": "2026-11-12T06:49:45.000Z"
+  },
+  {
+    "id": "7ee9204fc1addd87",
+    "title": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop",
+    "summary": "The Tabbara family has been making falafel in Lebanon for over a century.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/beirut-family-sold-falafel-100-years-war-crisis-138070081",
+    "publishedAt": "2026-11-12T06:45:24.000Z"
+  },
+  {
+    "id": "2d88c88109c5c9e2",
+    "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+    "summary": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
+    "publishedAt": "2026-11-12T06:43:31.000Z"
+  },
+  {
+    "id": "9f3d896e057c4c60",
+    "title": "Indonesia vice president resigns amid dispute over eligibility",
+    "summary": "Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
+    "publishedAt": "2026-11-12T06:38:01.000Z"
+  },
+  {
+    "id": "226ad93386c30e08",
+    "title": "Van crashes on mountain road in Nepal, 10 killed and 5 injured",
+    "summary": "A passenger van veered off a mountain road in Nepal on Thursday, killing at least 10 people.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/van-crashes-mountain-road-nepal-10-killed-5-138069991",
+    "publishedAt": "2026-11-12T06:37:10.000Z"
+  },
+  {
+    "id": "3ea60236f17e1804",
+    "title": "Campaigners want more land protected from housing",
+    "summary": "After parkland was safeguarded from development, residents want the council to change a housing plan.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmpw48zwnevlo",
+    "publishedAt": "2026-11-12T06:24:44.000Z"
+  },
+  {
+    "id": "38b34d2d58ce742a",
+    "title": "Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges",
+    "summary": "The meeting comes after the executive and co-founder admitted to having a romantic relationship with a woman who is alleged to be a Chinese spy.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair",
+    "publishedAt": "2026-11-12T06:21:20.000Z"
+  },
+  {
+    "id": "8306a1a432b52f3a",
+    "title": "From Pong to GTA VI: Play your way through 50 years of video games",
+    "summary": "Video games are now a $200bn business. Play through the six games that tell the story of how they got there.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/longform/2026/11/12/from-pong-to-gta-vi-play-your-way-through-50-years-of-video-games?traffic_source=rss",
+    "publishedAt": "2026-11-12T06:17:48.000Z"
+  },
+  {
     "id": "fb74d18782a11dce",
     "title": "Gas bills to rise as Middle East turmoil persists",
     "summary": "Gas bills will increase by about 5% from 1 December, Island Energy announces.",
@@ -25,6 +142,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c8qlq33llr6no",
     "publishedAt": "2026-11-12T06:09:45.000Z"
+  },
+  {
+    "id": "2f56f11deb16a82f",
+    "title": "Teenager in critical condition after likely ‘train surfing’ on Sydney Harbour Bridge, police say",
+    "summary": "‘You just don’t mess or play with a 400-tonne train’, Sydney Trains says as 17-year-old suffers multiple injuries to head, chest and pelvis.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say",
+    "publishedAt": "2026-11-12T06:09:21.000Z"
   },
   {
     "id": "b6766d1eb2938f96",
@@ -70,6 +196,24 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
     "publishedAt": "2026-11-12T05:06:27.000Z"
+  },
+  {
+    "id": "c1183d551dc64ed7",
+    "title": "You had me at LOL: some notes for the You’ve Got Mail reboot",
+    "summary": "Substackers in love, dodgy romance scams and Jeff Bezos as the dashing lead … the film-makers behind the remake of the dial-up classic will be facing an embarrassment of pitches.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/film/2026/nov/12/youve-got-mail-reboot-email",
+    "publishedAt": "2026-11-12T05:00:10.000Z"
+  },
+  {
+    "id": "77eac870068e15e6",
+    "title": "‘We can’t be at the bottom indefinitely’: Can Britain’s most maligned service station be turned around?",
+    "summary": "In 2022 and 2023, Hartshead Moor East, near Leeds, was voted the worst in Great Britain. Ever since, staff have been on a mission to redeem its reputation.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/12/motorway-services",
+    "publishedAt": "2026-11-12T05:00:10.000Z"
   },
   {
     "id": "fc7dbdd5e16f21ba",
@@ -711,6 +855,15 @@
     "publishedAt": "2026-11-11T18:52:08.000Z"
   },
   {
+    "id": "24a1e9f2a98dfe53",
+    "title": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
+    "summary": "Twenty-four-hour stoppage draws high participation weeks before election in which far right could gain power.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
+    "publishedAt": "2026-11-11T18:51:02.000Z"
+  },
+  {
     "id": "750189664e3d7799",
     "title": "Trump planning new military assault or tighter sanctions, say Iranian officials",
     "summary": "Regime adviser says Tehran could be forced into pre-emptive strikes if stalemate continues.",
@@ -1195,158 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/games/2026/nov/11/a-world-of-its-own-inside-the-making-of-the-most-detailed-grand-theft-auto-yet",
     "publishedAt": "2026-11-11T15:00:51.000Z"
-  },
-  {
-    "id": "1b416dbabf9e7c70",
-    "title": "Qatar Grand Prix was ‘right decision’ despite regional tensions: MotoGP",
-    "summary": "MotoGP chief says 'it was normal that the riders showed their concerns' but was surprised at Yamaha's ⁠⁠⁠⁠withdrawal.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/11/motogp-carlos-ezpeleta-deputy-ceo-qatar-grand-prix-yamaha-iran-war?traffic_source=rss",
-    "publishedAt": "2026-11-11T14:58:15.000Z"
-  },
-  {
-    "id": "35d10a6d1eb12e43",
-    "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-    "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo",
-    "publishedAt": "2026-11-11T14:56:11.000Z"
-  },
-  {
-    "id": "df6dd84b4db9ac93",
-    "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-    "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
-    "publishedAt": "2026-11-11T14:51:26.000Z"
-  },
-  {
-    "id": "68fdba7a25248e25",
-    "title": "Burnham signals support for bill to make ‘Black English’ and ‘Asian English’ census options",
-    "summary": "PM welcomes cross-party push to reject ethnic basis for Englishness promoted by Reform UK politicians.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/11/andy-burnham-black-english-asian-english-census-bill-ethnicity",
-    "publishedAt": "2026-11-11T14:50:15.000Z"
-  },
-  {
-    "id": "19dd389ee9441787",
-    "title": "Italy vs France: UEFA Nations League – preview, team news, predictions",
-    "summary": "Kylian Mbappe 'under treatment' as Group A1 leaders France travel to Italy for a game at the San Siro, Milan.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/11/italy-vs-france-uefa-nations-league-preview-team-news?traffic_source=rss",
-    "publishedAt": "2026-11-11T14:43:46.000Z"
-  },
-  {
-    "id": "8313a28070c3fbeb",
-    "title": "Ukraine and Russia agree to large prisoner swap after US-mediated talks",
-    "summary": "Following two days of US-mediated talks, Ukraine and Russia have agreed to a large exchange of prisoners of war.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462",
-    "publishedAt": "2026-11-11T14:42:51.000Z"
-  },
-  {
-    "id": "6d79df247cc12721",
-    "title": "Virginia man convicted of murder says he did not kill wife before dismembering her body",
-    "summary": "Naresh Bhatt, 28, said he dismembered wife’s body after she took her own life, a claim prosecutors called ‘ridiculous’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/11/virginia-murder-dismembering",
-    "publishedAt": "2026-11-11T14:40:16.000Z"
-  },
-  {
-    "id": "d04de3dbce543570",
-    "title": "Consultant doctors in England call off two-day pay strike",
-    "summary": "Action on 25 and 26 November suspended to allow for formal negotations with the government.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/11/consultant-doctors-in-england-call-off-nhs-strike",
-    "publishedAt": "2026-11-11T14:33:44.000Z"
-  },
-  {
-    "id": "ade52d7ccbf1d52c",
-    "title": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial",
-    "summary": "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashes.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
-    "publishedAt": "2026-11-11T14:30:15.000Z"
-  },
-  {
-    "id": "a93f4fde5beed18f",
-    "title": "British man who died in Kraków shooting named as James Campbell",
-    "summary": "Campbell, 32, from Prestwick, South Ayrshire, was one of six people killed in the 7 November attack in Polish city.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/11/british-man-died-krakow-shooting-named-james-campbell",
-    "publishedAt": "2026-11-11T14:13:54.000Z"
-  },
-  {
-    "id": "369eb6341cf5b9fc",
-    "title": "Andy Burnham says government will unveil 10-year plan by mid-December",
-    "summary": "Prime minister tells Kemi Badenoch at PMQs that flagship strategy will be revealed before Commons Christmas recess.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/11/andy-burnham-says-government-will-unveil-10-year-plan-by-mid-december",
-    "publishedAt": "2026-11-11T14:12:14.000Z"
-  },
-  {
-    "id": "1210327ea4b04222",
-    "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
-    "summary": "Torn between military action and diplomacy, US appears to settle for drawn-out economic pressure campaign, blockade.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss",
-    "publishedAt": "2026-11-11T14:10:47.000Z"
-  },
-  {
-    "id": "887325dee5283142",
-    "title": "Toby Jones stars in film about UK Mars mission",
-    "summary": "Mackenzie Crook directs the story of the British professor whose probe lost contact upon touchdown.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqm2l304w0x9o",
-    "publishedAt": "2026-11-11T14:10:11.000Z"
-  },
-  {
-    "id": "335e45d81e0a6603",
-    "title": "Spain sees widespread disruption in first general strike for 14 years",
-    "summary": "Protests were expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
-    "publishedAt": "2026-11-11T14:06:27.000Z"
-  },
-  {
-    "id": "641fcc7a995b1b78",
-    "title": "As Gaza floods subside, Palestinians assess human and material damage",
-    "summary": "A deadly sandbank collapse buried families alive in Deir el-Balah, as survivors describe desperate rescue attempts.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/11/as-gaza-flood-waters-subside-palestinians-assess-human-and-material-damage?traffic_source=rss",
-    "publishedAt": "2026-11-11T14:04:17.000Z"
-  },
-  {
-    "id": "ef9e27d31c2b408b",
-    "title": "Killing of journalist underscores deteriorating conditions in Ecuador",
-    "summary": "Tomás Beltrán was shot dead amid gang warfare that has turned Latin American country into one of its most violent.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing",
-    "publishedAt": "2026-11-11T14:00:52.000Z"
-  },
-  {
-    "id": "2c37c0bebae462ef",
-    "title": "First Covid lockdowns, then alcohol to your door: rise in young Victorians with liver diseases prompts fears",
-    "summary": "While young people are drinking less across the board, one expert says a small minority are actually drinking huge and damaging amounts of alcohol.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/12/first-covid-lockdowns-then-alcohol-to-your-door-rise-in-young-victorians-with-liver-diseases-prompts-fears",
-    "publishedAt": "2026-11-11T14:00:51.000Z"
   }
 ]
