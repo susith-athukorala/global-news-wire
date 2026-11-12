@@ -1,5 +1,77 @@
 [
   {
+    "id": "eda2470930b5f44c",
+    "title": "Pete Hegseth awards medal to soldier who reprimanded him near Tomb of the Unknown Soldier",
+    "summary": "‘We love standards. Well done, Specialist’, the defense secretary writes following Veterans Day visit.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/pete-hegseth-medal-soldier-reprimand",
+    "publishedAt": "2026-11-12T18:08:31.000Z"
+  },
+  {
+    "id": "ea6dde997f9d68cb",
+    "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
+    "summary": "Formula One driver Lewis Hamilton said on Wednesday that Israel must allow aid ⁠trucks into Gaza, a day after he visited the Rafah border crossing in Egypt.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
+    "publishedAt": "2026-11-12T18:00:50.000Z"
+  },
+  {
+    "id": "009ee185716782c0",
+    "title": "Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?",
+    "summary": "CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached",
+    "publishedAt": "2026-11-12T17:50:35.000Z"
+  },
+  {
+    "id": "9414c905773564b3",
+    "title": "Duran Duran drummer Roger Taylor leaves band due to tinnitus",
+    "summary": "‘I must now listen to my body and my doctors’, says Taylor, who was one of the earliest members of the new wave hit-makers.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/12/duran-duran-drummer-roger-taylor-leaves-band-due-to-tinnitus",
+    "publishedAt": "2026-11-12T17:44:44.000Z"
+  },
+  {
+    "id": "4222657b99009790",
+    "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+    "summary": "Russian president says he would target any foreign troops sent to Ukraine and refuses to soften territorial demands.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+    "publishedAt": "2026-11-12T17:26:51.000Z"
+  },
+  {
+    "id": "ee127c5fac608d13",
+    "title": "Home sales hit 16-year low in October amid record-high mortgage rates",
+    "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+    "publishedAt": "2026-11-12T17:26:07.000Z"
+  },
+  {
+    "id": "0752b83f5acd1887",
+    "title": "Finland bars Russian athletes from entering country over Ukraine war",
+    "summary": "Finland says it will restrict entry to the country for Russian athletes because of the war in Ukraine, potentially affecting a number of winter sports. The move follows a backlash in Finland to Russia being reinstated for the ice hockey world championships.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
+    "publishedAt": "2026-11-12T17:23:51.000Z"
+  },
+  {
+    "id": "4717fd30c3c96790",
+    "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
+    "summary": "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
+    "publishedAt": "2026-11-12T17:18:13.000Z"
+  },
+  {
     "id": "aa1fb91bd2147af0",
     "title": "Local fund to replace Pip for most young disabled people under Milburn plans",
     "summary": "Exclusive: Former health secretary says he wants to ‘tear up the old approach’, with under-25s to lose personal independence payments.",
@@ -900,6 +972,15 @@
     "publishedAt": "2026-11-12T09:38:00.000Z"
   },
   {
+    "id": "69df227610574860",
+    "title": "‘He is never leaving the house again’: mother reunites with son missing for six days in Victorian bushland",
+    "summary": "William, 17, was reported missing after straying from his camp near Walhalla in Victoria’s Gippsland region.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
+    "publishedAt": "2026-11-12T09:35:44.000Z"
+  },
+  {
     "id": "adf8b68d9da5a4f7",
     "title": "Drought threatens Iraq's marshes, risking one of the oldest ways of life",
     "summary": "The unique marshes of southern Iraq are beginning to revive after five years of devastating drought. But challenges remain for one of the world's oldest ways of life.",
@@ -1267,86 +1348,5 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-12/why-did-indonesia-vp-gibran-rakabuming-raka-resign/107377964",
     "publishedAt": "2026-11-12T05:45:14.000Z"
-  },
-  {
-    "id": "e1723926d5308394",
-    "title": "New York building collapse kills at least two, officials say",
-    "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo",
-    "publishedAt": "2026-11-12T05:12:56.000Z"
-  },
-  {
-    "id": "097fc4f244c4543f",
-    "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-    "summary": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
-    "publishedAt": "2026-11-12T05:06:27.000Z"
-  },
-  {
-    "id": "c1183d551dc64ed7",
-    "title": "You had me at LOL: some notes for the You’ve Got Mail reboot",
-    "summary": "Substackers in love, dodgy romance scams and Jeff Bezos as the dashing lead … the film-makers behind the remake of the dial-up classic will be facing an embarrassment of pitches.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/12/youve-got-mail-reboot-email",
-    "publishedAt": "2026-11-12T05:00:10.000Z"
-  },
-  {
-    "id": "77eac870068e15e6",
-    "title": "‘We can’t be at the bottom indefinitely’: Can Britain’s most maligned service station be turned around?",
-    "summary": "In 2022 and 2023, Hartshead Moor East, near Leeds, was voted the worst in Great Britain. Ever since, staff have been on a mission to redeem its reputation.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/12/motorway-services",
-    "publishedAt": "2026-11-12T05:00:10.000Z"
-  },
-  {
-    "id": "fc7dbdd5e16f21ba",
-    "title": "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
-    "summary": "World Health Organization says more than 320,000 people have been displaced in Yemen fighting since August 1.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss",
-    "publishedAt": "2026-11-12T04:41:17.000Z"
-  },
-  {
-    "id": "32b2f5deec8f15a7",
-    "title": "Bolivia arrests former judge on suspicion of drug trafficking",
-    "summary": "Arrests in Bolivia linked to a US-backed security alliance crackdown on drug cartels in Latin America.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/bolivia-arrests-former-judge-on-suspicion-of-drug-trafficking?traffic_source=rss",
-    "publishedAt": "2026-11-12T04:40:25.000Z"
-  },
-  {
-    "id": "41748fdcdec29b58",
-    "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-    "summary": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o",
-    "publishedAt": "2026-11-12T04:03:13.000Z"
-  },
-  {
-    "id": "fbc14e5f6ea51acf",
-    "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
-    "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-    "publishedAt": "2026-11-12T04:01:14.000Z"
-  },
-  {
-    "id": "a2869accacba44f4",
-    "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
-    "summary": "Peacekeepers knew of likely raid on Abiemnom, where more than 200 people were killed, according to rights group report.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
-    "publishedAt": "2026-11-12T04:00:24.000Z"
   }
 ]
