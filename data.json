@@ -1,5 +1,41 @@
 [
   {
+    "id": "e1723926d5308394",
+    "title": "New York building collapse kills at least two, officials say",
+    "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo",
+    "publishedAt": "2026-11-12T05:12:56.000Z"
+  },
+  {
+    "id": "097fc4f244c4543f",
+    "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+    "summary": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+    "publishedAt": "2026-11-12T05:06:27.000Z"
+  },
+  {
+    "id": "fc7dbdd5e16f21ba",
+    "title": "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
+    "summary": "World Health Organization says more than 320,000 people have been displaced in Yemen fighting since August 1.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss",
+    "publishedAt": "2026-11-12T04:41:17.000Z"
+  },
+  {
+    "id": "32b2f5deec8f15a7",
+    "title": "Bolivia arrests former judge on suspicion of drug trafficking",
+    "summary": "Arrests in Bolivia linked to a US-backed security alliance crackdown on drug cartels in Latin America.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/bolivia-arrests-former-judge-on-suspicion-of-drug-trafficking?traffic_source=rss",
+    "publishedAt": "2026-11-12T04:40:25.000Z"
+  },
+  {
     "id": "fbc14e5f6ea51acf",
     "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
     "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
@@ -7,6 +43,24 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
     "publishedAt": "2026-11-12T04:01:14.000Z"
+  },
+  {
+    "id": "a2869accacba44f4",
+    "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
+    "summary": "Peacekeepers knew of likely raid on Abiemnom, where more than 200 people were killed, according to rights group report.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
+    "publishedAt": "2026-11-12T04:00:24.000Z"
+  },
+  {
+    "id": "e5bcbb9d6d159b23",
+    "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+    "summary": "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
+    "publishedAt": "2026-11-12T03:50:42.000Z"
   },
   {
     "id": "df72687aa87f346f",
@@ -738,6 +792,15 @@
     "publishedAt": "2026-11-11T18:00:11.000Z"
   },
   {
+    "id": "6b54ea50f13c36de",
+    "title": "The giant gas project and the billion-dollar funding question",
+    "summary": "Woodside's enormous gas project off the Kimberley coast of Western Australia faces difficulties getting finance as banks increasingly withdraw from fossil fuel investments.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-12/woodside-browse-project-finance-problem/107372940",
+    "publishedAt": "2026-11-11T18:00:00.000Z"
+  },
+  {
     "id": "430ce728cc2208c7",
     "title": "Portugal cancels more than 300 flights, shuts schools due to Storm Charles",
     "summary": "Authorities spared no effort in preparation for the Atlantic storm after criticism following January's Storm Kristin.",
@@ -1285,68 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/11/air-traffic-control-nats-martin-rolfe-outages-ryanair",
     "publishedAt": "2026-11-11T13:35:52.000Z"
-  },
-  {
-    "id": "cce1b97e6c1a467c",
-    "title": "Diesel still costing close to a ’dismal’ £2 a litre despite oil price falls",
-    "summary": "Pump prices stay stubbornly high as leading bank official warns energy costs are likely to remain ‘elevated’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/11/diesel-prices-petrol-business-oil-hormuz",
-    "publishedAt": "2026-11-11T13:30:27.000Z"
-  },
-  {
-    "id": "9f60abedf723abed",
-    "title": "Austria tightens laws against spying to protect the international organizations it hosts",
-    "summary": "Austria has launched plans to tighten its espionage laws, which currently only ban spying against Austria itself.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/austria-tightens-laws-spying-protect-international-organizations-hosts-138042201",
-    "publishedAt": "2026-11-11T13:30:27.000Z"
-  },
-  {
-    "id": "16acc59220e3ab2f",
-    "title": "Russia and Ukraine agree to a large exchange of prisoners of war, officials say",
-    "summary": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
-    "publishedAt": "2026-11-11T13:30:00.000Z"
-  },
-  {
-    "id": "25e5a2a22a11f12f",
-    "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-    "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o",
-    "publishedAt": "2026-11-11T13:25:47.000Z"
-  },
-  {
-    "id": "2378adacf44fb56b",
-    "title": "At least 300 schools evacuated in Italy after email bomb alerts",
-    "summary": "Italian PM Meloni says there is no danger as UK and Northern Ireland authorities also report 'bogus' alerts.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss",
-    "publishedAt": "2026-11-11T13:18:36.000Z"
-  },
-  {
-    "id": "4bcf9cb4f996bb96",
-    "title": "Four grizzly bears killed in Canada after fatal attack on mum and daughter",
-    "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo",
-    "publishedAt": "2026-11-11T13:17:34.000Z"
-  },
-  {
-    "id": "3970882a984ae815",
-    "title": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
-    "summary": "The talks in the UAE capital were the first ⁠between the two warring sides since February.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss",
-    "publishedAt": "2026-11-11T13:16:30.000Z"
   }
 ]
