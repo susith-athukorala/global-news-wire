@@ -1,5 +1,77 @@
 [
   {
+    "id": "0c7155dfb7674275",
+    "title": "Pope Leo returns to beloved former home of Chiclayo, Peru",
+    "summary": "Pope Leo XIV is celebrated in Chiclayo, Peru, where his image is ubiquitous.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-leo-returns-beloved-former-home-chiclayo-peruvian-138068194",
+    "publishedAt": "2026-11-12T09:13:18.000Z"
+  },
+  {
+    "id": "2e11817dd399d95f",
+    "title": "Argentina threatens UK oil firm CEO with jail over Falklands drilling",
+    "summary": "Exclusive: Legal notice comes as Buenos Aires ramps up rhetoric over UK territory and seeks to halt Sea Lion project.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/12/argentina-threatens-uk-oil-firm-ceo-with-jail-over-falklands-drilling",
+    "publishedAt": "2026-11-12T09:11:09.000Z"
+  },
+  {
+    "id": "60342a45caf8ae6f",
+    "title": "Mongolia protests Malaysia’s handling of a 20-year-old murder case",
+    "summary": "Mongolia has lodged a diplomatic protest with Malaysia over the handling of a murder case involving a Mongolian woman.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/mongolia-protests-malaysias-handling-20-year-murder-case-138071482",
+    "publishedAt": "2026-11-12T09:06:41.000Z"
+  },
+  {
+    "id": "433c28badd3155a2",
+    "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+    "summary": "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+    "publishedAt": "2026-11-12T09:01:24.000Z"
+  },
+  {
+    "id": "f8f2656439251f94",
+    "title": "Dutch coalition near collapse as 1 party is upset over tax deal with opposition",
+    "summary": "Prime Minister Rob Jetten's Dutch coalition appears close to collapse.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/dutch-coalition-collapse-1-party-upset-tax-deal-138071590",
+    "publishedAt": "2026-11-12T08:58:19.000Z"
+  },
+  {
+    "id": "504deffe05e75bb2",
+    "title": "India bypasses own rules to buy Israeli phone-hacking tech",
+    "summary": "India's expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
+    "publishedAt": "2026-11-12T08:40:08.000Z"
+  },
+  {
+    "id": "b0a8093170fae7fd",
+    "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+    "summary": "Officers were returning from a mine in Kohat district when fighters opened fire on them, authorities say.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
+    "publishedAt": "2026-11-12T08:35:20.000Z"
+  },
+  {
+    "id": "2e231ca11348f7f2",
+    "title": "‘Tourists hate themselves’ – which is why Tasmania is telling them to stay away",
+    "summary": "Island state declares it ‘is not really for tourists’ – but is the marketing strategy just a cheeky piece of reverse psychology?",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/12/tourists-hate-themselves-which-is-why-tasmania-is-telling-people-to-stay-away",
+    "publishedAt": "2026-11-12T08:30:57.000Z"
+  },
+  {
     "id": "d09e865f9c014694",
     "title": "What to know as European leaders meet to discuss Ukraine's security, and their own",
     "summary": "Leaders from over 40 European countries are gathering in Dublin for a summit focused on the continent’s fragile security.",
@@ -666,6 +738,15 @@
     "publishedAt": "2026-11-11T22:26:26.000Z"
   },
   {
+    "id": "502a4a7d097f5604",
+    "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
+    "summary": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o",
+    "publishedAt": "2026-11-11T22:26:18.000Z"
+  },
+  {
     "id": "008f3dd410e56302",
     "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
     "summary": "The BBC denies defamation charge as Trump celebrates “huge victory” in court decision.",
@@ -1026,6 +1107,15 @@
     "publishedAt": "2026-11-11T18:10:57.000Z"
   },
   {
+    "id": "05e4e3eb6e07e426",
+    "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+    "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o",
+    "publishedAt": "2026-11-11T18:04:58.000Z"
+  },
+  {
     "id": "3fc2cb5e2fcdb02a",
     "title": "Four million stage general strike in Spain over national housing crisis",
     "summary": "Four million Spanish workers take part in a general strike, enduring stormy weather to set up picket lines in a protest against the country's housing affordability crisis less than three weeks before a snap general election.",
@@ -1258,95 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
     "publishedAt": "2026-11-11T16:05:45.000Z"
-  },
-  {
-    "id": "84b1df9f9fbd1919",
-    "title": "Labour MPs warn against weakening electric vehicle targets ahead of crunch talks",
-    "summary": "Exclusive: Cutting 2030 goal would be a ‘step backwards’, say MPs, as ministers clash over proposed reductions.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/11/labour-mps-electric-vehicle-targets",
-    "publishedAt": "2026-11-11T16:01:41.000Z"
-  },
-  {
-    "id": "a990b2e2c5db2c84",
-    "title": "BMI alternative for identifying obesity ‘could prevent misdiagnosis in millions’",
-    "summary": "Combining body mass index with other measurements and tests would lead to better care and outcomes, experts say.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index",
-    "publishedAt": "2026-11-11T16:00:53.000Z"
-  },
-  {
-    "id": "c4e53680b808884a",
-    "title": "Hoax bomb threats made to hundreds of schools in Scotland and Northern Ireland",
-    "summary": "Police assure parents and teachers that warnings were bogus despite pupils being evacuated from some sites.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/education/2026/nov/11/bomb-threats-hoax-schools-scotland-northern-ireland",
-    "publishedAt": "2026-11-11T15:58:39.000Z"
-  },
-  {
-    "id": "1f115a320e91a91f",
-    "title": "The space rocket I could have been aboard explodes: Rhiannon Adam’s best photograph",
-    "summary": "‘I was chosen to go around the Moon on a SpaceX starship. Preparations took over my life.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/artanddesign/2026/nov/11/space-rocket-explodes-rhiannon-adam-best-photograph-spacex-moon",
-    "publishedAt": "2026-11-11T15:53:17.000Z"
-  },
-  {
-    "id": "e2eacfb4413917f7",
-    "title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
-    "summary": "Lebanese wheat production hit by war as farmlands face severe destruction in the south and Bekaa Valley.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss",
-    "publishedAt": "2026-11-11T15:48:39.000Z"
-  },
-  {
-    "id": "7ba3efb1a1461632",
-    "title": "Russia bans two French lawmakers, two journalists in tit-for-tat move",
-    "summary": "Kremlin spokeswoman says ban responds to the expulsion of a Russian commentator who used to head RT France.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move?traffic_source=rss",
-    "publishedAt": "2026-11-11T15:47:37.000Z"
-  },
-  {
-    "id": "263f7a45ce67c612",
-    "title": "Is the US blue wave a turning point for Europe, too?",
-    "summary": "Far-right populists remain insurgent and pro-EU governments are braced for Trump’s betrayal. But the midterms also showed that democracy can fight back.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too",
-    "publishedAt": "2026-11-11T15:40:52.000Z"
-  },
-  {
-    "id": "56a7ce14571d651a",
-    "title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
-    "summary": "The government is defiant and planning for the worst, but a US siege is expected to make most Iranians poorer.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
-    "publishedAt": "2026-11-11T15:40:17.000Z"
-  },
-  {
-    "id": "1f6edcee47c9c552",
-    "title": "Kenya discharges last Ebola patient, awaits disease-free status",
-    "summary": "Health Minister Aden Duale says Kenya will continue to exercise prevention measures until December 23.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/kenya-discharges-last-ebola-patient?traffic_source=rss",
-    "publishedAt": "2026-11-11T15:34:00.000Z"
-  },
-  {
-    "id": "094084ceb095512f",
-    "title": "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?",
-    "summary": "A deliberate expansion of Iran’s campaign of retaliation beyond the Middle East could be taking place, said an expert.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil?traffic_source=rss",
-    "publishedAt": "2026-11-11T15:33:38.000Z"
   }
 ]
