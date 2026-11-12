@@ -1,5 +1,23 @@
 [
   {
+    "id": "df72687aa87f346f",
+    "title": "Building collapse in Brooklyn kills two, injures more than a dozen",
+    "summary": "Rescue crews search for victims as Mayor Mamdani says first responders arrived one minute after emergency call.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss",
+    "publishedAt": "2026-11-12T03:31:08.000Z"
+  },
+  {
+    "id": "b78c0ecbb4479c24",
+    "title": "Historic US ocean liner sinks near Florida to become world’s largest artificial reef",
+    "summary": "SS United States, which set transatlantic speed record during maiden voyage in 1952, is sunk off coast of Destin.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
+    "publishedAt": "2026-11-12T03:07:16.000Z"
+  },
+  {
     "id": "afea22f92600b706",
     "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
     "summary": "Since the US war on Iran began in February, there have been hundreds of oil spills, posing a ‘generational’ threat to wildlife.",
@@ -1330,23 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china",
     "publishedAt": "2026-11-11T13:11:58.000Z"
-  },
-  {
-    "id": "afc91ddb3f418767",
-    "title": "Pope Leo XIV wrapping up Argentina visit before an emotional trip back to Peru, his adopted homeland",
-    "summary": "Pope Leo XIV is wrapping up his visit to Argentina with two poignant moments.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-wrap-argentina-tour-visit-prison-shrine-heading-138038537",
-    "publishedAt": "2026-11-11T13:06:20.000Z"
-  },
-  {
-    "id": "c9fecbb19afab63c",
-    "title": "Molecular signal in blood helps detect early risk for ovarian cancer, study finds",
-    "summary": "Researchers discover a potential diagnostic breakthrough for a disease often ⁠discovered after it has already spread.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/11/ovarian-cancer-study-early-detection-blood",
-    "publishedAt": "2026-11-11T13:05:57.000Z"
   }
 ]
