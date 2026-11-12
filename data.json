@@ -1,5 +1,68 @@
 [
   {
+    "id": "6f11ec9f07b47746",
+    "title": "A record number of US democratic socialists will become mayors. They’re out to prove their vision for affordability",
+    "summary": "Members of Democratic Socialists of America have a unique opportunity to fulfill campaign promises and group’s ideals.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/democratic-socialists-historic-election-wins",
+    "publishedAt": "2026-11-12T12:00:47.000Z"
+  },
+  {
+    "id": "e3547c33125263f0",
+    "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan",
+    "summary": "Nvidia CEO Jensen Huang's image in his birthplace, Taiwan, has been tainted after the FBI began investigating his affair with an alleged Chinese agent.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/scandal-hit-jensen-huang-loses-shine-birthplace-taiwan-138073575",
+    "publishedAt": "2026-11-12T11:53:14.000Z"
+  },
+  {
+    "id": "5ad75f51d323d115",
+    "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
+    "summary": "CEO of chip maker is under scrutiny after reports of affairs, including a relationship with an alleged Chinese spy.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss",
+    "publishedAt": "2026-11-12T11:43:19.000Z"
+  },
+  {
+    "id": "b0b3010872ebebac",
+    "title": "Tim Westwood in court to deny two more sexual offence charges",
+    "summary": "Former Radio 1 DJ accused of new offences against women in London and now faces trial in January for 17 charges.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/12/tim-westwood-in-court-to-deny-two-more-sexual-offence-charges",
+    "publishedAt": "2026-11-12T11:36:13.000Z"
+  },
+  {
+    "id": "bd96511b9d962c6d",
+    "title": "Who is Scott Colom, Mississippi’s first Black senator in 150 years?",
+    "summary": "Mississippi is home to a large Black American population but no Black person has held a Senate seat since the 1800s.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss",
+    "publishedAt": "2026-11-12T11:31:16.000Z"
+  },
+  {
+    "id": "8ac10ccde25027d6",
+    "title": "Far-right UK activist pleads guilty to slashing migrant dinghy in the English Channel",
+    "summary": "A British anti-immigration activist has pleaded guilty to slashing a migrant dinghy in the English Channel while a rescuer was aboard.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/uk-activist-pleads-guilty-slashing-migrant-dinghy-english-138073480",
+    "publishedAt": "2026-11-12T11:30:33.000Z"
+  },
+  {
+    "id": "7cf80c14f947f13b",
+    "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+    "summary": "Patients awaiting surgery die in attack on one of few remaining medical facilities in the strip, doctor says.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+    "publishedAt": "2026-11-12T11:24:09.000Z"
+  },
+  {
     "id": "092148901e2564bb",
     "title": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
     "summary": "Unprecedented view of cosmos provided by Euclid mission throws up many more cases of gravitational lensing.",
@@ -52,6 +115,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools",
     "publishedAt": "2026-11-12T11:00:47.000Z"
+  },
+  {
+    "id": "f6ec31bc760078c1",
+    "title": "Datacentres are deeply unpopular. Has Sweden made one we can all love?",
+    "summary": "It is built of wood, resembles an Ikea and its power is totally renewable. Plus, it was built with the local community in mind.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun",
+    "publishedAt": "2026-11-12T11:00:46.000Z"
+  },
+  {
+    "id": "b0d600184724dfb8",
+    "title": "10th suspect arrested in South Africa over alleged bid to fight in Russia-Ukraine war",
+    "summary": "Authorities have arrested a 10th person for violating South African mercenary laws by attempting to travel to Russia to fight in the war between Russia and Ukraine.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/10th-suspect-arrested-south-africa-alleged-bid-fight-138072640",
+    "publishedAt": "2026-11-12T10:59:15.000Z"
   },
   {
     "id": "bb6db4ffcd1fde1a",
@@ -178,6 +259,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks",
     "publishedAt": "2026-11-12T09:39:39.000Z"
+  },
+  {
+    "id": "f6c21ab282d7eb3e",
+    "title": "Russia-ukraine talks",
+    "summary": "U.S.-mediated talks in Abu Dhabi have wrapped up with an agreement on a Russia-Ukraine prisoner exchange. U.S. negotiators meet with Vladimir Putin on Thursday and Volodymyr Zelenskyy on Friday.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6037558/russia-ukraine-talks",
+    "publishedAt": "2026-11-12T09:38:46.000Z"
   },
   {
     "id": "bbb154b9ce3df15a",
@@ -1258,95 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o",
     "publishedAt": "2026-11-11T18:42:27.000Z"
-  },
-  {
-    "id": "fc8919446cdf5047",
-    "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-    "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o",
-    "publishedAt": "2026-11-11T18:38:45.000Z"
-  },
-  {
-    "id": "fdebfcc5154887ba",
-    "title": "Zohran Mamdani’s influence grows as Democrats eye 2028 strategies",
-    "summary": "Progressive strategists explain how Mamdani's 2025 mayoral campaign offered a 'real model' for other progressives.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/zohran-mamdanis-influence-grows-as-democrats-eye-2028-strategies?traffic_source=rss",
-    "publishedAt": "2026-11-11T18:37:54.000Z"
-  },
-  {
-    "id": "9ba68f77d5437dbd",
-    "title": "US Coast Guard suspends search for woman swept out to sea in California",
-    "summary": "Senah Park, 24, was last seen near Panther state beach on Sunday evening amid historic high tides and water levels.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/11/coast-guard-suspends-search-california-woman",
-    "publishedAt": "2026-11-11T18:34:31.000Z"
-  },
-  {
-    "id": "9e88384bbb7dabf6",
-    "title": "ITV to cut show budgets as UK TV and film production spend drops by more than £2bn",
-    "summary": "Broadcaster plans to make £30m in ‘temporary’ savings before inquiry into takeover by Sky.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/11/itv-cut-costs-falling-advertising-sales",
-    "publishedAt": "2026-11-11T18:21:25.000Z"
-  },
-  {
-    "id": "f0ca6a30cf761671",
-    "title": "Brazil fines Facebook $1.3M for failing to comply with court orders during election",
-    "summary": "Brazil’s top electoral court fines Meta’s Facebook $1.3 million for not fully complying with judicial orders during the recent presidential election runoff campaign.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/brazil-fines-facebook-13-million-failing-comply-court-138050841",
-    "publishedAt": "2026-11-11T18:19:17.000Z"
-  },
-  {
-    "id": "8b20132e659cfc4e",
-    "title": "Ireland fears undersea cables face growing threat from ‘malign actors’",
-    "summary": "Home to many US tech multinationals, Ireland raises alarm over Russia's so-called shadow fleet.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/ireland-fears-undersea-cables-face-growing-threat-from-malign-actors?traffic_source=rss",
-    "publishedAt": "2026-11-11T18:19:09.000Z"
-  },
-  {
-    "id": "b8c5a941c5de1827",
-    "title": "KKR and RWE are rich firms. Why do they need a UK state loan for their windfarms? | Nils Pratley",
-    "summary": "National wealth fund is to lend £1bn towards the Vanguard projects – but whether the private equity giant needed help is debatable.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/11/kkr-rwe-uk-state-loan-vanguard-windfarms",
-    "publishedAt": "2026-11-11T18:15:26.000Z"
-  },
-  {
-    "id": "929b57d96c405e2f",
-    "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
-    "summary": "Moscow announces the veteran diplomat's sudden passing without further details.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
-    "publishedAt": "2026-11-11T18:13:10.000Z"
-  },
-  {
-    "id": "b704905306b3729d",
-    "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
-    "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o",
-    "publishedAt": "2026-11-11T18:10:57.000Z"
-  },
-  {
-    "id": "05e4e3eb6e07e426",
-    "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-    "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o",
-    "publishedAt": "2026-11-11T18:04:58.000Z"
   }
 ]
