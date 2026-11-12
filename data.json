@@ -1,5 +1,113 @@
 [
   {
+    "id": "3e3edbb24ebcbf32",
+    "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
+    "summary": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo",
+    "publishedAt": "2026-11-12T22:49:48.000Z"
+  },
+  {
+    "id": "a69f079083e005a3",
+    "title": "Trouble at the top - the crisis of confidence in Scotland's NHS leaders",
+    "summary": "BBC Scotland's health correspondent Lisa Summers on the damning verdict delivered on NHS Grampian.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cknv4d307523o",
+    "publishedAt": "2026-11-12T22:49:33.000Z"
+  },
+  {
+    "id": "ff73919a010f056c",
+    "title": "How many sewage spills have happened in your part of Scotland?",
+    "summary": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c0re545l8jdo",
+    "publishedAt": "2026-11-12T22:48:55.000Z"
+  },
+  {
+    "id": "0b3b24508408518e",
+    "title": "Donald Trump Jr exits as paid adviser for prediction market Kalshi",
+    "summary": "Kalshi announces ‘mutual decision’ as Democrats say they plan to investigate Trump family’s investments.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/donald-trump-jr-kalshi",
+    "publishedAt": "2026-11-12T22:37:10.000Z"
+  },
+  {
+    "id": "329b87b11bb2e680",
+    "title": "Israeli air strike on Gaza hospital kills six, including surgeon",
+    "summary": "Israeli launches its first air strike on a Gaza hospital since the ceasefire began last year.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6038879/israeli-air-strike-on-gaza-hospital-kills-six-including-surgeon",
+    "publishedAt": "2026-11-12T22:33:00.000Z"
+  },
+  {
+    "id": "2da44aa706dbb618",
+    "title": "This week in science: PTSD prediction, phishing while tired, an exoplanet",
+    "summary": "The regular news roundup with NPR's science podcast Short Wave covers a possible use for AI in emergency rooms, a distant planet and the link between cybersecurity and Daylight Saving Time.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6031982/this-week-in-science-ptsd-prediction-phishing-while-tired-an-exoplanet",
+    "publishedAt": "2026-11-12T22:24:11.000Z"
+  },
+  {
+    "id": "5ebc1d2fa73d7de4",
+    "title": "Dozens of protesters arrested after staging sit-in at Chuck Schumer’s DC office",
+    "summary": "Protesters with the Sunrise Movement youth climate group push for new Senate leadership and ending the filibuster.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc",
+    "publishedAt": "2026-11-12T22:12:56.000Z"
+  },
+  {
+    "id": "eb3564eebffd0ff8",
+    "title": "Italy fight back to beat France 3-1 and move top of Nations League group",
+    "summary": "Michael Olise gives France the lead, but double from Pio Esposito and one from Davide Frattesi secure win for Italy.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/12/italy-fight-back-to-beat-france-3-1-and-move-top-of-nations-league-group?traffic_source=rss",
+    "publishedAt": "2026-11-12T22:12:32.000Z"
+  },
+  {
+    "id": "d53a88383be04f3e",
+    "title": "Angela Rayner grants planning approval for asylum centre in Piddington despite local opposition",
+    "summary": "Home Office sign-off also needed for site that would house 1,200 asylum seekers near Oxfordshire village that voted to leave UK.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/12/angela-rayner-grants-planning-approval-for-asylum-centre-in-piddington-despite-local-opposition",
+    "publishedAt": "2026-11-12T22:09:20.000Z"
+  },
+  {
+    "id": "53a09cd4b571fc9d",
+    "title": "What we know so far about Nvidia interim CEO Colette Kress",
+    "summary": "Nvidia interim CEO Colette Kress has served as the company's chief financial officers. Kevin Roose, host of NPR's Machine Gods podcast, talks with Scott Detrow about what to expect from her.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6038896/what-we-know-so-far-about-nvidia-interim-ceo-colette-kress",
+    "publishedAt": "2026-11-12T22:04:13.000Z"
+  },
+  {
+    "id": "0fa281e47ede82d9",
+    "title": "China rules out hosting Cop33 climate summit in 2028",
+    "summary": "Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
+    "publishedAt": "2026-11-12T22:00:15.000Z"
+  },
+  {
+    "id": "58a1330c24949f6c",
+    "title": "Microsoft outage hits tens of thousands of users",
+    "summary": "Microsoft says servers unexpectedly went offline, disrupting Outlook email, Teams, Copilot and other services.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
+    "publishedAt": "2026-11-12T21:03:09.000Z"
+  },
+  {
     "id": "388c180a1aeca5f9",
     "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
     "summary": "An alert on Microsoft’s site said it was ‘aggressively pursuing all pathways to reduce impact’ and blamed a server issue.",
@@ -603,6 +711,15 @@
     "publishedAt": "2026-11-12T14:07:42.000Z"
   },
   {
+    "id": "e2559242d3f93513",
+    "title": "Ukraine says Starlink communications disrupted as US envoys meet Putin",
+    "summary": "Ukrainian President Volodymyr Zelenskyy says disruptions to the Starshield satellite communications service - the military version of Elon Musk's SpaceX's Starlink - is affecting the Ukrainian front line.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-13/ukraine-elon-musk-starlink-access-disrupted/107380578",
+    "publishedAt": "2026-11-12T14:06:03.000Z"
+  },
+  {
     "id": "1823e2dd13e56066",
     "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
     "summary": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationship with employee.",
@@ -781,6 +898,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo",
     "publishedAt": "2026-11-12T13:02:37.000Z"
+  },
+  {
+    "id": "1ebbb847797b5ec1",
+    "title": "Rats, dengue and an all-day stench: can Panama City solve its waste crisis?",
+    "summary": "For decades, mountains of waste have blighted poor neighbourhoods on the edge of the city. But as the problems spread, a belated reckoning is under way.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/nov/12/rats-dengue-and-an-all-day-stench-can-panama-city-solve-its-waste-crisis",
+    "publishedAt": "2026-11-12T13:00:41.000Z"
   },
   {
     "id": "59deeaae7ff4284e",
@@ -1026,6 +1152,15 @@
     "publishedAt": "2026-11-12T11:20:25.000Z"
   },
   {
+    "id": "d09e865f9c014694",
+    "title": "What to know as European leaders meet to discuss Ukraine's security, and their own",
+    "summary": "Leaders from over 40 European countries are gathering in Dublin for a summit focused on the continent’s fragile security.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/european-leaders-meet-dublin-discuss-ukraines-security-138070889",
+    "publishedAt": "2026-11-12T11:14:21.000Z"
+  },
+  {
     "id": "092148901e2564bb",
     "title": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
     "summary": "Unprecedented view of cosmos provided by Euclid mission throws up many more cases of gravitational lensing.",
@@ -1213,140 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/games/2026/nov/12/tanuki-pons-summer-review",
     "publishedAt": "2026-11-12T10:00:15.000Z"
-  },
-  {
-    "id": "00125f51ef744a21",
-    "title": "Ukraine ex-foreign minister",
-    "summary": "NPR's A Martinez asks Ukraine's former Foreign Minister Dmytro Kuleba for his proposals to close gaps in talks between Russia, Ukraine and Europe.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6037759/ukraine-ex-foreign-minister",
-    "publishedAt": "2026-11-12T09:40:31.000Z"
-  },
-  {
-    "id": "9c4ef42ffa05199b",
-    "title": "Ukraine's ex foreign minister Kuleba on prospects for peace in Russia-Ukraine war",
-    "summary": "NPR's A Martinez asks Ukraine's former Foreign Minister Dmytro Kuleba for his proposals to close gaps in talks between Russia, Ukraine and Europe.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6037759/ukraines-ex-foreign-minister-kuleba-on-prospects-for-peace-in-russia-ukraine-war",
-    "publishedAt": "2026-11-12T09:40:31.000Z"
-  },
-  {
-    "id": "fd2174c9c342be23",
-    "title": "Former U.S. Ambassador William Taylor discusses the latest Russia-Ukraine talks",
-    "summary": "NPR's A Martinez speaks with former U.S. ambassador to Ukraine, William Taylor, about the ongoing peace talks between the U.S., Russia and Ukraine.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks",
-    "publishedAt": "2026-11-12T09:39:39.000Z"
-  },
-  {
-    "id": "f6c21ab282d7eb3e",
-    "title": "Russia-ukraine talks",
-    "summary": "U.S.-mediated talks in Abu Dhabi have wrapped up with an agreement on a Russia-Ukraine prisoner exchange. U.S. negotiators meet with Vladimir Putin on Thursday and Volodymyr Zelenskyy on Friday.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6037558/russia-ukraine-talks",
-    "publishedAt": "2026-11-12T09:38:46.000Z"
-  },
-  {
-    "id": "bbb154b9ce3df15a",
-    "title": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
-    "summary": "U.S.-mediated talks in Abu Dhabi have wrapped up with an agreement on a Russia-Ukraine prisoner exchange. U.S. negotiators meet with Vladimir Putin on Thursday and Volodymyr Zelenskyy on Friday.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks",
-    "publishedAt": "2026-11-12T09:38:46.000Z"
-  },
-  {
-    "id": "dd1cb466126bc810",
-    "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
-    "summary": "For decades, these bases allowed the US to wage faraway wars. Now, Iran has changed that calculation.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss",
-    "publishedAt": "2026-11-12T09:38:00.000Z"
-  },
-  {
-    "id": "69df227610574860",
-    "title": "‘He is never leaving the house again’: mother reunites with son missing for six days in Victorian bushland",
-    "summary": "William, 17, was reported missing after straying from his camp near Walhalla in Victoria’s Gippsland region.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
-    "publishedAt": "2026-11-12T09:35:44.000Z"
-  },
-  {
-    "id": "adf8b68d9da5a4f7",
-    "title": "Drought threatens Iraq's marshes, risking one of the oldest ways of life",
-    "summary": "The unique marshes of southern Iraq are beginning to revive after five years of devastating drought. But challenges remain for one of the world's oldest ways of life.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6026458/drought-threatens-iraqs-marshes-risking-one-of-the-oldest-ways-of-life",
-    "publishedAt": "2026-11-12T09:31:34.000Z"
-  },
-  {
-    "id": "b5b56f9a8d215975",
-    "title": "Aid groups call on Israel to allow shelters in Gaza amid a humanitarian emergency",
-    "summary": "Winter storms have brought flooding and deadly landslides to thousands living in tents in Gaza. Palestinians have no where to go after years of devasting war.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6035686/aid-groups-call-on-israel-to-allow-shelters-in-gaza-amid-a-humanitarian-emergency",
-    "publishedAt": "2026-11-12T09:29:50.000Z"
-  },
-  {
-    "id": "39b7babe27ba09f9",
-    "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
-    "summary": "The victims included a surgeon, and at least a dozen more were injured. Israel said it was targeting a Hamas commander and other militants.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
-    "publishedAt": "2026-11-12T09:29:30.000Z"
-  },
-  {
-    "id": "0c7155dfb7674275",
-    "title": "Pope Leo returns to beloved former home of Chiclayo, Peru",
-    "summary": "Pope Leo XIV is celebrated in Chiclayo, Peru, where his image is ubiquitous.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-leo-returns-beloved-former-home-chiclayo-peruvian-138068194",
-    "publishedAt": "2026-11-12T09:13:18.000Z"
-  },
-  {
-    "id": "2e11817dd399d95f",
-    "title": "Argentina threatens UK oil firm CEO with jail over Falklands drilling",
-    "summary": "Exclusive: Legal notice comes as Buenos Aires ramps up rhetoric over UK territory and seeks to halt Sea Lion project.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/12/argentina-threatens-uk-oil-firm-ceo-with-jail-over-falklands-drilling",
-    "publishedAt": "2026-11-12T09:11:09.000Z"
-  },
-  {
-    "id": "60342a45caf8ae6f",
-    "title": "Mongolia protests Malaysia’s handling of a 20-year-old murder case",
-    "summary": "Mongolia has lodged a diplomatic protest with Malaysia over the handling of a murder case involving a Mongolian woman.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/mongolia-protests-malaysias-handling-20-year-murder-case-138071482",
-    "publishedAt": "2026-11-12T09:06:41.000Z"
-  },
-  {
-    "id": "433c28badd3155a2",
-    "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
-    "summary": "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
-    "publishedAt": "2026-11-12T09:01:24.000Z"
-  },
-  {
-    "id": "f8f2656439251f94",
-    "title": "Dutch coalition near collapse as 1 party is upset over tax deal with opposition",
-    "summary": "Prime Minister Rob Jetten's Dutch coalition appears close to collapse.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/dutch-coalition-collapse-1-party-upset-tax-deal-138071590",
-    "publishedAt": "2026-11-12T08:58:19.000Z"
   }
 ]
