@@ -1,5 +1,50 @@
 [
   {
+    "id": "6479e698a3c1add6",
+    "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+    "summary": "The baby's father said he died of hypothermia overnight in their family's tent in southern Gaza.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
+    "publishedAt": "2026-11-12T19:56:26.000Z"
+  },
+  {
+    "id": "875ed4f9e6d40ea6",
+    "title": "US nonprofits sue tech giants to halt AI development",
+    "summary": "California lawsuit demands freeze training on 'catastrophic' artificial intelligence models.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development?traffic_source=rss",
+    "publishedAt": "2026-11-12T19:55:02.000Z"
+  },
+  {
+    "id": "6a2ed0cad30a432b",
+    "title": "‘Who will be held accountable?’: fatal Brooklyn building collapse devastates community",
+    "summary": "New York City officials have confirmed at least eight casualties – six adults and two children – in the collapse.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/nyc-building-collapse-reaction",
+    "publishedAt": "2026-11-12T19:49:24.000Z"
+  },
+  {
+    "id": "50c26ad7580c70ba",
+    "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+    "summary": "Huang has stepped down amid revelations about extramarital affairs and allegations of Chinese espionage.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
+    "publishedAt": "2026-11-12T19:45:40.000Z"
+  },
+  {
+    "id": "26a80163b34dfae2",
+    "title": "Senegal’s wrestlers turn tradition into gold at Dakar Youth Olympics",
+    "summary": "Senegal’s young wrestlers thrive as they adapt skills from their traditional sport to beach wrestling at Youth Olympics.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics?traffic_source=rss",
+    "publishedAt": "2026-11-12T19:32:25.000Z"
+  },
+  {
     "id": "633d5f2300bbfb2e",
     "title": "Trump orders JD Vance to stop Iran war negotiations and focus on domestic policy",
     "summary": "President says vice-president will focus on supposed ‘Massive Corruption and Crime taking place in Democrat run Cities and States’",
@@ -7,6 +52,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
     "publishedAt": "2026-11-12T19:01:16.000Z"
+  },
+  {
+    "id": "a88acb77a1691f7e",
+    "title": "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
+    "summary": "The Lewisham Islamic Centre accused the charity watchdog of imposing disproportionate expectations on Muslim charities.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/uk-mosque-rebukes-comissions-warning-following-palestine-comments?traffic_source=rss",
+    "publishedAt": "2026-11-12T18:58:49.000Z"
   },
   {
     "id": "bdd6ff2e3ac86e42",
@@ -792,6 +846,15 @@
     "publishedAt": "2026-11-12T11:43:19.000Z"
   },
   {
+    "id": "b6766d1eb2938f96",
+    "title": "Nurdle impact to be researched for a year",
+    "summary": "Research will be carried out on sea-birds and marine life following a microplastic spillage in July.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo",
+    "publishedAt": "2026-11-12T11:38:35.000Z"
+  },
+  {
     "id": "b0b3010872ebebac",
     "title": "Tim Westwood in court to deny two more sexual offence charges",
     "summary": "Former Radio 1 DJ accused of new offences against women in London and now faces trial in January for 17 charges.",
@@ -1285,68 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
     "publishedAt": "2026-11-12T06:55:44.000Z"
-  },
-  {
-    "id": "021fbddc959de733",
-    "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
-    "summary": "A cargo ship is set to leave Ireland for Russia with alumina, a white powder that experts say is likely used to make weapons.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ireland-faces-pressure-stop-sending-russia-ingredient-vital-138069912",
-    "publishedAt": "2026-11-12T06:50:30.000Z"
-  },
-  {
-    "id": "9993434fd9161404",
-    "title": "Netanyahu’s legacy: Personality politics reshapes Israeli democracy",
-    "summary": "Netanyahu's fight for political survival turns the parliament's opening into a scene of insults and acrimony.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy?traffic_source=rss",
-    "publishedAt": "2026-11-12T06:49:45.000Z"
-  },
-  {
-    "id": "7ee9204fc1addd87",
-    "title": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop",
-    "summary": "The Tabbara family has been making falafel in Lebanon for over a century.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/beirut-family-sold-falafel-100-years-war-crisis-138070081",
-    "publishedAt": "2026-11-12T06:45:24.000Z"
-  },
-  {
-    "id": "2d88c88109c5c9e2",
-    "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
-    "summary": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
-    "publishedAt": "2026-11-12T06:43:31.000Z"
-  },
-  {
-    "id": "9f3d896e057c4c60",
-    "title": "Indonesia vice president resigns amid dispute over eligibility",
-    "summary": "Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
-    "publishedAt": "2026-11-12T06:38:01.000Z"
-  },
-  {
-    "id": "226ad93386c30e08",
-    "title": "Van crashes on mountain road in Nepal, 10 killed and 5 injured",
-    "summary": "A passenger van veered off a mountain road in Nepal on Thursday, killing at least 10 people.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/van-crashes-mountain-road-nepal-10-killed-5-138069991",
-    "publishedAt": "2026-11-12T06:37:10.000Z"
-  },
-  {
-    "id": "3ea60236f17e1804",
-    "title": "Campaigners want more land protected from housing",
-    "summary": "After parkland was safeguarded from development, residents want the council to change a housing plan.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmpw48zwnevlo",
-    "publishedAt": "2026-11-12T06:24:44.000Z"
   }
 ]
