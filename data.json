@@ -1,5 +1,41 @@
 [
   {
+    "id": "680cc0a2f3f31671",
+    "title": "CDC reports six measles deaths in 2026 as US battles worst outbreak in 35 years",
+    "summary": "Figures highlight spread of virus, officially declared eliminated in US in 2000, but CDC does not identify which states accounted for deaths.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/cdc-measles-deaths",
+    "publishedAt": "2026-11-12T20:19:45.000Z"
+  },
+  {
+    "id": "235130676e9e41ee",
+    "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
+    "summary": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
+    "publishedAt": "2026-11-12T20:12:21.000Z"
+  },
+  {
+    "id": "a384823f13f098dd",
+    "title": "Democrats gather in Denver to debate party’s future after US midterm wins",
+    "summary": "Majority Democrats’ What’s Next conference brings lawmakers and potential 2028 contenders to Denver.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/democrats-gather-in-denver-to-debate-partys-future-after-us-midterm-wins?traffic_source=rss",
+    "publishedAt": "2026-11-12T20:10:31.000Z"
+  },
+  {
+    "id": "86a5f3e77fe39dac",
+    "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+    "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo",
+    "publishedAt": "2026-11-12T20:09:16.000Z"
+  },
+  {
     "id": "6479e698a3c1add6",
     "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
     "summary": "The baby's father said he died of hypothermia overnight in their family's tent in southern Gaza.",
@@ -34,6 +70,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
     "publishedAt": "2026-11-12T19:45:40.000Z"
+  },
+  {
+    "id": "b5156d95e9341ea4",
+    "title": "Financial pain of outer suburbs fuelled demise of David Jones, experts say",
+    "summary": "After 188 years, David Jones announced it would close 19 stores, most of them in Sydney's outer suburbs.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-13/nsw-david-jones-sydney-store-closure-suburban-economic-strain/107380310",
+    "publishedAt": "2026-11-12T19:33:29.000Z"
   },
   {
     "id": "26a80163b34dfae2",
@@ -783,6 +828,15 @@
     "publishedAt": "2026-11-12T12:37:53.000Z"
   },
   {
+    "id": "226ad93386c30e08",
+    "title": "Van crashes on mountain road in Nepal, 10 killed and 5 injured",
+    "summary": "A passenger van veered off a mountain road in Nepal on Thursday, killing at least 10 people.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/van-crashes-mountain-road-nepal-10-killed-5-138069991",
+    "publishedAt": "2026-11-12T12:26:19.000Z"
+  },
+  {
     "id": "4a32187e9aeb9620",
     "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
     "summary": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
@@ -1215,6 +1269,15 @@
     "publishedAt": "2026-11-12T08:58:19.000Z"
   },
   {
+    "id": "021fbddc959de733",
+    "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
+    "summary": "A cargo ship is set to leave Ireland for Russia with alumina, a white powder that experts say is likely used to make weapons.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/ireland-faces-pressure-stop-sending-russia-ingredient-vital-138069912",
+    "publishedAt": "2026-11-12T08:58:15.000Z"
+  },
+  {
     "id": "f57f8322ed7afed7",
     "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
     "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
@@ -1285,68 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo",
     "publishedAt": "2026-11-12T07:45:52.000Z"
-  },
-  {
-    "id": "6848c5951e99030e",
-    "title": "Pope Leo welcomed by millions in his second ‘homeland’ of Peru",
-    "summary": "On his Latin America tour, the pontiff is expected to spend 3 days in Chiclayo, where ​he was bishop from 2015-2023.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/pope-leo-welcomed-by-millions-in-his-second-homeland-of-peru?traffic_source=rss",
-    "publishedAt": "2026-11-12T07:37:42.000Z"
-  },
-  {
-    "id": "fa827469545270a3",
-    "title": "Can Nigeria's president regain voters' trust after painful first term?",
-    "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo",
-    "publishedAt": "2026-11-12T07:30:44.000Z"
-  },
-  {
-    "id": "4fb876fe22cf4a1f",
-    "title": "UK economy grows at fastest rate for more than two years",
-    "summary": "The UK economy grew by 0.7% in the three months to September, according to official figures.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o",
-    "publishedAt": "2026-11-12T07:16:54.000Z"
-  },
-  {
-    "id": "f5ca583ba50d7356",
-    "title": "With Jensen Huang under pressure, Nvidia finds itself with no succession plan",
-    "summary": "Holding the position of co-founder, president and chief executive, Jensen Huang has about 60 executives reporting directly to him and has said himself he does not believe in succession planning.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-12/jensen-huang-nvidia-ceo-succession-plan-after-spy-plot/107376722",
-    "publishedAt": "2026-11-12T07:01:07.000Z"
-  },
-  {
-    "id": "be8c73e4dd0cfc64",
-    "title": "Indonesia's vice president resigns as his eligibility and academic credentials are questioned",
-    "summary": "Indonesia’s vice president has resigned as questions grew over his eligibility for the office after recent court rulings disputed his educational credentials.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/indonesias-vice-president-resigns-eligibility-academic-credentials-questioned-138069107",
-    "publishedAt": "2026-11-12T06:58:19.000Z"
-  },
-  {
-    "id": "92084135542b22be",
-    "title": "A missing teen found alive after 6 days in Australian woodlands",
-    "summary": "A 17-year-old boy with autism has been found found alive after six days lost in eastern Australian woodlands.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/missing-teen-found-alive-after-6-days-australian-138068466",
-    "publishedAt": "2026-11-12T06:58:19.000Z"
-  },
-  {
-    "id": "955db39045169f6f",
-    "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
-    "summary": "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
-    "publishedAt": "2026-11-12T06:55:44.000Z"
   }
 ]
