@@ -1,5 +1,95 @@
 [
   {
+    "id": "aa1fb91bd2147af0",
+    "title": "Local fund to replace Pip for most young disabled people under Milburn plans",
+    "summary": "Exclusive: Former health secretary says he wants to ‘tear up the old approach’, with under-25s to lose personal independence payments.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/12/local-fund-pip-personal-independence-payments-young-disabled-people-milburn",
+    "publishedAt": "2026-11-12T17:14:34.000Z"
+  },
+  {
+    "id": "9f7ef5c71e5784ea",
+    "title": "New Democratic lawmakers bring first-day-of-school energy to Capitol Hill",
+    "summary": "And a politics editor, freshly returned to work after parental leave, can relate.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/the-stakes-new-democrats-congress-orientation",
+    "publishedAt": "2026-11-12T17:05:55.000Z"
+  },
+  {
+    "id": "7930300f7248d501",
+    "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
+    "summary": "The guard told the defence secretary and his companions to maintain an atmosphere of \"silence and respect\" during a Veterans Day visit.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno",
+    "publishedAt": "2026-11-12T16:52:53.000Z"
+  },
+  {
+    "id": "fe9c35182c2173cb",
+    "title": "Prominent Israeli settler denied entry into France",
+    "summary": "Israel criticises Yossi Dagan's entry ban, labelling it 'unacceptable' amid tensions over illegal settlement policies.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/chk-prominent-israeli-settler-denied-entry-into-france?traffic_source=rss",
+    "publishedAt": "2026-11-12T16:44:49.000Z"
+  },
+  {
+    "id": "0b22490ccedd0965",
+    "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
+    "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo",
+    "publishedAt": "2026-11-12T16:43:36.000Z"
+  },
+  {
+    "id": "64a4da9c56d60cec",
+    "title": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
+    "summary": "Swedish activist criticised world governments for their failure to prevent environmental breakdown.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
+    "publishedAt": "2026-11-12T16:39:47.000Z"
+  },
+  {
+    "id": "4d61f65015e1785a",
+    "title": "UK car industry to press EU for two-year delay to Brexit EV tariffs",
+    "summary": "‘Rules of origin’ on vehicle batteries due to come into force on 1 January if deal on new delay is not reached.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/12/uk-car-industry-rules-of-origin-brexit-ev-tariffs-eu",
+    "publishedAt": "2026-11-12T16:30:27.000Z"
+  },
+  {
+    "id": "6714a653a9378a3b",
+    "title": "Sheinbaum rebuts Trump, says no migrant caravans have reached US border since January 2025",
+    "summary": "Mexican President Claudia Sheinbaum says no migrant caravans have reached the U.S. border since U.S. President Donald Trump returned to office in 2025.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/sheinbaum-rebuts-trump-migrant-caravans-reached-us-border-138083469",
+    "publishedAt": "2026-11-12T16:26:59.000Z"
+  },
+  {
+    "id": "ba5051daf5e0b77f",
+    "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+    "summary": "Ministry says a driver lost control of his truck, causing a collision and fire involving 18 vehicles.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
+    "publishedAt": "2026-11-12T16:23:29.000Z"
+  },
+  {
+    "id": "033f16938689c352",
+    "title": "From washing dishes at Denny’s to rockstar of AI: the rise and fall of Nvidia’s Jensen Huang",
+    "summary": "Technical expertise and an ability to engage gave the chipmaker’s co-founder, who has now resigned, the edge with customers and investors.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profile",
+    "publishedAt": "2026-11-12T16:17:31.000Z"
+  },
+  {
     "id": "47e46de3e9f31518",
     "title": "Pope tells Peru's bishops to accompany their flocks and respond to abuse victims with truth, justice",
     "summary": "Pope Leo XIV is opening his first day in Peru by giving marching orders to the country’s Catholic bishops.",
@@ -241,6 +331,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety",
     "publishedAt": "2026-11-12T14:00:42.000Z"
+  },
+  {
+    "id": "d3df9bf62cbca22d",
+    "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+    "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno",
+    "publishedAt": "2026-11-12T13:58:49.000Z"
   },
   {
     "id": "efb9d7817b0d84dc",
@@ -565,6 +664,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe",
     "publishedAt": "2026-11-12T11:08:54.000Z"
+  },
+  {
+    "id": "24bd05b612e13d25",
+    "title": "Five new miniature frog species found in eastern Himalayas",
+    "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko",
+    "publishedAt": "2026-11-12T11:07:19.000Z"
   },
   {
     "id": "dbc9f4798ef65682",
@@ -945,6 +1053,15 @@
     "publishedAt": "2026-11-12T07:37:42.000Z"
   },
   {
+    "id": "fa827469545270a3",
+    "title": "Can Nigeria's president regain voters' trust after painful first term?",
+    "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo",
+    "publishedAt": "2026-11-12T07:30:44.000Z"
+  },
+  {
     "id": "4fb876fe22cf4a1f",
     "title": "UK economy grows at fastest rate for more than two years",
     "summary": "The UK economy grew by 0.7% in the three months to September, according to official figures.",
@@ -1231,122 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
     "publishedAt": "2026-11-12T04:00:24.000Z"
-  },
-  {
-    "id": "e5bcbb9d6d159b23",
-    "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
-    "summary": "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
-    "publishedAt": "2026-11-12T03:50:42.000Z"
-  },
-  {
-    "id": "df72687aa87f346f",
-    "title": "Building collapse in Brooklyn kills two, injures more than a dozen",
-    "summary": "Rescue crews search for victims as Mayor Mamdani says first responders arrived one minute after emergency call.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss",
-    "publishedAt": "2026-11-12T03:31:08.000Z"
-  },
-  {
-    "id": "b78c0ecbb4479c24",
-    "title": "Historic US ocean liner sinks near Florida to become world’s largest artificial reef",
-    "summary": "SS United States, which set transatlantic speed record during maiden voyage in 1952, is sunk off coast of Destin.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
-    "publishedAt": "2026-11-12T03:07:16.000Z"
-  },
-  {
-    "id": "00ec829f52ebefbf",
-    "title": "Why several Trump officials are now living at military bases",
-    "summary": "US Treasury Secretary Scott Bessent becomes the latest Trump official to move onto a military base following security concerns. Here's what to know.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-12/treasury-scott-bessent-military-base-iran-threats/107377812",
-    "publishedAt": "2026-11-12T03:03:40.000Z"
-  },
-  {
-    "id": "afea22f92600b706",
-    "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
-    "summary": "Since the US war on Iran began in February, there have been hundreds of oil spills, posing a ‘generational’ threat to wildlife.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
-    "publishedAt": "2026-11-12T03:00:07.000Z"
-  },
-  {
-    "id": "d5932b4e7c7d2d91",
-    "title": "Australian teen missing in bush for six days rescued alive",
-    "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo",
-    "publishedAt": "2026-11-12T02:40:18.000Z"
-  },
-  {
-    "id": "69df227610574860",
-    "title": "Australian teen who went missing in bushland wearing only shorts and boots found alive after six days",
-    "summary": "William, 17, was reported missing after straying from his camp near Walhalla in Victoria’s Gippsland region.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
-    "publishedAt": "2026-11-12T02:30:28.000Z"
-  },
-  {
-    "id": "60105a59cd396b72",
-    "title": "Lawmakers question police chief about wiretaps alleged to target President Prabowo",
-    "summary": "Indonesia’s police chief is set to appear before a parliamentary panel as lawmakers investigate allegations that President Prabowo Subianto was targeted in an illegal wiretapping operation.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/indonesian-lawmakers-question-police-chief-wiretaps-alleged-target-138065101",
-    "publishedAt": "2026-11-12T02:01:56.000Z"
-  },
-  {
-    "id": "a866fd1f8d3fe89b",
-    "title": "What could Chinese intelligence have learned from Nvidia CEO’s affair?",
-    "summary": "Nvidia says no secrets were compromised, but experts question what sensitive information may have been exposed.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair?traffic_source=rss",
-    "publishedAt": "2026-11-12T01:33:09.000Z"
-  },
-  {
-    "id": "165828d14e631504",
-    "title": "Former Italian Red Brigades member escapes house arrest in Argentina",
-    "summary": "Bertulazzi used a rope and harness to climb down from a fifth-floor apartment and evade authorities in Argentina.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina?traffic_source=rss",
-    "publishedAt": "2026-11-12T01:04:28.000Z"
-  },
-  {
-    "id": "feab1dfa21ab958c",
-    "title": "Australian states could sue tobacco companies for billions in healthcare costs under proposal",
-    "summary": "Exclusive: Former barrister who helped legally establish that secondhand smoke causes lung cancer argues states could seek up to $50bn in compensation.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/12/australian-states-could-sue-tobacco-companies-for-billions-smoking-healthcare-costs",
-    "publishedAt": "2026-11-12T01:02:01.000Z"
-  },
-  {
-    "id": "b4c61accff62b7c2",
-    "title": "Pope Leo returns to a national celebration in his second homeland of Peru",
-    "summary": "Pope Leo XIV has arrived in his second homeland.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-leo-returns-expected-national-party-homeland-peru-138054377",
-    "publishedAt": "2026-11-12T00:51:01.000Z"
-  },
-  {
-    "id": "db48ae06ce9dc39d",
-    "title": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
-    "summary": "Chip giants stock price falls more than 8 percent amid speculation over co-founder's position.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
-    "publishedAt": "2026-11-12T00:43:26.000Z"
   }
 ]
