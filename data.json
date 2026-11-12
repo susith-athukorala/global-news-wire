@@ -1,5 +1,104 @@
 [
   {
+    "id": "caced9783dab4cd6",
+    "title": "US workers are fighting to protect their jobs from AI – and winning",
+    "summary": "As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harms.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
+    "publishedAt": "2026-11-12T15:00:44.000Z"
+  },
+  {
+    "id": "2b259c5c9570a85e",
+    "title": "Brooklyn building collapse kills at least eight and injures 17 as search continues",
+    "summary": "New York mayor Zohran Mamdani says crews are working through ‘extremely dangerous conditions’ to find anyone trapped.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
+    "publishedAt": "2026-11-12T14:48:55.000Z"
+  },
+  {
+    "id": "2f056bf8a4230f94",
+    "title": "Multiple people shot in Washington DC as police warn people to stay inside",
+    "summary": "Local council member says police are looking for suspect, while reports say shooting occurred at or outside of a gym.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
+    "publishedAt": "2026-11-12T14:44:39.000Z"
+  },
+  {
+    "id": "a1d5ad34f846890d",
+    "title": "Migrant caravan sets out from southern Mexico bound for US after midterms",
+    "summary": "Many migrants stranded in southern Mexico say the Democrats' win in Congress has given them new hope of entering the US.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/migrant-caravan-sets-out-from-southern-mexico-bound-for-us-after-midterms?traffic_source=rss",
+    "publishedAt": "2026-11-12T14:38:42.000Z"
+  },
+  {
+    "id": "37170bfe547cc3f0",
+    "title": "Farage was guest on Brand podcast after sexual assault investigation began",
+    "summary": "Reform leader this week criticised the Labour party for ‘cosying up to’ and ‘promoting’ disgraced comedian.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/12/farage-was-guest-on-brand-podcast-after-sexual-assault-investigation-began",
+    "publishedAt": "2026-11-12T14:30:17.000Z"
+  },
+  {
+    "id": "b9c0719774360ef5",
+    "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+    "summary": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko",
+    "publishedAt": "2026-11-12T14:29:59.000Z"
+  },
+  {
+    "id": "9c5241c171e55c3e",
+    "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
+    "summary": "Sustainable stalemate or slow-motion strangulation? The current 'equilibrium' is inherently unstable, experts say.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
+    "publishedAt": "2026-11-12T14:27:54.000Z"
+  },
+  {
+    "id": "4420fcaedbd4220e",
+    "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
+    "summary": "Israel's military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
+    "publishedAt": "2026-11-12T14:23:01.000Z"
+  },
+  {
+    "id": "c7dc8d23584cda15",
+    "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+    "summary": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+    "publishedAt": "2026-11-12T14:22:50.000Z"
+  },
+  {
+    "id": "21de6e1d087efa8d",
+    "title": "Police say at least five people shot at busy thoroughfare in Washington, DC",
+    "summary": "Authorities have issued a shelter in place near the scene of attack in US capital.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc?traffic_source=rss",
+    "publishedAt": "2026-11-12T14:19:37.000Z"
+  },
+  {
+    "id": "7ee65d1ae7eb3dea",
+    "title": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
+    "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global AI race has crumbled.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo",
+    "publishedAt": "2026-11-12T14:18:33.000Z"
+  },
+  {
     "id": "cc03bc5b729f3d25",
     "title": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
     "summary": "Huang co-founded the chipmaker Nvidia, which has become one of the driving forces behind the AI boom. But reports that he may have had an affair with an alleged Chinese spy quickly sank his career.",
@@ -7,6 +106,24 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-board-fired",
     "publishedAt": "2026-11-12T14:17:20.000Z"
+  },
+  {
+    "id": "a06747be558e1b0f",
+    "title": "Time running out for young people to receive meningitis B vaccines in UK",
+    "summary": "Just 28.2% of 18- and 19-year-olds have received their first dose in one-off campaign, UKHSA says.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/12/time-running-out-young-people-meningitis-b-vaccines-uk",
+    "publishedAt": "2026-11-12T14:16:18.000Z"
+  },
+  {
+    "id": "79bed904631621d7",
+    "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
+    "summary": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targets.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
+    "publishedAt": "2026-11-12T14:07:42.000Z"
   },
   {
     "id": "1823e2dd13e56066",
@@ -34,6 +151,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb",
     "publishedAt": "2026-11-12T14:00:44.000Z"
+  },
+  {
+    "id": "a32b6f0c29455309",
+    "title": "‘To them, we’re just NPCs’: the artists and activists challenging Trump’s video game propaganda",
+    "summary": "Order a Diet Coke or invade Iran – that’s the choice facing the US president in one of several satirical games, as designers turn the gamification of politics back on the White House.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda",
+    "publishedAt": "2026-11-12T14:00:43.000Z"
   },
   {
     "id": "a048229e172720f5",
@@ -162,6 +288,15 @@
     "publishedAt": "2026-11-12T13:02:37.000Z"
   },
   {
+    "id": "59deeaae7ff4284e",
+    "title": "Spain approves housing measures after huge protests. Duration may depend on election",
+    "summary": "Spain’s interim lower house of parliament has ratified housing measures designed to limit evictions and real estate speculation.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/spain-approves-housing-measures-after-huge-protests-duration-138074427",
+    "publishedAt": "2026-11-12T12:58:26.000Z"
+  },
+  {
     "id": "e88013ff850da643",
     "title": "London court finds 2 Iranian men guilty of spying for Tehran",
     "summary": "Two Iranian men have been found guilty of spying on journalists in London for Tehran.",
@@ -205,6 +340,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/12/metro-bank-up-for-sale-billionaire-investor-in-line-420m-windfall",
     "publishedAt": "2026-11-12T12:43:49.000Z"
+  },
+  {
+    "id": "4181a1afee374e23",
+    "title": "Armed robbers flee Paris jewelry store on motorcycles",
+    "summary": "Paris police report that armed robbers have held up a jewelry store in the city before fleeing on motorcycles.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/armed-robbers-flee-paris-jewelry-store-motorcycles-138074429",
+    "publishedAt": "2026-11-12T12:42:21.000Z"
   },
   {
     "id": "c0b6c5ae0f71e34b",
@@ -1008,6 +1152,15 @@
     "publishedAt": "2026-11-12T03:07:16.000Z"
   },
   {
+    "id": "00ec829f52ebefbf",
+    "title": "Why several Trump officials are now living at military bases",
+    "summary": "US Treasury Secretary Scott Bessent becomes the latest Trump official to move onto a military base following security concerns. Here's what to know.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-12/treasury-scott-bessent-military-base-iran-threats/107377812",
+    "publishedAt": "2026-11-12T03:03:40.000Z"
+  },
+  {
     "id": "afea22f92600b706",
     "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
     "summary": "Since the US war on Iran began in February, there have been hundreds of oil spills, posing a ‘generational’ threat to wildlife.",
@@ -1069,6 +1222,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/12/australian-states-could-sue-tobacco-companies-for-billions-smoking-healthcare-costs",
     "publishedAt": "2026-11-12T01:02:01.000Z"
+  },
+  {
+    "id": "b4c61accff62b7c2",
+    "title": "Pope Leo returns to a national celebration in his second homeland of Peru",
+    "summary": "Pope Leo XIV has arrived in his second homeland.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-leo-returns-expected-national-party-homeland-peru-138054377",
+    "publishedAt": "2026-11-12T00:51:01.000Z"
   },
   {
     "id": "db48ae06ce9dc39d",
@@ -1186,167 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/12/bronze-leg-scottish-bog-roman-occupation-exhibit",
     "publishedAt": "2026-11-12T00:01:03.000Z"
-  },
-  {
-    "id": "81a2eb1db642adb2",
-    "title": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
-    "summary": "Inspectors find some officers acted on potential matches from retrospective searches without making enough checks.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
-    "publishedAt": "2026-11-12T00:01:03.000Z"
-  },
-  {
-    "id": "c7f0c9eb00773ec3",
-    "title": "Democrats push to rein in Trump on immigration after voter backlash to ICE raids",
-    "summary": "Members of Congress seek to ‘bring sanity’ to system but decline to give details on plans to reform or abolish agency.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda",
-    "publishedAt": "2026-11-11T23:42:08.000Z"
-  },
-  {
-    "id": "2b537f6af7fe32a0",
-    "title": "Hacker claims to have sold VCE exam papers to hundreds of students after government website hack",
-    "summary": "With year 12 exams under way, VCAA says there is no evidence any have leaked and hacker is attempting to exploit ‘anxious students’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/12/vce-exams-hack-year-12-papers-vcaa-victorian-curriculum-and-assessment-authority",
-    "publishedAt": "2026-11-11T23:28:17.000Z"
-  },
-  {
-    "id": "048ae611e438b898",
-    "title": "Some under-25s should get less benefits, Milburn review to say",
-    "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o",
-    "publishedAt": "2026-11-11T23:22:04.000Z"
-  },
-  {
-    "id": "d5216de1e2726acd",
-    "title": "Democrat Scott Colom unseats Cindy Hyde-Smith in shocking Mississippi Senate win",
-    "summary": "Colom takes victory by razor-thin margin in state that hasn’t elected a Democrat to the Senate since 1982.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race",
-    "publishedAt": "2026-11-11T23:10:16.000Z"
-  },
-  {
-    "id": "b492a23bee05e448",
-    "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
-    "summary": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
-    "publishedAt": "2026-11-11T23:09:07.000Z"
-  },
-  {
-    "id": "19cef2d2485d9bf7",
-    "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
-    "summary": "The historic victory flips an eighth US Senate seat for Democrats after last week's pivotal midterm election.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
-    "publishedAt": "2026-11-11T23:05:34.000Z"
-  },
-  {
-    "id": "0b29ab9cde481d32",
-    "title": "After 40 years apart, a Chilean mother reunites with two children stolen during dictatorship",
-    "summary": "Teresita de Jes&uacute;s Padilla has reunited with her two sons after they were taken from her in Chile four decades ago.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/after-40-years-apart-chilean-mother-reunites-children-138062026",
-    "publishedAt": "2026-11-11T23:04:41.000Z"
-  },
-  {
-    "id": "c1e95fc8ad4d6d3f",
-    "title": "Black girls in LA keep seeing women around them getting killed. They’re driving change",
-    "summary": "Black women and girls represent an outsized share of LA homicide victims – frustrated with police and legislators’ failures, they’re stepping up and speaking out to stop the violence.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/09/black-women-girls-los-angeles-homicides-violence",
-    "publishedAt": "2026-11-11T23:01:10.000Z"
-  },
-  {
-    "id": "30c231e439cecae4",
-    "title": "Hegseth and aides scolded by guard for laughing at Tomb of the Unknown Soldier",
-    "summary": "Group attending Veterans Day ceremony sharply reminded by sentinel to maintain ‘silence and respect’ at sacred site.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/11/hegseth-scolded-tomb-unknown-soldier",
-    "publishedAt": "2026-11-11T23:00:21.000Z"
-  },
-  {
-    "id": "487f359ed546011b",
-    "title": "Israeli strikes hit tent camp as five killed in Gaza",
-    "summary": "Tent camp attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
-    "publishedAt": "2026-11-11T22:55:37.000Z"
-  },
-  {
-    "id": "2f369d508278da65",
-    "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
-    "summary": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
-    "publishedAt": "2026-11-11T22:50:37.000Z"
-  },
-  {
-    "id": "aa932b3d176d27ef",
-    "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
-    "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, says expert.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro",
-    "publishedAt": "2026-11-11T22:48:59.000Z"
-  },
-  {
-    "id": "f67c5d112d2a4e19",
-    "title": "Free SAD lamps given out as disorder 'makes it hard to do anything on darker days'",
-    "summary": "Seasonal affective disorder can affect mood, energy and sleep during the winter months.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6wyvy50r2ewo",
-    "publishedAt": "2026-11-11T22:40:57.000Z"
-  },
-  {
-    "id": "b82478859e8ac7f3",
-    "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
-    "summary": "The move comes months after the government of Javier Milei designated Iran's IRGC as a 'terrorist organisation'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
-    "publishedAt": "2026-11-11T22:34:43.000Z"
-  },
-  {
-    "id": "fca1d9c740ddcd9e",
-    "title": "Poland's president joins a nationalist march as the country reels from the Krakow shooting",
-    "summary": "Polish President Karol Nawrocki joins thousands of right-wing demonstractors at an annual march in the capital to mark Independence Day.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/polands-president-joins-nationalist-march-country-reels-krakow-138059994",
-    "publishedAt": "2026-11-11T22:30:06.000Z"
-  },
-  {
-    "id": "a469bbd60ff60094",
-    "title": "UK appoints world’s first special representative for climate security",
-    "summary": "Exclusive: Madeleine Alessandri, chair of the joint intelligence committee, will take on the role of advising No 10 on climate-related national security risks.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security",
-    "publishedAt": "2026-11-11T22:30:01.000Z"
-  },
-  {
-    "id": "7f3cbcadfe6e1e50",
-    "title": "Welsh NHS bosses call for multi-year health funding",
-    "summary": "Next week Welsh ministers will unveil next year's draft spending plans for all public services.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmn80735d3eqo",
-    "publishedAt": "2026-11-11T22:26:26.000Z"
   }
 ]
