@@ -1,5 +1,122 @@
 [
   {
+    "id": "673f542189f6ba94",
+    "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
+    "summary": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
+    "publishedAt": "2026-11-13T16:44:56.000Z"
+  },
+  {
+    "id": "d52444b99fb9fa3e",
+    "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+    "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo",
+    "publishedAt": "2026-11-13T16:40:31.000Z"
+  },
+  {
+    "id": "e940fd9875725f16",
+    "title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+    "summary": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+    "publishedAt": "2026-11-13T16:38:27.000Z"
+  },
+  {
+    "id": "fa576b987fcbb609",
+    "title": "Chuck Schumer’s challenger for party control underscores Democrats’ ideological rift",
+    "summary": "Senator Chris Van Hollen’s policy credentials allowed his quick rise to roles usually reserved for the more tenured.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/chuck-schumer-democrat-party-control-ideology",
+    "publishedAt": "2026-11-13T16:36:45.000Z"
+  },
+  {
+    "id": "0a0995c054edd29d",
+    "title": "Met police launch investigation into David Walliams allegations",
+    "summary": "Police say allegations of sexual misconduct are separate from those made by multiple women in Guardian and ITN investigation.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
+    "publishedAt": "2026-11-13T16:36:21.000Z"
+  },
+  {
+    "id": "0757c5a07d60e48d",
+    "title": "Sixth victim confirmed in DC condo-related shooting in US, police say",
+    "summary": "Police confirm sixth victim in DC condo shooting; suspect dead after barricading himself and starting a fire.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/sixth-victim-found-in-dc-condo-related-shooting-police-confirm?traffic_source=rss",
+    "publishedAt": "2026-11-13T16:31:50.000Z"
+  },
+  {
+    "id": "79a491aa37c62c36",
+    "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
+    "summary": "Despite Treasury's Scott Bessent's remarks, financial tracker CME Fed Watch forecasts rate hike in December likely.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
+    "publishedAt": "2026-11-13T16:22:33.000Z"
+  },
+  {
+    "id": "caa5e835352c00de",
+    "title": "Jaguar Land Rover reports £451m quarterly loss after cutting 4,000 jobs",
+    "summary": "JLR chief executive calls for EU and Britain to join forces amid competition from Chinese electric carmakers.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/13/jaguar-land-rover-quarterly-loss-electric-cars-job-cuts",
+    "publishedAt": "2026-11-13T16:22:16.000Z"
+  },
+  {
+    "id": "00adaa5f9fe69400",
+    "title": "Sheds, cakes and photos of me – Prince William’s Country Life, digested by John Crace",
+    "summary": "Saintly heir to the throne breaks his hectic schedule for a magazine lowdown on life in the country.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/books/2026/nov/13/sheds-cakes-and-photos-of-me-prince-williams-country-life-digested-by-john-crace",
+    "publishedAt": "2026-11-13T16:12:29.000Z"
+  },
+  {
+    "id": "9fdfc1088b3648c2",
+    "title": "Truck and bus crash in India’s Assam state kills at least 24 people",
+    "summary": "Several children and the bus driver were among those killed, officials said, with the death toll expected to rise.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss",
+    "publishedAt": "2026-11-13T16:01:45.000Z"
+  },
+  {
+    "id": "97c81ae6fd259b02",
+    "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
+    "summary": "Signing of agreement to smooth movement of food, plants and animals next week will not recoup huge sums firms were forced to spend.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle",
+    "publishedAt": "2026-11-13T16:00:19.000Z"
+  },
+  {
+    "id": "39353f83996a70b2",
+    "title": "Turkiye and Qatar sign mutual defence agreement",
+    "summary": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌bin Hamad ​Al Thani in Istanbul on ⁠Friday.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
+    "publishedAt": "2026-11-13T15:49:51.000Z"
+  },
+  {
+    "id": "adb8db7024412cdc",
+    "title": "Democratic Senate leader Schumer set to face leadership challenge",
+    "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
+    "publishedAt": "2026-11-13T15:48:07.000Z"
+  },
+  {
     "id": "78e1bf4bf8a10a9b",
     "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
     "summary": "The Maryland Democrat, who's the ranking member of the Senate Foreign Relations Subcommittee, just announced he's going to run for Majority Leader. He spoke to NPR about his foreign aid vision.",
@@ -7,6 +124,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
     "publishedAt": "2026-11-13T15:46:35.000Z"
+  },
+  {
+    "id": "3c1e98e0ed515dc7",
+    "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+    "summary": "EU leaders believe a US-backed process will allow Moscow and Washington to decide the fate of a conflict.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
+    "publishedAt": "2026-11-13T15:43:39.000Z"
   },
   {
     "id": "046d5253f4f3db30",
@@ -25,6 +151,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession",
     "publishedAt": "2026-11-13T15:25:28.000Z"
+  },
+  {
+    "id": "18ad3880512a4ec9",
+    "title": "At least 24 killed after bus collides with truck in north-east India",
+    "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo",
+    "publishedAt": "2026-11-13T15:16:50.000Z"
   },
   {
     "id": "5659d244156ae8cf",
@@ -369,6 +504,24 @@
     "publishedAt": "2026-11-13T11:47:38.000Z"
   },
   {
+    "id": "befc332a288a1265",
+    "title": "Jensen Huang is out. An AI expert explains what his exit means for the AI boom",
+    "summary": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-jensen-huang-exit-investigation-lutnick-ai-boom",
+    "publishedAt": "2026-11-13T11:47:00.000Z"
+  },
+  {
+    "id": "a1c572184d9929db",
+    "title": "Jensen Huang is out. An AI expert explains what his exit could mean for the AI boom",
+    "summary": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-jensen-huang-exit-scandal-colette-kress-ai-future",
+    "publishedAt": "2026-11-13T11:47:00.000Z"
+  },
+  {
     "id": "4089e8cfbf9a5274",
     "title": "Nvidia's CEO resigns after alleged spy scandal. What's next for the company?",
     "summary": "NPR's Michel Martin speaks with NYU professor emeritus and AI writer Gary Marcus about the fallout of the Nvidia scandal.",
@@ -376,6 +529,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidias-ceo-resigns-after-alleged-spy-scandal-whats-next-for-the-company",
     "publishedAt": "2026-11-13T11:47:00.000Z"
+  },
+  {
+    "id": "cb1a9fd9279df767",
+    "title": "Rosalía scoops historic third best album award at Latin Grammys",
+    "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o",
+    "publishedAt": "2026-11-13T11:38:54.000Z"
   },
   {
     "id": "69564038c20d3cab",
@@ -1186,167 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
     "publishedAt": "2026-11-13T00:03:57.000Z"
-  },
-  {
-    "id": "e780ce5da452556a",
-    "title": "Second world war ‘brain’ bunker in cliffs of Dover opens to public",
-    "summary": "Hidden bunker, entered via a hatch in a field, controlled a gun battery used to attack German ships in Channel.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/13/fan-bay-plotting-room-national-trust-white-cliffs-dover",
-    "publishedAt": "2026-11-13T00:01:03.000Z"
-  },
-  {
-    "id": "d2e11db3e954b0f8",
-    "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
-    "summary": "Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
-    "publishedAt": "2026-11-12T23:52:38.000Z"
-  },
-  {
-    "id": "0f3d14786d578619",
-    "title": "Russell Brand accused of misconduct by six more women, according to report",
-    "summary": "Allegations of sexual misconduct and predatory behaviour made against ex-comedian who was jailed on Monday.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2026/nov/12/russell-brand-accused-of-misconduct-by-six-more-women-according-to-report",
-    "publishedAt": "2026-11-12T23:51:04.000Z"
-  },
-  {
-    "id": "daff2696e62e3670",
-    "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-    "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
-    "publishedAt": "2026-11-12T23:34:05.000Z"
-  },
-  {
-    "id": "ad87224b58b30c27",
-    "title": "Family Dollar to pay $63m to settle overcharging allegations",
-    "summary": "Dollar-store chain’s settlement with FTC and state officials comes after Guardian exposé of its pricing practices.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/family-dollar-overcharging-allegations-settlement",
-    "publishedAt": "2026-11-12T23:28:26.000Z"
-  },
-  {
-    "id": "df8154f62aa5307e",
-    "title": "Russian court jails rights lawyer for 12 years on treason charge",
-    "summary": "Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
-    "publishedAt": "2026-11-12T23:18:50.000Z"
-  },
-  {
-    "id": "048ae611e438b898",
-    "title": "Some under-25s should get fewer benefits, Milburn review to say",
-    "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o",
-    "publishedAt": "2026-11-12T22:51:18.000Z"
-  },
-  {
-    "id": "3e3edbb24ebcbf32",
-    "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
-    "summary": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo",
-    "publishedAt": "2026-11-12T22:49:48.000Z"
-  },
-  {
-    "id": "a69f079083e005a3",
-    "title": "Trouble at the top - the crisis of confidence in Scotland's NHS leaders",
-    "summary": "BBC Scotland's health correspondent Lisa Summers on the damning verdict delivered on NHS Grampian.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cknv4d307523o",
-    "publishedAt": "2026-11-12T22:49:33.000Z"
-  },
-  {
-    "id": "ff73919a010f056c",
-    "title": "How many sewage spills have happened in your part of Scotland?",
-    "summary": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c0re545l8jdo",
-    "publishedAt": "2026-11-12T22:48:55.000Z"
-  },
-  {
-    "id": "0b3b24508408518e",
-    "title": "Donald Trump Jr exits as paid adviser for prediction market Kalshi",
-    "summary": "Kalshi announces ‘mutual decision’ as Democrats say they plan to investigate Trump family’s investments.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/donald-trump-jr-kalshi",
-    "publishedAt": "2026-11-12T22:37:10.000Z"
-  },
-  {
-    "id": "329b87b11bb2e680",
-    "title": "Israeli air strike on Gaza hospital kills six, including surgeon",
-    "summary": "Israeli launches its first air strike on a Gaza hospital since the ceasefire began last year.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6038879/israeli-air-strike-on-gaza-hospital-kills-six-including-surgeon",
-    "publishedAt": "2026-11-12T22:33:00.000Z"
-  },
-  {
-    "id": "4222657b99009790",
-    "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
-    "summary": "Russian president says he would target any foreign troops sent to Ukraine and refuses to soften territorial demands.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
-    "publishedAt": "2026-11-12T22:26:37.000Z"
-  },
-  {
-    "id": "2da44aa706dbb618",
-    "title": "This week in science: PTSD prediction, phishing while tired, an exoplanet",
-    "summary": "The regular news roundup with NPR's science podcast Short Wave covers a possible use for AI in emergency rooms, a distant planet and the link between cybersecurity and Daylight Saving Time.",
-    "category": "Science",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6031982/this-week-in-science-ptsd-prediction-phishing-while-tired-an-exoplanet",
-    "publishedAt": "2026-11-12T22:24:11.000Z"
-  },
-  {
-    "id": "5ebc1d2fa73d7de4",
-    "title": "Dozens of protesters arrested after staging sit-in at Chuck Schumer’s DC office",
-    "summary": "Protesters with the Sunrise Movement youth climate group push for new Senate leadership and ending the filibuster.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc",
-    "publishedAt": "2026-11-12T22:12:56.000Z"
-  },
-  {
-    "id": "eb3564eebffd0ff8",
-    "title": "Italy fight back to beat France 3-1 and move top of Nations League group",
-    "summary": "Michael Olise gives France the lead, but double from Pio Esposito and one from Davide Frattesi secure win for Italy.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/12/italy-fight-back-to-beat-france-3-1-and-move-top-of-nations-league-group?traffic_source=rss",
-    "publishedAt": "2026-11-12T22:12:32.000Z"
-  },
-  {
-    "id": "d53a88383be04f3e",
-    "title": "Angela Rayner grants planning approval for asylum centre in Piddington despite local opposition",
-    "summary": "Home Office sign-off also needed for site that would house 1,200 asylum seekers near Oxfordshire village that voted to leave UK.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/12/angela-rayner-grants-planning-approval-for-asylum-centre-in-piddington-despite-local-opposition",
-    "publishedAt": "2026-11-12T22:09:20.000Z"
-  },
-  {
-    "id": "1823e2dd13e56066",
-    "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
-    "summary": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationships with two employees.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
-    "publishedAt": "2026-11-12T22:05:28.000Z"
   }
 ]
