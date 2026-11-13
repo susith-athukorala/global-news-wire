@@ -1,5 +1,59 @@
 [
   {
+    "id": "cc0b72bdf6cd7346",
+    "title": "Spanish court suspends far-right group over alleged hate crimes",
+    "summary": "Judge orders office shut and accounts blocked after 14 arrests and the seizure of more than 20 firearms.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/spanish-court-suspends-far-right-group-over-alleged-hate-crimes?traffic_source=rss",
+    "publishedAt": "2026-11-13T02:52:25.000Z"
+  },
+  {
+    "id": "cbb859c921e83242",
+    "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+    "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o",
+    "publishedAt": "2026-11-13T02:48:29.000Z"
+  },
+  {
+    "id": "feeb6c703efc01a7",
+    "title": "Chris Van Hollen to run for US Senate majority leader",
+    "summary": "Van Hollen's entry into the race follows Democratic sweeps in elections and challenges veteran leader Schumer.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/chris-van-hollen-to-run-for-us-senate-majority-leader?traffic_source=rss",
+    "publishedAt": "2026-11-13T02:42:41.000Z"
+  },
+  {
+    "id": "d4a4eb02dd601254",
+    "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
+    "summary": "Reports of attack in Baltic came before US envoys met with Russian and Ukrainian presidents.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
+    "publishedAt": "2026-11-13T02:35:21.000Z"
+  },
+  {
+    "id": "5ac71e580a4565b1",
+    "title": "Trump moots toppling Cuba authorities before leaving office",
+    "summary": "Calling Cuba a failed nation, the US president hints at attack on the country before his term ends.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
+    "publishedAt": "2026-11-13T02:33:28.000Z"
+  },
+  {
+    "id": "e2fa94c7ab3f28f1",
+    "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+    "summary": "Maryland Democrat challenges party leader after midterms sweep, saying: ‘The American people called for change’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
+    "publishedAt": "2026-11-13T02:30:07.000Z"
+  },
+  {
     "id": "0e96d64327ba73e5",
     "title": "The US has been holding secretive talks with a regime it accused of genocide",
     "summary": "The United States has been holding secretive talks with a regime it has accused of genocide, and experts believe it could come down to rare earths.",
@@ -1251,6 +1305,15 @@
     "publishedAt": "2026-11-12T12:22:41.000Z"
   },
   {
+    "id": "7cf80c14f947f13b",
+    "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+    "summary": "Hospital director says 28 wounded in attack on one of few remaining medical facilities in the strip.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+    "publishedAt": "2026-11-12T12:19:01.000Z"
+  },
+  {
     "id": "ee5a0dee6d6a08f6",
     "title": "UK appoints climate security envoy as Thunberg criticizes COP31 leaders",
     "summary": "The United Kingdom has appointed a special envoy to address climate change security threats.",
@@ -1285,68 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/12/pakistan-releases-two-sisters-of-ex-pm-imran-khan-from-jail?traffic_source=rss",
     "publishedAt": "2026-11-12T12:12:17.000Z"
-  },
-  {
-    "id": "6f11ec9f07b47746",
-    "title": "A record number of US democratic socialists will become mayors. They’re out to prove their vision for affordability",
-    "summary": "Members of Democratic Socialists of America have a unique opportunity to fulfill campaign promises and group’s ideals.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/democratic-socialists-historic-election-wins",
-    "publishedAt": "2026-11-12T12:00:47.000Z"
-  },
-  {
-    "id": "4049dd19277355da",
-    "title": "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen",
-    "summary": "Chinese president says the tide of history 'cannot be stopped' as Taiwan rejects 'one country, two systems'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen?traffic_source=rss",
-    "publishedAt": "2026-11-12T11:59:28.000Z"
-  },
-  {
-    "id": "e3547c33125263f0",
-    "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan",
-    "summary": "Nvidia CEO Jensen Huang's image in his birthplace, Taiwan, has been tainted after the FBI began investigating his affair with an alleged Chinese agent.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/scandal-hit-jensen-huang-loses-shine-birthplace-taiwan-138073575",
-    "publishedAt": "2026-11-12T11:53:14.000Z"
-  },
-  {
-    "id": "92084135542b22be",
-    "title": "A missing teen is found alive after 6 days in the Australian woodlands",
-    "summary": "A 17-year-old boy with autism has been found alive after six days lost in eastern Australian woodlands.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/missing-teen-found-alive-after-6-days-australian-138068466",
-    "publishedAt": "2026-11-12T11:49:32.000Z"
-  },
-  {
-    "id": "5ad75f51d323d115",
-    "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
-    "summary": "CEO of chip maker is under scrutiny after reports of affairs, including a relationship with an alleged Chinese spy.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss",
-    "publishedAt": "2026-11-12T11:43:19.000Z"
-  },
-  {
-    "id": "b6766d1eb2938f96",
-    "title": "Nurdle impact to be researched for a year",
-    "summary": "Research will be carried out on sea-birds and marine life following a microplastic spillage in July.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo",
-    "publishedAt": "2026-11-12T11:38:35.000Z"
-  },
-  {
-    "id": "b0b3010872ebebac",
-    "title": "Tim Westwood in court to deny two more sexual offence charges",
-    "summary": "Former Radio 1 DJ accused of new offences against women in London and now faces trial in January for 17 charges.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/12/tim-westwood-in-court-to-deny-two-more-sexual-offence-charges",
-    "publishedAt": "2026-11-12T11:36:13.000Z"
   }
 ]
