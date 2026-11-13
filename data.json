@@ -1,5 +1,104 @@
 [
   {
+    "id": "c22c9f451b1ae85d",
+    "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+    "summary": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European security.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
+    "publishedAt": "2026-11-13T14:14:44.000Z"
+  },
+  {
+    "id": "5a4acef3f519047f",
+    "title": "‘Incredibly unusual’ bird migrating from Siberia found in Cumbria – killed by cat",
+    "summary": "Siberian rubythroat was thousands of miles off course from its route to winter in south or south-east Asia.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/13/siberian-rubythroat-bird-migrating-siberia-cumbria-killed-by-cat",
+    "publishedAt": "2026-11-13T14:00:20.000Z"
+  },
+  {
+    "id": "3e97a48ed411dd4b",
+    "title": "‘So lovely’: Stevie Wonder surprises Stalybridge restaurant with late-night visit and £1,000 tip",
+    "summary": "Singer, 76, was in Manchester with his band for penultimate UK show of his Songs in the Key of Life anniversary tour.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/13/stevie-wonder-stalybridge-restaurant-cafe-continental-1000-tip",
+    "publishedAt": "2026-11-13T13:48:13.000Z"
+  },
+  {
+    "id": "1ac31efa6bfd9806",
+    "title": "Ukraine fires nearly 1,200 drones at Russia as US-led talks consider Europe security",
+    "summary": "Ukraine has launched nearly 1,200 drones at Russian targets in one of its largest aerial attacks since the invasion began almost five years ago.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/ukraine-fires-1200-drones-russia-us-led-talks-138104516",
+    "publishedAt": "2026-11-13T13:44:27.000Z"
+  },
+  {
+    "id": "cc7b509cacc59edc",
+    "title": "Wife of jailed ex-leader of Northern Ireland's largest pro-UK party put on sex offenders register",
+    "summary": "Eleanor Donaldson, the wife of former Northern Ireland unionist leader Jeffrey Donaldson, has been placed on the sex offenders register for five years.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/wife-jailed-leader-northern-irelands-largest-pro-uk-138107487",
+    "publishedAt": "2026-11-13T13:39:14.000Z"
+  },
+  {
+    "id": "e9ff6c283d52f008",
+    "title": "Bus and truck collision in India's Assam state kills at least 24 people",
+    "summary": "A bus has collided with a container truck in Assam, India, killing at least 24 people and injuring 11 others.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/bus-truck-collision-indias-assam-state-kills-24-138107488",
+    "publishedAt": "2026-11-13T13:39:08.000Z"
+  },
+  {
+    "id": "093a20b22b8acf62",
+    "title": "UK’s biggest insurer hit by rise in subsidence claims after record hot summer",
+    "summary": "Increase reported by Aviva after Hastings Direct said claims were up 140% in August and Axa said it had been a ‘surge year’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/13/uk-insurer-rise-in-subsidence-claims-aviva-hastings-direct-axa",
+    "publishedAt": "2026-11-13T13:37:31.000Z"
+  },
+  {
+    "id": "b130b4378e249a0b",
+    "title": "Nvidia scandal: What’s next for the US tech company?",
+    "summary": "What happens next at one of the world's most valuable companies will have repercussions far beyond Silicon Valley.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company?traffic_source=rss",
+    "publishedAt": "2026-11-13T13:36:19.000Z"
+  },
+  {
+    "id": "4ba6ba3a8b61b1ab",
+    "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
+    "summary": "Supplies outstripped demand by almost 2m barrels a day in October as market shows ‘tentative signs of rebalancing’",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea",
+    "publishedAt": "2026-11-13T13:35:45.000Z"
+  },
+  {
+    "id": "f9c0f97313927569",
+    "title": "Kenyan building collapse near Nairobi kills six people",
+    "summary": "Five people reportedly survive as emergency crews search for anyone still trapped in the rubble.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
+    "publishedAt": "2026-11-13T13:11:24.000Z"
+  },
+  {
+    "id": "6cc9fe433afd006f",
+    "title": "Charity-run kitchens in Havana feed a growing number of Cubans as crisis deepens",
+    "summary": "Hundreds of people line up each night outside a charity-run food pantry in Havana, hoping for their only meal of the day.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/charity-run-kitchens-havana-feed-growing-number-cubans-138103260",
+    "publishedAt": "2026-11-13T13:08:30.000Z"
+  },
+  {
     "id": "9e83ce18da2c8061",
     "title": "France slams Israel’s ‘demagogic’ ban on left-wing leader Melenchon",
     "summary": "Israel's move came after France banned a prominent Israeli settler from entering the country.",
@@ -106,6 +205,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo",
     "publishedAt": "2026-11-13T12:03:04.000Z"
+  },
+  {
+    "id": "9938663f94fea7eb",
+    "title": "US university students tell surveillance cameras to Flock off",
+    "summary": "The privacy issues over the company’s surveillance cameras have caused protests in schools all over the country.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
+    "publishedAt": "2026-11-13T12:00:18.000Z"
   },
   {
     "id": "9b6fb02f02430123",
@@ -304,6 +412,24 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/pakistans-army-killed-74-militants-raids-hideouts-138102279",
     "publishedAt": "2026-11-13T09:45:06.000Z"
+  },
+  {
+    "id": "fb7fce10b9259cb9",
+    "title": "Nauru's president has no political opponents after all lawmakers joined the government side",
+    "summary": "Nauru’s president, David Adeang, has announced that all opposition lawmakers in parliament have joined his government.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/naurus-president-political-opponents-after-lawmakers-joined-government-138102578",
+    "publishedAt": "2026-11-13T09:44:59.000Z"
+  },
+  {
+    "id": "c7f55481378cd173",
+    "title": "Iran's Revolutionary Guard says it destroyed a US radar in Bahrain, and other Mideast news",
+    "summary": "",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/irans-revolutionary-guard-destroyed-us-radar-bahrain-mideast-138102943",
+    "publishedAt": "2026-11-13T09:44:52.000Z"
   },
   {
     "id": "5414e821b36ed8a1",
@@ -1222,131 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo",
     "publishedAt": "2026-11-12T20:09:16.000Z"
-  },
-  {
-    "id": "6479e698a3c1add6",
-    "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
-    "summary": "The baby's father said he died of hypothermia overnight in their family's tent in southern Gaza.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
-    "publishedAt": "2026-11-12T19:56:26.000Z"
-  },
-  {
-    "id": "875ed4f9e6d40ea6",
-    "title": "US nonprofits sue tech giants to halt AI development",
-    "summary": "California lawsuit demands freeze training on 'catastrophic' artificial intelligence models.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development?traffic_source=rss",
-    "publishedAt": "2026-11-12T19:55:02.000Z"
-  },
-  {
-    "id": "6a2ed0cad30a432b",
-    "title": "‘Who will be held accountable?’: fatal Brooklyn building collapse devastates community",
-    "summary": "New York City officials have confirmed at least eight casualties – six adults and two children – in the collapse.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/nyc-building-collapse-reaction",
-    "publishedAt": "2026-11-12T19:49:24.000Z"
-  },
-  {
-    "id": "50c26ad7580c70ba",
-    "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
-    "summary": "Huang has stepped down amid revelations about extramarital affairs and allegations of Chinese espionage.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
-    "publishedAt": "2026-11-12T19:45:40.000Z"
-  },
-  {
-    "id": "b5156d95e9341ea4",
-    "title": "Financial pain of outer suburbs fuelled demise of David Jones, experts say",
-    "summary": "After 188 years, David Jones announced it would close 19 stores, most of them in Sydney's outer suburbs.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-13/nsw-david-jones-sydney-store-closure-suburban-economic-strain/107380310",
-    "publishedAt": "2026-11-12T19:33:29.000Z"
-  },
-  {
-    "id": "26a80163b34dfae2",
-    "title": "Senegal’s wrestlers turn tradition into gold at Dakar Youth Olympics",
-    "summary": "Senegal’s young wrestlers thrive as they adapt skills from their traditional sport to beach wrestling at Youth Olympics.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics?traffic_source=rss",
-    "publishedAt": "2026-11-12T19:32:25.000Z"
-  },
-  {
-    "id": "bdd95c40cbaa24ce",
-    "title": "Microsoft platforms suffering widespread outages, including Outlook",
-    "summary": "A global outage has hit Microsoft platforms, including Outlook, with many users encountering trouble using their email accounts and other errors across the tech giant's suite of apps.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage/107380958",
-    "publishedAt": "2026-11-12T19:29:40.000Z"
-  },
-  {
-    "id": "b8ecd525451ef32f",
-    "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-    "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o",
-    "publishedAt": "2026-11-12T19:23:02.000Z"
-  },
-  {
-    "id": "79bed904631621d7",
-    "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
-    "summary": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targets.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
-    "publishedAt": "2026-11-12T19:15:30.000Z"
-  },
-  {
-    "id": "633d5f2300bbfb2e",
-    "title": "Trump orders JD Vance to stop Iran war negotiations and focus on domestic policy",
-    "summary": "President says vice-president will focus on supposed ‘Massive Corruption and Crime taking place in Democrat run Cities and States’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
-    "publishedAt": "2026-11-12T19:01:16.000Z"
-  },
-  {
-    "id": "ea525650bd849d23",
-    "title": "Trump says US does not 'need' Iran deal",
-    "summary": "Donald Trump's comments come after reports his vice-president was considering face-to-face peace talks with a hard-line Iranian security official.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-13/trump-says-us-does-not-need-iran-deal/107380892",
-    "publishedAt": "2026-11-12T19:01:07.000Z"
-  },
-  {
-    "id": "a88acb77a1691f7e",
-    "title": "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
-    "summary": "The Lewisham Islamic Centre accused the charity watchdog of imposing disproportionate expectations on Muslim charities.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/uk-mosque-rebukes-comissions-warning-following-palestine-comments?traffic_source=rss",
-    "publishedAt": "2026-11-12T18:58:49.000Z"
-  },
-  {
-    "id": "bdd6ff2e3ac86e42",
-    "title": "Former death row prisoners call Byron Donalds to halt future Florida executions",
-    "summary": "Donalds is governor-elect in state that leads the US in the number of executions, with its 20th this year taking place next week.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/byron-donalds-florida-executions",
-    "publishedAt": "2026-11-12T18:58:44.000Z"
-  },
-  {
-    "id": "7930300f7248d501",
-    "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-    "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno",
-    "publishedAt": "2026-11-12T18:47:35.000Z"
   }
 ]
