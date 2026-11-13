@@ -1,5 +1,59 @@
 [
   {
+    "id": "e08c8514556ba9f5",
+    "title": "SpaceX to attempt double catch of huge Starship rocket",
+    "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
+    "publishedAt": "2026-11-13T20:12:02.000Z"
+  },
+  {
+    "id": "039e29e21e9d7c7c",
+    "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
+    "summary": "Maryland senator’s bid against Chuck Schumer for leadership could decide direction of the Democratic party.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
+    "publishedAt": "2026-11-13T20:08:00.000Z"
+  },
+  {
+    "id": "9884e09e3f3746b0",
+    "title": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race",
+    "summary": "US congresswoman, who has been caught up in repeated controversies, loses re-election bid to Democrat Eileen Laubacher.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/trump-maga-lauren-boebert-colorado",
+    "publishedAt": "2026-11-13T20:07:07.000Z"
+  },
+  {
+    "id": "e210b3aa241a91ec",
+    "title": "Tanker collides with cruise ship on Mississippi River in New Orleans",
+    "summary": "A large emergency response is underway to rescue people from the water, with overnight cruise ship on its side.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+    "publishedAt": "2026-11-13T20:04:03.000Z"
+  },
+  {
+    "id": "93f066b538112254",
+    "title": "Walliams allegations prompt calls for staggered age of consent at 16 and 17",
+    "summary": "Barrister say law does not adequately recognise power imbalance between young people and much older adults.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/law/2026/nov/13/staggered-age-of-consent-16-17-law",
+    "publishedAt": "2026-11-13T19:23:07.000Z"
+  },
+  {
+    "id": "b41f2434d92379d3",
+    "title": "Trump bought Nvidia stock as he helped chipmaker with change to export rule",
+    "summary": "President purchased up to $5m of stock before revoking Biden-era rule that limited Nvidia’s ability to sell to China.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
+    "publishedAt": "2026-11-13T19:09:05.000Z"
+  },
+  {
     "id": "92fe297395e2123c",
     "title": "What's Trump's strategy now with Iran? To keep things as they are",
     "summary": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure.",
@@ -70,6 +124,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
     "publishedAt": "2026-11-13T18:04:22.000Z"
+  },
+  {
+    "id": "3c238cabbefdb898",
+    "title": "The folly of just-in-time supply chains | Letters",
+    "summary": "Hannah Walker says systems designed to minimise expenditure in the name of efficiency can end up less capable of fulfilling their actual purpose.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/13/the-folly-of-just-in-time-supply-chains",
+    "publishedAt": "2026-11-13T17:52:48.000Z"
   },
   {
     "id": "d0cb8b1c2c9986ae",
@@ -520,6 +583,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
     "publishedAt": "2026-11-13T13:11:24.000Z"
+  },
+  {
+    "id": "75d1a4841d474565",
+    "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+    "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo",
+    "publishedAt": "2026-11-13T13:11:23.000Z"
   },
   {
     "id": "6cc9fe433afd006f",
@@ -1276,77 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss",
     "publishedAt": "2026-11-13T04:51:56.000Z"
-  },
-  {
-    "id": "31f6bfd7bdcb2002",
-    "title": "Minister’s office said contractor should handle CFMEU or lose work in Victoria, Big Build inquiry hears",
-    "summary": "Royal commission also hears from construction company employee who says workers were ‘fearful’ of union.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/13/big-build-royal-commission-vida-construction-workers-fearful-cfmeu-ntwnfb",
-    "publishedAt": "2026-11-13T04:51:17.000Z"
-  },
-  {
-    "id": "ec73f916010df8be",
-    "title": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
-    "summary": "Despite knowing a war with Iran would be manufactured for Netanyahu's survival, many would still rally behind it.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival?traffic_source=rss",
-    "publishedAt": "2026-11-13T04:48:40.000Z"
-  },
-  {
-    "id": "7a3c0cfff71572bd",
-    "title": "‘Looks like we’ll have to talk to people’: Australia sent back to time before email with major Microsoft outage",
-    "summary": "Government services and schools impacted by Outlook and Teams issue as company says fix not ‘taking as expected’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/major-microsoft-outage-impacts-australian-government-services-and-schools",
-    "publishedAt": "2026-11-13T04:40:14.000Z"
-  },
-  {
-    "id": "1f7b858b7abe7310",
-    "title": "From ocean legend to undersea reef: Why has the SS United States been sunk?",
-    "summary": "The ship had been inactive for years despite various owners attempting to save and restore it.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/from-ocean-legend-to-undersea-reef-why-has-the-ss-united-states-been-sunk?traffic_source=rss",
-    "publishedAt": "2026-11-13T04:39:33.000Z"
-  },
-  {
-    "id": "b16822aae8f74220",
-    "title": "Who is US Senator Chris Van Hollen?",
-    "summary": "Van Hollen is known for his anti-war positions and championing progressive causes.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/who-is-us-senator-chris-van-hollen?traffic_source=rss",
-    "publishedAt": "2026-11-13T04:28:45.000Z"
-  },
-  {
-    "id": "2fe5b0ae2c844419",
-    "title": "A timeline of the affair scandal that sank Nvidia’s Jensen Huang",
-    "summary": "CEO behind the meteoric rise of Nvidia stepped down after it was revealed he had an affair with an alleged Chinese spy.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline",
-    "publishedAt": "2026-11-13T04:00:08.000Z"
-  },
-  {
-    "id": "daff2696e62e3670",
-    "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-    "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
-    "publishedAt": "2026-11-13T03:57:01.000Z"
-  },
-  {
-    "id": "33966a2bed99015a",
-    "title": "Chips, creek water and Take Me Home, Country Roads: how an Australian teenager survived six nights in the bush",
-    "summary": "William, 17, says ‘nights were pretty cold’ and he ‘honestly didn’t think’ he’d survive.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/13/chips-creek-water-and-take-me-home-country-roads-how-an-australian-teenager-survived-six-nights-in-the-bush",
-    "publishedAt": "2026-11-13T03:25:30.000Z"
   }
 ]
