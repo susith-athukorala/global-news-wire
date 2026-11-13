@@ -1,5 +1,32 @@
 [
   {
+    "id": "78e1bf4bf8a10a9b",
+    "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
+    "summary": "The Maryland Democrat, who's the ranking member of the Senate Foreign Relations Subcommittee, just announced he's going to run for Majority Leader. He spoke to NPR about his foreign aid vision.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
+    "publishedAt": "2026-11-13T15:46:35.000Z"
+  },
+  {
+    "id": "046d5253f4f3db30",
+    "title": "Right to make green challenges to planning decisions under threat, say UK lawyers",
+    "summary": "Exclusive: Government in ‘private meetings’ about removing cost cap protections under Aarhus convention.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/13/right-to-make-green-challenges-planning-decisions-under-threat-aarhus-convention",
+    "publishedAt": "2026-11-13T15:27:43.000Z"
+  },
+  {
+    "id": "cada627581a51549",
+    "title": "Doctor named as DC gym shooting suspect confessed, noting dispute over living conditions, building manager says",
+    "summary": "Gunman killed one person and injured at least four others in and around condo building not far from the White House.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession",
+    "publishedAt": "2026-11-13T15:25:28.000Z"
+  },
+  {
     "id": "5659d244156ae8cf",
     "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
     "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
@@ -16,6 +43,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
     "publishedAt": "2026-11-13T15:02:16.000Z"
+  },
+  {
+    "id": "388c180a1aeca5f9",
+    "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+    "summary": "Tech firm says it is making progress in attempts to restore services and there is no indication problem was caused by cyber-attack.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+    "publishedAt": "2026-11-13T14:56:42.000Z"
   },
   {
     "id": "e0a7c85fffe82083",
@@ -972,6 +1008,15 @@
     "publishedAt": "2026-11-13T02:42:41.000Z"
   },
   {
+    "id": "0e5af992f8d3ee20",
+    "title": "Global Microsoft outage affecting tens of thousands of users",
+    "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo",
+    "publishedAt": "2026-11-13T02:38:02.000Z"
+  },
+  {
     "id": "d4a4eb02dd601254",
     "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
     "summary": "Reports of attack in Baltic came before US envoys met with Russian and Ukrainian presidents.",
@@ -1303,50 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
     "publishedAt": "2026-11-12T22:05:28.000Z"
-  },
-  {
-    "id": "53a09cd4b571fc9d",
-    "title": "What we know so far about Nvidia interim CEO Colette Kress",
-    "summary": "Nvidia interim CEO Colette Kress has served as the company's chief financial officers. Kevin Roose, host of NPR's Machine Gods podcast, talks with Scott Detrow about what to expect from her.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6038896/what-we-know-so-far-about-nvidia-interim-ceo-colette-kress",
-    "publishedAt": "2026-11-12T22:04:13.000Z"
-  },
-  {
-    "id": "0fa281e47ede82d9",
-    "title": "China rules out hosting Cop33 climate summit in 2028",
-    "summary": "Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
-    "publishedAt": "2026-11-12T22:00:15.000Z"
-  },
-  {
-    "id": "420e71e405cc074e",
-    "title": "Search for British woman missing from Tui cruise in Atlantic called off",
-    "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo",
-    "publishedAt": "2026-11-12T21:27:21.000Z"
-  },
-  {
-    "id": "58a1330c24949f6c",
-    "title": "Microsoft outage hits tens of thousands of users",
-    "summary": "Microsoft says servers unexpectedly went offline, disrupting Outlook email, Teams, Copilot and other services.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
-    "publishedAt": "2026-11-12T21:03:09.000Z"
-  },
-  {
-    "id": "bfc79de3c35c353d",
-    "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-    "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
-    "publishedAt": "2026-11-12T21:00:42.000Z"
   }
 ]
