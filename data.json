@@ -1,5 +1,77 @@
 [
   {
+    "id": "95935896633c7184",
+    "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+    "summary": "The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
+    "publishedAt": "2026-11-13T10:00:00.000Z"
+  },
+  {
+    "id": "101ef19f377d0b09",
+    "title": "SpaceX's giant rocket may leave NASA in the dust",
+    "summary": "As it races to develop its new massive rocket, the space launch company is preparing to retire NASA's main ride to the International Space Station.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
+    "publishedAt": "2026-11-13T10:00:00.000Z"
+  },
+  {
+    "id": "920e18d85a6a3306",
+    "title": "Fed up with the healthcare industry, this red state capped insulin prices for patients",
+    "summary": "Republicans and Democrats in North Dakota worked together to limit what people with diabetes have to pay for insulin, joining a growing bipartisan push across the country to protect patients.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6032717/diabetes-insurance-insulin-price",
+    "publishedAt": "2026-11-13T10:00:00.000Z"
+  },
+  {
+    "id": "8e5bdb4fe467df5c",
+    "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
+    "summary": "NHS experiencing ‘serious’ and widespread disruption and people are told of possible delays in receiving prescriptions.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
+    "publishedAt": "2026-11-13T09:59:28.000Z"
+  },
+  {
+    "id": "ff7f4af44d89fdc1",
+    "title": "Kenyans brace for heavy El Niño rains as flood survivors recall their losses",
+    "summary": "Kenya is expected to receive heavier-than-usual rainfall during the October–December short-rains season, influenced by El Ni&ntilde;o conditions, according to the Kenya Meteorological Service Authority.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/kenyans-brace-heavy-el-nio-rains-flood-survivors-138101712",
+    "publishedAt": "2026-11-13T09:46:01.000Z"
+  },
+  {
+    "id": "f6ad43a2ffd88602",
+    "title": "Pakistan's army says it killed 74 militants in raids on their hideouts",
+    "summary": "Pakistani security forces have killed 74 militants in raids on hideouts in regions bordering Afghanistan over the past 10 days, according to the military.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pakistans-army-killed-74-militants-raids-hideouts-138102279",
+    "publishedAt": "2026-11-13T09:45:06.000Z"
+  },
+  {
+    "id": "5414e821b36ed8a1",
+    "title": "Microsoft investigating widespread outage that took email and other apps offline",
+    "summary": "NPR's A Martinez speaks with Andrew Couts of WIRED about a widespread outage of Microsoft products that has disrupted the life and work of thousands of people.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6039350/microsoft-investigating-widespread-outage-that-took-email-and-other-apps-offline",
+    "publishedAt": "2026-11-13T09:43:44.000Z"
+  },
+  {
+    "id": "7f164ba0a7d09656",
+    "title": "With every rainfall, Gaza risks losing access to power and healthcare",
+    "summary": "Heavy rains flood shelters, damage solar power systems and threat essential healthcare services.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
+    "publishedAt": "2026-11-13T09:43:30.000Z"
+  },
+  {
     "id": "d527a0148616a0f2",
     "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
     "summary": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
@@ -7,6 +79,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o",
     "publishedAt": "2026-11-13T09:37:33.000Z"
+  },
+  {
+    "id": "174a531195fa6558",
+    "title": "Microsoft hit by global outages: What happened and why?",
+    "summary": "Outlook, Teams and Copilot remain disrupted in 74 countries as Microsoft reports ‘marginal success’ in fixing outage.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
+    "publishedAt": "2026-11-13T09:30:55.000Z"
   },
   {
     "id": "af0880d0ebac09f7",
@@ -43,6 +124,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
     "publishedAt": "2026-11-13T08:49:19.000Z"
+  },
+  {
+    "id": "51fb1172a6c84f32",
+    "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+    "summary": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo",
+    "publishedAt": "2026-11-13T08:20:28.000Z"
   },
   {
     "id": "0b03da4d210029ce",
@@ -115,6 +205,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqvg257kl440o",
     "publishedAt": "2026-11-13T07:04:09.000Z"
+  },
+  {
+    "id": "b8b602b92172ee8f",
+    "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+    "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo",
+    "publishedAt": "2026-11-13T07:01:43.000Z"
   },
   {
     "id": "9ac67defc7ac3e27",
@@ -1098,6 +1197,15 @@
     "publishedAt": "2026-11-12T17:14:34.000Z"
   },
   {
+    "id": "7ee65d1ae7eb3dea",
+    "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+    "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo",
+    "publishedAt": "2026-11-12T17:11:48.000Z"
+  },
+  {
     "id": "9f7ef5c71e5784ea",
     "title": "New Democratic lawmakers bring first-day-of-school energy to Capitol Hill",
     "summary": "And a politics editor, freshly returned to work after parental leave, can relate.",
@@ -1240,113 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
     "publishedAt": "2026-11-12T15:15:48.000Z"
-  },
-  {
-    "id": "4aa9074d7b959b54",
-    "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-    "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o",
-    "publishedAt": "2026-11-12T15:10:32.000Z"
-  },
-  {
-    "id": "536c0521e12bf1e8",
-    "title": "Spain approves housing reforms after nationwide strike over costs",
-    "summary": "Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
-    "publishedAt": "2026-11-12T15:02:30.000Z"
-  },
-  {
-    "id": "caced9783dab4cd6",
-    "title": "US workers are fighting to protect their jobs from AI – and winning",
-    "summary": "As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harms.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
-    "publishedAt": "2026-11-12T15:00:44.000Z"
-  },
-  {
-    "id": "2b259c5c9570a85e",
-    "title": "Brooklyn building collapse kills at least eight and injures 17 as search continues",
-    "summary": "New York mayor Zohran Mamdani says crews are working through ‘extremely dangerous conditions’ to find anyone trapped.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
-    "publishedAt": "2026-11-12T14:48:55.000Z"
-  },
-  {
-    "id": "ccba7e485bb3efe2",
-    "title": "Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?",
-    "summary": "Outgoing Nvidia chief credited with easing US-China chip ties but personal scandal unlikely to upend next week's talks.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/trump-heads-to-china-amid-nvidia-scandal-will-he-get-tougher-on-beijing?traffic_source=rss",
-    "publishedAt": "2026-11-12T14:48:10.000Z"
-  },
-  {
-    "id": "2f056bf8a4230f94",
-    "title": "Multiple people shot in Washington DC as police warn people to stay inside",
-    "summary": "Local council member says police are looking for suspect, while reports say shooting occurred at or outside of a gym.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
-    "publishedAt": "2026-11-12T14:44:39.000Z"
-  },
-  {
-    "id": "a1d5ad34f846890d",
-    "title": "Migrant caravan sets out from southern Mexico bound for US after midterms",
-    "summary": "Many migrants stranded in southern Mexico say the Democrats' win in Congress has given them new hope of entering the US.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/migrant-caravan-sets-out-from-southern-mexico-bound-for-us-after-midterms?traffic_source=rss",
-    "publishedAt": "2026-11-12T14:38:42.000Z"
-  },
-  {
-    "id": "37170bfe547cc3f0",
-    "title": "Farage was guest on Brand podcast after sexual assault investigation began",
-    "summary": "Reform leader this week criticised the Labour party for ‘cosying up to’ and ‘promoting’ disgraced comedian.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/12/farage-was-guest-on-brand-podcast-after-sexual-assault-investigation-began",
-    "publishedAt": "2026-11-12T14:30:17.000Z"
-  },
-  {
-    "id": "b9c0719774360ef5",
-    "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
-    "summary": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko",
-    "publishedAt": "2026-11-12T14:29:59.000Z"
-  },
-  {
-    "id": "9c5241c171e55c3e",
-    "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-    "summary": "Sustainable stalemate or slow-motion strangulation? The current 'equilibrium' is inherently unstable, experts say.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
-    "publishedAt": "2026-11-12T14:27:54.000Z"
-  },
-  {
-    "id": "efb9d7817b0d84dc",
-    "title": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
-    "summary": "Film features testimony from 24 Israeli officials involved in surveillance and remote killing of Palestinian civilians.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global/2026/nov/12/naza-how-to-watch-guardian-acclaimed-gaza-documentary",
-    "publishedAt": "2026-11-12T14:23:50.000Z"
-  },
-  {
-    "id": "4420fcaedbd4220e",
-    "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
-    "summary": "Israel's military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
-    "publishedAt": "2026-11-12T14:23:01.000Z"
   }
 ]
