@@ -1,5 +1,59 @@
 [
   {
+    "id": "5388d13b7a3706f0",
+    "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+    "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo",
+    "publishedAt": "2026-11-13T17:38:19.000Z"
+  },
+  {
+    "id": "ee127c5fac608d13",
+    "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
+    "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+    "publishedAt": "2026-11-13T17:20:32.000Z"
+  },
+  {
+    "id": "b1b246b5ab5ec14b",
+    "title": "Microsoft outage shakes up companies, schools and local governments across US",
+    "summary": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
+    "publishedAt": "2026-11-13T17:17:00.000Z"
+  },
+  {
+    "id": "edd6fe0bdf086a57",
+    "title": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
+    "summary": "Mohammed Alfatih rearrested over alleged plot to target Israelis in Europe while detained for attack on bailiff.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany",
+    "publishedAt": "2026-11-13T17:14:56.000Z"
+  },
+  {
+    "id": "acb158356eea0835",
+    "title": "The fight over Canadian steelworker jobs",
+    "summary": "Stelco's US owner blames Trump's tariffs for layoffs, but its support for those same tariffs has raised questions.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss",
+    "publishedAt": "2026-11-13T17:10:43.000Z"
+  },
+  {
+    "id": "1664f6d379c30d9a",
+    "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
+    "summary": "Exclusive: Report says restricting cars and freeing up pavement space could be a cheap way to entice shoppers.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
+    "publishedAt": "2026-11-13T17:05:23.000Z"
+  },
+  {
     "id": "673f542189f6ba94",
     "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
     "summary": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
@@ -133,6 +187,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
     "publishedAt": "2026-11-13T15:43:39.000Z"
+  },
+  {
+    "id": "eb58be9688893c53",
+    "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+    "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go",
+    "publishedAt": "2026-11-13T15:42:52.000Z"
   },
   {
     "id": "046d5253f4f3db30",
@@ -502,6 +565,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/13/nx-s1-6038889/colette-kress-becomes-nvidias-interim-ceo-after-jensen-huang-resigns",
     "publishedAt": "2026-11-13T11:47:38.000Z"
+  },
+  {
+    "id": "ecd2f1af181961f0",
+    "title": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
+    "summary": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
+    "publishedAt": "2026-11-13T11:47:00.000Z"
   },
   {
     "id": "befc332a288a1265",
@@ -900,6 +972,15 @@
     "publishedAt": "2026-11-13T06:46:35.000Z"
   },
   {
+    "id": "a69f079083e005a3",
+    "title": "Trouble at the top - the crisis of confidence in Scotland's NHS leaders",
+    "summary": "BBC Scotland's health correspondent Lisa Summers on the damning verdict delivered on NHS Grampian.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cknv4d307523o",
+    "publishedAt": "2026-11-13T06:35:34.000Z"
+  },
+  {
     "id": "de06bec5ec8071c8",
     "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
     "summary": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America’s security was put at risk.",
@@ -907,6 +988,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
     "publishedAt": "2026-11-13T06:34:59.000Z"
+  },
+  {
+    "id": "ff73919a010f056c",
+    "title": "How many sewage spills have happened in your part of Scotland?",
+    "summary": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c0re545l8jdo",
+    "publishedAt": "2026-11-13T06:31:51.000Z"
   },
   {
     "id": "06c72c568b46af70",
@@ -961,6 +1051,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo",
     "publishedAt": "2026-11-13T06:12:20.000Z"
+  },
+  {
+    "id": "3e3edbb24ebcbf32",
+    "title": "Flood victim, 95, lived in Wetherspoons until she died after her home was destroyed",
+    "summary": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo",
+    "publishedAt": "2026-11-13T06:05:49.000Z"
   },
   {
     "id": "8420cc9107cad988",
@@ -1125,6 +1224,15 @@
     "publishedAt": "2026-11-13T04:00:08.000Z"
   },
   {
+    "id": "daff2696e62e3670",
+    "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+    "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+    "publishedAt": "2026-11-13T03:57:01.000Z"
+  },
+  {
     "id": "33966a2bed99015a",
     "title": "Chips, creek water and Take Me Home, Country Roads: how an Australian teenager survived six nights in the bush",
     "summary": "William, 17, says ‘nights were pretty cold’ and he ‘honestly didn’t think’ he’d survive.",
@@ -1240,113 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
     "publishedAt": "2026-11-13T01:44:55.000Z"
-  },
-  {
-    "id": "95eec5a25c1c3fdd",
-    "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
-    "summary": "Albania has faced criticism over low defence spending, as Rama is under pressure at home amid months of protests.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
-    "publishedAt": "2026-11-13T01:43:17.000Z"
-  },
-  {
-    "id": "6a8f5fb2a4c07a81",
-    "title": "A negative Outlook: Microsoft scrambles to fix email outage",
-    "summary": "Early Friday, after Outlook had been down for more than 12 hours, Microsoft reported \"marginal success.\"",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/outlook-down-widespread-outage-microsoft-email",
-    "publishedAt": "2026-11-13T01:26:24.000Z"
-  },
-  {
-    "id": "21e5fdddc37a7e94",
-    "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
-    "summary": "A widespread outage has hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
-    "publishedAt": "2026-11-13T01:26:24.000Z"
-  },
-  {
-    "id": "20de2a73c46c325b",
-    "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
-    "summary": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo",
-    "publishedAt": "2026-11-13T01:17:58.000Z"
-  },
-  {
-    "id": "3d7481c8d46ef8ee",
-    "title": "Australian footballers will not be charged after hotel incident, police say",
-    "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo",
-    "publishedAt": "2026-11-13T01:03:59.000Z"
-  },
-  {
-    "id": "70234e83dc7a4d30",
-    "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
-    "summary": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo",
-    "publishedAt": "2026-11-13T00:55:31.000Z"
-  },
-  {
-    "id": "8d70abcf1472ecf3",
-    "title": "Why midterm vote-counting is taking so long in America's largest state",
-    "summary": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo",
-    "publishedAt": "2026-11-13T00:35:05.000Z"
-  },
-  {
-    "id": "29239493e10c76cd",
-    "title": "Beau Lamarre-Condon bought sim card under pseudonym a month before alleged murders, trial hears",
-    "summary": "Former police officer tells court he was attempting to compile statements about ‘bullying from a certain sergeant’ but was worried about speaking publicly.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/13/beau-lamarre-condon-trial-sim-card-pseudonym-ntwnfb",
-    "publishedAt": "2026-11-13T00:34:23.000Z"
-  },
-  {
-    "id": "5c866d204f0bc428",
-    "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-    "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o",
-    "publishedAt": "2026-11-13T00:20:24.000Z"
-  },
-  {
-    "id": "26c321f37a74766c",
-    "title": "Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’",
-    "summary": "Ann Lawani was taken from her home, sparking a huge outcry among students and faculty at her university.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/california-nurse-release-ice-custody",
-    "publishedAt": "2026-11-13T00:19:54.000Z"
-  },
-  {
-    "id": "5d96793560738122",
-    "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-    "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
-    "publishedAt": "2026-11-13T00:13:35.000Z"
-  },
-  {
-    "id": "0daac84b88c62235",
-    "title": "Who could replace the departed Jensen Huang as Nvidia CEO?",
-    "summary": "Chief financial officer Colette Kress to take over on interim basis but other names are in mix to be permanent successor.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
-    "publishedAt": "2026-11-13T00:03:57.000Z"
   }
 ]
