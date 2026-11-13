@@ -1,5 +1,23 @@
 [
   {
+    "id": "d527a0148616a0f2",
+    "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+    "summary": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o",
+    "publishedAt": "2026-11-13T09:37:33.000Z"
+  },
+  {
+    "id": "af0880d0ebac09f7",
+    "title": "Heat pumps: How much heat does your home really need?",
+    "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o",
+    "publishedAt": "2026-11-13T09:29:25.000Z"
+  },
+  {
     "id": "f6018c5c43e3d9f7",
     "title": "Who gets to tell the world’s news?",
     "summary": "A look back at the Global South's early efforts to challenge Western dominance of international news.",
@@ -666,6 +684,15 @@
     "publishedAt": "2026-11-12T22:09:20.000Z"
   },
   {
+    "id": "1823e2dd13e56066",
+    "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
+    "summary": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationships with two employees.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
+    "publishedAt": "2026-11-12T22:05:28.000Z"
+  },
+  {
     "id": "53a09cd4b571fc9d",
     "title": "What we know so far about Nvidia interim CEO Colette Kress",
     "summary": "Nvidia interim CEO Colette Kress has served as the company's chief financial officers. Kevin Roose, host of NPR's Machine Gods podcast, talks with Scott Detrow about what to expect from her.",
@@ -871,6 +898,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o",
     "publishedAt": "2026-11-12T19:23:02.000Z"
+  },
+  {
+    "id": "79bed904631621d7",
+    "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
+    "summary": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targets.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
+    "publishedAt": "2026-11-12T19:15:30.000Z"
   },
   {
     "id": "633d5f2300bbfb2e",
@@ -1312,41 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
     "publishedAt": "2026-11-12T14:23:01.000Z"
-  },
-  {
-    "id": "c7dc8d23584cda15",
-    "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
-    "summary": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
-    "publishedAt": "2026-11-12T14:22:50.000Z"
-  },
-  {
-    "id": "21de6e1d087efa8d",
-    "title": "Police say at least five people shot at busy thoroughfare in Washington, DC",
-    "summary": "Authorities have issued a shelter in place near the scene of attack in US capital.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc?traffic_source=rss",
-    "publishedAt": "2026-11-12T14:19:37.000Z"
-  },
-  {
-    "id": "7ee65d1ae7eb3dea",
-    "title": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
-    "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global AI race has crumbled.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo",
-    "publishedAt": "2026-11-12T14:18:33.000Z"
-  },
-  {
-    "id": "cc03bc5b729f3d25",
-    "title": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
-    "summary": "Huang co-founded the chipmaker Nvidia, which has become one of the driving forces behind the AI boom. But reports that he may have had an affair with an alleged Chinese spy quickly sank his career.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-board-fired",
-    "publishedAt": "2026-11-12T14:17:20.000Z"
   }
 ]
