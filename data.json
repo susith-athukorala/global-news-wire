@@ -1,5 +1,23 @@
 [
   {
+    "id": "33966a2bed99015a",
+    "title": "Chips, creek water and Take Me Home, Country Roads: how an Australian teenager survived six nights in the bush",
+    "summary": "William, 17, says ‘nights were pretty cold’ and he ‘honestly didn’t think’ he’d survive.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/13/chips-creek-water-and-take-me-home-country-roads-how-an-australian-teenager-survived-six-nights-in-the-bush",
+    "publishedAt": "2026-11-13T03:25:30.000Z"
+  },
+  {
+    "id": "1aac2beac6044c1e",
+    "title": "Iran says it targeted US radar site in Bahrain",
+    "summary": "IRGC says it hit radar in retaliation for an 'enemy' air attack on a telecom tower in Iran's Hormozgan province.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss",
+    "publishedAt": "2026-11-13T03:17:27.000Z"
+  },
+  {
     "id": "cc0b72bdf6cd7346",
     "title": "Spanish court suspends far-right group over alleged hate crimes",
     "summary": "Judge orders office shut and accounts blocked after 14 arrests and the seizure of more than 20 firearms.",
@@ -1287,6 +1305,15 @@
     "publishedAt": "2026-11-12T12:37:53.000Z"
   },
   {
+    "id": "e3547c33125263f0",
+    "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan",
+    "summary": "Nvidia CEO Jensen Huang's image in his birthplace, Taiwan, has been tainted after the FBI began investigating his affair with an alleged Chinese agent.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/scandal-hit-jensen-huang-loses-shine-birthplace-taiwan-138073575",
+    "publishedAt": "2026-11-12T12:26:22.000Z"
+  },
+  {
     "id": "226ad93386c30e08",
     "title": "Van crashes on mountain road in Nepal, 10 killed and 5 injured",
     "summary": "A passenger van veered off a mountain road in Nepal on Thursday, killing at least 10 people.",
@@ -1321,32 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/uk-names-climate-security-envoy-island-leaders-warn-138066951",
     "publishedAt": "2026-11-12T12:18:15.000Z"
-  },
-  {
-    "id": "4a32187e9aeb9620",
-    "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
-    "summary": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
-    "publishedAt": "2026-11-12T12:15:48.000Z"
-  },
-  {
-    "id": "1f253837d2c31670",
-    "title": "England vs Croatia: UEFA Nations League – preview, team news, predictions",
-    "summary": "Harry Kane set to become England’s most capped player while Jude Bellingham could be joined by younger brother, Jobe.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/12/england-vs-croatia-uefa-nations-league-preview-team-news?traffic_source=rss",
-    "publishedAt": "2026-11-12T12:12:50.000Z"
-  },
-  {
-    "id": "99c35757b8dc06a9",
-    "title": "Pakistan releases two sisters of ex-PM Imran Khan from jail",
-    "summary": "Uzma and Noreen released from a Lahore jail but Aleema Khan still detained nearly two months after their arrest.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/pakistan-releases-two-sisters-of-ex-pm-imran-khan-from-jail?traffic_source=rss",
-    "publishedAt": "2026-11-12T12:12:17.000Z"
   }
 ]
