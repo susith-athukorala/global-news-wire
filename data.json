@@ -1,5 +1,95 @@
 [
   {
+    "id": "5659d244156ae8cf",
+    "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
+    "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+    "publishedAt": "2026-11-13T15:04:42.000Z"
+  },
+  {
+    "id": "92071404f33b2428",
+    "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
+    "summary": "Midterm gains give party room to overhaul NDAA funding, including provision to integrate US-Israeli military industries.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
+    "publishedAt": "2026-11-13T15:02:16.000Z"
+  },
+  {
+    "id": "e0a7c85fffe82083",
+    "title": "Eleanor Donaldson, wife of former DUP leader, placed on sex offender register",
+    "summary": "Judge imposes three-year treatment order on Donaldson for aiding and abetting sexual offences by her husband, Jeffrey.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/13/eleanor-donaldson-wife-of-former-dup-leader-placed-on-sex-offender-register",
+    "publishedAt": "2026-11-13T14:48:02.000Z"
+  },
+  {
+    "id": "7c0d243e1efb6090",
+    "title": "Climate action discussed at youth COP meeting",
+    "summary": "School children gather to discuss climate issues to coincide with the COP31 conference in Turkey.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckx28ly7y387o",
+    "publishedAt": "2026-11-13T14:39:06.000Z"
+  },
+  {
+    "id": "c3939474cbddc7ec",
+    "title": "Nigel Farage’s security paid for by Reform UK despite claim over £5m gift",
+    "summary": "Exclusive: Sources reveal party is covering costs – raising new questions about leader’s explanation for billionaire’s gift.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/13/nigel-farage-personal-security-costs-reform-uk",
+    "publishedAt": "2026-11-13T14:37:23.000Z"
+  },
+  {
+    "id": "80ea855e4de70678",
+    "title": "Banned books from Ireland’s room of ‘evil literature’ finally see the light of day",
+    "summary": "Censored books spanning 1926-96 contained themes ‘likely to corrupt or deprave’, or references to contraception or violence.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/13/ireland-banned-books-room-censorship",
+    "publishedAt": "2026-11-13T14:25:24.000Z"
+  },
+  {
+    "id": "a59453a63f75f6b8",
+    "title": "Portugal vs Denmark: UEFA Nations League – predictions, how to watch, teams",
+    "summary": "Playing their first game since Cristiano Ronaldo's retirement, two-time champions Portugal face Denmark at home.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/13/portugal-denmark-ronaldo-uefa-nations-league-predictions-teams?traffic_source=rss",
+    "publishedAt": "2026-11-13T14:18:25.000Z"
+  },
+  {
+    "id": "d1ada6aa206d4307",
+    "title": "Marlon Brando cool to Jensen Huang joke: how the black leather jacket became a meme",
+    "summary": "Once the ultimate symbol of Hollywood rebellion, the former Nvidia chief’s signature look is now being mocked as a midlife crisis cliche.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
+    "publishedAt": "2026-11-13T14:17:09.000Z"
+  },
+  {
+    "id": "d751c02347a5945d",
+    "title": "Can Netanyahu launch a strike on Iran before he leaves?",
+    "summary": "PM's caretaker government can legally go to war, though it would likely inflame domestic divisions.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
+    "publishedAt": "2026-11-13T14:16:20.000Z"
+  },
+  {
+    "id": "352492b56adad7a9",
+    "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
+    "summary": "Meanwhile, Russia appears to suggest it has control of half of unoccupied Donbas.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss",
+    "publishedAt": "2026-11-13T14:15:52.000Z"
+  },
+  {
     "id": "c22c9f451b1ae85d",
     "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
     "summary": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European security.",
@@ -1258,95 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
     "publishedAt": "2026-11-12T21:00:42.000Z"
-  },
-  {
-    "id": "388c180a1aeca5f9",
-    "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
-    "summary": "An alert on Microsoft’s site said it was ‘aggressively pursuing all pathways to reduce impact’ and blamed a server issue.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-    "publishedAt": "2026-11-12T21:00:07.000Z"
-  },
-  {
-    "id": "ce619eba8b16aa70",
-    "title": "‘Win-win’ deal with EU could be done, Andy Burmham says",
-    "summary": "Prime minister says reset could be a deal ‘like the Brexit people thought they were voting for in 2016’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
-    "publishedAt": "2026-11-12T20:59:05.000Z"
-  },
-  {
-    "id": "8686ec50a7cc1b89",
-    "title": "Woman, 18, admits murdering girl, 16, in Leeds",
-    "summary": "Kayla Smith stabbed Chloe Watson Dransfield to death during planned fight over young man.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/12/woman-18-admits-murdering-girl-16-in-leeds",
-    "publishedAt": "2026-11-12T20:57:07.000Z"
-  },
-  {
-    "id": "f5055e4f554c0da0",
-    "title": "Be sea-ing you: humpback whale spotted in New York’s Hudson River",
-    "summary": "Sightings of the species are becoming increasingly common as experts worry about danger posed by busy waterways.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/humpback-whale-new-york-city-hudson-river",
-    "publishedAt": "2026-11-12T20:53:49.000Z"
-  },
-  {
-    "id": "692df73aa84131b5",
-    "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
-    "summary": "The report seeks to address concerns about the Trump administration's handling of revenue held in trust for Venezuela.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
-    "publishedAt": "2026-11-12T20:49:36.000Z"
-  },
-  {
-    "id": "0e5af992f8d3ee20",
-    "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-    "summary": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\".",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo",
-    "publishedAt": "2026-11-12T20:25:29.000Z"
-  },
-  {
-    "id": "680cc0a2f3f31671",
-    "title": "CDC reports six measles deaths in 2026 as US battles worst outbreak in 35 years",
-    "summary": "Figures highlight spread of virus, officially declared eliminated in US in 2000, but CDC does not identify which states accounted for deaths.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/cdc-measles-deaths",
-    "publishedAt": "2026-11-12T20:19:45.000Z"
-  },
-  {
-    "id": "235130676e9e41ee",
-    "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
-    "summary": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
-    "publishedAt": "2026-11-12T20:12:21.000Z"
-  },
-  {
-    "id": "a384823f13f098dd",
-    "title": "Democrats gather in Denver to debate party’s future after US midterm wins",
-    "summary": "Majority Democrats’ What’s Next conference brings lawmakers and potential 2028 contenders to Denver.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/democrats-gather-in-denver-to-debate-partys-future-after-us-midterm-wins?traffic_source=rss",
-    "publishedAt": "2026-11-12T20:10:31.000Z"
-  },
-  {
-    "id": "86a5f3e77fe39dac",
-    "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-    "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo",
-    "publishedAt": "2026-11-12T20:09:16.000Z"
   }
 ]
