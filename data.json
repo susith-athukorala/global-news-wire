@@ -1,5 +1,68 @@
 [
   {
+    "id": "5d96793560738122",
+    "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
+    "publishedAt": "2026-11-13T00:13:35.000Z"
+  },
+  {
+    "id": "0daac84b88c62235",
+    "title": "Who could replace the departed Jensen Huang as Nvidia CEO?",
+    "summary": "Chief financial officer Colette Kress to take over on interim basis but other names are in mix to be permanent successor.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+    "publishedAt": "2026-11-13T00:03:57.000Z"
+  },
+  {
+    "id": "e780ce5da452556a",
+    "title": "Second world war ‘brain’ bunker in cliffs of Dover opens to public",
+    "summary": "Hidden bunker, entered via a hatch in a field, controlled a gun battery used to attack German ships in Channel.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/13/fan-bay-plotting-room-national-trust-white-cliffs-dover",
+    "publishedAt": "2026-11-13T00:01:03.000Z"
+  },
+  {
+    "id": "d2e11db3e954b0f8",
+    "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+    "summary": "Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
+    "publishedAt": "2026-11-12T23:52:38.000Z"
+  },
+  {
+    "id": "0f3d14786d578619",
+    "title": "Russell Brand accused of misconduct by six more women, according to report",
+    "summary": "Allegations of sexual misconduct and predatory behaviour made against ex-comedian who was jailed on Monday.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/2026/nov/12/russell-brand-accused-of-misconduct-by-six-more-women-according-to-report",
+    "publishedAt": "2026-11-12T23:51:04.000Z"
+  },
+  {
+    "id": "daff2696e62e3670",
+    "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+    "publishedAt": "2026-11-12T23:34:05.000Z"
+  },
+  {
+    "id": "df8154f62aa5307e",
+    "title": "Russian court jails rights lawyer for 12 years on treason charge",
+    "summary": "Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
+    "publishedAt": "2026-11-12T23:18:50.000Z"
+  },
+  {
     "id": "3e3edbb24ebcbf32",
     "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
     "summary": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks.",
@@ -259,6 +322,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
     "publishedAt": "2026-11-12T19:01:16.000Z"
+  },
+  {
+    "id": "ea525650bd849d23",
+    "title": "Trump says US does not 'need' Iran deal",
+    "summary": "Donald Trump's comments come after reports his vice-president was considering face-to-face peace talks with a hard-line Iranian security official.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-13/trump-says-us-does-not-need-iran-deal/107380892",
+    "publishedAt": "2026-11-12T19:01:07.000Z"
   },
   {
     "id": "a88acb77a1691f7e",
@@ -927,6 +999,15 @@
     "publishedAt": "2026-11-12T12:58:15.000Z"
   },
   {
+    "id": "f8f2656439251f94",
+    "title": "Dutch coalition near collapse as 1 party is upset over tax deal with opposition",
+    "summary": "Prime Minister Rob Jetten's Dutch coalition appears close to collapse.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/dutch-coalition-collapse-1-party-upset-tax-deal-138071590",
+    "publishedAt": "2026-11-12T12:58:14.000Z"
+  },
+  {
     "id": "9be06ac92f63eba3",
     "title": "FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal",
     "summary": "FIFA says its 'security assessments' for the 48-team tournament remain unchanged after US Soccer pulled out.",
@@ -1267,86 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/uk-names-climate-security-envoy-island-leaders-warn-138066951",
     "publishedAt": "2026-11-12T10:44:26.000Z"
-  },
-  {
-    "id": "965b3a7935c8b8c3",
-    "title": "Stay or leave? Ukrainians face a hard choice ahead of what could be the war’s toughest winter",
-    "summary": "Ukrainians are preparing for a challenging winter as the war continues.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/stay-leave-ukrainians-face-hard-choice-ahead-wars-138069659",
-    "publishedAt": "2026-11-12T10:44:23.000Z"
-  },
-  {
-    "id": "4aa9074d7b959b54",
-    "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
-    "summary": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o",
-    "publishedAt": "2026-11-12T10:37:00.000Z"
-  },
-  {
-    "id": "6bedfbc412d0503f",
-    "title": "Manchester United sack Michael Carrick as manager",
-    "summary": "This is a breaking news story.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss",
-    "publishedAt": "2026-11-12T10:33:29.000Z"
-  },
-  {
-    "id": "b3f30eed137a03e8",
-    "title": "UK drone maker founded by Ukrainians hits £4.5bn value after raising £500m",
-    "summary": "Britain’s national wealth fund invests £113m in UForce, whose equipment has been used heavily in war with Russia.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/12/uk-drone-maker-ukraine-value-uforce",
-    "publishedAt": "2026-11-12T10:31:50.000Z"
-  },
-  {
-    "id": "5990d85a39a9b8c9",
-    "title": "‘Like priests who don’t believe in God’: Italy’s anti-vax medics eye return to frontline duty",
-    "summary": "Progress of bill to reinstate struck-off doctors hinged on support from far right figure Roberto Vannacci, whose rise is shaping politics before 2027 elections.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/12/italy-anti-vax-medics-return-vote-meloni",
-    "publishedAt": "2026-11-12T10:20:09.000Z"
-  },
-  {
-    "id": "420e71e405cc074e",
-    "title": "British woman missing from cruise ship in Atlantic",
-    "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo",
-    "publishedAt": "2026-11-12T10:13:35.000Z"
-  },
-  {
-    "id": "bfc79de3c35c353d",
-    "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
-    "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
-    "publishedAt": "2026-11-12T10:08:38.000Z"
-  },
-  {
-    "id": "e30afd208344375e",
-    "title": "For Ethiopian mothers sheltering in Kenya, safety brings a struggle to feed children",
-    "summary": "Ethiopian mothers fleeing violence into Kenya have found safety but struggle to feed their children.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ethiopian-mothers-sheltering-kenya-safety-brings-struggle-feed-138072189",
-    "publishedAt": "2026-11-12T10:01:20.000Z"
-  },
-  {
-    "id": "04a9222f17ea5eab",
-    "title": "Tanuki: Pon’s Summer review – an adorable raccoon mends the world, one parcel at a time",
-    "summary": "Nintendo Switch/2, PlayStation 4/5, Xbox One/series X/S, PC; Denkiworks/Inpleron Limited.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/12/tanuki-pons-summer-review",
-    "publishedAt": "2026-11-12T10:00:15.000Z"
   }
 ]
