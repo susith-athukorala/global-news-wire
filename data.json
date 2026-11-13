@@ -1,5 +1,32 @@
 [
   {
+    "id": "b1f9bb88b0aa7e27",
+    "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+    "summary": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
+    "publishedAt": "2026-11-13T01:44:55.000Z"
+  },
+  {
+    "id": "95eec5a25c1c3fdd",
+    "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+    "summary": "Albania has faced criticism over low defence spending, as Rama is under pressure at home amid months of protests.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
+    "publishedAt": "2026-11-13T01:43:17.000Z"
+  },
+  {
+    "id": "21e5fdddc37a7e94",
+    "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+    "summary": "A widespread outage has hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+    "publishedAt": "2026-11-13T01:26:24.000Z"
+  },
+  {
     "id": "3d7481c8d46ef8ee",
     "title": "Australian footballers will not be charged after hotel incident, police say",
     "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
@@ -927,6 +954,15 @@
     "publishedAt": "2026-11-12T14:00:42.000Z"
   },
   {
+    "id": "273a81e402933fc3",
+    "title": "Nvidia CEO Jensen Huang quits after affair with alleged Chinese spy",
+    "summary": "Jensen Huang, the founder of global artificial intelligence giant Nvidia, has resigned from his position as CEO.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-13/nvidia-founder-jensen-huang-resigns/107376470",
+    "publishedAt": "2026-11-12T14:00:11.000Z"
+  },
+  {
     "id": "d3df9bf62cbca22d",
     "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
     "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
@@ -1179,6 +1215,15 @@
     "publishedAt": "2026-11-12T12:26:19.000Z"
   },
   {
+    "id": "ee5a0dee6d6a08f6",
+    "title": "UK appoints climate security envoy as Thunberg criticizes COP31 leaders",
+    "summary": "The United Kingdom has appointed a special envoy to address climate change security threats.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/uk-names-climate-security-envoy-island-leaders-warn-138066951",
+    "publishedAt": "2026-11-12T12:18:15.000Z"
+  },
+  {
     "id": "4a32187e9aeb9620",
     "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
     "summary": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
@@ -1303,50 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
     "publishedAt": "2026-11-12T11:24:09.000Z"
-  },
-  {
-    "id": "4fb876fe22cf4a1f",
-    "title": "UK economy grows at fastest rate for more than two years",
-    "summary": "The UK economy grew by 0.7% in the three months to September, according to official figures.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o",
-    "publishedAt": "2026-11-12T11:20:25.000Z"
-  },
-  {
-    "id": "d09e865f9c014694",
-    "title": "What to know as European leaders meet to discuss Ukraine's security, and their own",
-    "summary": "Leaders from over 40 European countries are gathering in Dublin for a summit focused on the continent’s fragile security.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/european-leaders-meet-dublin-discuss-ukraines-security-138070889",
-    "publishedAt": "2026-11-12T11:14:21.000Z"
-  },
-  {
-    "id": "092148901e2564bb",
-    "title": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
-    "summary": "Unprecedented view of cosmos provided by Euclid mission throws up many more cases of gravitational lensing.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe",
-    "publishedAt": "2026-11-12T11:08:54.000Z"
-  },
-  {
-    "id": "24bd05b612e13d25",
-    "title": "Five new miniature frog species found in eastern Himalayas",
-    "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko",
-    "publishedAt": "2026-11-12T11:07:19.000Z"
-  },
-  {
-    "id": "dbc9f4798ef65682",
-    "title": "Burberry returns to profit as sales soar, from £85 socks to £9,000 bags",
-    "summary": "CEO says ‘democratic approach’ has helped brand outperform tough market, with big rises in China and US.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/12/burberry-profit-sales-socks-bags-china-us",
-    "publishedAt": "2026-11-12T11:03:56.000Z"
   }
 ]
