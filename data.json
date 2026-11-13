@@ -1,5 +1,113 @@
 [
   {
+    "id": "bdd0e45929053361",
+    "title": "Iran says it destroyed US military radar in Bahrain in retaliatory strike",
+    "summary": "First direct attack on US military installations for months was in response to US airstrike on communications tower.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+    "publishedAt": "2026-11-13T12:07:13.000Z"
+  },
+  {
+    "id": "61212767e0948e38",
+    "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+    "summary": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+    "publishedAt": "2026-11-13T12:07:12.000Z"
+  },
+  {
+    "id": "97fc290349a0f8c3",
+    "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
+    "summary": "Finland says Ukraine struck a Russian warship near its coast as Kyiv and Moscow held US-brokered talks in Abu Dhabi.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss",
+    "publishedAt": "2026-11-13T12:06:56.000Z"
+  },
+  {
+    "id": "97507d872f87a619",
+    "title": "Happy World Kindness Day Check out our kind photos of kindness to humans -- and cats",
+    "summary": "Friday, November 13 is World Kindness Day. Your mission: Do something kind.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
+    "publishedAt": "2026-11-13T12:06:28.000Z"
+  },
+  {
+    "id": "1df1c4520b1a2178",
+    "title": "Summer heatwave put bin crews lives at risk, says council worker",
+    "summary": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo",
+    "publishedAt": "2026-11-13T12:03:04.000Z"
+  },
+  {
+    "id": "9b6fb02f02430123",
+    "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+    "summary": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
+    "publishedAt": "2026-11-13T11:59:34.000Z"
+  },
+  {
+    "id": "cad39cffc978a70b",
+    "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
+    "summary": "IAEA says it cannot verify whether an underground Iranian enrichment plant contains nuclear material.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss",
+    "publishedAt": "2026-11-13T11:51:57.000Z"
+  },
+  {
+    "id": "5c38415ce1076192",
+    "title": "Colette Kress becomes Nvidia's interim CEO after Jensen Huang resigns",
+    "summary": "Nvidia's CEO Jensen Huang is out, and the company's chief financial officer Colette Kress is taking over as interim CEO. She'll have to guide the company through an exceptionally challenging time.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6038889/colette-kress-becomes-nvidias-interim-ceo-after-jensen-huang-resigns",
+    "publishedAt": "2026-11-13T11:47:38.000Z"
+  },
+  {
+    "id": "4089e8cfbf9a5274",
+    "title": "Nvidia's CEO resigns after alleged spy scandal. What's next for the company?",
+    "summary": "NPR's Michel Martin speaks with NYU professor emeritus and AI writer Gary Marcus about the fallout of the Nvidia scandal.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidias-ceo-resigns-after-alleged-spy-scandal-whats-next-for-the-company",
+    "publishedAt": "2026-11-13T11:47:00.000Z"
+  },
+  {
+    "id": "20fe8e3b7cd05c71",
+    "title": "What’s behind Australia’s surge in teen extremism?",
+    "summary": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
+    "publishedAt": "2026-11-13T11:33:57.000Z"
+  },
+  {
+    "id": "95aa27001df825b7",
+    "title": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
+    "summary": "Volodymyr Zelenskyy says speed restrictions on Starshield system made it harder for Ukraine to shoot down drones.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails",
+    "publishedAt": "2026-11-13T11:24:30.000Z"
+  },
+  {
+    "id": "478e654a1bfe41ef",
+    "title": "Man charged after seven women sexually assaulted in 30 minutes on UK campus",
+    "summary": "Police called to Huddersfield University on Tuesday after women reported being ‘approached and grabbed’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/13/man-charged-women-sexually-assaulted-huddersfield-university",
+    "publishedAt": "2026-11-13T11:17:35.000Z"
+  },
+  {
     "id": "369f0e985a26421b",
     "title": "How the Microsoft outage has been felt worldwide",
     "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
@@ -765,6 +873,15 @@
     "publishedAt": "2026-11-12T23:34:05.000Z"
   },
   {
+    "id": "ad87224b58b30c27",
+    "title": "Family Dollar to pay $63m to settle overcharging allegations",
+    "summary": "Dollar-store chain’s settlement with FTC and state officials comes after Guardian exposé of its pricing practices.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/family-dollar-overcharging-allegations-settlement",
+    "publishedAt": "2026-11-12T23:28:26.000Z"
+  },
+  {
     "id": "df8154f62aa5307e",
     "title": "Russian court jails rights lawyer for 12 years on treason charge",
     "summary": "Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.",
@@ -1231,122 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/military-helicopter-crashes-southern-turkey-killing-4-138085371",
     "publishedAt": "2026-11-12T17:42:19.000Z"
-  },
-  {
-    "id": "4222657b99009790",
-    "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
-    "summary": "Russian president says he would target any foreign troops sent to Ukraine and refuses to soften territorial demands.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
-    "publishedAt": "2026-11-12T17:26:51.000Z"
-  },
-  {
-    "id": "ee127c5fac608d13",
-    "title": "Home sales hit 16-year low in October amid record-high mortgage rates",
-    "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
-    "publishedAt": "2026-11-12T17:26:07.000Z"
-  },
-  {
-    "id": "0752b83f5acd1887",
-    "title": "Finland bars Russian athletes from entering country over Ukraine war",
-    "summary": "Finland says it will restrict entry to the country for Russian athletes because of the war in Ukraine, potentially affecting a number of winter sports. The move follows a backlash in Finland to Russia being reinstated for the ice hockey world championships.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
-    "publishedAt": "2026-11-12T17:23:51.000Z"
-  },
-  {
-    "id": "4717fd30c3c96790",
-    "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
-    "summary": "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
-    "publishedAt": "2026-11-12T17:18:13.000Z"
-  },
-  {
-    "id": "aa1fb91bd2147af0",
-    "title": "Local fund to replace Pip for most young disabled people under Milburn plans",
-    "summary": "Exclusive: Former health secretary says he wants to ‘tear up the old approach’, with under-25s to lose personal independence payments.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/12/local-fund-pip-personal-independence-payments-young-disabled-people-milburn",
-    "publishedAt": "2026-11-12T17:14:34.000Z"
-  },
-  {
-    "id": "7ee65d1ae7eb3dea",
-    "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-    "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo",
-    "publishedAt": "2026-11-12T17:11:48.000Z"
-  },
-  {
-    "id": "9f7ef5c71e5784ea",
-    "title": "New Democratic lawmakers bring first-day-of-school energy to Capitol Hill",
-    "summary": "And a politics editor, freshly returned to work after parental leave, can relate.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/the-stakes-new-democrats-congress-orientation",
-    "publishedAt": "2026-11-12T17:05:55.000Z"
-  },
-  {
-    "id": "097fc4f244c4543f",
-    "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-    "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
-    "publishedAt": "2026-11-12T16:54:12.000Z"
-  },
-  {
-    "id": "7930300f7248d501",
-    "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
-    "summary": "The guard told the defence secretary and his companions to maintain an atmosphere of \"silence and respect\" during a Veterans Day visit.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno",
-    "publishedAt": "2026-11-12T16:52:53.000Z"
-  },
-  {
-    "id": "fe9c35182c2173cb",
-    "title": "Prominent Israeli settler denied entry into France",
-    "summary": "Israel criticises Yossi Dagan's entry ban, labelling it 'unacceptable' amid tensions over illegal settlement policies.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/chk-prominent-israeli-settler-denied-entry-into-france?traffic_source=rss",
-    "publishedAt": "2026-11-12T16:44:49.000Z"
-  },
-  {
-    "id": "0b22490ccedd0965",
-    "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
-    "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo",
-    "publishedAt": "2026-11-12T16:43:36.000Z"
-  },
-  {
-    "id": "64a4da9c56d60cec",
-    "title": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
-    "summary": "Swedish activist criticised world governments for their failure to prevent environmental breakdown.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
-    "publishedAt": "2026-11-12T16:39:47.000Z"
-  },
-  {
-    "id": "4d61f65015e1785a",
-    "title": "UK car industry to press EU for two-year delay to Brexit EV tariffs",
-    "summary": "‘Rules of origin’ on vehicle batteries due to come into force on 1 January if deal on new delay is not reached.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/12/uk-car-industry-rules-of-origin-brexit-ev-tariffs-eu",
-    "publishedAt": "2026-11-12T16:30:27.000Z"
   }
 ]
