@@ -1,5 +1,59 @@
 [
   {
+    "id": "8420cc9107cad988",
+    "title": "Children’s exposure to home wood-burning could be as significant as traffic exhaust, study suggests",
+    "summary": "Research finds highest levels of cancer-related PAH pollutants in cities that have widespread wood heating.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/13/wood-burning-stoves-pollution-traffic-exhaust-children",
+    "publishedAt": "2026-11-13T06:00:12.000Z"
+  },
+  {
+    "id": "8e5d3db342861dde",
+    "title": "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize",
+    "summary": "Political prisoner Mohammad Javad Vafaei Sani, one of seven athletes at risk of execution in Iran, given prestigious Magnitsky humanitarian award.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
+    "publishedAt": "2026-11-13T06:00:11.000Z"
+  },
+  {
+    "id": "c4f8f30bc96d1982",
+    "title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice",
+    "summary": "European nations are looking for an envoy to represent them in talks to end the Russia-Ukraine war.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/europe-pushes-seat-ukraine-peace-talks-lacks-unified-138101804",
+    "publishedAt": "2026-11-13T05:39:40.000Z"
+  },
+  {
+    "id": "ceff19f2c1f0aa96",
+    "title": "Harry Kane breaks caps record as England reach Nations League knockouts",
+    "summary": "England moved to second spot in Group A3 behind Spain, confirming their place in the Nations League last eight in March.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/13/harry-kane-england-appearance-record-126-croatia-nations-league-quarterfinals?traffic_source=rss",
+    "publishedAt": "2026-11-13T05:38:36.000Z"
+  },
+  {
+    "id": "c22e216dbc7d1beb",
+    "title": "An iconic puzzle comes home as production of the Rubik's Cube returns to Hungary",
+    "summary": "The Rubik's Cube, invented by Hungarian architect Ernő Rubik in 1974, has become one of the world's most beloved puzzles.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/iconic-puzzle-home-production-rubiks-cube-returns-hungary-138101469",
+    "publishedAt": "2026-11-13T05:34:58.000Z"
+  },
+  {
+    "id": "7e84a189a2626fb8",
+    "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
+    "summary": "JNIM and ISIL intensify their fight for control as Burkina Faso struggles to contain the wider armed conflict.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss",
+    "publishedAt": "2026-11-13T05:23:31.000Z"
+  },
+  {
     "id": "32abfda572c1f8c3",
     "title": "More than 60% of Germany’s female soldiers report harassment or abuse",
     "summary": "Defence minister says extent of sexual misconduct found by study is ‘unacceptable’, as military tries to attract more recruits.",
@@ -43,6 +97,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/13/major-microsoft-outage-impacts-australian-government-services-and-schools",
     "publishedAt": "2026-11-13T04:40:14.000Z"
+  },
+  {
+    "id": "1f7b858b7abe7310",
+    "title": "From ocean legend to undersea reef: Why has the SS United States been sunk?",
+    "summary": "The ship had been inactive for years despite various owners attempting to save and restore it.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/from-ocean-legend-to-undersea-reef-why-has-the-ss-united-states-been-sunk?traffic_source=rss",
+    "publishedAt": "2026-11-13T04:39:33.000Z"
   },
   {
     "id": "b16822aae8f74220",
@@ -1224,6 +1287,15 @@
     "publishedAt": "2026-11-12T13:14:38.000Z"
   },
   {
+    "id": "a685f82f317483a5",
+    "title": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
+    "summary": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
+    "publishedAt": "2026-11-12T13:08:12.000Z"
+  },
+  {
     "id": "efd84043b0c06504",
     "title": "I'm burnt out and feel forgotten as a young carer",
     "summary": "Min, 16, says people do not always understand her sacrifices and how valuable support is.",
@@ -1276,77 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/dutch-coalition-collapse-1-party-upset-tax-deal-138071590",
     "publishedAt": "2026-11-12T12:58:14.000Z"
-  },
-  {
-    "id": "9be06ac92f63eba3",
-    "title": "FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal",
-    "summary": "FIFA says its 'security assessments' for the 48-team tournament remain unchanged after US Soccer pulled out.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal?traffic_source=rss",
-    "publishedAt": "2026-11-12T12:57:12.000Z"
-  },
-  {
-    "id": "b492a23bee05e448",
-    "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-    "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
-    "publishedAt": "2026-11-12T12:56:55.000Z"
-  },
-  {
-    "id": "c05ce6250333c9a3",
-    "title": "Canada won’t let Russian players enter for ice hockey junior championship",
-    "summary": "Russian, Belarusian athletes and officials will be prevented from entering Canada regardless of their visa status.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/12/canada-wont-let-russian-players-enter-for-ice-hockey-junior-championship?traffic_source=rss",
-    "publishedAt": "2026-11-12T12:56:27.000Z"
-  },
-  {
-    "id": "05ed366c779bec66",
-    "title": "Europe views US with ‘much less horror’ after Trump’s midterms defeat",
-    "summary": "But experts say Washington’s shift away from Europe runs deeper than Trump and is unlikely to be reversed.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/europe-views-us-with-much-less-horror-after-trumps-midterms-defeat?traffic_source=rss",
-    "publishedAt": "2026-11-12T12:51:43.000Z"
-  },
-  {
-    "id": "6555c152931b217d",
-    "title": "Metro Bank up for sale, with billionaire investor in line for £420m windfall",
-    "summary": "Shares up 7% after announcement as Jaime Gilinski Bacal seeks exit three years after helping to rescue bank.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/12/metro-bank-up-for-sale-billionaire-investor-in-line-420m-windfall",
-    "publishedAt": "2026-11-12T12:43:49.000Z"
-  },
-  {
-    "id": "4181a1afee374e23",
-    "title": "Armed robbers flee Paris jewelry store on motorcycles",
-    "summary": "Paris police report that armed robbers have held up a jewelry store in the city before fleeing on motorcycles.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/armed-robbers-flee-paris-jewelry-store-motorcycles-138074429",
-    "publishedAt": "2026-11-12T12:42:21.000Z"
-  },
-  {
-    "id": "b8ecd525451ef32f",
-    "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-    "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o",
-    "publishedAt": "2026-11-12T12:39:39.000Z"
-  },
-  {
-    "id": "c0b6c5ae0f71e34b",
-    "title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
-    "summary": "Israel, the US, Christian Zionism and the search for Armageddon.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/12/greater-israel-how-christian-zionism-infiltrated-us-policy?traffic_source=rss",
-    "publishedAt": "2026-11-12T12:39:21.000Z"
   }
 ]
