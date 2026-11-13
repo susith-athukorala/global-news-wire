@@ -1,5 +1,77 @@
 [
   {
+    "id": "369f0e985a26421b",
+    "title": "How the Microsoft outage has been felt worldwide",
+    "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro",
+    "publishedAt": "2026-11-13T11:05:10.000Z"
+  },
+  {
+    "id": "0b5a0ff784f16406",
+    "title": "Farewell, Cybertruck: why the winding down of the ‘Maga hat on wheels’ is a sign of the times",
+    "summary": "Eccentric and overhyped, Tesla’s Cybertruck became a stand-in for Elon Musk during his ascent in the Republican party. It will join the ranks of other vehicles symbolic of their eras – for better or for worse.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/cybertruck-maga-hat-on-wheels-end",
+    "publishedAt": "2026-11-13T11:00:17.000Z"
+  },
+  {
+    "id": "f117f08c4f0e7639",
+    "title": "Kratom and 7-OH can feel like 'a miracle.' They can also be addictive",
+    "summary": "In the last decade, strong support for kratom and 7-OH products have kept them federally legal. That's started to change.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
+    "publishedAt": "2026-11-13T11:00:00.000Z"
+  },
+  {
+    "id": "45ad344362a213e7",
+    "title": "Planned asylum centre near Oxfordshire village to face legal challenge",
+    "summary": "Parish council of village that declared independence from UK over centre says it will ‘absolutely’ launch legal action.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/13/planned-asylum-centre-near-oxfordshire-village-legal-challenge-piddington",
+    "publishedAt": "2026-11-13T10:47:54.000Z"
+  },
+  {
+    "id": "5e06d7a8695a8569",
+    "title": "Former NSW Liberal MP Rory Amon found guilty of raping 13-year-old boy",
+    "summary": "The 37-year-old was convicted in the state’s supreme court months after a different jury failed to reach a verdict on the same charges.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/13/former-nsw-liberal-mp-rory-amon-found-guilty-of-raping-13-year-old-boy",
+    "publishedAt": "2026-11-13T10:45:48.000Z"
+  },
+  {
+    "id": "717b83b4d0814aef",
+    "title": "Henry and Young shine as New Zealand thrash India by 244 runs",
+    "summary": "New Zealand trail India 2-1 and can no ​longer win the five-match series, but they can level it in Sunday's final game.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/13/matt-henry-will-young-new-zealand-india-fourth-odi?traffic_source=rss",
+    "publishedAt": "2026-11-13T10:26:37.000Z"
+  },
+  {
+    "id": "4ff2860bf70c7442",
+    "title": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
+    "summary": "The US-Iran war is trapped in an ongoing 'no war, no peace' situation, analysts say.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss",
+    "publishedAt": "2026-11-13T10:26:22.000Z"
+  },
+  {
+    "id": "2c48d65b3f01cb19",
+    "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
+    "summary": "Russia and Ukraine continue attacks as US efforts to broker a ceasefire struggle to make progress.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss",
+    "publishedAt": "2026-11-13T10:11:38.000Z"
+  },
+  {
     "id": "95935896633c7184",
     "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
     "summary": "The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations.",
@@ -565,6 +637,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
     "publishedAt": "2026-11-13T01:43:17.000Z"
+  },
+  {
+    "id": "6a8f5fb2a4c07a81",
+    "title": "A negative Outlook: Microsoft scrambles to fix email outage",
+    "summary": "Early Friday, after Outlook had been down for more than 12 hours, Microsoft reported \"marginal success.\"",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/outlook-down-widespread-outage-microsoft-email",
+    "publishedAt": "2026-11-13T01:26:24.000Z"
   },
   {
     "id": "21e5fdddc37a7e94",
@@ -1267,86 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/12/uk-car-industry-rules-of-origin-brexit-ev-tariffs-eu",
     "publishedAt": "2026-11-12T16:30:27.000Z"
-  },
-  {
-    "id": "6714a653a9378a3b",
-    "title": "Sheinbaum rebuts Trump, says no migrant caravans have reached US border since January 2025",
-    "summary": "Mexican President Claudia Sheinbaum says no migrant caravans have reached the U.S. border since U.S. President Donald Trump returned to office in 2025.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/sheinbaum-rebuts-trump-migrant-caravans-reached-us-border-138083469",
-    "publishedAt": "2026-11-12T16:26:59.000Z"
-  },
-  {
-    "id": "ba5051daf5e0b77f",
-    "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
-    "summary": "Ministry says a driver lost control of his truck, causing a collision and fire involving 18 vehicles.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
-    "publishedAt": "2026-11-12T16:23:29.000Z"
-  },
-  {
-    "id": "033f16938689c352",
-    "title": "From washing dishes at Denny’s to rockstar of AI: the rise and fall of Nvidia’s Jensen Huang",
-    "summary": "Technical expertise and an ability to engage gave the chipmaker’s co-founder, who has now resigned, the edge with customers and investors.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profile",
-    "publishedAt": "2026-11-12T16:17:31.000Z"
-  },
-  {
-    "id": "47e46de3e9f31518",
-    "title": "Pope tells Peru's bishops to accompany their flocks and respond to abuse victims with truth, justice",
-    "summary": "Pope Leo XIV is opening his first day in Peru by giving marching orders to the country’s Catholic bishops.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-tells-perus-bishops-accompany-flocks-respond-abuse-138081099",
-    "publishedAt": "2026-11-12T16:04:34.000Z"
-  },
-  {
-    "id": "ca20ca3d532785d0",
-    "title": "Florida St Patrick’s Day parade cancelled over Republican anti-DEI law, causing outrage",
-    "summary": "Ron DeSantis signed law prompting the city of Delray Beach to announce it was scrapping its popular Irish celebration.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/florida-st-patricks-day-parade-cancelled-dei",
-    "publishedAt": "2026-11-12T15:51:29.000Z"
-  },
-  {
-    "id": "fbc14e5f6ea51acf",
-    "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
-    "summary": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-    "publishedAt": "2026-11-12T15:26:39.000Z"
-  },
-  {
-    "id": "3bf6dc30ef51d060",
-    "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
-    "summary": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
-    "publishedAt": "2026-11-12T15:26:34.000Z"
-  },
-  {
-    "id": "890bcea5880dd8cf",
-    "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-    "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo",
-    "publishedAt": "2026-11-12T15:18:20.000Z"
-  },
-  {
-    "id": "fd25624fd8f90a60",
-    "title": "UK court finds two Iranian men guilty of spying for Iran",
-    "summary": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
-    "publishedAt": "2026-11-12T15:15:48.000Z"
   }
 ]
