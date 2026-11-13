@@ -1,5 +1,23 @@
 [
   {
+    "id": "9737ca0031189780",
+    "title": "FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights",
+    "summary": "Transportation secretary Sean Duffy said stoppage is due to ‘communication issue’ and that FAA is looking into issue.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+    "publishedAt": "2026-11-13T21:44:48.000Z"
+  },
+  {
+    "id": "9ae854f934fad673",
+    "title": "US grounds all flights after ‘communication issue’",
+    "summary": "US Transportation Secretary Sean Duffy said the US aviation agency was investigating.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+    "publishedAt": "2026-11-13T21:32:08.000Z"
+  },
+  {
     "id": "a87af2f6d322bc3a",
     "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
     "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
@@ -25,6 +43,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/13/nx-s1-6035715/trump-set-to-head-to-asia-while-questions-about-nvidias-future-swirl",
     "publishedAt": "2026-11-13T21:06:01.000Z"
+  },
+  {
+    "id": "50e52ce090e60ab2",
+    "title": "US air force responds to suspected drone activity at RAF Lakenheath",
+    "summary": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
+    "publishedAt": "2026-11-13T21:01:40.000Z"
   },
   {
     "id": "1ce49df085e40710",
@@ -1035,6 +1062,15 @@
     "publishedAt": "2026-11-13T09:59:28.000Z"
   },
   {
+    "id": "c4f8f30bc96d1982",
+    "title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice",
+    "summary": "European nations are looking for an envoy to represent them in talks to end the Russia-Ukraine war.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/europe-pushes-seat-ukraine-peace-talks-lacks-unified-138101804",
+    "publishedAt": "2026-11-13T09:55:08.000Z"
+  },
+  {
     "id": "ff7f4af44d89fdc1",
     "title": "Kenyans brace for heavy El Niño rains as flood survivors recall their losses",
     "summary": "Kenya is expected to receive heavier-than-usual rainfall during the October–December short-rains season, influenced by El Ni&ntilde;o conditions, according to the Kenya Meteorological Service Authority.",
@@ -1312,41 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/13/victoria-state-election-2026-labor-greens-preference-deals-seats",
     "publishedAt": "2026-11-13T06:16:06.000Z"
-  },
-  {
-    "id": "9e5faf68bb53df90",
-    "title": "Australia captain Pat Cummins denies involvement in ‘Sandpapergate’ scandal",
-    "summary": "Cummins says Khawaja was '100 percent wrong' in claiming the whole team knew about the 2018 ball-tampering scandal.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/13/pat-cummins-australia-usman-khawaja-sandpapergate-test-south-africa?traffic_source=rss",
-    "publishedAt": "2026-11-13T06:13:11.000Z"
-  },
-  {
-    "id": "49310a8c1f16115e",
-    "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
-    "summary": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo",
-    "publishedAt": "2026-11-13T06:12:20.000Z"
-  },
-  {
-    "id": "3e3edbb24ebcbf32",
-    "title": "Flood victim, 95, lived in Wetherspoons until she died after her home was destroyed",
-    "summary": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo",
-    "publishedAt": "2026-11-13T06:05:49.000Z"
-  },
-  {
-    "id": "8420cc9107cad988",
-    "title": "Children’s exposure to home wood-burning could be as significant as traffic exhaust, study suggests",
-    "summary": "Research finds highest levels of cancer-related PAH pollutants in cities that have widespread wood heating.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/13/wood-burning-stoves-pollution-traffic-exhaust-children",
-    "publishedAt": "2026-11-13T06:00:12.000Z"
   }
 ]
