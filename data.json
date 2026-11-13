@@ -198,6 +198,15 @@
     "publishedAt": "2026-11-13T20:04:03.000Z"
   },
   {
+    "id": "de06bec5ec8071c8",
+    "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
+    "summary": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+    "publishedAt": "2026-11-13T19:51:28.000Z"
+  },
+  {
     "id": "6899ef2bdd7d6fb4",
     "title": "Dutch prime minister holds hours of crisis talks as coalition acrimony erupts over tax package",
     "summary": "Dutch Prime Minister Rob Jetten is trying to prevent his coalition government from collapsing.",
@@ -1339,14 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/us-reports-record-number-of-deportations-and-arrests-in-2026?traffic_source=rss",
     "publishedAt": "2026-11-13T06:46:35.000Z"
-  },
-  {
-    "id": "a69f079083e005a3",
-    "title": "Trouble at the top - the crisis of confidence in Scotland's NHS leaders",
-    "summary": "BBC Scotland's health correspondent Lisa Summers on the damning verdict delivered on NHS Grampian.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cknv4d307523o",
-    "publishedAt": "2026-11-13T06:35:34.000Z"
   }
 ]
