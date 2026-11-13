@@ -1,5 +1,50 @@
 [
   {
+    "id": "3d7481c8d46ef8ee",
+    "title": "Australian footballers will not be charged after hotel incident, police say",
+    "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo",
+    "publishedAt": "2026-11-13T01:03:59.000Z"
+  },
+  {
+    "id": "70234e83dc7a4d30",
+    "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+    "summary": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo",
+    "publishedAt": "2026-11-13T00:55:31.000Z"
+  },
+  {
+    "id": "29239493e10c76cd",
+    "title": "Beau Lamarre-Condon bought sim card under pseudonym a month before alleged murders, trial hears",
+    "summary": "Former police officer tells court he was attempting to compile statements about ‘bullying from a certain sergeant’ but was worried about speaking publicly.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/13/beau-lamarre-condon-trial-sim-card-pseudonym-ntwnfb",
+    "publishedAt": "2026-11-13T00:34:23.000Z"
+  },
+  {
+    "id": "5c866d204f0bc428",
+    "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+    "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o",
+    "publishedAt": "2026-11-13T00:20:24.000Z"
+  },
+  {
+    "id": "26c321f37a74766c",
+    "title": "Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’",
+    "summary": "Ann Lawani was taken from her home, sparking a huge outcry among students and faculty at her university.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/california-nurse-release-ice-custody",
+    "publishedAt": "2026-11-13T00:19:54.000Z"
+  },
+  {
     "id": "5d96793560738122",
     "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
     "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
@@ -162,6 +207,15 @@
     "publishedAt": "2026-11-12T22:00:15.000Z"
   },
   {
+    "id": "420e71e405cc074e",
+    "title": "Search for British woman missing from Tui cruise in Atlantic called off",
+    "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo",
+    "publishedAt": "2026-11-12T21:27:21.000Z"
+  },
+  {
     "id": "58a1330c24949f6c",
     "title": "Microsoft outage hits tens of thousands of users",
     "summary": "Microsoft says servers unexpectedly went offline, disrupting Outlook email, Teams, Copilot and other services.",
@@ -169,6 +223,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
     "publishedAt": "2026-11-12T21:03:09.000Z"
+  },
+  {
+    "id": "bfc79de3c35c353d",
+    "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+    "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
+    "publishedAt": "2026-11-12T21:00:42.000Z"
   },
   {
     "id": "388c180a1aeca5f9",
@@ -214,6 +277,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
     "publishedAt": "2026-11-12T20:49:36.000Z"
+  },
+  {
+    "id": "0e5af992f8d3ee20",
+    "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+    "summary": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\".",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo",
+    "publishedAt": "2026-11-12T20:25:29.000Z"
   },
   {
     "id": "680cc0a2f3f31671",
@@ -628,6 +700,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
     "publishedAt": "2026-11-12T15:15:48.000Z"
+  },
+  {
+    "id": "4aa9074d7b959b54",
+    "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+    "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o",
+    "publishedAt": "2026-11-12T15:10:32.000Z"
   },
   {
     "id": "536c0521e12bf1e8",
@@ -1267,86 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/12/burberry-profit-sales-socks-bags-china-us",
     "publishedAt": "2026-11-12T11:03:56.000Z"
-  },
-  {
-    "id": "0864bd6dc86e700f",
-    "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
-    "summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o",
-    "publishedAt": "2026-11-12T11:03:53.000Z"
-  },
-  {
-    "id": "16c5f06479896a67",
-    "title": "Trump the ‘biggest loser’ for scrapping climate action, John Kerry says at Cop31",
-    "summary": "Kerry decries president for ceding clean-energy dominance to China and says climate crisis still a key issue for voters.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/12/trump-loser-john-kerry-cop31",
-    "publishedAt": "2026-11-12T11:00:48.000Z"
-  },
-  {
-    "id": "605d772f41b7bbfb",
-    "title": "College students rally in support of Starbucks baristas urging boycott over contract impasse",
-    "summary": "Rallies take place on more than US 40 campuses as workers seeking better pay and conditions decry stalled talks.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
-    "publishedAt": "2026-11-12T11:00:48.000Z"
-  },
-  {
-    "id": "22594a597461f62e",
-    "title": "NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools",
-    "summary": "Exclusive: The Guardian revealed 29 hospital trusts were not or hardly using the controversial patient data tech.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools",
-    "publishedAt": "2026-11-12T11:00:47.000Z"
-  },
-  {
-    "id": "f6ec31bc760078c1",
-    "title": "Datacentres are deeply unpopular. Has Sweden made one we can all love?",
-    "summary": "It is built of wood, resembles an Ikea and its power is totally renewable. Plus, it was built with the local community in mind.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun",
-    "publishedAt": "2026-11-12T11:00:46.000Z"
-  },
-  {
-    "id": "b0d600184724dfb8",
-    "title": "10th suspect arrested in South Africa over alleged bid to fight in Russia-Ukraine war",
-    "summary": "Authorities have arrested a 10th person for violating South African mercenary laws by attempting to travel to Russia to fight in the war between Russia and Ukraine.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/10th-suspect-arrested-south-africa-alleged-bid-fight-138072640",
-    "publishedAt": "2026-11-12T10:59:15.000Z"
-  },
-  {
-    "id": "bb6db4ffcd1fde1a",
-    "title": "China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’",
-    "summary": "Nvidia CEO is under investigation for an affair with a woman whom US intelligence believes to be a Chinese spy.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss",
-    "publishedAt": "2026-11-12T10:49:41.000Z"
-  },
-  {
-    "id": "69687991f5bc8293",
-    "title": "Far-right activist Daniel Thomas admits criminal damage of dinghy in the Channel",
-    "summary": "Thomas changes plea over slashing boat with knife after watching occupants being helped by rescue services.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/12/far-right-activist-daniel-thomas-admits-criminal-damage-slashing-dinghy-channel",
-    "publishedAt": "2026-11-12T10:47:32.000Z"
-  },
-  {
-    "id": "ee5a0dee6d6a08f6",
-    "title": "UK names a climate security envoy as island leaders warn of a 'life-or-death' crisis",
-    "summary": "The United Kingdom has appointed a special envoy to address climate change security threats.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/uk-names-climate-security-envoy-island-leaders-warn-138066951",
-    "publishedAt": "2026-11-12T10:44:26.000Z"
   }
 ]
