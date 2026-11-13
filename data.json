@@ -1,5 +1,41 @@
 [
   {
+    "id": "0b03da4d210029ce",
+    "title": "Passenger van plunges into river in northern Pakistan, killing 11 people",
+    "summary": "Officials say a passenger van veered off a mountainous road and plunged into a river in northern Pakistan, killing 11 people and injuring three others.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/passenger-van-plunges-river-northern-pakistan-killing-11-138100825",
+    "publishedAt": "2026-11-13T08:16:00.000Z"
+  },
+  {
+    "id": "16dc1429186d22ee",
+    "title": "Spain's Sánchez faces political test as train crash casts shadow over election",
+    "summary": "Spain's Prime Minister Pedro S&aacute;nchez had hoped to leverage widespread discontent over unaffordable housing when he called snap elections.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/spains-snchez-faces-political-test-deadly-train-crash-138100812",
+    "publishedAt": "2026-11-13T08:15:08.000Z"
+  },
+  {
+    "id": "e439cdecb8741df9",
+    "title": "US terror case sheds light on RAF Fairford arrests mystery",
+    "summary": "Suspect held in New York jail has been linked to handler behind Iran-linked operations in Britain.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/13/us-terror-case-raf-fairford-arrests",
+    "publishedAt": "2026-11-13T07:55:56.000Z"
+  },
+  {
+    "id": "7548aad5d39dc336",
+    "title": "NBA: Cunningham scores 52 as Pistons win double OT thriller against Wizards",
+    "summary": "Cunningham became the first NBA player to record a 50-point, 10-assist game without committing a turnover since 1977-78.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/13/cade-cunningham-detroit-pistons-washington-wizards-nba?traffic_source=rss",
+    "publishedAt": "2026-11-13T07:39:18.000Z"
+  },
+  {
     "id": "9024dba0337b63a3",
     "title": "What we know about the global Microsoft outage",
     "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
@@ -7,6 +43,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
     "publishedAt": "2026-11-13T07:12:10.000Z"
+  },
+  {
+    "id": "63be51997893b50e",
+    "title": "A baffling trail from Australia to Singapore: what is Megaspeed, the company implicated in downfall of Nvidia’s Jensen Huang?",
+    "summary": "Few solid clues have emerged as to the true nature of Megaspeed, whose former director Alice Huang has been accused of being a Chinese spy.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/13/a-baffling-trail-from-australia-to-singapore-what-is-megaspeed-the-company-implicated-in-downfall-of-nvidias-jensen-huang",
+    "publishedAt": "2026-11-13T07:07:41.000Z"
   },
   {
     "id": "f61b2554dc480a66",
@@ -160,6 +205,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
     "publishedAt": "2026-11-13T05:00:11.000Z"
+  },
+  {
+    "id": "6f98ea6e38cd9f18",
+    "title": "The sinister power of Friday 13th: how this maligned date affects our lives",
+    "summary": "Property sales that complete on this day have a lower median price. Air fares are cheaper.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/13/the-sinister-power-of-friday-13th-how-this-maligned-date-affects-our-lives",
+    "publishedAt": "2026-11-13T05:00:10.000Z"
   },
   {
     "id": "7cb30f02de5daa41",
@@ -484,6 +538,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
     "publishedAt": "2026-11-12T23:18:50.000Z"
+  },
+  {
+    "id": "048ae611e438b898",
+    "title": "Some under-25s should get fewer benefits, Milburn review to say",
+    "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o",
+    "publishedAt": "2026-11-12T22:51:18.000Z"
   },
   {
     "id": "3e3edbb24ebcbf32",
@@ -1080,6 +1143,15 @@
     "publishedAt": "2026-11-12T15:26:34.000Z"
   },
   {
+    "id": "890bcea5880dd8cf",
+    "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+    "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo",
+    "publishedAt": "2026-11-12T15:18:20.000Z"
+  },
+  {
     "id": "fd25624fd8f90a60",
     "title": "UK court finds two Iranian men guilty of spying for Iran",
     "summary": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'.",
@@ -1276,77 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
     "publishedAt": "2026-11-12T14:00:45.000Z"
-  },
-  {
-    "id": "2714c90369b5afa8",
-    "title": "Icac’s drama and dirt files show NSW’s ‘guns for hire’ problem. But neither major party is serious about reform",
-    "summary": "Chris Minns is trying to address the threat of undeclared lobbying but falls well short of what the commission recommended five years ago.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb",
-    "publishedAt": "2026-11-12T14:00:44.000Z"
-  },
-  {
-    "id": "a32b6f0c29455309",
-    "title": "‘To them, we’re just NPCs’: the artists and activists challenging Trump’s video game propaganda",
-    "summary": "Order a Diet Coke or invade Iran – that’s the choice facing the US president in one of several satirical games, as designers turn the gamification of politics back on the White House.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda",
-    "publishedAt": "2026-11-12T14:00:43.000Z"
-  },
-  {
-    "id": "a048229e172720f5",
-    "title": "NSW’s latest news Instagram account has an unlikely group behind it: the Labor party",
-    "summary": "Expert warns of ‘huge loophole in political communication laws’ as state government among parties presenting accounts as unaffiliated news sources.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/13/nsw-newsroom-instagram-account-labor-party",
-    "publishedAt": "2026-11-12T14:00:42.000Z"
-  },
-  {
-    "id": "ceb1fb455d77f157",
-    "title": "‘It is much, much faster’: could China’s battery-swapping e-trucks be the answer to EV range anxiety?",
-    "summary": "Battery maker CATL aims to have 2,000 swapping stations in China by the end of 2027 and to bring the tech to Europe.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety",
-    "publishedAt": "2026-11-12T14:00:42.000Z"
-  },
-  {
-    "id": "273a81e402933fc3",
-    "title": "Nvidia CEO Jensen Huang quits after affair with alleged Chinese spy",
-    "summary": "Jensen Huang, the founder of global artificial intelligence giant Nvidia, has resigned from his position as CEO.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-13/nvidia-founder-jensen-huang-resigns/107376470",
-    "publishedAt": "2026-11-12T14:00:11.000Z"
-  },
-  {
-    "id": "d3df9bf62cbca22d",
-    "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-    "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno",
-    "publishedAt": "2026-11-12T13:58:49.000Z"
-  },
-  {
-    "id": "efb9d7817b0d84dc",
-    "title": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
-    "summary": "Film features testimony from 24 Israeli officials involved in surveillance and remote killing of Palestinian civilians.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global/2026/nov/12/naza-how-to-watch-guardian-acclaimed-gaza-documentary",
-    "publishedAt": "2026-11-12T13:57:05.000Z"
-  },
-  {
-    "id": "093b4f1bda0559f1",
-    "title": "Nvidia CEO Jensen Huang steps down amid spy scandal and market loss",
-    "summary": "This is a breaking news story.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo?traffic_source=rss",
-    "publishedAt": "2026-11-12T13:55:07.000Z"
   }
 ]
