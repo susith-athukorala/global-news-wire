@@ -1,5 +1,50 @@
 [
   {
+    "id": "158b642aada4699f",
+    "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+    "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo",
+    "publishedAt": "2026-11-13T23:00:31.000Z"
+  },
+  {
+    "id": "89d0595e7ebf0285",
+    "title": "Woman with terminal cancer gets dream wedding on hospital ward",
+    "summary": "Maggie Heginbothom thanks staff after \"dream\" ceremony is arranged two days after her partner proposed.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm702wjg48k2o",
+    "publishedAt": "2026-11-13T22:55:00.000Z"
+  },
+  {
+    "id": "088af6d63819d9fb",
+    "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
+    "summary": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
+    "publishedAt": "2026-11-13T22:47:16.000Z"
+  },
+  {
+    "id": "fcc1899af9d52bc9",
+    "title": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Israel’s Arab minority",
+    "summary": "Statement a rare instance of a prominent Jewish political leader taking a strong stand in defence of Arab Israelis.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+    "publishedAt": "2026-11-13T22:36:38.000Z"
+  },
+  {
+    "id": "968e6c7500c84fdd",
+    "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
+    "summary": "Anti-corruption agency carried out searches as part of investigation into Orbán-era minister accused of taking bribes.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
+    "publishedAt": "2026-11-13T22:12:54.000Z"
+  },
+  {
     "id": "9737ca0031189780",
     "title": "FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights",
     "summary": "Transportation secretary Sean Duffy said stoppage is due to ‘communication issue’ and that FAA is looking into issue.",
@@ -16,6 +61,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
     "publishedAt": "2026-11-13T21:32:08.000Z"
+  },
+  {
+    "id": "97cea47af11f4913",
+    "title": "US aviation administration orders grounding of all flights",
+    "summary": "The US Federal Aviation Administration has issued a national ground stop \"due to extraordinary circumstance and reasons for safety\".",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-14/us-aviation-admin-orders-grounding-of-all-flights/107385702",
+    "publishedAt": "2026-11-13T21:23:28.000Z"
   },
   {
     "id": "a87af2f6d322bc3a",
@@ -1294,59 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cknv4d307523o",
     "publishedAt": "2026-11-13T06:35:34.000Z"
-  },
-  {
-    "id": "de06bec5ec8071c8",
-    "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
-    "summary": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America’s security was put at risk.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-    "publishedAt": "2026-11-13T06:34:59.000Z"
-  },
-  {
-    "id": "ff73919a010f056c",
-    "title": "How many sewage spills have happened in your part of Scotland?",
-    "summary": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c0re545l8jdo",
-    "publishedAt": "2026-11-13T06:31:51.000Z"
-  },
-  {
-    "id": "06c72c568b46af70",
-    "title": "Politicians back focus on cost of living",
-    "summary": "The Government of Jersey's key priorities are passed despite concerns over a lack of \"real action\".",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqj9mjl8jy4no",
-    "publishedAt": "2026-11-13T06:23:37.000Z"
-  },
-  {
-    "id": "1969c9a9a8b619ff",
-    "title": "My physical deformity left me feeling invisible - but one surgeon saw me",
-    "summary": "Charlie Clarke says the physical and emotional effects of pectus excavatum have been \"unimaginable\".",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6rmyy4ee1pwo",
-    "publishedAt": "2026-11-13T06:22:12.000Z"
-  },
-  {
-    "id": "8f97a2837828ebd5",
-    "title": "Cider makers fear future for orchards as costs grow",
-    "summary": "Producers claimed without more support, they could be forced to stop using British-grown apples.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5zjxjzx2dpwo",
-    "publishedAt": "2026-11-13T06:21:34.000Z"
-  },
-  {
-    "id": "f0ede4ad34ecf30a",
-    "title": "Victoria election 2026: Labor and Greens trade accusations of ‘dodgy deals’ as preference fight puts key seats at risk",
-    "summary": "Greens say they will not direct preferences to Labor in 15 seats after party’s ‘unforgivable’ decision earlier in week.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/13/victoria-state-election-2026-labor-greens-preference-deals-seats",
-    "publishedAt": "2026-11-13T06:16:06.000Z"
   }
 ]
