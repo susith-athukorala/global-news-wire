@@ -1,5 +1,86 @@
 [
   {
+    "id": "a87af2f6d322bc3a",
+    "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+    "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+    "publishedAt": "2026-11-13T21:14:22.000Z"
+  },
+  {
+    "id": "5cddb1b5d103aa2f",
+    "title": "Microsoft outage disrupts work and gives some a chance to unplug",
+    "summary": "Millions of individuals, organizations and businesses were left without access to Microsoft's Outlook email on Thursday. Some people celebrated a day without email, while others work around obstacles.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6040004/microsoft-outage-disrupts-work-and-gives-some-a-chance-to-unplug",
+    "publishedAt": "2026-11-13T21:06:07.000Z"
+  },
+  {
+    "id": "70dd21355b268ba8",
+    "title": "Trump set to head to Asia while questions about Nvidia's future swirl",
+    "summary": "President Trump gears up for a consequential trip to Asia for key conferences that will focus on trade and national security.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6035715/trump-set-to-head-to-asia-while-questions-about-nvidias-future-swirl",
+    "publishedAt": "2026-11-13T21:06:01.000Z"
+  },
+  {
+    "id": "1ce49df085e40710",
+    "title": "Probation officers in England and Wales vote for strike action over pay and workloads",
+    "summary": "Move deals blow to government’s plans to release thousands of prisoners early to tackle prison overcrowding.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/13/probation-officers-in-england-and-wales-vote-for-strike-action-over-pay-and-workloads",
+    "publishedAt": "2026-11-13T20:51:01.000Z"
+  },
+  {
+    "id": "07c3fc0778fe92d3",
+    "title": "Mamdani and Trump agree to 90-day delay on new food assistance rules for corner stores",
+    "summary": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to comply.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
+    "publishedAt": "2026-11-13T20:33:12.000Z"
+  },
+  {
+    "id": "9d144ca940fcf85a",
+    "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
+    "summary": "The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
+    "publishedAt": "2026-11-13T20:28:20.000Z"
+  },
+  {
+    "id": "63ee72c52a46c129",
+    "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
+    "summary": "The criminal association charge over his alleged role in the collapse of the bank comes a week after his removal.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss",
+    "publishedAt": "2026-11-13T20:18:09.000Z"
+  },
+  {
+    "id": "df1077424e83719d",
+    "title": "Microsoft says services still returning amid widespread outage",
+    "summary": "Governments, businesses, individuals were disrupted globally as server failures stretch into second day.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
+    "publishedAt": "2026-11-13T20:16:13.000Z"
+  },
+  {
+    "id": "3f12e1ee36e53912",
+    "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
+    "summary": "None of the 62 contacts identified after the first case developed the disease, although 13 contacts reported fever.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/nigeria-ends-21-day-ebola-contact-monitoring-with-no-secondary-transmission?traffic_source=rss",
+    "publishedAt": "2026-11-13T20:12:34.000Z"
+  },
+  {
     "id": "e08c8514556ba9f5",
     "title": "SpaceX to attempt double catch of huge Starship rocket",
     "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
@@ -34,6 +115,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
     "publishedAt": "2026-11-13T20:04:03.000Z"
+  },
+  {
+    "id": "6899ef2bdd7d6fb4",
+    "title": "Dutch prime minister holds hours of crisis talks as coalition acrimony erupts over tax package",
+    "summary": "Dutch Prime Minister Rob Jetten is trying to prevent his coalition government from collapsing.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/dutch-prime-minister-holds-hours-crisis-talks-coalition-138119022",
+    "publishedAt": "2026-11-13T19:41:43.000Z"
+  },
+  {
+    "id": "7be3eed2ec04182c",
+    "title": "Gold smuggled from war zones entered the UAE despite new regulations, report says",
+    "summary": "A new report says that the United Arab Emirates remains a key destination for gold smuggled from conflict zones despite new regulations on the trade.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/gold-smuggled-war-zones-entered-uae-despite-new-138117227",
+    "publishedAt": "2026-11-13T19:41:31.000Z"
   },
   {
     "id": "93f066b538112254",
@@ -1249,104 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/environment/2026/nov/13/wood-burning-stoves-pollution-traffic-exhaust-children",
     "publishedAt": "2026-11-13T06:00:12.000Z"
-  },
-  {
-    "id": "4c884d032040bbad",
-    "title": "‘They’ve cut all entry-level jobs’: unlikely seaside town on frontline of AI threat",
-    "summary": "Bournemouth became a hub for thousands of finance jobs after the 1980s big bang, but new tech risks hurting Dorset’s economy.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/13/ai-uk-finance-jobs-bournemouth-tech",
-    "publishedAt": "2026-11-13T06:00:11.000Z"
-  },
-  {
-    "id": "8e5d3db342861dde",
-    "title": "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize",
-    "summary": "Political prisoner Mohammad Javad Vafaei Sani, one of seven athletes at risk of execution in Iran, given prestigious Magnitsky humanitarian award.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
-    "publishedAt": "2026-11-13T06:00:11.000Z"
-  },
-  {
-    "id": "c4f8f30bc96d1982",
-    "title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice",
-    "summary": "European nations are looking for an envoy to represent them in talks to end the Russia-Ukraine war.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/europe-pushes-seat-ukraine-peace-talks-lacks-unified-138101804",
-    "publishedAt": "2026-11-13T05:39:40.000Z"
-  },
-  {
-    "id": "ceff19f2c1f0aa96",
-    "title": "Harry Kane breaks caps record as England reach Nations League knockouts",
-    "summary": "England moved to second spot in Group A3 behind Spain, confirming their place in the Nations League last eight in March.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/13/harry-kane-england-appearance-record-126-croatia-nations-league-quarterfinals?traffic_source=rss",
-    "publishedAt": "2026-11-13T05:38:36.000Z"
-  },
-  {
-    "id": "c22e216dbc7d1beb",
-    "title": "An iconic puzzle comes home as production of the Rubik's Cube returns to Hungary",
-    "summary": "The Rubik's Cube, invented by Hungarian architect Ernő Rubik in 1974, has become one of the world's most beloved puzzles.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/iconic-puzzle-home-production-rubiks-cube-returns-hungary-138101469",
-    "publishedAt": "2026-11-13T05:34:58.000Z"
-  },
-  {
-    "id": "7e84a189a2626fb8",
-    "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
-    "summary": "JNIM and ISIL intensify their fight for control as Burkina Faso struggles to contain the wider armed conflict.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss",
-    "publishedAt": "2026-11-13T05:23:31.000Z"
-  },
-  {
-    "id": "228a234c39e7a32a",
-    "title": "World is now in ‘age of electricity’, energy agency chief says at Cop31",
-    "summary": "Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledge.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
-    "publishedAt": "2026-11-13T05:00:11.000Z"
-  },
-  {
-    "id": "6f98ea6e38cd9f18",
-    "title": "The sinister power of Friday 13th: how this maligned date affects our lives",
-    "summary": "Property sales that complete on this day have a lower median price. Air fares are cheaper.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/13/the-sinister-power-of-friday-13th-how-this-maligned-date-affects-our-lives",
-    "publishedAt": "2026-11-13T05:00:10.000Z"
-  },
-  {
-    "id": "7cb30f02de5daa41",
-    "title": "‘I spend less, that’s all that matters’: life in the world’s most electrified countries",
-    "summary": "Owning an electric car, driving an electric motorbike taxi, riding scooters – we speak to people in Oslo, Kigali and Shanghai about their everyday routines.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/13/i-spend-less-thats-all-that-matters-life-in-the-worlds-most-electrified-countries",
-    "publishedAt": "2026-11-13T05:00:10.000Z"
-  },
-  {
-    "id": "32abfda572c1f8c3",
-    "title": "More than 60% of Germany’s female soldiers report harassment or abuse",
-    "summary": "Defence minister says extent of sexual misconduct found by study is ‘unacceptable’, as military tries to attract more recruits.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/13/more-than-60-of-germanys-female-soldiers-report-harassment-or-abuse",
-    "publishedAt": "2026-11-13T05:00:09.000Z"
-  },
-  {
-    "id": "9b4e43af3f13893c",
-    "title": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
-    "summary": "Funding cuts and Israel's war have left Palestinians in Lebanon in increasingly dire circumstances.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss",
-    "publishedAt": "2026-11-13T04:51:56.000Z"
   }
 ]
