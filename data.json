@@ -1,5 +1,32 @@
 [
   {
+    "id": "f6018c5c43e3d9f7",
+    "title": "Who gets to tell the world’s news?",
+    "summary": "A look back at the Global South's early efforts to challenge Western dominance of international news.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/longform/2026/11/13/who-gets-to-tell-the-worlds-news?traffic_source=rss",
+    "publishedAt": "2026-11-13T08:51:11.000Z"
+  },
+  {
+    "id": "5f016991af3af0b6",
+    "title": "Nvidia’s Huang, Lutnick summoned to testify to US Senate",
+    "summary": "The Banking Committee says the ex-tech CEO and the commerce secretary could face legal action if they fail to appear.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
+    "publishedAt": "2026-11-13T08:49:59.000Z"
+  },
+  {
+    "id": "f7724812b97d9d20",
+    "title": "Storm Charles causes floods and flight cancellations across southern Europe",
+    "summary": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
+    "publishedAt": "2026-11-13T08:49:19.000Z"
+  },
+  {
     "id": "0b03da4d210029ce",
     "title": "Passenger van plunges into river in northern Pakistan, killing 11 people",
     "summary": "Officials say a passenger van veered off a mountainous road and plunged into a river in northern Pakistan, killing 11 people and injuring three others.",
@@ -16,6 +43,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/spains-snchez-faces-political-test-deadly-train-crash-138100812",
     "publishedAt": "2026-11-13T08:15:08.000Z"
+  },
+  {
+    "id": "e0b67d0f9c351f9c",
+    "title": "Australia’s friendly against Jordan moved to Qatar over security concerns",
+    "summary": "Asian football giants Australia's upcoming friendly with Jordan was initially scheduled to be played in Amman.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/13/australia-jordan-football-friendly-amman-doha-qatar-socceroos?traffic_source=rss",
+    "publishedAt": "2026-11-13T07:59:31.000Z"
   },
   {
     "id": "e439cdecb8741df9",
@@ -945,6 +981,15 @@
     "publishedAt": "2026-11-12T18:00:50.000Z"
   },
   {
+    "id": "e7a7425a6c5b41de",
+    "title": "AI disaster for banks, super funds and insurers only a matter of time",
+    "summary": "The regulator that oversees Australia's banks, super funds and insurers will run \"stress tests\" to examine hypothetical doomsday scenarios linked to AI, warning that firms are unprepared.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944",
+    "publishedAt": "2026-11-12T18:00:00.000Z"
+  },
+  {
     "id": "009ee185716782c0",
     "title": "Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?",
     "summary": "CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus.",
@@ -1251,6 +1296,15 @@
     "publishedAt": "2026-11-12T14:27:54.000Z"
   },
   {
+    "id": "efb9d7817b0d84dc",
+    "title": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
+    "summary": "Film features testimony from 24 Israeli officials involved in surveillance and remote killing of Palestinian civilians.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/global/2026/nov/12/naza-how-to-watch-guardian-acclaimed-gaza-documentary",
+    "publishedAt": "2026-11-12T14:23:50.000Z"
+  },
+  {
     "id": "4420fcaedbd4220e",
     "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
     "summary": "Israel's military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank.",
@@ -1294,59 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-board-fired",
     "publishedAt": "2026-11-12T14:17:20.000Z"
-  },
-  {
-    "id": "a06747be558e1b0f",
-    "title": "Time running out for young people to receive meningitis B vaccines in UK",
-    "summary": "Just 28.2% of 18- and 19-year-olds have received their first dose in one-off campaign, UKHSA says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/12/time-running-out-young-people-meningitis-b-vaccines-uk",
-    "publishedAt": "2026-11-12T14:16:18.000Z"
-  },
-  {
-    "id": "83450e3d58d53088",
-    "title": "Before Scott Colom, these two men were the last black US senators in Mississippi",
-    "summary": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do",
-    "publishedAt": "2026-11-12T14:12:55.000Z"
-  },
-  {
-    "id": "79bed904631621d7",
-    "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
-    "summary": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targets.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
-    "publishedAt": "2026-11-12T14:07:42.000Z"
-  },
-  {
-    "id": "e2559242d3f93513",
-    "title": "Ukraine says Starlink communications disrupted as US envoys meet Putin",
-    "summary": "Ukrainian President Volodymyr Zelenskyy says disruptions to the Starshield satellite communications service - the military version of Elon Musk's SpaceX's Starlink - is affecting the Ukrainian front line.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-13/ukraine-elon-musk-starlink-access-disrupted/107380578",
-    "publishedAt": "2026-11-12T14:06:03.000Z"
-  },
-  {
-    "id": "1823e2dd13e56066",
-    "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
-    "summary": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationship with employee.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
-    "publishedAt": "2026-11-12T14:04:50.000Z"
-  },
-  {
-    "id": "20fe8e3b7cd05c71",
-    "title": "What’s behind Australia’s surge in teen extremism?",
-    "summary": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
-    "publishedAt": "2026-11-12T14:00:45.000Z"
   }
 ]
