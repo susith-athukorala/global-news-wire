@@ -1,5 +1,68 @@
 [
   {
+    "id": "9e83ce18da2c8061",
+    "title": "France slams Israel’s ‘demagogic’ ban on left-wing leader Melenchon",
+    "summary": "Israel's move came after France banned a prominent Israeli settler from entering the country.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
+    "publishedAt": "2026-11-13T12:57:08.000Z"
+  },
+  {
+    "id": "218e8fbc87b79eac",
+    "title": "The dark side of reselling apps: ‘If you include your pants, I’ll pay more’",
+    "summary": "Ministers consider banning under-16s from platforms amid reported misuse of messaging functions and users’ photos.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection",
+    "publishedAt": "2026-11-13T12:54:16.000Z"
+  },
+  {
+    "id": "6dea204524bb231d",
+    "title": "Mauricio Pochettino announced as new Manchester United manager",
+    "summary": "Pochettino replaces Michael Carrick, who was sacked after United's disastrous start to the season.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss",
+    "publishedAt": "2026-11-13T12:39:34.000Z"
+  },
+  {
+    "id": "b8d2966355db729c",
+    "title": "New York is running out of room for its waste even with Statue of Liberty sized landfill",
+    "summary": "One company is proposing elongating the life of the dump, pungent smell and all, several more decades.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/new-york-seneca-meadows-landfill",
+    "publishedAt": "2026-11-13T12:30:18.000Z"
+  },
+  {
+    "id": "236989223c0875e9",
+    "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
+    "summary": "It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko",
+    "publishedAt": "2026-11-13T12:28:28.000Z"
+  },
+  {
+    "id": "a1b8915e5269a783",
+    "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+    "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o",
+    "publishedAt": "2026-11-13T12:22:30.000Z"
+  },
+  {
+    "id": "c7c87e7b2ab69fab",
+    "title": "First Thing: Global Microsoft outage chaos as tech firm says there are ‘signs of stabilisation’",
+    "summary": "Users of Microsoft Teams and Outlook in businesses and public services reporting problems. Plus would you like to spend time as a helpful furry little post delivery service?",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/first-thing-global-microsoft-outage-chaos-signs-of-stabilisation",
+    "publishedAt": "2026-11-13T12:16:44.000Z"
+  },
+  {
     "id": "bdd0e45929053361",
     "title": "Iran says it destroyed US military radar in Bahrain in retaliatory strike",
     "summary": "First direct attack on US military installations for months was in response to US airstrike on communications tower.",
@@ -79,6 +142,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidias-ceo-resigns-after-alleged-spy-scandal-whats-next-for-the-company",
     "publishedAt": "2026-11-13T11:47:00.000Z"
+  },
+  {
+    "id": "69564038c20d3cab",
+    "title": "Nigerian university in mourning after four students die at post-exam party",
+    "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o",
+    "publishedAt": "2026-11-13T11:37:08.000Z"
   },
   {
     "id": "20fe8e3b7cd05c71",
@@ -468,6 +540,15 @@
     "publishedAt": "2026-11-13T06:13:11.000Z"
   },
   {
+    "id": "49310a8c1f16115e",
+    "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
+    "summary": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo",
+    "publishedAt": "2026-11-13T06:12:20.000Z"
+  },
+  {
     "id": "8420cc9107cad988",
     "title": "Children’s exposure to home wood-burning could be as significant as traffic exhaust, study suggests",
     "summary": "Research finds highest levels of cancer-related PAH pollutants in cities that have widespread wood heating.",
@@ -792,6 +873,15 @@
     "publishedAt": "2026-11-13T00:55:31.000Z"
   },
   {
+    "id": "8d70abcf1472ecf3",
+    "title": "Why midterm vote-counting is taking so long in America's largest state",
+    "summary": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo",
+    "publishedAt": "2026-11-13T00:35:05.000Z"
+  },
+  {
     "id": "29239493e10c76cd",
     "title": "Beau Lamarre-Condon bought sim card under pseudonym a month before alleged murders, trial hears",
     "summary": "Former police officer tells court he was attempting to compile statements about ‘bullying from a certain sergeant’ but was worried about speaking publicly.",
@@ -943,6 +1033,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/12/nx-s1-6038879/israeli-air-strike-on-gaza-hospital-kills-six-including-surgeon",
     "publishedAt": "2026-11-12T22:33:00.000Z"
+  },
+  {
+    "id": "4222657b99009790",
+    "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+    "summary": "Russian president says he would target any foreign troops sent to Ukraine and refuses to soften territorial demands.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+    "publishedAt": "2026-11-12T22:26:37.000Z"
   },
   {
     "id": "2da44aa706dbb618",
@@ -1242,111 +1341,12 @@
     "publishedAt": "2026-11-12T18:58:44.000Z"
   },
   {
-    "id": "6eff6376874dc0bd",
-    "title": "Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley",
-    "summary": "CEO was viewed as ‘irreplaceable’, but recklessness of affair with a woman regarded by US officials as a Chinese spy made him a political liability.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
-    "publishedAt": "2026-11-12T18:46:48.000Z"
-  },
-  {
-    "id": "097549300596c52f",
-    "title": "Pro-Palestine philanthropist faces US extradition hearing in Spain",
-    "summary": "James 'Fergie' Chambers denies wrongdoing, while his wife urges PM Sanchez to grant him political asylum.",
+    "id": "7930300f7248d501",
+    "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+    "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
     "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/james-fergie-chambers-extradition-hearing?traffic_source=rss",
-    "publishedAt": "2026-11-12T18:41:40.000Z"
-  },
-  {
-    "id": "0702b11143429d4b",
-    "title": "UK ministers look at quick ways to limit NDAs after Walliams allegations",
-    "summary": "Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personality.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
-    "publishedAt": "2026-11-12T18:38:13.000Z"
-  },
-  {
-    "id": "6e9cda982b724130",
-    "title": "Home sales in the US are at their lowest level since 2016",
-    "summary": "The sale of previously owned homes dropped 5.5 percent in October, the lowest level since August 2010.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/12/home-sales-in-the-us-are-at-their-lowest-level-since-2016?traffic_source=rss",
-    "publishedAt": "2026-11-12T18:26:28.000Z"
-  },
-  {
-    "id": "a321f7b903d396cd",
-    "title": "What to know about the Logan Circle shooting in Washington, DC",
-    "summary": "Trump has showcased the capital city as an example of his tough-on-crime approach.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/what-to-know-about-the-logan-circle-shooting-in-washington-dc?traffic_source=rss",
-    "publishedAt": "2026-11-12T18:22:04.000Z"
-  },
-  {
-    "id": "26732e1fb8451a56",
-    "title": "THC drink companies rush to sell inventory as Illinois ban takes effect",
-    "summary": "Many hemp companies are shipping their remaining inventory to Wisconsin, Minnesota and Tennessee, which have different regulations.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/thc-drinks-ban-illinois",
-    "publishedAt": "2026-11-12T18:21:46.000Z"
-  },
-  {
-    "id": "eda2470930b5f44c",
-    "title": "Pete Hegseth awards medal to soldier who reprimanded him near Tomb of the Unknown Soldier",
-    "summary": "‘We love standards. Well done, Specialist’, the defense secretary writes following Veterans Day visit.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/pete-hegseth-medal-soldier-reprimand",
-    "publishedAt": "2026-11-12T18:08:31.000Z"
-  },
-  {
-    "id": "ea6dde997f9d68cb",
-    "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
-    "summary": "Formula One driver Lewis Hamilton said on Wednesday that Israel must allow aid ⁠trucks into Gaza, a day after he visited the Rafah border crossing in Egypt.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
-    "publishedAt": "2026-11-12T18:00:50.000Z"
-  },
-  {
-    "id": "e7a7425a6c5b41de",
-    "title": "AI disaster for banks, super funds and insurers only a matter of time",
-    "summary": "The regulator that oversees Australia's banks, super funds and insurers will run \"stress tests\" to examine hypothetical doomsday scenarios linked to AI, warning that firms are unprepared.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944",
-    "publishedAt": "2026-11-12T18:00:00.000Z"
-  },
-  {
-    "id": "009ee185716782c0",
-    "title": "Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?",
-    "summary": "CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached",
-    "publishedAt": "2026-11-12T17:50:35.000Z"
-  },
-  {
-    "id": "9414c905773564b3",
-    "title": "Duran Duran drummer Roger Taylor leaves band due to tinnitus",
-    "summary": "‘I must now listen to my body and my doctors’, says Taylor, who was one of the earliest members of the new wave hit-makers.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/12/duran-duran-drummer-roger-taylor-leaves-band-due-to-tinnitus",
-    "publishedAt": "2026-11-12T17:44:44.000Z"
-  },
-  {
-    "id": "5dcebfc05be386f5",
-    "title": "Military helicopter crashes in southern Turkey, killing 4",
-    "summary": "The Turkish Defense Ministry says a military helicopter has crashed in southern Turkey, killing four personnel.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/military-helicopter-crashes-southern-turkey-killing-4-138085371",
-    "publishedAt": "2026-11-12T17:42:19.000Z"
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno",
+    "publishedAt": "2026-11-12T18:47:35.000Z"
   }
 ]
