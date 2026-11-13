@@ -1,5 +1,77 @@
 [
   {
+    "id": "92fe297395e2123c",
+    "title": "What's Trump's strategy now with Iran? To keep things as they are",
+    "summary": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+    "publishedAt": "2026-11-13T19:02:04.000Z"
+  },
+  {
+    "id": "63e3f02713aeecb9",
+    "title": "Families clear homes of David Walliams books after sexual offence allegations",
+    "summary": "Parents take action while independent bookshops say they had already stopped stocking his titles.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/13/families-clear-homes-of-david-walliams-books-after-sexual-offence-allegations",
+    "publishedAt": "2026-11-13T18:55:08.000Z"
+  },
+  {
+    "id": "899468edb4ac68bc",
+    "title": "What could El Niño mean for winter weather in the US and Canada?",
+    "summary": "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do",
+    "publishedAt": "2026-11-13T18:50:15.000Z"
+  },
+  {
+    "id": "40d97650702da191",
+    "title": "At least 10 killed in Guinea in crackdown on gold mining",
+    "summary": "Guinea banned artisanal gold mining in Siguiri on November 2 due to environmental degradation, causing mass exodus.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss",
+    "publishedAt": "2026-11-13T18:44:45.000Z"
+  },
+  {
+    "id": "fab849f83c619135",
+    "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+    "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo",
+    "publishedAt": "2026-11-13T18:34:45.000Z"
+  },
+  {
+    "id": "e213323a5c217130",
+    "title": "Andy Burnham urges Labour to ‘re-arm’ for Kemi Badenoch comeback",
+    "summary": "No 10 sources say PM wants party to refocus on Tories as electoral threat after prioritising Reform and Greens.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/13/andy-burnham-urges-labour-to-re-arm-for-kemi-badenoch-comeback",
+    "publishedAt": "2026-11-13T18:20:01.000Z"
+  },
+  {
+    "id": "e573190251691540",
+    "title": "Labour chief whip tells Vogue she takes tough approach to keeping MPs in line",
+    "summary": "Anneliese Midgley surprises colleagues after Burnham said whips’ office should not be ‘something to be feared’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/13/labour-chief-whip-tough-approach-vogue-interview-mps-in-line-anneliese-midgley",
+    "publishedAt": "2026-11-13T18:16:15.000Z"
+  },
+  {
+    "id": "2d49a6ce39711f4d",
+    "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+    "summary": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
+    "publishedAt": "2026-11-13T18:04:22.000Z"
+  },
+  {
     "id": "d0cb8b1c2c9986ae",
     "title": "International Criminal Court limits Afghanistan investigation to Taliban crimes",
     "summary": "Judges at the International Criminal Court have ended the part of the global tribunal’s investigation into Afghanistan that could have involved U.S. military personnel.",
@@ -1276,77 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/13/chips-creek-water-and-take-me-home-country-roads-how-an-australian-teenager-survived-six-nights-in-the-bush",
     "publishedAt": "2026-11-13T03:25:30.000Z"
-  },
-  {
-    "id": "1aac2beac6044c1e",
-    "title": "Iran says it targeted US radar site in Bahrain",
-    "summary": "IRGC says it hit radar in retaliation for an 'enemy' air attack on a telecom tower in Iran's Hormozgan province.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss",
-    "publishedAt": "2026-11-13T03:17:27.000Z"
-  },
-  {
-    "id": "0daac84b88c62235",
-    "title": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
-    "summary": "Chief financial officer, reportedly disparaged by Huang during summer meeting, to take over on short-term basis.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
-    "publishedAt": "2026-11-13T03:02:06.000Z"
-  },
-  {
-    "id": "cc0b72bdf6cd7346",
-    "title": "Spanish court suspends far-right group over alleged hate crimes",
-    "summary": "Judge orders office shut and accounts blocked after 14 arrests and the seizure of more than 20 firearms.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/spanish-court-suspends-far-right-group-over-alleged-hate-crimes?traffic_source=rss",
-    "publishedAt": "2026-11-13T02:52:25.000Z"
-  },
-  {
-    "id": "cbb859c921e83242",
-    "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-    "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o",
-    "publishedAt": "2026-11-13T02:48:29.000Z"
-  },
-  {
-    "id": "feeb6c703efc01a7",
-    "title": "Chris Van Hollen to run for US Senate majority leader",
-    "summary": "Van Hollen's entry into the race follows Democratic sweeps in elections and challenges veteran leader Schumer.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/chris-van-hollen-to-run-for-us-senate-majority-leader?traffic_source=rss",
-    "publishedAt": "2026-11-13T02:42:41.000Z"
-  },
-  {
-    "id": "0e5af992f8d3ee20",
-    "title": "Global Microsoft outage affecting tens of thousands of users",
-    "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo",
-    "publishedAt": "2026-11-13T02:38:02.000Z"
-  },
-  {
-    "id": "d4a4eb02dd601254",
-    "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
-    "summary": "Reports of attack in Baltic came before US envoys met with Russian and Ukrainian presidents.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
-    "publishedAt": "2026-11-13T02:35:21.000Z"
-  },
-  {
-    "id": "5ac71e580a4565b1",
-    "title": "Trump moots toppling Cuba authorities before leaving office",
-    "summary": "Calling Cuba a failed nation, the US president hints at attack on the country before his term ends.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
-    "publishedAt": "2026-11-13T02:33:28.000Z"
   }
 ]
