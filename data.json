@@ -1,5 +1,32 @@
 [
   {
+    "id": "0e96d64327ba73e5",
+    "title": "The US has been holding secretive talks with a regime it accused of genocide",
+    "summary": "The United States has been holding secretive talks with a regime it has accused of genocide, and experts believe it could come down to rare earths.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-13/trump-quest-for-rare-earths-brings-us-closer-to-myanmar-regime/107376926",
+    "publishedAt": "2026-11-13T02:06:20.000Z"
+  },
+  {
+    "id": "68db755fc1321f4b",
+    "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+    "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
+    "publishedAt": "2026-11-13T02:01:35.000Z"
+  },
+  {
+    "id": "bf927b69c2a99b54",
+    "title": "Aukus deal is ‘living a lie’: Australia will never get nuclear submarines from US and both sides know it, Bob Carr says",
+    "summary": "Exclusive: Former Labor foreign affairs minister says $368bn deal has been reduced to a diplomatic joke.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/13/bob-carr-aukus-deal-living-a-lie-australia-us",
+    "publishedAt": "2026-11-13T02:00:05.000Z"
+  },
+  {
     "id": "b1f9bb88b0aa7e27",
     "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
     "summary": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
@@ -1215,6 +1242,15 @@
     "publishedAt": "2026-11-12T12:26:19.000Z"
   },
   {
+    "id": "dbc9f4798ef65682",
+    "title": "Burberry returns to profit as sales soar, from £85 socks to £9,000 coats",
+    "summary": "CEO says ‘democratic approach’ has helped brand outperform tough market, with big rises in China and US.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/12/burberry-profit-sales-socks-bags-china-us",
+    "publishedAt": "2026-11-12T12:22:41.000Z"
+  },
+  {
     "id": "ee5a0dee6d6a08f6",
     "title": "UK appoints climate security envoy as Thunberg criticizes COP31 leaders",
     "summary": "The United Kingdom has appointed a special envoy to address climate change security threats.",
@@ -1312,41 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/12/tim-westwood-in-court-to-deny-two-more-sexual-offence-charges",
     "publishedAt": "2026-11-12T11:36:13.000Z"
-  },
-  {
-    "id": "bd96511b9d962c6d",
-    "title": "Who is Scott Colom, Mississippi’s first Black senator in 150 years?",
-    "summary": "Mississippi is home to a large Black American population but no Black person has held a Senate seat since the 1800s.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss",
-    "publishedAt": "2026-11-12T11:31:16.000Z"
-  },
-  {
-    "id": "8ac10ccde25027d6",
-    "title": "Far-right UK activist pleads guilty to slashing migrant dinghy in the English Channel",
-    "summary": "A British anti-immigration activist has pleaded guilty to slashing a migrant dinghy in the English Channel while a rescuer was aboard.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/uk-activist-pleads-guilty-slashing-migrant-dinghy-english-138073480",
-    "publishedAt": "2026-11-12T11:30:33.000Z"
-  },
-  {
-    "id": "be8c73e4dd0cfc64",
-    "title": "Indonesia's vice president resigns as his eligibility and academic credentials are questioned",
-    "summary": "Indonesia’s vice president has resigned as questions grew over his eligibility for the office after recent court rulings disputed his educational credentials.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/indonesias-vice-president-resigns-eligibility-academic-credentials-questioned-138069107",
-    "publishedAt": "2026-11-12T11:30:27.000Z"
-  },
-  {
-    "id": "7cf80c14f947f13b",
-    "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
-    "summary": "Patients awaiting surgery die in attack on one of few remaining medical facilities in the strip, doctor says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
-    "publishedAt": "2026-11-12T11:24:09.000Z"
   }
 ]
