@@ -1,5 +1,95 @@
 [
   {
+    "id": "9024dba0337b63a3",
+    "title": "What we know about the global Microsoft outage",
+    "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+    "publishedAt": "2026-11-13T07:12:10.000Z"
+  },
+  {
+    "id": "f61b2554dc480a66",
+    "title": "National Trust takes back land for nature restoration",
+    "summary": "The trust hopes to restore the site, create new wildlife habitats and improve access to green space.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg257kl440o",
+    "publishedAt": "2026-11-13T07:04:09.000Z"
+  },
+  {
+    "id": "9ac67defc7ac3e27",
+    "title": "Jessica Pegula wins thrilling contest at WTA Finals, Coco Gauff eliminated",
+    "summary": "Pegula's win, in the final group one round-robin match, meant Gauff was knocked out of the season-ending championships.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/13/jessica-pegula-coco-gauff-united-states-wta-finals-tennis?traffic_source=rss",
+    "publishedAt": "2026-11-13T06:57:56.000Z"
+  },
+  {
+    "id": "0e8e9a997434f0d2",
+    "title": "US reports record number of deportations and arrests in 2026",
+    "summary": "ICE carried out 483,200 deportations in 2026. Democrats prepare to investigate tactics used.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/13/us-reports-record-number-of-deportations-and-arrests-in-2026?traffic_source=rss",
+    "publishedAt": "2026-11-13T06:46:35.000Z"
+  },
+  {
+    "id": "de06bec5ec8071c8",
+    "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
+    "summary": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America’s security was put at risk.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+    "publishedAt": "2026-11-13T06:34:59.000Z"
+  },
+  {
+    "id": "06c72c568b46af70",
+    "title": "Politicians back focus on cost of living",
+    "summary": "The Government of Jersey's key priorities are passed despite concerns over a lack of \"real action\".",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqj9mjl8jy4no",
+    "publishedAt": "2026-11-13T06:23:37.000Z"
+  },
+  {
+    "id": "1969c9a9a8b619ff",
+    "title": "My physical deformity left me feeling invisible - but one surgeon saw me",
+    "summary": "Charlie Clarke says the physical and emotional effects of pectus excavatum have been \"unimaginable\".",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6rmyy4ee1pwo",
+    "publishedAt": "2026-11-13T06:22:12.000Z"
+  },
+  {
+    "id": "8f97a2837828ebd5",
+    "title": "Cider makers fear future for orchards as costs grow",
+    "summary": "Producers claimed without more support, they could be forced to stop using British-grown apples.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5zjxjzx2dpwo",
+    "publishedAt": "2026-11-13T06:21:34.000Z"
+  },
+  {
+    "id": "f0ede4ad34ecf30a",
+    "title": "Victoria election 2026: Labor and Greens trade accusations of ‘dodgy deals’ as preference fight puts key seats at risk",
+    "summary": "Greens say they will not direct preferences to Labor in 15 seats after party’s ‘unforgivable’ decision earlier in week.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/13/victoria-state-election-2026-labor-greens-preference-deals-seats",
+    "publishedAt": "2026-11-13T06:16:06.000Z"
+  },
+  {
+    "id": "9e5faf68bb53df90",
+    "title": "Australia captain Pat Cummins denies involvement in ‘Sandpapergate’ scandal",
+    "summary": "Cummins says Khawaja was '100 percent wrong' in claiming the whole team knew about the 2018 ball-tampering scandal.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/13/pat-cummins-australia-usman-khawaja-sandpapergate-test-south-africa?traffic_source=rss",
+    "publishedAt": "2026-11-13T06:13:11.000Z"
+  },
+  {
     "id": "8420cc9107cad988",
     "title": "Children’s exposure to home wood-burning could be as significant as traffic exhaust, study suggests",
     "summary": "Research finds highest levels of cancer-related PAH pollutants in cities that have widespread wood heating.",
@@ -7,6 +97,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/environment/2026/nov/13/wood-burning-stoves-pollution-traffic-exhaust-children",
     "publishedAt": "2026-11-13T06:00:12.000Z"
+  },
+  {
+    "id": "4c884d032040bbad",
+    "title": "‘They’ve cut all entry-level jobs’: unlikely seaside town on frontline of AI threat",
+    "summary": "Bournemouth became a hub for thousands of finance jobs after the 1980s big bang, but new tech risks hurting Dorset’s economy.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/13/ai-uk-finance-jobs-bournemouth-tech",
+    "publishedAt": "2026-11-13T06:00:11.000Z"
   },
   {
     "id": "8e5d3db342861dde",
@@ -52,6 +151,24 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss",
     "publishedAt": "2026-11-13T05:23:31.000Z"
+  },
+  {
+    "id": "228a234c39e7a32a",
+    "title": "World is now in ‘age of electricity’, energy agency chief says at Cop31",
+    "summary": "Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledge.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
+    "publishedAt": "2026-11-13T05:00:11.000Z"
+  },
+  {
+    "id": "7cb30f02de5daa41",
+    "title": "‘I spend less, that’s all that matters’: life in the world’s most electrified countries",
+    "summary": "Owning an electric car, driving an electric motorbike taxi, riding scooters – we speak to people in Oslo, Kigali and Shanghai about their everyday routines.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/13/i-spend-less-thats-all-that-matters-life-in-the-worlds-most-electrified-countries",
+    "publishedAt": "2026-11-13T05:00:10.000Z"
   },
   {
     "id": "32abfda572c1f8c3",
@@ -115,6 +232,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/who-is-us-senator-chris-van-hollen?traffic_source=rss",
     "publishedAt": "2026-11-13T04:28:45.000Z"
+  },
+  {
+    "id": "2fe5b0ae2c844419",
+    "title": "A timeline of the affair scandal that sank Nvidia’s Jensen Huang",
+    "summary": "CEO behind the meteoric rise of Nvidia stepped down after it was revealed he had an affair with an alleged Chinese spy.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline",
+    "publishedAt": "2026-11-13T04:00:08.000Z"
   },
   {
     "id": "33966a2bed99015a",
@@ -241,6 +367,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
     "publishedAt": "2026-11-13T01:26:24.000Z"
+  },
+  {
+    "id": "20de2a73c46c325b",
+    "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+    "summary": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo",
+    "publishedAt": "2026-11-13T01:17:58.000Z"
   },
   {
     "id": "3d7481c8d46ef8ee",
@@ -628,6 +763,15 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage/107380958",
     "publishedAt": "2026-11-12T19:29:40.000Z"
+  },
+  {
+    "id": "b8ecd525451ef32f",
+    "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+    "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o",
+    "publishedAt": "2026-11-12T19:23:02.000Z"
   },
   {
     "id": "633d5f2300bbfb2e",
@@ -1204,149 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo?traffic_source=rss",
     "publishedAt": "2026-11-12T13:55:07.000Z"
-  },
-  {
-    "id": "ef285a6160b9ce10",
-    "title": "Yacht captain on reality show 'Below Deck' arrested in Turkey after teenager dies",
-    "summary": "A participant from the U.S. reality TV show “Below Deck” has been arrested in Turkey following a fight in Bodrum that left a 17-year-old dead.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/yacht-captain-reality-show-below-deck-arrested-turkey-138075373",
-    "publishedAt": "2026-11-12T13:52:05.000Z"
-  },
-  {
-    "id": "f96cdd998b68b517",
-    "title": "Poundland owner secures two extra weeks to ensure retail chain’s survival",
-    "summary": "US investment firm Gordon Brothers is ‘taking due care’ to consider if one of three bidders has enough funds.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/12/poundland-owner-secures-two-extra-weeks-ensure-retail-chains-survival",
-    "publishedAt": "2026-11-12T13:46:34.000Z"
-  },
-  {
-    "id": "fe2ac0750721ab87",
-    "title": "‘A second chance’: children guilty of serious offences will no longer have to declare criminal records",
-    "summary": "Government proposal aims to reduce number of children in custody in England and Wales and boost youth employment.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/12/children-criminal-records-england-wales-labour",
-    "publishedAt": "2026-11-12T13:44:20.000Z"
-  },
-  {
-    "id": "6a6e2a81e093441b",
-    "title": "First Thing: Mississippi turns blue as Scott Colom unseats Republican Senate incumbent",
-    "summary": "Defeating Cindy Hyde-Smith makes the 43-year-old district attorney the first Black Mississippi senator elected since Reconstruction. Plus, the South Korean scarf vendor who has gone viral for telling people not to buy.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/first-thing-mississippi-turns-blue-scott-colom-democrat-senate",
-    "publishedAt": "2026-11-12T13:38:57.000Z"
-  },
-  {
-    "id": "0bbe1a466ad895b9",
-    "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-    "summary": "The UK is seeing impressive growth, but will it last?",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo",
-    "publishedAt": "2026-11-12T13:27:09.000Z"
-  },
-  {
-    "id": "6681da1f1fc3f88e",
-    "title": "Father of South Carolina infant who survived being buried alive charged with attempted murder",
-    "summary": "Authorities say the boy was in the care of Michael Comer’s mother, but she left him with her son to run an errand.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/father-charged-bury-child-alive-south-carolina",
-    "publishedAt": "2026-11-12T13:24:40.000Z"
-  },
-  {
-    "id": "148b8dc9c2cade45",
-    "title": "More than 1,800 Italian schools targeted by new hoax bomb alerts",
-    "summary": "The latest warnings come amid rising concerns ⁠⁠⁠⁠⁠⁠⁠⁠in Europe about hybrid warfare threats.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts?traffic_source=rss",
-    "publishedAt": "2026-11-12T13:20:20.000Z"
-  },
-  {
-    "id": "048ae611e438b898",
-    "title": "Some under-25s should get fewer benefits, Milburn review to say",
-    "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o",
-    "publishedAt": "2026-11-12T13:16:59.000Z"
-  },
-  {
-    "id": "2d5446f7d51e047a",
-    "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
-    "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
-    "publishedAt": "2026-11-12T13:14:38.000Z"
-  },
-  {
-    "id": "a685f82f317483a5",
-    "title": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
-    "summary": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
-    "publishedAt": "2026-11-12T13:08:12.000Z"
-  },
-  {
-    "id": "efd84043b0c06504",
-    "title": "I'm burnt out and feel forgotten as a young carer",
-    "summary": "Min, 16, says people do not always understand her sacrifices and how valuable support is.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c68xzylnzjv9o",
-    "publishedAt": "2026-11-12T13:07:06.000Z"
-  },
-  {
-    "id": "890bcea5880dd8cf",
-    "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
-    "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo",
-    "publishedAt": "2026-11-12T13:02:37.000Z"
-  },
-  {
-    "id": "1ebbb847797b5ec1",
-    "title": "Rats, dengue and an all-day stench: can Panama City solve its waste crisis?",
-    "summary": "For decades, mountains of waste have blighted poor neighbourhoods on the edge of the city. But as the problems spread, a belated reckoning is under way.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/nov/12/rats-dengue-and-an-all-day-stench-can-panama-city-solve-its-waste-crisis",
-    "publishedAt": "2026-11-12T13:00:41.000Z"
-  },
-  {
-    "id": "59deeaae7ff4284e",
-    "title": "Spain approves housing measures after huge protests. Duration may depend on election",
-    "summary": "Spain’s interim lower house of parliament has ratified housing measures designed to limit evictions and real estate speculation.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/spain-approves-housing-measures-after-huge-protests-duration-138074427",
-    "publishedAt": "2026-11-12T12:58:26.000Z"
-  },
-  {
-    "id": "e88013ff850da643",
-    "title": "London court finds 2 Iranian men guilty of spying for Tehran",
-    "summary": "Two Iranian men have been found guilty of spying on journalists in London for Tehran.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/london-court-finds-2-iranian-men-guilty-spying-138075096",
-    "publishedAt": "2026-11-12T12:58:15.000Z"
-  },
-  {
-    "id": "f8f2656439251f94",
-    "title": "Dutch coalition near collapse as 1 party is upset over tax deal with opposition",
-    "summary": "Prime Minister Rob Jetten's Dutch coalition appears close to collapse.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/dutch-coalition-collapse-1-party-upset-tax-deal-138071590",
-    "publishedAt": "2026-11-12T12:58:14.000Z"
   }
 ]
