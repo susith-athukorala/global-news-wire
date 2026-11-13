@@ -1,5 +1,41 @@
 [
   {
+    "id": "d0cb8b1c2c9986ae",
+    "title": "International Criminal Court limits Afghanistan investigation to Taliban crimes",
+    "summary": "Judges at the International Criminal Court have ended the part of the global tribunal’s investigation into Afghanistan that could have involved U.S. military personnel.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/international-criminal-court-limits-afghanistan-investigation-taliban-crimes-138116142",
+    "publishedAt": "2026-11-13T17:48:41.000Z"
+  },
+  {
+    "id": "86aa12fd1f6bb71d",
+    "title": "UK police launch sex offense investigation into author, TV personality David Walliams",
+    "summary": "London police say they are investigating children’s author and TV personality David Walliams for serious sexual offenses after news outlets reported allegations of misconduct.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/uk-police-launch-sex-offense-investigation-childrens-author-138113000",
+    "publishedAt": "2026-11-13T17:48:07.000Z"
+  },
+  {
+    "id": "c57f6a323e1178af",
+    "title": "Hundreds of roaming cows wreak havoc in North Macedonian town, frustrating farmers",
+    "summary": "Residents of Kriva Palanka in North Macedonia are dealing with a herd of over 1,000 roaming cattle.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/hundreds-roaming-cows-wreak-havoc-north-macedonian-town-138113077",
+    "publishedAt": "2026-11-13T17:46:48.000Z"
+  },
+  {
+    "id": "224bb8b911d5035a",
+    "title": "No 10 considering expanding under-25s benefits overhaul to older age groups",
+    "summary": "Exclusive: Plans to replace key disability benefits for young people with work and training could affect adults.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/13/no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups",
+    "publishedAt": "2026-11-13T17:43:26.000Z"
+  },
+  {
     "id": "5388d13b7a3706f0",
     "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
     "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
@@ -1251,6 +1287,15 @@
     "publishedAt": "2026-11-13T03:17:27.000Z"
   },
   {
+    "id": "0daac84b88c62235",
+    "title": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
+    "summary": "Chief financial officer, reportedly disparaged by Huang during summer meeting, to take over on short-term basis.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+    "publishedAt": "2026-11-13T03:02:06.000Z"
+  },
+  {
     "id": "cc0b72bdf6cd7346",
     "title": "Spanish court suspends far-right group over alleged hate crimes",
     "summary": "Judge orders office shut and accounts blocked after 14 arrests and the seizure of more than 20 firearms.",
@@ -1303,50 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
     "publishedAt": "2026-11-13T02:33:28.000Z"
-  },
-  {
-    "id": "e2fa94c7ab3f28f1",
-    "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
-    "summary": "Maryland Democrat challenges party leader after midterms sweep, saying: ‘The American people called for change’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
-    "publishedAt": "2026-11-13T02:30:07.000Z"
-  },
-  {
-    "id": "0e96d64327ba73e5",
-    "title": "The US has been holding secretive talks with a regime it accused of genocide",
-    "summary": "The United States has been holding secretive talks with a regime it has accused of genocide, and experts believe it could come down to rare earths.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-13/trump-quest-for-rare-earths-brings-us-closer-to-myanmar-regime/107376926",
-    "publishedAt": "2026-11-13T02:06:20.000Z"
-  },
-  {
-    "id": "68db755fc1321f4b",
-    "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-    "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
-    "publishedAt": "2026-11-13T02:01:35.000Z"
-  },
-  {
-    "id": "bf927b69c2a99b54",
-    "title": "Aukus deal is ‘living a lie’: Australia will never get nuclear submarines from US and both sides know it, Bob Carr says",
-    "summary": "Exclusive: Former Labor foreign affairs minister says $368bn deal has been reduced to a diplomatic joke.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/13/bob-carr-aukus-deal-living-a-lie-australia-us",
-    "publishedAt": "2026-11-13T02:00:05.000Z"
-  },
-  {
-    "id": "b1f9bb88b0aa7e27",
-    "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
-    "summary": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
-    "publishedAt": "2026-11-13T01:44:55.000Z"
   }
 ]
