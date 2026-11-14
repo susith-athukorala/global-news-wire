@@ -1,5 +1,14 @@
 [
   {
+    "id": "4b1ed9147537f309",
+    "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
+    "summary": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
+    "publishedAt": "2026-11-14T02:49:59.000Z"
+  },
+  {
     "id": "a0f2c4fb94af7e3c",
     "title": "US-bound flights out of Australia grounded as telecommunications outage affects American travel",
     "summary": "Sydney and Melbourne airports say grounding of planes from US airports led to delays for some flights.",
@@ -882,6 +891,15 @@
     "publishedAt": "2026-11-13T13:44:27.000Z"
   },
   {
+    "id": "d527a0148616a0f2",
+    "title": "NHS, schools and police forces hit by Microsoft outage",
+    "summary": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o",
+    "publishedAt": "2026-11-13T13:41:25.000Z"
+  },
+  {
     "id": "cc7b509cacc59edc",
     "title": "Wife of jailed ex-leader of Northern Ireland's largest pro-UK party put on sex offenders register",
     "summary": "Eleanor Donaldson, the wife of former Northern Ireland unionist leader Jeffrey Donaldson, has been placed on the sex offenders register for five years.",
@@ -1330,23 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/irans-revolutionary-guard-destroyed-us-radar-bahrain-mideast-138102943",
     "publishedAt": "2026-11-13T09:44:52.000Z"
-  },
-  {
-    "id": "5414e821b36ed8a1",
-    "title": "Microsoft investigating widespread outage that took email and other apps offline",
-    "summary": "NPR's A Martinez speaks with Andrew Couts of WIRED about a widespread outage of Microsoft products that has disrupted the life and work of thousands of people.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6039350/microsoft-investigating-widespread-outage-that-took-email-and-other-apps-offline",
-    "publishedAt": "2026-11-13T09:43:44.000Z"
-  },
-  {
-    "id": "7f164ba0a7d09656",
-    "title": "With every rainfall, Gaza risks losing access to power and healthcare",
-    "summary": "Heavy rains flood shelters, damage solar power systems and threat essential healthcare services.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
-    "publishedAt": "2026-11-13T09:43:30.000Z"
   }
 ]
