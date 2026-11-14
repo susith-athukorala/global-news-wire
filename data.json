@@ -1,5 +1,41 @@
 [
   {
+    "id": "1295f8e2f3d3b826",
+    "title": "More than 100,000 rally across France in new Yellow Vest protests",
+    "summary": "Protesters chanted against declining affordability, the Macron government, police violence and poor school conditions.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
+    "publishedAt": "2026-11-14T19:46:24.000Z"
+  },
+  {
+    "id": "993e5ecf4c66887c",
+    "title": "Hundreds of men lead protest to urge other men to help reduce violence against women",
+    "summary": "Hundreds of men have led a demonstration in the Swiss capital to denounce violence against women.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/hundreds-men-lead-protest-urge-men-reduce-violence-138146280",
+    "publishedAt": "2026-11-14T19:35:19.000Z"
+  },
+  {
+    "id": "a09ae30406ac1a41",
+    "title": "Tens of thousands march in latest Portugal housing protests",
+    "summary": "These were the biggest protests against rising housing costs in Portugal since the social movement began weeks ago.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
+    "publishedAt": "2026-11-14T19:27:55.000Z"
+  },
+  {
+    "id": "ac7790a1c5bedd5b",
+    "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
+    "summary": "In Santa Cruz de Succhabamba, the pope told people not to respond to injustice with brutality.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss",
+    "publishedAt": "2026-11-14T19:20:11.000Z"
+  },
+  {
     "id": "23332ec8604df6cc",
     "title": "Methane blast kills 2 at Colombian mine, search continues for 2 missing",
     "summary": "A methane explosion at a mine in central Colombia killed two workers and left two others missing, mining officials said.",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
     "publishedAt": "2026-11-13T20:12:02.000Z"
-  },
-  {
-    "id": "039e29e21e9d7c7c",
-    "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
-    "summary": "Maryland senator’s bid against Chuck Schumer for leadership could decide direction of the Democratic party.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
-    "publishedAt": "2026-11-13T20:08:00.000Z"
-  },
-  {
-    "id": "9884e09e3f3746b0",
-    "title": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race",
-    "summary": "US congresswoman, who has been caught up in repeated controversies, loses re-election bid to Democrat Eileen Laubacher.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/13/trump-maga-lauren-boebert-colorado",
-    "publishedAt": "2026-11-13T20:07:07.000Z"
-  },
-  {
-    "id": "e210b3aa241a91ec",
-    "title": "Tanker collides with cruise ship on Mississippi River in New Orleans",
-    "summary": "A large emergency response is underway to rescue people from the water, with overnight cruise ship on its side.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
-    "publishedAt": "2026-11-13T20:04:03.000Z"
-  },
-  {
-    "id": "5659d244156ae8cf",
-    "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-    "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
-    "publishedAt": "2026-11-13T19:53:57.000Z"
   }
 ]
