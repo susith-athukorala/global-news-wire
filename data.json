@@ -1,5 +1,68 @@
 [
   {
+    "id": "7d4620104e59f2ab",
+    "title": "Extreme weather leaves gardeners hedging their bets",
+    "summary": "Gardeners across Sussex are changing their planting strategies after this year's unprecedented heat.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo",
+    "publishedAt": "2026-11-14T07:12:14.000Z"
+  },
+  {
+    "id": "6fcccadeafe19b71",
+    "title": "What do Christmas market traders say about rising prices?",
+    "summary": "From £8 bratwursts to £11 Yorkshire pudding wraps, why is the cost of the markets rising year on year?",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c95y152k8erpo",
+    "publishedAt": "2026-11-14T07:11:26.000Z"
+  },
+  {
+    "id": "1ee028689038b1ee",
+    "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+    "summary": "Eurotunnel owner Getlink wants to replicate ‘airport experience’ at Folkestone and Calais, without making people get out of cars.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+    "publishedAt": "2026-11-14T07:00:38.000Z"
+  },
+  {
+    "id": "665509d3e15aef1a",
+    "title": "Bristol aims to become UK’s first ‘wetland city’ and reduce flood risk",
+    "summary": "Five-year project will create wildlife corridors by building wetlands and increase access to green and blue spaces.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/14/bristol-first-uk-wetland-city-flood",
+    "publishedAt": "2026-11-14T07:00:37.000Z"
+  },
+  {
+    "id": "e8661a09b9ff3356",
+    "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
+    "summary": "ASEAN summit comes as US president embarks on Asia trip that will see him meet China's Xi.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss",
+    "publishedAt": "2026-11-14T06:48:14.000Z"
+  },
+  {
+    "id": "1ac5fb9f1c434383",
+    "title": "'I cycled across America in memory of my wife - I know she's proud of me'",
+    "summary": "Declan Faulkner cycled 3,800 miles from Portland, Oregon, to Portland, Maine, as a tribute to his late wife Patrina.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm20v65gye9zo",
+    "publishedAt": "2026-11-14T06:39:04.000Z"
+  },
+  {
+    "id": "b7652ca30e88e729",
+    "title": "Salah breaks Egypt scoring record, Tunisia lose to Libya in AFCON qualifier",
+    "summary": "Salah scored twice to take his international tally to 70 ​and surpass former captain Hossam Hassan’s record.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/14/mohamed-salah-egypt-goals-record-africa-cup-of-nations-afcon-2027-qualifiers?traffic_source=rss",
+    "publishedAt": "2026-11-14T06:33:57.000Z"
+  },
+  {
     "id": "3db0ea74edb0d937",
     "title": "Food bank sees donations drop by 10% each year",
     "summary": "Staff fear the government stockpiling advice will have an impact on donations as Christmas looms.",
@@ -702,6 +765,15 @@
     "publishedAt": "2026-11-13T17:38:19.000Z"
   },
   {
+    "id": "369f0e985a26421b",
+    "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+    "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro",
+    "publishedAt": "2026-11-13T17:34:58.000Z"
+  },
+  {
     "id": "ee127c5fac608d13",
     "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
     "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high.",
@@ -754,6 +826,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
     "publishedAt": "2026-11-13T16:44:56.000Z"
+  },
+  {
+    "id": "ed655a67d77c8ca2",
+    "title": "A global Microsoft 365 outage has hit millions – what happened and when will it be fixed?",
+    "summary": "Problem affects businesses, government agencies and even tech firm’s own employees.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/13/global-microsoft-outage-what-happened-and-why",
+    "publishedAt": "2026-11-13T16:44:35.000Z"
   },
   {
     "id": "d52444b99fb9fa3e",
@@ -1267,86 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
     "publishedAt": "2026-11-13T11:59:34.000Z"
-  },
-  {
-    "id": "cad39cffc978a70b",
-    "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
-    "summary": "IAEA says it cannot verify whether an underground Iranian enrichment plant contains nuclear material.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss",
-    "publishedAt": "2026-11-13T11:51:57.000Z"
-  },
-  {
-    "id": "5c38415ce1076192",
-    "title": "Colette Kress becomes Nvidia's interim CEO after Jensen Huang resigns",
-    "summary": "Nvidia's CEO Jensen Huang is out, and the company's chief financial officer Colette Kress is taking over as interim CEO. She'll have to guide the company through an exceptionally challenging time.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6038889/colette-kress-becomes-nvidias-interim-ceo-after-jensen-huang-resigns",
-    "publishedAt": "2026-11-13T11:47:38.000Z"
-  },
-  {
-    "id": "ecd2f1af181961f0",
-    "title": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
-    "summary": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
-    "publishedAt": "2026-11-13T11:47:00.000Z"
-  },
-  {
-    "id": "befc332a288a1265",
-    "title": "Jensen Huang is out. An AI expert explains what his exit means for the AI boom",
-    "summary": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-jensen-huang-exit-investigation-lutnick-ai-boom",
-    "publishedAt": "2026-11-13T11:47:00.000Z"
-  },
-  {
-    "id": "a1c572184d9929db",
-    "title": "Jensen Huang is out. An AI expert explains what his exit could mean for the AI boom",
-    "summary": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-jensen-huang-exit-scandal-colette-kress-ai-future",
-    "publishedAt": "2026-11-13T11:47:00.000Z"
-  },
-  {
-    "id": "4089e8cfbf9a5274",
-    "title": "Nvidia's CEO resigns after alleged spy scandal. What's next for the company?",
-    "summary": "NPR's Michel Martin speaks with NYU professor emeritus and AI writer Gary Marcus about the fallout of the Nvidia scandal.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidias-ceo-resigns-after-alleged-spy-scandal-whats-next-for-the-company",
-    "publishedAt": "2026-11-13T11:47:00.000Z"
-  },
-  {
-    "id": "cb1a9fd9279df767",
-    "title": "Rosalía scoops historic third best album award at Latin Grammys",
-    "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o",
-    "publishedAt": "2026-11-13T11:38:54.000Z"
-  },
-  {
-    "id": "69564038c20d3cab",
-    "title": "Nigerian university in mourning after four students die at post-exam party",
-    "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o",
-    "publishedAt": "2026-11-13T11:37:08.000Z"
-  },
-  {
-    "id": "20fe8e3b7cd05c71",
-    "title": "What’s behind Australia’s surge in teen extremism?",
-    "summary": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
-    "publishedAt": "2026-11-13T11:33:57.000Z"
   }
 ]
