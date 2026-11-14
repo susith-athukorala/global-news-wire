@@ -1,5 +1,14 @@
 [
   {
+    "id": "94a11513a504c7c7",
+    "title": "Immersive show brings Kyffin Williams’ rugged Welsh landscapes to life",
+    "summary": "Paintings by one of country’s most important artists have been animated and set to music at National Library of Wales.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/artanddesign/2026/nov/14/sir-kyffin-williams-artist-immersive-exhibition-national-library-wales-aberystwyth",
+    "publishedAt": "2026-11-14T09:00:39.000Z"
+  },
+  {
     "id": "7fc09f81a94f4d0b",
     "title": "Football kit giveaway aims to boost participation",
     "summary": "Millie Bright helps hand out free kit to young girls to help them keep playing in spite of costs.",
@@ -7,6 +16,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ck20v651473qo",
     "publishedAt": "2026-11-14T08:13:40.000Z"
+  },
+  {
+    "id": "e9a76b1fa20acaa8",
+    "title": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
+    "summary": "Former opener Warner was banned for a year for his involvement in the 2018 'Sandpapergate' incident in South Africa.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss",
+    "publishedAt": "2026-11-14T08:10:14.000Z"
   },
   {
     "id": "e6c82f337c451ea6",
@@ -151,6 +169,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/14/could-one-daily-pill-narrow-the-diabetes-treatment-gap-in-the-global-south?traffic_source=rss",
     "publishedAt": "2026-11-14T06:14:09.000Z"
+  },
+  {
+    "id": "653d412801c8ee0f",
+    "title": "‘An environmental and welfare disaster’: British salmon loses its organic status",
+    "summary": "This week the Soil Association withdrew certification from organic salmon after 20 years. What went wrong?",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/14/salmon-organic-british-farmed-environmental-welfare",
+    "publishedAt": "2026-11-14T06:00:37.000Z"
   },
   {
     "id": "25b6951773cfaf62",
@@ -693,6 +720,15 @@
     "publishedAt": "2026-11-13T19:02:04.000Z"
   },
   {
+    "id": "33dd2a3d8cb3f269",
+    "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+    "summary": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo",
+    "publishedAt": "2026-11-13T19:01:36.000Z"
+  },
+  {
     "id": "63e3f02713aeecb9",
     "title": "Families clear homes of David Walliams books after sexual offence allegations",
     "summary": "Parents take action while independent bookshops say they had already stopped stocking his titles.",
@@ -763,6 +799,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
     "publishedAt": "2026-11-13T18:04:22.000Z"
+  },
+  {
+    "id": "2d4206f233c24427",
+    "title": "Estonia bans Russian athletes as backlash intensifies",
+    "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o",
+    "publishedAt": "2026-11-13T17:54:33.000Z"
   },
   {
     "id": "3c238cabbefdb898",
@@ -1303,50 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss",
     "publishedAt": "2026-11-13T12:39:34.000Z"
-  },
-  {
-    "id": "b8d2966355db729c",
-    "title": "New York is running out of room for its waste even with Statue of Liberty sized landfill",
-    "summary": "One company is proposing elongating the life of the dump, pungent smell and all, several more decades.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/13/new-york-seneca-meadows-landfill",
-    "publishedAt": "2026-11-13T12:30:18.000Z"
-  },
-  {
-    "id": "236989223c0875e9",
-    "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
-    "summary": "It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko",
-    "publishedAt": "2026-11-13T12:28:28.000Z"
-  },
-  {
-    "id": "a1b8915e5269a783",
-    "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-    "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o",
-    "publishedAt": "2026-11-13T12:22:30.000Z"
-  },
-  {
-    "id": "c7c87e7b2ab69fab",
-    "title": "First Thing: Global Microsoft outage chaos as tech firm says there are ‘signs of stabilisation’",
-    "summary": "Users of Microsoft Teams and Outlook in businesses and public services reporting problems. Plus would you like to spend time as a helpful furry little post delivery service?",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/13/first-thing-global-microsoft-outage-chaos-signs-of-stabilisation",
-    "publishedAt": "2026-11-13T12:16:44.000Z"
-  },
-  {
-    "id": "bdd0e45929053361",
-    "title": "Iran says it destroyed US military radar in Bahrain in retaliatory strike",
-    "summary": "First direct attack on US military installations for months was in response to US airstrike on communications tower.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
-    "publishedAt": "2026-11-13T12:07:13.000Z"
   }
 ]
