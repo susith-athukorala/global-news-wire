@@ -1,5 +1,104 @@
 [
   {
+    "id": "ed56c115d079c223",
+    "title": "How to spot November's planetary parade in the pre-dawn sky",
+    "summary": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo",
+    "publishedAt": "2026-11-14T11:07:51.000Z"
+  },
+  {
+    "id": "56cd3b0454c303d7",
+    "title": "Ukraine, Russia race to build military satellite networks as war rages on",
+    "summary": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
+    "publishedAt": "2026-11-14T11:00:39.000Z"
+  },
+  {
+    "id": "b67c4d635d9d2a1f",
+    "title": "Microsoft says services fully restored after global outage",
+    "summary": "Tech company says services now restored to all customers and regions hit by one of worst IT failures in years.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+    "publishedAt": "2026-11-14T10:52:31.000Z"
+  },
+  {
+    "id": "c8e675553281d032",
+    "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+    "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo",
+    "publishedAt": "2026-11-14T10:42:20.000Z"
+  },
+  {
+    "id": "78226adaaadb664a",
+    "title": "Judo star Teddy Riner is taking on what may be his toughest battle in the French presidential race",
+    "summary": "",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/judo-star-teddy-riner-taking-toughest-battle-french-138136080",
+    "publishedAt": "2026-11-14T10:31:42.000Z"
+  },
+  {
+    "id": "87d75b8efa23e76d",
+    "title": "Southeast Asian leaders will call for peaceful resolutions of conflicts. Trump will join final talks",
+    "summary": "Southeast Asian leaders will gather in the Philippine capital this weekend for the annual ASEAN summit that will focus on global conflicts.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/southeast-asian-leaders-call-peaceful-resolutions-conflicts-trump-138136538",
+    "publishedAt": "2026-11-14T10:31:31.000Z"
+  },
+  {
+    "id": "b572258d92de8cc3",
+    "title": "Pope's visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru",
+    "summary": "Pope Leo XIV is putting the spotlight on Afro-Peruvians during a visit to a hub of their community.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/popes-visit-hub-afro-peruvian-community-casts-spotlight-138137149",
+    "publishedAt": "2026-11-14T10:31:08.000Z"
+  },
+  {
+    "id": "aad3d60bc47e7730",
+    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+    "publishedAt": "2026-11-14T10:30:38.000Z"
+  },
+  {
+    "id": "69645c65bbf055b6",
+    "title": "South Sudan postpones first-ever national elections until February",
+    "summary": "The vote, first expected in 2022, will now be held on February 11, according to the country's election commission.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
+    "publishedAt": "2026-11-14T10:30:32.000Z"
+  },
+  {
+    "id": "ecf739fac45ed1d7",
+    "title": "Noel Fielding ‘horrified and deeply disturbed’ by Russell Brand’s crimes",
+    "summary": "Comedian regrets ‘inappropriate’ jokes he made with Brand during work pair did together in the 2000s.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/2026/nov/14/noel-fielding-horrified-deeply-disturbed-russell-brand-crimes",
+    "publishedAt": "2026-11-14T10:14:07.000Z"
+  },
+  {
+    "id": "df12b63379bfd8a7",
+    "title": "Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina",
+    "summary": "World number two Sabalenka's season came to a disappointing end after she failed to reach the WTA Finals semifinals.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss",
+    "publishedAt": "2026-11-14T10:03:12.000Z"
+  },
+  {
     "id": "3490e630f22c2f51",
     "title": "Guardian to follow lives of eight young people in their search for work",
     "summary": "How long will it take? What challenges will they face?",
@@ -7,6 +106,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/14/guardian-young-people-search-for-work",
     "publishedAt": "2026-11-14T10:00:42.000Z"
+  },
+  {
+    "id": "85f5bb395ee1edbc",
+    "title": "‘Still standing’: king jokes as he appears on Elton John’s Rocket Hour",
+    "summary": "Charles marks 78th birthday and 50th anniversary of King’s Trust charity with a playlist for special episode of podcast.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/14/king-charles-elton-john-rocket-hour",
+    "publishedAt": "2026-11-14T10:00:41.000Z"
   },
   {
     "id": "59a903ad25c89214",
@@ -1240,113 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
     "publishedAt": "2026-11-13T14:16:20.000Z"
-  },
-  {
-    "id": "352492b56adad7a9",
-    "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
-    "summary": "Meanwhile, Russia appears to suggest it has control of half of unoccupied Donbas.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss",
-    "publishedAt": "2026-11-13T14:15:52.000Z"
-  },
-  {
-    "id": "c22c9f451b1ae85d",
-    "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
-    "summary": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European security.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
-    "publishedAt": "2026-11-13T14:14:44.000Z"
-  },
-  {
-    "id": "5a4acef3f519047f",
-    "title": "‘Incredibly unusual’ bird migrating from Siberia found in Cumbria – killed by cat",
-    "summary": "Siberian rubythroat was thousands of miles off course from its route to winter in south or south-east Asia.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/13/siberian-rubythroat-bird-migrating-siberia-cumbria-killed-by-cat",
-    "publishedAt": "2026-11-13T14:00:20.000Z"
-  },
-  {
-    "id": "bdd0e45929053361",
-    "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
-    "summary": "First direct attack on US military installations for months was in response to US airstrike on communications tower.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
-    "publishedAt": "2026-11-13T13:52:11.000Z"
-  },
-  {
-    "id": "3e97a48ed411dd4b",
-    "title": "‘So lovely’: Stevie Wonder surprises Stalybridge restaurant with late-night visit and £1,000 tip",
-    "summary": "Singer, 76, was in Manchester with his band for penultimate UK show of his Songs in the Key of Life anniversary tour.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/13/stevie-wonder-stalybridge-restaurant-cafe-continental-1000-tip",
-    "publishedAt": "2026-11-13T13:48:13.000Z"
-  },
-  {
-    "id": "1ac31efa6bfd9806",
-    "title": "Ukraine fires nearly 1,200 drones at Russia as US-led talks consider Europe security",
-    "summary": "Ukraine has launched nearly 1,200 drones at Russian targets in one of its largest aerial attacks since the invasion began almost five years ago.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ukraine-fires-1200-drones-russia-us-led-talks-138104516",
-    "publishedAt": "2026-11-13T13:44:27.000Z"
-  },
-  {
-    "id": "d527a0148616a0f2",
-    "title": "NHS, schools and police forces hit by Microsoft outage",
-    "summary": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o",
-    "publishedAt": "2026-11-13T13:41:25.000Z"
-  },
-  {
-    "id": "cc7b509cacc59edc",
-    "title": "Wife of jailed ex-leader of Northern Ireland's largest pro-UK party put on sex offenders register",
-    "summary": "Eleanor Donaldson, the wife of former Northern Ireland unionist leader Jeffrey Donaldson, has been placed on the sex offenders register for five years.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/wife-jailed-leader-northern-irelands-largest-pro-uk-138107487",
-    "publishedAt": "2026-11-13T13:39:14.000Z"
-  },
-  {
-    "id": "e9ff6c283d52f008",
-    "title": "Bus and truck collision in India's Assam state kills at least 24 people",
-    "summary": "A bus has collided with a container truck in Assam, India, killing at least 24 people and injuring 11 others.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/bus-truck-collision-indias-assam-state-kills-24-138107488",
-    "publishedAt": "2026-11-13T13:39:08.000Z"
-  },
-  {
-    "id": "093a20b22b8acf62",
-    "title": "UK’s biggest insurer hit by rise in subsidence claims after record hot summer",
-    "summary": "Increase reported by Aviva after Hastings Direct said claims were up 140% in August and Axa said it had been a ‘surge year’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/13/uk-insurer-rise-in-subsidence-claims-aviva-hastings-direct-axa",
-    "publishedAt": "2026-11-13T13:37:31.000Z"
-  },
-  {
-    "id": "b130b4378e249a0b",
-    "title": "Nvidia scandal: What’s next for the US tech company?",
-    "summary": "What happens next at one of the world's most valuable companies will have repercussions far beyond Silicon Valley.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company?traffic_source=rss",
-    "publishedAt": "2026-11-13T13:36:19.000Z"
-  },
-  {
-    "id": "4ba6ba3a8b61b1ab",
-    "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
-    "summary": "Supplies outstripped demand by almost 2m barrels a day in October as market shows ‘tentative signs of rebalancing’",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea",
-    "publishedAt": "2026-11-13T13:35:45.000Z"
   }
 ]
