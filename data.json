@@ -1,5 +1,41 @@
 [
   {
+    "id": "f4962b7c6f76d1ed",
+    "title": "Trump, Xi and Putin to hold first three-way summit in China",
+    "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+    "publishedAt": "2026-11-14T04:55:58.000Z"
+  },
+  {
+    "id": "c68c1f7b14db7c1e",
+    "title": "Lagos Art Week confronts history, identity and belonging",
+    "summary": "ART X Lagos celebrates Africa's heritage and contemporary creativity.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/lagos-art-week-confronts-history-identity-and-belonging?traffic_source=rss",
+    "publishedAt": "2026-11-14T04:46:01.000Z"
+  },
+  {
+    "id": "0ad18a04d3b61954",
+    "title": "German spies granted sweeping new powers",
+    "summary": "Parliament passes legislation months after a thwarted attack at Leipzig-Halle airport, which Berlin linked to Russia.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
+    "publishedAt": "2026-11-14T04:41:11.000Z"
+  },
+  {
+    "id": "e4ebfb404985a366",
+    "title": "ICC stops probe into alleged crimes by US troops in Afghanistan",
+    "summary": "The decision follows feuds between the United States and the Hague-based International Criminal Court.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan?traffic_source=rss",
+    "publishedAt": "2026-11-14T04:03:49.000Z"
+  },
+  {
     "id": "d0e0a87975156518",
     "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
     "summary": "The FAA says nationwide ground stop disrupting thousands of US flights was caused by a telecommunications outage.",
@@ -1312,41 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/13/nx-s1-6032717/diabetes-insurance-insulin-price",
     "publishedAt": "2026-11-13T10:00:00.000Z"
-  },
-  {
-    "id": "8e5bdb4fe467df5c",
-    "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
-    "summary": "NHS experiencing ‘serious’ and widespread disruption and people are told of possible delays in receiving prescriptions.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
-    "publishedAt": "2026-11-13T09:59:28.000Z"
-  },
-  {
-    "id": "c4f8f30bc96d1982",
-    "title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice",
-    "summary": "European nations are looking for an envoy to represent them in talks to end the Russia-Ukraine war.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/europe-pushes-seat-ukraine-peace-talks-lacks-unified-138101804",
-    "publishedAt": "2026-11-13T09:55:08.000Z"
-  },
-  {
-    "id": "ff7f4af44d89fdc1",
-    "title": "Kenyans brace for heavy El Niño rains as flood survivors recall their losses",
-    "summary": "Kenya is expected to receive heavier-than-usual rainfall during the October–December short-rains season, influenced by El Ni&ntilde;o conditions, according to the Kenya Meteorological Service Authority.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/kenyans-brace-heavy-el-nio-rains-flood-survivors-138101712",
-    "publishedAt": "2026-11-13T09:46:01.000Z"
-  },
-  {
-    "id": "f6ad43a2ffd88602",
-    "title": "Pakistan's army says it killed 74 militants in raids on their hideouts",
-    "summary": "Pakistani security forces have killed 74 militants in raids on hideouts in regions bordering Afghanistan over the past 10 days, according to the military.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pakistans-army-killed-74-militants-raids-hideouts-138102279",
-    "publishedAt": "2026-11-13T09:45:06.000Z"
   }
 ]
