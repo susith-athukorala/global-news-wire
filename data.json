@@ -1,5 +1,32 @@
 [
   {
+    "id": "23332ec8604df6cc",
+    "title": "Methane blast kills 2 at Colombian mine, search continues for 2 missing",
+    "summary": "A methane explosion at a mine in central Colombia killed two workers and left two others missing, mining officials said.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/methane-blast-kills-2-colombian-mine-search-continues-138145217",
+    "publishedAt": "2026-11-14T19:12:37.000Z"
+  },
+  {
+    "id": "fd55fccf34a472d6",
+    "title": "A bomb rips through a Damascus suburb killing 2 including a child",
+    "summary": "Syrian state TV and the Interior Ministry say an explosive device placed inside a car in a suburb of the Syrian capital has exploded, killing two people and wounding at least one.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/bomb-rips-damascus-suburb-killing-2-including-child-138145860",
+    "publishedAt": "2026-11-14T19:12:03.000Z"
+  },
+  {
+    "id": "405010eb8fd21768",
+    "title": "At least 6 killed and 11 injured when bus overturns in southwestern Colombia",
+    "summary": "Police report that at least six people are dead and 11 injured after a bus overturned on a highway in southwestern Colombia.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/6-killed-11-injured-bus-overturns-southwestern-colombia-138145996",
+    "publishedAt": "2026-11-14T19:11:55.000Z"
+  },
+  {
     "id": "46c51305b46e9fc9",
     "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
     "summary": "Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'.",
@@ -1321,32 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/gold-smuggled-war-zones-entered-uae-despite-new-138117227",
     "publishedAt": "2026-11-13T19:41:31.000Z"
-  },
-  {
-    "id": "93f066b538112254",
-    "title": "Walliams allegations prompt calls for staggered age of consent at 16 and 17",
-    "summary": "Barrister say law does not adequately recognise power imbalance between young people and much older adults.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/law/2026/nov/13/staggered-age-of-consent-16-17-law",
-    "publishedAt": "2026-11-13T19:23:07.000Z"
-  },
-  {
-    "id": "b41f2434d92379d3",
-    "title": "Trump bought Nvidia stock as he helped chipmaker with change to export rule",
-    "summary": "President purchased up to $5m of stock before revoking Biden-era rule that limited Nvidia’s ability to sell to China.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
-    "publishedAt": "2026-11-13T19:09:05.000Z"
-  },
-  {
-    "id": "adb8db7024412cdc",
-    "title": "Democratic Senate leader Schumer set to face leadership challenge",
-    "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
-    "publishedAt": "2026-11-13T19:03:10.000Z"
   }
 ]
