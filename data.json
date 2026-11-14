@@ -1,5 +1,59 @@
 [
   {
+    "id": "7fc09f81a94f4d0b",
+    "title": "Football kit giveaway aims to boost participation",
+    "summary": "Millie Bright helps hand out free kit to young girls to help them keep playing in spite of costs.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck20v651473qo",
+    "publishedAt": "2026-11-14T08:13:40.000Z"
+  },
+  {
+    "id": "e6c82f337c451ea6",
+    "title": "Pacers hold off Knicks in NBA Cup thriller, Spurs rout Warriors",
+    "summary": "The New York Knicks look unlikely to advance to the NBA Cup knockout rounds after falling to the Indiana Pacers.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/14/nba-cup-basketball-pacers-knicks-spurs-warriors?traffic_source=rss",
+    "publishedAt": "2026-11-14T08:01:23.000Z"
+  },
+  {
+    "id": "8142a71bad5ab790",
+    "title": "Hundreds of children in England prescribed weight-loss jabs, figures show",
+    "summary": "Exclusive: investigation finds prescriptions for children under 12, as experts stress need for specialist supervision and long-term monitoring.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs",
+    "publishedAt": "2026-11-14T08:00:39.000Z"
+  },
+  {
+    "id": "4c532d85e8847313",
+    "title": "Tout offers £1m of U2 tickets on StubHub, raising questions about ‘bot’ clampdown",
+    "summary": "Artists and industry figures call for culture secretary to ‘shut down the touts’ by outlawing resale for profit.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/14/u2-tickets-stubhub-bot-culture-secretary-resale",
+    "publishedAt": "2026-11-14T08:00:39.000Z"
+  },
+  {
+    "id": "1ff1864b46f8c461",
+    "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+    "summary": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
+    "publishedAt": "2026-11-14T07:46:36.000Z"
+  },
+  {
+    "id": "5288ba134666749c",
+    "title": "Reijnders’ hat-trick fires Dutch to 7-0 rout of Greece, Germany beat Serbia",
+    "summary": "Netherlands' 7-0 annihilation of Greece means the Germans will likely need to win on Monday to reach the quarterfinals.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/14/reijnders-hattrick-netherlands-germany-uefa-nations-league-football?traffic_source=rss",
+    "publishedAt": "2026-11-14T07:19:20.000Z"
+  },
+  {
     "id": "7d4620104e59f2ab",
     "title": "Extreme weather leaves gardeners hedging their bets",
     "summary": "Gardeners across Sussex are changing their planting strategies after this year's unprecedented heat.",
@@ -1294,59 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
     "publishedAt": "2026-11-13T12:07:13.000Z"
-  },
-  {
-    "id": "61212767e0948e38",
-    "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
-    "summary": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
-    "publishedAt": "2026-11-13T12:07:12.000Z"
-  },
-  {
-    "id": "97fc290349a0f8c3",
-    "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
-    "summary": "Finland says Ukraine struck a Russian warship near its coast as Kyiv and Moscow held US-brokered talks in Abu Dhabi.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss",
-    "publishedAt": "2026-11-13T12:06:56.000Z"
-  },
-  {
-    "id": "97507d872f87a619",
-    "title": "Happy World Kindness Day Check out our kind photos of kindness to humans -- and cats",
-    "summary": "Friday, November 13 is World Kindness Day. Your mission: Do something kind.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
-    "publishedAt": "2026-11-13T12:06:28.000Z"
-  },
-  {
-    "id": "1df1c4520b1a2178",
-    "title": "Summer heatwave put bin crews lives at risk, says council worker",
-    "summary": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo",
-    "publishedAt": "2026-11-13T12:03:04.000Z"
-  },
-  {
-    "id": "9938663f94fea7eb",
-    "title": "US university students tell surveillance cameras to Flock off",
-    "summary": "The privacy issues over the company’s surveillance cameras have caused protests in schools all over the country.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
-    "publishedAt": "2026-11-13T12:00:18.000Z"
-  },
-  {
-    "id": "9b6fb02f02430123",
-    "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
-    "summary": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
-    "publishedAt": "2026-11-13T11:59:34.000Z"
   }
 ]
