@@ -1,5 +1,86 @@
 [
   {
+    "id": "60ee7f0602dabbf2",
+    "title": "Trump ‘whiplash’ on deportations putting Afghans in turmoil: ‘People already survived a war’",
+    "summary": "Members of Congress and advocates warn that returning people to their home countries could be a death sentence.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration",
+    "publishedAt": "2026-11-14T13:00:47.000Z"
+  },
+  {
+    "id": "a3aef7752ade1914",
+    "title": "Underwater salt mine closure in Ohio raises safety and supply concerns for winter",
+    "summary": "Questions remain about reason for leak, safety of drinking water and where salt can be sourced for roads during winter.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter",
+    "publishedAt": "2026-11-14T13:00:45.000Z"
+  },
+  {
+    "id": "893f210d41dd3d9c",
+    "title": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
+    "summary": "People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastrophe.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
+    "publishedAt": "2026-11-14T13:00:44.000Z"
+  },
+  {
+    "id": "5bb8d1440bbb4226",
+    "title": "Asia Society's Lizzi C. Lee on big tech restrictions after Nvidia espionage claims",
+    "summary": "NPR's Scott Simon asks Lizzi C. Lee of the Asia Society about restrictions on big tech in the wake of allegations of espionage against Nvidia.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6040188/asia-societys-lizzi-c-lee-on-big-tech-restrictions-after-nvidia-espionage-claims",
+    "publishedAt": "2026-11-14T12:40:27.000Z"
+  },
+  {
+    "id": "759845822a92e7ad",
+    "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
+    "summary": "‘We have further to go,’ says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+    "publishedAt": "2026-11-14T12:33:58.000Z"
+  },
+  {
+    "id": "c352fb4dc5d465c4",
+    "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
+    "summary": "Ukrainian President Volodymyr Zelenskyy says the U.S. has suggested a new security framework for Europe to help end Russia's war in Ukraine.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/zelenskyy-new-european-security-framework-floated-us-benefit-138138301",
+    "publishedAt": "2026-11-14T12:26:50.000Z"
+  },
+  {
+    "id": "00dd2a5a467d239b",
+    "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+    "summary": "A nuclear treaty and the US's war on Iran are among priority topics for China, Russia and US leaders.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
+    "publishedAt": "2026-11-14T12:14:14.000Z"
+  },
+  {
+    "id": "f005ff303816da11",
+    "title": "Health is wealth? Polymarket and Kalshi now host bets on measles and other US health crises",
+    "summary": "Experts warn of risks of platforms hosting bets tied to US public health – including vaccine mandates and drug trials.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/14/measles-kalshi-polymarket-betting",
+    "publishedAt": "2026-11-14T12:00:44.000Z"
+  },
+  {
+    "id": "2a3ae86b48e175e9",
+    "title": "‘Enough is enough’: rising number of deadly ebike battery fires spark fear in New York City",
+    "summary": "City has failed to build infrastructure that could reduce threat, and saw 400 fires, 83 injuries and 12 deaths this year.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/14/new-york-city-ebike-battery-fires-deaths",
+    "publishedAt": "2026-11-14T12:00:44.000Z"
+  },
+  {
     "id": "358064c0394cc743",
     "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
     "summary": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
@@ -1089,6 +1170,15 @@
     "publishedAt": "2026-11-13T17:43:26.000Z"
   },
   {
+    "id": "388c180a1aeca5f9",
+    "title": "Microsoft outage: company scrambles to fix global issue that took down Outlook and Teams",
+    "summary": "Tech firm says it is ‘deeply sorry’ for disruption that took services down and has now addressed the underlying issue.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+    "publishedAt": "2026-11-13T17:41:15.000Z"
+  },
+  {
     "id": "5388d13b7a3706f0",
     "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
     "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
@@ -1258,95 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss",
     "publishedAt": "2026-11-13T16:01:45.000Z"
-  },
-  {
-    "id": "97c81ae6fd259b02",
-    "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
-    "summary": "Signing of agreement to smooth movement of food, plants and animals next week will not recoup huge sums firms were forced to spend.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle",
-    "publishedAt": "2026-11-13T16:00:19.000Z"
-  },
-  {
-    "id": "39353f83996a70b2",
-    "title": "Turkiye and Qatar sign mutual defence agreement",
-    "summary": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌bin Hamad ​Al Thani in Istanbul on ⁠Friday.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
-    "publishedAt": "2026-11-13T15:49:51.000Z"
-  },
-  {
-    "id": "adb8db7024412cdc",
-    "title": "Democratic Senate leader Schumer set to face leadership challenge",
-    "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o",
-    "publishedAt": "2026-11-13T15:48:07.000Z"
-  },
-  {
-    "id": "78e1bf4bf8a10a9b",
-    "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
-    "summary": "The Maryland Democrat, who's the ranking member of the Senate Foreign Relations Subcommittee, just announced he's going to run for Majority Leader. He spoke to NPR about his foreign aid vision.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
-    "publishedAt": "2026-11-13T15:46:35.000Z"
-  },
-  {
-    "id": "3c1e98e0ed515dc7",
-    "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
-    "summary": "EU leaders believe a US-backed process will allow Moscow and Washington to decide the fate of a conflict.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
-    "publishedAt": "2026-11-13T15:43:39.000Z"
-  },
-  {
-    "id": "eb58be9688893c53",
-    "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-    "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go",
-    "publishedAt": "2026-11-13T15:42:52.000Z"
-  },
-  {
-    "id": "046d5253f4f3db30",
-    "title": "Right to make green challenges to planning decisions under threat, say UK lawyers",
-    "summary": "Exclusive: Government in ‘private meetings’ about removing cost cap protections under Aarhus convention.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/13/right-to-make-green-challenges-planning-decisions-under-threat-aarhus-convention",
-    "publishedAt": "2026-11-13T15:27:43.000Z"
-  },
-  {
-    "id": "cada627581a51549",
-    "title": "Doctor named as DC gym shooting suspect confessed, noting dispute over living conditions, building manager says",
-    "summary": "Gunman killed one person and injured at least four others in and around condo building not far from the White House.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession",
-    "publishedAt": "2026-11-13T15:25:28.000Z"
-  },
-  {
-    "id": "18ad3880512a4ec9",
-    "title": "At least 24 killed after bus collides with truck in north-east India",
-    "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo",
-    "publishedAt": "2026-11-13T15:16:50.000Z"
-  },
-  {
-    "id": "5659d244156ae8cf",
-    "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
-    "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
-    "publishedAt": "2026-11-13T15:04:42.000Z"
   }
 ]
