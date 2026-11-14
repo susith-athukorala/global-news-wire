@@ -1,5 +1,59 @@
 [
   {
+    "id": "77bfacf4a0993f4a",
+    "title": "Mayan ceremony in Guatemala honors Nobel winner Miguel Ángel Asturias",
+    "summary": "Nobel Peace Prize laureate Rigoberta Mench&uacute; Tum attended the ritual.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/mayan-ceremony-guatemala-honors-nobel-winner-miguel-ngel-138148663",
+    "publishedAt": "2026-11-14T23:03:52.000Z"
+  },
+  {
+    "id": "9b9ac114cd1b4f1a",
+    "title": "David Jones’ future looks grim. Is Myer next?",
+    "summary": "With Myer’s profitability battered and share price languishing near all-time lows, DJs’ slide into administration raises an uncomfortable question.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/15/myer-david-jones-stores-closures-administration",
+    "publishedAt": "2026-11-14T23:00:01.000Z"
+  },
+  {
+    "id": "f1ca325282458d5a",
+    "title": "Hello? James Gleick's new book compares the history of the telephone to the modern era",
+    "summary": "Have you ever wondered where phone etiquette or the idea for the first social network came from? Author James Gleick talks about his new book, The Telephone.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6037416/hello-james-gleicks-new-book-compares-the-history-of-the-telephone-to-the-modern-era",
+    "publishedAt": "2026-11-14T22:48:35.000Z"
+  },
+  {
+    "id": "2e3019a6a5b0cbe7",
+    "title": "Explosion near Syria’s capital kills father and child",
+    "summary": "Syria’s Internal Security Forces have launched an investigation into a suspected bomb attack in a suburb of Damascus.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+    "publishedAt": "2026-11-14T22:43:12.000Z"
+  },
+  {
+    "id": "a13e203f09e71b4e",
+    "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
+    "summary": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
+    "publishedAt": "2026-11-14T22:35:06.000Z"
+  },
+  {
+    "id": "c86a433eaa57e4cb",
+    "title": "SpaceX makes history with Starship catch",
+    "summary": "SpaceX catches its Starship rocket as it comes back from space for the very first time.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6041089/spacex-makes-history-with-starship-catch",
+    "publishedAt": "2026-11-14T22:31:41.000Z"
+  },
+  {
     "id": "e08c8514556ba9f5",
     "title": "SpaceX successfully catches top of huge Starship rocket for first time",
     "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
@@ -7,6 +61,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
     "publishedAt": "2026-11-14T22:15:52.000Z"
+  },
+  {
+    "id": "efa9822a8d94fda4",
+    "title": "US has lost measles elimination status, global health authorities say",
+    "summary": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+    "publishedAt": "2026-11-14T22:15:02.000Z"
   },
   {
     "id": "43562d6ed3644a23",
@@ -1116,6 +1179,15 @@
     "publishedAt": "2026-11-14T00:52:48.000Z"
   },
   {
+    "id": "9d9e6c5ba637a16f",
+    "title": "Questions remain after Nvidia CEO's departure",
+    "summary": "While Jensen Huang's resignation puts an end to his long reign over Nvidia, questions about America's national security and Donald Trump's knowledge of the whole saga remain.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-14/questions-over-jensen-huang-affair-for-us-administration-nvidia/107382476",
+    "publishedAt": "2026-11-14T00:52:34.000Z"
+  },
+  {
     "id": "8e9cd81adab4942a",
     "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
     "summary": "The next title in the series is expected to be the biggest video game release ever.",
@@ -1276,77 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
     "publishedAt": "2026-11-13T21:32:08.000Z"
-  },
-  {
-    "id": "2554026f9568ea20",
-    "title": "US aviation administration resumes flights after grounding",
-    "summary": "The US Federal Aviation Administration says flights can resume after it issued a national ground stop \"due to extraordinary circumstance and reasons for safety\".",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-14/us-aviation-admin-resumes-all-flights/107385702",
-    "publishedAt": "2026-11-13T21:23:28.000Z"
-  },
-  {
-    "id": "97cea47af11f4913",
-    "title": "US aviation administration orders grounding of all flights",
-    "summary": "The US Federal Aviation Administration has issued a national ground stop \"due to extraordinary circumstance and reasons for safety\".",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-14/us-aviation-admin-orders-grounding-of-all-flights/107385702",
-    "publishedAt": "2026-11-13T21:23:28.000Z"
-  },
-  {
-    "id": "5388d13b7a3706f0",
-    "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-    "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo",
-    "publishedAt": "2026-11-13T21:15:41.000Z"
-  },
-  {
-    "id": "a87af2f6d322bc3a",
-    "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-    "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-    "publishedAt": "2026-11-13T21:14:22.000Z"
-  },
-  {
-    "id": "5cddb1b5d103aa2f",
-    "title": "Microsoft outage disrupts work and gives some a chance to unplug",
-    "summary": "Millions of individuals, organizations and businesses were left without access to Microsoft's Outlook email on Thursday. Some people celebrated a day without email, while others work around obstacles.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6040004/microsoft-outage-disrupts-work-and-gives-some-a-chance-to-unplug",
-    "publishedAt": "2026-11-13T21:06:07.000Z"
-  },
-  {
-    "id": "70dd21355b268ba8",
-    "title": "Trump set to head to Asia while questions about Nvidia's future swirl",
-    "summary": "President Trump gears up for a consequential trip to Asia for key conferences that will focus on trade and national security.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6035715/trump-set-to-head-to-asia-while-questions-about-nvidias-future-swirl",
-    "publishedAt": "2026-11-13T21:06:01.000Z"
-  },
-  {
-    "id": "50e52ce090e60ab2",
-    "title": "US air force responds to suspected drone activity at RAF Lakenheath",
-    "summary": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
-    "publishedAt": "2026-11-13T21:01:40.000Z"
-  },
-  {
-    "id": "1ce49df085e40710",
-    "title": "Probation officers in England and Wales vote for strike action over pay and workloads",
-    "summary": "Move deals blow to government’s plans to release thousands of prisoners early to tackle prison overcrowding.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/13/probation-officers-in-england-and-wales-vote-for-strike-action-over-pay-and-workloads",
-    "publishedAt": "2026-11-13T20:51:01.000Z"
   }
 ]
