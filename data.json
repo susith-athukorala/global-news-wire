@@ -999,6 +999,24 @@
     "publishedAt": "2026-11-14T03:32:07.000Z"
   },
   {
+    "id": "18b5ae9aeb25a4d3",
+    "title": "'The line-up is huge': Australians caught up in US flight chaos",
+    "summary": "Thousands of flights have been delayed or cancelled across the US, leaving Australian travellers stranded at airports.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-14/australians-stranded-in-us-amid-flight-cancellations-chaos/107385998",
+    "publishedAt": "2026-11-14T03:24:57.000Z"
+  },
+  {
+    "id": "81eaeae01e4deb87",
+    "title": "What we know so far about why US flights were grounded",
+    "summary": "Aviation authorities cited \"extraordinary circumstances and reasons of safety\", with the White House blaming outdated air traffic control technology for a communications outage.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-14/what-we-know-about-the-us-flight-groundstop/107385910",
+    "publishedAt": "2026-11-14T03:12:45.000Z"
+  },
+  {
     "id": "4b1ed9147537f309",
     "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
     "summary": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop.",
@@ -1330,23 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
     "publishedAt": "2026-11-13T20:16:13.000Z"
-  },
-  {
-    "id": "3f12e1ee36e53912",
-    "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
-    "summary": "None of the 62 contacts identified after the first case developed the disease, although 13 contacts reported fever.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/nigeria-ends-21-day-ebola-contact-monitoring-with-no-secondary-transmission?traffic_source=rss",
-    "publishedAt": "2026-11-13T20:12:34.000Z"
-  },
-  {
-    "id": "e08c8514556ba9f5",
-    "title": "SpaceX to attempt double catch of huge Starship rocket",
-    "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
-    "publishedAt": "2026-11-13T20:12:02.000Z"
   }
 ]
