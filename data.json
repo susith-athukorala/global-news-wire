@@ -1,5 +1,59 @@
 [
   {
+    "id": "a34a30b3f7455d87",
+    "title": "Afghanistan’s new road to China ends at a closed border",
+    "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+    "publishedAt": "2026-11-14T00:06:43.000Z"
+  },
+  {
+    "id": "12737c6575ec024d",
+    "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+    "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo",
+    "publishedAt": "2026-11-14T00:03:56.000Z"
+  },
+  {
+    "id": "34ad3f88571e67fb",
+    "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+    "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo",
+    "publishedAt": "2026-11-14T00:03:52.000Z"
+  },
+  {
+    "id": "6de5cfc75fdca885",
+    "title": "What to know about the rare nationwide ground stop issued by the FAA",
+    "summary": "The Federal Aviation Administration issued a ground stop for all planes due to take off in the US, delaying and canceling thousands of flights.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/13/faa-ground-stop-flights-explained",
+    "publishedAt": "2026-11-13T23:56:08.000Z"
+  },
+  {
+    "id": "0962eb8b13d0787d",
+    "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+    "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+    "publishedAt": "2026-11-13T23:40:45.000Z"
+  },
+  {
+    "id": "89d13a43c42e3652",
+    "title": "SpaceX Starship megarocket blasts off before expected return for reuse",
+    "summary": "Flight 15 expected to orbit Earth about 14 times over 22 hours, before company catches it at Starbase, Texas.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
+    "publishedAt": "2026-11-13T23:38:09.000Z"
+  },
+  {
     "id": "158b642aada4699f",
     "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
     "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
@@ -1294,59 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/13/cade-cunningham-detroit-pistons-washington-wizards-nba?traffic_source=rss",
     "publishedAt": "2026-11-13T07:39:18.000Z"
-  },
-  {
-    "id": "9024dba0337b63a3",
-    "title": "What we know about the global Microsoft outage",
-    "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-    "publishedAt": "2026-11-13T07:12:10.000Z"
-  },
-  {
-    "id": "63be51997893b50e",
-    "title": "A baffling trail from Australia to Singapore: what is Megaspeed, the company implicated in downfall of Nvidia’s Jensen Huang?",
-    "summary": "Few solid clues have emerged as to the true nature of Megaspeed, whose former director Alice Huang has been accused of being a Chinese spy.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/a-baffling-trail-from-australia-to-singapore-what-is-megaspeed-the-company-implicated-in-downfall-of-nvidias-jensen-huang",
-    "publishedAt": "2026-11-13T07:07:41.000Z"
-  },
-  {
-    "id": "f61b2554dc480a66",
-    "title": "National Trust takes back land for nature restoration",
-    "summary": "The trust hopes to restore the site, create new wildlife habitats and improve access to green space.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg257kl440o",
-    "publishedAt": "2026-11-13T07:04:09.000Z"
-  },
-  {
-    "id": "b8b602b92172ee8f",
-    "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-    "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo",
-    "publishedAt": "2026-11-13T07:01:43.000Z"
-  },
-  {
-    "id": "9ac67defc7ac3e27",
-    "title": "Jessica Pegula wins thrilling contest at WTA Finals, Coco Gauff eliminated",
-    "summary": "Pegula's win, in the final group one round-robin match, meant Gauff was knocked out of the season-ending championships.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/13/jessica-pegula-coco-gauff-united-states-wta-finals-tennis?traffic_source=rss",
-    "publishedAt": "2026-11-13T06:57:56.000Z"
-  },
-  {
-    "id": "0e8e9a997434f0d2",
-    "title": "US reports record number of deportations and arrests in 2026",
-    "summary": "ICE carried out 483,200 deportations in 2026. Democrats prepare to investigate tactics used.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/us-reports-record-number-of-deportations-and-arrests-in-2026?traffic_source=rss",
-    "publishedAt": "2026-11-13T06:46:35.000Z"
   }
 ]
