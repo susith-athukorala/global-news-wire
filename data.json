@@ -27,6 +27,33 @@
     "publishedAt": "2026-11-14T19:11:55.000Z"
   },
   {
+    "id": "7442b50228ce594e",
+    "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+    "summary": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+    "publishedAt": "2026-11-14T19:01:32.000Z"
+  },
+  {
+    "id": "f35a0b4eb69fd2e7",
+    "title": "Even Labor MPs are at a loss over the Victorian premier’s ‘tough love’ plan for youth offenders",
+    "summary": "MPs across factional lines share concerns about policy that legal expert says ‘paints the imprisonment of children as therapeutic’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb",
+    "publishedAt": "2026-11-14T19:00:53.000Z"
+  },
+  {
+    "id": "7640cc164999215c",
+    "title": "Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages",
+    "summary": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+    "publishedAt": "2026-11-14T19:00:52.000Z"
+  },
+  {
     "id": "46c51305b46e9fc9",
     "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
     "summary": "Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'.",
@@ -475,6 +502,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/14/trump-lame-duck-presidency-outcome",
     "publishedAt": "2026-11-14T11:00:43.000Z"
+  },
+  {
+    "id": "bead0b725e3839c5",
+    "title": "Ecuadorian fishermen who survived US boat strikes sue Trump administration",
+    "summary": "US military has killed nearly 250 people in attack on ‘narco-terrorism’, and on 17 March, sank the 16 plaintiffs’ boat, leaving two with serious burns.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/14/ecuadorian-fishermen-lawsuit-trump-boat-strike",
+    "publishedAt": "2026-11-14T11:00:42.000Z"
   },
   {
     "id": "56cd3b0454c303d7",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
     "publishedAt": "2026-11-13T19:53:57.000Z"
-  },
-  {
-    "id": "de06bec5ec8071c8",
-    "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
-    "summary": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-    "publishedAt": "2026-11-13T19:51:28.000Z"
-  },
-  {
-    "id": "8e104047f39fd0a7",
-    "title": "How Microsoft outage has affected key public services in the UK",
-    "summary": "Hospitals, GPs, police forces and property agents have had to find a workaround for Microsoft packages.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/how-microsoft-outage-has-affected-key-public-services-in-the-uk",
-    "publishedAt": "2026-11-13T19:45:43.000Z"
-  },
-  {
-    "id": "6899ef2bdd7d6fb4",
-    "title": "Dutch prime minister holds hours of crisis talks as coalition acrimony erupts over tax package",
-    "summary": "Dutch Prime Minister Rob Jetten is trying to prevent his coalition government from collapsing.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/dutch-prime-minister-holds-hours-crisis-talks-coalition-138119022",
-    "publishedAt": "2026-11-13T19:41:43.000Z"
-  },
-  {
-    "id": "7be3eed2ec04182c",
-    "title": "Gold smuggled from war zones entered the UAE despite new regulations, report says",
-    "summary": "A new report says that the United Arab Emirates remains a key destination for gold smuggled from conflict zones despite new regulations on the trade.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/gold-smuggled-war-zones-entered-uae-despite-new-138117227",
-    "publishedAt": "2026-11-13T19:41:31.000Z"
   }
 ]
