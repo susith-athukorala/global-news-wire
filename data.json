@@ -1,5 +1,50 @@
 [
   {
+    "id": "e08c8514556ba9f5",
+    "title": "SpaceX successfully catches top of huge Starship rocket for first time",
+    "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
+    "publishedAt": "2026-11-14T22:15:52.000Z"
+  },
+  {
+    "id": "43562d6ed3644a23",
+    "title": "Panamanian authorities investigate bombing attack on investigative reporter's home",
+    "summary": "Authorities in Panama are investigating a bombing attack on the home of an investigative journalist.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/panamanian-authorities-investigate-bombing-attack-investigative-reporters-home-138147790",
+    "publishedAt": "2026-11-14T22:06:12.000Z"
+  },
+  {
+    "id": "86b64eac3892750b",
+    "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
+    "summary": "Rasmus Hojlund stars with brace on as Denmark close in on a spot in the Nations League quarterfinals.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
+    "publishedAt": "2026-11-14T22:00:45.000Z"
+  },
+  {
+    "id": "5f3128295c2d7039",
+    "title": "SpaceX successfully catches Starship and makes history",
+    "summary": "The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+    "publishedAt": "2026-11-14T21:42:41.000Z"
+  },
+  {
+    "id": "6333b7a2df32b656",
+    "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+    "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+    "publishedAt": "2026-11-14T21:10:26.000Z"
+  },
+  {
     "id": "1295f8e2f3d3b826",
     "title": "More than 100,000 rally across France in new Yellow Vest protests",
     "summary": "Protesters chanted against declining affordability, the Macron government, police violence and poor school conditions.",
@@ -1303,50 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/society/2026/nov/13/probation-officers-in-england-and-wales-vote-for-strike-action-over-pay-and-workloads",
     "publishedAt": "2026-11-13T20:51:01.000Z"
-  },
-  {
-    "id": "c22c9f451b1ae85d",
-    "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
-    "summary": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European security.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
-    "publishedAt": "2026-11-13T20:38:25.000Z"
-  },
-  {
-    "id": "07c3fc0778fe92d3",
-    "title": "Mamdani and Trump agree to 90-day delay on new food assistance rules for corner stores",
-    "summary": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to comply.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
-    "publishedAt": "2026-11-13T20:33:12.000Z"
-  },
-  {
-    "id": "9d144ca940fcf85a",
-    "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
-    "summary": "The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
-    "publishedAt": "2026-11-13T20:28:20.000Z"
-  },
-  {
-    "id": "63ee72c52a46c129",
-    "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
-    "summary": "The criminal association charge over his alleged role in the collapse of the bank comes a week after his removal.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss",
-    "publishedAt": "2026-11-13T20:18:09.000Z"
-  },
-  {
-    "id": "df1077424e83719d",
-    "title": "Microsoft says services still returning amid widespread outage",
-    "summary": "Governments, businesses, individuals were disrupted globally as server failures stretch into second day.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
-    "publishedAt": "2026-11-13T20:16:13.000Z"
   }
 ]
