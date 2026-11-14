@@ -1,5 +1,68 @@
 [
   {
+    "id": "279b3666b43383d1",
+    "title": "Pope laments violence enveloping Peru as he ministers in his former diocese",
+    "summary": "Pope Leo XIV prayed for an end to the violence ravaging Peru, addressing one of his adopted homeland’s most pressing concerns from his former cathedral.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-laments-violence-enveloping-peru-ministers-former-diocese-138143939",
+    "publishedAt": "2026-11-14T17:07:31.000Z"
+  },
+  {
+    "id": "49578ceebd31a2fb",
+    "title": "Filipino singer Carmelle storms to victory in Eurovision Asia debut in Bangkok",
+    "summary": "Filipino singer Carmelle has won the first Asian edition of the Eurovision Song Contest with her fiery performance of “Sobra-Sobra.”",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/filipino-singer-carmelle-storms-victory-eurovision-asia-debut-138144506",
+    "publishedAt": "2026-11-14T17:06:50.000Z"
+  },
+  {
+    "id": "f13d26828b9f0e95",
+    "title": "NHS England on track to miss key cancer treatment target by 10,000 patients",
+    "summary": "Exclusive: 2,850 more patients a month would need to be treated within 62 days to meet March 2027 goal, as experts warn of failure of leadership.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
+    "publishedAt": "2026-11-14T17:00:49.000Z"
+  },
+  {
+    "id": "5be441503d9fe860",
+    "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
+    "summary": "Jonathan Kreiss-Tomkins’ victory means Democrats will now hold 30 US governorships after midterm blowout.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+    "publishedAt": "2026-11-14T16:58:33.000Z"
+  },
+  {
+    "id": "bb8f3f72dec0871f",
+    "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+    "summary": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+    "publishedAt": "2026-11-14T16:53:39.000Z"
+  },
+  {
+    "id": "be71a71e8a5a71b4",
+    "title": "Italy fines Meta €805m over accessing users' photos",
+    "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
+    "publishedAt": "2026-11-14T16:29:48.000Z"
+  },
+  {
+    "id": "76b99879a97eb0b2",
+    "title": "Italy fines Meta $880m over photo privacy",
+    "summary": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
+    "publishedAt": "2026-11-14T16:16:15.000Z"
+  },
+  {
     "id": "86cee693d648c2e0",
     "title": "Fuel crisis and protests pressure Chile's far-right president",
     "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
@@ -7,6 +70,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
     "publishedAt": "2026-11-14T16:05:12.000Z"
+  },
+  {
+    "id": "c45402730d90fbe5",
+    "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+    "summary": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economy.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+    "publishedAt": "2026-11-14T16:00:48.000Z"
   },
   {
     "id": "aba212013333162f",
@@ -981,6 +1053,15 @@
     "publishedAt": "2026-11-13T21:44:48.000Z"
   },
   {
+    "id": "1664f6d379c30d9a",
+    "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
+    "summary": "Exclusive: Report says restricting cars and freeing up pavement space could be a cheap way to bring shoppers back.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
+    "publishedAt": "2026-11-13T21:34:43.000Z"
+  },
+  {
     "id": "9ae854f934fad673",
     "title": "US grounds all flights after ‘communication issue’",
     "summary": "US Transportation Secretary Sean Duffy said the US aviation agency was investigating.",
@@ -1006,6 +1087,15 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-14/us-aviation-admin-orders-grounding-of-all-flights/107385702",
     "publishedAt": "2026-11-13T21:23:28.000Z"
+  },
+  {
+    "id": "5388d13b7a3706f0",
+    "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+    "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo",
+    "publishedAt": "2026-11-13T21:15:41.000Z"
   },
   {
     "id": "a87af2f6d322bc3a",
@@ -1258,95 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss",
     "publishedAt": "2026-11-13T18:44:45.000Z"
-  },
-  {
-    "id": "9024dba0337b63a3",
-    "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-    "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-    "publishedAt": "2026-11-13T18:36:57.000Z"
-  },
-  {
-    "id": "fab849f83c619135",
-    "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-    "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo",
-    "publishedAt": "2026-11-13T18:34:45.000Z"
-  },
-  {
-    "id": "e213323a5c217130",
-    "title": "Andy Burnham urges Labour to ‘re-arm’ for Kemi Badenoch comeback",
-    "summary": "No 10 sources say PM wants party to refocus on Tories as electoral threat after prioritising Reform and Greens.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/13/andy-burnham-urges-labour-to-re-arm-for-kemi-badenoch-comeback",
-    "publishedAt": "2026-11-13T18:20:01.000Z"
-  },
-  {
-    "id": "e573190251691540",
-    "title": "Labour chief whip tells Vogue she takes tough approach to keeping MPs in line",
-    "summary": "Anneliese Midgley surprises colleagues after Burnham said whips’ office should not be ‘something to be feared’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/13/labour-chief-whip-tough-approach-vogue-interview-mps-in-line-anneliese-midgley",
-    "publishedAt": "2026-11-13T18:16:15.000Z"
-  },
-  {
-    "id": "2d49a6ce39711f4d",
-    "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
-    "summary": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
-    "publishedAt": "2026-11-13T18:04:22.000Z"
-  },
-  {
-    "id": "2d4206f233c24427",
-    "title": "Estonia bans Russian athletes as backlash intensifies",
-    "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o",
-    "publishedAt": "2026-11-13T17:54:33.000Z"
-  },
-  {
-    "id": "3c238cabbefdb898",
-    "title": "The folly of just-in-time supply chains | Letters",
-    "summary": "Hannah Walker says systems designed to minimise expenditure in the name of efficiency can end up less capable of fulfilling their actual purpose.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/13/the-folly-of-just-in-time-supply-chains",
-    "publishedAt": "2026-11-13T17:52:48.000Z"
-  },
-  {
-    "id": "d0cb8b1c2c9986ae",
-    "title": "International Criminal Court limits Afghanistan investigation to Taliban crimes",
-    "summary": "Judges at the International Criminal Court have ended the part of the global tribunal’s investigation into Afghanistan that could have involved U.S. military personnel.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/international-criminal-court-limits-afghanistan-investigation-taliban-crimes-138116142",
-    "publishedAt": "2026-11-13T17:48:41.000Z"
-  },
-  {
-    "id": "86aa12fd1f6bb71d",
-    "title": "UK police launch sex offense investigation into author, TV personality David Walliams",
-    "summary": "London police say they are investigating children’s author and TV personality David Walliams for serious sexual offenses after news outlets reported allegations of misconduct.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/uk-police-launch-sex-offense-investigation-childrens-author-138113000",
-    "publishedAt": "2026-11-13T17:48:07.000Z"
-  },
-  {
-    "id": "c57f6a323e1178af",
-    "title": "Hundreds of roaming cows wreak havoc in North Macedonian town, frustrating farmers",
-    "summary": "Residents of Kriva Palanka in North Macedonia are dealing with a herd of over 1,000 roaming cattle.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/hundreds-roaming-cows-wreak-havoc-north-macedonian-town-138113077",
-    "publishedAt": "2026-11-13T17:46:48.000Z"
   }
 ]
