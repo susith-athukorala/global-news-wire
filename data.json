@@ -1,5 +1,23 @@
 [
   {
+    "id": "6ad0548d5e7b8f34",
+    "title": "Bomb found at Illinois ethanol plant, prompting evacuations",
+    "summary": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+    "publishedAt": "2026-11-14T14:13:49.000Z"
+  },
+  {
+    "id": "57c073f22b98b4ce",
+    "title": "The 143 best holiday gifts in 2026 – obsessively tested by the Guardian US",
+    "summary": "Shatterproof wine glasses, Jellycat plushies, ‘yoga paws’ and more gifts handpicked by our experts.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/thefilter-us/2026/nov/14/best-holiday-gifts-ideas-guide",
+    "publishedAt": "2026-11-14T14:00:47.000Z"
+  },
+  {
     "id": "66000d42c535da35",
     "title": "How does Iran view shift in US approach after JD Vance ordered away?",
     "summary": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working.",
@@ -1330,23 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo",
     "publishedAt": "2026-11-13T16:40:31.000Z"
-  },
-  {
-    "id": "e940fd9875725f16",
-    "title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
-    "summary": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-    "publishedAt": "2026-11-13T16:38:27.000Z"
-  },
-  {
-    "id": "fa576b987fcbb609",
-    "title": "Chuck Schumer’s challenger for party control underscores Democrats’ ideological rift",
-    "summary": "Senator Chris Van Hollen’s policy credentials allowed his quick rise to roles usually reserved for the more tenured.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/13/chuck-schumer-democrat-party-control-ideology",
-    "publishedAt": "2026-11-13T16:36:45.000Z"
   }
 ]
