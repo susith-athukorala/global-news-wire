@@ -1,5 +1,86 @@
 [
   {
+    "id": "86cee693d648c2e0",
+    "title": "Fuel crisis and protests pressure Chile's far-right president",
+    "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+    "publishedAt": "2026-11-14T16:05:12.000Z"
+  },
+  {
+    "id": "aba212013333162f",
+    "title": "EU calls for immediate humanitarian access to Gaza",
+    "summary": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-14T15:57:22.000Z"
+  },
+  {
+    "id": "29951b56ba724eaa",
+    "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+    "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo",
+    "publishedAt": "2026-11-14T15:42:54.000Z"
+  },
+  {
+    "id": "796b977da194f843",
+    "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+    "summary": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+    "publishedAt": "2026-11-14T15:34:54.000Z"
+  },
+  {
+    "id": "d76b98b80e0e16fe",
+    "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
+    "summary": "The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss",
+    "publishedAt": "2026-11-14T15:14:54.000Z"
+  },
+  {
+    "id": "913b219153a653bf",
+    "title": "Canada’s Stelco to recall 175 workers after government pressure",
+    "summary": "Steelmaker promises back pay for workers whose layoffs its US owner blamed on tariffs, weak demand and imports.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
+    "publishedAt": "2026-11-14T15:06:52.000Z"
+  },
+  {
+    "id": "a2fafccb073fb752",
+    "title": "US air travel slowly recovers from nationwide flight ground stop as chaos continues",
+    "summary": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide grounding.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
+    "publishedAt": "2026-11-14T15:03:00.000Z"
+  },
+  {
+    "id": "801c9b4463cfcb9f",
+    "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
+    "summary": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for Hamas.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
+    "publishedAt": "2026-11-14T15:00:47.000Z"
+  },
+  {
+    "id": "d4ddf72388658a03",
+    "title": "Why US Democrats are expected to keep Schumer and Jeffries in power",
+    "summary": "The prospect of keeping the Congressional leaders in power is exposing long-running tensions in the party.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news-analysis/2026/11/14/why-us-democrats-are-expected-to-keep-schumer-and-jeffries-in-power?traffic_source=rss",
+    "publishedAt": "2026-11-14T14:57:04.000Z"
+  },
+  {
     "id": "c95f770abdf3096c",
     "title": "Napping Kansas driver whose truck sped on to soccer field and killed two won’t be charged",
     "summary": "Authorities declined to file charges against napping woman whose truck accelerated on to field during youth game.",
@@ -1267,86 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/hundreds-roaming-cows-wreak-havoc-north-macedonian-town-138113077",
     "publishedAt": "2026-11-13T17:46:48.000Z"
-  },
-  {
-    "id": "224bb8b911d5035a",
-    "title": "No 10 considering expanding under-25s benefits overhaul to older age groups",
-    "summary": "Exclusive: Plans to replace key disability benefits for young people with work and training could affect adults.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/13/no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups",
-    "publishedAt": "2026-11-13T17:43:26.000Z"
-  },
-  {
-    "id": "388c180a1aeca5f9",
-    "title": "Microsoft outage: company scrambles to fix global issue that took down Outlook and Teams",
-    "summary": "Tech firm says it is ‘deeply sorry’ for disruption that took services down and has now addressed the underlying issue.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-    "publishedAt": "2026-11-13T17:41:15.000Z"
-  },
-  {
-    "id": "5388d13b7a3706f0",
-    "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-    "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo",
-    "publishedAt": "2026-11-13T17:38:19.000Z"
-  },
-  {
-    "id": "369f0e985a26421b",
-    "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-    "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro",
-    "publishedAt": "2026-11-13T17:34:58.000Z"
-  },
-  {
-    "id": "ee127c5fac608d13",
-    "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
-    "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
-    "publishedAt": "2026-11-13T17:20:32.000Z"
-  },
-  {
-    "id": "b1b246b5ab5ec14b",
-    "title": "Microsoft outage shakes up companies, schools and local governments across US",
-    "summary": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
-    "publishedAt": "2026-11-13T17:17:00.000Z"
-  },
-  {
-    "id": "edd6fe0bdf086a57",
-    "title": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
-    "summary": "Mohammed Alfatih rearrested over alleged plot to target Israelis in Europe while detained for attack on bailiff.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany",
-    "publishedAt": "2026-11-13T17:14:56.000Z"
-  },
-  {
-    "id": "acb158356eea0835",
-    "title": "The fight over Canadian steelworker jobs",
-    "summary": "Stelco's US owner blames Trump's tariffs for layoffs, but its support for those same tariffs has raised questions.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss",
-    "publishedAt": "2026-11-13T17:10:43.000Z"
-  },
-  {
-    "id": "1664f6d379c30d9a",
-    "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
-    "summary": "Exclusive: Report says restricting cars and freeing up pavement space could be a cheap way to entice shoppers.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
-    "publishedAt": "2026-11-13T17:05:23.000Z"
   }
 ]
