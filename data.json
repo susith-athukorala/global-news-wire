@@ -1,5 +1,14 @@
 [
   {
+    "id": "d0e0a87975156518",
+    "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+    "summary": "The FAA says nationwide ground stop disrupting thousands of US flights was caused by a telecommunications outage.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+    "publishedAt": "2026-11-14T03:32:07.000Z"
+  },
+  {
     "id": "4b1ed9147537f309",
     "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
     "summary": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop.",
@@ -7,6 +16,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
     "publishedAt": "2026-11-14T02:49:59.000Z"
+  },
+  {
+    "id": "d3681030415b8652",
+    "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
+    "summary": "More than 5,400 confirmed measles cases have been recorded in the US to date this year.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
+    "publishedAt": "2026-11-14T02:34:50.000Z"
   },
   {
     "id": "a0f2c4fb94af7e3c",
@@ -1330,23 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/pakistans-army-killed-74-militants-raids-hideouts-138102279",
     "publishedAt": "2026-11-13T09:45:06.000Z"
-  },
-  {
-    "id": "fb7fce10b9259cb9",
-    "title": "Nauru's president has no political opponents after all lawmakers joined the government side",
-    "summary": "Nauru’s president, David Adeang, has announced that all opposition lawmakers in parliament have joined his government.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/naurus-president-political-opponents-after-lawmakers-joined-government-138102578",
-    "publishedAt": "2026-11-13T09:44:59.000Z"
-  },
-  {
-    "id": "c7f55481378cd173",
-    "title": "Iran's Revolutionary Guard says it destroyed a US radar in Bahrain, and other Mideast news",
-    "summary": "",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/irans-revolutionary-guard-destroyed-us-radar-bahrain-mideast-138102943",
-    "publishedAt": "2026-11-13T09:44:52.000Z"
   }
 ]
