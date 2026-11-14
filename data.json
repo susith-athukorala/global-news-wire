@@ -1,5 +1,50 @@
 [
   {
+    "id": "3490e630f22c2f51",
+    "title": "Guardian to follow lives of eight young people in their search for work",
+    "summary": "How long will it take? What challenges will they face?",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/14/guardian-young-people-search-for-work",
+    "publishedAt": "2026-11-14T10:00:42.000Z"
+  },
+  {
+    "id": "59a903ad25c89214",
+    "title": "An organ transplant controversy tests 'the dead donor rule'",
+    "summary": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
+    "publishedAt": "2026-11-14T10:00:00.000Z"
+  },
+  {
+    "id": "345e727de94707ff",
+    "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
+    "summary": "Israel’s far-right is accused of embedding a hardline agenda so deeply that reversing it may prove almost impossible.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss",
+    "publishedAt": "2026-11-14T09:43:27.000Z"
+  },
+  {
+    "id": "77bc0d5b3703cced",
+    "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+    "summary": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
+    "publishedAt": "2026-11-14T09:19:43.000Z"
+  },
+  {
+    "id": "8e3c7560b30f3041",
+    "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
+    "summary": "An ex-minister faces a bribery probe as Hungary's new government investigates alleged corruption during Orban's rule.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
+    "publishedAt": "2026-11-14T09:08:21.000Z"
+  },
+  {
     "id": "94a11513a504c7c7",
     "title": "Immersive show brings Kyffin Williams’ rugged Welsh landscapes to life",
     "summary": "Paintings by one of country’s most important artists have been animated and set to music at National Library of Wales.",
@@ -1224,6 +1269,15 @@
     "publishedAt": "2026-11-13T14:00:20.000Z"
   },
   {
+    "id": "bdd0e45929053361",
+    "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+    "summary": "First direct attack on US military installations for months was in response to US airstrike on communications tower.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+    "publishedAt": "2026-11-13T13:52:11.000Z"
+  },
+  {
     "id": "3e97a48ed411dd4b",
     "title": "‘So lovely’: Stevie Wonder surprises Stalybridge restaurant with late-night visit and £1,000 tip",
     "summary": "Singer, 76, was in Manchester with his band for penultimate UK show of his Songs in the Key of Life anniversary tour.",
@@ -1294,59 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea",
     "publishedAt": "2026-11-13T13:35:45.000Z"
-  },
-  {
-    "id": "f9c0f97313927569",
-    "title": "Kenyan building collapse near Nairobi kills six people",
-    "summary": "Five people reportedly survive as emergency crews search for anyone still trapped in the rubble.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
-    "publishedAt": "2026-11-13T13:11:24.000Z"
-  },
-  {
-    "id": "75d1a4841d474565",
-    "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-    "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo",
-    "publishedAt": "2026-11-13T13:11:23.000Z"
-  },
-  {
-    "id": "6cc9fe433afd006f",
-    "title": "Charity-run kitchens in Havana feed a growing number of Cubans as crisis deepens",
-    "summary": "Hundreds of people line up each night outside a charity-run food pantry in Havana, hoping for their only meal of the day.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/charity-run-kitchens-havana-feed-growing-number-cubans-138103260",
-    "publishedAt": "2026-11-13T13:08:30.000Z"
-  },
-  {
-    "id": "9e83ce18da2c8061",
-    "title": "France slams Israel’s ‘demagogic’ ban on left-wing leader Melenchon",
-    "summary": "Israel's move came after France banned a prominent Israeli settler from entering the country.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
-    "publishedAt": "2026-11-13T12:57:08.000Z"
-  },
-  {
-    "id": "218e8fbc87b79eac",
-    "title": "The dark side of reselling apps: ‘If you include your pants, I’ll pay more’",
-    "summary": "Ministers consider banning under-16s from platforms amid reported misuse of messaging functions and users’ photos.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection",
-    "publishedAt": "2026-11-13T12:54:16.000Z"
-  },
-  {
-    "id": "6dea204524bb231d",
-    "title": "Mauricio Pochettino announced as new Manchester United manager",
-    "summary": "Pochettino replaces Michael Carrick, who was sacked after United's disastrous start to the season.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss",
-    "publishedAt": "2026-11-13T12:39:34.000Z"
   }
 ]
