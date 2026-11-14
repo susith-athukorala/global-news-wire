@@ -1,5 +1,59 @@
 [
   {
+    "id": "97d6ccad489e4c81",
+    "title": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
+    "summary": "The former coalminer’s claim Australians are being ‘demographically replaced’ sparked wide criticism, but his party has shown no signs of dumping him.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb",
+    "publishedAt": "2026-11-14T01:00:30.000Z"
+  },
+  {
+    "id": "e6a701e46b20eba0",
+    "title": "Tech Now",
+    "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1",
+    "publishedAt": "2026-11-14T01:00:00.000Z"
+  },
+  {
+    "id": "8ef485d0c289751e",
+    "title": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
+    "summary": "Experts say outage exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+    "publishedAt": "2026-11-14T00:52:48.000Z"
+  },
+  {
+    "id": "8e9cd81adab4942a",
+    "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+    "summary": "The next title in the series is expected to be the biggest video game release ever.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo",
+    "publishedAt": "2026-11-14T00:37:01.000Z"
+  },
+  {
+    "id": "b8c8bd106b6c66a1",
+    "title": "UK police open sex offence probe into comedian and author David Walliams",
+    "summary": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
+    "publishedAt": "2026-11-14T00:22:07.000Z"
+  },
+  {
+    "id": "0c1ae2e3c7d62f45",
+    "title": "Bluetongue virus confirmed on County Down farm",
+    "summary": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo",
+    "publishedAt": "2026-11-14T00:17:45.000Z"
+  },
+  {
     "id": "a34a30b3f7455d87",
     "title": "Afghanistan’s new road to China ends at a closed border",
     "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
@@ -261,6 +315,15 @@
     "publishedAt": "2026-11-13T19:51:28.000Z"
   },
   {
+    "id": "8e104047f39fd0a7",
+    "title": "How Microsoft outage has affected key public services in the UK",
+    "summary": "Hospitals, GPs, police forces and property agents have had to find a workaround for Microsoft packages.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/13/how-microsoft-outage-has-affected-key-public-services-in-the-uk",
+    "publishedAt": "2026-11-13T19:45:43.000Z"
+  },
+  {
     "id": "6899ef2bdd7d6fb4",
     "title": "Dutch prime minister holds hours of crisis talks as coalition acrimony erupts over tax package",
     "summary": "Dutch Prime Minister Rob Jetten is trying to prevent his coalition government from collapsing.",
@@ -331,6 +394,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss",
     "publishedAt": "2026-11-13T18:44:45.000Z"
+  },
+  {
+    "id": "9024dba0337b63a3",
+    "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+    "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+    "publishedAt": "2026-11-13T18:36:57.000Z"
   },
   {
     "id": "fab849f83c619135",
@@ -547,6 +619,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/books/2026/nov/13/sheds-cakes-and-photos-of-me-prince-williams-country-life-digested-by-john-crace",
     "publishedAt": "2026-11-13T16:12:29.000Z"
+  },
+  {
+    "id": "c509bc860c5a4a6d",
+    "title": "Branding it like Beckham: how Jude Bellingham is future-proofing his fame",
+    "summary": "From Calvin Klein to British Vogue, the Real Madrid man is leading the way when it comes to football’s foray into fashion. But is he playing it safe?",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/13/jude-bellingham-branding-it-like-beckham",
+    "publishedAt": "2026-11-13T16:03:19.000Z"
   },
   {
     "id": "9fdfc1088b3648c2",
@@ -1267,86 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o",
     "publishedAt": "2026-11-13T09:29:25.000Z"
-  },
-  {
-    "id": "f6018c5c43e3d9f7",
-    "title": "Who gets to tell the world’s news?",
-    "summary": "A look back at the Global South's early efforts to challenge Western dominance of international news.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/longform/2026/11/13/who-gets-to-tell-the-worlds-news?traffic_source=rss",
-    "publishedAt": "2026-11-13T08:51:11.000Z"
-  },
-  {
-    "id": "5f016991af3af0b6",
-    "title": "Nvidia’s Huang, Lutnick summoned to testify to US Senate",
-    "summary": "The Banking Committee says the ex-tech CEO and the commerce secretary could face legal action if they fail to appear.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
-    "publishedAt": "2026-11-13T08:49:59.000Z"
-  },
-  {
-    "id": "f7724812b97d9d20",
-    "title": "Storm Charles causes floods and flight cancellations across southern Europe",
-    "summary": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
-    "publishedAt": "2026-11-13T08:49:19.000Z"
-  },
-  {
-    "id": "51fb1172a6c84f32",
-    "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
-    "summary": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo",
-    "publishedAt": "2026-11-13T08:20:28.000Z"
-  },
-  {
-    "id": "0b03da4d210029ce",
-    "title": "Passenger van plunges into river in northern Pakistan, killing 11 people",
-    "summary": "Officials say a passenger van veered off a mountainous road and plunged into a river in northern Pakistan, killing 11 people and injuring three others.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/passenger-van-plunges-river-northern-pakistan-killing-11-138100825",
-    "publishedAt": "2026-11-13T08:16:00.000Z"
-  },
-  {
-    "id": "16dc1429186d22ee",
-    "title": "Spain's Sánchez faces political test as train crash casts shadow over election",
-    "summary": "Spain's Prime Minister Pedro S&aacute;nchez had hoped to leverage widespread discontent over unaffordable housing when he called snap elections.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/spains-snchez-faces-political-test-deadly-train-crash-138100812",
-    "publishedAt": "2026-11-13T08:15:08.000Z"
-  },
-  {
-    "id": "e0b67d0f9c351f9c",
-    "title": "Australia’s friendly against Jordan moved to Qatar over security concerns",
-    "summary": "Asian football giants Australia's upcoming friendly with Jordan was initially scheduled to be played in Amman.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/13/australia-jordan-football-friendly-amman-doha-qatar-socceroos?traffic_source=rss",
-    "publishedAt": "2026-11-13T07:59:31.000Z"
-  },
-  {
-    "id": "e439cdecb8741df9",
-    "title": "US terror case sheds light on RAF Fairford arrests mystery",
-    "summary": "Suspect held in New York jail has been linked to handler behind Iran-linked operations in Britain.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/13/us-terror-case-raf-fairford-arrests",
-    "publishedAt": "2026-11-13T07:55:56.000Z"
-  },
-  {
-    "id": "7548aad5d39dc336",
-    "title": "NBA: Cunningham scores 52 as Pistons win double OT thriller against Wizards",
-    "summary": "Cunningham became the first NBA player to record a 50-point, 10-assist game without committing a turnover since 1977-78.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/13/cade-cunningham-detroit-pistons-washington-wizards-nba?traffic_source=rss",
-    "publishedAt": "2026-11-13T07:39:18.000Z"
   }
 ]
