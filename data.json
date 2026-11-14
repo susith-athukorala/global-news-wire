@@ -1,5 +1,23 @@
 [
   {
+    "id": "c95f770abdf3096c",
+    "title": "Napping Kansas driver whose truck sped on to soccer field and killed two won’t be charged",
+    "summary": "Authorities declined to file charges against napping woman whose truck accelerated on to field during youth game.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/14/kansas-driver-soccer-field-deaths-no-charges",
+    "publishedAt": "2026-11-14T14:38:36.000Z"
+  },
+  {
+    "id": "414c302aa5280814",
+    "title": "When tech founders leave, what happens to their companies?",
+    "summary": "Nvidia could lose 30 percent of its value following cofounder Jensen Huang's decision to step down, analysts warns.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/14/when-tech-founders-leave-what-happens-to-their-companies?traffic_source=rss",
+    "publishedAt": "2026-11-14T14:24:36.000Z"
+  },
+  {
     "id": "6ad0548d5e7b8f34",
     "title": "Bomb found at Illinois ethanol plant, prompting evacuations",
     "summary": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating.",
@@ -142,6 +160,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/14/new-york-city-ebike-battery-fires-deaths",
     "publishedAt": "2026-11-14T12:00:44.000Z"
+  },
+  {
+    "id": "ed7f4a8f0e28ab6c",
+    "title": "‘Don’t lie to me to get free stuff’: how small businesses are fighting back against influencers",
+    "summary": "From diva-like behaviour to freebie requests that never result in a review, ‘entitled’ content creators are a growing blight on small-business owners. Now entrepreneurs are calling them out.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/14/small-businesses-fighting-back-influencers-behaving-badly",
+    "publishedAt": "2026-11-14T12:00:43.000Z"
   },
   {
     "id": "358064c0394cc743",
@@ -1321,32 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
     "publishedAt": "2026-11-13T17:05:23.000Z"
-  },
-  {
-    "id": "673f542189f6ba94",
-    "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
-    "summary": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
-    "publishedAt": "2026-11-13T16:44:56.000Z"
-  },
-  {
-    "id": "ed655a67d77c8ca2",
-    "title": "A global Microsoft 365 outage has hit millions – what happened and when will it be fixed?",
-    "summary": "Problem affects businesses, government agencies and even tech firm’s own employees.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/13/global-microsoft-outage-what-happened-and-why",
-    "publishedAt": "2026-11-13T16:44:35.000Z"
-  },
-  {
-    "id": "d52444b99fb9fa3e",
-    "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-    "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo",
-    "publishedAt": "2026-11-13T16:40:31.000Z"
   }
 ]
