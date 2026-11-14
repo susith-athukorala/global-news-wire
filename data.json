@@ -1,5 +1,32 @@
 [
   {
+    "id": "358064c0394cc743",
+    "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+    "summary": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+    "publishedAt": "2026-11-14T11:43:06.000Z"
+  },
+  {
+    "id": "e864e28c566b7176",
+    "title": "South Sudan postpones first national elections again, to February 2027",
+    "summary": "South Sudan has again postponed its first national elections since independence in 2011, moving polling from December to February.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/south-sudan-postpones-national-elections-february-2027-138138151",
+    "publishedAt": "2026-11-14T11:20:38.000Z"
+  },
+  {
+    "id": "939bf44290d37821",
+    "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
+    "summary": "A brawl broke out between the two MMA fighters and their teams inside a hotel before a wrestling event.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence?traffic_source=rss",
+    "publishedAt": "2026-11-14T11:14:18.000Z"
+  },
+  {
     "id": "ed56c115d079c223",
     "title": "How to spot November's planetary parade in the pre-dawn sky",
     "summary": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
@@ -7,6 +34,51 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo",
     "publishedAt": "2026-11-14T11:07:51.000Z"
+  },
+  {
+    "id": "5d65e92e58ffb523",
+    "title": "SpaceX not being honest about ‘political’ reasons for slowing Starshield, says Zelenskyy",
+    "summary": "Throttling of Elon Musk’s military-grade satellite system affecting whole frontline, says Ukraine’s president.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/14/spacex-not-honest-slowing-starshield-elon-musk-volodymyr-zelenskyy",
+    "publishedAt": "2026-11-14T11:05:33.000Z"
+  },
+  {
+    "id": "1276f893961d3a18",
+    "title": "‘We must deliver’: jubilant Democrats gather in Denver to chart way forward",
+    "summary": "At party’s ‘What’s Next’ conference, consensus is they need to act quickly, but over affordability or accountability is the question.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/14/democrats-denver-whats-next-conference",
+    "publishedAt": "2026-11-14T11:00:44.000Z"
+  },
+  {
+    "id": "f40368461e04bc55",
+    "title": "Greenpeace boulders may delay building of £12bn windfarms in North Sea",
+    "summary": "Activists dumped rocks off Norfolk coast on site of Burnham-backed project in protest against seabed trawling.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
+    "publishedAt": "2026-11-14T11:00:43.000Z"
+  },
+  {
+    "id": "c041aabb973bcb27",
+    "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
+    "summary": "Undercover ITV report also shows inadequate welfare checks at ex-military base run by firm of asylum camp billionaire Graham King.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
+    "publishedAt": "2026-11-14T11:00:43.000Z"
+  },
+  {
+    "id": "7357cd35a59d20af",
+    "title": "Will Trump’s lame duck presidency push him further beyond constraints of the law?",
+    "summary": "Midterm elections have defanged the US president – leaving critics to worry about his next move in his ‘fat Elvis’ stage.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/14/trump-lame-duck-presidency-outcome",
+    "publishedAt": "2026-11-14T11:00:43.000Z"
   },
   {
     "id": "56cd3b0454c303d7",
@@ -729,6 +801,15 @@
     "publishedAt": "2026-11-13T20:51:01.000Z"
   },
   {
+    "id": "c22c9f451b1ae85d",
+    "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+    "summary": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European security.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
+    "publishedAt": "2026-11-13T20:38:25.000Z"
+  },
+  {
     "id": "07c3fc0778fe92d3",
     "title": "Mamdani and Trump agree to 90-day delay on new food assistance rules for corner stores",
     "summary": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to comply.",
@@ -1267,86 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
     "publishedAt": "2026-11-13T15:04:42.000Z"
-  },
-  {
-    "id": "92071404f33b2428",
-    "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
-    "summary": "Midterm gains give party room to overhaul NDAA funding, including provision to integrate US-Israeli military industries.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
-    "publishedAt": "2026-11-13T15:02:16.000Z"
-  },
-  {
-    "id": "388c180a1aeca5f9",
-    "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-    "summary": "Tech firm says it is making progress in attempts to restore services and there is no indication problem was caused by cyber-attack.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-    "publishedAt": "2026-11-13T14:56:42.000Z"
-  },
-  {
-    "id": "e0a7c85fffe82083",
-    "title": "Eleanor Donaldson, wife of former DUP leader, placed on sex offender register",
-    "summary": "Judge imposes three-year treatment order on Donaldson for aiding and abetting sexual offences by her husband, Jeffrey.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/13/eleanor-donaldson-wife-of-former-dup-leader-placed-on-sex-offender-register",
-    "publishedAt": "2026-11-13T14:48:02.000Z"
-  },
-  {
-    "id": "7c0d243e1efb6090",
-    "title": "Climate action discussed at youth COP meeting",
-    "summary": "School children gather to discuss climate issues to coincide with the COP31 conference in Turkey.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckx28ly7y387o",
-    "publishedAt": "2026-11-13T14:39:06.000Z"
-  },
-  {
-    "id": "c3939474cbddc7ec",
-    "title": "Nigel Farage’s security paid for by Reform UK despite claim over £5m gift",
-    "summary": "Exclusive: Sources reveal party is covering costs – raising new questions about leader’s explanation for billionaire’s gift.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/13/nigel-farage-personal-security-costs-reform-uk",
-    "publishedAt": "2026-11-13T14:37:23.000Z"
-  },
-  {
-    "id": "80ea855e4de70678",
-    "title": "Banned books from Ireland’s room of ‘evil literature’ finally see the light of day",
-    "summary": "Censored books spanning 1926-96 contained themes ‘likely to corrupt or deprave’, or references to contraception or violence.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/13/ireland-banned-books-room-censorship",
-    "publishedAt": "2026-11-13T14:25:24.000Z"
-  },
-  {
-    "id": "a59453a63f75f6b8",
-    "title": "Portugal vs Denmark: UEFA Nations League – predictions, how to watch, teams",
-    "summary": "Playing their first game since Cristiano Ronaldo's retirement, two-time champions Portugal face Denmark at home.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/13/portugal-denmark-ronaldo-uefa-nations-league-predictions-teams?traffic_source=rss",
-    "publishedAt": "2026-11-13T14:18:25.000Z"
-  },
-  {
-    "id": "d1ada6aa206d4307",
-    "title": "Marlon Brando cool to Jensen Huang joke: how the black leather jacket became a meme",
-    "summary": "Once the ultimate symbol of Hollywood rebellion, the former Nvidia chief’s signature look is now being mocked as a midlife crisis cliche.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
-    "publishedAt": "2026-11-13T14:17:09.000Z"
-  },
-  {
-    "id": "d751c02347a5945d",
-    "title": "Can Netanyahu launch a strike on Iran before he leaves?",
-    "summary": "PM's caretaker government can legally go to war, though it would likely inflame domestic divisions.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
-    "publishedAt": "2026-11-13T14:16:20.000Z"
   }
 ]
