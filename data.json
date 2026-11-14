@@ -1,5 +1,14 @@
 [
   {
+    "id": "a0f2c4fb94af7e3c",
+    "title": "US-bound flights out of Australia grounded as telecommunications outage affects American travel",
+    "summary": "Sydney and Melbourne airports say grounding of planes from US airports led to delays for some flights.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
+    "publishedAt": "2026-11-14T01:54:25.000Z"
+  },
+  {
     "id": "97d6ccad489e4c81",
     "title": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
     "summary": "The former coalminer’s claim Australians are being ‘demographically replaced’ sparked wide criticism, but his party has shown no signs of dumping him.",
@@ -108,6 +117,15 @@
     "publishedAt": "2026-11-13T23:38:09.000Z"
   },
   {
+    "id": "ec3ce67c705386a4",
+    "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+    "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo",
+    "publishedAt": "2026-11-13T23:11:51.000Z"
+  },
+  {
     "id": "158b642aada4699f",
     "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
     "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
@@ -169,6 +187,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
     "publishedAt": "2026-11-13T21:32:08.000Z"
+  },
+  {
+    "id": "2554026f9568ea20",
+    "title": "US aviation administration resumes flights after grounding",
+    "summary": "The US Federal Aviation Administration says flights can resume after it issued a national ground stop \"due to extraordinary circumstance and reasons for safety\".",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-14/us-aviation-admin-resumes-all-flights/107385702",
+    "publishedAt": "2026-11-13T21:23:28.000Z"
   },
   {
     "id": "97cea47af11f4913",
@@ -1321,32 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
     "publishedAt": "2026-11-13T09:43:30.000Z"
-  },
-  {
-    "id": "d527a0148616a0f2",
-    "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
-    "summary": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o",
-    "publishedAt": "2026-11-13T09:37:33.000Z"
-  },
-  {
-    "id": "174a531195fa6558",
-    "title": "Microsoft hit by global outages: What happened and why?",
-    "summary": "Outlook, Teams and Copilot remain disrupted in 74 countries as Microsoft reports ‘marginal success’ in fixing outage.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
-    "publishedAt": "2026-11-13T09:30:55.000Z"
-  },
-  {
-    "id": "af0880d0ebac09f7",
-    "title": "Heat pumps: How much heat does your home really need?",
-    "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o",
-    "publishedAt": "2026-11-13T09:29:25.000Z"
   }
 ]
