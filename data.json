@@ -1,5 +1,14 @@
 [
   {
+    "id": "3b03db4c8820b8b8",
+    "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+    "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo",
+    "publishedAt": "2026-11-15T11:06:32.000Z"
+  },
+  {
     "id": "a47b9f3baf3b2598",
     "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
     "summary": "Ukraine's NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.",
@@ -16,6 +25,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss",
     "publishedAt": "2026-11-15T10:52:36.000Z"
+  },
+  {
+    "id": "e4c06b2fe0aa4569",
+    "title": "‘Nobody else is going to save us’: the direct action group taking on the UK’s banks, bailiffs and water firms",
+    "summary": "Acorn, a community union, is helping people fight unfair bills, AI decision-making and housing injustices as cost-of-living crisis deepens.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/15/acorn-union-direct-action-uk-banks-bailiffs-water-firms",
+    "publishedAt": "2026-11-15T10:41:37.000Z"
   },
   {
     "id": "92aa9f8eafa4fd63",
@@ -1330,23 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/news/2026/nov/14/noel-fielding-horrified-deeply-disturbed-russell-brand-crimes",
     "publishedAt": "2026-11-14T10:14:07.000Z"
-  },
-  {
-    "id": "df12b63379bfd8a7",
-    "title": "Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina",
-    "summary": "World number two Sabalenka's season came to a disappointing end after she failed to reach the WTA Finals semifinals.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss",
-    "publishedAt": "2026-11-14T10:03:12.000Z"
-  },
-  {
-    "id": "ffbd1a64645c93e8",
-    "title": "‘The social contract is broken’: young people on feeling shut out of careers",
-    "summary": "In the first instalment of a new series, four young people reveal the impact of an endless cycle of applications and rejections.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/14/young-people-shut-out-of-work-ai",
-    "publishedAt": "2026-11-14T10:00:42.000Z"
   }
 ]
