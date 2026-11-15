@@ -1,5 +1,32 @@
 [
   {
+    "id": "e6ff120e40a3dd9f",
+    "title": "World leaders head to Asia for back-to-back diplomatic summits",
+    "summary": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+    "publishedAt": "2026-11-15T04:00:02.000Z"
+  },
+  {
+    "id": "75769902a23d6ada",
+    "title": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
+    "summary": "Prime minister says he and Chris Bowen were having ‘light-hearted banter’ when they were caught discussing where they keep their phones.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk",
+    "publishedAt": "2026-11-15T03:49:21.000Z"
+  },
+  {
+    "id": "bfaf045cc0ef69f3",
+    "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+    "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
+    "publishedAt": "2026-11-15T03:21:04.000Z"
+  },
+  {
     "id": "37af75b554724bf7",
     "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
     "summary": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
@@ -7,6 +34,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
     "publishedAt": "2026-11-15T02:59:06.000Z"
+  },
+  {
+    "id": "8775874e6c18e955",
+    "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+    "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
+    "publishedAt": "2026-11-15T02:49:45.000Z"
   },
   {
     "id": "595478efb90ca845",
@@ -1312,41 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
     "publishedAt": "2026-11-14T01:54:25.000Z"
-  },
-  {
-    "id": "97d6ccad489e4c81",
-    "title": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
-    "summary": "The former coalminer’s claim Australians are being ‘demographically replaced’ sparked wide criticism, but his party has shown no signs of dumping him.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb",
-    "publishedAt": "2026-11-14T01:00:30.000Z"
-  },
-  {
-    "id": "e6a701e46b20eba0",
-    "title": "Tech Now",
-    "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1",
-    "publishedAt": "2026-11-14T01:00:00.000Z"
-  },
-  {
-    "id": "89d13a43c42e3652",
-    "title": "SpaceX Starship megarocket blasts off before expected return for reuse",
-    "summary": "Flight 15 expected to orbit Earth about 14 times over 22 hours, before company catches it at Starbase, Texas.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
-    "publishedAt": "2026-11-14T00:53:52.000Z"
-  },
-  {
-    "id": "8ef485d0c289751e",
-    "title": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
-    "summary": "Experts say outage exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
-    "publishedAt": "2026-11-14T00:52:48.000Z"
   }
 ]
