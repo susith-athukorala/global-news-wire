@@ -1,5 +1,104 @@
 [
   {
+    "id": "cd01ebbe43e7d13d",
+    "title": "Two killed in Leeds after car pursued by police crashes into another vehicle",
+    "summary": "Four arrested after BMW collides with Volkswagen on Gelderd Road, with police appealing for witnesses.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/15/leeds-car-pursued-by-police-crashes-into-another-vehicle",
+    "publishedAt": "2026-11-15T14:01:32.000Z"
+  },
+  {
+    "id": "13d9bad496d7dcd2",
+    "title": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
+    "summary": "Defence briefing released under freedom of information laws shows ADF beholden to US directives when in training.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb",
+    "publishedAt": "2026-11-15T14:00:19.000Z"
+  },
+  {
+    "id": "40a5ea55d59b7726",
+    "title": "Ethnic minority groups in Wales four times more likely to be target of police facial scans",
+    "summary": "Exclusive: South Wales police figures show BAME people accounted for 24% of selected scans in 2025, despite being 7% of population.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/15/ethnic-minorities-wales-police-facial-scans-data",
+    "publishedAt": "2026-11-15T14:00:17.000Z"
+  },
+  {
+    "id": "3f4c07423abdecbd",
+    "title": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
+    "summary": "Headlines have claimed the release of the first new GTA game in 13 years will hugely affect the global economy on Thursday – but there’s another story that’s been left behind.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/16/grand-theft-auto-gta-vi-first-new-game-released-in-13-years",
+    "publishedAt": "2026-11-15T14:00:15.000Z"
+  },
+  {
+    "id": "786d24ee2827a6de",
+    "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
+    "summary": "The remains of 69 Palestinians have been recovered in northern Gaza, allowing families to bury them.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
+    "publishedAt": "2026-11-15T13:45:02.000Z"
+  },
+  {
+    "id": "365c61c687d5e337",
+    "title": "Iran targets US military base in Bahrain with drone attack",
+    "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
+    "publishedAt": "2026-11-15T13:42:58.000Z"
+  },
+  {
+    "id": "50802ce12c20c7d7",
+    "title": "Poundland pins rescue hopes on Yorkshire Tea, Pot Noodle and Gloria Gaynor",
+    "summary": "Chain restocks stores in operation named after singer of I Will Survive after US owners release funds.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/15/poundland-pins-rescue-hopes-on-yorkshire-tea-pot-noodle-and-gloria-gaynor",
+    "publishedAt": "2026-11-15T13:41:01.000Z"
+  },
+  {
+    "id": "a7491076c63ab892",
+    "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+    "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o",
+    "publishedAt": "2026-11-15T13:37:45.000Z"
+  },
+  {
+    "id": "a7933282d83d5bb6",
+    "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+    "summary": "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+    "publishedAt": "2026-11-15T13:37:08.000Z"
+  },
+  {
+    "id": "ee34112a036b46f3",
+    "title": "Al Jazeera English marks 20 years: Stories that shaped the journey",
+    "summary": "Here are some of the crucial events Al Jazeera English has covered over the past two decades.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/al-jazeera-english-marks-20-years-stories-that-shaped-the-journey?traffic_source=rss",
+    "publishedAt": "2026-11-15T13:30:51.000Z"
+  },
+  {
+    "id": "292a54ddee1cd137",
+    "title": "Cold and health alerts issued for Scotland and northern England as snow and ice expected",
+    "summary": "UKHSA warns of health impact on those vulnerable to cold and urges people to check in with neighbours.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/15/uk-weather-cold-health-alerts-scotland-northern-england-snow-ice",
+    "publishedAt": "2026-11-15T13:30:18.000Z"
+  },
+  {
     "id": "6893d34b519c309c",
     "title": "How the tech industry and markets have responded to Jensen Huang's resignation",
     "summary": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
@@ -196,6 +295,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss",
     "publishedAt": "2026-11-15T10:52:36.000Z"
+  },
+  {
+    "id": "ed56c115d079c223",
+    "title": "How to spot November's planetary parade in the pre-dawn sky",
+    "summary": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo",
+    "publishedAt": "2026-11-15T10:49:57.000Z"
   },
   {
     "id": "e4c06b2fe0aa4569",
@@ -1240,113 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
     "publishedAt": "2026-11-14T13:10:33.000Z"
-  },
-  {
-    "id": "556878c5250704cf",
-    "title": "Spain vs England: UEFA Nations League – predictions, how to watch, teams",
-    "summary": "Spain, who are unbeaten in their last 43 competitive meetings, host England in Madrid on Sunday.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/14/spain-england-uefa-nations-league-predictions-how-to-watch-teams?traffic_source=rss",
-    "publishedAt": "2026-11-14T13:03:06.000Z"
-  },
-  {
-    "id": "60ee7f0602dabbf2",
-    "title": "Trump ‘whiplash’ on deportations putting Afghans in turmoil: ‘People already survived a war’",
-    "summary": "Members of Congress and advocates warn that returning people to their home countries could be a death sentence.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration",
-    "publishedAt": "2026-11-14T13:00:47.000Z"
-  },
-  {
-    "id": "f0084e16bf53d58a",
-    "title": "‘It’s an architect’s dream’: five beautiful eco buildings around the world",
-    "summary": "From a bamboo gym in Bali to a house made from earth in Wiltshire, these projects show the beauty in sustainable design.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings",
-    "publishedAt": "2026-11-14T13:00:46.000Z"
-  },
-  {
-    "id": "a3aef7752ade1914",
-    "title": "Underwater salt mine closure in Ohio raises safety and supply concerns for winter",
-    "summary": "Questions remain about reason for leak, safety of drinking water and where salt can be sourced for roads during winter.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter",
-    "publishedAt": "2026-11-14T13:00:45.000Z"
-  },
-  {
-    "id": "893f210d41dd3d9c",
-    "title": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
-    "summary": "People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastrophe.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
-    "publishedAt": "2026-11-14T13:00:44.000Z"
-  },
-  {
-    "id": "855ba49d7369d348",
-    "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
-    "summary": "Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
-    "publishedAt": "2026-11-14T12:57:36.000Z"
-  },
-  {
-    "id": "e5f58bc8e3514fe0",
-    "title": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF",
-    "summary": "The SAF successes in Kordofan are seeing the battle against the RSF turn in favour of the Sudanese government.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf?traffic_source=rss",
-    "publishedAt": "2026-11-14T12:49:17.000Z"
-  },
-  {
-    "id": "5bb8d1440bbb4226",
-    "title": "Asia Society's Lizzi C. Lee on big tech restrictions after Nvidia espionage claims",
-    "summary": "NPR's Scott Simon asks Lizzi C. Lee of the Asia Society about restrictions on big tech in the wake of allegations of espionage against Nvidia.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/14/nx-s1-6040188/asia-societys-lizzi-c-lee-on-big-tech-restrictions-after-nvidia-espionage-claims",
-    "publishedAt": "2026-11-14T12:40:27.000Z"
-  },
-  {
-    "id": "e79c1bbf33c7cf90",
-    "title": "SpaceX deploys Starlink satellites in Starship test, but booster crashes into Gulf",
-    "summary": "SpaceX conducted a major test of its Starship rocket Friday night. It deployed several satellites for the Starlink constellation, but there was a problem with its booster.",
-    "category": "Science",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/14/nx-s1-6038958/spacex-deploys-starlink-satellites-in-starship-test-but-booster-crashes-into-gulf",
-    "publishedAt": "2026-11-14T12:40:21.000Z"
-  },
-  {
-    "id": "759845822a92e7ad",
-    "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
-    "summary": "‘We have further to go,’ says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
-    "publishedAt": "2026-11-14T12:33:58.000Z"
-  },
-  {
-    "id": "c352fb4dc5d465c4",
-    "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
-    "summary": "Ukrainian President Volodymyr Zelenskyy says the U.S. has suggested a new security framework for Europe to help end Russia's war in Ukraine.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/zelenskyy-new-european-security-framework-floated-us-benefit-138138301",
-    "publishedAt": "2026-11-14T12:26:50.000Z"
-  },
-  {
-    "id": "00dd2a5a467d239b",
-    "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-    "summary": "A nuclear treaty and the US's war on Iran are among priority topics for China, Russia and US leaders.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
-    "publishedAt": "2026-11-14T12:14:14.000Z"
   }
 ]
