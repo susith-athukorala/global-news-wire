@@ -1,5 +1,41 @@
 [
   {
+    "id": "4f8ab4def119ba01",
+    "title": "Czechs rally against plan to switch funding of public media",
+    "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o",
+    "publishedAt": "2026-11-15T16:36:42.000Z"
+  },
+  {
+    "id": "302649646d522abe",
+    "title": "Thousands rally in Czech Republic against state media funding changes",
+    "summary": "Critics say proposed funding changes will give the government more control of state media.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+    "publishedAt": "2026-11-15T16:32:22.000Z"
+  },
+  {
+    "id": "77828ca2a56f6add",
+    "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
+    "summary": "Democratic senator Chris Van Hollen says Trump administration hasn’t properly invested existing funds.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
+    "publishedAt": "2026-11-15T16:18:49.000Z"
+  },
+  {
+    "id": "9bbf4200ce3ea618",
+    "title": "One of the most commonly injured parts of the body that many of us never train",
+    "summary": "Performance physiotherapist Genevieve Taiwah shares her top tips for looking after the joint that accounts for 5% of A&E visits.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o",
+    "publishedAt": "2026-11-15T16:18:27.000Z"
+  },
+  {
     "id": "e2375872c35401cb",
     "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
     "summary": "Hundreds of thousands of people rallied in Prague against a government plan to overhaul funding for public broadcasters.",
@@ -1312,41 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/zelenskyy-new-european-security-framework-floated-us-benefit-138138301",
     "publishedAt": "2026-11-14T16:26:25.000Z"
-  },
-  {
-    "id": "76b99879a97eb0b2",
-    "title": "Italy fines Meta $880m over photo privacy",
-    "summary": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
-    "publishedAt": "2026-11-14T16:16:15.000Z"
-  },
-  {
-    "id": "86cee693d648c2e0",
-    "title": "Fuel crisis and protests pressure Chile's far-right president",
-    "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
-    "publishedAt": "2026-11-14T16:05:12.000Z"
-  },
-  {
-    "id": "c45402730d90fbe5",
-    "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
-    "summary": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economy.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
-    "publishedAt": "2026-11-14T16:00:48.000Z"
-  },
-  {
-    "id": "aba212013333162f",
-    "title": "EU calls for immediate humanitarian access to Gaza",
-    "summary": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
-    "publishedAt": "2026-11-14T15:57:22.000Z"
   }
 ]
