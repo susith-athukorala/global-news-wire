@@ -1,5 +1,41 @@
 [
   {
+    "id": "30503268397897db",
+    "title": "Reform UK losing support to Labour after ‘difficult year’, says Danny Kruger",
+    "summary": "MP says party is being squeezed by arrival of ‘more plausible’ Labour leader in Andy Burnham.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/15/reform-uk-losing-support-to-labour-after-difficult-year-says-danny-kruger",
+    "publishedAt": "2026-11-15T11:53:01.000Z"
+  },
+  {
+    "id": "f5ee33cfc3ffd131",
+    "title": "Firms need to get onside if Labour’s youth employment push is to have a chance of working | Richard Partington",
+    "summary": "Alan Milburn’s report will call for benefit cuts but lack of entry-level job opportunities is also driving crisis.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push",
+    "publishedAt": "2026-11-15T11:52:03.000Z"
+  },
+  {
+    "id": "09311a4af2d267fc",
+    "title": "Spain says nearly 2,200 migrants reached Canary Islands in 2 days",
+    "summary": "Spain's maritime rescue service says nearly 2,200 migrants have arrived in the Canary Islands over the past two days.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/spain-2200-migrants-reached-canary-islands-2-days-138155239",
+    "publishedAt": "2026-11-15T11:46:56.000Z"
+  },
+  {
+    "id": "82d719e9a8ce7095",
+    "title": "Protest in Prague over media freedom expected to be one of biggest in Czechia’s history",
+    "summary": "Hundreds of thousands expected to rally against plan to scrap licence fees and fund broadcasters from state budget.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+    "publishedAt": "2026-11-15T11:17:18.000Z"
+  },
+  {
     "id": "3b03db4c8820b8b8",
     "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
     "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
@@ -1071,6 +1107,15 @@
     "publishedAt": "2026-11-14T13:00:47.000Z"
   },
   {
+    "id": "f0084e16bf53d58a",
+    "title": "‘It’s an architect’s dream’: five beautiful eco buildings around the world",
+    "summary": "From a bamboo gym in Bali to a house made from earth in Wiltshire, these projects show the beauty in sustainable design.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings",
+    "publishedAt": "2026-11-14T13:00:46.000Z"
+  },
+  {
     "id": "a3aef7752ade1914",
     "title": "Underwater salt mine closure in Ohio raises safety and supply concerns for winter",
     "summary": "Questions remain about reason for leak, safety of drinking water and where salt can be sourced for roads during winter.",
@@ -1303,50 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/judo-star-teddy-riner-taking-toughest-battle-french-138136080",
     "publishedAt": "2026-11-14T10:31:42.000Z"
-  },
-  {
-    "id": "87d75b8efa23e76d",
-    "title": "Southeast Asian leaders will call for peaceful resolutions of conflicts. Trump will join final talks",
-    "summary": "Southeast Asian leaders will gather in the Philippine capital this weekend for the annual ASEAN summit that will focus on global conflicts.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/southeast-asian-leaders-call-peaceful-resolutions-conflicts-trump-138136538",
-    "publishedAt": "2026-11-14T10:31:31.000Z"
-  },
-  {
-    "id": "b572258d92de8cc3",
-    "title": "Pope's visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru",
-    "summary": "Pope Leo XIV is putting the spotlight on Afro-Peruvians during a visit to a hub of their community.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/popes-visit-hub-afro-peruvian-community-casts-spotlight-138137149",
-    "publishedAt": "2026-11-14T10:31:08.000Z"
-  },
-  {
-    "id": "aad3d60bc47e7730",
-    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-    "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
-    "publishedAt": "2026-11-14T10:30:38.000Z"
-  },
-  {
-    "id": "69645c65bbf055b6",
-    "title": "South Sudan postpones first-ever national elections until February",
-    "summary": "The vote, first expected in 2022, will now be held on February 11, according to the country's election commission.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
-    "publishedAt": "2026-11-14T10:30:32.000Z"
-  },
-  {
-    "id": "ecf739fac45ed1d7",
-    "title": "Noel Fielding ‘horrified and deeply disturbed’ by Russell Brand’s crimes",
-    "summary": "Comedian regrets ‘inappropriate’ jokes he made with Brand during work pair did together in the 2000s.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2026/nov/14/noel-fielding-horrified-deeply-disturbed-russell-brand-crimes",
-    "publishedAt": "2026-11-14T10:14:07.000Z"
   }
 ]
