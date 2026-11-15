@@ -1,5 +1,23 @@
 [
   {
+    "id": "d8af2c1b6e71c196",
+    "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
+    "summary": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
+    "publishedAt": "2026-11-15T04:44:57.000Z"
+  },
+  {
+    "id": "314a35f02ae621b1",
+    "title": "Zimbabwe’s HIV gains face a test among young people",
+    "summary": "New prevention tools offer hope, but reaching young people remains a challenge.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss",
+    "publishedAt": "2026-11-15T04:13:00.000Z"
+  },
+  {
     "id": "e6ff120e40a3dd9f",
     "title": "World leaders head to Asia for back-to-back diplomatic summits",
     "summary": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings.",
@@ -351,6 +369,15 @@
     "publishedAt": "2026-11-14T19:00:52.000Z"
   },
   {
+    "id": "0dc2cd1b7a43f23d",
+    "title": "US government says wire replacement caused nationwide grounding of flights",
+    "summary": "The US government has blamed a nationwide aviation shutdown which has disrupted more than 20,000 flights on a program to replace copper wires with new fibre ones.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-15/us-airlines-more-disruptions-ahead-of-thanksgiving/107386452",
+    "publishedAt": "2026-11-14T18:40:57.000Z"
+  },
+  {
     "id": "46c51305b46e9fc9",
     "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
     "summary": "Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'.",
@@ -583,6 +610,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/thefilter-us/2026/nov/14/best-holiday-gifts-ideas-guide",
     "publishedAt": "2026-11-14T14:00:47.000Z"
+  },
+  {
+    "id": "c47e0411e1f3b7b8",
+    "title": "US floated NATO membership for Ukraine, Zelenskyy says",
+    "summary": "US negotiators have raised the prospect of Ukraine withdrawing from its eastern region of Donbas in exchange for joining NATO, according to President Volodymyr Zelenskyy.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-15/us-idea-of-ukraine-ceding-donbas-to-join-nato-zelenskyy/107386558",
+    "publishedAt": "2026-11-14T13:51:27.000Z"
   },
   {
     "id": "66000d42c535da35",
@@ -1312,41 +1348,5 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-14/australians-stranded-in-us-amid-flight-cancellations-chaos/107385998",
     "publishedAt": "2026-11-14T03:24:57.000Z"
-  },
-  {
-    "id": "81eaeae01e4deb87",
-    "title": "What we know so far about why US flights were grounded",
-    "summary": "Aviation authorities cited \"extraordinary circumstances and reasons of safety\", with the White House blaming outdated air traffic control technology for a communications outage.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-14/what-we-know-about-the-us-flight-groundstop/107385910",
-    "publishedAt": "2026-11-14T03:12:45.000Z"
-  },
-  {
-    "id": "4b1ed9147537f309",
-    "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
-    "summary": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
-    "publishedAt": "2026-11-14T02:49:59.000Z"
-  },
-  {
-    "id": "d3681030415b8652",
-    "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
-    "summary": "More than 5,400 confirmed measles cases have been recorded in the US to date this year.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
-    "publishedAt": "2026-11-14T02:34:50.000Z"
-  },
-  {
-    "id": "a0f2c4fb94af7e3c",
-    "title": "US-bound flights out of Australia grounded as telecommunications outage affects American travel",
-    "summary": "Sydney and Melbourne airports say grounding of planes from US airports led to delays for some flights.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
-    "publishedAt": "2026-11-14T01:54:25.000Z"
   }
 ]
