@@ -1,5 +1,95 @@
 [
   {
+    "id": "92aa9f8eafa4fd63",
+    "title": "Polls open in Cape Verde in race with first female presidential candidate",
+    "summary": "Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate?traffic_source=rss",
+    "publishedAt": "2026-11-15T10:03:02.000Z"
+  },
+  {
+    "id": "9d07b354d59a8769",
+    "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+    "summary": "The latest instalment of the epic crime saga is finally here. We visit Rockstar Games for a hands-on encounter with the cultural event of the decade – and can confirm it’s more than lives up to the hype.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
+    "publishedAt": "2026-11-15T10:00:10.000Z"
+  },
+  {
+    "id": "a0812d7475a0959a",
+    "title": "Troubled Scottish steel supplier raises questions over Royal Navy contracts",
+    "summary": "Liberty Steel Dalzell plant in Motherwell with order for 34,000 tonnes of metal plate to build three warships has struggled to pay bills.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/15/liberty-steel-dalzell-scotland-royal-navy-contracts-warships",
+    "publishedAt": "2026-11-15T10:00:10.000Z"
+  },
+  {
+    "id": "153ee7df6068d325",
+    "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+    "summary": "The film Being Heumann tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+    "publishedAt": "2026-11-15T10:00:00.000Z"
+  },
+  {
+    "id": "02a379bb7c4d9541",
+    "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
+    "summary": "Sudan's power stations are being targeted in waves of drone attacks, resulting in power outages.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss",
+    "publishedAt": "2026-11-15T09:59:37.000Z"
+  },
+  {
+    "id": "3313d19f4c0a1f56",
+    "title": "Iran says it targets US radar in Bahrain. What do we know?",
+    "summary": "Bahrain Defence Force says its air defence systems thwart several Iranian 'aerial attacks'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
+    "publishedAt": "2026-11-15T09:41:27.000Z"
+  },
+  {
+    "id": "f983ed25dc0788eb",
+    "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+    "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o",
+    "publishedAt": "2026-11-15T09:26:37.000Z"
+  },
+  {
+    "id": "42f70818f68f5edf",
+    "title": "Digital finance products used to abuse almost 20% of young women and girls, UK report finds",
+    "summary": "Survey respondents describe current or former partners controlling bank accounts and taking out credit online without full consent.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/15/digital-finance-products-abuse-against-young-women-and-girls-report",
+    "publishedAt": "2026-11-15T09:22:39.000Z"
+  },
+  {
+    "id": "d9c779d3d7f53636",
+    "title": "What forced the US to ground all planes? A router switch, we now know",
+    "summary": "US officials say a routine upgrade that went awry caused the mass disruption of air travel.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss",
+    "publishedAt": "2026-11-15T09:17:49.000Z"
+  },
+  {
+    "id": "c3ca630d9bc0245c",
+    "title": "Pasta, pies and paperwork errors: the reality of Brexit food checks",
+    "summary": "Delayed deliveries and inspection hold-ups among issues facing hauliers navigating post-Brexit border processes.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/15/drivers-delays-brexit-food-checks",
+    "publishedAt": "2026-11-15T09:04:18.000Z"
+  },
+  {
     "id": "aa2588991e1a8a3e",
     "title": "AI cheating scandal rattles South Korea as annual college exam looms",
     "summary": "Fears for national entrance exam next week, as top scorer on tax exam admits sending photos of questions to AI tool.",
@@ -286,6 +376,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/15/katherine-deves-among-four-nsw-upper-house-candidates-revealed-by-one-nation-ntwnfb",
     "publishedAt": "2026-11-15T02:13:20.000Z"
+  },
+  {
+    "id": "e043f4cff3c928f2",
+    "title": "Italy fines Meta $887m for accessing Android users’ photos and videos",
+    "summary": "The fine is among the largest an Italian authority has imposed on a tech giant and Meta says it plans to appeal the decision.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos",
+    "publishedAt": "2026-11-15T02:02:01.000Z"
   },
   {
     "id": "1da17fe41f941f94",
@@ -1249,104 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
     "publishedAt": "2026-11-14T10:00:00.000Z"
-  },
-  {
-    "id": "345e727de94707ff",
-    "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
-    "summary": "Israel’s far-right is accused of embedding a hardline agenda so deeply that reversing it may prove almost impossible.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss",
-    "publishedAt": "2026-11-14T09:43:27.000Z"
-  },
-  {
-    "id": "77bc0d5b3703cced",
-    "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
-    "summary": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
-    "publishedAt": "2026-11-14T09:19:43.000Z"
-  },
-  {
-    "id": "8e3c7560b30f3041",
-    "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
-    "summary": "An ex-minister faces a bribery probe as Hungary's new government investigates alleged corruption during Orban's rule.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
-    "publishedAt": "2026-11-14T09:08:21.000Z"
-  },
-  {
-    "id": "94a11513a504c7c7",
-    "title": "Immersive show brings Kyffin Williams’ rugged Welsh landscapes to life",
-    "summary": "Paintings by one of country’s most important artists have been animated and set to music at National Library of Wales.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/artanddesign/2026/nov/14/sir-kyffin-williams-artist-immersive-exhibition-national-library-wales-aberystwyth",
-    "publishedAt": "2026-11-14T09:00:39.000Z"
-  },
-  {
-    "id": "7fc09f81a94f4d0b",
-    "title": "Football kit giveaway aims to boost participation",
-    "summary": "Millie Bright helps hand out free kit to young girls to help them keep playing in spite of costs.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck20v651473qo",
-    "publishedAt": "2026-11-14T08:13:40.000Z"
-  },
-  {
-    "id": "e9a76b1fa20acaa8",
-    "title": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
-    "summary": "Former opener Warner was banned for a year for his involvement in the 2018 'Sandpapergate' incident in South Africa.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss",
-    "publishedAt": "2026-11-14T08:10:14.000Z"
-  },
-  {
-    "id": "e6c82f337c451ea6",
-    "title": "Pacers hold off Knicks in NBA Cup thriller, Spurs rout Warriors",
-    "summary": "The New York Knicks look unlikely to advance to the NBA Cup knockout rounds after falling to the Indiana Pacers.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/14/nba-cup-basketball-pacers-knicks-spurs-warriors?traffic_source=rss",
-    "publishedAt": "2026-11-14T08:01:23.000Z"
-  },
-  {
-    "id": "8142a71bad5ab790",
-    "title": "Hundreds of children in England prescribed weight-loss jabs, figures show",
-    "summary": "Exclusive: investigation finds prescriptions for children under 12, as experts stress need for specialist supervision and long-term monitoring.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs",
-    "publishedAt": "2026-11-14T08:00:39.000Z"
-  },
-  {
-    "id": "4c532d85e8847313",
-    "title": "Tout offers £1m of U2 tickets on StubHub, raising questions about ‘bot’ clampdown",
-    "summary": "Artists and industry figures call for culture secretary to ‘shut down the touts’ by outlawing resale for profit.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/14/u2-tickets-stubhub-bot-culture-secretary-resale",
-    "publishedAt": "2026-11-14T08:00:39.000Z"
-  },
-  {
-    "id": "1ff1864b46f8c461",
-    "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
-    "summary": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
-    "publishedAt": "2026-11-14T07:46:36.000Z"
-  },
-  {
-    "id": "5288ba134666749c",
-    "title": "Reijnders’ hat-trick fires Dutch to 7-0 rout of Greece, Germany beat Serbia",
-    "summary": "Netherlands' 7-0 annihilation of Greece means the Germans will likely need to win on Monday to reach the quarterfinals.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/14/reijnders-hattrick-netherlands-germany-uefa-nations-league-football?traffic_source=rss",
-    "publishedAt": "2026-11-14T07:19:20.000Z"
   }
 ]
