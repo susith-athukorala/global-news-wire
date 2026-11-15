@@ -1,5 +1,86 @@
 [
   {
+    "id": "936ae24e1427a771",
+    "title": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
+    "summary": "Unlike familiar Captcha tests, this con asks you to press a series of keys. And that’s a way in for fraudsters to install malicious software.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
+    "publishedAt": "2026-11-15T07:00:06.000Z"
+  },
+  {
+    "id": "dd5fc1b511696b16",
+    "title": "Mental health is no joke - but I've turned it into a stand-up routine",
+    "summary": "People who have struggled with mental ill-health are giving stand-up a go to tell their stories.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck1l05lqjrq6o",
+    "publishedAt": "2026-11-15T06:41:46.000Z"
+  },
+  {
+    "id": "34396b6f5600b6f5",
+    "title": "Pope Leo helps Argentines embrace Francis, the pontiff who once divided them",
+    "summary": "Millions of Argentines have turned out to see Pope Leo XIV — and the words that moved them most often belonged to his predecessor, and their compatriot, Francis.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-leo-helps-argentines-embrace-francis-pontiff-divided-138153510",
+    "publishedAt": "2026-11-15T06:38:34.000Z"
+  },
+  {
+    "id": "29fe13ceeb93ff34",
+    "title": "Ebola outbreak remains out of control in Congo 6 months into response",
+    "summary": "Congo’s Ebola outbreak remains out of control six months after it was announced, with more than 11,000 cases recorded and nearly half proving fatal.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/ebola-outbreak-remains-control-congo-6-months-response-138153553",
+    "publishedAt": "2026-11-15T06:37:41.000Z"
+  },
+  {
+    "id": "5b81e3ac84bc2d0a",
+    "title": "Africa is charting a different road to electric mobility with motorbikes and versatile 3-wheelers",
+    "summary": "In Africa, the electric vehicle transition is taking a different route from wealthier markets, with motorcycles and three-wheelers emerging as practical alternatives to passenger cars.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/africa-charting-road-electric-mobility-motorbikes-versatile-3-138153368",
+    "publishedAt": "2026-11-15T06:29:41.000Z"
+  },
+  {
+    "id": "dc785f3a9115eea4",
+    "title": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda",
+    "summary": "Southeast Asian leaders have opened their annual summit in the Philippine capital Manila for three days of talks.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/southeast-asian-leaders-open-annual-summit-major-conflicts-138153824",
+    "publishedAt": "2026-11-15T06:29:29.000Z"
+  },
+  {
+    "id": "88bda1579ac188d6",
+    "title": "Cape Verde could elect first woman president since gaining independence in 1975",
+    "summary": "Cape Verde could elect its first woman president as former Justice Minister Joana Rosa challenges incumbent Jos&eacute; Maria Neves.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/cape-verde-elect-woman-president-gaining-independence-1975-138154009",
+    "publishedAt": "2026-11-15T06:29:24.000Z"
+  },
+  {
+    "id": "36c027852976f0fb",
+    "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+    "summary": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+    "publishedAt": "2026-11-15T06:22:32.000Z"
+  },
+  {
+    "id": "86496b651ccdcf08",
+    "title": "Secret votes and vetoes: How will the next UN chief be picked?",
+    "summary": "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
+    "publishedAt": "2026-11-15T06:11:00.000Z"
+  },
+  {
     "id": "9bbc450964fcffa6",
     "title": "Gymshark in trademark battle that threatens future of small fitness business",
     "summary": "Exclusive: British sportswear firm is seeking to obtain rights to The Conditioning Club, which is also the name of a Gloucestershire gym.",
@@ -196,6 +277,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o",
     "publishedAt": "2026-11-15T00:01:07.000Z"
+  },
+  {
+    "id": "614532eebcb8291a",
+    "title": "How telecoms upgrade work sparked US flight chaos",
+    "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
+    "publishedAt": "2026-11-14T23:11:27.000Z"
   },
   {
     "id": "77bfacf4a0993f4a",
@@ -1258,95 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/environment/2026/nov/14/salmon-organic-british-farmed-environmental-welfare",
     "publishedAt": "2026-11-14T06:00:37.000Z"
-  },
-  {
-    "id": "25b6951773cfaf62",
-    "title": "UK tells blind Nigerian pensioner to go home to India",
-    "summary": "Woman who has lived in UK for 26 years refused indefinite leave to remain under Home Office’s new settlement rules.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
-    "publishedAt": "2026-11-14T06:00:37.000Z"
-  },
-  {
-    "id": "caabb547847b87ff",
-    "title": "Goalkeeper Owono handed 12-match ban after De Miguel death",
-    "summary": "Owono and De Miguel ⁠collided during a Spanish second-tier match between FC Andorra and ​Tenerife on November 2.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/14/jesus-de-miguel-death-goalkeeper-owono-12-match-ban-collision-tenerife-andorra?traffic_source=rss",
-    "publishedAt": "2026-11-14T05:59:49.000Z"
-  },
-  {
-    "id": "10bdccdf58640905",
-    "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-    "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
-    "publishedAt": "2026-11-14T05:52:31.000Z"
-  },
-  {
-    "id": "88519fdcb788c994",
-    "title": "Paranoid or practical? Britain’s ‘Be Ready’ citizen campaign",
-    "summary": "People in England and Wales are rushing to buy tinned goods and wind-up radios - but what's it all for?",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/14/paranoid-or-practical-britains-be-ready-citizen?traffic_source=rss",
-    "publishedAt": "2026-11-14T05:51:42.000Z"
-  },
-  {
-    "id": "75023870efe3e907",
-    "title": "FAA ground stop disrupts NBA, NHL and college football weekend travel",
-    "summary": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
-    "publishedAt": "2026-11-14T05:42:41.000Z"
-  },
-  {
-    "id": "990a76b42f718a66",
-    "title": "Violent attacks on critics of China in Taiwan raise concern over transnational repression",
-    "summary": "Comedian Huang Yi-hao was involved in a car accident in September, but it turned out to be a deliberate attack.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/violent-attacks-critics-china-taiwan-raise-concern-transnational-138132369",
-    "publishedAt": "2026-11-14T05:32:26.000Z"
-  },
-  {
-    "id": "89799cbdd764a746",
-    "title": "French-speaking nations hold a summit in Cambodia but an African conflict threatens a rift",
-    "summary": "France's President Emmanuel Macron and other leaders are attending a biennial meeting of French-speaking countries and territories in Cambodia.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/french-speaking-nations-hold-summit-cambodia-african-conflict-138135244",
-    "publishedAt": "2026-11-14T05:31:20.000Z"
-  },
-  {
-    "id": "c41b7bb8a4a3ba86",
-    "title": "University hounded out of Hungary by Orbán reaches out to new government",
-    "summary": "Prospect of partial return to Budapest by Central European University suggests confidence in Hungary’s future.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
-    "publishedAt": "2026-11-14T05:00:35.000Z"
-  },
-  {
-    "id": "f4962b7c6f76d1ed",
-    "title": "Trump, Xi and Putin to hold first three-way summit in China",
-    "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
-    "publishedAt": "2026-11-14T04:55:58.000Z"
-  },
-  {
-    "id": "c68c1f7b14db7c1e",
-    "title": "Lagos Art Week confronts history, identity and belonging",
-    "summary": "ART X Lagos celebrates Africa's heritage and contemporary creativity.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/lagos-art-week-confronts-history-identity-and-belonging?traffic_source=rss",
-    "publishedAt": "2026-11-14T04:46:01.000Z"
   }
 ]
