@@ -1,5 +1,50 @@
 [
   {
+    "id": "46cd3992f87ec794",
+    "title": "Hundreds of men march in Switzerland to protest violence against women",
+    "summary": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+    "publishedAt": "2026-11-15T00:27:14.000Z"
+  },
+  {
+    "id": "5430714d670ada0c",
+    "title": "UK government to consider changing age of consent after allegations against Russell Brand",
+    "summary": "Deputy prime minister says change would be a massive step but ‘deserves proper consideration and scrutiny’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+    "publishedAt": "2026-11-15T00:17:14.000Z"
+  },
+  {
+    "id": "809ce5879794b0f4",
+    "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+    "summary": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+    "publishedAt": "2026-11-15T00:14:22.000Z"
+  },
+  {
+    "id": "f0b1e5506ff2a4db",
+    "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+    "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o",
+    "publishedAt": "2026-11-15T00:06:55.000Z"
+  },
+  {
+    "id": "e7e42593e733e6bb",
+    "title": "Judo champion shakes up French presidential race with surprise candidacy",
+    "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo",
+    "publishedAt": "2026-11-15T00:06:51.000Z"
+  },
+  {
     "id": "eaa5ba53ff33265f",
     "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
     "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
@@ -765,6 +810,15 @@
     "publishedAt": "2026-11-14T10:03:12.000Z"
   },
   {
+    "id": "ffbd1a64645c93e8",
+    "title": "‘The social contract is broken’: young people on feeling shut out of careers",
+    "summary": "In the first instalment of a new series, four young people reveal the impact of an endless cycle of applications and rejections.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/14/young-people-shut-out-of-work-ai",
+    "publishedAt": "2026-11-14T10:00:42.000Z"
+  },
+  {
     "id": "3490e630f22c2f51",
     "title": "Guardian to follow lives of eight young people in their search for work",
     "summary": "How long will it take? What challenges will they face?",
@@ -1294,59 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
     "publishedAt": "2026-11-13T23:38:09.000Z"
-  },
-  {
-    "id": "ec3ce67c705386a4",
-    "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-    "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo",
-    "publishedAt": "2026-11-13T23:11:51.000Z"
-  },
-  {
-    "id": "158b642aada4699f",
-    "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-    "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo",
-    "publishedAt": "2026-11-13T23:00:31.000Z"
-  },
-  {
-    "id": "89d0595e7ebf0285",
-    "title": "Woman with terminal cancer gets dream wedding on hospital ward",
-    "summary": "Maggie Heginbothom thanks staff after \"dream\" ceremony is arranged two days after her partner proposed.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm702wjg48k2o",
-    "publishedAt": "2026-11-13T22:55:00.000Z"
-  },
-  {
-    "id": "088af6d63819d9fb",
-    "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
-    "summary": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
-    "publishedAt": "2026-11-13T22:47:16.000Z"
-  },
-  {
-    "id": "fcc1899af9d52bc9",
-    "title": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Israel’s Arab minority",
-    "summary": "Statement a rare instance of a prominent Jewish political leader taking a strong stand in defence of Arab Israelis.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
-    "publishedAt": "2026-11-13T22:36:38.000Z"
-  },
-  {
-    "id": "968e6c7500c84fdd",
-    "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
-    "summary": "Anti-corruption agency carried out searches as part of investigation into Orbán-era minister accused of taking bribes.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
-    "publishedAt": "2026-11-13T22:12:54.000Z"
   }
 ]
