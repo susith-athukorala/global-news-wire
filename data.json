@@ -1,5 +1,50 @@
 [
   {
+    "id": "aa2588991e1a8a3e",
+    "title": "AI cheating scandal rattles South Korea as annual college exam looms",
+    "summary": "Fears for national entrance exam next week, as top scorer on tax exam admits sending photos of questions to AI tool.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+    "publishedAt": "2026-11-15T08:56:11.000Z"
+  },
+  {
+    "id": "cff3a2dd4925aef6",
+    "title": "India pulled 500m people out of poverty. Many of them still barely survive",
+    "summary": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
+    "publishedAt": "2026-11-15T08:49:47.000Z"
+  },
+  {
+    "id": "8bdeb42b76c2af4d",
+    "title": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
+    "summary": "Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss",
+    "publishedAt": "2026-11-15T08:29:18.000Z"
+  },
+  {
+    "id": "ba97c273f7f8892b",
+    "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+    "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo",
+    "publishedAt": "2026-11-15T08:17:41.000Z"
+  },
+  {
+    "id": "0eca7d7612cb4c6b",
+    "title": "Jordan sentences three men to death by hanging after deadly church attack",
+    "summary": "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
+    "publishedAt": "2026-11-15T08:15:04.000Z"
+  },
+  {
     "id": "cd64ba12f35b238a",
     "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
     "summary": "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.",
@@ -34,6 +79,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
     "publishedAt": "2026-11-15T07:11:24.000Z"
+  },
+  {
+    "id": "2a85831be2aad485",
+    "title": "‘I’m scared about my future’: young people on the stress and desperation of jobseeking",
+    "summary": "In the second in our series, four young Britons reveal how the search has taken a toll on their mental and physical health.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/15/young-people-stress-seeking-a-job-mental-physical-health",
+    "publishedAt": "2026-11-15T07:00:07.000Z"
   },
   {
     "id": "936ae24e1427a771",
@@ -547,6 +601,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
     "publishedAt": "2026-11-14T19:01:32.000Z"
+  },
+  {
+    "id": "07e40d963a39a75c",
+    "title": "Sex, spies and Silicon Valley: Nvidia scandal highlights risks for big tech",
+    "summary": "Chinese economic espionage is in the spotlight after the downfall of Nvidia chief Jensen Huang, and former intelligence officials say the US is not doing enough to combat it.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-15/sex-spies-silicon-valley-nvidia-saga-highlights-risks-for-tech/107386438",
+    "publishedAt": "2026-11-14T19:01:02.000Z"
   },
   {
     "id": "f35a0b4eb69fd2e7",
@@ -1285,68 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/14/reijnders-hattrick-netherlands-germany-uefa-nations-league-football?traffic_source=rss",
     "publishedAt": "2026-11-14T07:19:20.000Z"
-  },
-  {
-    "id": "89d0595e7ebf0285",
-    "title": "Woman with terminal cancer gets dream wedding on hospital ward",
-    "summary": "Maggie Heginbothom thanked the staff after a \"dream\" ceremony was arranged two days after her partner proposed.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm702wjg48k2o",
-    "publishedAt": "2026-11-14T07:12:30.000Z"
-  },
-  {
-    "id": "7d4620104e59f2ab",
-    "title": "Extreme weather leaves gardeners hedging their bets",
-    "summary": "Gardeners across Sussex are changing their planting strategies after this year's unprecedented heat.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo",
-    "publishedAt": "2026-11-14T07:12:14.000Z"
-  },
-  {
-    "id": "6fcccadeafe19b71",
-    "title": "What do Christmas market traders say about rising prices?",
-    "summary": "From £8 bratwursts to £11 Yorkshire pudding wraps, why is the cost of the markets rising year on year?",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c95y152k8erpo",
-    "publishedAt": "2026-11-14T07:11:26.000Z"
-  },
-  {
-    "id": "1ee028689038b1ee",
-    "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
-    "summary": "Eurotunnel owner Getlink wants to replicate ‘airport experience’ at Folkestone and Calais, without making people get out of cars.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
-    "publishedAt": "2026-11-14T07:00:38.000Z"
-  },
-  {
-    "id": "665509d3e15aef1a",
-    "title": "Bristol aims to become UK’s first ‘wetland city’ and reduce flood risk",
-    "summary": "Five-year project will create wildlife corridors by building wetlands and increase access to green and blue spaces.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/14/bristol-first-uk-wetland-city-flood",
-    "publishedAt": "2026-11-14T07:00:37.000Z"
-  },
-  {
-    "id": "0c1ae2e3c7d62f45",
-    "title": "Bluetongue virus confirmed on County Down farm",
-    "summary": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo",
-    "publishedAt": "2026-11-14T06:56:58.000Z"
-  },
-  {
-    "id": "e8661a09b9ff3356",
-    "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
-    "summary": "ASEAN summit comes as US president embarks on Asia trip that will see him meet China's Xi.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss",
-    "publishedAt": "2026-11-14T06:48:14.000Z"
   }
 ]
