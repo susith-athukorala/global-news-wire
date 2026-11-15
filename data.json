@@ -1,5 +1,41 @@
 [
   {
+    "id": "e2375872c35401cb",
+    "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
+    "summary": "Hundreds of thousands of people rallied in Prague against a government plan to overhaul funding for public broadcasters.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/czechs-gather-big-numbers-reject-governments-plan-overhaul-138158812",
+    "publishedAt": "2026-11-15T15:53:29.000Z"
+  },
+  {
+    "id": "ec6b2e790328d696",
+    "title": "Two planes collide on taxiway at Miami airport one day after national grounding",
+    "summary": "Two people injured after wingtip of Copa Airlines Boeing 737 struck nose of United Parcel Service Boeing 767.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide",
+    "publishedAt": "2026-11-15T15:40:04.000Z"
+  },
+  {
+    "id": "e6c7e401883d7698",
+    "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+    "summary": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
+    "publishedAt": "2026-11-15T15:21:21.000Z"
+  },
+  {
+    "id": "3b2353c7a415a319",
+    "title": "Record number of migrants arrive in Spain’s Canary Islands",
+    "summary": "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
+    "publishedAt": "2026-11-15T15:16:29.000Z"
+  },
+  {
     "id": "2c1a9a376df350a0",
     "title": "Zelenskyy warns Starshield restrictions threaten Ukraine’s energy defenses",
     "summary": "Restrictions on the system hamper Kyiv’s ability to shoot down Russian drones.",
@@ -16,6 +52,24 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/southeast-asian-leaders-denounce-violence-myanmar-extend-ban-138155822",
     "publishedAt": "2026-11-15T15:03:50.000Z"
+  },
+  {
+    "id": "6283af300979e76b",
+    "title": "When the boss has an affair, the whole family business can pay the price",
+    "summary": "Fallout from ex-Nvidia CEO Jensen Huang’s affair is the latest reminder of the shared toll paid when patriarchs cheat.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/15/nvidia-ceo-jensen-huang-affair-business",
+    "publishedAt": "2026-11-15T15:00:16.000Z"
+  },
+  {
+    "id": "a416565ff7b6a849",
+    "title": "FBI raids and a recycling firm: how a promising US mayor wound up at the center of a bribery scandal",
+    "summary": "As Oakland residents watch ex-mayor Sheng Thao stand trial, the scandal has come to symbolise wider frustrations.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/15/oakland-mayor-bribery-scandal-recycling",
+    "publishedAt": "2026-11-15T15:00:16.000Z"
   },
   {
     "id": "198b16a285bdd851",
@@ -1294,59 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
     "publishedAt": "2026-11-14T15:57:22.000Z"
-  },
-  {
-    "id": "10bdccdf58640905",
-    "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-    "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
-    "publishedAt": "2026-11-14T15:53:55.000Z"
-  },
-  {
-    "id": "29951b56ba724eaa",
-    "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-    "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo",
-    "publishedAt": "2026-11-14T15:42:54.000Z"
-  },
-  {
-    "id": "796b977da194f843",
-    "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-    "summary": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-    "publishedAt": "2026-11-14T15:34:54.000Z"
-  },
-  {
-    "id": "d76b98b80e0e16fe",
-    "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
-    "summary": "The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss",
-    "publishedAt": "2026-11-14T15:14:54.000Z"
-  },
-  {
-    "id": "913b219153a653bf",
-    "title": "Canada’s Stelco to recall 175 workers after government pressure",
-    "summary": "Steelmaker promises back pay for workers whose layoffs its US owner blamed on tariffs, weak demand and imports.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
-    "publishedAt": "2026-11-14T15:06:52.000Z"
-  },
-  {
-    "id": "a2fafccb073fb752",
-    "title": "US air travel slowly recovers from nationwide flight ground stop as chaos continues",
-    "summary": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide grounding.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
-    "publishedAt": "2026-11-14T15:03:00.000Z"
   }
 ]
