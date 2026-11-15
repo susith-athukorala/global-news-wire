@@ -1,5 +1,32 @@
 [
   {
+    "id": "1da17fe41f941f94",
+    "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+    "summary": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+    "publishedAt": "2026-11-15T01:54:55.000Z"
+  },
+  {
+    "id": "3563a1720b74526b",
+    "title": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
+    "summary": "Volatile weather predicted after storms on Saturday, with a man in his 20s struck by lightning while swimming on NSW Central Coast.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike",
+    "publishedAt": "2026-11-15T01:52:37.000Z"
+  },
+  {
+    "id": "02c39fc80528b84e",
+    "title": "Israeli air strike kills senior Hamas commander in Gaza",
+    "summary": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-15T01:00:42.000Z"
+  },
+  {
     "id": "46cd3992f87ec794",
     "title": "Hundreds of men march in Switzerland to protest violence against women",
     "summary": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
@@ -657,6 +684,15 @@
     "publishedAt": "2026-11-14T11:14:18.000Z"
   },
   {
+    "id": "fcc1899af9d52bc9",
+    "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
+    "summary": "Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+    "publishedAt": "2026-11-14T11:11:03.000Z"
+  },
+  {
     "id": "ed56c115d079c223",
     "title": "How to spot November's planetary parade in the pre-dawn sky",
     "summary": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
@@ -943,6 +979,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/14/reijnders-hattrick-netherlands-germany-uefa-nations-league-football?traffic_source=rss",
     "publishedAt": "2026-11-14T07:19:20.000Z"
+  },
+  {
+    "id": "89d0595e7ebf0285",
+    "title": "Woman with terminal cancer gets dream wedding on hospital ward",
+    "summary": "Maggie Heginbothom thanked the staff after a \"dream\" ceremony was arranged two days after her partner proposed.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm702wjg48k2o",
+    "publishedAt": "2026-11-14T07:12:30.000Z"
   },
   {
     "id": "7d4620104e59f2ab",
@@ -1303,50 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
     "publishedAt": "2026-11-14T00:06:43.000Z"
-  },
-  {
-    "id": "12737c6575ec024d",
-    "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-    "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo",
-    "publishedAt": "2026-11-14T00:03:56.000Z"
-  },
-  {
-    "id": "34ad3f88571e67fb",
-    "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-    "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo",
-    "publishedAt": "2026-11-14T00:03:52.000Z"
-  },
-  {
-    "id": "6de5cfc75fdca885",
-    "title": "What to know about the rare nationwide ground stop issued by the FAA",
-    "summary": "The Federal Aviation Administration issued a ground stop for all planes due to take off in the US, delaying and canceling thousands of flights.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/13/faa-ground-stop-flights-explained",
-    "publishedAt": "2026-11-13T23:56:08.000Z"
-  },
-  {
-    "id": "0962eb8b13d0787d",
-    "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
-    "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
-    "publishedAt": "2026-11-13T23:40:45.000Z"
-  },
-  {
-    "id": "89d13a43c42e3652",
-    "title": "SpaceX Starship megarocket blasts off before expected return for reuse",
-    "summary": "Flight 15 expected to orbit Earth about 14 times over 22 hours, before company catches it at Starbase, Texas.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
-    "publishedAt": "2026-11-13T23:38:09.000Z"
   }
 ]
