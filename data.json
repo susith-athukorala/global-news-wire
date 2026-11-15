@@ -1,5 +1,41 @@
 [
   {
+    "id": "1adf31d370b1feeb",
+    "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+    "summary": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+    "publishedAt": "2026-11-15T22:41:22.000Z"
+  },
+  {
+    "id": "5347c05b78ad567e",
+    "title": "England stun Spain to end La Roja’s 43-game unbeaten run",
+    "summary": "Spain suffer first defeat since March 2024 after losing 3-2 to England in Madrid despite grandstand finish.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss",
+    "publishedAt": "2026-11-15T22:40:01.000Z"
+  },
+  {
+    "id": "fb6772df55822245",
+    "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+    "summary": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko",
+    "publishedAt": "2026-11-15T22:30:03.000Z"
+  },
+  {
+    "id": "284b42719cffceaa",
+    "title": "Police ban protests near 10 schools and five universities in Paris",
+    "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo",
+    "publishedAt": "2026-11-15T22:28:54.000Z"
+  },
+  {
     "id": "25181e53595284c0",
     "title": "What to expect from Trump and Xi's upcoming meeting in China",
     "summary": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
@@ -16,6 +52,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
     "publishedAt": "2026-11-15T22:07:55.000Z"
+  },
+  {
+    "id": "735bc3150eb423af",
+    "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+    "summary": "The countries accuse Israel of preventing tents and other supplies from entering Gaza, despite the humanitarian crisis.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-15T22:06:38.000Z"
   },
   {
     "id": "d1205ad7d9ea5fa2",
@@ -1303,50 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
     "publishedAt": "2026-11-14T22:35:06.000Z"
-  },
-  {
-    "id": "0a2e6d39606be965",
-    "title": "SpaceX rocket orbits Earth and returns to launch pad in world first",
-    "summary": "The successful return of the SpaceX rocket to its launch pad is a breakthrough in the company's decade-long effort to develop a fully reusable rocket.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-15/spacex-rocket-returns-to-launch-pad-after-orbitting-earth/107387168",
-    "publishedAt": "2026-11-14T22:34:32.000Z"
-  },
-  {
-    "id": "c86a433eaa57e4cb",
-    "title": "SpaceX makes history with Starship catch",
-    "summary": "SpaceX catches its Starship rocket as it comes back from space for the very first time.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/14/nx-s1-6041089/spacex-makes-history-with-starship-catch",
-    "publishedAt": "2026-11-14T22:31:41.000Z"
-  },
-  {
-    "id": "4f9047c2206d84de",
-    "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-    "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o",
-    "publishedAt": "2026-11-14T22:27:06.000Z"
-  },
-  {
-    "id": "e08c8514556ba9f5",
-    "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-    "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo",
-    "publishedAt": "2026-11-14T22:15:52.000Z"
-  },
-  {
-    "id": "efa9822a8d94fda4",
-    "title": "US has lost measles elimination status, global health authorities say",
-    "summary": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
-    "publishedAt": "2026-11-14T22:15:02.000Z"
   }
 ]
