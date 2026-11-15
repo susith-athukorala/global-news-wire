@@ -1,5 +1,50 @@
 [
   {
+    "id": "9bbc450964fcffa6",
+    "title": "Gymshark in trademark battle that threatens future of small fitness business",
+    "summary": "Exclusive: British sportswear firm is seeking to obtain rights to The Conditioning Club, which is also the name of a Gloucestershire gym.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/law/2026/nov/15/gymshark-trademark-battle-the-conditioning-club-gloucestershire",
+    "publishedAt": "2026-11-15T06:00:07.000Z"
+  },
+  {
+    "id": "2460d1d60ca9d447",
+    "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+    "summary": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+    "publishedAt": "2026-11-15T06:00:06.000Z"
+  },
+  {
+    "id": "600d195ed7b733f7",
+    "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
+    "summary": "International court of justice has never before found a state guilty of genocide, and ruling will have implications for case against Israel.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
+    "publishedAt": "2026-11-15T06:00:05.000Z"
+  },
+  {
+    "id": "6baac8e6228aa18b",
+    "title": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
+    "summary": "Thames Water says detainees at proposed accommodation should expect to experience insect swarms and strong smells.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
+    "publishedAt": "2026-11-15T06:00:05.000Z"
+  },
+  {
+    "id": "6b6054b17b50bd15",
+    "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+    "summary": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
+    "publishedAt": "2026-11-15T05:05:02.000Z"
+  },
+  {
     "id": "d8af2c1b6e71c196",
     "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
     "summary": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
@@ -1303,50 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/14/lagos-art-week-confronts-history-identity-and-belonging?traffic_source=rss",
     "publishedAt": "2026-11-14T04:46:01.000Z"
-  },
-  {
-    "id": "0ad18a04d3b61954",
-    "title": "German spies granted sweeping new powers",
-    "summary": "Parliament passes legislation months after a thwarted attack at Leipzig-Halle airport, which Berlin linked to Russia.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
-    "publishedAt": "2026-11-14T04:41:11.000Z"
-  },
-  {
-    "id": "e4ebfb404985a366",
-    "title": "ICC stops probe into alleged crimes by US troops in Afghanistan",
-    "summary": "The decision follows feuds between the United States and the Hague-based International Criminal Court.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan?traffic_source=rss",
-    "publishedAt": "2026-11-14T04:03:49.000Z"
-  },
-  {
-    "id": "614532eebcb8291a",
-    "title": "What we know about the longest ground stop since 9/11",
-    "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
-    "publishedAt": "2026-11-14T03:45:21.000Z"
-  },
-  {
-    "id": "d0e0a87975156518",
-    "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
-    "summary": "The FAA says nationwide ground stop disrupting thousands of US flights was caused by a telecommunications outage.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
-    "publishedAt": "2026-11-14T03:32:07.000Z"
-  },
-  {
-    "id": "18b5ae9aeb25a4d3",
-    "title": "'The line-up is huge': Australians caught up in US flight chaos",
-    "summary": "Thousands of flights have been delayed or cancelled across the US, leaving Australian travellers stranded at airports.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-14/australians-stranded-in-us-amid-flight-cancellations-chaos/107385998",
-    "publishedAt": "2026-11-14T03:24:57.000Z"
   }
 ]
