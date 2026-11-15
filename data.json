@@ -1,5 +1,32 @@
 [
   {
+    "id": "06f65017dc2d7f86",
+    "title": "Morocco becomes first Arab nation in FIFA’s top five men’s rankings",
+    "summary": "Morocco moved past former Euro champions Portugal and record World Cup winners Brazil to achieve its best FIFA ranking.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/15/morocco-becomes-first-arab-nation-in-fifas-top-five-mens-rankings?traffic_source=rss",
+    "publishedAt": "2026-11-15T17:33:03.000Z"
+  },
+  {
+    "id": "380758cb22f04867",
+    "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
+    "summary": "Spokesman for the Southern Armed Forces says group is repositioning from Dhubab airport and areas around Bab al-Mandeb.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss",
+    "publishedAt": "2026-11-15T17:33:00.000Z"
+  },
+  {
+    "id": "9f09fb6674dd0568",
+    "title": "Thousands run Cuba’s Marabana marathon as many protest US sanctions",
+    "summary": "Thousands of people have run in Cuba’s Marabana marathon, using the event to protest U.S. economic sanctions.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/thousands-run-cubas-marabana-marathon-protest-us-sanctions-138159101",
+    "publishedAt": "2026-11-15T17:13:53.000Z"
+  },
+  {
     "id": "4f8ab4def119ba01",
     "title": "Czechs rally against plan to switch funding of public media",
     "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
@@ -1321,32 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
     "publishedAt": "2026-11-14T16:58:33.000Z"
-  },
-  {
-    "id": "bb8f3f72dec0871f",
-    "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
-    "summary": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
-    "publishedAt": "2026-11-14T16:53:39.000Z"
-  },
-  {
-    "id": "be71a71e8a5a71b4",
-    "title": "Italy fines Meta €805m over accessing users' photos",
-    "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
-    "publishedAt": "2026-11-14T16:29:48.000Z"
-  },
-  {
-    "id": "c352fb4dc5d465c4",
-    "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
-    "summary": "Ukrainian President Volodymyr Zelenskyy says the U.S. has raised the idea of a new postwar security framework for Europe.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/zelenskyy-new-european-security-framework-floated-us-benefit-138138301",
-    "publishedAt": "2026-11-14T16:26:25.000Z"
   }
 ]
