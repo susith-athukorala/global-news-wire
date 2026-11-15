@@ -1,5 +1,41 @@
 [
   {
+    "id": "cd64ba12f35b238a",
+    "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
+    "summary": "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
+    "publishedAt": "2026-11-15T08:07:08.000Z"
+  },
+  {
+    "id": "bdfd75bbc9edbb78",
+    "title": "AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership",
+    "summary": "Clubs with wealthy proprietors can maintain a loss-making operation but things can be more complex when the supporters carry the can.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/15/afc-wimbledon-a-failed-87m-investment-bid-and-the-challenge-for-fan-ownership",
+    "publishedAt": "2026-11-15T08:00:09.000Z"
+  },
+  {
+    "id": "e88e910f9078a4ae",
+    "title": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
+    "summary": "Substitute Tatsuhiro Sakamoto’s late goal helps Japan avenge their defeat by Brazil in the World Cup round of 32.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss",
+    "publishedAt": "2026-11-15T07:30:21.000Z"
+  },
+  {
+    "id": "b862561d8b944af8",
+    "title": "ASEAN summit: Who’s attending and what’s at stake?",
+    "summary": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
+    "publishedAt": "2026-11-15T07:11:24.000Z"
+  },
+  {
     "id": "936ae24e1427a771",
     "title": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
     "summary": "Unlike familiar Captcha tests, this con asks you to press a series of keys. And that’s a way in for fraudsters to install malicious software.",
@@ -279,6 +315,15 @@
     "publishedAt": "2026-11-15T00:01:07.000Z"
   },
   {
+    "id": "89799cbdd764a746",
+    "title": "French-speaking nations hold a summit in Cambodia as a conflict in Africa threatens a rift",
+    "summary": "France's President Emmanuel Macron and other leaders are attending a biennial meeting of French-speaking countries and territories in Cambodia's capital, Phnom Penh.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/french-speaking-nations-hold-summit-cambodia-african-conflict-138135244",
+    "publishedAt": "2026-11-14T23:30:13.000Z"
+  },
+  {
     "id": "614532eebcb8291a",
     "title": "How telecoms upgrade work sparked US flight chaos",
     "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
@@ -351,6 +396,15 @@
     "publishedAt": "2026-11-14T22:31:41.000Z"
   },
   {
+    "id": "4f9047c2206d84de",
+    "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+    "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o",
+    "publishedAt": "2026-11-14T22:27:06.000Z"
+  },
+  {
     "id": "e08c8514556ba9f5",
     "title": "SpaceX successfully catches top of huge Starship rocket for first time",
     "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
@@ -403,6 +457,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
     "publishedAt": "2026-11-14T21:10:26.000Z"
+  },
+  {
+    "id": "b80625d8a68fa0be",
+    "title": "Philippines wins Eurovision Asia, making history",
+    "summary": "Seventy years after Eurovision was conceived as a way to unite a war-torn Europe through music, the competition has embarked on an ambitious new chapter in Asia.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-15/eurovision-asia-2026-song-contest-debuts-in-bangkok-thailand/107381792",
+    "publishedAt": "2026-11-14T20:27:14.000Z"
   },
   {
     "id": "0962eb8b13d0787d",
@@ -646,6 +709,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
     "publishedAt": "2026-11-14T15:57:22.000Z"
+  },
+  {
+    "id": "10bdccdf58640905",
+    "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+    "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
+    "publishedAt": "2026-11-14T15:53:55.000Z"
   },
   {
     "id": "29951b56ba724eaa",
@@ -1276,77 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss",
     "publishedAt": "2026-11-14T06:48:14.000Z"
-  },
-  {
-    "id": "a87af2f6d322bc3a",
-    "title": "Microsoft says services fully restored after day-long global outage",
-    "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-    "publishedAt": "2026-11-14T06:42:27.000Z"
-  },
-  {
-    "id": "1ac5fb9f1c434383",
-    "title": "'I cycled across America in memory of my wife - I know she's proud of me'",
-    "summary": "Declan Faulkner cycled 3,800 miles from Portland, Oregon, to Portland, Maine, as a tribute to his late wife Patrina.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm20v65gye9zo",
-    "publishedAt": "2026-11-14T06:39:04.000Z"
-  },
-  {
-    "id": "b7652ca30e88e729",
-    "title": "Salah breaks Egypt scoring record, Tunisia lose to Libya in AFCON qualifier",
-    "summary": "Salah scored twice to take his international tally to 70 ​and surpass former captain Hossam Hassan’s record.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/14/mohamed-salah-egypt-goals-record-africa-cup-of-nations-afcon-2027-qualifiers?traffic_source=rss",
-    "publishedAt": "2026-11-14T06:33:57.000Z"
-  },
-  {
-    "id": "3db0ea74edb0d937",
-    "title": "Food bank sees donations drop by 10% each year",
-    "summary": "Staff fear the government stockpiling advice will have an impact on donations as Christmas looms.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6702j7e48eno",
-    "publishedAt": "2026-11-14T06:33:06.000Z"
-  },
-  {
-    "id": "373cc8ca83fd1bfe",
-    "title": "Philippine court orders arrest of jailed, US-wanted celebrity preacher",
-    "summary": "Palace denies timing of warrant is linked to Trump’s visit to Manila next week.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/philippine-court-orders-arrest-of-jailed-us-wanted-celebrity-preacher?traffic_source=rss",
-    "publishedAt": "2026-11-14T06:24:43.000Z"
-  },
-  {
-    "id": "15e79e3a2d750051",
-    "title": "Siege fuels disease fears in Yemen’s Taiz",
-    "summary": "Health officials warn that falling numbers of recorded infections may conceal a worsening disease crisis in Taiz.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/siege-fuels-disease-fears-in-yemens-besieged-taiz?traffic_source=rss",
-    "publishedAt": "2026-11-14T06:17:27.000Z"
-  },
-  {
-    "id": "117723405384de16",
-    "title": "Could one daily pill narrow the diabetes treatment gap in the Global South?",
-    "summary": "Globally, one in nine people lives with diabetes, as blockbuster injectable drugs begin making way for tablets instead.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/could-one-daily-pill-narrow-the-diabetes-treatment-gap-in-the-global-south?traffic_source=rss",
-    "publishedAt": "2026-11-14T06:14:09.000Z"
-  },
-  {
-    "id": "653d412801c8ee0f",
-    "title": "‘An environmental and welfare disaster’: British salmon loses its organic status",
-    "summary": "This week the Soil Association withdrew certification from organic salmon after 20 years. What went wrong?",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/14/salmon-organic-british-farmed-environmental-welfare",
-    "publishedAt": "2026-11-14T06:00:37.000Z"
   }
 ]
