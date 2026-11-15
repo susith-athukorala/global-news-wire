@@ -1,5 +1,50 @@
 [
   {
+    "id": "2c1a9a376df350a0",
+    "title": "Zelenskyy warns Starshield restrictions threaten Ukraine’s energy defenses",
+    "summary": "Restrictions on the system hamper Kyiv’s ability to shoot down Russian drones.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/zelenskyy-warns-starshield-restrictions-threaten-ukraines-energy-defenses-138156524",
+    "publishedAt": "2026-11-15T15:08:02.000Z"
+  },
+  {
+    "id": "54c6b0fe0c53405a",
+    "title": "Southeast Asian leaders denounce violence in Myanmar and extend ban on its leader",
+    "summary": "Southeast Asian leaders say Myanmar has failed to comply with a 2021 peace plan and its military and armed groups continue to attack civilians.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/southeast-asian-leaders-denounce-violence-myanmar-extend-ban-138155822",
+    "publishedAt": "2026-11-15T15:03:50.000Z"
+  },
+  {
+    "id": "198b16a285bdd851",
+    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+    "publishedAt": "2026-11-15T14:56:21.000Z"
+  },
+  {
+    "id": "1722568c9b7c55c0",
+    "title": "‘Almost magic’ as SpaceX craft caught mid-air: Why it matters",
+    "summary": "SpaceX's Starship successfully returned to its launchpad after orbiting in space.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/almost-magic-as-spacex-craft-caught-mid-air-why-it-matters?traffic_source=rss",
+    "publishedAt": "2026-11-15T14:12:09.000Z"
+  },
+  {
+    "id": "22b6b64a17a3d4d1",
+    "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
+    "summary": "Yashar and Likud are scheduled to hold talks on Sunday, but will need to overcome major differences to work together.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
+    "publishedAt": "2026-11-15T14:02:08.000Z"
+  },
+  {
     "id": "cd01ebbe43e7d13d",
     "title": "Two killed in Leeds after car pursued by police crashes into another vehicle",
     "summary": "Four arrested after BMW collides with Volkswagen on Gelderd Road, with police appealing for witnesses.",
@@ -27,6 +72,15 @@
     "publishedAt": "2026-11-15T14:00:17.000Z"
   },
   {
+    "id": "2a5c07038381486b",
+    "title": "Gout is on the rise – and excruciating. Why are sufferers still judged for it?",
+    "summary": "About 1.6 million people in the UK have this agonising condition, but it is often viewed as a comical malady brought on by overconsumption and idleness. What can be done to end the stigma?",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/15/gout-is-on-the-rise-and-excruciating-why-are-sufferers-still-judged-for-it",
+    "publishedAt": "2026-11-15T14:00:16.000Z"
+  },
+  {
     "id": "3f4c07423abdecbd",
     "title": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
     "summary": "Headlines have claimed the release of the first new GTA game in 13 years will hugely affect the global economy on Thursday – but there’s another story that’s been left behind.",
@@ -34,6 +88,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/games/2026/nov/16/grand-theft-auto-gta-vi-first-new-game-released-in-13-years",
     "publishedAt": "2026-11-15T14:00:15.000Z"
+  },
+  {
+    "id": "ecf0fb91e339bd65",
+    "title": "Germany vs Netherlands: Nations League – preview, team news, predictions",
+    "summary": "Germany will likely need to win on Monday to reach the quarterfinals unless Serbia beat Greece away from home.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
+    "publishedAt": "2026-11-15T13:54:05.000Z"
   },
   {
     "id": "786d24ee2827a6de",
@@ -106,6 +169,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/15/nx-s1-6040394/how-the-tech-industry-and-markets-have-responded-to-jensen-huangs-resignation",
     "publishedAt": "2026-11-15T13:09:19.000Z"
+  },
+  {
+    "id": "4315b204202e2abb",
+    "title": "Minister backs legal right to job support for young people",
+    "summary": "The work and pensions secretary said the level of support currently on offer was too vague.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o",
+    "publishedAt": "2026-11-15T13:06:15.000Z"
   },
   {
     "id": "a0e17e8eed2cac70",
@@ -1179,6 +1251,15 @@
     "publishedAt": "2026-11-14T16:29:48.000Z"
   },
   {
+    "id": "c352fb4dc5d465c4",
+    "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
+    "summary": "Ukrainian President Volodymyr Zelenskyy says the U.S. has raised the idea of a new postwar security framework for Europe.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/zelenskyy-new-european-security-framework-floated-us-benefit-138138301",
+    "publishedAt": "2026-11-14T16:26:25.000Z"
+  },
+  {
     "id": "76b99879a97eb0b2",
     "title": "Italy fines Meta $880m over photo privacy",
     "summary": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.",
@@ -1267,86 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
     "publishedAt": "2026-11-14T15:03:00.000Z"
-  },
-  {
-    "id": "801c9b4463cfcb9f",
-    "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
-    "summary": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for Hamas.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
-    "publishedAt": "2026-11-14T15:00:47.000Z"
-  },
-  {
-    "id": "d4ddf72388658a03",
-    "title": "Why US Democrats are expected to keep Schumer and Jeffries in power",
-    "summary": "The prospect of keeping the Congressional leaders in power is exposing long-running tensions in the party.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news-analysis/2026/11/14/why-us-democrats-are-expected-to-keep-schumer-and-jeffries-in-power?traffic_source=rss",
-    "publishedAt": "2026-11-14T14:57:04.000Z"
-  },
-  {
-    "id": "c95f770abdf3096c",
-    "title": "Napping Kansas driver whose truck sped on to soccer field and killed two won’t be charged",
-    "summary": "Authorities declined to file charges against napping woman whose truck accelerated on to field during youth game.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/14/kansas-driver-soccer-field-deaths-no-charges",
-    "publishedAt": "2026-11-14T14:38:36.000Z"
-  },
-  {
-    "id": "414c302aa5280814",
-    "title": "When tech founders leave, what happens to their companies?",
-    "summary": "Nvidia could lose 30 percent of its value following cofounder Jensen Huang's decision to step down, analysts warns.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/14/when-tech-founders-leave-what-happens-to-their-companies?traffic_source=rss",
-    "publishedAt": "2026-11-14T14:24:36.000Z"
-  },
-  {
-    "id": "6ad0548d5e7b8f34",
-    "title": "Bomb found at Illinois ethanol plant, prompting evacuations",
-    "summary": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
-    "publishedAt": "2026-11-14T14:13:49.000Z"
-  },
-  {
-    "id": "57c073f22b98b4ce",
-    "title": "The 143 best holiday gifts in 2026 – obsessively tested by the Guardian US",
-    "summary": "Shatterproof wine glasses, Jellycat plushies, ‘yoga paws’ and more gifts handpicked by our experts.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter-us/2026/nov/14/best-holiday-gifts-ideas-guide",
-    "publishedAt": "2026-11-14T14:00:47.000Z"
-  },
-  {
-    "id": "c47e0411e1f3b7b8",
-    "title": "US floated NATO membership for Ukraine, Zelenskyy says",
-    "summary": "US negotiators have raised the prospect of Ukraine withdrawing from its eastern region of Donbas in exchange for joining NATO, according to President Volodymyr Zelenskyy.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-15/us-idea-of-ukraine-ceding-donbas-to-join-nato-zelenskyy/107386558",
-    "publishedAt": "2026-11-14T13:51:27.000Z"
-  },
-  {
-    "id": "66000d42c535da35",
-    "title": "How does Iran view shift in US approach after JD Vance ordered away?",
-    "summary": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
-    "publishedAt": "2026-11-14T13:24:44.000Z"
-  },
-  {
-    "id": "d7a4c9d3f98b8a08",
-    "title": "Milder weekend forecast in UK as autumn freeze eases off",
-    "summary": "Met Office says overnight frost to give way on Saturday to ‘fine day with some sunshine’ in most regions.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
-    "publishedAt": "2026-11-14T13:10:33.000Z"
   }
 ]
