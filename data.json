@@ -1,5 +1,32 @@
 [
   {
+    "id": "542b5ebf64de7475",
+    "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+    "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+    "publishedAt": "2026-11-15T18:08:20.000Z"
+  },
+  {
+    "id": "2a2cc2900ebf36f4",
+    "title": "Estonia to close border crossings with Russia after attack on drone maker",
+    "summary": "Eight arrests made in connection with an attempted arson, which Tallinn says was ordered by Russian intelligence.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
+    "publishedAt": "2026-11-15T18:07:02.000Z"
+  },
+  {
+    "id": "2b743f026fc35e84",
+    "title": "Iran launches drone attacks against US military base in Bahrain",
+    "summary": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+    "publishedAt": "2026-11-15T18:03:56.000Z"
+  },
+  {
     "id": "06f65017dc2d7f86",
     "title": "Morocco becomes first Arab nation in FIFA’s top five men’s rankings",
     "summary": "Morocco moved past former Euro champions Portugal and record World Cup winners Brazil to achieve its best FIFA ranking.",
@@ -1269,6 +1296,15 @@
     "publishedAt": "2026-11-14T18:40:57.000Z"
   },
   {
+    "id": "be71a71e8a5a71b4",
+    "title": "Italy fines Meta €805m over accessing users' photos",
+    "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
+    "publishedAt": "2026-11-14T18:28:06.000Z"
+  },
+  {
     "id": "46c51305b46e9fc9",
     "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
     "summary": "Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'.",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
     "publishedAt": "2026-11-14T17:16:36.000Z"
-  },
-  {
-    "id": "279b3666b43383d1",
-    "title": "Pope laments violence enveloping Peru as he ministers in his former diocese",
-    "summary": "Pope Leo XIV prayed for an end to the violence ravaging Peru, addressing one of his adopted homeland’s most pressing concerns from his former cathedral.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-laments-violence-enveloping-peru-ministers-former-diocese-138143939",
-    "publishedAt": "2026-11-14T17:07:31.000Z"
-  },
-  {
-    "id": "49578ceebd31a2fb",
-    "title": "Filipino singer Carmelle storms to victory in Eurovision Asia debut in Bangkok",
-    "summary": "Filipino singer Carmelle has won the first Asian edition of the Eurovision Song Contest with her fiery performance of “Sobra-Sobra.”",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/filipino-singer-carmelle-storms-victory-eurovision-asia-debut-138144506",
-    "publishedAt": "2026-11-14T17:06:50.000Z"
-  },
-  {
-    "id": "f13d26828b9f0e95",
-    "title": "NHS England on track to miss key cancer treatment target by 10,000 patients",
-    "summary": "Exclusive: 2,850 more patients a month would need to be treated within 62 days to meet March 2027 goal, as experts warn of failure of leadership.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
-    "publishedAt": "2026-11-14T17:00:49.000Z"
-  },
-  {
-    "id": "5be441503d9fe860",
-    "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
-    "summary": "Jonathan Kreiss-Tomkins’ victory means Democrats will now hold 30 US governorships after midterm blowout.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
-    "publishedAt": "2026-11-14T16:58:33.000Z"
   }
 ]
