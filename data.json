@@ -1,5 +1,14 @@
 [
   {
+    "id": "eaa5ba53ff33265f",
+    "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+    "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o",
+    "publishedAt": "2026-11-15T00:01:07.000Z"
+  },
+  {
     "id": "77bfacf4a0993f4a",
     "title": "Mayan ceremony in Guatemala honors Nobel winner Miguel Ángel Asturias",
     "summary": "Nobel Peace Prize laureate Rigoberta Mench&uacute; Tum attended the ritual.",
@@ -1339,14 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
     "publishedAt": "2026-11-13T22:12:54.000Z"
-  },
-  {
-    "id": "9737ca0031189780",
-    "title": "FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights",
-    "summary": "Transportation secretary Sean Duffy said stoppage is due to ‘communication issue’ and that FAA is looking into issue.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-    "publishedAt": "2026-11-13T21:44:48.000Z"
   }
 ]
