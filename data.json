@@ -1,5 +1,14 @@
 [
   {
+    "id": "595478efb90ca845",
+    "title": "Katherine Deves among four NSW upper house candidates revealed by One Nation",
+    "summary": "Party’s NSW leader Mike Newman says contenders are ‘people from the real world’ and not ‘career politicians’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/15/katherine-deves-among-four-nsw-upper-house-candidates-revealed-by-one-nation-ntwnfb",
+    "publishedAt": "2026-11-15T02:13:20.000Z"
+  },
+  {
     "id": "1da17fe41f941f94",
     "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
     "summary": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
@@ -196,6 +205,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
     "publishedAt": "2026-11-14T21:10:26.000Z"
+  },
+  {
+    "id": "0962eb8b13d0787d",
+    "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+    "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+    "publishedAt": "2026-11-14T20:23:06.000Z"
   },
   {
     "id": "1295f8e2f3d3b826",
@@ -1296,6 +1314,15 @@
     "publishedAt": "2026-11-14T01:00:00.000Z"
   },
   {
+    "id": "89d13a43c42e3652",
+    "title": "SpaceX Starship megarocket blasts off before expected return for reuse",
+    "summary": "Flight 15 expected to orbit Earth about 14 times over 22 hours, before company catches it at Starbase, Texas.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
+    "publishedAt": "2026-11-14T00:53:52.000Z"
+  },
+  {
     "id": "8ef485d0c289751e",
     "title": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
     "summary": "Experts say outage exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored.",
@@ -1321,32 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo",
     "publishedAt": "2026-11-14T00:37:01.000Z"
-  },
-  {
-    "id": "b8c8bd106b6c66a1",
-    "title": "UK police open sex offence probe into comedian and author David Walliams",
-    "summary": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
-    "publishedAt": "2026-11-14T00:22:07.000Z"
-  },
-  {
-    "id": "0c1ae2e3c7d62f45",
-    "title": "Bluetongue virus confirmed on County Down farm",
-    "summary": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo",
-    "publishedAt": "2026-11-14T00:17:45.000Z"
-  },
-  {
-    "id": "a34a30b3f7455d87",
-    "title": "Afghanistan’s new road to China ends at a closed border",
-    "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
-    "publishedAt": "2026-11-14T00:06:43.000Z"
   }
 ]
