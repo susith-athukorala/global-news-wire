@@ -1,5 +1,23 @@
 [
   {
+    "id": "a47b9f3baf3b2598",
+    "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+    "summary": "Ukraine's NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
+    "publishedAt": "2026-11-15T10:58:36.000Z"
+  },
+  {
+    "id": "624346bdfa6d4c12",
+    "title": "India’s Under-19 Asia Cup win over Pakistan marred by post-match aggression",
+    "summary": "India beat Pakistan by one wicket in a thrilling comeback in the final but follow it up with unsporting behaviour.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss",
+    "publishedAt": "2026-11-15T10:52:36.000Z"
+  },
+  {
     "id": "92aa9f8eafa4fd63",
     "title": "Polls open in Cape Verde in race with first female presidential candidate",
     "summary": "Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.",
@@ -7,6 +25,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate?traffic_source=rss",
     "publishedAt": "2026-11-15T10:03:02.000Z"
+  },
+  {
+    "id": "96c7fdfb02ec2113",
+    "title": "Lucy Beaumont thought she’d never work in TV again after speaking up on David Walliams. Something different happened",
+    "summary": "Book sells out and tour tickets in demand after comedian reveals she contributed to Walliams investigation.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/15/lucy-beaumont-work-tv-david-walliams",
+    "publishedAt": "2026-11-15T10:00:11.000Z"
   },
   {
     "id": "9d07b354d59a8769",
@@ -1321,32 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/14/young-people-shut-out-of-work-ai",
     "publishedAt": "2026-11-14T10:00:42.000Z"
-  },
-  {
-    "id": "3490e630f22c2f51",
-    "title": "Guardian to follow lives of eight young people in their search for work",
-    "summary": "How long will it take? What challenges will they face?",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/14/guardian-young-people-search-for-work",
-    "publishedAt": "2026-11-14T10:00:42.000Z"
-  },
-  {
-    "id": "85f5bb395ee1edbc",
-    "title": "‘Still standing’: king jokes as he appears on Elton John’s Rocket Hour",
-    "summary": "Charles marks 78th birthday and 50th anniversary of King’s Trust charity with a playlist for special episode of podcast.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/14/king-charles-elton-john-rocket-hour",
-    "publishedAt": "2026-11-14T10:00:41.000Z"
-  },
-  {
-    "id": "59a903ad25c89214",
-    "title": "An organ transplant controversy tests 'the dead donor rule'",
-    "summary": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions.",
-    "category": "Science",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
-    "publishedAt": "2026-11-14T10:00:00.000Z"
   }
 ]
