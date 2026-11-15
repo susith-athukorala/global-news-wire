@@ -1,5 +1,14 @@
 [
   {
+    "id": "37af75b554724bf7",
+    "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+    "summary": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
+    "publishedAt": "2026-11-15T02:59:06.000Z"
+  },
+  {
     "id": "595478efb90ca845",
     "title": "Katherine Deves among four NSW upper house candidates revealed by One Nation",
     "summary": "Party’s NSW leader Mike Newman says contenders are ‘people from the real world’ and not ‘career politicians’",
@@ -1044,6 +1053,15 @@
     "publishedAt": "2026-11-14T07:00:37.000Z"
   },
   {
+    "id": "0c1ae2e3c7d62f45",
+    "title": "Bluetongue virus confirmed on County Down farm",
+    "summary": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo",
+    "publishedAt": "2026-11-14T06:56:58.000Z"
+  },
+  {
     "id": "e8661a09b9ff3356",
     "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
     "summary": "ASEAN summit comes as US president embarks on Asia trip that will see him meet China's Xi.",
@@ -1330,23 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
     "publishedAt": "2026-11-14T00:52:48.000Z"
-  },
-  {
-    "id": "9d9e6c5ba637a16f",
-    "title": "Questions remain after Nvidia CEO's departure",
-    "summary": "While Jensen Huang's resignation puts an end to his long reign over Nvidia, questions about America's national security and Donald Trump's knowledge of the whole saga remain.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-14/questions-over-jensen-huang-affair-for-us-administration-nvidia/107382476",
-    "publishedAt": "2026-11-14T00:52:34.000Z"
-  },
-  {
-    "id": "8e9cd81adab4942a",
-    "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-    "summary": "The next title in the series is expected to be the biggest video game release ever.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo",
-    "publishedAt": "2026-11-14T00:37:01.000Z"
   }
 ]
