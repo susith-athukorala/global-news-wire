@@ -189,6 +189,15 @@
     "publishedAt": "2026-11-15T16:18:27.000Z"
   },
   {
+    "id": "f86cfdf0a006d9fd",
+    "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+    "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o",
+    "publishedAt": "2026-11-15T16:15:20.000Z"
+  },
+  {
     "id": "e2375872c35401cb",
     "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
     "summary": "Hundreds of thousands of people rallied in Prague against a government plan to overhaul funding for public broadcasters.",
@@ -954,6 +963,15 @@
     "publishedAt": "2026-11-15T05:05:02.000Z"
   },
   {
+    "id": "736e19a74135ce45",
+    "title": "Protesters drive home message to data centre company",
+    "summary": "Hundreds of people have rallied at SA Parliament, calling for plans for a data centre in the Adelaide Hills to be scrapped.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-15/ai-data-centre-quantum-dc-adelaide-hills-protest/107387568",
+    "publishedAt": "2026-11-15T04:55:21.000Z"
+  },
+  {
     "id": "d8af2c1b6e71c196",
     "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
     "summary": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
@@ -1330,23 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/hundreds-men-lead-protest-urge-men-reduce-violence-138146280",
     "publishedAt": "2026-11-14T19:35:19.000Z"
-  },
-  {
-    "id": "a09ae30406ac1a41",
-    "title": "Tens of thousands march in latest Portugal housing protests",
-    "summary": "These were the biggest protests against rising housing costs in Portugal since the social movement began weeks ago.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
-    "publishedAt": "2026-11-14T19:27:55.000Z"
-  },
-  {
-    "id": "279b3666b43383d1",
-    "title": "Pope laments violence enveloping Peru as he ministers in his former diocese",
-    "summary": "Pope Leo XIV prayed for an end to the violence ravaging Peru, addressing one of his adopted homeland’s most pressing concerns from his former cathedral.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-laments-violence-enveloping-peru-ministers-former-diocese-138143939",
-    "publishedAt": "2026-11-14T19:22:20.000Z"
   }
 ]
