@@ -1,5 +1,50 @@
 [
   {
+    "id": "31f9953a2058ee85",
+    "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
+    "summary": "Mississippi Democrat points to commitments Trump made: lower prices, halt endless wars and release Epstein files.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
+    "publishedAt": "2026-11-15T18:48:10.000Z"
+  },
+  {
+    "id": "8824cc0032b07732",
+    "title": "Chris Van Hollen says he has path to win Senate leader over Chuck Schumer",
+    "summary": "Progressive US senator calling for more inclusion within Democratic caucus cites openness to change among peers.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/15/chris-van-hollen-senate-majority-leader",
+    "publishedAt": "2026-11-15T18:46:49.000Z"
+  },
+  {
+    "id": "2089f2fd368ae872",
+    "title": "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
+    "summary": "Total of 75 have already signed letter to Burnham opposing plans as discontent also grows over Europe and welfare changes.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/15/rosebank-oilfield-mps-rebellion",
+    "publishedAt": "2026-11-15T18:35:10.000Z"
+  },
+  {
+    "id": "4457075b0adede96",
+    "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+    "summary": "British royal says he's 'taken a risk' in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
+    "publishedAt": "2026-11-15T18:31:52.000Z"
+  },
+  {
+    "id": "e56b32999ec6cd1e",
+    "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+    "summary": "Authorities say Russian intelligence service ordered attack Estonian PM links to Tallinn’s support for Ukraine.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+    "publishedAt": "2026-11-15T18:23:12.000Z"
+  },
+  {
     "id": "542b5ebf64de7475",
     "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
     "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
@@ -304,6 +349,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/15/uk-weather-cold-health-alerts-scotland-northern-england-snow-ice",
     "publishedAt": "2026-11-15T13:30:18.000Z"
+  },
+  {
+    "id": "7f792e0d74095d29",
+    "title": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
+    "summary": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
+    "publishedAt": "2026-11-15T13:11:30.000Z"
   },
   {
     "id": "6893d34b519c309c",
@@ -1134,6 +1188,15 @@
     "publishedAt": "2026-11-14T22:15:02.000Z"
   },
   {
+    "id": "49578ceebd31a2fb",
+    "title": "Filipino singer Carmelle storms to victory in Eurovision Asia debut in Bangkok",
+    "summary": "Filipino singer Carmelle won the first Asian edition of the Eurovision Song Contest with a fiery performance of “Sobra-Sobra,” beating 10 other acts in the grand final in Bangkok.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/filipino-singer-carmelle-storms-victory-eurovision-asia-debut-138144506",
+    "publishedAt": "2026-11-14T22:10:14.000Z"
+  },
+  {
     "id": "43562d6ed3644a23",
     "title": "Panamanian authorities investigate bombing attack on investigative reporter's home",
     "summary": "Authorities in Panama are investigating a bombing attack on the home of an investigative journalist.",
@@ -1215,6 +1278,15 @@
     "publishedAt": "2026-11-14T19:27:55.000Z"
   },
   {
+    "id": "279b3666b43383d1",
+    "title": "Pope laments violence enveloping Peru as he ministers in his former diocese",
+    "summary": "Pope Leo XIV prayed for an end to the violence ravaging Peru, addressing one of his adopted homeland’s most pressing concerns from his former cathedral.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-laments-violence-enveloping-peru-ministers-former-diocese-138143939",
+    "publishedAt": "2026-11-14T19:22:20.000Z"
+  },
+  {
     "id": "ac7790a1c5bedd5b",
     "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
     "summary": "In Santa Cruz de Succhabamba, the pope told people not to respond to injustice with brutality.",
@@ -1276,77 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb",
     "publishedAt": "2026-11-14T19:00:53.000Z"
-  },
-  {
-    "id": "7640cc164999215c",
-    "title": "Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages",
-    "summary": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
-    "publishedAt": "2026-11-14T19:00:52.000Z"
-  },
-  {
-    "id": "0dc2cd1b7a43f23d",
-    "title": "US government says wire replacement caused nationwide grounding of flights",
-    "summary": "The US government has blamed a nationwide aviation shutdown which has disrupted more than 20,000 flights on a program to replace copper wires with new fibre ones.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-15/us-airlines-more-disruptions-ahead-of-thanksgiving/107386452",
-    "publishedAt": "2026-11-14T18:40:57.000Z"
-  },
-  {
-    "id": "be71a71e8a5a71b4",
-    "title": "Italy fines Meta €805m over accessing users' photos",
-    "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
-    "publishedAt": "2026-11-14T18:28:06.000Z"
-  },
-  {
-    "id": "46c51305b46e9fc9",
-    "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
-    "summary": "Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
-    "publishedAt": "2026-11-14T18:02:53.000Z"
-  },
-  {
-    "id": "d2802c3a4e98af1a",
-    "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-    "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo",
-    "publishedAt": "2026-11-14T18:00:10.000Z"
-  },
-  {
-    "id": "63cd9ca8b484e2e8",
-    "title": "Family of Watford woman set alight ‘desperate for answers’ after attack",
-    "summary": "Appeal for information comes after Brenda Raymond, 80, was set on fire outside her flat on Monday.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack",
-    "publishedAt": "2026-11-14T17:59:12.000Z"
-  },
-  {
-    "id": "477e67a099befcf6",
-    "title": "Philippines wins first Eurovision Song Contest Asia",
-    "summary": "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo",
-    "publishedAt": "2026-11-14T17:56:59.000Z"
-  },
-  {
-    "id": "0ef5c2a6a908623b",
-    "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-    "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
-    "publishedAt": "2026-11-14T17:16:36.000Z"
   }
 ]
