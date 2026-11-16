@@ -27,6 +27,15 @@
     "publishedAt": "2026-11-16T22:06:22.000Z"
   },
   {
+    "id": "840e8eb0f24a6823",
+    "title": "Germany thrash Netherlands to book quarterfinal spot",
+    "summary": "Jurgen Klopp's side outclasses the Dutch 5-0 in Berlin to secure top spot in UEFA Nations League Group A2.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
+    "publishedAt": "2026-11-16T22:04:31.000Z"
+  },
+  {
     "id": "7d4307f50c7ab9f1",
     "title": "California sues OpenAI over safety concerns after rogue agent hacking",
     "summary": "The lawsuit stems from an earlier incident where the tech company’s products hacked into the open-source platform Hugging Face.",
@@ -1233,6 +1242,15 @@
     "publishedAt": "2026-11-16T10:03:11.000Z"
   },
   {
+    "id": "481dd769e4db6596",
+    "title": "Yellow weather warnings issued for snow as temperatures plummet",
+    "summary": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o",
+    "publishedAt": "2026-11-16T10:02:04.000Z"
+  },
+  {
     "id": "d01ce23ff84361d9",
     "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
     "summary": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
@@ -1330,23 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/britains-prince-william-princess-catherine-arrive-india-3-138169197",
     "publishedAt": "2026-11-16T08:50:27.000Z"
-  },
-  {
-    "id": "78e0cf664ae38e0f",
-    "title": "At least 17 people were killed in separate shootings in South Africa",
-    "summary": "Police in South Africa say two separate shootings have left at least 17 people dead.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/17-people-killed-separate-shootings-south-africa-138171068",
-    "publishedAt": "2026-11-16T08:46:14.000Z"
-  },
-  {
-    "id": "63ca5a1bc40b4a93",
-    "title": "Ahmed Tibi appointed as deputy speaker of Israel’s Knesset",
-    "summary": "This is a breaking news story.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
-    "publishedAt": "2026-11-16T08:45:07.000Z"
   }
 ]
