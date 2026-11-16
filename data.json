@@ -1,5 +1,140 @@
 [
   {
+    "id": "f582bf0dc53f6ed3",
+    "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+    "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+    "publishedAt": "2026-11-16T18:04:50.000Z"
+  },
+  {
+    "id": "a5f9a31e7d9fe53c",
+    "title": "Raising the state pension age above 70 would harm the poorest | Letters",
+    "summary": "Joanna Elson of the Independent Age charity is concerned about poverty among pensioners and says ministers need to think hard before making changes.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/16/raising-the-state-pension-age-above-70-would-harm-the-poorest",
+    "publishedAt": "2026-11-16T18:02:24.000Z"
+  },
+  {
+    "id": "05cd123b30c123f2",
+    "title": "Police ‘retreating from streets’ due to major funding crisis, chief constables say",
+    "summary": "Forces across England and Wales struggle amid financial pressures described as worst for decades.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/16/police-retreating-from-streets-major-funding-crisis-england-wales",
+    "publishedAt": "2026-11-16T18:00:50.000Z"
+  },
+  {
+    "id": "6fc0571b89499a30",
+    "title": "Cargo ship capsizes off Bulgaria’s Black Sea coast",
+    "summary": "Bulgaria's Transport Ministry says that all 12 of the ship's crew members were saved in a rescue operation.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss",
+    "publishedAt": "2026-11-16T17:54:31.000Z"
+  },
+  {
+    "id": "78c0025210e9b4bb",
+    "title": "Several companies are using Trump tariff refunds for corporate bonuses",
+    "summary": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
+    "publishedAt": "2026-11-16T17:52:13.000Z"
+  },
+  {
+    "id": "fc4e8640b755ee2f",
+    "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
+    "summary": "Occupied West Bank land defender is set to remain in detention until at least February 26 next year.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
+    "publishedAt": "2026-11-16T17:49:16.000Z"
+  },
+  {
+    "id": "f7aa1af00c015be9",
+    "title": "‘Near-philistine’: fury greets Shakespeare Institute plan to leave Stratford-upon-Avon",
+    "summary": "Renowned centre of Shakespeare studies, which is part of University of Birmingham, to move to its Edgbaston campus.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/education/2026/nov/16/near-philistine-fury-shakespeare-institute-plan-leave-stratford-upon-avon-edgbaston",
+    "publishedAt": "2026-11-16T17:45:02.000Z"
+  },
+  {
+    "id": "a86f0cf07a672a65",
+    "title": "Emma Barnett steps down from BBC Radio 4’s Today programme",
+    "summary": "Presenter says she will remain at the corporation working on show launching in 2027, as search for successor begins.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/16/emma-barnett-steps-down-bbc-radio-4-today-programme",
+    "publishedAt": "2026-11-16T17:36:07.000Z"
+  },
+  {
+    "id": "271b4d9fda3acde5",
+    "title": "Pakistan's imprisoned ex-leader Imran Khan appeals for urgent medical care",
+    "summary": "Imprisoned former Prime Minister Imran Khan has appealed to Pakistan's top judges for urgent medical treatment for himself and his wife.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pakistans-imprisoned-leader-imran-khan-appeals-urgent-medical-138177955",
+    "publishedAt": "2026-11-16T17:33:27.000Z"
+  },
+  {
+    "id": "8b3a9e38d408f331",
+    "title": "Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role",
+    "summary": "Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
+    "publishedAt": "2026-11-16T17:24:26.000Z"
+  },
+  {
+    "id": "f3f75958be84ef17",
+    "title": "Digital-only banks could be forced to fund high street banking",
+    "summary": "Treasury-backed review says customers of banks such as Monzo and Revolut often rely on physical cash services.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/16/digital-only-banks-monzo-revolut-fund-high-street-banking-facilities",
+    "publishedAt": "2026-11-16T17:18:56.000Z"
+  },
+  {
+    "id": "50abd88093e753a6",
+    "title": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
+    "summary": "US pressure on Iraq to curb Tehran's influence leaves potential for direct confrontation with Iran-linked armed group.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
+    "publishedAt": "2026-11-16T17:18:14.000Z"
+  },
+  {
+    "id": "08ec5c17ee75deb7",
+    "title": "Mexican drug kingpin Félix Gallardo, founder of Guadalajara cartel, dies at 80",
+    "summary": "Gallardo, nicknamed the “Boss of Bosses,” died of multiple organ failure.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/mexican-drug-kingpin-flix-gallardo-founder-guadalajara-cartel-138183861",
+    "publishedAt": "2026-11-16T17:14:36.000Z"
+  },
+  {
+    "id": "c1e0920ae4f7945a",
+    "title": "Macron leaves summit of French-speaking nations with leadership dispute on hold",
+    "summary": "French President Emmanuel Macron left a summit of French-speaking nations on Monday with uncertainty still hanging over the organization’s leadership after a dispute between Rwanda and Congo.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/macron-leaves-summit-french-speaking-nations-leadership-dispute-138172198",
+    "publishedAt": "2026-11-16T17:11:43.000Z"
+  },
+  {
+    "id": "5b99adf247815d10",
+    "title": "Judge sets Lindsay Clancy retrial for March in killings of her three children",
+    "summary": "Clancy’s first trial on charges of first-degree murder ended in mistrial after jurors couldn’t reach unanimous verdict.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/lindsay-clancy-retrial-march",
+    "publishedAt": "2026-11-16T17:07:54.000Z"
+  },
+  {
     "id": "fcc96111cf3e4863",
     "title": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears",
     "summary": "The bloc imposed sanctions on nearly 50 Russian banks, financial institutions.",
@@ -7,6 +142,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/eu-accuses-russia-stalling-ukraine-peace-talks-target-138172402",
     "publishedAt": "2026-11-16T17:02:04.000Z"
+  },
+  {
+    "id": "1cbeb891f819301c",
+    "title": "Iran braces for natural gas shortages during winter energy imbalance",
+    "summary": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
+    "publishedAt": "2026-11-16T16:58:46.000Z"
   },
   {
     "id": "51d08ee35cffa749",
@@ -70,6 +214,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
     "publishedAt": "2026-11-16T15:40:16.000Z"
+  },
+  {
+    "id": "f08c017668fe1aea",
+    "title": "French football head Philippe Diallo to fight Infantino for Fifa presidency",
+    "summary": "The French Football Federation president, Philippe Diallo, has been confirmed as Uefa’s surprise late choice to run for the Fifa presidency. The search for a Uefa-backed candidate to challenge Gianni Infantino was taken to the wire, with Wednesday the deadline for those planning to contest the Fifa election in March.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/16/philippe-diallo-fifa-gianni-infantino-president-french-football-federation",
+    "publishedAt": "2026-11-16T15:27:30.000Z"
   },
   {
     "id": "f9e5673299a5c3c8",
@@ -693,6 +846,15 @@
     "publishedAt": "2026-11-16T10:00:00.000Z"
   },
   {
+    "id": "5cf5b16ddc2a8e78",
+    "title": "Avoid this Black Friday scam - how to check it's a real deal",
+    "summary": "Sales and the looming tax deadline mean more scams - here's how to make sure you don't get caught out.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko",
+    "publishedAt": "2026-11-16T09:58:52.000Z"
+  },
+  {
     "id": "7e27fb56c45b7cc2",
     "title": "Cape Verde’s president is reelected for a second 5-year term, provisional results show",
     "summary": "Cape Verde’s president, Jos&eacute; Maria Neves, has been reelected for a second term, defeating five challengers, including the country’s first female presidential candidate.",
@@ -1186,167 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze?traffic_source=rss",
     "publishedAt": "2026-11-16T04:11:53.000Z"
-  },
-  {
-    "id": "db28a4f026d749fd",
-    "title": "Tech failure forces hundreds of University of Melbourne students to abandon final exams mid-test",
-    "summary": "Students left in limbo after digital platform fails during exams, with university saying ‘third-party technical partners’ likely to blame for issue.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/16/university-of-melbourne-students-exams-cancelled-tech-issue",
-    "publishedAt": "2026-11-16T03:54:54.000Z"
-  },
-  {
-    "id": "e2375872c35401cb",
-    "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
-    "summary": "Hundreds of thousands of people rallied in Prague against the Czech government's plan to overhaul funding for public broadcasters.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/czechs-gather-big-numbers-reject-governments-plan-overhaul-138158812",
-    "publishedAt": "2026-11-16T03:30:22.000Z"
-  },
-  {
-    "id": "98635d6022fca3b8",
-    "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
-    "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo",
-    "publishedAt": "2026-11-16T03:21:56.000Z"
-  },
-  {
-    "id": "f676ff9dd1c68052",
-    "title": "Australia’s national medical research body advises conditional use of puberty blockers for transgender children",
-    "summary": "New National Health and Medical Research Council guidelines at odds with public hospital bans in Queensland and NT.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/16/australias-national-medical-research-body-advises-conditional-use-of-puberty-blockers-for-transgender-children",
-    "publishedAt": "2026-11-16T03:15:43.000Z"
-  },
-  {
-    "id": "ce624516788d43d4",
-    "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
-    "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
-    "publishedAt": "2026-11-16T03:08:31.000Z"
-  },
-  {
-    "id": "443332a55fcd8c9e",
-    "title": "Investors sue chip giant Intel after 29% stock plunge",
-    "summary": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do",
-    "publishedAt": "2026-11-16T03:04:01.000Z"
-  },
-  {
-    "id": "720d92e1978d5070",
-    "title": "Senior Hells Angels bikie charged with threatening to kill investigative reporter Nick McKenzie",
-    "summary": "Victoria police allege man, suspected of being a chapter president of the gang, sent ‘threats and harassing text messages’ to Nine journalist.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/16/hells-angels-bikie-charged-threats-to-kill-journalist-nick-mckenzie-ntwnfb",
-    "publishedAt": "2026-11-16T03:01:43.000Z"
-  },
-  {
-    "id": "e1c130ec8ecd3066",
-    "title": "ASEAN, China fall short of agreeing on South China Sea code",
-    "summary": "Southeast Asian leaders also denounce violence in Myanmar and extend ban on country's leader attending bloc's summits.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss",
-    "publishedAt": "2026-11-16T02:46:35.000Z"
-  },
-  {
-    "id": "1c5c7ee1c6b2da78",
-    "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
-    "summary": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o",
-    "publishedAt": "2026-11-16T01:53:19.000Z"
-  },
-  {
-    "id": "c9512734b340b4bc",
-    "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
-    "summary": "Pontiff says he supports Indigenous efforts to protect their lands, demands justice for slain environmental defenders.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
-    "publishedAt": "2026-11-16T01:52:12.000Z"
-  },
-  {
-    "id": "198b16a285bdd851",
-    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
-    "publishedAt": "2026-11-16T01:47:57.000Z"
-  },
-  {
-    "id": "2433ebd30507795f",
-    "title": "MP Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
-    "summary": "The Alfred hospital in Melbourne confirmed on Monday the independent MP had been discharged.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
-    "publishedAt": "2026-11-16T01:36:54.000Z"
-  },
-  {
-    "id": "e0758f71f0f8bbc2",
-    "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
-    "summary": "Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
-    "publishedAt": "2026-11-16T01:17:04.000Z"
-  },
-  {
-    "id": "81e7758ea71cfa19",
-    "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
-    "summary": "Pontiff delivers forceful speech on final day in Peru as he travels from high in the Andes into the Amazon.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
-    "publishedAt": "2026-11-16T01:13:44.000Z"
-  },
-  {
-    "id": "f86cfdf0a006d9fd",
-    "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-    "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o",
-    "publishedAt": "2026-11-16T01:05:44.000Z"
-  },
-  {
-    "id": "97a84867dfb0ddf1",
-    "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
-    "summary": "Silicon Valley figures back CEO ousted after revelations of affair with suspected Chinese spy, as US treasury secretary urges Nvidia to carry out ‘dramatic shake-up’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
-    "publishedAt": "2026-11-16T01:01:08.000Z"
-  },
-  {
-    "id": "ba5239a626f516fd",
-    "title": "Huge waves pummel California coast, forcing closure of popular piers",
-    "summary": "Large waves up to 50ft flooded southern California streets and prompted evacuation warning near coastal city.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
-    "publishedAt": "2026-11-16T01:00:42.000Z"
-  },
-  {
-    "id": "77e2d16c11837577",
-    "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
-    "summary": "Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
-    "publishedAt": "2026-11-16T00:51:23.000Z"
   }
 ]
