@@ -1,5 +1,77 @@
 [
   {
+    "id": "8f1adef489937c10",
+    "title": "Pupils fascinated by space get astronomy lesson",
+    "summary": "Pupils at First Tower School get a visit from a University of Cambridge astronomer.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c67428w9vvkqo",
+    "publishedAt": "2026-11-16T06:11:42.000Z"
+  },
+  {
+    "id": "6d14598bb44cc0bc",
+    "title": "Thrift shop ask donors to nominate a charity",
+    "summary": "The owners want customers and donors to decide what charities benefit each month.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c804wp1y2ky1o",
+    "publishedAt": "2026-11-16T06:03:39.000Z"
+  },
+  {
+    "id": "861e0c85bddf9a58",
+    "title": "Home Office accused of trying to cancel online talk by Andreas Malm",
+    "summary": "Hackney mayor decries ‘assault’ on free speech over event featuring academic who is banned from entering UK.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/16/home-office-andreas-malm-climate-academic-online-talk",
+    "publishedAt": "2026-11-16T06:00:37.000Z"
+  },
+  {
+    "id": "2c282f8dc85a84bb",
+    "title": "Weakening UK electric vehicle targets would hurt car industry, ministers told",
+    "summary": "Exclusive: Experts say watering down ZEV mandate would slow market and hamper efforts to reduce cost of living.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/16/weakening-uk-electric-vehicle-targets-would-hurt-car-industry-ministers-told",
+    "publishedAt": "2026-11-16T06:00:37.000Z"
+  },
+  {
+    "id": "40dd251760147410",
+    "title": "Starwatch: Fleeting brilliance of Leonid meteor shower to hit peak",
+    "summary": "Annual display appears to radiate from constellation of Leo in eastern sky as Earth passes through comet debris stream.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/16/starwatch-fleeting-brilliance-of-leonid-meteor-shower-to-hit-peak",
+    "publishedAt": "2026-11-16T06:00:36.000Z"
+  },
+  {
+    "id": "506833219b826a8b",
+    "title": "Special needs overhaul in England could bring in new avenues for extra support",
+    "summary": "Planned reforms could include appeals to ombudsman or review panel for parents dissatisfied with provisions.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/education/2026/nov/16/families-rights-appeal-support-send-overhaul-england",
+    "publishedAt": "2026-11-16T06:00:35.000Z"
+  },
+  {
+    "id": "50dc7205f6098009",
+    "title": "'Break-in and rising costs could kill my business'",
+    "summary": "Gordon Kidd says if things do not improve financially, he fears his firm in Shifnal will go under.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9n731r5mej5o",
+    "publishedAt": "2026-11-16T05:57:19.000Z"
+  },
+  {
+    "id": "abfc3a1aacf2d925",
+    "title": "Widow of Haiti’s slain leader Moise to contest presidential vote",
+    "summary": "Martine Moise is one of ​33 registered candidates running in Haiti's first presidential election in a decade.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote?traffic_source=rss",
+    "publishedAt": "2026-11-16T05:38:52.000Z"
+  },
+  {
     "id": "5d6f455e6b2b9e39",
     "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
     "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
@@ -25,6 +97,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/16/will-spains-snap-election-in-november-bring-a-far-right-party-into-government",
     "publishedAt": "2026-11-16T05:00:33.000Z"
+  },
+  {
+    "id": "972cf0fda6c50267",
+    "title": "Coles investigates cyber attack but provides little detail",
+    "summary": "Coles has told customers to \"remain vigilant\" as it investigates a cyber incident, but says it has not identified customer or employee data being compromised at this stage.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-16/coles-investigates-cybersecurity-breach-but-little-detail/107390824",
+    "publishedAt": "2026-11-16T05:00:02.000Z"
   },
   {
     "id": "a428b69557a04fc7",
@@ -486,6 +567,15 @@
     "publishedAt": "2026-11-15T21:06:03.000Z"
   },
   {
+    "id": "88bda1579ac188d6",
+    "title": "Cape Verde election could deliver first woman president since independence in 1975",
+    "summary": "Cape Verde has held a presidential election in which former Justice Minister Joana Rosa is challenging incumbent Jos&eacute; Maria Neves.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/cape-verde-elect-woman-president-gaining-independence-1975-138154009",
+    "publishedAt": "2026-11-15T20:34:23.000Z"
+  },
+  {
     "id": "f3c0fc7df4585e50",
     "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
     "summary": "'If we don't stop this outbreak now, it would be the worst Ebola outbreak,' Africa ​CDC director says.",
@@ -502,6 +592,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/sport/2026/nov/15/lsu-star-milaysia-fulwiley-arrested-after-allegedly-striking-police-officer-with-car",
     "publishedAt": "2026-11-15T19:53:07.000Z"
+  },
+  {
+    "id": "ff5a50d775f5c27f",
+    "title": "Data centres driving up inflation and community concerns",
+    "summary": "Data centres have become politically toxic in the US. More Australian neighbourhoods, concerned about amenity, appear to feel the same way.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-16/when-community-concerns-collide-in-data-centre-fight/107344810",
+    "publishedAt": "2026-11-15T19:50:35.000Z"
   },
   {
     "id": "80f31c83a773a5c4",
@@ -619,6 +718,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
     "publishedAt": "2026-11-15T18:03:56.000Z"
+  },
+  {
+    "id": "a02cc5183f9df4f5",
+    "title": "Australia's super nest egg to top $5 trillion. How well is it serving us?",
+    "summary": "There remains much work to do to ensure Australia's $5 trillion super system delivers optimal outcomes for consumers.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-16/is-super-serving-its-members-in-retirement/107387284",
+    "publishedAt": "2026-11-15T18:00:00.000Z"
   },
   {
     "id": "06f65017dc2d7f86",
@@ -781,6 +889,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
     "publishedAt": "2026-11-15T14:56:21.000Z"
+  },
+  {
+    "id": "32b54eccf0385ab7",
+    "title": "Alleged Chinese spy left Megaspeed last year, company says",
+    "summary": "Singapore-based Megaspeed International is under scrutiny from US authorities over reports it shipped AI chips to China in breach of trade restrictions.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-16/alice-huang-megaspeed-departure/107388304",
+    "publishedAt": "2026-11-15T14:31:29.000Z"
   },
   {
     "id": "1722568c9b7c55c0",
@@ -1152,6 +1269,15 @@
     "publishedAt": "2026-11-15T10:41:37.000Z"
   },
   {
+    "id": "e916f4027d2cec58",
+    "title": "Iran claims strike in Bahrain on US radar system",
+    "summary": "An Israeli air strike has killed a senior Hamas military commander in Khan Younis in southern Gaza, Israel says, while Jordan dishes out death sentences after last month's attack in the city of Karak.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-15/israel-kills-top-hamas-commander/107388044",
+    "publishedAt": "2026-11-15T10:33:50.000Z"
+  },
+  {
     "id": "92aa9f8eafa4fd63",
     "title": "Polls open in Cape Verde in race with first female presidential candidate",
     "summary": "Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.",
@@ -1222,131 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o",
     "publishedAt": "2026-11-15T09:26:37.000Z"
-  },
-  {
-    "id": "42f70818f68f5edf",
-    "title": "Digital finance products used to abuse almost 20% of young women and girls, UK report finds",
-    "summary": "Survey respondents describe current or former partners controlling bank accounts and taking out credit online without full consent.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/15/digital-finance-products-abuse-against-young-women-and-girls-report",
-    "publishedAt": "2026-11-15T09:22:39.000Z"
-  },
-  {
-    "id": "d9c779d3d7f53636",
-    "title": "What forced the US to ground all planes? A router switch, we now know",
-    "summary": "US officials say a routine upgrade that went awry caused the mass disruption of air travel.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss",
-    "publishedAt": "2026-11-15T09:17:49.000Z"
-  },
-  {
-    "id": "c3ca630d9bc0245c",
-    "title": "Pasta, pies and paperwork errors: the reality of Brexit food checks",
-    "summary": "Delayed deliveries and inspection hold-ups among issues facing hauliers navigating post-Brexit border processes.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/15/drivers-delays-brexit-food-checks",
-    "publishedAt": "2026-11-15T09:04:18.000Z"
-  },
-  {
-    "id": "aa2588991e1a8a3e",
-    "title": "AI cheating scandal rattles South Korea as annual college exam looms",
-    "summary": "Fears for national entrance exam next week, as top scorer on tax exam admits sending photos of questions to AI tool.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
-    "publishedAt": "2026-11-15T08:56:11.000Z"
-  },
-  {
-    "id": "cff3a2dd4925aef6",
-    "title": "India pulled 500m people out of poverty. Many of them still barely survive",
-    "summary": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
-    "publishedAt": "2026-11-15T08:49:47.000Z"
-  },
-  {
-    "id": "8bdeb42b76c2af4d",
-    "title": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
-    "summary": "Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss",
-    "publishedAt": "2026-11-15T08:29:18.000Z"
-  },
-  {
-    "id": "ba97c273f7f8892b",
-    "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-    "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo",
-    "publishedAt": "2026-11-15T08:17:41.000Z"
-  },
-  {
-    "id": "0eca7d7612cb4c6b",
-    "title": "Jordan sentences three men to death by hanging after deadly church attack",
-    "summary": "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
-    "publishedAt": "2026-11-15T08:15:04.000Z"
-  },
-  {
-    "id": "cd64ba12f35b238a",
-    "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
-    "summary": "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
-    "publishedAt": "2026-11-15T08:07:08.000Z"
-  },
-  {
-    "id": "bdfd75bbc9edbb78",
-    "title": "AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership",
-    "summary": "Clubs with wealthy proprietors can maintain a loss-making operation but things can be more complex when the supporters carry the can.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/football/2026/nov/15/afc-wimbledon-a-failed-87m-investment-bid-and-the-challenge-for-fan-ownership",
-    "publishedAt": "2026-11-15T08:00:09.000Z"
-  },
-  {
-    "id": "e88e910f9078a4ae",
-    "title": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
-    "summary": "Substitute Tatsuhiro Sakamoto’s late goal helps Japan avenge their defeat by Brazil in the World Cup round of 32.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss",
-    "publishedAt": "2026-11-15T07:30:21.000Z"
-  },
-  {
-    "id": "b862561d8b944af8",
-    "title": "ASEAN summit: Who’s attending and what’s at stake?",
-    "summary": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
-    "publishedAt": "2026-11-15T07:11:24.000Z"
-  },
-  {
-    "id": "2a85831be2aad485",
-    "title": "‘I’m scared about my future’: young people on the stress and desperation of jobseeking",
-    "summary": "In the second in our series, four young Britons reveal how the search has taken a toll on their mental and physical health.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/15/young-people-stress-seeking-a-job-mental-physical-health",
-    "publishedAt": "2026-11-15T07:00:07.000Z"
-  },
-  {
-    "id": "936ae24e1427a771",
-    "title": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
-    "summary": "Unlike familiar Captcha tests, this con asks you to press a series of keys. And that’s a way in for fraudsters to install malicious software.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
-    "publishedAt": "2026-11-15T07:00:06.000Z"
   }
 ]
