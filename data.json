@@ -1,5 +1,95 @@
 [
   {
+    "id": "458954e371fb7479",
+    "title": "Customers report service outages at major US banks",
+    "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o",
+    "publishedAt": "2026-11-16T23:15:21.000Z"
+  },
+  {
+    "id": "8c2c38fe4c9afe70",
+    "title": "California sues OpenAI over Hugging Face attack",
+    "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo",
+    "publishedAt": "2026-11-16T23:12:24.000Z"
+  },
+  {
+    "id": "b06a32c216ab7d08",
+    "title": "Mayor pushes for inquiry into mining licence approvals",
+    "summary": "A regional council mayor is pushing for an inquiry into the approval of mining licences for projects across western Victoria, with Horsham Rural City Council seeking urgent changes to a mineral sands planning scheme.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-17/council-seeks-inquiry-into-mining-licences/107389260",
+    "publishedAt": "2026-11-16T23:01:57.000Z"
+  },
+  {
+    "id": "bcf74afa2471dcf1",
+    "title": "EU agrees to resurrect cooperation deal with Syria",
+    "summary": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+    "publishedAt": "2026-11-16T23:00:36.000Z"
+  },
+  {
+    "id": "975ffc35667c2418",
+    "title": "Woman who got hooked on nasal spray for 10 years says it cost her thousands",
+    "summary": "Louise Gough says her dependence on decongestant nasal sprays left her feeling like a prisoner.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cj93ry10rl11o",
+    "publishedAt": "2026-11-16T22:47:19.000Z"
+  },
+  {
+    "id": "c95ec2cf0f9c7c09",
+    "title": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
+    "summary": "Pentagon defends Steve Feinberg, amid claims in Bloomberg he encouraged defence contractors to use a specific banker.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
+    "publishedAt": "2026-11-16T22:40:07.000Z"
+  },
+  {
+    "id": "6d43752056618ddd",
+    "title": "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people",
+    "summary": "Report on Britain’s youth jobs crisis calls for welfare, education, health and employment policy shake-up.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/16/alan-milburn-urges-burnham-spend-billions-new-deal-young-people-youth-jobs-crisis-welfare-employment",
+    "publishedAt": "2026-11-16T22:30:55.000Z"
+  },
+  {
+    "id": "9da34efeed4436bf",
+    "title": "Mid-year budget update will ‘cut enough, but not too much’, Jim Chalmers says",
+    "summary": "Under growing pressure to sell government’s strategy, treasurer says Myefo will ‘help ease immediate capacity pressures without putting growth at risk’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/17/myefo-mid-year-budget-update-australia-treasurer-jim-chalmers",
+    "publishedAt": "2026-11-16T22:21:10.000Z"
+  },
+  {
+    "id": "771bc90d33d002e3",
+    "title": "United Airlines says it is working to fix ‘widespread’ system outage",
+    "summary": "Outage at major airline comes just three days after FAA issued rare nationwide ground stop on all US flights.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+    "publishedAt": "2026-11-16T22:19:48.000Z"
+  },
+  {
+    "id": "751fbcc66c3ab604",
+    "title": "Freeman Johnson, oldest survivor of Pearl Harbor attack, dies aged 106",
+    "summary": "Johnson was working on the USS St Louis and was inside a steam drum when the attacks took place.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/oldest-survivor-pearl-harbor-dies",
+    "publishedAt": "2026-11-16T22:10:51.000Z"
+  },
+  {
     "id": "1a8108f53b3fa11f",
     "title": "Cass report author says she does not support draft conversion practices bill",
     "summary": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
@@ -909,6 +999,15 @@
     "publishedAt": "2026-11-16T12:27:15.000Z"
   },
   {
+    "id": "78e0cf664ae38e0f",
+    "title": "At least 17 people were killed in separate shootings in South Africa",
+    "summary": "Police in South Africa say at least 17 people were killed in two mass shootings on the same day.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/17-people-killed-separate-shootings-south-africa-138171068",
+    "publishedAt": "2026-11-16T12:26:25.000Z"
+  },
+  {
     "id": "3d80ad519c27386d",
     "title": "Injured Australian lawmaker Helen Haines leaves hospital after alleged SUV attack",
     "summary": "An Australian federal lawmaker who was almost killed by a car in an allegedly deliberate attack has thanked well-wishers around the world.",
@@ -1249,104 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o",
     "publishedAt": "2026-11-16T10:02:04.000Z"
-  },
-  {
-    "id": "d01ce23ff84361d9",
-    "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-    "summary": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
-    "publishedAt": "2026-11-16T10:00:00.000Z"
-  },
-  {
-    "id": "3c2ebd024abc1cd8",
-    "title": "Why sleep matters when it comes to weight gain and loss",
-    "summary": "Sleep can have a powerful impact on weight. Research shows it can affect appetite.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss",
-    "publishedAt": "2026-11-16T10:00:00.000Z"
-  },
-  {
-    "id": "5cf5b16ddc2a8e78",
-    "title": "Avoid this Black Friday scam - how to check it's a real deal",
-    "summary": "Sales and the looming tax deadline mean more scams - here's how to make sure you don't get caught out.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko",
-    "publishedAt": "2026-11-16T09:58:52.000Z"
-  },
-  {
-    "id": "7e27fb56c45b7cc2",
-    "title": "Cape Verde’s president is reelected for a second 5-year term, provisional results show",
-    "summary": "Cape Verde’s president, Jos&eacute; Maria Neves, has been reelected for a second term, defeating five challengers, including the country’s first female presidential candidate.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/cape-verdes-president-reelected-5-year-term-provisional-138170967",
-    "publishedAt": "2026-11-16T09:58:25.000Z"
-  },
-  {
-    "id": "a82d5eef63f249f3",
-    "title": "Antimicrobial resistance could kill 39 million people over 25 years: WHO",
-    "summary": "UN's health agency says growing resistance to antibiotics and other medicines threatens 'future of modern medicine'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat?traffic_source=rss",
-    "publishedAt": "2026-11-16T09:57:37.000Z"
-  },
-  {
-    "id": "043a49d29286b3bf",
-    "title": "It's not just the U.S., the movement against data centers is global",
-    "summary": "Activists protesting data centers in their backyards are teaming up to learn tactics from allies around the world. \"We are coordinated and we are together,\" said one Spanish activist.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6000601/its-not-just-the-u-s-the-movement-against-data-centers-is-global",
-    "publishedAt": "2026-11-16T09:44:39.000Z"
-  },
-  {
-    "id": "db43089f31ad646a",
-    "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
-    "summary": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China efforts to dominate.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-    "publishedAt": "2026-11-16T09:40:29.000Z"
-  },
-  {
-    "id": "b171e60ed83d5bbf",
-    "title": "Delaware hit by rare November tornado",
-    "summary": "Meanwhile, severe thunderstorms bring hailstones the size of baseballs in Argentina.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
-    "publishedAt": "2026-11-16T09:27:06.000Z"
-  },
-  {
-    "id": "4c04fb0b0b07221a",
-    "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
-    "summary": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o",
-    "publishedAt": "2026-11-16T08:56:04.000Z"
-  },
-  {
-    "id": "fef51fcfcf2bf74c",
-    "title": "NSW halts new law to crack down on underquoting by real estate agents at 11th hour",
-    "summary": "Backdown is one of several premier Chris Minns has announced in recent weeks as state prepares for election in March.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/16/nsw-halts-new-law-to-crack-down-on-underquoting-by-real-estate-agents-at-11th-hour",
-    "publishedAt": "2026-11-16T08:53:22.000Z"
-  },
-  {
-    "id": "7c897d52fcfef397",
-    "title": "Britain's Prince William and Princess Catherine arrive in India for 3-day visit",
-    "summary": "",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/britains-prince-william-princess-catherine-arrive-india-3-138169197",
-    "publishedAt": "2026-11-16T08:50:27.000Z"
   }
 ]
