@@ -1,5 +1,113 @@
 [
   {
+    "id": "4482076958058db2",
+    "title": "Army airstrike kills at least 13 in West Kordofan, says rights group",
+    "summary": "A rights group says an army airstrike killed at least 13 people.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/army-airstrike-kills-13-west-kordofan-rights-group-138185316",
+    "publishedAt": "2026-11-16T19:10:24.000Z"
+  },
+  {
+    "id": "f6c6d9695cdb7dc9",
+    "title": "Paraguay’s ousted president moved to military prison after reports of gym and suite in custody",
+    "summary": "Former Paraguayan President Santiago Pe&ntilde;a is being moved to a military prison as he awaits trial over the collapse of Ueno Bank.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/paraguays-ousted-president-moved-military-prison-after-reports-138186878",
+    "publishedAt": "2026-11-16T19:10:14.000Z"
+  },
+  {
+    "id": "68b193416d8760b3",
+    "title": "Cornell announces full review of Greek life after scrutiny over sexual assault case",
+    "summary": "The university will conduct a series of measures after a former student was gang-raped at a fraternity house two years ago.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/cornell-review-greek-life-sexual-assault-case",
+    "publishedAt": "2026-11-16T19:09:36.000Z"
+  },
+  {
+    "id": "c8cda33df40a6d18",
+    "title": "Russia fends off swarms of Ukrainian drones a day across its vast territory. But some get through",
+    "summary": "The skies from the Black Sea to Moscow buzzed overnight with hundreds of Ukrainian drones, keeping Russia’s air defenses busy for hours.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/russia-fends-off-swarms-ukrainian-drones-day-vast-138186480",
+    "publishedAt": "2026-11-16T19:07:08.000Z"
+  },
+  {
+    "id": "3a910931f160ac9f",
+    "title": "Saudi Arabia challenged by Yemeni allies over ceding ground to Houthis",
+    "summary": "Strategy of redeploying forces to try to relieve siege of Taiz and protect Aden comes as Islamist group makes steady gains.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+    "publishedAt": "2026-11-16T19:04:07.000Z"
+  },
+  {
+    "id": "45edaf2338125e32",
+    "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+    "summary": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+    "publishedAt": "2026-11-16T18:49:26.000Z"
+  },
+  {
+    "id": "22ace48cde2383ec",
+    "title": "ICE agents pepper spray pregnant US citizen in California, video shows",
+    "summary": "Lizbeth Vargas Andrade, 23, was taken down by officers and arrested on her stomach during a protest, her attorney says.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen",
+    "publishedAt": "2026-11-16T18:48:51.000Z"
+  },
+  {
+    "id": "010ec8bc472a1454",
+    "title": "The man with the golden touch: James Bond franchise is a money-spinner",
+    "summary": "Big screen debut of Ian Fleming’s creation in 1962, with Sean Connery as lead in Dr No, was start of marketing dream Robert Pattinson is now part of.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/film/2026/nov/16/man-with-golden-touch-james-bond-franchise-money-spinner",
+    "publishedAt": "2026-11-16T18:47:38.000Z"
+  },
+  {
+    "id": "c2ed9d00a9481a0d",
+    "title": "Devon police renewed shotgun licence of known abuser who later killed his wife",
+    "summary": "Ex-marine John Perkins, who also killed himself, had been violent to Kathryn Perkins over 42-year marriage, Exeter inquests hear.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/16/domestic-abuser-john-perkins-shotguns-kathryn-devon-police",
+    "publishedAt": "2026-11-16T18:46:53.000Z"
+  },
+  {
+    "id": "c94c46c55ad0cd46",
+    "title": "Woman accusing David Walliams of grooming her backs staggered age of consent call",
+    "summary": "Comments come after Mia Latter, who alleged she was raped by Russell Brand, had said she wanted a change in law.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/16/woman-accusing-david-walliams-grooming-backs-staggered-age-of-consent-call",
+    "publishedAt": "2026-11-16T18:30:20.000Z"
+  },
+  {
+    "id": "cf8497c0eb711955",
+    "title": "Anthropic recognises the risks to humanity – but is its governance really up to the job? | Nils Pratley",
+    "summary": "The Claude AI developer’s unique setup is supposedly high-minded, but still represents extraordinary power concentration.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/16/anthropic-claude-risks-to-humanity-governance-ai",
+    "publishedAt": "2026-11-16T18:18:57.000Z"
+  },
+  {
+    "id": "c7c97534a839252b",
+    "title": "British actor Robert Pattinson named as new James Bond",
+    "summary": "The actor called the studio's decision a 'dream come true'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
+    "publishedAt": "2026-11-16T18:13:14.000Z"
+  },
+  {
     "id": "f582bf0dc53f6ed3",
     "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
     "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
@@ -666,6 +774,15 @@
     "publishedAt": "2026-11-16T11:39:14.000Z"
   },
   {
+    "id": "97a84867dfb0ddf1",
+    "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+    "summary": "CEO ousted after affair with suspected Chinese spy reportedly plans comeback, but US treasury secretary urges ‘dramatic shake-up’",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+    "publishedAt": "2026-11-16T11:30:35.000Z"
+  },
+  {
     "id": "f3ddf5c2cb647e70",
     "title": "Klopp says Infantino worse than Blatter",
     "summary": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
@@ -700,6 +817,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest",
     "publishedAt": "2026-11-16T11:12:44.000Z"
+  },
+  {
+    "id": "ce624516788d43d4",
+    "title": "Yemeni forces retreat to defend port city from Houthis",
+    "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
+    "publishedAt": "2026-11-16T11:09:38.000Z"
   },
   {
     "id": "4fd9a00d11a90adb",
@@ -1222,131 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/environment/2026/nov/16/weakening-uk-electric-vehicle-targets-would-hurt-car-industry-ministers-told",
     "publishedAt": "2026-11-16T06:00:37.000Z"
-  },
-  {
-    "id": "40dd251760147410",
-    "title": "Starwatch: Fleeting brilliance of Leonid meteor shower to hit peak",
-    "summary": "Annual display appears to radiate from constellation of Leo in eastern sky as Earth passes through comet debris stream.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/16/starwatch-fleeting-brilliance-of-leonid-meteor-shower-to-hit-peak",
-    "publishedAt": "2026-11-16T06:00:36.000Z"
-  },
-  {
-    "id": "506833219b826a8b",
-    "title": "Special needs overhaul in England could bring in new avenues for extra support",
-    "summary": "Planned reforms could include appeals to ombudsman or review panel for parents dissatisfied with provisions.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/education/2026/nov/16/families-rights-appeal-support-send-overhaul-england",
-    "publishedAt": "2026-11-16T06:00:35.000Z"
-  },
-  {
-    "id": "0206d39705cd2f94",
-    "title": "US and rivals spar over next UN boss as race lurches towards deadline",
-    "summary": "Costa Rica's Rebeca Grynspan is the current frontrunner, polls suggest, but the US and Russia could veto her bid.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline?traffic_source=rss",
-    "publishedAt": "2026-11-16T05:57:54.000Z"
-  },
-  {
-    "id": "50dc7205f6098009",
-    "title": "'Break-in and rising costs could kill my business'",
-    "summary": "Gordon Kidd says if things do not improve financially, he fears his firm in Shifnal will go under.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9n731r5mej5o",
-    "publishedAt": "2026-11-16T05:57:19.000Z"
-  },
-  {
-    "id": "abfc3a1aacf2d925",
-    "title": "Widow of Haiti’s slain leader Moise to contest presidential vote",
-    "summary": "Martine Moise is one of ​33 registered candidates running in Haiti's first presidential election in a decade.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote?traffic_source=rss",
-    "publishedAt": "2026-11-16T05:38:52.000Z"
-  },
-  {
-    "id": "5d6f455e6b2b9e39",
-    "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
-    "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo",
-    "publishedAt": "2026-11-16T05:06:59.000Z"
-  },
-  {
-    "id": "c46620235af06ec9",
-    "title": "Ministers accused of ‘gambling with safety’ for not knowing cost of NHS maternity unit repairs",
-    "summary": "NHS chiefs said last year that 43% of maternity and neonatal units in England do not meet safety standards.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/16/ministers-safety-not-know-cost-nhs-maternity-unit-repairs-england",
-    "publishedAt": "2026-11-16T05:00:34.000Z"
-  },
-  {
-    "id": "24020b21010eef4d",
-    "title": "Will Spain’s snap election in November bring a far-right party into government?",
-    "summary": "Country’s sixth general election in 11 years could lead to far-right role in government for first time since Franco’s death.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/16/will-spains-snap-election-in-november-bring-a-far-right-party-into-government",
-    "publishedAt": "2026-11-16T05:00:33.000Z"
-  },
-  {
-    "id": "972cf0fda6c50267",
-    "title": "Coles investigates cyber attack but provides little detail",
-    "summary": "Coles has told customers to \"remain vigilant\" as it investigates a cyber incident, but says it has not identified customer or employee data being compromised at this stage.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-16/coles-investigates-cybersecurity-breach-but-little-detail/107390824",
-    "publishedAt": "2026-11-16T05:00:02.000Z"
-  },
-  {
-    "id": "a428b69557a04fc7",
-    "title": "Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’",
-    "summary": "Iran-aligned Kataib Hezbollah says the group is subjected to 'blackmail' to force disarmament amid US pressure on Iraq.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie?traffic_source=rss",
-    "publishedAt": "2026-11-16T04:53:42.000Z"
-  },
-  {
-    "id": "2afc0f112f85c398",
-    "title": "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025",
-    "summary": "Chinese tech executive romantically linked to ex-Nvidia CEO Jensen Huang left in August 2025, Singapore-based firm says.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025?traffic_source=rss",
-    "publishedAt": "2026-11-16T04:46:49.000Z"
-  },
-  {
-    "id": "26ba3dc0cd286c33",
-    "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
-    "summary": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
-    "publishedAt": "2026-11-16T04:39:20.000Z"
-  },
-  {
-    "id": "37f619bfdcc078fc",
-    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
-    "summary": "Canadian Prime Minister Mark Carney says Canada could turn to Chinese automakers if trade negotiations with U.S. President Donald Trump fail to preserve an integrated North American auto industry.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/carney-canada-turn-chinese-automakers-trump-trade-talks-138168098",
-    "publishedAt": "2026-11-16T04:37:59.000Z"
-  },
-  {
-    "id": "1bc236a64d94dab0",
-    "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
-    "summary": "Prabowo says his government has a 'zero-tolerance policy' for firms that contribute to blazes and pledges strict action.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze?traffic_source=rss",
-    "publishedAt": "2026-11-16T04:11:53.000Z"
   }
 ]
