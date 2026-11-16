@@ -1,5 +1,68 @@
 [
   {
+    "id": "986b4db417cb16f0",
+    "title": "‘Strangers gave me £2,409’: the online community helping people in debt",
+    "summary": "People come together online to support one another with small voluntary donations to ease financial worries.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/16/online-community-helping-people-in-debt",
+    "publishedAt": "2026-11-16T08:00:37.000Z"
+  },
+  {
+    "id": "2b570ded2d9e0e8f",
+    "title": "European football body’s secret plan to go global leaves Fifa on tenterhooks",
+    "summary": "Findings of ‘feasibility study’ into quest for world domination loom with Europe’s wealthiest certain to benefit whatever the outcome.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/16/fifa-waits-european-football-clubs-plan-global",
+    "publishedAt": "2026-11-16T08:00:37.000Z"
+  },
+  {
+    "id": "364a6f352939a507",
+    "title": "Lula to govern Brazil for fourth term but faces challenges. Here’s what to know",
+    "summary": "Brazilian President Luiz In&aacute;cio Lula da Silva has won a surprise reelection victory but faces significant challenges.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/lula-govern-brazil-fourth-term-faces-range-challenges-138170781",
+    "publishedAt": "2026-11-16T07:55:24.000Z"
+  },
+  {
+    "id": "59facec8d45f0a3b",
+    "title": "Why is China resisting a nuclear treaty with the US and Russia?",
+    "summary": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia?traffic_source=rss",
+    "publishedAt": "2026-11-16T07:54:09.000Z"
+  },
+  {
+    "id": "481dd769e4db6596",
+    "title": "Yellow weather warnings issued for snow and ice as temperatures plummet",
+    "summary": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o",
+    "publishedAt": "2026-11-16T07:43:51.000Z"
+  },
+  {
+    "id": "a7f1a8d061d244c5",
+    "title": "At least 11 killed in blaze on Thailand’s Phuket island",
+    "summary": "Authorities are investigating the cause of the fire, which also injured 16, but have ruled out arson.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss",
+    "publishedAt": "2026-11-16T07:42:48.000Z"
+  },
+  {
+    "id": "f1db7124dab3f5fd",
+    "title": "Russia’s Andreeva defeats Ukraine’s Svitolina 7-5, 6-3 to win WTA Finals",
+    "summary": "Mirra Andreeva won the final in straight sets to end her first Grand Slam-winning year as world number two.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals?traffic_source=rss",
+    "publishedAt": "2026-11-16T07:13:00.000Z"
+  },
+  {
     "id": "d76ba2cdf6637080",
     "title": "A fire in a building in southern Thailand kills 11 people",
     "summary": "A fire has burned through a building in southern Thailand and killed 11 people.",
@@ -43,6 +106,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/money/2026/nov/16/leave-to-remain-housing-allowance-glitch-immigration-status",
     "publishedAt": "2026-11-16T07:00:37.000Z"
+  },
+  {
+    "id": "b24ba7ef8136a249",
+    "title": "Apple MacBook Pro M6 review: probably the last of its generation",
+    "summary": "Spec bump adds power to exceptionally long battery life in base-model Pro laptop, but is overshadowed by a new design.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/16/apple-macbook-pro-m6-review-battery-laptop",
+    "publishedAt": "2026-11-16T07:00:36.000Z"
   },
   {
     "id": "5f8885d6658ecb5a",
@@ -1125,6 +1197,15 @@
     "publishedAt": "2026-11-15T13:54:05.000Z"
   },
   {
+    "id": "f5ee33cfc3ffd131",
+    "title": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
+    "summary": "Long-awaited final report will call for benefit cuts but lack of entry-level jobs is also driving the crisis.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push",
+    "publishedAt": "2026-11-15T13:47:43.000Z"
+  },
+  {
     "id": "786d24ee2827a6de",
     "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
     "summary": "The remains of 69 Palestinians have been recovered in northern Gaza, allowing families to bury them.",
@@ -1215,6 +1296,15 @@
     "publishedAt": "2026-11-15T13:06:15.000Z"
   },
   {
+    "id": "e4c06b2fe0aa4569",
+    "title": "‘Nobody else is going to save us’: the direct action group taking on the UK’s banks, bailiffs and water firms",
+    "summary": "Community union Acorn is helping people fight unfair bills, AI decision-making and housing injustices as cost of living crisis deepens.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/15/acorn-union-direct-action-uk-banks-bailiffs-water-firms",
+    "publishedAt": "2026-11-15T13:04:48.000Z"
+  },
+  {
     "id": "a0e17e8eed2cac70",
     "title": "‘Shameless venality’: how a flurry of lawsuits has thwarted Trump’s self-enrichment schemes",
     "summary": "Courts have issued stinging rebukes to president’s ‘blatant’ financial ploys as pro-democracy groups defend ‘government of laws, not of men’ pillar.",
@@ -1258,95 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/pope-crosses-peru-finale-trip-home-visit-flock-138155337",
     "publishedAt": "2026-11-15T12:42:46.000Z"
-  },
-  {
-    "id": "ed001dc0012e7d23",
-    "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
-    "summary": "Tehran says its air attacks on countries cooperating with the US are justified under international law.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
-    "publishedAt": "2026-11-15T12:36:19.000Z"
-  },
-  {
-    "id": "b3440b22b3824ba6",
-    "title": "Australia crush New Zealand to win fourth Women’s Rugby League World Cup",
-    "summary": "Australia dominated the first half and capitalised on the Kiwi Ferns’ errors to win 34-10 and clinch the trophy.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/15/australia-crush-new-zealand-to-win-fourth-womens-rugby-league-world-cup?traffic_source=rss",
-    "publishedAt": "2026-11-15T12:21:28.000Z"
-  },
-  {
-    "id": "e2c24991db38b9de",
-    "title": "Trident nuclear submarine concludes record underwater deployment",
-    "summary": "HMS Vengeance’s seven-month patrol prompts concerns about slow pace of maintenance of ageing fleet and impact on crew.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
-    "publishedAt": "2026-11-15T12:09:32.000Z"
-  },
-  {
-    "id": "884b96312ced2679",
-    "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
-    "summary": "Israel takes measures to crush Palestinian business in the occupied West Bank.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss",
-    "publishedAt": "2026-11-15T12:02:45.000Z"
-  },
-  {
-    "id": "fe5d1f46e92f759c",
-    "title": "Obama portrait artist draws Burnham for Big Issue cover to highlight rough sleeping vow",
-    "summary": "Exclusive: Shepard Fairey says image will hold PM accountable over promise to get people off the streets.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/15/obama-portrait-artist-draws-burnham-big-issue-rough-sleeping-vow-shepard-fairey",
-    "publishedAt": "2026-11-15T12:00:15.000Z"
-  },
-  {
-    "id": "13c7df27485986d9",
-    "title": "Trump administration planning to reimburse doctors treating vaccine ‘injury’",
-    "summary": "Experts warn that sweeping changes elevate health secretary RFK Jr’s anti-vaccine agenda and personal profit.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration",
-    "publishedAt": "2026-11-15T12:00:15.000Z"
-  },
-  {
-    "id": "d0987560f0569a77",
-    "title": "Black voters helped Democrats win in Georgia. Now they expect to be heard",
-    "summary": "Activists have been shouting about economic issues for years – in January they will expect lawmakers to respond.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/15/georgia-midterm-elections-black-voters",
-    "publishedAt": "2026-11-15T12:00:15.000Z"
-  },
-  {
-    "id": "dedd224b91da4947",
-    "title": "Israel coalition talks put Arab party leader under pressure over Hamas",
-    "summary": "Mansour Abbas faces mounting pressure from Israel’s change bloc to denounce Hamas as a prerequisite for coalition role.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/israel-coalition-talks-put-arab-party-leader-under-pressure-over-hamas?traffic_source=rss",
-    "publishedAt": "2026-11-15T11:56:26.000Z"
-  },
-  {
-    "id": "1a597183d2420bda",
-    "title": "Athletes rewrite the rules as Dakar 2026 Youth Olympics come to an end",
-    "summary": "Hosts Senegal thrive, and exuberant athletes defy the shadows cast over the Games by politics and history.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/15/dakar-youth-olympics-2026-senegal-games-come-to-an-end?traffic_source=rss",
-    "publishedAt": "2026-11-15T11:53:39.000Z"
-  },
-  {
-    "id": "30503268397897db",
-    "title": "Reform UK losing support to Labour after ‘difficult year’, says Danny Kruger",
-    "summary": "MP says party is being squeezed by arrival of ‘more plausible’ Labour leader in Andy Burnham.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/15/reform-uk-losing-support-to-labour-after-difficult-year-says-danny-kruger",
-    "publishedAt": "2026-11-15T11:53:01.000Z"
   }
 ]
