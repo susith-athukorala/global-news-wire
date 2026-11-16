@@ -1,5 +1,77 @@
 [
   {
+    "id": "5d6f455e6b2b9e39",
+    "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+    "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo",
+    "publishedAt": "2026-11-16T05:06:59.000Z"
+  },
+  {
+    "id": "c46620235af06ec9",
+    "title": "Ministers accused of ‘gambling with safety’ for not knowing cost of NHS maternity unit repairs",
+    "summary": "NHS chiefs said last year that 43% of maternity and neonatal units in England do not meet safety standards.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/16/ministers-safety-not-know-cost-nhs-maternity-unit-repairs-england",
+    "publishedAt": "2026-11-16T05:00:34.000Z"
+  },
+  {
+    "id": "24020b21010eef4d",
+    "title": "Will Spain’s snap election in November bring a far-right party into government?",
+    "summary": "Country’s sixth general election in 11 years could lead to far-right role in government for first time since Franco’s death.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/16/will-spains-snap-election-in-november-bring-a-far-right-party-into-government",
+    "publishedAt": "2026-11-16T05:00:33.000Z"
+  },
+  {
+    "id": "a428b69557a04fc7",
+    "title": "Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’",
+    "summary": "Iran-aligned Kataib Hezbollah says the group is subjected to 'blackmail' to force disarmament amid US pressure on Iraq.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie?traffic_source=rss",
+    "publishedAt": "2026-11-16T04:53:42.000Z"
+  },
+  {
+    "id": "2afc0f112f85c398",
+    "title": "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025",
+    "summary": "Chinese tech executive romantically linked to ex-Nvidia CEO Jensen Huang left in August 2025, Singapore-based firm says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025?traffic_source=rss",
+    "publishedAt": "2026-11-16T04:46:49.000Z"
+  },
+  {
+    "id": "26ba3dc0cd286c33",
+    "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+    "summary": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+    "publishedAt": "2026-11-16T04:39:20.000Z"
+  },
+  {
+    "id": "37f619bfdcc078fc",
+    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
+    "summary": "Canadian Prime Minister Mark Carney says Canada could turn to Chinese automakers if trade negotiations with U.S. President Donald Trump fail to preserve an integrated North American auto industry.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/carney-canada-turn-chinese-automakers-trump-trade-talks-138168098",
+    "publishedAt": "2026-11-16T04:37:59.000Z"
+  },
+  {
+    "id": "1bc236a64d94dab0",
+    "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
+    "summary": "Prabowo says his government has a 'zero-tolerance policy' for firms that contribute to blazes and pledges strict action.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze?traffic_source=rss",
+    "publishedAt": "2026-11-16T04:11:53.000Z"
+  },
+  {
     "id": "db28a4f026d749fd",
     "title": "Tech failure forces hundreds of University of Melbourne students to abandon final exams mid-test",
     "summary": "Students left in limbo after digital platform fails during exams, with university saying ‘third-party technical partners’ likely to blame for issue.",
@@ -1276,77 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
     "publishedAt": "2026-11-15T07:00:06.000Z"
-  },
-  {
-    "id": "dd5fc1b511696b16",
-    "title": "Mental health is no joke - but I've turned it into a stand-up routine",
-    "summary": "People who have struggled with mental ill-health are giving stand-up a go to tell their stories.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck1l05lqjrq6o",
-    "publishedAt": "2026-11-15T06:41:46.000Z"
-  },
-  {
-    "id": "34396b6f5600b6f5",
-    "title": "Pope Leo helps Argentines embrace Francis, the pontiff who once divided them",
-    "summary": "Millions of Argentines have turned out to see Pope Leo XIV — and the words that moved them most often belonged to his predecessor, and their compatriot, Francis.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-leo-helps-argentines-embrace-francis-pontiff-divided-138153510",
-    "publishedAt": "2026-11-15T06:38:34.000Z"
-  },
-  {
-    "id": "29fe13ceeb93ff34",
-    "title": "Ebola outbreak remains out of control in Congo 6 months into response",
-    "summary": "Congo’s Ebola outbreak remains out of control six months after it was announced, with more than 11,000 cases recorded and nearly half proving fatal.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ebola-outbreak-remains-control-congo-6-months-response-138153553",
-    "publishedAt": "2026-11-15T06:37:41.000Z"
-  },
-  {
-    "id": "5b81e3ac84bc2d0a",
-    "title": "Africa is charting a different road to electric mobility with motorbikes and versatile 3-wheelers",
-    "summary": "In Africa, the electric vehicle transition is taking a different route from wealthier markets, with motorcycles and three-wheelers emerging as practical alternatives to passenger cars.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/africa-charting-road-electric-mobility-motorbikes-versatile-3-138153368",
-    "publishedAt": "2026-11-15T06:29:41.000Z"
-  },
-  {
-    "id": "dc785f3a9115eea4",
-    "title": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda",
-    "summary": "Southeast Asian leaders have opened their annual summit in the Philippine capital Manila for three days of talks.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/southeast-asian-leaders-open-annual-summit-major-conflicts-138153824",
-    "publishedAt": "2026-11-15T06:29:29.000Z"
-  },
-  {
-    "id": "88bda1579ac188d6",
-    "title": "Cape Verde could elect first woman president since gaining independence in 1975",
-    "summary": "Cape Verde could elect its first woman president as former Justice Minister Joana Rosa challenges incumbent Jos&eacute; Maria Neves.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/cape-verde-elect-woman-president-gaining-independence-1975-138154009",
-    "publishedAt": "2026-11-15T06:29:24.000Z"
-  },
-  {
-    "id": "36c027852976f0fb",
-    "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-    "summary": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
-    "publishedAt": "2026-11-15T06:22:32.000Z"
-  },
-  {
-    "id": "86496b651ccdcf08",
-    "title": "Secret votes and vetoes: How will the next UN chief be picked?",
-    "summary": "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
-    "publishedAt": "2026-11-15T06:11:00.000Z"
   }
 ]
