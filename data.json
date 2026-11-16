@@ -1,5 +1,59 @@
 [
   {
+    "id": "fcc96111cf3e4863",
+    "title": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears",
+    "summary": "The bloc imposed sanctions on nearly 50 Russian banks, financial institutions.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/eu-accuses-russia-stalling-ukraine-peace-talks-target-138172402",
+    "publishedAt": "2026-11-16T17:02:04.000Z"
+  },
+  {
+    "id": "51d08ee35cffa749",
+    "title": "Pope bids 'hasta luego' to his second homeland of Peru as he wraps up marathon South American trip",
+    "summary": "Pope Leo XIV has bid farewell to his beloved homeland of Peru.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-bids-hasta-luego-homeland-peru-wraps-marathon-138178866",
+    "publishedAt": "2026-11-16T16:58:41.000Z"
+  },
+  {
+    "id": "4e32932ee6d39322",
+    "title": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
+    "summary": "Many countries surprised to see first version delivered with more than four days of negotiation still remaining.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
+    "publishedAt": "2026-11-16T16:54:42.000Z"
+  },
+  {
+    "id": "49a1ce094a2bb655",
+    "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+    "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+    "publishedAt": "2026-11-16T16:48:47.000Z"
+  },
+  {
+    "id": "2a1f24c55051caa1",
+    "title": "UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election",
+    "summary": "French Football Federation chief Diallo emerges as a strong challenger in FIFA's presidential election before deadline.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss",
+    "publishedAt": "2026-11-16T16:46:05.000Z"
+  },
+  {
+    "id": "115d73dd03914851",
+    "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+    "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+    "publishedAt": "2026-11-16T16:21:40.000Z"
+  },
+  {
     "id": "fe125fe61fb05f62",
     "title": "Surge of US datacenters adds equivalent of Denmark’s annual emissions, study finds",
     "summary": "‘Hyperscaler’ datacenters across country draw upon dirtier power sources to meet vast energy needs, research shows.",
@@ -164,7 +218,7 @@
   {
     "id": "e4690168895a1059",
     "title": "Jim Ratcliffe’s Ineos Group settles with Ben Ainslie over America’s Cup dispute",
-    "summary": "Sir Jim Ratcliffe’s Ineos Group has reached an out-of-court settlement with Sir Ben Ainslie over the £180m yacht their companies built for the 2024 America’s Cup. Ratcliffe and Ainslie worked closely together during two cycles of the America’s Cup culminating in Ineos Britannia becoming the first British crew to…",
+    "summary": "",
     "category": "Economy",
     "source": "The Guardian",
     "link": "https://www.theguardian.com/sport/2026/nov/16/jim-ratcliffe-ineos-group-settles-ben-ainslie-americas-cup-dispute-sailing",
@@ -1294,59 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
     "publishedAt": "2026-11-16T00:51:23.000Z"
-  },
-  {
-    "id": "5cf5b16ddc2a8e78",
-    "title": "Black Friday and tax return scams - don't fall for these",
-    "summary": "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko",
-    "publishedAt": "2026-11-16T00:50:39.000Z"
-  },
-  {
-    "id": "cff5954df6ce6771",
-    "title": "Cancer 'sponge' tests could be offered to more people with bad indigestion",
-    "summary": "The \"sponge on a string\" tests can be done in GP surgeries, rather than hospitals, unlike endoscopy checks that use a small camera.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o",
-    "publishedAt": "2026-11-16T00:47:04.000Z"
-  },
-  {
-    "id": "892cf0acc1a3c25b",
-    "title": "After a nationwide ground stop, US faces aviation infrastructure questions",
-    "summary": "Trump has requested $50bn for upgrades, but Democratic lawmakers are asking for transparency before spending more.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss",
-    "publishedAt": "2026-11-16T00:45:48.000Z"
-  },
-  {
-    "id": "54c6b0fe0c53405a",
-    "title": "Southeast Asian leaders denounce violence in Myanmar and extend ban on its leader",
-    "summary": "Southeast Asian leaders say Myanmar has failed to comply with a 2021 peace plan and its military and armed groups continue to attack civilians.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/southeast-asian-leaders-denounce-violence-myanmar-extend-ban-138155822",
-    "publishedAt": "2026-11-16T00:42:19.000Z"
-  },
-  {
-    "id": "e5f18ed0c9803f52",
-    "title": "Coles investigating ‘cybersecurity incident’ and apologises to customers",
-    "summary": "Supermarket giant says no customer, team or supplier data breached in cyber-attack but recommends customers update passwords.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
-    "publishedAt": "2026-11-16T00:25:13.000Z"
-  },
-  {
-    "id": "c6d97f4d18295337",
-    "title": "Russia's mega-rich are already imagining a future after Putin",
-    "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o",
-    "publishedAt": "2026-11-16T00:13:14.000Z"
   }
 ]
