@@ -1,5 +1,32 @@
 [
   {
+    "id": "ce624516788d43d4",
+    "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+    "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
+    "publishedAt": "2026-11-16T03:08:31.000Z"
+  },
+  {
+    "id": "443332a55fcd8c9e",
+    "title": "Investors sue chip giant Intel after 29% stock plunge",
+    "summary": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do",
+    "publishedAt": "2026-11-16T03:04:01.000Z"
+  },
+  {
+    "id": "e1c130ec8ecd3066",
+    "title": "ASEAN, China fall short of agreeing on South China Sea code",
+    "summary": "Southeast Asian leaders also denounce violence in Myanmar and extend ban on country's leader attending bloc's summits.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss",
+    "publishedAt": "2026-11-16T02:46:35.000Z"
+  },
+  {
     "id": "1c5c7ee1c6b2da78",
     "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
     "summary": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
@@ -1321,32 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
     "publishedAt": "2026-11-15T05:05:02.000Z"
-  },
-  {
-    "id": "736e19a74135ce45",
-    "title": "Protesters drive home message to data centre company",
-    "summary": "Hundreds of people have rallied at SA Parliament, calling for plans for a data centre in the Adelaide Hills to be scrapped.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-15/ai-data-centre-quantum-dc-adelaide-hills-protest/107387568",
-    "publishedAt": "2026-11-15T04:55:21.000Z"
-  },
-  {
-    "id": "d8af2c1b6e71c196",
-    "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
-    "summary": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
-    "publishedAt": "2026-11-15T04:44:57.000Z"
-  },
-  {
-    "id": "314a35f02ae621b1",
-    "title": "Zimbabwe’s HIV gains face a test among young people",
-    "summary": "New prevention tools offer hope, but reaching young people remains a challenge.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss",
-    "publishedAt": "2026-11-15T04:13:00.000Z"
   }
 ]
