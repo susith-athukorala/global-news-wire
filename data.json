@@ -1,5 +1,50 @@
 [
   {
+    "id": "1c5c7ee1c6b2da78",
+    "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+    "summary": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o",
+    "publishedAt": "2026-11-16T01:53:19.000Z"
+  },
+  {
+    "id": "c9512734b340b4bc",
+    "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+    "summary": "Pontiff says he supports Indigenous efforts to protect their lands, demands justice for slain environmental defenders.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
+    "publishedAt": "2026-11-16T01:52:12.000Z"
+  },
+  {
+    "id": "2433ebd30507795f",
+    "title": "MP Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
+    "summary": "The Alfred hospital in Melbourne confirmed on Monday the independent MP had been discharged.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+    "publishedAt": "2026-11-16T01:36:54.000Z"
+  },
+  {
+    "id": "e0758f71f0f8bbc2",
+    "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+    "summary": "Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+    "publishedAt": "2026-11-16T01:17:04.000Z"
+  },
+  {
+    "id": "81e7758ea71cfa19",
+    "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+    "summary": "Pontiff delivers forceful speech on final day in Peru as he travels from high in the Andes into the Amazon.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+    "publishedAt": "2026-11-16T01:13:44.000Z"
+  },
+  {
     "id": "97a84867dfb0ddf1",
     "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
     "summary": "Silicon Valley figures back CEO ousted after revelations of affair with suspected Chinese spy, as US treasury secretary urges Nvidia to carry out ‘dramatic shake-up’",
@@ -250,6 +295,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
     "publishedAt": "2026-11-15T22:00:24.000Z"
+  },
+  {
+    "id": "64aa35edcfec120c",
+    "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+    "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o",
+    "publishedAt": "2026-11-15T22:00:13.000Z"
   },
   {
     "id": "ef2717616441a4f5",
@@ -1294,59 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
     "publishedAt": "2026-11-15T04:00:02.000Z"
-  },
-  {
-    "id": "75769902a23d6ada",
-    "title": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
-    "summary": "Prime minister says he and Chris Bowen were having ‘light-hearted banter’ when they were caught discussing where they keep their phones.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk",
-    "publishedAt": "2026-11-15T03:49:21.000Z"
-  },
-  {
-    "id": "bfaf045cc0ef69f3",
-    "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-    "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o",
-    "publishedAt": "2026-11-15T03:21:04.000Z"
-  },
-  {
-    "id": "37af75b554724bf7",
-    "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
-    "summary": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
-    "publishedAt": "2026-11-15T02:59:06.000Z"
-  },
-  {
-    "id": "8775874e6c18e955",
-    "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-    "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
-    "publishedAt": "2026-11-15T02:49:45.000Z"
-  },
-  {
-    "id": "595478efb90ca845",
-    "title": "Katherine Deves among four NSW upper house candidates revealed by One Nation",
-    "summary": "Party’s NSW leader Mike Newman says contenders are ‘people from the real world’ and not ‘career politicians’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/15/katherine-deves-among-four-nsw-upper-house-candidates-revealed-by-one-nation-ntwnfb",
-    "publishedAt": "2026-11-15T02:13:20.000Z"
-  },
-  {
-    "id": "e043f4cff3c928f2",
-    "title": "Italy fines Meta $887m for accessing Android users’ photos and videos",
-    "summary": "The fine is among the largest an Italian authority has imposed on a tech giant and Meta says it plans to appeal the decision.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos",
-    "publishedAt": "2026-11-15T02:02:01.000Z"
   }
 ]
