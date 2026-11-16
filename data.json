@@ -1,5 +1,32 @@
 [
   {
+    "id": "48d014c98c102a78",
+    "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+    "summary": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw987343352go",
+    "publishedAt": "2026-11-16T11:17:34.000Z"
+  },
+  {
+    "id": "776aed175fa5712c",
+    "title": "Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest",
+    "summary": "Broadcaster TV3 appears to cut footage of Thai drag performers and gay Philippine jury spokesperson.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest",
+    "publishedAt": "2026-11-16T11:12:44.000Z"
+  },
+  {
+    "id": "4fd9a00d11a90adb",
+    "title": "Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster",
+    "summary": "Huang's peers, including Elon Musk, have praised his business acumen and potential risks to the US's AI goals.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
+    "publishedAt": "2026-11-16T11:05:47.000Z"
+  },
+  {
     "id": "cf321b1f311b1a29",
     "title": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
     "summary": "Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections.",
@@ -702,6 +729,15 @@
     "publishedAt": "2026-11-16T01:52:12.000Z"
   },
   {
+    "id": "198b16a285bdd851",
+    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+    "publishedAt": "2026-11-16T01:47:57.000Z"
+  },
+  {
     "id": "2433ebd30507795f",
     "title": "MP Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
     "summary": "The Alfred hospital in Melbourne confirmed on Monday the independent MP had been discharged.",
@@ -781,6 +817,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss",
     "publishedAt": "2026-11-16T00:45:48.000Z"
+  },
+  {
+    "id": "54c6b0fe0c53405a",
+    "title": "Southeast Asian leaders denounce violence in Myanmar and extend ban on its leader",
+    "summary": "Southeast Asian leaders say Myanmar has failed to comply with a 2021 peace plan and its military and armed groups continue to attack civilians.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/southeast-asian-leaders-denounce-violence-myanmar-extend-ban-138155822",
+    "publishedAt": "2026-11-16T00:42:19.000Z"
   },
   {
     "id": "e5f18ed0c9803f52",
@@ -1303,50 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o",
     "publishedAt": "2026-11-15T16:18:27.000Z"
-  },
-  {
-    "id": "f86cfdf0a006d9fd",
-    "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-    "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o",
-    "publishedAt": "2026-11-15T16:15:20.000Z"
-  },
-  {
-    "id": "e2375872c35401cb",
-    "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
-    "summary": "Hundreds of thousands of people rallied in Prague against a government plan to overhaul funding for public broadcasters.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/czechs-gather-big-numbers-reject-governments-plan-overhaul-138158812",
-    "publishedAt": "2026-11-15T15:53:29.000Z"
-  },
-  {
-    "id": "ec6b2e790328d696",
-    "title": "Two planes collide on taxiway at Miami airport one day after national grounding",
-    "summary": "Two people injured after wingtip of Copa Airlines Boeing 737 struck nose of United Parcel Service Boeing 767.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide",
-    "publishedAt": "2026-11-15T15:40:04.000Z"
-  },
-  {
-    "id": "e6c7e401883d7698",
-    "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
-    "summary": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
-    "publishedAt": "2026-11-15T15:21:21.000Z"
-  },
-  {
-    "id": "3b2353c7a415a319",
-    "title": "Record number of migrants arrive in Spain’s Canary Islands",
-    "summary": "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
-    "publishedAt": "2026-11-15T15:16:29.000Z"
   }
 ]
