@@ -396,6 +396,15 @@
     "publishedAt": "2026-11-15T19:20:53.000Z"
   },
   {
+    "id": "28c78571f8434565",
+    "title": "Vanuatu woman internationally recognised for solar scheme tackling violence",
+    "summary": "Women in a village on Vanuatu's Tanna island are working to reduce their risk of being attacked by switching from candles to solar lights.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-16/vanuatu-women-using-light-to-reduce-male-violence/107316976",
+    "publishedAt": "2026-11-15T18:55:15.000Z"
+  },
+  {
     "id": "31f9953a2058ee85",
     "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
     "summary": "Mississippi Democrat points to commitments Trump made: lower prices, halt endless wars and release Epstein files.",
@@ -1339,14 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss",
     "publishedAt": "2026-11-15T04:13:00.000Z"
-  },
-  {
-    "id": "e6ff120e40a3dd9f",
-    "title": "World leaders head to Asia for back-to-back diplomatic summits",
-    "summary": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
-    "publishedAt": "2026-11-15T04:00:02.000Z"
   }
 ]
