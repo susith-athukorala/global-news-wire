@@ -1,5 +1,23 @@
 [
   {
+    "id": "db28a4f026d749fd",
+    "title": "Tech failure forces hundreds of University of Melbourne students to abandon final exams mid-test",
+    "summary": "Students left in limbo after digital platform fails during exams, with university saying ‘third-party technical partners’ likely to blame for issue.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/16/university-of-melbourne-students-exams-cancelled-tech-issue",
+    "publishedAt": "2026-11-16T03:54:54.000Z"
+  },
+  {
+    "id": "f676ff9dd1c68052",
+    "title": "Australia’s national medical research body advises conditional use of puberty blockers for transgender children",
+    "summary": "New National Health and Medical Research Council guidelines at odds with public hospital bans in Queensland and NT.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/16/australias-national-medical-research-body-advises-conditional-use-of-puberty-blockers-for-transgender-children",
+    "publishedAt": "2026-11-16T03:15:43.000Z"
+  },
+  {
     "id": "ce624516788d43d4",
     "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
     "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
@@ -16,6 +34,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do",
     "publishedAt": "2026-11-16T03:04:01.000Z"
+  },
+  {
+    "id": "720d92e1978d5070",
+    "title": "Senior Hells Angels bikie charged with threatening to kill investigative reporter Nick McKenzie",
+    "summary": "Victoria police allege man, suspected of being a chapter president of the gang, sent ‘threats and harassing text messages’ to Nine journalist.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/16/hells-angels-bikie-charged-threats-to-kill-journalist-nick-mckenzie-ntwnfb",
+    "publishedAt": "2026-11-16T03:01:43.000Z"
   },
   {
     "id": "e1c130ec8ecd3066",
@@ -297,6 +324,15 @@
     "publishedAt": "2026-11-15T22:06:38.000Z"
   },
   {
+    "id": "687cffbb678dc4e6",
+    "title": "Canada bars Russia from Junior World Championships",
+    "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo",
+    "publishedAt": "2026-11-15T22:01:16.000Z"
+  },
+  {
     "id": "d1205ad7d9ea5fa2",
     "title": "Tories pledge to halt screen-based school exams and cut coursework",
     "summary": "The party says its proposals for England aim to address excessive screen time and over-reliance on AI.",
@@ -367,6 +403,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/15/somali-american-uber-driver-attack-minnesota",
     "publishedAt": "2026-11-15T21:10:38.000Z"
+  },
+  {
+    "id": "b2ecf40f1bd50c67",
+    "title": "How sensitive data from Centrelink and other Australian agencies may have been fed to Palantir software",
+    "summary": "Exclusive: Personal information of Centrelink clients and childcare workers is among data shared with ACIC, which uses US tech company’s software.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/16/personal-data-centrelink-ato-ndis-palantir",
+    "publishedAt": "2026-11-15T21:06:03.000Z"
   },
   {
     "id": "f3c0fc7df4585e50",
@@ -1303,50 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
     "publishedAt": "2026-11-15T06:11:00.000Z"
-  },
-  {
-    "id": "9bbc450964fcffa6",
-    "title": "Gymshark in trademark battle that threatens future of small fitness business",
-    "summary": "Exclusive: British sportswear firm is seeking to obtain rights to The Conditioning Club, which is also the name of a Gloucestershire gym.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/law/2026/nov/15/gymshark-trademark-battle-the-conditioning-club-gloucestershire",
-    "publishedAt": "2026-11-15T06:00:07.000Z"
-  },
-  {
-    "id": "2460d1d60ca9d447",
-    "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
-    "summary": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
-    "publishedAt": "2026-11-15T06:00:06.000Z"
-  },
-  {
-    "id": "600d195ed7b733f7",
-    "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
-    "summary": "International court of justice has never before found a state guilty of genocide, and ruling will have implications for case against Israel.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
-    "publishedAt": "2026-11-15T06:00:05.000Z"
-  },
-  {
-    "id": "6baac8e6228aa18b",
-    "title": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
-    "summary": "Thames Water says detainees at proposed accommodation should expect to experience insect swarms and strong smells.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
-    "publishedAt": "2026-11-15T06:00:05.000Z"
-  },
-  {
-    "id": "6b6054b17b50bd15",
-    "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-    "summary": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-    "publishedAt": "2026-11-15T05:05:02.000Z"
   }
 ]
