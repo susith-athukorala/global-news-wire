@@ -1,5 +1,140 @@
 [
   {
+    "id": "d76ba2cdf6637080",
+    "title": "A fire in a building in southern Thailand kills 11 people",
+    "summary": "A fire has burned through a building in southern Thailand and killed 11 people.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/fire-building-southern-thailand-kills-11-people-138170386",
+    "publishedAt": "2026-11-16T07:06:40.000Z"
+  },
+  {
+    "id": "11cc61a7d8e1eba2",
+    "title": "‘It’s like the 16th-century version of doomscrolling’: the Book of Miracles may fetch £1m at auction",
+    "summary": "Exclusive: Public institutions get first chance to bid for rare ‘wonderbook’ of apocalyptic visions and extreme weather.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/books/2026/nov/16/book-of-miracles-apocalyptic-weather-visions-auction",
+    "publishedAt": "2026-11-16T07:00:38.000Z"
+  },
+  {
+    "id": "bca39723b925640d",
+    "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
+    "summary": "Prime minister is to meet European leaders at summit this week and secure agreements that ‘could raise GDP by 0.4%’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
+    "publishedAt": "2026-11-16T07:00:38.000Z"
+  },
+  {
+    "id": "7021f9fe7abb6254",
+    "title": "Ma Wee Tin O’Shortbreid: a journey in search of the real Highlands",
+    "summary": "Ma Wee Tin o’ Shortbreid began as a cautionary note: don’t make the Highlands look like a shortbread tin. Then Dougie Wallace shot a Chinese tourist beneath a wee umbrella, and the warning became the title.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/artanddesign/2026/nov/16/dougie-wallace-ma-wee-tin-oshortbreid-highlands-tourism-scotland",
+    "publishedAt": "2026-11-16T07:00:37.000Z"
+  },
+  {
+    "id": "df45043b5e1e5699",
+    "title": "Housing allowance glitch threatens my partner’s leave to remain",
+    "summary": "DWP admits it is making a mistake that affects his immigration status but says it can’t put it right.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/16/leave-to-remain-housing-allowance-glitch-immigration-status",
+    "publishedAt": "2026-11-16T07:00:37.000Z"
+  },
+  {
+    "id": "5f8885d6658ecb5a",
+    "title": "UK blood services issue urgent appeal for donations as winter approaches",
+    "summary": "Supplies are low and reserves of certain types are half of what the UK needs, officials say.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/16/uk-blood-services-urgent-appeal-donations-winter",
+    "publishedAt": "2026-11-16T07:00:36.000Z"
+  },
+  {
+    "id": "e01b2dacf18e13db",
+    "title": "British women to receive automatic pardons for past abortion convictions",
+    "summary": "The British government is pardoning women convicted of illegally terminating pregnancies.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/british-women-receive-automatic-pardons-past-abortion-convictions-138170290",
+    "publishedAt": "2026-11-16T06:58:31.000Z"
+  },
+  {
+    "id": "290bb7653530da0e",
+    "title": "Kenyan farmers adopt new techniques to curb erosion during heavy rains",
+    "summary": "Farmers in parts of Kenya are turning to simple soil conservation techniques to protect their crops and farmland ahead of the October-December rainy season that is projected to be heavier than usual.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/kenyan-farmers-adopt-new-techniques-curb-erosion-heavy-138170385",
+    "publishedAt": "2026-11-16T06:58:30.000Z"
+  },
+  {
+    "id": "3d80ad519c27386d",
+    "title": "Injured Australian lawmaker Helen Haines leaves hospital after alleged SUV attack",
+    "summary": "An Australian federal lawmaker who was almost killed by a car in an allegedly deliberate attack has thanked well-wishers around the world.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/injured-australian-lawmaker-helen-haines-leaves-hospital-after-138170480",
+    "publishedAt": "2026-11-16T06:58:27.000Z"
+  },
+  {
+    "id": "f7b3ead836901d56",
+    "title": "Ethiopia and Sudan accusations of backing armed fighters as fears of conflict grow",
+    "summary": "Tensions between Sudan and Ethiopia have escalated, with each country accusing the other of supporting armed groups that wage war within its borders.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/ethiopia-sudan-accuse-backing-armed-fighters-fears-wider-138170200",
+    "publishedAt": "2026-11-16T06:58:26.000Z"
+  },
+  {
+    "id": "5e2ee5839e2646b3",
+    "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
+    "summary": "In today’s newsletter: From situationship to a possible makeup, a look at the evolving relationship, and the bloc’s big feelings about the future.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
+    "publishedAt": "2026-11-16T06:46:27.000Z"
+  },
+  {
+    "id": "3f4237d7709c955e",
+    "title": "Haiti revs up for elections as enrollment closes for candidates",
+    "summary": "For the first time in Haiti’s history, three women have registered as presidential candidates.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/haiti-revs-elections-enrollment-closes-presidential-parliamentary-candidates-138169668",
+    "publishedAt": "2026-11-16T06:44:56.000Z"
+  },
+  {
+    "id": "022551b4aa7642dc",
+    "title": "UK exposed to polycrisis of threats amid government ‘complacency’",
+    "summary": "Lords report calls for urgent new approach to resilience planning in face of cyber-attacks, sabotage and climate crisis.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/16/uk-exposed-to-polycrisis-of-threats-amid-government-complacency",
+    "publishedAt": "2026-11-16T06:30:35.000Z"
+  },
+  {
+    "id": "a1b953f4de220884",
+    "title": "Beavers could return to river separating counties",
+    "summary": "A trust says the river-dwelling mammals could improve the health of the waterway.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm3rglzqjl90o",
+    "publishedAt": "2026-11-16T06:27:27.000Z"
+  },
+  {
+    "id": "7839cee2bcd52cd7",
+    "title": "Gas starts flowing from Jackdaw after government green light",
+    "summary": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po",
+    "publishedAt": "2026-11-16T06:24:08.000Z"
+  },
+  {
     "id": "8f1adef489937c10",
     "title": "Pupils fascinated by space get astronomy lesson",
     "summary": "Pupils at First Tower School get a visit from a University of Cambridge astronomer.",
@@ -52,6 +187,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/education/2026/nov/16/families-rights-appeal-support-send-overhaul-england",
     "publishedAt": "2026-11-16T06:00:35.000Z"
+  },
+  {
+    "id": "0206d39705cd2f94",
+    "title": "US and rivals spar over next UN boss as race lurches towards deadline",
+    "summary": "Costa Rica's Rebeca Grynspan is the current frontrunner, polls suggest, but the US and Russia could veto her bid.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline?traffic_source=rss",
+    "publishedAt": "2026-11-16T05:57:54.000Z"
   },
   {
     "id": "50dc7205f6098009",
@@ -666,6 +810,15 @@
     "publishedAt": "2026-11-15T18:46:49.000Z"
   },
   {
+    "id": "2f38754a7fd96dd0",
+    "title": "Oil, smoke, AI and Myanmar among key topics at ASEAN summit",
+    "summary": "There is plenty on the agenda as world leaders gather at the ASEAN conference in the Philippines this week.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-16/key-issues-on-agenda-at-asean-summit-2026/107384284",
+    "publishedAt": "2026-11-15T18:40:10.000Z"
+  },
+  {
     "id": "2089f2fd368ae872",
     "title": "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
     "summary": "Total of 75 have already signed letter to Burnham opposing plans as discontent also grows over Europe and welfare changes.",
@@ -1195,158 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/15/reform-uk-losing-support-to-labour-after-difficult-year-says-danny-kruger",
     "publishedAt": "2026-11-15T11:53:01.000Z"
-  },
-  {
-    "id": "f5ee33cfc3ffd131",
-    "title": "Firms need to get onside if Labour’s youth employment push is to have a chance of working | Richard Partington",
-    "summary": "Alan Milburn’s report will call for benefit cuts but lack of entry-level job opportunities is also driving crisis.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push",
-    "publishedAt": "2026-11-15T11:52:03.000Z"
-  },
-  {
-    "id": "09311a4af2d267fc",
-    "title": "Spain says nearly 2,200 migrants reached Canary Islands in 2 days",
-    "summary": "Spain's maritime rescue service says nearly 2,200 migrants have arrived in the Canary Islands over the past two days.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/spain-2200-migrants-reached-canary-islands-2-days-138155239",
-    "publishedAt": "2026-11-15T11:46:56.000Z"
-  },
-  {
-    "id": "82d719e9a8ce7095",
-    "title": "Protest in Prague over media freedom expected to be one of biggest in Czechia’s history",
-    "summary": "Hundreds of thousands expected to rally against plan to scrap licence fees and fund broadcasters from state budget.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
-    "publishedAt": "2026-11-15T11:17:18.000Z"
-  },
-  {
-    "id": "3b03db4c8820b8b8",
-    "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-    "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo",
-    "publishedAt": "2026-11-15T11:06:32.000Z"
-  },
-  {
-    "id": "a47b9f3baf3b2598",
-    "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
-    "summary": "Ukraine's NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
-    "publishedAt": "2026-11-15T10:58:36.000Z"
-  },
-  {
-    "id": "624346bdfa6d4c12",
-    "title": "India’s Under-19 Asia Cup win over Pakistan marred by post-match aggression",
-    "summary": "India beat Pakistan by one wicket in a thrilling comeback in the final but follow it up with unsporting behaviour.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss",
-    "publishedAt": "2026-11-15T10:52:36.000Z"
-  },
-  {
-    "id": "ed56c115d079c223",
-    "title": "How to spot November's planetary parade in the pre-dawn sky",
-    "summary": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo",
-    "publishedAt": "2026-11-15T10:49:57.000Z"
-  },
-  {
-    "id": "e4c06b2fe0aa4569",
-    "title": "‘Nobody else is going to save us’: the direct action group taking on the UK’s banks, bailiffs and water firms",
-    "summary": "Acorn, a community union, is helping people fight unfair bills, AI decision-making and housing injustices as cost-of-living crisis deepens.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/15/acorn-union-direct-action-uk-banks-bailiffs-water-firms",
-    "publishedAt": "2026-11-15T10:41:37.000Z"
-  },
-  {
-    "id": "e916f4027d2cec58",
-    "title": "Iran claims strike in Bahrain on US radar system",
-    "summary": "An Israeli air strike has killed a senior Hamas military commander in Khan Younis in southern Gaza, Israel says, while Jordan dishes out death sentences after last month's attack in the city of Karak.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-15/israel-kills-top-hamas-commander/107388044",
-    "publishedAt": "2026-11-15T10:33:50.000Z"
-  },
-  {
-    "id": "92aa9f8eafa4fd63",
-    "title": "Polls open in Cape Verde in race with first female presidential candidate",
-    "summary": "Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate?traffic_source=rss",
-    "publishedAt": "2026-11-15T10:03:02.000Z"
-  },
-  {
-    "id": "96c7fdfb02ec2113",
-    "title": "Lucy Beaumont thought she’d never work in TV again after speaking up on David Walliams. Something different happened",
-    "summary": "Book sells out and tour tickets in demand after comedian reveals she contributed to Walliams investigation.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/15/lucy-beaumont-work-tv-david-walliams",
-    "publishedAt": "2026-11-15T10:00:11.000Z"
-  },
-  {
-    "id": "9d07b354d59a8769",
-    "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
-    "summary": "The latest instalment of the epic crime saga is finally here. We visit Rockstar Games for a hands-on encounter with the cultural event of the decade – and can confirm it’s more than lives up to the hype.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
-    "publishedAt": "2026-11-15T10:00:10.000Z"
-  },
-  {
-    "id": "a0812d7475a0959a",
-    "title": "Troubled Scottish steel supplier raises questions over Royal Navy contracts",
-    "summary": "Liberty Steel Dalzell plant in Motherwell with order for 34,000 tonnes of metal plate to build three warships has struggled to pay bills.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/15/liberty-steel-dalzell-scotland-royal-navy-contracts-warships",
-    "publishedAt": "2026-11-15T10:00:10.000Z"
-  },
-  {
-    "id": "153ee7df6068d325",
-    "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
-    "summary": "The film Being Heumann tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
-    "publishedAt": "2026-11-15T10:00:00.000Z"
-  },
-  {
-    "id": "02a379bb7c4d9541",
-    "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
-    "summary": "Sudan's power stations are being targeted in waves of drone attacks, resulting in power outages.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss",
-    "publishedAt": "2026-11-15T09:59:37.000Z"
-  },
-  {
-    "id": "3313d19f4c0a1f56",
-    "title": "Iran says it targets US radar in Bahrain. What do we know?",
-    "summary": "Bahrain Defence Force says its air defence systems thwart several Iranian 'aerial attacks'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
-    "publishedAt": "2026-11-15T09:41:27.000Z"
-  },
-  {
-    "id": "f983ed25dc0788eb",
-    "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-    "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o",
-    "publishedAt": "2026-11-15T09:26:37.000Z"
   }
 ]
