@@ -1,5 +1,59 @@
 [
   {
+    "id": "fef51fcfcf2bf74c",
+    "title": "NSW halts new law to crack down on underquoting by real estate agents at 11th hour",
+    "summary": "Backdown is one of several premier Chris Minns has announced in recent weeks as state prepares for election in March.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/16/nsw-halts-new-law-to-crack-down-on-underquoting-by-real-estate-agents-at-11th-hour",
+    "publishedAt": "2026-11-16T08:53:22.000Z"
+  },
+  {
+    "id": "7c897d52fcfef397",
+    "title": "Britain's Prince William and Princess Catherine arrive in India for 3-day visit",
+    "summary": "",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/britains-prince-william-princess-catherine-arrive-india-3-138169197",
+    "publishedAt": "2026-11-16T08:50:27.000Z"
+  },
+  {
+    "id": "78e0cf664ae38e0f",
+    "title": "At least 17 people were killed in separate shootings in South Africa",
+    "summary": "Police in South Africa say two separate shootings have left at least 17 people dead.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/17-people-killed-separate-shootings-south-africa-138171068",
+    "publishedAt": "2026-11-16T08:46:14.000Z"
+  },
+  {
+    "id": "63ca5a1bc40b4a93",
+    "title": "Ahmed Tibi appointed as deputy speaker of Israel’s Knesset",
+    "summary": "This is a breaking news story.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
+    "publishedAt": "2026-11-16T08:45:07.000Z"
+  },
+  {
+    "id": "d523d6d66b48c210",
+    "title": "Russia out of IIHF World Junior Ice Hockey as Canada refuses entry",
+    "summary": "Norway back in the tournament after being bumped to make room for Russia after a Court of Arbitration for Sport ruling.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/16/russia-out-of-iihf-world-junior-ice-hockey-as-canada-refuses-entry?traffic_source=rss",
+    "publishedAt": "2026-11-16T08:20:17.000Z"
+  },
+  {
+    "id": "d585484ac43e9d03",
+    "title": "Ecuador’s president denies existence of US military base",
+    "summary": "Daniel Noboa says US personnel in the country for 'temporary activities'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
+    "publishedAt": "2026-11-16T08:14:48.000Z"
+  },
+  {
     "id": "986b4db417cb16f0",
     "title": "‘Strangers gave me £2,409’: the online community helping people in debt",
     "summary": "People come together online to support one another with small voluntary donations to ease financial worries.",
@@ -52,6 +106,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss",
     "publishedAt": "2026-11-16T07:42:48.000Z"
+  },
+  {
+    "id": "fe579e696a0be611",
+    "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
+    "summary": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo",
+    "publishedAt": "2026-11-16T07:24:45.000Z"
   },
   {
     "id": "f1db7124dab3f5fd",
@@ -538,6 +601,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o",
     "publishedAt": "2026-11-16T00:13:14.000Z"
+  },
+  {
+    "id": "6e4289395b84e871",
+    "title": "Libyan town rebuilt after devastating floods becomes showcase for strongman's rule",
+    "summary": "The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o",
+    "publishedAt": "2026-11-16T00:11:12.000Z"
   },
   {
     "id": "c3f194dca4fe3630",
@@ -1276,77 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
     "publishedAt": "2026-11-15T13:11:30.000Z"
-  },
-  {
-    "id": "6893d34b519c309c",
-    "title": "How the tech industry and markets have responded to Jensen Huang's resignation",
-    "summary": "We look at the industry and market response to news that NVIDIA founder and CEO Jensen Huang was forced to step down after reports of affairs with an alleged Chinese spy and two of his employees.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/15/nx-s1-6040394/how-the-tech-industry-and-markets-have-responded-to-jensen-huangs-resignation",
-    "publishedAt": "2026-11-15T13:09:19.000Z"
-  },
-  {
-    "id": "4315b204202e2abb",
-    "title": "Minister backs legal right to job support for young people",
-    "summary": "The work and pensions secretary said the level of support currently on offer was too vague.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o",
-    "publishedAt": "2026-11-15T13:06:15.000Z"
-  },
-  {
-    "id": "e4c06b2fe0aa4569",
-    "title": "‘Nobody else is going to save us’: the direct action group taking on the UK’s banks, bailiffs and water firms",
-    "summary": "Community union Acorn is helping people fight unfair bills, AI decision-making and housing injustices as cost of living crisis deepens.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/15/acorn-union-direct-action-uk-banks-bailiffs-water-firms",
-    "publishedAt": "2026-11-15T13:04:48.000Z"
-  },
-  {
-    "id": "a0e17e8eed2cac70",
-    "title": "‘Shameless venality’: how a flurry of lawsuits has thwarted Trump’s self-enrichment schemes",
-    "summary": "Courts have issued stinging rebukes to president’s ‘blatant’ financial ploys as pro-democracy groups defend ‘government of laws, not of men’ pillar.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/15/trump-self-enrichment-lawsuits",
-    "publishedAt": "2026-11-15T13:00:15.000Z"
-  },
-  {
-    "id": "9340e194532b352e",
-    "title": "Christmas ‘dupes’: the cheaper gift versions proving a festive hit in the cost of living crisis",
-    "summary": "From Aldi candles to Quince’s cashmere jumpers, cut-price versions of high-end sellers have gone mainstream. But is it fair?",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/15/christmas-dupes-gift-aldi-candles-quince-cashmere-jumpers-price",
-    "publishedAt": "2026-11-15T13:00:14.000Z"
-  },
-  {
-    "id": "e8c339acc76cfeba",
-    "title": "‘No such thing as a free lunch,’ says Milburn as he warns it will take a decade for UK benefits bill to come down",
-    "summary": "Author of major review into youth unemployment rejects ‘crude cuts’ to payments and downplays opposition to his proposals within Labour.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
-    "publishedAt": "2026-11-15T12:52:50.000Z"
-  },
-  {
-    "id": "4ee0808b7dde04d1",
-    "title": "Kayla ⁠⁠Harrison defeats Amanda Nunes to retain UFC bantamweight belt",
-    "summary": "Harrison won by a fourth-round submission against MMA legend Nunes, who made a comeback after a three-year absence.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/15/kayla-%e2%81%a0%e2%81%a0harrison-defeats-amanda-nunes-to-retain-ufc-bantamweight-belt?traffic_source=rss",
-    "publishedAt": "2026-11-15T12:50:50.000Z"
-  },
-  {
-    "id": "5fb5996b88650332",
-    "title": "Pope crosses Peru in finale of trip home to visit flock high in Andes, deep in Amazon",
-    "summary": "The plight of Indigenous peoples and the protection of the Amazon take center stage on Pope Leo XIV’s penultimate day in Peru as he visits communities in the Andes and the rainforest.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-crosses-peru-finale-trip-home-visit-flock-138155337",
-    "publishedAt": "2026-11-15T12:42:46.000Z"
   }
 ]
