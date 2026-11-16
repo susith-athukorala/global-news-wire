@@ -1,5 +1,86 @@
 [
   {
+    "id": "3996c93ffafca804",
+    "title": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
+    "summary": "Russia has proposed nonaggression pacts with individual nations, which could shatter collective defence against Moscow.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
+    "publishedAt": "2026-11-16T10:03:11.000Z"
+  },
+  {
+    "id": "d01ce23ff84361d9",
+    "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+    "summary": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+    "publishedAt": "2026-11-16T10:00:00.000Z"
+  },
+  {
+    "id": "3c2ebd024abc1cd8",
+    "title": "Why sleep matters when it comes to weight gain and loss",
+    "summary": "Sleep can have a powerful impact on weight. Research shows it can affect appetite.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss",
+    "publishedAt": "2026-11-16T10:00:00.000Z"
+  },
+  {
+    "id": "7e27fb56c45b7cc2",
+    "title": "Cape Verde’s president is reelected for a second 5-year term, provisional results show",
+    "summary": "Cape Verde’s president, Jos&eacute; Maria Neves, has been reelected for a second term, defeating five challengers, including the country’s first female presidential candidate.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/cape-verdes-president-reelected-5-year-term-provisional-138170967",
+    "publishedAt": "2026-11-16T09:58:25.000Z"
+  },
+  {
+    "id": "a82d5eef63f249f3",
+    "title": "Antimicrobial resistance could kill 39 million people over 25 years: WHO",
+    "summary": "UN's health agency says growing resistance to antibiotics and other medicines threatens 'future of modern medicine'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat?traffic_source=rss",
+    "publishedAt": "2026-11-16T09:57:37.000Z"
+  },
+  {
+    "id": "043a49d29286b3bf",
+    "title": "It's not just the U.S., the movement against data centers is global",
+    "summary": "Activists protesting data centers in their backyards are teaming up to learn tactics from allies around the world. \"We are coordinated and we are together,\" said one Spanish activist.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6000601/its-not-just-the-u-s-the-movement-against-data-centers-is-global",
+    "publishedAt": "2026-11-16T09:44:39.000Z"
+  },
+  {
+    "id": "db43089f31ad646a",
+    "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
+    "summary": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China efforts to dominate.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+    "publishedAt": "2026-11-16T09:40:29.000Z"
+  },
+  {
+    "id": "b171e60ed83d5bbf",
+    "title": "Delaware hit by rare November tornado",
+    "summary": "Meanwhile, severe thunderstorms bring hailstones the size of baseballs in Argentina.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
+    "publishedAt": "2026-11-16T09:27:06.000Z"
+  },
+  {
+    "id": "4c04fb0b0b07221a",
+    "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+    "summary": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o",
+    "publishedAt": "2026-11-16T08:56:04.000Z"
+  },
+  {
     "id": "fef51fcfcf2bf74c",
     "title": "NSW halts new law to crack down on underquoting by real estate agents at 11th hour",
     "summary": "Backdown is one of several premier Chris Minns has announced in recent weeks as state prepares for election in March.",
@@ -97,6 +178,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o",
     "publishedAt": "2026-11-16T07:43:51.000Z"
+  },
+  {
+    "id": "e8c339acc76cfeba",
+    "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
+    "summary": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+    "publishedAt": "2026-11-16T07:43:22.000Z"
   },
   {
     "id": "a7f1a8d061d244c5",
@@ -619,6 +709,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/16/zambias-copper-boom-attracts-billions-in-investment-but-who-benefits?traffic_source=rss",
     "publishedAt": "2026-11-16T00:04:28.000Z"
+  },
+  {
+    "id": "5fb5996b88650332",
+    "title": "Pope crosses Peru in finale of trip home to visit flock high in Andes, deep in Amazon",
+    "summary": "Pope Leo XIV is demanding justice for environmental defenders killed for protecting the Amazon.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-crosses-peru-finale-trip-home-visit-flock-138155337",
+    "publishedAt": "2026-11-16T00:02:15.000Z"
   },
   {
     "id": "9d766436c2ca82b6",
@@ -1249,104 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/lifeandstyle/2026/nov/15/gout-is-on-the-rise-and-excruciating-why-are-sufferers-still-judged-for-it",
     "publishedAt": "2026-11-15T14:00:16.000Z"
-  },
-  {
-    "id": "3f4c07423abdecbd",
-    "title": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
-    "summary": "Headlines have claimed the release of the first new GTA game in 13 years will hugely affect the global economy on Thursday – but there’s another story that’s been left behind.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/16/grand-theft-auto-gta-vi-first-new-game-released-in-13-years",
-    "publishedAt": "2026-11-15T14:00:15.000Z"
-  },
-  {
-    "id": "ecf0fb91e339bd65",
-    "title": "Germany vs Netherlands: Nations League – preview, team news, predictions",
-    "summary": "Germany will likely need to win on Monday to reach the quarterfinals unless Serbia beat Greece away from home.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
-    "publishedAt": "2026-11-15T13:54:05.000Z"
-  },
-  {
-    "id": "f5ee33cfc3ffd131",
-    "title": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
-    "summary": "Long-awaited final report will call for benefit cuts but lack of entry-level jobs is also driving the crisis.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push",
-    "publishedAt": "2026-11-15T13:47:43.000Z"
-  },
-  {
-    "id": "786d24ee2827a6de",
-    "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
-    "summary": "The remains of 69 Palestinians have been recovered in northern Gaza, allowing families to bury them.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
-    "publishedAt": "2026-11-15T13:45:02.000Z"
-  },
-  {
-    "id": "365c61c687d5e337",
-    "title": "Iran targets US military base in Bahrain with drone attack",
-    "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
-    "publishedAt": "2026-11-15T13:42:58.000Z"
-  },
-  {
-    "id": "50802ce12c20c7d7",
-    "title": "Poundland pins rescue hopes on Yorkshire Tea, Pot Noodle and Gloria Gaynor",
-    "summary": "Chain restocks stores in operation named after singer of I Will Survive after US owners release funds.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/15/poundland-pins-rescue-hopes-on-yorkshire-tea-pot-noodle-and-gloria-gaynor",
-    "publishedAt": "2026-11-15T13:41:01.000Z"
-  },
-  {
-    "id": "a7491076c63ab892",
-    "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-    "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o",
-    "publishedAt": "2026-11-15T13:37:45.000Z"
-  },
-  {
-    "id": "a7933282d83d5bb6",
-    "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
-    "summary": "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
-    "publishedAt": "2026-11-15T13:37:08.000Z"
-  },
-  {
-    "id": "ee34112a036b46f3",
-    "title": "Al Jazeera English marks 20 years: Stories that shaped the journey",
-    "summary": "Here are some of the crucial events Al Jazeera English has covered over the past two decades.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/al-jazeera-english-marks-20-years-stories-that-shaped-the-journey?traffic_source=rss",
-    "publishedAt": "2026-11-15T13:30:51.000Z"
-  },
-  {
-    "id": "292a54ddee1cd137",
-    "title": "Cold and health alerts issued for Scotland and northern England as snow and ice expected",
-    "summary": "UKHSA warns of health impact on those vulnerable to cold and urges people to check in with neighbours.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/15/uk-weather-cold-health-alerts-scotland-northern-england-snow-ice",
-    "publishedAt": "2026-11-15T13:30:18.000Z"
-  },
-  {
-    "id": "7f792e0d74095d29",
-    "title": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
-    "summary": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
-    "publishedAt": "2026-11-15T13:11:30.000Z"
   }
 ]
