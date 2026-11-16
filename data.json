@@ -1,5 +1,113 @@
 [
   {
+    "id": "cf321b1f311b1a29",
+    "title": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
+    "summary": "Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
+    "publishedAt": "2026-11-16T11:00:58.000Z"
+  },
+  {
+    "id": "871d26060d950ade",
+    "title": "Americans relying on heating oil brace for harsh winter: ‘We’re often cold in our own home’",
+    "summary": "Surge in prices is forcing many to cut back on spending, with a projected 21% increase in costs of those households.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/16/heating-oil-price-increase-winter",
+    "publishedAt": "2026-11-16T11:00:58.000Z"
+  },
+  {
+    "id": "d686c1c7ce7ac2d6",
+    "title": "Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
+    "summary": "Upload came as the Israeli military was increasing its reliance on Amazon’s cloud platform to meet the technological demands of its bombardment of Gaza.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
+    "publishedAt": "2026-11-16T11:00:56.000Z"
+  },
+  {
+    "id": "4b86aafb317c91a5",
+    "title": "Two mass shootings in South Africa leave 17 dead",
+    "summary": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo",
+    "publishedAt": "2026-11-16T10:57:48.000Z"
+  },
+  {
+    "id": "1411a4c965cfebae",
+    "title": "Man charged after two people die in Leeds police pursuit crash",
+    "summary": "Leigh Ross, 39, charged with causing death by dangerous driving after BMW being pursued by police collided with another car.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/16/man-charged-after-two-people-die-in-leeds-police-pursuit-crash",
+    "publishedAt": "2026-11-16T10:43:11.000Z"
+  },
+  {
+    "id": "206a4d40733db24e",
+    "title": "Birth keeper told mother of baby who later died to ‘go home and rest’, NSW inquest hears",
+    "summary": "Sita Kali was involved in care for two of four babies who died between 2022 and 2024 in Lismore after free births or home births.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/16/nsw-inquest-four-babies-freebirth-home-birth-northern-rivers-ntwnfb",
+    "publishedAt": "2026-11-16T10:41:38.000Z"
+  },
+  {
+    "id": "329fb68b48f3c720",
+    "title": "Boots to begin prescribing medical cannabis in UK",
+    "summary": "Online service will be offered to patients with eligible conditions, in a first for a British high street pharmacy.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/16/boots-pharmacy-begin-prescribing-medical-cannabis-uk",
+    "publishedAt": "2026-11-16T10:32:50.000Z"
+  },
+  {
+    "id": "1f769fc5f645a2e3",
+    "title": "Lebanon’s second airport could provide economic and political benefits",
+    "summary": "The establishment of a second airport in Lebanon gives the war-devastated country more options for air travel.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
+    "publishedAt": "2026-11-16T10:28:22.000Z"
+  },
+  {
+    "id": "866c571fc6c7d4d7",
+    "title": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
+    "summary": "Demonstrators tried to block vehicle carrying the baboons, whose capture authorities say is needed to protect both primate and human.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
+    "publishedAt": "2026-11-16T10:19:08.000Z"
+  },
+  {
+    "id": "9ff3fb2acd28a213",
+    "title": "Barristers could be barred from practice over use of rape myths, warns justice secretary",
+    "summary": "Move follows Russell Brand trial, in which his barrister argued comedian could not be a rapist because his accusers had not ‘resisted’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/law/2026/nov/16/barristers-barred-practice-rape-myths-russell-brand-trial",
+    "publishedAt": "2026-11-16T10:16:54.000Z"
+  },
+  {
+    "id": "26bb3d253964104a",
+    "title": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
+    "summary": "The aircraft carrier joins two others operating in the US Central Command area of responsibility.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
+    "publishedAt": "2026-11-16T10:14:27.000Z"
+  },
+  {
+    "id": "44fa52e903c8010b",
+    "title": "Jordan bans Telegram over national security concerns",
+    "summary": "The measure comes amid a security crackdown after last month's deadly attack on a Greek Orthodox church.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss",
+    "publishedAt": "2026-11-16T10:12:28.000Z"
+  },
+  {
     "id": "3996c93ffafca804",
     "title": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
     "summary": "Russia has proposed nonaggression pacts with individual nations, which could shatter collective defence against Moscow.",
@@ -783,6 +891,15 @@
     "publishedAt": "2026-11-15T23:20:59.000Z"
   },
   {
+    "id": "1c22bb93a74fb701",
+    "title": "Teenager Andreeva caps stunning week with WTA Finals title",
+    "summary": "French Open champion Mirra Andreeva caps her stellar season with a hard-fought victory over Elina Svitolina to win the WTA Finals.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c61740145y7wo",
+    "publishedAt": "2026-11-15T23:18:38.000Z"
+  },
+  {
     "id": "1f5a0dc95adaf325",
     "title": "Looking for a summer job? Here's what to consider",
     "summary": "If you're looking for a few extra hours of work or exploring what you love doing, a summer job could be the right fit for you.",
@@ -1231,122 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
     "publishedAt": "2026-11-15T15:16:29.000Z"
-  },
-  {
-    "id": "2c1a9a376df350a0",
-    "title": "Zelenskyy warns Starshield restrictions threaten Ukraine’s energy defenses",
-    "summary": "Restrictions on the system hamper Kyiv’s ability to shoot down Russian drones.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/zelenskyy-warns-starshield-restrictions-threaten-ukraines-energy-defenses-138156524",
-    "publishedAt": "2026-11-15T15:08:02.000Z"
-  },
-  {
-    "id": "54c6b0fe0c53405a",
-    "title": "Southeast Asian leaders denounce violence in Myanmar and extend ban on its leader",
-    "summary": "Southeast Asian leaders say Myanmar has failed to comply with a 2021 peace plan and its military and armed groups continue to attack civilians.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/southeast-asian-leaders-denounce-violence-myanmar-extend-ban-138155822",
-    "publishedAt": "2026-11-15T15:03:50.000Z"
-  },
-  {
-    "id": "6283af300979e76b",
-    "title": "When the boss has an affair, the whole family business can pay the price",
-    "summary": "Fallout from ex-Nvidia CEO Jensen Huang’s affair is the latest reminder of the shared toll paid when patriarchs cheat.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/15/nvidia-ceo-jensen-huang-affair-business",
-    "publishedAt": "2026-11-15T15:00:16.000Z"
-  },
-  {
-    "id": "a416565ff7b6a849",
-    "title": "FBI raids and a recycling firm: how a promising US mayor wound up at the center of a bribery scandal",
-    "summary": "As Oakland residents watch ex-mayor Sheng Thao stand trial, the scandal has come to symbolise wider frustrations.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/15/oakland-mayor-bribery-scandal-recycling",
-    "publishedAt": "2026-11-15T15:00:16.000Z"
-  },
-  {
-    "id": "614532eebcb8291a",
-    "title": "How telecoms upgrade work sparked US flight chaos",
-    "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
-    "publishedAt": "2026-11-15T14:57:15.000Z"
-  },
-  {
-    "id": "198b16a285bdd851",
-    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
-    "publishedAt": "2026-11-15T14:56:21.000Z"
-  },
-  {
-    "id": "32b54eccf0385ab7",
-    "title": "Alleged Chinese spy left Megaspeed last year, company says",
-    "summary": "Singapore-based Megaspeed International is under scrutiny from US authorities over reports it shipped AI chips to China in breach of trade restrictions.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-16/alice-huang-megaspeed-departure/107388304",
-    "publishedAt": "2026-11-15T14:31:29.000Z"
-  },
-  {
-    "id": "1722568c9b7c55c0",
-    "title": "‘Almost magic’ as SpaceX craft caught mid-air: Why it matters",
-    "summary": "SpaceX's Starship successfully returned to its launchpad after orbiting in space.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/almost-magic-as-spacex-craft-caught-mid-air-why-it-matters?traffic_source=rss",
-    "publishedAt": "2026-11-15T14:12:09.000Z"
-  },
-  {
-    "id": "22b6b64a17a3d4d1",
-    "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
-    "summary": "Yashar and Likud are scheduled to hold talks on Sunday, but will need to overcome major differences to work together.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
-    "publishedAt": "2026-11-15T14:02:08.000Z"
-  },
-  {
-    "id": "cd01ebbe43e7d13d",
-    "title": "Two killed in Leeds after car pursued by police crashes into another vehicle",
-    "summary": "Four arrested after BMW collides with Volkswagen on Gelderd Road, with police appealing for witnesses.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/15/leeds-car-pursued-by-police-crashes-into-another-vehicle",
-    "publishedAt": "2026-11-15T14:01:32.000Z"
-  },
-  {
-    "id": "13d9bad496d7dcd2",
-    "title": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
-    "summary": "Defence briefing released under freedom of information laws shows ADF beholden to US directives when in training.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb",
-    "publishedAt": "2026-11-15T14:00:19.000Z"
-  },
-  {
-    "id": "40a5ea55d59b7726",
-    "title": "Ethnic minority groups in Wales four times more likely to be target of police facial scans",
-    "summary": "Exclusive: South Wales police figures show BAME people accounted for 24% of selected scans in 2025, despite being 7% of population.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/15/ethnic-minorities-wales-police-facial-scans-data",
-    "publishedAt": "2026-11-15T14:00:17.000Z"
-  },
-  {
-    "id": "2a5c07038381486b",
-    "title": "Gout is on the rise – and excruciating. Why are sufferers still judged for it?",
-    "summary": "About 1.6 million people in the UK have this agonising condition, but it is often viewed as a comical malady brought on by overconsumption and idleness. What can be done to end the stigma?",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/15/gout-is-on-the-rise-and-excruciating-why-are-sufferers-still-judged-for-it",
-    "publishedAt": "2026-11-15T14:00:16.000Z"
   }
 ]
