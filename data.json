@@ -1,5 +1,50 @@
 [
   {
+    "id": "10c5b3de5ba9e43e",
+    "title": "Microsoft identifies months-old bug as a root cause of global outage",
+    "summary": "Report identifies three factors that led to blackout: a bug, malfunctioning internal connections and server capacity.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause",
+    "publishedAt": "2026-11-16T20:54:40.000Z"
+  },
+  {
+    "id": "536d99028cb4e02c",
+    "title": "Suspect in custody after bomb found at Illinois ethanol plant",
+    "summary": "The FBI is leading the investigation into the Biourja Renewables incident after it led to a temporary evacuation.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/illinois-bomb-ethanol-plant-suspect",
+    "publishedAt": "2026-11-16T20:25:06.000Z"
+  },
+  {
+    "id": "59e6ae9bc1ba3f74",
+    "title": "Customers report difficulty accessing online services at major US banks",
+    "summary": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
+    "publishedAt": "2026-11-16T20:21:59.000Z"
+  },
+  {
+    "id": "e71d5a80692062c4",
+    "title": "Refused UK asylum seekers to lose five-day grace period and face immediate removal",
+    "summary": "Home Office plans will cause unnecessary distress and anxiety, say refugee charities.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/16/failed-uk-asylum-seekers-to-lose-five-day-grace-period-and-face-immediate-removal",
+    "publishedAt": "2026-11-16T20:06:24.000Z"
+  },
+  {
+    "id": "7bc75986e7a0fc74",
+    "title": "Nationwide ground stop could cost US airlines hundreds of millions",
+    "summary": "Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
+    "publishedAt": "2026-11-16T20:05:06.000Z"
+  },
+  {
     "id": "f369f9c4c5760d20",
     "title": "Forensic expert says his analysis raises doubts about how Epstein died",
     "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
@@ -9,6 +54,15 @@
     "publishedAt": "2026-11-16T20:03:30.000Z"
   },
   {
+    "id": "26988bcb69c2128e",
+    "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
+    "summary": "Rivals call for investigation into reports that PM's office tried to frame Arab parties.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
+    "publishedAt": "2026-11-16T20:00:07.000Z"
+  },
+  {
     "id": "6ed8ff198f2a8708",
     "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
     "summary": "DHSC to extend US tech firm’s contract for two more years to allow time to line up British companies to replace it.",
@@ -16,6 +70,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
     "publishedAt": "2026-11-16T19:59:31.000Z"
+  },
+  {
+    "id": "de9b1b626f3f5801",
+    "title": "With each new 007 comes a reinvention for the 64-year-old franchise",
+    "summary": "The announcement of a new actor to play James Bond gives the franchise an opportunity to reinvent itself for a new audience.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-17/new-bond-resets-franchise/107375310",
+    "publishedAt": "2026-11-16T19:41:18.000Z"
   },
   {
     "id": "5fd325fbc77a4a01",
@@ -387,6 +450,15 @@
     "publishedAt": "2026-11-16T16:21:40.000Z"
   },
   {
+    "id": "ddcd7a9ae2443227",
+    "title": "AI models ‘weak and fallible’ on climate science, UN-backed study reports",
+    "summary": "While mostly accurate describing simple facts, models pivoted to denial and wrong answers when challenged.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31",
+    "publishedAt": "2026-11-16T16:05:58.000Z"
+  },
+  {
     "id": "fe125fe61fb05f62",
     "title": "Surge of US datacenters adds equivalent of Denmark’s annual emissions, study finds",
     "summary": "‘Hyperscaler’ datacenters across country draw upon dirtier power sources to meet vast energy needs, research shows.",
@@ -621,6 +693,15 @@
     "publishedAt": "2026-11-16T13:34:22.000Z"
   },
   {
+    "id": "c49220e11795961c",
+    "title": "Netanyahu rival demands probe into PM's office over election fraud claims",
+    "summary": "Benjamin Netanyahu's main rival, Gadi Eisenkot, is demanding an investigation into the Israeli Prime Minister's Office, following explosive allegations it may have fabricated claims of electoral fraud.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-17/benjamin-netanyahu-gadi-eisenkot-call-for-investigation/107392590",
+    "publishedAt": "2026-11-16T13:33:14.000Z"
+  },
+  {
     "id": "ba6ccce3f0c5c200",
     "title": "International student enrollments at US universities plunge this fall, data shows",
     "summary": "Report finds fewer international students studying in US amid Trump’s crackdowns on immigration and education.",
@@ -736,6 +817,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o",
     "publishedAt": "2026-11-16T12:27:15.000Z"
+  },
+  {
+    "id": "3d80ad519c27386d",
+    "title": "Injured Australian lawmaker Helen Haines leaves hospital after alleged SUV attack",
+    "summary": "An Australian federal lawmaker who was almost killed by a car in an allegedly deliberate attack has thanked well-wishers around the world.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/injured-australian-lawmaker-helen-haines-leaves-hospital-after-138170480",
+    "publishedAt": "2026-11-16T12:26:21.000Z"
   },
   {
     "id": "368564f901378724",
@@ -1258,95 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo",
     "publishedAt": "2026-11-16T07:24:45.000Z"
-  },
-  {
-    "id": "f1db7124dab3f5fd",
-    "title": "Russia’s Andreeva defeats Ukraine’s Svitolina 7-5, 6-3 to win WTA Finals",
-    "summary": "Mirra Andreeva won the final in straight sets to end her first Grand Slam-winning year as world number two.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals?traffic_source=rss",
-    "publishedAt": "2026-11-16T07:13:00.000Z"
-  },
-  {
-    "id": "d76ba2cdf6637080",
-    "title": "A fire in a building in southern Thailand kills 11 people",
-    "summary": "A fire has burned through a building in southern Thailand and killed 11 people.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/fire-building-southern-thailand-kills-11-people-138170386",
-    "publishedAt": "2026-11-16T07:06:40.000Z"
-  },
-  {
-    "id": "11cc61a7d8e1eba2",
-    "title": "‘It’s like the 16th-century version of doomscrolling’: the Book of Miracles may fetch £1m at auction",
-    "summary": "Exclusive: Public institutions get first chance to bid for rare ‘wonderbook’ of apocalyptic visions and extreme weather.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/books/2026/nov/16/book-of-miracles-apocalyptic-weather-visions-auction",
-    "publishedAt": "2026-11-16T07:00:38.000Z"
-  },
-  {
-    "id": "bca39723b925640d",
-    "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
-    "summary": "Prime minister is to meet European leaders at summit this week and secure agreements that ‘could raise GDP by 0.4%’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
-    "publishedAt": "2026-11-16T07:00:38.000Z"
-  },
-  {
-    "id": "7021f9fe7abb6254",
-    "title": "Ma Wee Tin O’Shortbreid: a journey in search of the real Highlands",
-    "summary": "Ma Wee Tin o’ Shortbreid began as a cautionary note: don’t make the Highlands look like a shortbread tin. Then Dougie Wallace shot a Chinese tourist beneath a wee umbrella, and the warning became the title.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/artanddesign/2026/nov/16/dougie-wallace-ma-wee-tin-oshortbreid-highlands-tourism-scotland",
-    "publishedAt": "2026-11-16T07:00:37.000Z"
-  },
-  {
-    "id": "df45043b5e1e5699",
-    "title": "Housing allowance glitch threatens my partner’s leave to remain",
-    "summary": "DWP admits it is making a mistake that affects his immigration status but says it can’t put it right.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/16/leave-to-remain-housing-allowance-glitch-immigration-status",
-    "publishedAt": "2026-11-16T07:00:37.000Z"
-  },
-  {
-    "id": "b24ba7ef8136a249",
-    "title": "Apple MacBook Pro M6 review: probably the last of its generation",
-    "summary": "Spec bump adds power to exceptionally long battery life in base-model Pro laptop, but is overshadowed by a new design.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/16/apple-macbook-pro-m6-review-battery-laptop",
-    "publishedAt": "2026-11-16T07:00:36.000Z"
-  },
-  {
-    "id": "5f8885d6658ecb5a",
-    "title": "UK blood services issue urgent appeal for donations as winter approaches",
-    "summary": "Supplies are low and reserves of certain types are half of what the UK needs, officials say.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/16/uk-blood-services-urgent-appeal-donations-winter",
-    "publishedAt": "2026-11-16T07:00:36.000Z"
-  },
-  {
-    "id": "e01b2dacf18e13db",
-    "title": "British women to receive automatic pardons for past abortion convictions",
-    "summary": "The British government is pardoning women convicted of illegally terminating pregnancies.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/british-women-receive-automatic-pardons-past-abortion-convictions-138170290",
-    "publishedAt": "2026-11-16T06:58:31.000Z"
-  },
-  {
-    "id": "290bb7653530da0e",
-    "title": "Kenyan farmers adopt new techniques to curb erosion during heavy rains",
-    "summary": "Farmers in parts of Kenya are turning to simple soil conservation techniques to protect their crops and farmland ahead of the October-December rainy season that is projected to be heavier than usual.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/kenyan-farmers-adopt-new-techniques-curb-erosion-heavy-138170385",
-    "publishedAt": "2026-11-16T06:58:30.000Z"
   }
 ]
