@@ -1,5 +1,113 @@
 [
   {
+    "id": "096f00872a46be86",
+    "title": "Gérard Depardieu drops appeal and accepts sexual assault conviction",
+    "summary": "French actor G&eacute;rard Depardieu says he is dropping his appeal against a conviction for sexually assaulting two women on a film set.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/grard-depardieu-drops-appeal-accepts-sexual-assault-conviction-138173474",
+    "publishedAt": "2026-11-16T12:16:00.000Z"
+  },
+  {
+    "id": "dd0fd43506cb1b69",
+    "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+    "summary": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+    "publishedAt": "2026-11-16T12:08:14.000Z"
+  },
+  {
+    "id": "03fcd0fdf58077d1",
+    "title": "‘When the sun came out it felt like it opened a scar’ – This is climate breakdown",
+    "summary": "When the floods hit Pakistan he went out to help. Then the water reached his own family.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/ng-interactive/2026/nov/16/when-the-sun-came-out-it-felt-like-it-opened-a-scar-this-is-climate-breakdown",
+    "publishedAt": "2026-11-16T12:00:59.000Z"
+  },
+  {
+    "id": "768e51e66a2c8113",
+    "title": "Catholic priest released from Louisiana prison after serving seven years for sexually abusing altar server",
+    "summary": "Victim’s father, however, remains excommunicated for joining Anglican church after abuse was discovered.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/louisiana-catholic-priest-prison-sexual-abuse",
+    "publishedAt": "2026-11-16T12:00:59.000Z"
+  },
+  {
+    "id": "db6cded58baa6c99",
+    "title": "Flying blind: inside the decline of the EPA’s chemical-detection plane",
+    "summary": "Agency’s Aspect plane once was a key part of tracking toxic chemicals during disasters – why is it now often grounded?",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/16/epa-chemical-detection-plane",
+    "publishedAt": "2026-11-16T12:00:58.000Z"
+  },
+  {
+    "id": "6b8a3d787cc99aa8",
+    "title": "Great Britain’s oldest renewables projects could rake in nearly £9bn next year",
+    "summary": "Subsidy scheme, which is paid via taxes and energy bills, must be reformed, ECU analysis finds.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/16/great-britain-renewable-energy-subsidies-wind-solar",
+    "publishedAt": "2026-11-16T11:56:20.000Z"
+  },
+  {
+    "id": "000cbbad9d60b755",
+    "title": "First Thing: Trump administration blames travel chaos on former presidents and Congress",
+    "summary": "Donald Trump on Sunday blamed the Biden administration for the four-hour nationwide flight stoppage that led to thousands of canceled flights over the weekend. Plus: How Israel is using Amazon facial recognition to track Palestinians.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/first-thing-trump-administration-blames-travel-chaos-on-former-presidents-and-congress",
+    "publishedAt": "2026-11-16T11:46:33.000Z"
+  },
+  {
+    "id": "325059606130af6e",
+    "title": "Jensen Huang allies campaign to reinstate the former Nvidia boss",
+    "summary": "Tech leaders, including Elon Musk, are among those backing a campaign to \"Bring Jensen Back\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
+    "publishedAt": "2026-11-16T11:45:40.000Z"
+  },
+  {
+    "id": "66fca80fe669028b",
+    "title": "Women's criminal records wiped for abortion offences",
+    "summary": "Women arrested or convicted for having illegal abortions will have their criminal records wiped as new atomatic pardons come into force in England and Wales.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o",
+    "publishedAt": "2026-11-16T11:45:33.000Z"
+  },
+  {
+    "id": "f865d5ad98649d1b",
+    "title": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
+    "summary": "A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
+    "publishedAt": "2026-11-16T11:40:25.000Z"
+  },
+  {
+    "id": "f3ddf5c2cb647e70",
+    "title": "Klopp says Infantino worse than Blatter",
+    "summary": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo",
+    "publishedAt": "2026-11-16T11:27:08.000Z"
+  },
+  {
+    "id": "3a41398a039c7736",
+    "title": "As homes seized, Jericho’s Palestinian residents fear settler takeover",
+    "summary": "Palestinians are assaulted and their homes are levelled in pogrom in occupied West Bank.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss",
+    "publishedAt": "2026-11-16T11:23:43.000Z"
+  },
+  {
     "id": "48d014c98c102a78",
     "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
     "summary": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
@@ -666,6 +774,15 @@
     "publishedAt": "2026-11-16T03:54:54.000Z"
   },
   {
+    "id": "e2375872c35401cb",
+    "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
+    "summary": "Hundreds of thousands of people rallied in Prague against the Czech government's plan to overhaul funding for public broadcasters.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/czechs-gather-big-numbers-reject-governments-plan-overhaul-138158812",
+    "publishedAt": "2026-11-16T03:30:22.000Z"
+  },
+  {
     "id": "f676ff9dd1c68052",
     "title": "Australia’s national medical research body advises conditional use of puberty blockers for transgender children",
     "summary": "New National Health and Medical Research Council guidelines at odds with public hospital bans in Queensland and NT.",
@@ -763,6 +880,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
     "publishedAt": "2026-11-16T01:13:44.000Z"
+  },
+  {
+    "id": "f86cfdf0a006d9fd",
+    "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+    "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o",
+    "publishedAt": "2026-11-16T01:05:44.000Z"
   },
   {
     "id": "97a84867dfb0ddf1",
@@ -1222,131 +1348,5 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-16/key-issues-on-agenda-at-asean-summit-2026/107384284",
     "publishedAt": "2026-11-15T18:40:10.000Z"
-  },
-  {
-    "id": "2089f2fd368ae872",
-    "title": "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
-    "summary": "Total of 75 have already signed letter to Burnham opposing plans as discontent also grows over Europe and welfare changes.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/15/rosebank-oilfield-mps-rebellion",
-    "publishedAt": "2026-11-15T18:35:10.000Z"
-  },
-  {
-    "id": "4457075b0adede96",
-    "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
-    "summary": "British royal says he's 'taken a risk' in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
-    "publishedAt": "2026-11-15T18:31:52.000Z"
-  },
-  {
-    "id": "e56b32999ec6cd1e",
-    "title": "Estonia to close all border crossings with Russia after attack on drone maker",
-    "summary": "Authorities say Russian intelligence service ordered attack Estonian PM links to Tallinn’s support for Ukraine.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
-    "publishedAt": "2026-11-15T18:23:12.000Z"
-  },
-  {
-    "id": "542b5ebf64de7475",
-    "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-    "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
-    "publishedAt": "2026-11-15T18:08:20.000Z"
-  },
-  {
-    "id": "2a2cc2900ebf36f4",
-    "title": "Estonia to close border crossings with Russia after attack on drone maker",
-    "summary": "Eight arrests made in connection with an attempted arson, which Tallinn says was ordered by Russian intelligence.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
-    "publishedAt": "2026-11-15T18:07:02.000Z"
-  },
-  {
-    "id": "2b743f026fc35e84",
-    "title": "Iran launches drone attacks against US military base in Bahrain",
-    "summary": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
-    "publishedAt": "2026-11-15T18:03:56.000Z"
-  },
-  {
-    "id": "a02cc5183f9df4f5",
-    "title": "Australia's super nest egg to top $5 trillion. How well is it serving us?",
-    "summary": "There remains much work to do to ensure Australia's $5 trillion super system delivers optimal outcomes for consumers.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-16/is-super-serving-its-members-in-retirement/107387284",
-    "publishedAt": "2026-11-15T18:00:00.000Z"
-  },
-  {
-    "id": "06f65017dc2d7f86",
-    "title": "Morocco becomes first Arab nation in FIFA’s top five men’s rankings",
-    "summary": "Morocco moved past former Euro champions Portugal and record World Cup winners Brazil to achieve its best FIFA ranking.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/15/morocco-becomes-first-arab-nation-in-fifas-top-five-mens-rankings?traffic_source=rss",
-    "publishedAt": "2026-11-15T17:33:03.000Z"
-  },
-  {
-    "id": "380758cb22f04867",
-    "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
-    "summary": "Spokesman for the Southern Armed Forces says group is repositioning from Dhubab airport and areas around Bab al-Mandeb.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss",
-    "publishedAt": "2026-11-15T17:33:00.000Z"
-  },
-  {
-    "id": "9f09fb6674dd0568",
-    "title": "Thousands run Cuba’s Marabana marathon as many protest US sanctions",
-    "summary": "Thousands of people have run in Cuba’s Marabana marathon, using the event to protest U.S. economic sanctions.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/thousands-run-cubas-marabana-marathon-protest-us-sanctions-138159101",
-    "publishedAt": "2026-11-15T17:13:53.000Z"
-  },
-  {
-    "id": "4f8ab4def119ba01",
-    "title": "Czechs rally against plan to switch funding of public media",
-    "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o",
-    "publishedAt": "2026-11-15T16:36:42.000Z"
-  },
-  {
-    "id": "302649646d522abe",
-    "title": "Thousands rally in Czech Republic against state media funding changes",
-    "summary": "Critics say proposed funding changes will give the government more control of state media.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
-    "publishedAt": "2026-11-15T16:32:22.000Z"
-  },
-  {
-    "id": "77828ca2a56f6add",
-    "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
-    "summary": "Democratic senator Chris Van Hollen says Trump administration hasn’t properly invested existing funds.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
-    "publishedAt": "2026-11-15T16:18:49.000Z"
-  },
-  {
-    "id": "9bbf4200ce3ea618",
-    "title": "One of the most commonly injured parts of the body that many of us never train",
-    "summary": "Performance physiotherapist Genevieve Taiwah shares her top tips for looking after the joint that accounts for 5% of A&E visits.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o",
-    "publishedAt": "2026-11-15T16:18:27.000Z"
   }
 ]
