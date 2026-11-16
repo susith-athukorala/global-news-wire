@@ -1,5 +1,86 @@
 [
   {
+    "id": "1a8108f53b3fa11f",
+    "title": "Cass report author says she does not support draft conversion practices bill",
+    "summary": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo",
+    "publishedAt": "2026-11-16T22:08:03.000Z"
+  },
+  {
+    "id": "1bf0c59695859d51",
+    "title": "California braces for more towering waves as powerful storms approach",
+    "summary": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearby.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/california-coast-waves-advisory",
+    "publishedAt": "2026-11-16T22:06:55.000Z"
+  },
+  {
+    "id": "2f3e3028b5a9d2c9",
+    "title": "California sues OpenAI over hacking risks",
+    "summary": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+    "publishedAt": "2026-11-16T22:06:22.000Z"
+  },
+  {
+    "id": "7d4307f50c7ab9f1",
+    "title": "California sues OpenAI over safety concerns after rogue agent hacking",
+    "summary": "The lawsuit stems from an earlier incident where the tech company’s products hacked into the open-source platform Hugging Face.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit",
+    "publishedAt": "2026-11-16T21:41:10.000Z"
+  },
+  {
+    "id": "b04da1859e24d08f",
+    "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+    "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo",
+    "publishedAt": "2026-11-16T21:40:07.000Z"
+  },
+  {
+    "id": "c8d01b67dfb88167",
+    "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+    "summary": "Attorney General Rob Bonta says Hugging Face attack was 'entirely predictable' result of emphasis on rapid growth.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+    "publishedAt": "2026-11-16T21:35:51.000Z"
+  },
+  {
+    "id": "607d35342c8ae09f",
+    "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+    "summary": "The US president oscillates between strike threats on Iran and insisting the war ‘militarily is effectively over’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+    "publishedAt": "2026-11-16T21:13:02.000Z"
+  },
+  {
+    "id": "69cc40b5da1aa93b",
+    "title": "Big wave surfers line up to ride ‘raw power of the Pacific’ during Super El-Niño swells",
+    "summary": "Fans of the sport dubbed the event ‘Monster Day’ as pro surfers tackled the storm-driven waves at Mavericks Beach.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/big-wave-surfers-san-francisco-el-nino",
+    "publishedAt": "2026-11-16T21:12:29.000Z"
+  },
+  {
+    "id": "45cf407d6d9772cd",
+    "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
+    "summary": "'Preliminary monitoring' shows women and children killed, homes destroyed in West Kordofan, says Emergency Lawyers.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
+    "publishedAt": "2026-11-16T21:06:19.000Z"
+  },
+  {
     "id": "10c5b3de5ba9e43e",
     "title": "Microsoft identifies months-old bug as a root cause of global outage",
     "summary": "Report identifies three factors that led to blackout: a bug, malfunctioning internal connections and server capacity.",
@@ -837,6 +918,15 @@
     "publishedAt": "2026-11-16T12:26:14.000Z"
   },
   {
+    "id": "290bb7653530da0e",
+    "title": "Kenyan farmers adopt new techniques to curb erosion during heavy rains",
+    "summary": "Farmers in parts of Kenya are turning to simple soil conservation techniques to protect their crops and farmland ahead of the October-December rainy season that is projected to be heavier than usual.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/kenyan-farmers-adopt-new-techniques-curb-erosion-heavy-138170385",
+    "publishedAt": "2026-11-16T12:18:21.000Z"
+  },
+  {
     "id": "096f00872a46be86",
     "title": "Gérard Depardieu drops appeal and accepts sexual assault conviction",
     "summary": "French actor G&eacute;rard Depardieu says he is dropping his appeal against a conviction for sexually assaulting two women on a film set.",
@@ -1258,95 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
     "publishedAt": "2026-11-16T08:45:07.000Z"
-  },
-  {
-    "id": "d523d6d66b48c210",
-    "title": "Russia out of IIHF World Junior Ice Hockey as Canada refuses entry",
-    "summary": "Norway back in the tournament after being bumped to make room for Russia after a Court of Arbitration for Sport ruling.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/16/russia-out-of-iihf-world-junior-ice-hockey-as-canada-refuses-entry?traffic_source=rss",
-    "publishedAt": "2026-11-16T08:20:17.000Z"
-  },
-  {
-    "id": "d585484ac43e9d03",
-    "title": "Ecuador’s president denies existence of US military base",
-    "summary": "Daniel Noboa says US personnel in the country for 'temporary activities'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
-    "publishedAt": "2026-11-16T08:14:48.000Z"
-  },
-  {
-    "id": "986b4db417cb16f0",
-    "title": "‘Strangers gave me £2,409’: the online community helping people in debt",
-    "summary": "People come together online to support one another with small voluntary donations to ease financial worries.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/16/online-community-helping-people-in-debt",
-    "publishedAt": "2026-11-16T08:00:37.000Z"
-  },
-  {
-    "id": "2b570ded2d9e0e8f",
-    "title": "European football body’s secret plan to go global leaves Fifa on tenterhooks",
-    "summary": "Findings of ‘feasibility study’ into quest for world domination loom with Europe’s wealthiest certain to benefit whatever the outcome.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/football/2026/nov/16/fifa-waits-european-football-clubs-plan-global",
-    "publishedAt": "2026-11-16T08:00:37.000Z"
-  },
-  {
-    "id": "364a6f352939a507",
-    "title": "Lula to govern Brazil for fourth term but faces challenges. Here’s what to know",
-    "summary": "Brazilian President Luiz In&aacute;cio Lula da Silva has won a surprise reelection victory but faces significant challenges.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/lula-govern-brazil-fourth-term-faces-range-challenges-138170781",
-    "publishedAt": "2026-11-16T07:55:24.000Z"
-  },
-  {
-    "id": "59facec8d45f0a3b",
-    "title": "Why is China resisting a nuclear treaty with the US and Russia?",
-    "summary": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia?traffic_source=rss",
-    "publishedAt": "2026-11-16T07:54:09.000Z"
-  },
-  {
-    "id": "481dd769e4db6596",
-    "title": "Yellow weather warnings issued for snow and ice as temperatures plummet",
-    "summary": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o",
-    "publishedAt": "2026-11-16T07:43:51.000Z"
-  },
-  {
-    "id": "e8c339acc76cfeba",
-    "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
-    "summary": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
-    "publishedAt": "2026-11-16T07:43:22.000Z"
-  },
-  {
-    "id": "a7f1a8d061d244c5",
-    "title": "At least 11 killed in blaze on Thailand’s Phuket island",
-    "summary": "Authorities are investigating the cause of the fire, which also injured 16, but have ruled out arson.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss",
-    "publishedAt": "2026-11-16T07:42:48.000Z"
-  },
-  {
-    "id": "fe579e696a0be611",
-    "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
-    "summary": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo",
-    "publishedAt": "2026-11-16T07:24:45.000Z"
   }
 ]
