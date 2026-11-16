@@ -1,5 +1,32 @@
 [
   {
+    "id": "fe125fe61fb05f62",
+    "title": "Surge of US datacenters adds equivalent of Denmark’s annual emissions, study finds",
+    "summary": "‘Hyperscaler’ datacenters across country draw upon dirtier power sources to meet vast energy needs, research shows.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/datacenter-emissions-study",
+    "publishedAt": "2026-11-16T16:00:47.000Z"
+  },
+  {
+    "id": "7953ff575be7b302",
+    "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+    "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
+    "publishedAt": "2026-11-16T15:40:16.000Z"
+  },
+  {
+    "id": "f9e5673299a5c3c8",
+    "title": "At least 17 killed in two South Africa mass shootings",
+    "summary": "Eight men killed in shooting near Pietermaritzburg while six men and three women shot dead near Pretoria.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings?traffic_source=rss",
+    "publishedAt": "2026-11-16T15:26:39.000Z"
+  },
+  {
     "id": "9b03afbd3b9fa6c0",
     "title": "Killer tunes: how Grand Theft Auto conquered the music world",
     "summary": "Featuring hundreds of songs from the hippest real-world artists, the radio stations in Rockstar’s crime sagas are as hotly anticipated as the storylines. Contributors including Flying Lotus, Wavves and Nite Jewel reflect on the soundtracks’ curation and impact.",
@@ -135,6 +162,15 @@
     "publishedAt": "2026-11-16T14:00:19.000Z"
   },
   {
+    "id": "e4690168895a1059",
+    "title": "Jim Ratcliffe’s Ineos Group settles with Ben Ainslie over America’s Cup dispute",
+    "summary": "Sir Jim Ratcliffe’s Ineos Group has reached an out-of-court settlement with Sir Ben Ainslie over the £180m yacht their companies built for the 2024 America’s Cup. Ratcliffe and Ainslie worked closely together during two cycles of the America’s Cup culminating in Ineos Britannia becoming the first British crew to…",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/sport/2026/nov/16/jim-ratcliffe-ineos-group-settles-ben-ainslie-americas-cup-dispute-sailing",
+    "publishedAt": "2026-11-16T13:55:19.000Z"
+  },
+  {
     "id": "40b384f11ceaea2f",
     "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
     "summary": "Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation.",
@@ -205,6 +241,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
     "publishedAt": "2026-11-16T13:26:35.000Z"
+  },
+  {
+    "id": "fb6772df55822245",
+    "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+    "summary": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko",
+    "publishedAt": "2026-11-16T13:19:33.000Z"
   },
   {
     "id": "82e8729347a01b5f",
@@ -286,6 +331,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o",
     "publishedAt": "2026-11-16T12:27:15.000Z"
+  },
+  {
+    "id": "368564f901378724",
+    "title": "Prince Harry salutes wounded Ukrainian veterans as 'role models' on surprise Ukraine visit",
+    "summary": "Prince Harry has hailed wounded Ukrainian veterans as role models, emphasizing the need for continued support from Kyiv.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/prince-harry-salutes-wounded-ukrainian-veterans-role-models-138164402",
+    "publishedAt": "2026-11-16T12:26:14.000Z"
   },
   {
     "id": "096f00872a46be86",
@@ -1098,6 +1152,15 @@
     "publishedAt": "2026-11-16T03:30:22.000Z"
   },
   {
+    "id": "98635d6022fca3b8",
+    "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
+    "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo",
+    "publishedAt": "2026-11-16T03:21:56.000Z"
+  },
+  {
     "id": "f676ff9dd1c68052",
     "title": "Australia’s national medical research body advises conditional use of puberty blockers for transgender children",
     "summary": "New National Health and Medical Research Council guidelines at odds with public hospital bans in Queensland and NT.",
@@ -1285,68 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o",
     "publishedAt": "2026-11-16T00:13:14.000Z"
-  },
-  {
-    "id": "6e4289395b84e871",
-    "title": "Libyan town rebuilt after devastating floods becomes showcase for strongman's rule",
-    "summary": "The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o",
-    "publishedAt": "2026-11-16T00:11:12.000Z"
-  },
-  {
-    "id": "c3f194dca4fe3630",
-    "title": "Zambia’s copper boom attracts billions in investment, but who benefits?",
-    "summary": "Workers' rights, environmental concerns and local businesses remain at the centre of the debate.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/zambias-copper-boom-attracts-billions-in-investment-but-who-benefits?traffic_source=rss",
-    "publishedAt": "2026-11-16T00:04:28.000Z"
-  },
-  {
-    "id": "5fb5996b88650332",
-    "title": "Pope crosses Peru in finale of trip home to visit flock high in Andes, deep in Amazon",
-    "summary": "Pope Leo XIV is demanding justice for environmental defenders killed for protecting the Amazon.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-crosses-peru-finale-trip-home-visit-flock-138155337",
-    "publishedAt": "2026-11-16T00:02:15.000Z"
-  },
-  {
-    "id": "9d766436c2ca82b6",
-    "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
-    "summary": "Arab party members were reportedly arrested before Israeli elections based on unfounded evidence from the PM's office.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
-    "publishedAt": "2026-11-16T00:01:45.000Z"
-  },
-  {
-    "id": "7fce3bfe63626d30",
-    "title": "‘Loaded with potential’: stage version of TV smash It’s a Sin has the dancefloor at its heart",
-    "summary": "Exclusive: Trailer released for Rambert’s version of Russell T Davies’s show about friendship amid the 80s Aids crisis and the ‘extraordinary freedom’ of clubbing.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/stage/2026/nov/16/stage-version-tv-series-its-a-sin-trailer",
-    "publishedAt": "2026-11-16T00:01:27.000Z"
-  },
-  {
-    "id": "2f404cbfd468f7e9",
-    "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
-    "summary": "Calls for governments to recognise sexual exploitation of children as preventable public health emergency.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
-    "publishedAt": "2026-11-16T00:01:27.000Z"
-  },
-  {
-    "id": "5d2d89e1e02d925e",
-    "title": "Rescuers recover last 2 bodies after methane blast kills 4 at a Colombia coal mine",
-    "summary": "Rescuers in Colombia have recovered two bodies from a mine, where a methane explosion left four people dead.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/rescuers-recover-2-bodies-after-methane-blast-kills-138163211",
-    "publishedAt": "2026-11-15T23:54:07.000Z"
   }
 ]
