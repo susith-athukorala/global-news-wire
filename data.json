@@ -1,5 +1,59 @@
 [
   {
+    "id": "f481237553572271",
+    "title": "China, Canada expand tariff relief after Carney-Xi meeting",
+    "summary": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
+    "publishedAt": "2026-11-17T20:11:41.000Z"
+  },
+  {
+    "id": "0fc013d830c14219",
+    "title": "Milburn’s absurdly ambitious report offers blueprint for fixing everything and everyone",
+    "summary": "He lays out sweeping aims and finer details for how to fix the Neets crisis – and is obsessive about welfare.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-neet-report-absurdly-ambitious-analysis",
+    "publishedAt": "2026-11-17T19:47:31.000Z"
+  },
+  {
+    "id": "aa81f41407e93929",
+    "title": "Jeffries shifts strategy amid growing Democratic divisions in US House",
+    "summary": "The lawmaker is opting to put progressive opponents on record as he vies to become the chamber's first Black speaker.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/jeffries-shifts-strategy-amid-growing-democratic-divisions-in-us-house?traffic_source=rss",
+    "publishedAt": "2026-11-17T19:41:45.000Z"
+  },
+  {
+    "id": "a570f4401a857abb",
+    "title": "Using law to try to silence abuse victims is ‘ultimate form of gaslighting’, MPs told",
+    "summary": "Woman sued by alleged rapist tells justice committee that Slapp lawsuits present perpetrator as victim of wrongdoing.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/17/using-law-try-silence-abuse-victims-ultimate-gaslighting-mps-told",
+    "publishedAt": "2026-11-17T19:36:11.000Z"
+  },
+  {
+    "id": "9364369bd1a6b008",
+    "title": "Russian military plane crashes killing all 19 on board",
+    "summary": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo",
+    "publishedAt": "2026-11-17T19:33:55.000Z"
+  },
+  {
+    "id": "873a904b57e5c2a4",
+    "title": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
+    "summary": "Youth unemployment review risks clash with unions and Labour left over workers’ rights and minimum wage.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-tax-cuts-businesses-unions-neets-youth-unemployment",
+    "publishedAt": "2026-11-17T19:30:32.000Z"
+  },
+  {
     "id": "e70024e15fe7af15",
     "title": "More than 100,000 take part in France pay protests",
     "summary": "Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.",
@@ -756,6 +810,15 @@
     "publishedAt": "2026-11-17T12:33:51.000Z"
   },
   {
+    "id": "888d174911605f8a",
+    "title": "‘Peace through strength’: Albanese and Trump hail progress on Quad alliance",
+    "summary": "Leaders of India and Japan join for talks on military exercises, AI and rare earths as a counter to Chinese power.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/peace-through-strength-albanese-and-trump-hail-progress-on-quad-alliance",
+    "publishedAt": "2026-11-17T12:22:56.000Z"
+  },
+  {
     "id": "3642c1ffb44033e9",
     "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
     "summary": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
@@ -909,6 +972,15 @@
     "publishedAt": "2026-11-17T11:12:54.000Z"
   },
   {
+    "id": "46e5fa49c23d71dc",
+    "title": "Tokyo protests after two suspected Russian aircraft violate Japanese airspace",
+    "summary": "Japan has protested to Moscow after two suspected Russian aircraft entered Japanese airspace off the country’s southwestern coast.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/tokyo-protests-after-suspected-russian-aircraft-violate-japanese-138201049",
+    "publishedAt": "2026-11-17T11:06:14.000Z"
+  },
+  {
     "id": "49b7ae670bfb51fd",
     "title": "Bangladesh police clash with garment workers amid protests over wages",
     "summary": "Protesters hurl bricks, torch vehicles and block the main highway between Dhaka and Mymensingh.",
@@ -916,6 +988,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
     "publishedAt": "2026-11-17T11:06:12.000Z"
+  },
+  {
+    "id": "9efce15ccb9c7114",
+    "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+    "summary": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+    "publishedAt": "2026-11-17T11:00:39.000Z"
   },
   {
     "id": "fc7fe1669c57645a",
@@ -1267,86 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/17/line-their-own-coffers-independent-mps-lambast-labors-last-minute-changes-to-election-funding-laws",
     "publishedAt": "2026-11-17T08:50:38.000Z"
-  },
-  {
-    "id": "ad4dccd65a3607c4",
-    "title": "Irish ‌‌‌‌boxer Lee Reeves, 31, dies three months after sustaining injuries",
-    "summary": "Lee Reeves died in Limerick three months after sustaining serious injuries in his bout against Gary Cully in Dublin.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss",
-    "publishedAt": "2026-11-17T08:41:21.000Z"
-  },
-  {
-    "id": "676314db585952ee",
-    "title": "Communications watchdog leadership reversed findings of draft report into ABC Four Corners program, FoI documents reveal",
-    "summary": "Documents show draft Acma reports backed reporting of Gold Walkley award-winning journalist Mark Willacy about Australian War Memorial.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/17/communications-watchdog-leadership-reversed-findings-of-draft-report-into-abc-four-corners-program-foi-documents-ntwnfb",
-    "publishedAt": "2026-11-17T08:33:52.000Z"
-  },
-  {
-    "id": "5045b67f0a52770b",
-    "title": "South Korea cheating scandal: Are AI smart glasses a threat to exams?",
-    "summary": "A student with near-perfect scores on two tests has confessed to using artificial intelligence.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams?traffic_source=rss",
-    "publishedAt": "2026-11-17T08:15:32.000Z"
-  },
-  {
-    "id": "6c7e7d956e314bc5",
-    "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-    "summary": "Moscow-installed governor says traffic suspended after second attack on bridge in two days.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
-    "publishedAt": "2026-11-17T08:12:06.000Z"
-  },
-  {
-    "id": "8729002410d12c29",
-    "title": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
-    "summary": "Canadian authorities say they have recovered 96 luxury vehicles destined for West Africa.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm5y1wr1535ko",
-    "publishedAt": "2026-11-17T08:11:20.000Z"
-  },
-  {
-    "id": "ec207f4236748f6d",
-    "title": "UK unemployment unexpectedly eases to 4.6%, as government prepares to release Milburn report",
-    "summary": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
-    "publishedAt": "2026-11-17T08:05:09.000Z"
-  },
-  {
-    "id": "7d4573cf4949fac2",
-    "title": "How and when to see the peak of the Leonid meteor shower",
-    "summary": "The Leonid meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/weather/articles/c6742xzg3eljo",
-    "publishedAt": "2026-11-17T08:01:47.000Z"
-  },
-  {
-    "id": "788eef3f42aae51f",
-    "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-    "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o",
-    "publishedAt": "2026-11-17T08:01:38.000Z"
-  },
-  {
-    "id": "4cd462fe9068bdde",
-    "title": "Drought, early harvests and wet winters: can an experimental orchard save the UK’s cider industry?",
-    "summary": "Farmers are utilising science and nature to help orchards adapt and thrive in the face of shifting temperatures, rainfall and pests.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/17/farming-apple-growers-climate-breakdown-thatchers-cider-wildflowers-soil-water-insects-aoe",
-    "publishedAt": "2026-11-17T08:00:08.000Z"
   }
 ]
