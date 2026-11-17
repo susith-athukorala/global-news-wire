@@ -1,5 +1,122 @@
 [
   {
+    "id": "d3b1efb6c55bd28d",
+    "title": "Medical practice squeezed as business confidence slumps in SA",
+    "summary": "Business confidence in SA has taken another knock, with almost three quarters of respondents to a survey listing wage, energy and rest costs as major factors.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-18/business-confidence-takes-hit-in-sa/107394878",
+    "publishedAt": "2026-11-17T21:08:39.000Z"
+  },
+  {
+    "id": "d123b5ef8039d1f7",
+    "title": "Campaigners take claim 'regulatory gap' risks poultry farms polluting rivers to High Court",
+    "summary": "It follows years of debate over the alleged impacts on rivers in an area dubbed \"poultry capital\".",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm894x41jw54o",
+    "publishedAt": "2026-11-17T21:00:51.000Z"
+  },
+  {
+    "id": "99ecaad568acc0fe",
+    "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
+    "summary": "Child reunited with family after he was detained by immigration agents in San Diego and transferred to Texas.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
+    "publishedAt": "2026-11-17T20:59:56.000Z"
+  },
+  {
+    "id": "0ed54a8b0bc0befc",
+    "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
+    "summary": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
+    "publishedAt": "2026-11-17T20:57:56.000Z"
+  },
+  {
+    "id": "819a043d45ff2312",
+    "title": "Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays",
+    "summary": "Trump homeland security chief says ‘we still got to live our life’ amid outcry over journey to LSU on government plane.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/markwayne-mullin-private-jet-football",
+    "publishedAt": "2026-11-17T20:45:48.000Z"
+  },
+  {
+    "id": "fbe1847f933b3456",
+    "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+    "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo",
+    "publishedAt": "2026-11-17T20:44:54.000Z"
+  },
+  {
+    "id": "dd412c6ae330cc7d",
+    "title": "Tensions rise over draft climate deal at COP31",
+    "summary": "Publication of the IPCC’s seventh assessment report becomes a sticking point at UN climate talks.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
+    "publishedAt": "2026-11-17T20:40:29.000Z"
+  },
+  {
+    "id": "447ab83e329fa24e",
+    "title": "University of Birmingham pauses plans to move Shakespeare Institute after outcry",
+    "summary": "Vice-chancellor halts proposed relocation from Stratford-upon-Avon but offers no guarantees over future.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/education/2026/nov/17/birmingham-university-shakespeare-institute-stratford-upon-avon",
+    "publishedAt": "2026-11-17T20:31:45.000Z"
+  },
+  {
+    "id": "566598e1eca81ebb",
+    "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+    "summary": "Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionage.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
+    "publishedAt": "2026-11-17T20:30:57.000Z"
+  },
+  {
+    "id": "4e3deff57ab20557",
+    "title": "Trump nominates Chris LaNeve as army chief after Hegseth fired predecessor",
+    "summary": "LaNeve, who served as Hegseth’s senior military commander, nominated to permanently replace Gen Randy George.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff",
+    "publishedAt": "2026-11-17T20:21:58.000Z"
+  },
+  {
+    "id": "399fd9cdcf1ccf6e",
+    "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
+    "summary": "Bullet hit 72-year-old Fadha Wadha in head outside her home in al-Duyuk al-Tahta, in the West Bank, say residents.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+    "publishedAt": "2026-11-17T20:21:48.000Z"
+  },
+  {
+    "id": "f38fc2cffad64253",
+    "title": "Australia sanctions individuals and company involved in illegal West Bank settlements",
+    "summary": "Foreign affairs minister Penny Wong says rapid expansion of settlements and settler violence are ‘extinguishing the possibility of a two-state solution’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
+    "publishedAt": "2026-11-17T20:20:31.000Z"
+  },
+  {
+    "id": "50c674542804d570",
+    "title": "Kalshi halts Trump speech bets after CFTC order",
+    "summary": "Kalshi halts Trump speech bets following CFTC mandate amid concerns of insider trading in US prediction markets.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss",
+    "publishedAt": "2026-11-17T20:20:18.000Z"
+  },
+  {
     "id": "f481237553572271",
     "title": "China, Canada expand tariff relief after Carney-Xi meeting",
     "summary": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
@@ -151,6 +268,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss",
     "publishedAt": "2026-11-17T18:14:06.000Z"
+  },
+  {
+    "id": "f087d7c7855c3ac1",
+    "title": "Who to watch in Spain's election race",
+    "summary": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no",
+    "publishedAt": "2026-11-17T18:13:45.000Z"
   },
   {
     "id": "6af73e49fd3f903e",
@@ -619,6 +745,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/18/australia-gender-pay-gap-falls-below-20-percent-for-first-time",
     "publishedAt": "2026-11-17T14:00:13.000Z"
+  },
+  {
+    "id": "ec207f4236748f6d",
+    "title": "UK unemployment unexpectedly eases to 4.6% as government releases Milburn report",
+    "summary": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
+    "publishedAt": "2026-11-17T13:44:09.000Z"
   },
   {
     "id": "33a91ea69938b46c",
@@ -1213,140 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/11/17/powering-towns-on-pig-manure-how-denmark-has-transformed-energy-generation?traffic_source=rss",
     "publishedAt": "2026-11-17T09:51:02.000Z"
-  },
-  {
-    "id": "3ed305e1ffb46b51",
-    "title": "Russia downs over 1,400 Ukrainian drones as Kyiv hits a key bridge in Crimea",
-    "summary": "Ukraine's forces targeted a key rail and road bridge between Russia and the Crimean Peninsula for a second day. Moscow's forces, meanwhile, fired ballistic missiles and drones at Kyiv.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
-    "publishedAt": "2026-11-17T09:50:45.000Z"
-  },
-  {
-    "id": "8360fc4a245b53c2",
-    "title": "Pope forgives person who nailed him in the eye with a rosary in Peru",
-    "summary": "Pope Leo XIV has forgiven the person who threw a rosary at him before his final Mass in Peru and nailed him in the eye.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-forgives-person-nailed-eye-rosary-peru-138202302",
-    "publishedAt": "2026-11-17T09:47:47.000Z"
-  },
-  {
-    "id": "701564270e850da1",
-    "title": "Health organization to announce that the U.S. has lost its measles elimination status",
-    "summary": "The Pan American Health Organization is expected to announce that measles is no longer eliminated in the U.S. Record cases, lower vaccination rates and uncontained outbreaks led to the resurgence.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6042892/health-organization-to-announce-that-the-u-s-has-lost-its-measles-elimination-status",
-    "publishedAt": "2026-11-17T09:46:43.000Z"
-  },
-  {
-    "id": "f4a3c58e612cf349",
-    "title": "More than £160m needed to clean up one of Europe's largest illegal dumps",
-    "summary": "Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo",
-    "publishedAt": "2026-11-17T09:46:31.000Z"
-  },
-  {
-    "id": "0180ed5a885979ad",
-    "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
-    "summary": "President Trump is off for a series of meetings in Asia that will cover trade, security and a rare trilateral meeting with China and Russia.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
-    "publishedAt": "2026-11-17T09:46:00.000Z"
-  },
-  {
-    "id": "b6a5b96612cc05c7",
-    "title": "Nvidia scandal and CEO's resignation rock Silicon Valley",
-    "summary": "Some in Silicon Valley are calling for former Nvidia CEO Jensen Huang to get his job back after he resigned amid reports of affairs with an alleged Chinese spy.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6043138/nvidia-scandal-and-ceos-resignation-rock-silicon-valley",
-    "publishedAt": "2026-11-17T09:45:01.000Z"
-  },
-  {
-    "id": "3ff7e1497711fd36",
-    "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
-    "summary": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o",
-    "publishedAt": "2026-11-17T09:41:07.000Z"
-  },
-  {
-    "id": "30e6013ab6dadb08",
-    "title": "Some Afghan women quietly defy Taliban bans",
-    "summary": "In the shadows of the Afghan capital’s bustling streets, many women live in a hidden world, secretly defying the laws imposed on them when the Taliban seized power in August 2021.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/afghan-women-quietly-defy-taliban-bans-opening-secret-138200702",
-    "publishedAt": "2026-11-17T09:38:26.000Z"
-  },
-  {
-    "id": "85a26c9976447668",
-    "title": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
-    "summary": "The anti-Netanyahu bloc holds the keys to electing a new parliamentary speaker, setting the momentum for change.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role?traffic_source=rss",
-    "publishedAt": "2026-11-17T09:29:28.000Z"
-  },
-  {
-    "id": "3613b796376509c2",
-    "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-    "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o",
-    "publishedAt": "2026-11-17T09:27:44.000Z"
-  },
-  {
-    "id": "34397ec1aa953dea",
-    "title": "Tobacco group Imperial Brands to axe up to 4,600 jobs as it uses more AI",
-    "summary": "Owner of JPS cigarettes, Golden Virginia tobacco, Blu vapes and Rizla has launched huge cost-cutting drive.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/17/uk-tobacco-imperial-brands-cut-jobs-cigarettes-ai",
-    "publishedAt": "2026-11-17T09:01:25.000Z"
-  },
-  {
-    "id": "696a1e498fca797f",
-    "title": "Actors in UK to get more rights over their ‘digital replicas’ in deal on AI protections",
-    "summary": "Agreement secured by Equity union gives actors rights over payment and consent when digital replicas are used.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/17/actors-uk-rights-digital-replicas-ai-protections",
-    "publishedAt": "2026-11-17T09:00:08.000Z"
-  },
-  {
-    "id": "2b2bac2136793b21",
-    "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
-    "summary": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po",
-    "publishedAt": "2026-11-17T08:53:09.000Z"
-  },
-  {
-    "id": "f2cc3b8fc278a2cb",
-    "title": "'I spent more than two days waiting in A&E' - NHS bids to end corridor care",
-    "summary": "The Welsh government has vowed to speed up emergency care and help patients get home sooner.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6gm3912vvvyo",
-    "publishedAt": "2026-11-17T08:51:40.000Z"
-  },
-  {
-    "id": "552e72f45612a566",
-    "title": "‘Line their own coffers’: independent MPs lambast Labor’s last-minute changes to election funding laws",
-    "summary": "Crossbenchers say the proposals could allow an ‘uncapped amount of money’ to flow to major parties through investment funds.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/17/line-their-own-coffers-independent-mps-lambast-labors-last-minute-changes-to-election-funding-laws",
-    "publishedAt": "2026-11-17T08:50:38.000Z"
   }
 ]
