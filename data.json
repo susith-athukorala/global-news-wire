@@ -1,5 +1,131 @@
 [
   {
+    "id": "04508f950256e050",
+    "title": "Speed camera fault may have allowed drivers to escape fines",
+    "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo",
+    "publishedAt": "2026-11-17T13:03:30.000Z"
+  },
+  {
+    "id": "6fd8a06cc6e52462",
+    "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+    "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo",
+    "publishedAt": "2026-11-17T13:02:17.000Z"
+  },
+  {
+    "id": "21aeee77641d2d02",
+    "title": "Santander allows staff to count holidays and sick leave as days worked in office",
+    "summary": "News of Spanish-owned lender’s policy emerges as other banks are toughening their stance on working from home.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/17/santander-staff-holidays-sick-leave-days-in-office",
+    "publishedAt": "2026-11-17T13:01:08.000Z"
+  },
+  {
+    "id": "59aa6d9a86871ba6",
+    "title": "Keepsake County review – eccentric stealing simulator with a social conscience",
+    "summary": "This irreverent stealth game depicts Samuel’s lonely life robbing garish, midwestern abodes – it’s a Shameless way to make a living.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/17/keepsake-county-review-stealing-simulator-forward-instinct",
+    "publishedAt": "2026-11-17T13:00:47.000Z"
+  },
+  {
+    "id": "12f0f249c1613a25",
+    "title": "Usman Nurmagomedov released from UAE prison after hotel brawl arrest",
+    "summary": "Russian MMA fighter and seven associates still face deportation after a hotel fight with other MMA fighters.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss",
+    "publishedAt": "2026-11-17T12:55:07.000Z"
+  },
+  {
+    "id": "789e3a36c6e251c2",
+    "title": "Brazil defeat Singapore 7-0 as Vinicius scores first-half hat-trick",
+    "summary": "Brazil's star forward scored a 12-minute hat-trick in the record world champions' thumping of the hosts in a friendly.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/17/brazil-defeat-singapore-7-0-as-vinicius-scores-first-half-hat-trick?traffic_source=rss",
+    "publishedAt": "2026-11-17T12:54:04.000Z"
+  },
+  {
+    "id": "f1a14cc39724ea78",
+    "title": "EU-backed court convicts Kosovo ex-President of attempting to obstruct justice",
+    "summary": "A European Union-backed court has convicted Kosovo's former president, Hashim Thaci, of trying to obstruct justice and contempt of court.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/eu-backed-court-convicts-kosovo-president-hashim-thaci-138204660",
+    "publishedAt": "2026-11-17T12:50:16.000Z"
+  },
+  {
+    "id": "b0aab3ed9431c535",
+    "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
+    "summary": "Energy facilities, industrial units, ports and bridges, schools, hospitals and apartment buildings have already been hit.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
+    "publishedAt": "2026-11-17T12:50:12.000Z"
+  },
+  {
+    "id": "1b20f8b7d72229bf",
+    "title": "Government must act now or lose Royal Mail, former minister warns",
+    "summary": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo",
+    "publishedAt": "2026-11-17T12:43:07.000Z"
+  },
+  {
+    "id": "4c008a5e50959ba6",
+    "title": "How is US Senate majority leader chosen?",
+    "summary": "Chris Van Hollen set to challenge Chuck Schumer for the post as the Democrats prepare to take control of Congress.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
+    "publishedAt": "2026-11-17T12:38:39.000Z"
+  },
+  {
+    "id": "459671b617fc3b10",
+    "title": "How Europe decided on 'return hubs' for migrants",
+    "summary": "A group of European countries has announced plans to establish a \"migrant hub\" in Rwanda for rejected asylum-seekers.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/europe-decided-return-hubs-migrants-138205386",
+    "publishedAt": "2026-11-17T12:34:26.000Z"
+  },
+  {
+    "id": "da13ec7e3bd68487",
+    "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+    "summary": "Trump says Washington doesn't need a deal with Tehran, while Iran rejects 'no war, no peace'. Is the war at an impasse?",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
+    "publishedAt": "2026-11-17T12:33:51.000Z"
+  },
+  {
+    "id": "3642c1ffb44033e9",
+    "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+    "summary": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+    "publishedAt": "2026-11-17T12:20:57.000Z"
+  },
+  {
+    "id": "01bd62afa7d540b2",
+    "title": "Mozambique’s opposition leader stands trial over deadly 2024 protests",
+    "summary": "Venancio Mondlane faces five charges, the most serious being instigating 'terrorism'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/mozambiques-opposition-leader-stands-trial-over-deadly-2024-protests?traffic_source=rss",
+    "publishedAt": "2026-11-17T12:10:53.000Z"
+  },
+  {
     "id": "0e315aef4e072de3",
     "title": "Giant lunar sculpture has visitors over the moon",
     "summary": "People can see the 6m-wide sculpture in St Helier until 29 November.",
@@ -7,6 +133,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm79213ngx45o",
     "publishedAt": "2026-11-17T12:04:38.000Z"
+  },
+  {
+    "id": "cba336858f458e59",
+    "title": "Another commercial vessel sinks off Bulgaria's Black Sea coast",
+    "summary": "The Bulgarian Defense Ministry says that a Liberia-flagged gas tanker sank in Bulgaria’s exclusive economic zone in the Black Sea.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/commercial-vessel-sinks-off-bulgarias-black-sea-coast-138204792",
+    "publishedAt": "2026-11-17T12:02:21.000Z"
   },
   {
     "id": "d3447927e6ad3dcd",
@@ -34,6 +169,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/17/voldemort-gotham-city-greens-liberal-labor-one-nation-victorian-election-leaders-debate-ntwnfb",
     "publishedAt": "2026-11-17T11:55:28.000Z"
+  },
+  {
+    "id": "b9bfc161e17498d6",
+    "title": "Rebeca Grynspan could be the UN’s first woman boss, if she can sway Trump",
+    "summary": "Swaying the US could test Grynspan but she likes taking risks - and wants UN to take more, she tells Al Jazeera.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle?traffic_source=rss",
+    "publishedAt": "2026-11-17T11:49:39.000Z"
   },
   {
     "id": "961479e61fb9484f",
@@ -259,6 +403,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/pope-leo-change-agenda-priorities-after-lung-cancer-138202271",
     "publishedAt": "2026-11-17T10:14:10.000Z"
+  },
+  {
+    "id": "65c9116677fb2eaa",
+    "title": "Mongolia’s president says he will step down after facing accusations of corruption",
+    "summary": "Mongolia’s President Khurelsukh Ukhnaa says he will resign after a member of a faction of his own party accused him of benefiting financially from a government railway project.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/mongolias-president-step-after-facing-accusations-corruption-138199346",
+    "publishedAt": "2026-11-17T10:08:03.000Z"
   },
   {
     "id": "7a039a8c49c38dd7",
@@ -1195,158 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o",
     "publishedAt": "2026-11-16T22:32:47.000Z"
-  },
-  {
-    "id": "6d43752056618ddd",
-    "title": "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people",
-    "summary": "Report on Britain’s youth jobs crisis calls for welfare, education, health and employment policy shake-up.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/16/alan-milburn-urges-burnham-spend-billions-new-deal-young-people-youth-jobs-crisis-welfare-employment",
-    "publishedAt": "2026-11-16T22:30:55.000Z"
-  },
-  {
-    "id": "9da34efeed4436bf",
-    "title": "Mid-year budget update will ‘cut enough, but not too much’, Jim Chalmers says",
-    "summary": "Under growing pressure to sell government’s strategy, treasurer says Myefo will ‘help ease immediate capacity pressures without putting growth at risk’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/17/myefo-mid-year-budget-update-australia-treasurer-jim-chalmers",
-    "publishedAt": "2026-11-16T22:21:10.000Z"
-  },
-  {
-    "id": "771bc90d33d002e3",
-    "title": "United Airlines says it is working to fix ‘widespread’ system outage",
-    "summary": "Outage at major airline comes just three days after FAA issued rare nationwide ground stop on all US flights.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
-    "publishedAt": "2026-11-16T22:19:48.000Z"
-  },
-  {
-    "id": "751fbcc66c3ab604",
-    "title": "Freeman Johnson, oldest survivor of Pearl Harbor attack, dies aged 106",
-    "summary": "Johnson was working on the USS St Louis and was inside a steam drum when the attacks took place.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/oldest-survivor-pearl-harbor-dies",
-    "publishedAt": "2026-11-16T22:10:51.000Z"
-  },
-  {
-    "id": "1a8108f53b3fa11f",
-    "title": "Cass report author says she does not support draft conversion practices bill",
-    "summary": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo",
-    "publishedAt": "2026-11-16T22:08:03.000Z"
-  },
-  {
-    "id": "1bf0c59695859d51",
-    "title": "California braces for more towering waves as powerful storms approach",
-    "summary": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearby.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/california-coast-waves-advisory",
-    "publishedAt": "2026-11-16T22:06:55.000Z"
-  },
-  {
-    "id": "2f3e3028b5a9d2c9",
-    "title": "California sues OpenAI over hacking risks",
-    "summary": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
-    "publishedAt": "2026-11-16T22:06:22.000Z"
-  },
-  {
-    "id": "840e8eb0f24a6823",
-    "title": "Germany thrash Netherlands to book quarterfinal spot",
-    "summary": "Jurgen Klopp's side outclasses the Dutch 5-0 in Berlin to secure top spot in UEFA Nations League Group A2.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
-    "publishedAt": "2026-11-16T22:04:31.000Z"
-  },
-  {
-    "id": "7d4307f50c7ab9f1",
-    "title": "California sues OpenAI over safety concerns after rogue agent hacking",
-    "summary": "The lawsuit stems from an earlier incident where the tech company’s products hacked into the open-source platform Hugging Face.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit",
-    "publishedAt": "2026-11-16T21:41:10.000Z"
-  },
-  {
-    "id": "b04da1859e24d08f",
-    "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-    "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo",
-    "publishedAt": "2026-11-16T21:40:07.000Z"
-  },
-  {
-    "id": "0e72d9d8f9f479f5",
-    "title": "Schools 'devastated' after education department ends VCE registration",
-    "summary": "Multicultural communities say they are shocked and devastated over a decision that means community language schools will no longer be able to teach Victorian Certificate of Education language subjects.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-17/vce-accreditation-pulled-from-community-language-schools/107387536",
-    "publishedAt": "2026-11-16T21:37:00.000Z"
-  },
-  {
-    "id": "c8d01b67dfb88167",
-    "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
-    "summary": "Attorney General Rob Bonta says Hugging Face attack was 'entirely predictable' result of emphasis on rapid growth.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
-    "publishedAt": "2026-11-16T21:35:51.000Z"
-  },
-  {
-    "id": "607d35342c8ae09f",
-    "title": "Third US aircraft carrier brings thousands more troops to Middle East",
-    "summary": "The US president oscillates between strike threats on Iran and insisting the war ‘militarily is effectively over’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
-    "publishedAt": "2026-11-16T21:13:02.000Z"
-  },
-  {
-    "id": "69cc40b5da1aa93b",
-    "title": "Big wave surfers line up to ride ‘raw power of the Pacific’ during Super El-Niño swells",
-    "summary": "Fans of the sport dubbed the event ‘Monster Day’ as pro surfers tackled the storm-driven waves at Mavericks Beach.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/big-wave-surfers-san-francisco-el-nino",
-    "publishedAt": "2026-11-16T21:12:29.000Z"
-  },
-  {
-    "id": "45cf407d6d9772cd",
-    "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
-    "summary": "'Preliminary monitoring' shows women and children killed, homes destroyed in West Kordofan, says Emergency Lawyers.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
-    "publishedAt": "2026-11-16T21:06:19.000Z"
-  },
-  {
-    "id": "db43089f31ad646a",
-    "title": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
-    "summary": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China’s efforts to dominate.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-    "publishedAt": "2026-11-16T21:00:21.000Z"
-  },
-  {
-    "id": "10c5b3de5ba9e43e",
-    "title": "Microsoft identifies months-old bug as a root cause of global outage",
-    "summary": "Report identifies three factors that led to blackout: a bug, malfunctioning internal connections and server capacity.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause",
-    "publishedAt": "2026-11-16T20:54:40.000Z"
   }
 ]
