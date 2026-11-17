@@ -1,5 +1,122 @@
 [
   {
+    "id": "89ebf33e3c4fddef",
+    "title": "New Nvidia boss cites 'momentum' in first results after Huang quits",
+    "summary": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+    "publishedAt": "2026-11-17T22:17:04.000Z"
+  },
+  {
+    "id": "daa9959cb12cf974",
+    "title": "Nvidia doubles revenue in first earnings since Jensen Huang’s resignation",
+    "summary": "Report comes just days after company saw ouster of its CEO over allegations of affair with suspected Chinese spy.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+    "publishedAt": "2026-11-17T22:06:44.000Z"
+  },
+  {
+    "id": "26a5df592f6a30ba",
+    "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
+    "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo",
+    "publishedAt": "2026-11-17T22:02:03.000Z"
+  },
+  {
+    "id": "24505ec98282bf9a",
+    "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
+    "summary": "US President Donald Trump has been trying to fire Cook since August 2025.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
+    "publishedAt": "2026-11-17T22:01:27.000Z"
+  },
+  {
+    "id": "46bd1587f896f009",
+    "title": "U.S. officially loses its measles elimination status",
+    "summary": "The Pan American Health Organization announced that measles is no longer considered eliminated in the U.S. It's classified as endemic now because a strain has lingered in the U.S. for over a year.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6044227/u-s-officially-loses-its-measles-elimination-status",
+    "publishedAt": "2026-11-17T21:53:30.000Z"
+  },
+  {
+    "id": "23d25a05deabc445",
+    "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+    "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+    "publishedAt": "2026-11-17T21:49:29.000Z"
+  },
+  {
+    "id": "e48357026cb54cb7",
+    "title": "Judge extends deadline for Trump’s deposition in $10bn BBC lawsuit",
+    "summary": "President, who had agreed to sit for deposition in October but backed out, must now appear by 22 January.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/trump-bbc-deposition-delay",
+    "publishedAt": "2026-11-17T21:45:58.000Z"
+  },
+  {
+    "id": "542e4d1fcea86b15",
+    "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+    "summary": "Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
+    "publishedAt": "2026-11-17T21:40:56.000Z"
+  },
+  {
+    "id": "1c67e1b01c2d0e94",
+    "title": "Air travel, Microsoft, banking: Why are our IT systems failing?",
+    "summary": "NPR's Sacha Pfeiffer speaks with cybersecurity expert Dmitri Alperovitch about the coincidence of several major technical failures in IT infrastructure — and how best to understand it.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6043850/air-travel-microsoft-banking-why-are-our-it-systems-failing",
+    "publishedAt": "2026-11-17T21:40:41.000Z"
+  },
+  {
+    "id": "6d887e6fa58b9406",
+    "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+    "summary": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+    "publishedAt": "2026-11-17T21:35:24.000Z"
+  },
+  {
+    "id": "5f34fb9fea027296",
+    "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
+    "summary": "Democrats say they plan to investigate Trump's dealings with Venezuela after winning control of Congress.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+    "publishedAt": "2026-11-17T21:26:42.000Z"
+  },
+  {
+    "id": "c89f894251b4700e",
+    "title": "‘Heads should roll’: owner of Melbourne Cup horse found dumped in skip bin demands investigation",
+    "summary": "Stuart Ramsey says it is a ‘bloody disgrace’ the gelding was left in the skip bin while awaiting burial.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/stuart-ramsey-calls-for-investigation-so-you-are-melbourne-cup-horse-found-skip-bin-ntwnfb",
+    "publishedAt": "2026-11-17T21:23:47.000Z"
+  },
+  {
+    "id": "d3de8fd9787040a4",
+    "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
+    "summary": "Whistleblower accuses military of dismissing advanced security warnings of drone strike that killed six US soldiers.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
+    "publishedAt": "2026-11-17T21:14:31.000Z"
+  },
+  {
     "id": "d3b1efb6c55bd28d",
     "title": "Medical practice squeezed as business confidence slumps in SA",
     "summary": "Business confidence in SA has taken another knock, with almost three quarters of respondents to a survey listing wage, energy and rest costs as major factors.",
@@ -918,6 +1035,15 @@
     "publishedAt": "2026-11-17T12:38:39.000Z"
   },
   {
+    "id": "8360fc4a245b53c2",
+    "title": "Pope forgives person who nailed him in the eye with a rosary in Peru",
+    "summary": "Pope Leo XIV has forgiven the person who threw a rosary at him before his final Mass in Peru and nailed him in the eye.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-forgives-person-nailed-eye-rosary-peru-138202302",
+    "publishedAt": "2026-11-17T12:37:26.000Z"
+  },
+  {
     "id": "f1fb5ad4d2079fac",
     "title": "Where are the most jobs for 18-24 year-olds?",
     "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
@@ -1222,131 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/17/wh-smith-tg-jones-sale-stores-modella-capita",
     "publishedAt": "2026-11-17T10:33:01.000Z"
-  },
-  {
-    "id": "c0cc54c6a7cbd83b",
-    "title": "Why are five EU countries reviving plans to deport migrants to Rwanda?",
-    "summary": "Rwanda again proposed as a 'return hub' for deported migrants, but critics warn of potential human rights abuses.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/why-are-five-eu-countries-reviving-plans-to-deport-migrants-to-rwanda?traffic_source=rss",
-    "publishedAt": "2026-11-17T10:22:52.000Z"
-  },
-  {
-    "id": "0b72aa84efbbb0b1",
-    "title": "How new US chip restrictions on South East Asia will hit China",
-    "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo",
-    "publishedAt": "2026-11-17T10:22:09.000Z"
-  },
-  {
-    "id": "9af4a6c88f04a5c1",
-    "title": "More than 200 people jailed over crackdown on illegal gold mining",
-    "summary": "A court in Guinea has sentenced 22 former officials and 202 miners to prison over illegal gold mining in the northeast.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/guinea-sentences-200-people-prison-crackdown-illegal-gold-138202919",
-    "publishedAt": "2026-11-17T10:18:36.000Z"
-  },
-  {
-    "id": "1d832aa9ef899918",
-    "title": "Military jet crashes in Serbia and the pilot is killed, authorities say",
-    "summary": "Serbia's defense ministry says that a military jet crashed northwest of Belgrade, killing the pilot.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/military-jet-crashes-serbia-pilot-killed-authorities-138203005",
-    "publishedAt": "2026-11-17T10:17:36.000Z"
-  },
-  {
-    "id": "64563533e7b5cb56",
-    "title": "‘Master manipulator’ police officer should not be released early from UK prison, says ex-partner",
-    "summary": "Catherine Dobson calls for exception to England and Wales early release scheme for police who abuse position of trust.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/17/police-officer-early-release-catherine-dobson-michael-harvey",
-    "publishedAt": "2026-11-17T10:15:43.000Z"
-  },
-  {
-    "id": "68ce77760cb1a6f1",
-    "title": "Malaysia-France rare earths project to begin operations in early 2027, Macron says",
-    "summary": "A joint rare earths mining and processing venture between Malaysia and France is expected to begin operations in early 2027.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/malaysia-france-rare-earths-project-begin-operations-early-138201779",
-    "publishedAt": "2026-11-17T10:14:11.000Z"
-  },
-  {
-    "id": "345e0acb4ad9e09a",
-    "title": "Pope Leo says there is no change to agenda or priorities after his lung cancer surgery",
-    "summary": "Pope Leo XIV says his recent lung cancer surgery hasn't changed his agenda or outlook.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-leo-change-agenda-priorities-after-lung-cancer-138202271",
-    "publishedAt": "2026-11-17T10:14:10.000Z"
-  },
-  {
-    "id": "65c9116677fb2eaa",
-    "title": "Mongolia’s president says he will step down after facing accusations of corruption",
-    "summary": "Mongolia’s President Khurelsukh Ukhnaa says he will resign after a member of a faction of his own party accused him of benefiting financially from a government railway project.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/mongolias-president-step-after-facing-accusations-corruption-138199346",
-    "publishedAt": "2026-11-17T10:08:03.000Z"
-  },
-  {
-    "id": "7a039a8c49c38dd7",
-    "title": "Japan urges creation of an Asian energy framework to counter oil crises",
-    "summary": "Japanese Prime Minister Sanae Takaichi has proposed the creation of an Asian energy agency to help countries in the region cope with oil crises, such as the shocks from the Iran war.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/japan-urges-creation-asian-energy-framework-counter-oil-138202916",
-    "publishedAt": "2026-11-17T10:07:59.000Z"
-  },
-  {
-    "id": "c78fde4315052dbc",
-    "title": "Would more hands-on dads create a more peaceful world? This pioneering scientist thinks so",
-    "summary": "Sarah Blaffer Hrdy unpicked Darwinian sexism to rewrite the story of evolution. Now, she’s turned her attention to the nature of fatherhood.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/17/would-more-hands-on-dads-create-a-more-peaceful-world-this-pioneering-scientist-thinks-so",
-    "publishedAt": "2026-11-17T10:00:10.000Z"
-  },
-  {
-    "id": "b4340710dbe71706",
-    "title": "Do school cellphone bans work? New study says yes – but it's complicated",
-    "summary": "A new study of school cellphone bans finds they may help students make up for some of the learning they've lost since 2013 – a divergence from earlier study results.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
-    "publishedAt": "2026-11-17T10:00:00.000Z"
-  },
-  {
-    "id": "d72eb9eccb6e93f2",
-    "title": "More people are getting the flu. Should you get a flu shot before you travel?",
-    "summary": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that's upon us?",
-    "category": "Science",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
-    "publishedAt": "2026-11-17T10:00:00.000Z"
-  },
-  {
-    "id": "001e9cad02ffd0f8",
-    "title": "Expert behind NHS children’s gender services review says she cannot back conversion practices ban",
-    "summary": "Hilary Cass says draft bill is having ‘chilling effect’ on healthcare professionals and could pose a risk to parents.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/17/expert-nhs-gender-review-cannot-back-conversion-practices-ban",
-    "publishedAt": "2026-11-17T09:51:03.000Z"
-  },
-  {
-    "id": "1c7792155df00109",
-    "title": "Powering towns on pig manure: How Denmark has transformed energy generation",
-    "summary": "Pigs are big business in Denmark. Now their waste is being turned into biogas, which powers the national grid.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/17/powering-towns-on-pig-manure-how-denmark-has-transformed-energy-generation?traffic_source=rss",
-    "publishedAt": "2026-11-17T09:51:02.000Z"
   }
 ]
