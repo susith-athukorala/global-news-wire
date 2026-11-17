@@ -1,5 +1,95 @@
 [
   {
+    "id": "2f9a8ae680bc27f0",
+    "title": "US loses measles elimination status after 26 years amid record case numbers",
+    "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo",
+    "publishedAt": "2026-11-17T17:10:03.000Z"
+  },
+  {
+    "id": "36f71dc747c1e3ea",
+    "title": "Jensen Huang says he would return as Nvidia boss if asked by the board",
+    "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
+    "publishedAt": "2026-11-17T17:09:32.000Z"
+  },
+  {
+    "id": "285d70164db6af63",
+    "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+    "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo",
+    "publishedAt": "2026-11-17T16:42:11.000Z"
+  },
+  {
+    "id": "9775fff4b2849085",
+    "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
+    "summary": "Huang makes first statement since resigning, while board of directors is not considering reinstating him, reports say.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
+    "publishedAt": "2026-11-17T16:40:55.000Z"
+  },
+  {
+    "id": "d9f6d74fe11ff889",
+    "title": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
+    "summary": "Partial demolition of bridge linking Russia and occupied Crimea is obvious embarrassment to Putin days before meeting with Xi and Trump.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis",
+    "publishedAt": "2026-11-17T16:40:26.000Z"
+  },
+  {
+    "id": "610bed2ebd821afd",
+    "title": "Thousands demand cancellation of Nathan Cofnas talk at Oxford University",
+    "summary": "Online petition with more than 32,000 signatures demands the university 'cancel Nathan Cofnas's invitation to speak'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/thousands-demand-cancellation-of-nathan-cofnas-talk-at-oxford-university?traffic_source=rss",
+    "publishedAt": "2026-11-17T16:38:28.000Z"
+  },
+  {
+    "id": "77ab65f34ee9bcc6",
+    "title": "US loses measles elimination status amid worst outbreak since 1991",
+    "summary": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+    "publishedAt": "2026-11-17T16:16:24.000Z"
+  },
+  {
+    "id": "c72367bfbd838782",
+    "title": "Election-winning student movement enters Serbia’s new parliament",
+    "summary": "Hundreds hail Student List lawmakers as the new parliament meets for the first time.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament?traffic_source=rss",
+    "publishedAt": "2026-11-17T16:13:48.000Z"
+  },
+  {
+    "id": "db4d2925d4a1ef28",
+    "title": "‘We will have been spared a lot’: Kessler twins explained assisted dying decision in final letter",
+    "summary": "Pop-singing sisters, who died together aged 89 last year, described declining health and expressed gratitude assisted dying was an option.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/17/kessler-twins-assisted-dying-decision",
+    "publishedAt": "2026-11-17T16:12:58.000Z"
+  },
+  {
+    "id": "ebe27a4f6b9b122c",
+    "title": "US officially loses measles-free status after 26 years amid outbreak",
+    "summary": "A major health organisation declared measles endemic in US for first time since 2000, reversing decades of progress.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss",
+    "publishedAt": "2026-11-17T16:07:53.000Z"
+  },
+  {
     "id": "59af207e6b43c1ec",
     "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
     "summary": "US officials ‘continue to debate whether Iran can or will attempt to execute’ plot to detonate a ‘dirty bomb’, report says.",
@@ -34,6 +124,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o",
     "publishedAt": "2026-11-17T15:59:47.000Z"
+  },
+  {
+    "id": "52ec0b9604f011b5",
+    "title": "Trump announces critical minerals agreements at Quad meeting in Manila",
+    "summary": "US President Trump says the deals will prevent 'coercion by any single foreign supplier'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila?traffic_source=rss",
+    "publishedAt": "2026-11-17T15:59:41.000Z"
   },
   {
     "id": "2f730ed45da87e4f",
@@ -333,6 +432,15 @@
     "publishedAt": "2026-11-17T12:55:07.000Z"
   },
   {
+    "id": "0635c7b781ebcf9a",
+    "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
+    "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no",
+    "publishedAt": "2026-11-17T12:54:32.000Z"
+  },
+  {
     "id": "789e3a36c6e251c2",
     "title": "Brazil defeat Singapore 7-0 as Vinicius scores first-half hat-trick",
     "summary": "Brazil's star forward scored a 12-minute hat-trick in the record world champions' thumping of the hosts in a friendly.",
@@ -475,6 +583,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle?traffic_source=rss",
     "publishedAt": "2026-11-17T11:49:39.000Z"
+  },
+  {
+    "id": "4c0a9c32d62dc9a0",
+    "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+    "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo",
+    "publishedAt": "2026-11-17T11:49:01.000Z"
   },
   {
     "id": "961479e61fb9484f",
@@ -1231,122 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/17/invest-international-rail-services-boost-uk-eu-reset-andy-burnham",
     "publishedAt": "2026-11-17T05:00:06.000Z"
-  },
-  {
-    "id": "69f16d5ee62fcfa2",
-    "title": "Serbia’s Student List candidates to be sworn in as MPs after election triumph",
-    "summary": "Inaugural parliamentary session comes as ousted populist Aleksandar Vučić threatens mass protests of his own.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
-    "publishedAt": "2026-11-17T05:00:05.000Z"
-  },
-  {
-    "id": "ba9a52327e12e3eb",
-    "title": "Who are the Neets? UK youth job crisis in five charts",
-    "summary": "Bringing the number not in education, employment or training down from a decade high will be tough. Here’s why.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/17/who-are-neets-uk-youth-job-crisis-charts",
-    "publishedAt": "2026-11-17T05:00:04.000Z"
-  },
-  {
-    "id": "a50345e43907c5c2",
-    "title": "Nvidia rules out Jensen Huang comeback despite backing from big names",
-    "summary": "Nvidia is not considering reinstating the scandal-hit Jensen Huang as chief executive, despite a growing campaign for his return.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-17/nvidia-rules-out-jensen-huang-return/107394520",
-    "publishedAt": "2026-11-17T04:24:08.000Z"
-  },
-  {
-    "id": "18f77c5f2bf9a82b",
-    "title": "CFMEU pushed to get notorious Bandidos member hired on construction project, Big Build royal commission hears",
-    "summary": "Bikie Joel Leavitt, who has a criminal history including riot, affray and assaulting police, tells inquiry he can’t recall why union was pushing for him.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/17/cfmeu-bandidos-bikie-joel-leavitt-big-build-royal-commission-ntwnfb",
-    "publishedAt": "2026-11-17T03:51:23.000Z"
-  },
-  {
-    "id": "a997843cf22595e5",
-    "title": "‘Let me talk to Snez’: court hears recording of Sam Wood saying wife Snezana could recant domestic violence allegations",
-    "summary": "Fitness influencer’s lawyer calls comment during taped conversation between client and his father ‘ill-judged’ but denies it amounts to a suggestion of interfering with a witness.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/17/sam-wood-snezana-bail-domestic-violence-allegations-ntwnfb",
-    "publishedAt": "2026-11-17T03:27:05.000Z"
-  },
-  {
-    "id": "78f74af01219f09c",
-    "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
-    "summary": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
-    "publishedAt": "2026-11-17T03:12:54.000Z"
-  },
-  {
-    "id": "807cdc7043aa781e",
-    "title": "Robert Pattinson eyes his biggest role yet as James Bond",
-    "summary": "Twilight shot Robert Pattinson to stardom. But who would have guessed that 20 years later the vampire hit would be correctly predicting the next 007?",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-17/how-robert-pattinson-went-from-twilight-to-james-bond/107393970",
-    "publishedAt": "2026-11-17T03:09:32.000Z"
-  },
-  {
-    "id": "7f44e40be2ca71e7",
-    "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
-    "summary": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo",
-    "publishedAt": "2026-11-17T03:07:23.000Z"
-  },
-  {
-    "id": "c6cf2fe294c0008c",
-    "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
-    "summary": "The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
-    "publishedAt": "2026-11-17T02:52:56.000Z"
-  },
-  {
-    "id": "9772574d02ac3091",
-    "title": "MP declares shares in data centre developer before calling for moratorium",
-    "summary": "A Tasmanian independent MP who has tabled a bill for a moratorium on new data centres has declared shares in a property giant whose global development pipeline is almost 80 per cent data centres.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-17/peter-george-mp-data-centre-shares/107393668",
-    "publishedAt": "2026-11-17T02:49:00.000Z"
-  },
-  {
-    "id": "dc089e2d17ce3c82",
-    "title": "Dolores Huerta honored in ceremony at California state capitol",
-    "summary": "Labor leader was remembered for her advocacy and co-founding union that would become United Farm Workers.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/dolores-huerta-honored-california",
-    "publishedAt": "2026-11-17T02:42:22.000Z"
-  },
-  {
-    "id": "ef7ef8516cc1cef9",
-    "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
-    "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo",
-    "publishedAt": "2026-11-17T02:38:08.000Z"
-  },
-  {
-    "id": "325059606130af6e",
-    "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-    "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
-    "publishedAt": "2026-11-17T02:37:53.000Z"
   }
 ]
