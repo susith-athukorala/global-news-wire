@@ -1,5 +1,149 @@
 [
   {
+    "id": "fc7fe1669c57645a",
+    "title": "What do Democrats’ sweeping midterm wins mean for Trump’s ICE crackdown?",
+    "summary": "Despite House and Senate majorities, Democrats face a battle to enact legislation – but they have the power to conduct tough new oversight.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/democrats-blue-wave-trump-ice-crackdown",
+    "publishedAt": "2026-11-17T11:00:35.000Z"
+  },
+  {
+    "id": "91e8f27586443695",
+    "title": "New Orleans police arrest teen over beating death of homeless man ‘unable to defend himself’",
+    "summary": "Police say David Hyde, 68, left with shoe prints in face from kicks to head and prescription medication stolen in attack.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/new-orleans-police-homeless-man-death",
+    "publishedAt": "2026-11-17T11:00:34.000Z"
+  },
+  {
+    "id": "347f2f9c3f469485",
+    "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
+    "summary": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It's very popular, and here's how to think through the pros and the cons of the new technology.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
+    "publishedAt": "2026-11-17T11:00:00.000Z"
+  },
+  {
+    "id": "2bbd1e0c1bdc1eb6",
+    "title": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
+    "summary": "A former US Foreign Service officer ran a company that funded election adverts attacking Jeremy Corbyn’s Labour.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
+    "publishedAt": "2026-11-17T10:53:42.000Z"
+  },
+  {
+    "id": "feb3c2b9b9b512ec",
+    "title": "Don’t buy new tech this Black Friday: expert tips for buying refurbished phones and laptops",
+    "summary": "Tech on its last legs? Refurbished can be the cheaper, greener option.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2025/nov/27/expert-tips-buying-refurbished-tech-phones-laptop-uk",
+    "publishedAt": "2026-11-17T10:50:47.000Z"
+  },
+  {
+    "id": "0a0e369d3f8b767c",
+    "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+    "summary": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+    "publishedAt": "2026-11-17T10:47:18.000Z"
+  },
+  {
+    "id": "ebb2a14e940faf4a",
+    "title": "Trump arrives in Philippines to kick off Asia trip",
+    "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+    "publishedAt": "2026-11-17T10:43:55.000Z"
+  },
+  {
+    "id": "89a719b24b9b5a52",
+    "title": "Fomula One champion Fernando Alonso to race at Dakar Rally 2027",
+    "summary": "Fernando Alonso will make his return to the Dakar Rally 2027 in Morocco with the Leob and Aston Martin team.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
+    "publishedAt": "2026-11-17T10:42:42.000Z"
+  },
+  {
+    "id": "bbd0f183d729d393",
+    "title": "Former WH Smith chain TG Jones put up for sale after closing 130 stores",
+    "summary": "Modella Capital plans auction of high street retailer, which employs about 3,500 people, next year.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/17/wh-smith-tg-jones-sale-stores-modella-capita",
+    "publishedAt": "2026-11-17T10:33:01.000Z"
+  },
+  {
+    "id": "c0cc54c6a7cbd83b",
+    "title": "Why are five EU countries reviving plans to deport migrants to Rwanda?",
+    "summary": "Rwanda again proposed as a 'return hub' for deported migrants, but critics warn of potential human rights abuses.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/why-are-five-eu-countries-reviving-plans-to-deport-migrants-to-rwanda?traffic_source=rss",
+    "publishedAt": "2026-11-17T10:22:52.000Z"
+  },
+  {
+    "id": "0b72aa84efbbb0b1",
+    "title": "How new US chip restrictions on South East Asia will hit China",
+    "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo",
+    "publishedAt": "2026-11-17T10:22:09.000Z"
+  },
+  {
+    "id": "9af4a6c88f04a5c1",
+    "title": "More than 200 people jailed over crackdown on illegal gold mining",
+    "summary": "A court in Guinea has sentenced 22 former officials and 202 miners to prison over illegal gold mining in the northeast.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/guinea-sentences-200-people-prison-crackdown-illegal-gold-138202919",
+    "publishedAt": "2026-11-17T10:18:36.000Z"
+  },
+  {
+    "id": "1d832aa9ef899918",
+    "title": "Military jet crashes in Serbia and the pilot is killed, authorities say",
+    "summary": "Serbia's defense ministry says that a military jet crashed northwest of Belgrade, killing the pilot.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/military-jet-crashes-serbia-pilot-killed-authorities-138203005",
+    "publishedAt": "2026-11-17T10:17:36.000Z"
+  },
+  {
+    "id": "64563533e7b5cb56",
+    "title": "‘Master manipulator’ police officer should not be released early from UK prison, says ex-partner",
+    "summary": "Catherine Dobson calls for exception to England and Wales early release scheme for police who abuse position of trust.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/17/police-officer-early-release-catherine-dobson-michael-harvey",
+    "publishedAt": "2026-11-17T10:15:43.000Z"
+  },
+  {
+    "id": "68ce77760cb1a6f1",
+    "title": "Malaysia-France rare earths project to begin operations in early 2027, Macron says",
+    "summary": "A joint rare earths mining and processing venture between Malaysia and France is expected to begin operations in early 2027.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/malaysia-france-rare-earths-project-begin-operations-early-138201779",
+    "publishedAt": "2026-11-17T10:14:11.000Z"
+  },
+  {
+    "id": "345e0acb4ad9e09a",
+    "title": "Pope Leo says there is no change to agenda or priorities after his lung cancer surgery",
+    "summary": "Pope Leo XIV says his recent lung cancer surgery hasn't changed his agenda or outlook.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-leo-change-agenda-priorities-after-lung-cancer-138202271",
+    "publishedAt": "2026-11-17T10:14:10.000Z"
+  },
+  {
     "id": "7a039a8c49c38dd7",
     "title": "Japan urges creation of an Asian energy framework to counter oil crises",
     "summary": "Japanese Prime Minister Sanae Takaichi has proposed the creation of an Asian energy agency to help countries in the region cope with oil crises, such as the shocks from the Iran war.",
@@ -214,6 +358,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
     "publishedAt": "2026-11-17T08:12:06.000Z"
+  },
+  {
+    "id": "8729002410d12c29",
+    "title": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
+    "summary": "Canadian authorities say they have recovered 96 luxury vehicles destined for West Africa.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y1wr1535ko",
+    "publishedAt": "2026-11-17T08:11:20.000Z"
   },
   {
     "id": "ec207f4236748f6d",
@@ -1195,158 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
     "publishedAt": "2026-11-16T19:26:40.000Z"
-  },
-  {
-    "id": "507df2152d47db53",
-    "title": "Yemen's pro-government forces retreat to defend key port city of Aden",
-    "summary": "The Saudi-backed forces have been locked in fierce battles with the Iranian-backed Houthis along a mountain range overlooking the Bab el-Mandeb Strait.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-17/yemen-government-forces-retreat-bab-el-mandeb-strait/107392710",
-    "publishedAt": "2026-11-16T19:26:06.000Z"
-  },
-  {
-    "id": "08ed79d7ae2704e6",
-    "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
-    "summary": "Move comes as government forces withdraw from Red Sea coast to halt Houthi approach to interim capital Aden.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
-    "publishedAt": "2026-11-16T19:19:21.000Z"
-  },
-  {
-    "id": "f7b7a835333b17f5",
-    "title": "Thousands report difficulties accessing accounts online at major US banks",
-    "summary": "Customers report online access issues at major US banks, including Chase, Wells Fargo, and Bank of America.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
-    "publishedAt": "2026-11-16T19:18:10.000Z"
-  },
-  {
-    "id": "fbbc7948a3113f47",
-    "title": "How Milburn won over Labour on tackling rising youth unemployment",
-    "summary": "Labour grandee seems to have assuaged MPs’ nerves on need for welfare reform to tackle youth unemployment crisis.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/16/how-milburn-won-over-labour-tackling-rising-youth-unemployment",
-    "publishedAt": "2026-11-16T19:16:19.000Z"
-  },
-  {
-    "id": "4482076958058db2",
-    "title": "Army airstrike kills at least 13 in West Kordofan, says rights group",
-    "summary": "A rights group says an army airstrike killed at least 13 people.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/army-airstrike-kills-13-west-kordofan-rights-group-138185316",
-    "publishedAt": "2026-11-16T19:10:24.000Z"
-  },
-  {
-    "id": "f6c6d9695cdb7dc9",
-    "title": "Paraguay’s ousted president moved to military prison after reports of gym and suite in custody",
-    "summary": "Former Paraguayan President Santiago Pe&ntilde;a is being moved to a military prison as he awaits trial over the collapse of Ueno Bank.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/paraguays-ousted-president-moved-military-prison-after-reports-138186878",
-    "publishedAt": "2026-11-16T19:10:14.000Z"
-  },
-  {
-    "id": "68b193416d8760b3",
-    "title": "Cornell announces full review of Greek life after scrutiny over sexual assault case",
-    "summary": "The university will conduct a series of measures after a former student was gang-raped at a fraternity house two years ago.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/cornell-review-greek-life-sexual-assault-case",
-    "publishedAt": "2026-11-16T19:09:36.000Z"
-  },
-  {
-    "id": "35ae23b3dc7f40e6",
-    "title": "Is Israel’s Eisenkot bloc less right wing than Netanyahu?",
-    "summary": "An Israeli government without PM Netanyahu may be close, but a government without his politics is far less certain.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss",
-    "publishedAt": "2026-11-16T19:09:09.000Z"
-  },
-  {
-    "id": "c8cda33df40a6d18",
-    "title": "Russia fends off swarms of Ukrainian drones a day across its vast territory. But some get through",
-    "summary": "The skies from the Black Sea to Moscow buzzed overnight with hundreds of Ukrainian drones, keeping Russia’s air defenses busy for hours.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/russia-fends-off-swarms-ukrainian-drones-day-vast-138186480",
-    "publishedAt": "2026-11-16T19:07:08.000Z"
-  },
-  {
-    "id": "ab189d1163adde82",
-    "title": "UK investigating Russell Brand's message from behind bars",
-    "summary": "In a video uploaded to YouTube, his wife Laura Brand reads a statement in which her husband maintains his innocence.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-17/russell-brand-prison-message-read-by-laura-on-sunday-service/107392812",
-    "publishedAt": "2026-11-16T19:06:42.000Z"
-  },
-  {
-    "id": "3a910931f160ac9f",
-    "title": "Saudi Arabia challenged by Yemeni allies over ceding ground to Houthis",
-    "summary": "Strategy of redeploying forces to try to relieve siege of Taiz and protect Aden comes as Islamist group makes steady gains.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
-    "publishedAt": "2026-11-16T19:04:07.000Z"
-  },
-  {
-    "id": "45edaf2338125e32",
-    "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-    "summary": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
-    "publishedAt": "2026-11-16T18:49:26.000Z"
-  },
-  {
-    "id": "22ace48cde2383ec",
-    "title": "ICE agents pepper spray pregnant US citizen in California, video shows",
-    "summary": "Lizbeth Vargas Andrade, 23, was taken down by officers and arrested on her stomach during a protest, her attorney says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen",
-    "publishedAt": "2026-11-16T18:48:51.000Z"
-  },
-  {
-    "id": "010ec8bc472a1454",
-    "title": "The man with the golden touch: James Bond franchise is a money-spinner",
-    "summary": "Big screen debut of Ian Fleming’s creation in 1962, with Sean Connery as lead in Dr No, was start of marketing dream Robert Pattinson is now part of.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/16/man-with-golden-touch-james-bond-franchise-money-spinner",
-    "publishedAt": "2026-11-16T18:47:38.000Z"
-  },
-  {
-    "id": "c2ed9d00a9481a0d",
-    "title": "Devon police renewed shotgun licence of known abuser who later killed his wife",
-    "summary": "Ex-marine John Perkins, who also killed himself, had been violent to Kathryn Perkins over 42-year marriage, Exeter inquests hear.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/16/domestic-abuser-john-perkins-shotguns-kathryn-devon-police",
-    "publishedAt": "2026-11-16T18:46:53.000Z"
-  },
-  {
-    "id": "c94c46c55ad0cd46",
-    "title": "Woman accusing David Walliams of grooming her backs staggered age of consent call",
-    "summary": "Comments come after Mia Latter, who alleged she was raped by Russell Brand, had said she wanted a change in law.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/16/woman-accusing-david-walliams-grooming-backs-staggered-age-of-consent-call",
-    "publishedAt": "2026-11-16T18:30:20.000Z"
-  },
-  {
-    "id": "cf8497c0eb711955",
-    "title": "Anthropic recognises the risks to humanity – but is its governance really up to the job? | Nils Pratley",
-    "summary": "The Claude AI developer’s unique setup is supposedly high-minded, but still represents extraordinary power concentration.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/16/anthropic-claude-risks-to-humanity-governance-ai",
-    "publishedAt": "2026-11-16T18:18:57.000Z"
   }
 ]
