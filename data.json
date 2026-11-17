@@ -1,5 +1,32 @@
 [
   {
+    "id": "c9ade33180384ae7",
+    "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
+    "summary": "El Salvador's security minister has confirmed the troops will leave once kidnapped technicians are rescued.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+    "publishedAt": "2026-11-17T23:09:00.000Z"
+  },
+  {
+    "id": "b9d51cb275c5307f",
+    "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
+    "summary": "Students oppose appearance of self-described ‘race realist’ who made plagiarism claims against Jason Arday.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday",
+    "publishedAt": "2026-11-17T22:50:16.000Z"
+  },
+  {
+    "id": "89f77c210997212b",
+    "title": "Thomas Markle charged over child sex abuse material in Philippines",
+    "summary": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo",
+    "publishedAt": "2026-11-17T22:44:15.000Z"
+  },
+  {
     "id": "580314b276829813",
     "title": "Xi said China would welcome American students for exchanges. What's the reality?",
     "summary": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
@@ -394,6 +421,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
     "publishedAt": "2026-11-17T18:43:46.000Z"
+  },
+  {
+    "id": "3b6dc1ca1cc5a3cc",
+    "title": "Government backs welfare shake-up to prevent 'lost generation'",
+    "summary": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo",
+    "publishedAt": "2026-11-17T18:43:05.000Z"
   },
   {
     "id": "2ab58983706a81fd",
@@ -1152,6 +1188,15 @@
     "publishedAt": "2026-11-17T12:20:57.000Z"
   },
   {
+    "id": "0a0e369d3f8b767c",
+    "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+    "summary": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+    "publishedAt": "2026-11-17T12:18:08.000Z"
+  },
+  {
     "id": "01bd62afa7d540b2",
     "title": "Mozambique’s opposition leader stands trial over deadly 2024 protests",
     "summary": "Venancio Mondlane faces five charges, the most serious being instigating 'terrorism'.",
@@ -1303,50 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/tokyo-protests-after-suspected-russian-aircraft-violate-japanese-138201049",
     "publishedAt": "2026-11-17T11:06:14.000Z"
-  },
-  {
-    "id": "49b7ae670bfb51fd",
-    "title": "Bangladesh police clash with garment workers amid protests over wages",
-    "summary": "Protesters hurl bricks, torch vehicles and block the main highway between Dhaka and Mymensingh.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
-    "publishedAt": "2026-11-17T11:06:12.000Z"
-  },
-  {
-    "id": "9efce15ccb9c7114",
-    "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-    "summary": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
-    "publishedAt": "2026-11-17T11:00:39.000Z"
-  },
-  {
-    "id": "fc7fe1669c57645a",
-    "title": "What do Democrats’ sweeping midterm wins mean for Trump’s ICE crackdown?",
-    "summary": "Despite House and Senate majorities, Democrats face a battle to enact legislation – but they have the power to conduct tough new oversight.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/democrats-blue-wave-trump-ice-crackdown",
-    "publishedAt": "2026-11-17T11:00:35.000Z"
-  },
-  {
-    "id": "91e8f27586443695",
-    "title": "New Orleans police arrest teen over beating death of homeless man ‘unable to defend himself’",
-    "summary": "Police say David Hyde, 68, left with shoe prints in face from kicks to head and prescription medication stolen in attack.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/new-orleans-police-homeless-man-death",
-    "publishedAt": "2026-11-17T11:00:34.000Z"
-  },
-  {
-    "id": "347f2f9c3f469485",
-    "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
-    "summary": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It's very popular, and here's how to think through the pros and the cons of the new technology.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
-    "publishedAt": "2026-11-17T11:00:00.000Z"
   }
 ]
