@@ -1,5 +1,77 @@
 [
   {
+    "id": "34397ec1aa953dea",
+    "title": "Tobacco group Imperial Brands to axe up to 4,600 jobs as it uses more AI",
+    "summary": "Owner of JPS cigarettes, Golden Virginia tobacco, Blu vapes and Rizla has launched huge cost-cutting drive.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/17/uk-tobacco-imperial-brands-cut-jobs-cigarettes-ai",
+    "publishedAt": "2026-11-17T09:01:25.000Z"
+  },
+  {
+    "id": "696a1e498fca797f",
+    "title": "Actors in UK to get more rights over their ‘digital replicas’ in deal on AI protections",
+    "summary": "Agreement secured by Equity union gives actors rights over payment and consent when digital replicas are used.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/17/actors-uk-rights-digital-replicas-ai-protections",
+    "publishedAt": "2026-11-17T09:00:08.000Z"
+  },
+  {
+    "id": "2b2bac2136793b21",
+    "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+    "summary": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po",
+    "publishedAt": "2026-11-17T08:53:09.000Z"
+  },
+  {
+    "id": "f2cc3b8fc278a2cb",
+    "title": "'I spent more than two days waiting in A&E' - NHS bids to end corridor care",
+    "summary": "The Welsh government has vowed to speed up emergency care and help patients get home sooner.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6gm3912vvvyo",
+    "publishedAt": "2026-11-17T08:51:40.000Z"
+  },
+  {
+    "id": "ad4dccd65a3607c4",
+    "title": "Irish ‌‌‌‌boxer Lee Reeves, 31, dies three months after sustaining injuries",
+    "summary": "Lee Reeves died in Limerick three months after sustaining serious injuries in his bout against Gary Cully in Dublin.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss",
+    "publishedAt": "2026-11-17T08:41:21.000Z"
+  },
+  {
+    "id": "676314db585952ee",
+    "title": "Communications watchdog leadership reversed findings of draft report into ABC Four Corners program, FoI documents reveal",
+    "summary": "Documents show draft Acma reports backed reporting of Gold Walkley award-winning journalist Mark Willacy about Australian War Memorial.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/17/communications-watchdog-leadership-reversed-findings-of-draft-report-into-abc-four-corners-program-foi-documents-ntwnfb",
+    "publishedAt": "2026-11-17T08:33:52.000Z"
+  },
+  {
+    "id": "5045b67f0a52770b",
+    "title": "South Korea cheating scandal: Are AI smart glasses a threat to exams?",
+    "summary": "A student with near-perfect scores on two tests has confessed to using artificial intelligence.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams?traffic_source=rss",
+    "publishedAt": "2026-11-17T08:15:32.000Z"
+  },
+  {
+    "id": "6c7e7d956e314bc5",
+    "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
+    "summary": "Moscow-installed governor says traffic suspended after second attack on bridge in two days.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
+    "publishedAt": "2026-11-17T08:12:06.000Z"
+  },
+  {
     "id": "ec207f4236748f6d",
     "title": "UK unemployment unexpectedly eases to 4.6%, as government prepares to release Milburn report",
     "summary": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work.",
@@ -34,6 +106,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/17/waitrose-christmas-ad-launch-keira-knightley",
     "publishedAt": "2026-11-17T08:00:07.000Z"
+  },
+  {
+    "id": "0922d1c918af0e5c",
+    "title": "Japan sends up jets after alleged Russian incursion of its airspace",
+    "summary": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o",
+    "publishedAt": "2026-11-17T07:44:17.000Z"
   },
   {
     "id": "2a25e8c6bdfa0819",
@@ -1267,86 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
     "publishedAt": "2026-11-16T16:58:46.000Z"
-  },
-  {
-    "id": "51d08ee35cffa749",
-    "title": "Pope bids 'hasta luego' to his second homeland of Peru as he wraps up marathon South American trip",
-    "summary": "Pope Leo XIV has bid farewell to his beloved homeland of Peru.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-bids-hasta-luego-homeland-peru-wraps-marathon-138178866",
-    "publishedAt": "2026-11-16T16:58:41.000Z"
-  },
-  {
-    "id": "4e32932ee6d39322",
-    "title": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
-    "summary": "Many countries surprised to see first version delivered with more than four days of negotiation still remaining.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
-    "publishedAt": "2026-11-16T16:54:42.000Z"
-  },
-  {
-    "id": "49a1ce094a2bb655",
-    "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
-    "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
-    "publishedAt": "2026-11-16T16:48:47.000Z"
-  },
-  {
-    "id": "2a1f24c55051caa1",
-    "title": "UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election",
-    "summary": "French Football Federation chief Diallo emerges as a strong challenger in FIFA's presidential election before deadline.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss",
-    "publishedAt": "2026-11-16T16:46:05.000Z"
-  },
-  {
-    "id": "115d73dd03914851",
-    "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
-    "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
-    "publishedAt": "2026-11-16T16:21:40.000Z"
-  },
-  {
-    "id": "ddcd7a9ae2443227",
-    "title": "AI models ‘weak and fallible’ on climate science, UN-backed study reports",
-    "summary": "While mostly accurate describing simple facts, models pivoted to denial and wrong answers when challenged.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31",
-    "publishedAt": "2026-11-16T16:05:58.000Z"
-  },
-  {
-    "id": "fe125fe61fb05f62",
-    "title": "Surge of US datacenters adds equivalent of Denmark’s annual emissions, study finds",
-    "summary": "‘Hyperscaler’ datacenters across country draw upon dirtier power sources to meet vast energy needs, research shows.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/datacenter-emissions-study",
-    "publishedAt": "2026-11-16T16:00:47.000Z"
-  },
-  {
-    "id": "7953ff575be7b302",
-    "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-    "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
-    "publishedAt": "2026-11-16T15:40:16.000Z"
-  },
-  {
-    "id": "f08c017668fe1aea",
-    "title": "French football head Philippe Diallo to fight Infantino for Fifa presidency",
-    "summary": "The French Football Federation president, Philippe Diallo, has been confirmed as Uefa’s surprise late choice to run for the Fifa presidency. The search for a Uefa-backed candidate to challenge Gianni Infantino was taken to the wire, with Wednesday the deadline for those planning to contest the Fifa election in March.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/football/2026/nov/16/philippe-diallo-fifa-gianni-infantino-president-french-football-federation",
-    "publishedAt": "2026-11-16T15:27:30.000Z"
   }
 ]
