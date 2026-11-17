@@ -1,5 +1,32 @@
 [
   {
+    "id": "770f8c9685d65589",
+    "title": "JD Vance blames Democrats for flight stoppage, claiming ‘obsession with men in women’s sports’",
+    "summary": "The stoppage was seemingly caused by the transition from copper telecommunication lines.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/jd-vance-democrats-trans-sports-flight-stoppage",
+    "publishedAt": "2026-11-17T14:20:30.000Z"
+  },
+  {
+    "id": "77727afd7ca4dd09",
+    "title": "Five people injured amid severe turbulence on JetBlue flight to Florida",
+    "summary": "Some passengers were taken to hospital after flight safely landed at Fort-Lauderdale-Hollywood airport.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/five-injured-turbulence-jetblue-flight",
+    "publishedAt": "2026-11-17T14:20:20.000Z"
+  },
+  {
+    "id": "25373c1bdd5f2dd8",
+    "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
+    "summary": "Settler group also sanctioned for blocking Gaza aid as foreign secretary calls for 'protecting the two-state solution'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss",
+    "publishedAt": "2026-11-17T14:09:08.000Z"
+  },
+  {
     "id": "14f647f93bf67402",
     "title": "NHS gets £500m boost in Wales' first budget under Plaid Cymru",
     "summary": "Health spending will rise, but the government says it is grappling with \"tight\" public finances.",
@@ -891,6 +918,15 @@
     "publishedAt": "2026-11-17T06:18:03.000Z"
   },
   {
+    "id": "975ffc35667c2418",
+    "title": "Woman who got hooked on nasal spray for 10 years says it cost her thousands",
+    "summary": "Louise Gough says her dependence on decongestant nasal sprays left her feeling like a prisoner.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cj93ry10rl11o",
+    "publishedAt": "2026-11-17T06:12:23.000Z"
+  },
+  {
     "id": "dd15d3b807fb494b",
     "title": "Nursing union 'dissatisfied' with safe staffing legislation",
     "summary": "Health Minister Robbie Butler introduced the Health and Social Care (Staffing) bill in the assembly on Monday.",
@@ -1251,6 +1287,15 @@
     "publishedAt": "2026-11-17T00:21:19.000Z"
   },
   {
+    "id": "458954e371fb7479",
+    "title": "Customers report service outages at major US banks",
+    "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o",
+    "publishedAt": "2026-11-17T00:18:01.000Z"
+  },
+  {
     "id": "788eef3f42aae51f",
     "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
     "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
@@ -1303,50 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/16/nx-s1-6038924/brain-cell-mapping-lays-groundwork-for-better-treatments-for-conditions-like-dementia",
     "publishedAt": "2026-11-16T23:48:15.000Z"
-  },
-  {
-    "id": "5af00c545ae7fdad",
-    "title": "Paraguay ex-president moved to military jail amid special treatment reports",
-    "summary": "Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
-    "publishedAt": "2026-11-16T23:44:32.000Z"
-  },
-  {
-    "id": "097e0cac90c1178b",
-    "title": "Guatemala ramps up security operations following declaration of state of siege",
-    "summary": "Guatemala's interior and defense ministers have inspected security operations in two departments bordering Honduras.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/guatemala-ramps-security-operations-declaration-state-siege-138191556",
-    "publishedAt": "2026-11-16T23:32:21.000Z"
-  },
-  {
-    "id": "2dd55a87cff4cb7b",
-    "title": "The AI start-ups fixing India's broken roads and messy land records",
-    "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo",
-    "publishedAt": "2026-11-16T23:25:53.000Z"
-  },
-  {
-    "id": "52a941d4d7398150",
-    "title": "Labor announces policy backflip to allow more backpackers to work in regional Australia",
-    "summary": "Number of people allowed to stay for third year on holiday maker visa to be increased from 5,000 to 25,000 under revised plan.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
-    "publishedAt": "2026-11-16T23:21:46.000Z"
-  },
-  {
-    "id": "48d014c98c102a78",
-    "title": "Five EU countries announce migrant deportation centre in Rwanda",
-    "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw987343352go",
-    "publishedAt": "2026-11-16T23:20:45.000Z"
   }
 ]
