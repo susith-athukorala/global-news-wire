@@ -1,5 +1,68 @@
 [
   {
+    "id": "2538578688cbe576",
+    "title": "Scammed migrant workers in UK to be considered possible victims of modern slavery",
+    "summary": "Home Office changes policy after legal challenge over case of care worker scammed out of £22,000.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/17/scammed-migrant-workers-modern-slavery-home-office",
+    "publishedAt": "2026-11-17T15:00:15.000Z"
+  },
+  {
+    "id": "d42da70fe4fe149f",
+    "title": "‘Chloe’s policy’ aims to prevent repeat of case of Treasury worker who took her own life",
+    "summary": "Exclusive: Parents of Chloe Moffat urge employers to treat staff facing allegations in a kinder, more human way.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/17/chloe-moffat-policy-parents-treasury-worker-employers",
+    "publishedAt": "2026-11-17T15:00:14.000Z"
+  },
+  {
+    "id": "f72e11ea1ec669a1",
+    "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
+    "summary": "A CNN report quoting unnamed US officials alleges Tehran is developing plans for an attack on officials in Washington.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss",
+    "publishedAt": "2026-11-17T14:59:39.000Z"
+  },
+  {
+    "id": "8ae6c9d26cd71a13",
+    "title": "US senators demand FAA pause upgrades linked to nationwide ground stop",
+    "summary": "Thousands of routers used in communications systems are slated to be replaced, raising the risk of more problems.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/us-senators-demand-faa-pause-upgrades-linked-to-nationwide-ground-stop?traffic_source=rss",
+    "publishedAt": "2026-11-17T14:57:33.000Z"
+  },
+  {
+    "id": "13af9aa1fa9c8072",
+    "title": "Jensen Huang’s departure as Nvidia CEO becomes a political proxy war",
+    "summary": "Huang’s exit sharpens debate over US stance towards Beijing; and as outages increase, do you get the feeling nothing works?",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china",
+    "publishedAt": "2026-11-17T14:50:24.000Z"
+  },
+  {
+    "id": "9d83a16f0eae6004",
+    "title": "Hundreds protest against ex-border patrol chief Greg Bovino at Rutgers University talk",
+    "summary": "New Jersey university’s Republicans club invited Bovino, who oversaw Trump’s ICE surges, to speak on campus.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/protest-greg-bovino-rutgers-university",
+    "publishedAt": "2026-11-17T14:49:01.000Z"
+  },
+  {
+    "id": "c3508966f37858d7",
+    "title": "Bessent vs Lutnick: Who is winning the China chip debate?",
+    "summary": "A rift has emerged in Trump’s cabinet over China’s access to advanced AI chips as export controls tighten.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/17/bessent-vs-lutnick-who-is-winning-the-china-chip-debate?traffic_source=rss",
+    "publishedAt": "2026-11-17T14:46:37.000Z"
+  },
+  {
     "id": "770f8c9685d65589",
     "title": "JD Vance blames Democrats for flight stoppage, claiming ‘obsession with men in women’s sports’",
     "summary": "The stoppage was seemingly caused by the transition from copper telecommunication lines.",
@@ -1285,68 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
     "publishedAt": "2026-11-17T00:21:19.000Z"
-  },
-  {
-    "id": "458954e371fb7479",
-    "title": "Customers report service outages at major US banks",
-    "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o",
-    "publishedAt": "2026-11-17T00:18:01.000Z"
-  },
-  {
-    "id": "788eef3f42aae51f",
-    "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-    "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o",
-    "publishedAt": "2026-11-17T00:09:54.000Z"
-  },
-  {
-    "id": "f62dbc036a9bb1d8",
-    "title": "Kidnap, child marriage and poverty: Why millions of Nigerian children can't go to school",
-    "summary": "BBC World Service launches programme in Hausa for out-of-school children in West Africa.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo",
-    "publishedAt": "2026-11-17T00:08:19.000Z"
-  },
-  {
-    "id": "f1fb5ad4d2079fac",
-    "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
-    "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko",
-    "publishedAt": "2026-11-17T00:00:03.000Z"
-  },
-  {
-    "id": "e4c7070c0b6da858",
-    "title": "We couldn't afford a house alone, so we bought one with strangers",
-    "summary": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo",
-    "publishedAt": "2026-11-17T00:00:02.000Z"
-  },
-  {
-    "id": "a34e81dbcf9976ab",
-    "title": "Africa: Trading in yuan",
-    "summary": "The dollar has long ruled Africa's financial landscape. But as more countries turn to China's yuan, the balance of economic power could be shifting.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan",
-    "publishedAt": "2026-11-16T23:49:35.000Z"
-  },
-  {
-    "id": "db05161afe797b34",
-    "title": "Brain cell mapping lays groundwork for better treatments for conditions like dementia",
-    "summary": "A major effort from brain researchers around the world has yielded a cellular atlas of the basal ganglia — structures key to learning and controlling motor skills.",
-    "category": "Science",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6038924/brain-cell-mapping-lays-groundwork-for-better-treatments-for-conditions-like-dementia",
-    "publishedAt": "2026-11-16T23:48:15.000Z"
   }
 ]
