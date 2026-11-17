@@ -1,5 +1,59 @@
 [
   {
+    "id": "6486c29770631463",
+    "title": "Simply telling the AA about my minor no-fault, no-claim prang doubled my insurance quote",
+    "summary": "A recent £364 renewal quote suddenly increased to an extortionate £796.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/17/no-fault-no-claim-minor-car-accident-doubled-insurance-renewal-quote",
+    "publishedAt": "2026-11-17T07:00:08.000Z"
+  },
+  {
+    "id": "71566e5ba7c129a7",
+    "title": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
+    "summary": "New tech wealth, amassed with remarkable speed, is now washing up on British shores.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
+    "publishedAt": "2026-11-17T07:00:07.000Z"
+  },
+  {
+    "id": "46e5fa49c23d71dc",
+    "title": "Tokyo protests after two suspected Russian aircraft violate Japanese airspace",
+    "summary": "Japan said it has protested to Moscow after two suspected Russian warplanes temporarily entered Japanese airspace off the country’s southwestern coast on Tuesday as tensions escalate between the two sides.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/tokyo-protests-after-suspected-russian-aircraft-violate-japanese-138201049",
+    "publishedAt": "2026-11-17T06:57:20.000Z"
+  },
+  {
+    "id": "b6868768454bf25a",
+    "title": "‘Disgusted by it’: body of Melbourne Cup race horse found dumped in Sydney skip bin",
+    "summary": "So You Are placed eighth in race just two weeks ago and was put down after a severe bout of colic.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb",
+    "publishedAt": "2026-11-17T06:39:24.000Z"
+  },
+  {
+    "id": "9efce15ccb9c7114",
+    "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+    "summary": "Organisers say up to 10,000 people could join the next round of demonstrations ahead of the US president’s arrival in Manila for the Asean summit.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+    "publishedAt": "2026-11-17T06:37:35.000Z"
+  },
+  {
+    "id": "cb0c5eb2fbafeb96",
+    "title": "Aboriginal mother allegedly kicked off a bus in regional NSW because her baby was crying",
+    "summary": "The NSW transport department says passenger safety is its ‘highest priority’ and the driver is no longer employed by the operator.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/17/aboriginal-mother-allegedly-kicked-off-bus-crying-baby-ntwnfb",
+    "publishedAt": "2026-11-17T06:18:03.000Z"
+  },
+  {
     "id": "dd15d3b807fb494b",
     "title": "Nursing union 'dissatisfied' with safe staffing legislation",
     "summary": "Health Minister Robbie Butler introduced the Health and Social Care (Staffing) bill in the assembly on Monday.",
@@ -7,6 +61,24 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cvze7n80rnj1o",
     "publishedAt": "2026-11-17T06:08:37.000Z"
+  },
+  {
+    "id": "05357c8c82618a77",
+    "title": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
+    "summary": "As Eisenkot’s bloc moves to form a government and courts the ultra-Orthodox, Gaza genocide and settler pogroms continue.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/palestine-weekly-israels-political-reshuffle-as-the-occupation-grinds-on?traffic_source=rss",
+    "publishedAt": "2026-11-17T06:06:58.000Z"
+  },
+  {
+    "id": "0bb382b8e6bd740f",
+    "title": "Is £750m a week the real cost of rejoining the EU – or the Brexit bus myth all over again?",
+    "summary": "A new analysis from some of the architects of the Vote Leave campaign is very selective with its figures.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/17/cost-of-rejoining-eu-vote-leave-brexit-bus-myth-again",
+    "publishedAt": "2026-11-17T06:00:05.000Z"
   },
   {
     "id": "ee42972f72665ff5",
@@ -115,6 +187,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
     "publishedAt": "2026-11-17T05:00:05.000Z"
+  },
+  {
+    "id": "ba9a52327e12e3eb",
+    "title": "Who are the Neets? UK youth job crisis in five charts",
+    "summary": "Bringing the number not in education, employment or training down from a decade high will be tough. Here’s why.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/17/who-are-neets-uk-youth-job-crisis-charts",
+    "publishedAt": "2026-11-17T05:00:04.000Z"
   },
   {
     "id": "a50345e43907c5c2",
@@ -1026,6 +1107,15 @@
     "publishedAt": "2026-11-16T17:36:07.000Z"
   },
   {
+    "id": "21d8d76d09ce873d",
+    "title": "Beckham firm sues after fragrance found for sale in discount store",
+    "summary": "Brand reacted with ‘shock and dismay’ after products were also found in a ‘bargain bin inside a gas station’",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
+    "publishedAt": "2026-11-16T17:35:59.000Z"
+  },
+  {
     "id": "271b4d9fda3acde5",
     "title": "Pakistan's imprisoned ex-leader Imran Khan appeals for urgent medical care",
     "summary": "Imprisoned former Prime Minister Imran Khan has appealed to Pakistan's top judges for urgent medical treatment for himself and his wife.",
@@ -1258,95 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o",
     "publishedAt": "2026-11-16T14:48:55.000Z"
-  },
-  {
-    "id": "dab8bd79bf4beca4",
-    "title": "Infantino made things worse at FIFA than Blatter , says Jurgen Klopp",
-    "summary": "The Germany coach believes anyone who replaces the FIFA president should care deeply about the future of football.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/16/infantino-made-things-worse-at-fifa-than-blatter-says-jurgen-klopp?traffic_source=rss",
-    "publishedAt": "2026-11-16T14:36:23.000Z"
-  },
-  {
-    "id": "57712982eea82498",
-    "title": "Belgium’s Romelu Lukaku retires from international football",
-    "summary": "Lukaku is Belgium's all-time leading goalscorer with 94 goals in 135 games and is fifth on men's all-time scoring list.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/16/belgiums-romelu-lukaku-retires-from-international-football?traffic_source=rss",
-    "publishedAt": "2026-11-16T14:35:00.000Z"
-  },
-  {
-    "id": "3a1007cf823fab4f",
-    "title": "Passing bill to speed up gas projects and datacenters would be ‘serious mistake’, Al Gore says",
-    "summary": "Former vice-president at Cop31 urges lawmakers to rethink contentious bipartisan Baaja bill advanced by the US Senate.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/al-gore-baaja-cop-31-climate",
-    "publishedAt": "2026-11-16T14:34:17.000Z"
-  },
-  {
-    "id": "f2f8d0cb11d172bf",
-    "title": "Grammys 2027: Raye, Rosalía and Olivia Rodrigo lead female-heavy nominations",
-    "summary": "The race is led by a number of female artists, also including Phoebe Bridgers and Ella Langley, with Beyoncé receiving her record-breaking 100th nomination.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/16/grammy-nominations-2027-female-artists",
-    "publishedAt": "2026-11-16T14:31:37.000Z"
-  },
-  {
-    "id": "2c96eaf38cc42044",
-    "title": "Democrat writes off Trump’s attempt to blame party for flight grounding as ‘absurd’",
-    "summary": "Dan Koh, an incoming House representative and ex-Biden staffer, blasts Trump for blaming previous administration.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/trump-flight-grounding-democrats-blame",
-    "publishedAt": "2026-11-16T14:24:21.000Z"
-  },
-  {
-    "id": "72ba40acde8d0cb8",
-    "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-    "summary": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqp83nk673reo",
-    "publishedAt": "2026-11-16T14:22:36.000Z"
-  },
-  {
-    "id": "f78c85fa03c803c4",
-    "title": "‘My arms are empty’: Tragedy strikes Gaza family after baby dies from cold",
-    "summary": "A nine-month-old baby has died from hypothermia inside his family’s displacement tent in Gaza, as winter returns.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/16/my-arms-are-empty-gaza-mothers-brace-for-another-winter-of-cold-and-fear?traffic_source=rss",
-    "publishedAt": "2026-11-16T14:20:43.000Z"
-  },
-  {
-    "id": "d50ee4bf35c97155",
-    "title": "Proposed NSW laws to allow coalmine to increase production pose ‘serious corruption risk’",
-    "summary": "Bill to authorise expansion at Mount Pleasant coalmine, subject to a landmark high court decision, will be debated this week.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/17/proposed-nsw-laws-to-allow-coalmine-to-increase-production-pose-serious-corruption-risk",
-    "publishedAt": "2026-11-16T14:00:21.000Z"
-  },
-  {
-    "id": "8ac62ad434a5ae35",
-    "title": "Mushroom lovers in UK told to avoid grow kits owing to invasive species risk",
-    "summary": "Popular edible golden oyster classed as high-risk invasive species because of negative impact on woodlands.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/16/mushroom-lovers-uk-told-to-avoid-grow-kits-invasive-species-golden-oyster",
-    "publishedAt": "2026-11-16T14:00:19.000Z"
-  },
-  {
-    "id": "e4690168895a1059",
-    "title": "Jim Ratcliffe’s Ineos Group settles with Ben Ainslie over America’s Cup dispute",
-    "summary": "",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/sport/2026/nov/16/jim-ratcliffe-ineos-group-settles-ben-ainslie-americas-cup-dispute-sailing",
-    "publishedAt": "2026-11-16T13:55:19.000Z"
   }
 ]
