@@ -1,5 +1,14 @@
 [
   {
+    "id": "a50345e43907c5c2",
+    "title": "Nvidia rules out Jensen Huang comeback despite backing from big names",
+    "summary": "Nvidia is not considering reinstating the scandal-hit Jensen Huang as chief executive, despite a growing campaign for his return.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-17/nvidia-rules-out-jensen-huang-return/107394520",
+    "publishedAt": "2026-11-17T04:24:08.000Z"
+  },
+  {
     "id": "18f77c5f2bf9a82b",
     "title": "CFMEU pushed to get notorious Bandidos member hired on construction project, Big Build royal commission hears",
     "summary": "Bikie Joel Leavitt, who has a criminal history including riot, affray and assaulting police, tells inquiry he can’t recall why union was pushing for him.",
@@ -1339,14 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cvde1klewg88o",
     "publishedAt": "2026-11-16T12:42:14.000Z"
-  },
-  {
-    "id": "ea3f9a11aeb7aeba",
-    "title": "Man sentenced over 'horrific' attempted murder of three children",
-    "summary": "Riad Bouchaker was sentenced after the attempted murder of three children in November 2023.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o",
-    "publishedAt": "2026-11-16T12:27:15.000Z"
   }
 ]
