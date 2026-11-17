@@ -1,5 +1,86 @@
 [
   {
+    "id": "dd15d3b807fb494b",
+    "title": "Nursing union 'dissatisfied' with safe staffing legislation",
+    "summary": "Health Minister Robbie Butler introduced the Health and Social Care (Staffing) bill in the assembly on Monday.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cvze7n80rnj1o",
+    "publishedAt": "2026-11-17T06:08:37.000Z"
+  },
+  {
+    "id": "ee42972f72665ff5",
+    "title": "European-made pesticides named in 1,605 poisoning reports in Brazil last year",
+    "summary": "About a third of cases involved chemicals banned for use on EU farms, according to investigation by Unearthed and Public Eye.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports",
+    "publishedAt": "2026-11-17T06:00:05.000Z"
+  },
+  {
+    "id": "59d1ec0021073338",
+    "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+    "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo",
+    "publishedAt": "2026-11-17T05:59:01.000Z"
+  },
+  {
+    "id": "6a0b0cc96336930c",
+    "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+    "summary": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
+    "publishedAt": "2026-11-17T05:57:38.000Z"
+  },
+  {
+    "id": "e4469ca7e6b8013b",
+    "title": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
+    "summary": "The ongoing Israeli assault continues to have disastrous consequences for the people of southern Lebanon.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/17/stories-of-survival-and-pain-children-amid-israels-war-on-south-lebanon?traffic_source=rss",
+    "publishedAt": "2026-11-17T05:50:29.000Z"
+  },
+  {
+    "id": "b471e8f00d509853",
+    "title": "Leonid meteor shower 2026: When and where to see it from where you live",
+    "summary": "The Leonids, among the year's fastest meteor showers, peak on November 17-18. Find the best time to watch in your city.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/leonid-meteor-shower-2026-when-and-where-to-see-it-from-where-you-live?traffic_source=rss",
+    "publishedAt": "2026-11-17T05:42:03.000Z"
+  },
+  {
+    "id": "30e6013ab6dadb08",
+    "title": "Some Afghan women quietly defy Taliban bans",
+    "summary": "In the shadows of the Afghan capital’s bustling streets, many women live in a hidden world, secretly defying the laws imposed on them when the Taliban seized power in August 2021.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/afghan-women-quietly-defy-taliban-bans-opening-secret-138200702",
+    "publishedAt": "2026-11-17T05:40:21.000Z"
+  },
+  {
+    "id": "55554d320a5deb6d",
+    "title": "Woman whose baby died after free birth didn’t know she was pregnant with twins, NSW inquest hears",
+    "summary": "Inquest continues into deaths of four babies born in free births or home births in northern rivers.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/17/nsw-inquest-free-birth-keeper-baby-death-ntwnfb",
+    "publishedAt": "2026-11-17T05:37:33.000Z"
+  },
+  {
+    "id": "5fc372fa1cae90d0",
+    "title": "US bank outage: What caused Chase problems and Zelle payment delays?",
+    "summary": "A Chase software bug disrupted US banking transactions and delayed some Zelle payments. Here's what happened.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays?traffic_source=rss",
+    "publishedAt": "2026-11-17T05:19:34.000Z"
+  },
+  {
     "id": "131aa1f053f92c0c",
     "title": "Russia, Saudi Arabia and Australia named as biggest CO2 exporters in history",
     "summary": "Analysis of fossil fuel exports since 1850 differs from most assessments – which look at countries where CO 2 is released.",
@@ -81,6 +162,15 @@
     "publishedAt": "2026-11-17T03:09:32.000Z"
   },
   {
+    "id": "7f44e40be2ca71e7",
+    "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+    "summary": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo",
+    "publishedAt": "2026-11-17T03:07:23.000Z"
+  },
+  {
     "id": "c6cf2fe294c0008c",
     "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
     "summary": "The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
@@ -153,6 +243,15 @@
     "publishedAt": "2026-11-17T01:38:13.000Z"
   },
   {
+    "id": "f95f1206c26ca143",
+    "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+    "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko",
+    "publishedAt": "2026-11-17T01:26:01.000Z"
+  },
+  {
     "id": "4ba609ef4470bd06",
     "title": "Truck driver fired for ‘unsafe’ use of smartglasses in first reported sacking over device in Australia",
     "summary": "Toll employee Ricardo Martins Silva used smartglasses to take photos at an LPG terminal despite the risk of an explosion caused by an electrical spark, a court heard.",
@@ -223,6 +322,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o",
     "publishedAt": "2026-11-17T00:09:54.000Z"
+  },
+  {
+    "id": "f62dbc036a9bb1d8",
+    "title": "Kidnap, child marriage and poverty: Why millions of Nigerian children can't go to school",
+    "summary": "BBC World Service launches programme in Hausa for out-of-school children in West Africa.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo",
+    "publishedAt": "2026-11-17T00:08:19.000Z"
   },
   {
     "id": "f1fb5ad4d2079fac",
@@ -349,6 +457,24 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo",
     "publishedAt": "2026-11-16T23:12:24.000Z"
+  },
+  {
+    "id": "270429fc85654577",
+    "title": "Taking Korea's toughest exam from behind bars",
+    "summary": "Eleven convicts at the Mandela Boys' School will be among the thousands of young Koreans taking the country's hardest exam, the Suneung.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmewvxg855yno",
+    "publishedAt": "2026-11-16T23:09:49.000Z"
+  },
+  {
+    "id": "2eb6e50e61c9384b",
+    "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
+    "summary": "Leave Shenzhen's tech-flecked city skyline and you run into the challenges confronting Xi's China.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o",
+    "publishedAt": "2026-11-16T23:07:20.000Z"
   },
   {
     "id": "b06a32c216ab7d08",
@@ -1222,131 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/sport/2026/nov/16/jim-ratcliffe-ineos-group-settles-ben-ainslie-americas-cup-dispute-sailing",
     "publishedAt": "2026-11-16T13:55:19.000Z"
-  },
-  {
-    "id": "40b384f11ceaea2f",
-    "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
-    "summary": "Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
-    "publishedAt": "2026-11-16T13:51:25.000Z"
-  },
-  {
-    "id": "c697da3e7332f8ef",
-    "title": "Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb",
-    "summary": "Houthis edge closer to Aden as Yemeni forces retreat from the Red Sea coast, threatening global maritime security.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/houthis-edge-closer-to-aden-as-yemeni-forces-pull-out-of-bab-al-mandeb?traffic_source=rss",
-    "publishedAt": "2026-11-16T13:45:54.000Z"
-  },
-  {
-    "id": "d6a01bde7685ca98",
-    "title": "Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care",
-    "summary": "The Pakistan Tehreek-e-Insaf party founder says court orders on his care were ignored and he ‘may not return alive’.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/jailed-pakistan-ex-pm-imran-khan-writes-to-judges-seeks-vital-medical-care?traffic_source=rss",
-    "publishedAt": "2026-11-16T13:45:50.000Z"
-  },
-  {
-    "id": "6e6d1cd5a3d69d17",
-    "title": "Gérard Depardieu drops appeal against sexual assault conviction",
-    "summary": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o",
-    "publishedAt": "2026-11-16T13:40:56.000Z"
-  },
-  {
-    "id": "13ca5ddebe72b9fb",
-    "title": "Under-threat lidos get lifeline as Andy Burnham sets up fund to rebuild pools",
-    "summary": "Move reflects growing demand for outdoor swimming as Britain heats up and follows campaign by MPs.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/16/lidos-lifeline-andy-burnham-fund-rebuild-outdoor-pools",
-    "publishedAt": "2026-11-16T13:35:49.000Z"
-  },
-  {
-    "id": "9255e5d8b08b8cc2",
-    "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-    "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo",
-    "publishedAt": "2026-11-16T13:34:22.000Z"
-  },
-  {
-    "id": "c49220e11795961c",
-    "title": "Netanyahu rival demands probe into PM's office over election fraud claims",
-    "summary": "Benjamin Netanyahu's main rival, Gadi Eisenkot, is demanding an investigation into the Israeli Prime Minister's Office, following explosive allegations it may have fabricated claims of electoral fraud.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-17/benjamin-netanyahu-gadi-eisenkot-call-for-investigation/107392590",
-    "publishedAt": "2026-11-16T13:33:14.000Z"
-  },
-  {
-    "id": "ba6ccce3f0c5c200",
-    "title": "International student enrollments at US universities plunge this fall, data shows",
-    "summary": "Report finds fewer international students studying in US amid Trump’s crackdowns on immigration and education.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/us-international-student-enrollment-trump",
-    "publishedAt": "2026-11-16T13:32:52.000Z"
-  },
-  {
-    "id": "495610e1e9d7ad86",
-    "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
-    "summary": "EU foreign policy chief Kaja Kallas says Russian President Vladimir Putin is making maximalist demands.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss",
-    "publishedAt": "2026-11-16T13:28:23.000Z"
-  },
-  {
-    "id": "21d8d76d09ce873d",
-    "title": "Beckham firm sues after fragrance found for sale in Poundland",
-    "summary": "Brand reacted with ‘shock and dismay’ after products were also found in a ‘bargain bin inside a gas station’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
-    "publishedAt": "2026-11-16T13:26:35.000Z"
-  },
-  {
-    "id": "fb6772df55822245",
-    "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-    "summary": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko",
-    "publishedAt": "2026-11-16T13:19:33.000Z"
-  },
-  {
-    "id": "82e8729347a01b5f",
-    "title": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
-    "summary": "An American basketball player has been arrested in Nigeria for allegedly attempting to smuggle 33.95kg (75lb) of marijuana into the country.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
-    "publishedAt": "2026-11-16T13:16:36.000Z"
-  },
-  {
-    "id": "e9712354bcd6d9b6",
-    "title": "Ministry of Justice investigating Russell Brand message from prison claiming he is not guilty",
-    "summary": "PM’s spokesperson calls message, read out by convicted rapist’s wife on their YouTube channel, ‘clearly appalling’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2026/nov/16/ministry-of-justice-investigating-russell-brand-message",
-    "publishedAt": "2026-11-16T13:14:58.000Z"
-  },
-  {
-    "id": "7892a54ca750744d",
-    "title": "I had to explain to my teacher what a young carer was - we need more support",
-    "summary": "Neraya says young carers such as herself want the chance of \"a childhood of our own\".",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqgm0myvjv12o",
-    "publishedAt": "2026-11-16T13:00:21.000Z"
   }
 ]
