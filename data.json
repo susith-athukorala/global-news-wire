@@ -1,5 +1,122 @@
 [
   {
+    "id": "0e315aef4e072de3",
+    "title": "Giant lunar sculpture has visitors over the moon",
+    "summary": "People can see the 6m-wide sculpture in St Helier until 29 November.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm79213ngx45o",
+    "publishedAt": "2026-11-17T12:04:38.000Z"
+  },
+  {
+    "id": "d3447927e6ad3dcd",
+    "title": "NHS data contract to stay with Palantir until 2029",
+    "summary": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o",
+    "publishedAt": "2026-11-17T12:00:12.000Z"
+  },
+  {
+    "id": "18c69e675c0c78d0",
+    "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+    "summary": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo",
+    "publishedAt": "2026-11-17T11:58:16.000Z"
+  },
+  {
+    "id": "40979fd2af5acbca",
+    "title": "Voldemort, Gotham City and the Greens: Victorian election gets a jolt of life as leaders face off in sole debate",
+    "summary": "Ben Carroll, Jess Wilson, Ellen Sandell and Warren Pickering grilled by undecided voters – and each other – as state prepares to head to the polls.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/17/voldemort-gotham-city-greens-liberal-labor-one-nation-victorian-election-leaders-debate-ntwnfb",
+    "publishedAt": "2026-11-17T11:55:28.000Z"
+  },
+  {
+    "id": "961479e61fb9484f",
+    "title": "Alan Milburn says his plan to get young people into work will save only £200m a year",
+    "summary": "Author of long-awaited report says money saved in benefit cuts will mostly be used to fund new job support system.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-report-young-people-work-neets-job-support-savingsalan-milburn-plan-young-people-work-neets-savings-200m-a-year",
+    "publishedAt": "2026-11-17T11:30:35.000Z"
+  },
+  {
+    "id": "454f3dee7aedfd39",
+    "title": "Neet ideas: what’s in Alan Milburn’s report on young people not in education, employment or training?",
+    "summary": "Former minister’s 278-page report calls for changes to employment regulations, education, healthcare and benefits.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/17/neet-alan-milburn-report-young-people-not-in-education-employment-or-training",
+    "publishedAt": "2026-11-17T11:30:35.000Z"
+  },
+  {
+    "id": "9c0aed722d59825a",
+    "title": "Bridge between Russia and occupied Crimea ‘no longer usable’ after Kyiv strike | First Thing",
+    "summary": "Blow to Kremlin as prestigious bridge linking occupied Ukrainian peninsula struck by missile. Plus, what is in store for Robert Pattinson, the new 007?",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike",
+    "publishedAt": "2026-11-17T11:26:49.000Z"
+  },
+  {
+    "id": "bac46a537b29f370",
+    "title": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
+    "summary": "Host city offers showcase of China’s rise into a confident and innovative power central to global economy.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
+    "publishedAt": "2026-11-17T11:18:26.000Z"
+  },
+  {
+    "id": "acf94888b2b29f1b",
+    "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+    "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
+    "publishedAt": "2026-11-17T11:17:32.000Z"
+  },
+  {
+    "id": "6b0f5e4bf049b56e",
+    "title": "Is Pakistan about to carve out new provinces? Inside the controversial plan",
+    "summary": "Talk of new provinces has gathered pace, but there is no formal proposal or agreement among governing parties.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/is-pakistan-about-to-carve-out-new-provinces-inside-the-controversial-plan?traffic_source=rss",
+    "publishedAt": "2026-11-17T11:17:07.000Z"
+  },
+  {
+    "id": "f93133de6a9e4b6f",
+    "title": "Ikea ditches plans for new UK stores, blaming high business taxes",
+    "summary": "Retailer’s British boss says John Healey ‘missed opportunity to back retailers’ in October’s budget.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
+    "publishedAt": "2026-11-17T11:13:07.000Z"
+  },
+  {
+    "id": "9baf775908521cc1",
+    "title": "UK music industry hits record high of £8.4bn – but are working musicians being left behind?",
+    "summary": "Major tours by the likes of Oasis helped make 2025 a lucrative year, with music export revenue reaching £4.8bn.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/17/uk-music-industry-hits-record-high-of-84bn-this-is-music-report",
+    "publishedAt": "2026-11-17T11:12:54.000Z"
+  },
+  {
+    "id": "49b7ae670bfb51fd",
+    "title": "Bangladesh police clash with garment workers amid protests over wages",
+    "summary": "Protesters hurl bricks, torch vehicles and block the main highway between Dhaka and Mymensingh.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
+    "publishedAt": "2026-11-17T11:06:12.000Z"
+  },
+  {
     "id": "fc7fe1669c57645a",
     "title": "What do Democrats’ sweeping midterm wins mean for Trump’s ICE crackdown?",
     "summary": "Despite House and Senate majorities, Democrats face a battle to enact legislation – but they have the power to conduct tough new oversight.",
@@ -1231,122 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause",
     "publishedAt": "2026-11-16T20:54:40.000Z"
-  },
-  {
-    "id": "b2b1ac1d316d8736",
-    "title": "Online bookmaker targets netball club for inducements, signs up 18yos",
-    "summary": "An online bookmaker has been fined over a \"sustained, employee-facilitated inducement scheme\" involving a community sporting club's social media.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-17/online-gambling-company-fined-over-nt-club-inducement-scheme/107391266",
-    "publishedAt": "2026-11-16T20:42:01.000Z"
-  },
-  {
-    "id": "536d99028cb4e02c",
-    "title": "Suspect in custody after bomb found at Illinois ethanol plant",
-    "summary": "The FBI is leading the investigation into the Biourja Renewables incident after it led to a temporary evacuation.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/illinois-bomb-ethanol-plant-suspect",
-    "publishedAt": "2026-11-16T20:25:06.000Z"
-  },
-  {
-    "id": "59e6ae9bc1ba3f74",
-    "title": "Customers report difficulty accessing online services at major US banks",
-    "summary": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
-    "publishedAt": "2026-11-16T20:21:59.000Z"
-  },
-  {
-    "id": "e71d5a80692062c4",
-    "title": "Refused UK asylum seekers to lose five-day grace period and face immediate removal",
-    "summary": "Home Office plans will cause unnecessary distress and anxiety, say refugee charities.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/16/failed-uk-asylum-seekers-to-lose-five-day-grace-period-and-face-immediate-removal",
-    "publishedAt": "2026-11-16T20:06:24.000Z"
-  },
-  {
-    "id": "7bc75986e7a0fc74",
-    "title": "Nationwide ground stop could cost US airlines hundreds of millions",
-    "summary": "Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
-    "publishedAt": "2026-11-16T20:05:06.000Z"
-  },
-  {
-    "id": "f369f9c4c5760d20",
-    "title": "Forensic expert says his analysis raises doubts about how Epstein died",
-    "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo",
-    "publishedAt": "2026-11-16T20:03:30.000Z"
-  },
-  {
-    "id": "26988bcb69c2128e",
-    "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
-    "summary": "Rivals call for investigation into reports that PM's office tried to frame Arab parties.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
-    "publishedAt": "2026-11-16T20:00:07.000Z"
-  },
-  {
-    "id": "6ed8ff198f2a8708",
-    "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
-    "summary": "DHSC to extend US tech firm’s contract for two more years to allow time to line up British companies to replace it.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
-    "publishedAt": "2026-11-16T19:59:31.000Z"
-  },
-  {
-    "id": "860c5545fcfe45ac",
-    "title": "US moves to stop AI chip-smuggling amid push to reinstate Huang",
-    "summary": "Donald Trump adds weight to a push to reinstate former Nvidia CEO Jensen Huang, just a few days after his resignation amid fears he had been in a relationship with a Chinese spy.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-17/donald-trump-says-he-would-not-mind-jensen-huang-comeback/107393002",
-    "publishedAt": "2026-11-16T19:48:49.000Z"
-  },
-  {
-    "id": "de9b1b626f3f5801",
-    "title": "With each new 007 comes a reinvention for the 64-year-old franchise",
-    "summary": "The announcement of a new actor to play James Bond gives the franchise an opportunity to reinvent itself for a new audience.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-17/new-bond-resets-franchise/107375310",
-    "publishedAt": "2026-11-16T19:41:18.000Z"
-  },
-  {
-    "id": "5fd325fbc77a4a01",
-    "title": "Leave.EU and Vote Leave veterans launch rival campaigns to defend Brexit",
-    "summary": "Andy Wigmore says there will be no animosity this time between his Enough Official group and Michael Gove-backed Stay Out movement.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/16/people-behind-vote-leave-eu-launch-new-incarnations-brexit",
-    "publishedAt": "2026-11-16T19:38:45.000Z"
-  },
-  {
-    "id": "f66634dd0375eb08",
-    "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-    "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go",
-    "publishedAt": "2026-11-16T19:30:30.000Z"
-  },
-  {
-    "id": "1189df4137cb4e25",
-    "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
-    "summary": "In a joint statement, 47 aid, trade union and rights groups urged ‌the five countries to ​abandon the Rwanda plan.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
-    "publishedAt": "2026-11-16T19:26:40.000Z"
   }
 ]
