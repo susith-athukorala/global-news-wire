@@ -1,5 +1,59 @@
 [
   {
+    "id": "807cdc7043aa781e",
+    "title": "Robert Pattinson eyes his biggest role yet as James Bond",
+    "summary": "Twilight shot Robert Pattinson to stardom. But who would have guessed that 20 years later the vampire hit would be correctly predicting the next 007?",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-17/how-robert-pattinson-went-from-twilight-to-james-bond/107393970",
+    "publishedAt": "2026-11-17T03:09:32.000Z"
+  },
+  {
+    "id": "c6cf2fe294c0008c",
+    "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+    "summary": "The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+    "publishedAt": "2026-11-17T02:52:56.000Z"
+  },
+  {
+    "id": "9772574d02ac3091",
+    "title": "MP declares shares in data centre developer before calling for moratorium",
+    "summary": "A Tasmanian independent MP who has tabled a bill for a moratorium on new data centres has declared shares in a property giant whose global development pipeline is almost 80 per cent data centres.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-17/peter-george-mp-data-centre-shares/107393668",
+    "publishedAt": "2026-11-17T02:49:00.000Z"
+  },
+  {
+    "id": "dc089e2d17ce3c82",
+    "title": "Dolores Huerta honored in ceremony at California state capitol",
+    "summary": "Labor leader was remembered for her advocacy and co-founding union that would become United Farm Workers.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/dolores-huerta-honored-california",
+    "publishedAt": "2026-11-17T02:42:22.000Z"
+  },
+  {
+    "id": "325059606130af6e",
+    "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+    "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
+    "publishedAt": "2026-11-17T02:37:53.000Z"
+  },
+  {
+    "id": "13821325b9ed95c5",
+    "title": "David Jones’ total debt is over $400m including millions owed to staff, administrators confirm",
+    "summary": "Creditors meeting hears upmarket retailer owes $11m to employees and recorded a net loss of $228m last financial year.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/17/david-jones-creditors-meeting-debt-administrators",
+    "publishedAt": "2026-11-17T02:11:43.000Z"
+  },
+  {
     "id": "25600330389395e5",
     "title": "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine",
     "summary": "Bougainville cabinet minister says fund gives chance to find solutions to ‘huge problems we have been living with since the days of the mine’s operation’",
@@ -1294,59 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/grard-depardieu-drops-appeal-accepts-sexual-assault-conviction-138173474",
     "publishedAt": "2026-11-16T12:16:00.000Z"
-  },
-  {
-    "id": "8339bc40e02f7dca",
-    "title": "Which cricket teams can qualify for the LA 2028 Olympics and how?",
-    "summary": "Six men's and six women's teams will compete for the medals in T20 format as cricket returns to the Olympics in 2028.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/16/which-cricket-teams-can-qualify-for-the-la-2028-olympics-and-how?traffic_source=rss",
-    "publishedAt": "2026-11-16T12:15:59.000Z"
-  },
-  {
-    "id": "702fc42a263fb10e",
-    "title": "Gérard Depardieu drops appeal against sexual assault conviction",
-    "summary": "French actor apologises to two women he was convicted of assaulting on a film set in 2021.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction",
-    "publishedAt": "2026-11-16T12:10:22.000Z"
-  },
-  {
-    "id": "7c897d52fcfef397",
-    "title": "Britain's Prince William and Princess Catherine arrive in India for 3-day visit",
-    "summary": "Prince William and Princess Catherine have arrived in India for a three-day visit.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/britains-prince-william-princess-catherine-arrive-india-3-138169197",
-    "publishedAt": "2026-11-16T12:10:20.000Z"
-  },
-  {
-    "id": "dd0fd43506cb1b69",
-    "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
-    "summary": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
-    "publishedAt": "2026-11-16T12:08:14.000Z"
-  },
-  {
-    "id": "03fcd0fdf58077d1",
-    "title": "‘When the sun came out it felt like it opened a scar’ – This is climate breakdown",
-    "summary": "When the floods hit Pakistan he went out to help. Then the water reached his own family.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/ng-interactive/2026/nov/16/when-the-sun-came-out-it-felt-like-it-opened-a-scar-this-is-climate-breakdown",
-    "publishedAt": "2026-11-16T12:00:59.000Z"
-  },
-  {
-    "id": "768e51e66a2c8113",
-    "title": "Catholic priest released from Louisiana prison after serving seven years for sexually abusing altar server",
-    "summary": "Victim’s father, however, remains excommunicated for joining Anglican church after abuse was discovered.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/louisiana-catholic-priest-prison-sexual-abuse",
-    "publishedAt": "2026-11-16T12:00:59.000Z"
   }
 ]
