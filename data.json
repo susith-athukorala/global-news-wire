@@ -1,5 +1,86 @@
 [
   {
+    "id": "14f647f93bf67402",
+    "title": "NHS gets £500m boost in Wales' first budget under Plaid Cymru",
+    "summary": "Health spending will rise, but the government says it is grappling with \"tight\" public finances.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm9308z78p7ko",
+    "publishedAt": "2026-11-17T14:00:20.000Z"
+  },
+  {
+    "id": "059a57273e09bea5",
+    "title": "Paul Kelly pleads for Albanese to ‘show some backbone’ over AI as creatives campaign for copyright protections",
+    "summary": "Music legend is joined by Jimmy Barnes and Peter Garrett in backing Not AI’s To Take campaign ahead of Aria awards.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign",
+    "publishedAt": "2026-11-17T14:00:15.000Z"
+  },
+  {
+    "id": "410daed2c5d8caf9",
+    "title": "Chris Minns’ backflips are adding up. Is he ‘clearing the runway’ or panicking?",
+    "summary": "From train timetables to coffee cups and property underquoting, the NSW premier is making policy reversals well ahead of the March election.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/chris-minns-labor-backflips-are-adding-up-is-he-clearing-the-runway-or-panicking-nsw-state-election",
+    "publishedAt": "2026-11-17T14:00:14.000Z"
+  },
+  {
+    "id": "141de44d030caa4a",
+    "title": "Australia’s gender pay gap falls below 20% for first time",
+    "summary": "Men still dominate top-paid positions but businesses’ ‘deliberate’ decisions have narrowed gap, workplace gender equality agency report finds.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/18/australia-gender-pay-gap-falls-below-20-percent-for-first-time",
+    "publishedAt": "2026-11-17T14:00:13.000Z"
+  },
+  {
+    "id": "33a91ea69938b46c",
+    "title": "David Beckham sues after his fragrance is sold in gas stations and discount stores",
+    "summary": "David Beckham’s company is suing beauty group Coty for at least $41 million, alleging that sales of his perfumes in discount stores breached their licensing agreement and damaged his luxury brand.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/david-beckham-sues-after-fragrance-sold-gas-stations-138208042",
+    "publishedAt": "2026-11-17T13:42:06.000Z"
+  },
+  {
+    "id": "f8d4745de35250c2",
+    "title": "Deutsche Bank dismissed warnings about dealings with risky clients, reports claim",
+    "summary": "International investigation using trove of leaked internal data allegedly shows German bank overlooked compliance concerns to safeguard profits.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim",
+    "publishedAt": "2026-11-17T13:35:39.000Z"
+  },
+  {
+    "id": "40a1513920314bc2",
+    "title": "School phone bans result in ‘modest’ academic gains for students, study shows",
+    "summary": "More than 40 US states have passed laws restricting phones at schools with goal of boosting students’ focus and learning.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/education/2026/nov/17/school-phone-bans-results-students",
+    "publishedAt": "2026-11-17T13:22:40.000Z"
+  },
+  {
+    "id": "f5c95b408dc3f014",
+    "title": "At the origin of France’s education protests, students refuse to give up",
+    "summary": "Blockades continue at some schools in the Parisian suburbs as students and teachers say little has improved.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss",
+    "publishedAt": "2026-11-17T13:14:25.000Z"
+  },
+  {
+    "id": "f7aceef3c7ddc54e",
+    "title": "Infantino’s FIFA challenger Diallo claims to have support beyond Europe",
+    "summary": "French football chief Philippe Diallo says he has received 'spontaneous signs of strong support' against Infantino.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss",
+    "publishedAt": "2026-11-17T13:09:31.000Z"
+  },
+  {
     "id": "04508f950256e050",
     "title": "Speed camera fault may have allowed drivers to escape fines",
     "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
@@ -25,6 +106,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/17/santander-staff-holidays-sick-leave-days-in-office",
     "publishedAt": "2026-11-17T13:01:08.000Z"
+  },
+  {
+    "id": "6344945c04695554",
+    "title": "Anthropic IPO: how can I buy shares, and is it worth it?",
+    "summary": "Stock market debut of Claude AI chatbot maker is expected to be one of the biggest flotations in history.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai",
+    "publishedAt": "2026-11-17T13:00:48.000Z"
+  },
+  {
+    "id": "ba7dd40d7be0b727",
+    "title": "Fossil-fuel industry accused of violating Colorado law over not disclosing drilling chemicals",
+    "summary": "Non-profit FracTracker Alliance alleges regulators have exempted compounds used in drilling despite 2022 law.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/17/fossil-fuel-industry-colorado",
+    "publishedAt": "2026-11-17T13:00:48.000Z"
   },
   {
     "id": "59aa6d9a86871ba6",
@@ -331,6 +430,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
     "publishedAt": "2026-11-17T10:42:42.000Z"
+  },
+  {
+    "id": "1a8108f53b3fa11f",
+    "title": "Cass report author tells BBC draft conversion practices bill is not workable",
+    "summary": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo",
+    "publishedAt": "2026-11-17T10:36:21.000Z"
   },
   {
     "id": "bbd0f183d729d393",
@@ -1240,113 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cw987343352go",
     "publishedAt": "2026-11-16T23:20:45.000Z"
-  },
-  {
-    "id": "a22e15898cb48a13",
-    "title": "Band of baby sea turtles released into ocean after historic California nesting",
-    "summary": "Hatchlings emerge after discovery in September of first sea turtle nests ever to have been recorded on US west coast.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/california-sea-turtle-eggs-hatched",
-    "publishedAt": "2026-11-16T23:19:11.000Z"
-  },
-  {
-    "id": "458954e371fb7479",
-    "title": "Customers report service outages at major US banks",
-    "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o",
-    "publishedAt": "2026-11-16T23:15:21.000Z"
-  },
-  {
-    "id": "7987556db51382fb",
-    "title": "Police searching for three stolen Melbourne Cup trophies worth $1m each",
-    "summary": "Officers searched a Mount Waverley home in Melbourne after trophies belonging to winning horse Makybe Diva were stolen from Flemington racecourse.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/sport/2026/nov/17/makybe-diva-melbourne-cup-trophies-stolen-flemington-raid-mount-waverley-ntwnfb",
-    "publishedAt": "2026-11-16T23:15:07.000Z"
-  },
-  {
-    "id": "772187a757b08fed",
-    "title": "Cause of death released for partner of Gypsy Rose Blanchard",
-    "summary": "Police investigation continues even as Louisiana coroner’s office releases findings on death of Kenan ‘Ken’ Urker.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/cause-of-death-gypsy-rose-blanchard-partner",
-    "publishedAt": "2026-11-16T23:14:41.000Z"
-  },
-  {
-    "id": "8c2c38fe4c9afe70",
-    "title": "California sues OpenAI over Hugging Face attack",
-    "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo",
-    "publishedAt": "2026-11-16T23:12:24.000Z"
-  },
-  {
-    "id": "270429fc85654577",
-    "title": "Taking Korea's toughest exam from behind bars",
-    "summary": "Eleven convicts at the Mandela Boys' School will be among the thousands of young Koreans taking the country's hardest exam, the Suneung.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmewvxg855yno",
-    "publishedAt": "2026-11-16T23:09:49.000Z"
-  },
-  {
-    "id": "2eb6e50e61c9384b",
-    "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
-    "summary": "Leave Shenzhen's tech-flecked city skyline and you run into the challenges confronting Xi's China.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o",
-    "publishedAt": "2026-11-16T23:07:20.000Z"
-  },
-  {
-    "id": "b06a32c216ab7d08",
-    "title": "Mayor pushes for inquiry into mining licence approvals",
-    "summary": "A regional council mayor is pushing for an inquiry into the approval of mining licences for projects across western Victoria, with Horsham Rural City Council seeking urgent changes to a mineral sands planning scheme.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-17/council-seeks-inquiry-into-mining-licences/107389260",
-    "publishedAt": "2026-11-16T23:01:57.000Z"
-  },
-  {
-    "id": "bcf74afa2471dcf1",
-    "title": "EU agrees to resurrect cooperation deal with Syria",
-    "summary": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
-    "publishedAt": "2026-11-16T23:00:36.000Z"
-  },
-  {
-    "id": "975ffc35667c2418",
-    "title": "Woman who got hooked on nasal spray for 10 years says it cost her thousands",
-    "summary": "Louise Gough says her dependence on decongestant nasal sprays left her feeling like a prisoner.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cj93ry10rl11o",
-    "publishedAt": "2026-11-16T22:47:19.000Z"
-  },
-  {
-    "id": "c95ec2cf0f9c7c09",
-    "title": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
-    "summary": "Pentagon defends Steve Feinberg, amid claims in Bloomberg he encouraged defence contractors to use a specific banker.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
-    "publishedAt": "2026-11-16T22:40:07.000Z"
-  },
-  {
-    "id": "e081a06f9a4777a1",
-    "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
-    "summary": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o",
-    "publishedAt": "2026-11-16T22:32:47.000Z"
   }
 ]
