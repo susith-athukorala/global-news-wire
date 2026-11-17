@@ -1,5 +1,59 @@
 [
   {
+    "id": "25600330389395e5",
+    "title": "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine",
+    "summary": "Bougainville cabinet minister says fund gives chance to find solutions to ‘huge problems we have been living with since the days of the mine’s operation’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png",
+    "publishedAt": "2026-11-17T02:02:30.000Z"
+  },
+  {
+    "id": "cc3fdcbd8c2d4c2e",
+    "title": "Mozambique's Mondlane is the latest opposition leader to go on trial in Africa",
+    "summary": "Mozambique’s opposition leader will go on trial charged with instigating terrorism and inciting civil disobedience in relation to monthslong anti-government protests that broke out following a disputed 2024 election.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/mozambiques-venancio-mondlane-latest-opposition-leader-trial-africa-138196123",
+    "publishedAt": "2026-11-17T01:49:37.000Z"
+  },
+  {
+    "id": "899257ebfc02648d",
+    "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+    "summary": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+    "publishedAt": "2026-11-17T01:38:13.000Z"
+  },
+  {
+    "id": "4ba609ef4470bd06",
+    "title": "Truck driver fired for ‘unsafe’ use of smartglasses in first reported sacking over device in Australia",
+    "summary": "Toll employee Ricardo Martins Silva used smartglasses to take photos at an LPG terminal despite the risk of an explosion caused by an electrical spark, a court heard.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/17/toll-truck-driver-fired-sacked-smartglasses-australia-ntwnfb",
+    "publishedAt": "2026-11-17T01:25:08.000Z"
+  },
+  {
+    "id": "02b6262a7355a1b2",
+    "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
+    "summary": "Three children and a woman were injured in the attack outside a central Dublin school in 2023.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+    "publishedAt": "2026-11-17T01:19:56.000Z"
+  },
+  {
+    "id": "0c97473baf472110",
+    "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo",
+    "summary": "Knit hat caught in ceiling fan and flung into enclosure eaten by Fiona, who is being closely monitored by zoo staff.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/fiona-hippo-eats-hat-cincinnati",
+    "publishedAt": "2026-11-17T01:18:28.000Z"
+  },
+  {
     "id": "4c0a9c32d62dc9a0",
     "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
     "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox.",
@@ -115,6 +169,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
     "publishedAt": "2026-11-16T23:21:46.000Z"
+  },
+  {
+    "id": "48d014c98c102a78",
+    "title": "Five EU countries announce migrant deportation centre in Rwanda",
+    "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw987343352go",
+    "publishedAt": "2026-11-16T23:20:45.000Z"
   },
   {
     "id": "a22e15898cb48a13",
@@ -538,6 +601,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/russia-fends-off-swarms-ukrainian-drones-day-vast-138186480",
     "publishedAt": "2026-11-16T19:07:08.000Z"
+  },
+  {
+    "id": "ab189d1163adde82",
+    "title": "UK investigating Russell Brand's message from behind bars",
+    "summary": "In a video uploaded to YouTube, his wife Laura Brand reads a statement in which her husband maintains his innocence.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-17/russell-brand-prison-message-read-by-laura-on-sunday-service/107392812",
+    "publishedAt": "2026-11-16T19:06:42.000Z"
   },
   {
     "id": "3a910931f160ac9f",
@@ -1276,77 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/16/louisiana-catholic-priest-prison-sexual-abuse",
     "publishedAt": "2026-11-16T12:00:59.000Z"
-  },
-  {
-    "id": "db6cded58baa6c99",
-    "title": "Flying blind: inside the decline of the EPA’s chemical-detection plane",
-    "summary": "Agency’s Aspect plane once was a key part of tracking toxic chemicals during disasters – why is it now often grounded?",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/16/epa-chemical-detection-plane",
-    "publishedAt": "2026-11-16T12:00:58.000Z"
-  },
-  {
-    "id": "6b8a3d787cc99aa8",
-    "title": "Great Britain’s oldest renewables projects could rake in nearly £9bn next year",
-    "summary": "Subsidy scheme, which is paid via taxes and energy bills, must be reformed, ECU analysis finds.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/16/great-britain-renewable-energy-subsidies-wind-solar",
-    "publishedAt": "2026-11-16T11:56:20.000Z"
-  },
-  {
-    "id": "000cbbad9d60b755",
-    "title": "First Thing: Trump administration blames travel chaos on former presidents and Congress",
-    "summary": "Donald Trump on Sunday blamed the Biden administration for the four-hour nationwide flight stoppage that led to thousands of canceled flights over the weekend. Plus: How Israel is using Amazon facial recognition to track Palestinians.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/first-thing-trump-administration-blames-travel-chaos-on-former-presidents-and-congress",
-    "publishedAt": "2026-11-16T11:46:33.000Z"
-  },
-  {
-    "id": "37f619bfdcc078fc",
-    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
-    "summary": "Canadian Prime Minister Mark Carney says Canada could turn to Chinese automakers if trade negotiations with U.S. President Donald Trump fail to preserve an integrated North American auto industry.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/carney-canada-turn-chinese-automakers-trump-trade-talks-138168098",
-    "publishedAt": "2026-11-16T11:46:21.000Z"
-  },
-  {
-    "id": "325059606130af6e",
-    "title": "Jensen Huang allies campaign to reinstate the former Nvidia boss",
-    "summary": "Tech leaders, including Elon Musk, are among those backing a campaign to \"Bring Jensen Back\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
-    "publishedAt": "2026-11-16T11:45:40.000Z"
-  },
-  {
-    "id": "66fca80fe669028b",
-    "title": "Women's criminal records wiped for abortion offences",
-    "summary": "Women arrested or convicted for having illegal abortions will have their criminal records wiped as new atomatic pardons come into force in England and Wales.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o",
-    "publishedAt": "2026-11-16T11:45:33.000Z"
-  },
-  {
-    "id": "f865d5ad98649d1b",
-    "title": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
-    "summary": "A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
-    "publishedAt": "2026-11-16T11:40:25.000Z"
-  },
-  {
-    "id": "04a6be43e897197a",
-    "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
-    "summary": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Chuck Schumer and what he would change about Senate Democratic leadership.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
-    "publishedAt": "2026-11-16T11:39:14.000Z"
   }
 ]
