@@ -1,5 +1,95 @@
 [
   {
+    "id": "788eef3f42aae51f",
+    "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
+    "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o",
+    "publishedAt": "2026-11-17T00:09:54.000Z"
+  },
+  {
+    "id": "f1fb5ad4d2079fac",
+    "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+    "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko",
+    "publishedAt": "2026-11-17T00:00:03.000Z"
+  },
+  {
+    "id": "e4c7070c0b6da858",
+    "title": "We couldn't afford a house alone, so we bought one with strangers",
+    "summary": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo",
+    "publishedAt": "2026-11-17T00:00:02.000Z"
+  },
+  {
+    "id": "a34e81dbcf9976ab",
+    "title": "Africa: Trading in yuan",
+    "summary": "The dollar has long ruled Africa's financial landscape. But as more countries turn to China's yuan, the balance of economic power could be shifting.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan",
+    "publishedAt": "2026-11-16T23:49:35.000Z"
+  },
+  {
+    "id": "db05161afe797b34",
+    "title": "Brain cell mapping lays groundwork for better treatments for conditions like dementia",
+    "summary": "A major effort from brain researchers around the world has yielded a cellular atlas of the basal ganglia — structures key to learning and controlling motor skills.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6038924/brain-cell-mapping-lays-groundwork-for-better-treatments-for-conditions-like-dementia",
+    "publishedAt": "2026-11-16T23:48:15.000Z"
+  },
+  {
+    "id": "5af00c545ae7fdad",
+    "title": "Paraguay ex-president moved to military jail amid special treatment reports",
+    "summary": "Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+    "publishedAt": "2026-11-16T23:44:32.000Z"
+  },
+  {
+    "id": "097e0cac90c1178b",
+    "title": "Guatemala ramps up security operations following declaration of state of siege",
+    "summary": "Guatemala's interior and defense ministers have inspected security operations in two departments bordering Honduras.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/guatemala-ramps-security-operations-declaration-state-siege-138191556",
+    "publishedAt": "2026-11-16T23:32:21.000Z"
+  },
+  {
+    "id": "2dd55a87cff4cb7b",
+    "title": "The AI start-ups fixing India's broken roads and messy land records",
+    "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo",
+    "publishedAt": "2026-11-16T23:25:53.000Z"
+  },
+  {
+    "id": "52a941d4d7398150",
+    "title": "Labor announces policy backflip to allow more backpackers to work in regional Australia",
+    "summary": "Number of people allowed to stay for third year on holiday maker visa to be increased from 5,000 to 25,000 under revised plan.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
+    "publishedAt": "2026-11-16T23:21:46.000Z"
+  },
+  {
+    "id": "a22e15898cb48a13",
+    "title": "Band of baby sea turtles released into ocean after historic California nesting",
+    "summary": "Hatchlings emerge after discovery in September of first sea turtle nests ever to have been recorded on US west coast.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/california-sea-turtle-eggs-hatched",
+    "publishedAt": "2026-11-16T23:19:11.000Z"
+  },
+  {
     "id": "458954e371fb7479",
     "title": "Customers report service outages at major US banks",
     "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
@@ -7,6 +97,24 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o",
     "publishedAt": "2026-11-16T23:15:21.000Z"
+  },
+  {
+    "id": "7987556db51382fb",
+    "title": "Police searching for three stolen Melbourne Cup trophies worth $1m each",
+    "summary": "Officers searched a Mount Waverley home in Melbourne after trophies belonging to winning horse Makybe Diva were stolen from Flemington racecourse.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/sport/2026/nov/17/makybe-diva-melbourne-cup-trophies-stolen-flemington-raid-mount-waverley-ntwnfb",
+    "publishedAt": "2026-11-16T23:15:07.000Z"
+  },
+  {
+    "id": "772187a757b08fed",
+    "title": "Cause of death released for partner of Gypsy Rose Blanchard",
+    "summary": "Police investigation continues even as Louisiana coroner’s office releases findings on death of Kenan ‘Ken’ Urker.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/cause-of-death-gypsy-rose-blanchard-partner",
+    "publishedAt": "2026-11-16T23:14:41.000Z"
   },
   {
     "id": "8c2c38fe4c9afe70",
@@ -180,6 +288,15 @@
     "publishedAt": "2026-11-16T21:06:19.000Z"
   },
   {
+    "id": "db43089f31ad646a",
+    "title": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
+    "summary": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China’s efforts to dominate.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+    "publishedAt": "2026-11-16T21:00:21.000Z"
+  },
+  {
     "id": "10c5b3de5ba9e43e",
     "title": "Microsoft identifies months-old bug as a root cause of global outage",
     "summary": "Report identifies three factors that led to blackout: a bug, malfunctioning internal connections and server capacity.",
@@ -187,6 +304,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause",
     "publishedAt": "2026-11-16T20:54:40.000Z"
+  },
+  {
+    "id": "b2b1ac1d316d8736",
+    "title": "Online bookmaker targets netball club for inducements, signs up 18yos",
+    "summary": "An online bookmaker has been fined over a \"sustained, employee-facilitated inducement scheme\" involving a community sporting club's social media.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-17/online-gambling-company-fined-over-nt-club-inducement-scheme/107391266",
+    "publishedAt": "2026-11-16T20:42:01.000Z"
   },
   {
     "id": "536d99028cb4e02c",
@@ -286,6 +412,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
     "publishedAt": "2026-11-16T19:26:40.000Z"
+  },
+  {
+    "id": "507df2152d47db53",
+    "title": "Yemen's pro-government forces retreat to defend key port city of Aden",
+    "summary": "The Saudi-backed forces have been locked in fierce battles with the Iranian-backed Houthis along a mountain range overlooking the Bab el-Mandeb Strait.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-17/yemen-government-forces-retreat-bab-el-mandeb-strait/107392710",
+    "publishedAt": "2026-11-16T19:26:06.000Z"
   },
   {
     "id": "08ed79d7ae2704e6",
@@ -1062,6 +1197,15 @@
     "publishedAt": "2026-11-16T12:10:22.000Z"
   },
   {
+    "id": "7c897d52fcfef397",
+    "title": "Britain's Prince William and Princess Catherine arrive in India for 3-day visit",
+    "summary": "Prince William and Princess Catherine have arrived in India for a three-day visit.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/britains-prince-william-princess-catherine-arrive-india-3-138169197",
+    "publishedAt": "2026-11-16T12:10:20.000Z"
+  },
+  {
     "id": "dd0fd43506cb1b69",
     "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
     "summary": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
@@ -1204,149 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest",
     "publishedAt": "2026-11-16T11:12:44.000Z"
-  },
-  {
-    "id": "ce624516788d43d4",
-    "title": "Yemeni forces retreat to defend port city from Houthis",
-    "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
-    "publishedAt": "2026-11-16T11:09:38.000Z"
-  },
-  {
-    "id": "4fd9a00d11a90adb",
-    "title": "Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster",
-    "summary": "Huang's peers, including Elon Musk, have praised his business acumen and potential risks to the US's AI goals.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
-    "publishedAt": "2026-11-16T11:05:47.000Z"
-  },
-  {
-    "id": "cf321b1f311b1a29",
-    "title": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
-    "summary": "Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
-    "publishedAt": "2026-11-16T11:00:58.000Z"
-  },
-  {
-    "id": "871d26060d950ade",
-    "title": "Americans relying on heating oil brace for harsh winter: ‘We’re often cold in our own home’",
-    "summary": "Surge in prices is forcing many to cut back on spending, with a projected 21% increase in costs of those households.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/16/heating-oil-price-increase-winter",
-    "publishedAt": "2026-11-16T11:00:58.000Z"
-  },
-  {
-    "id": "d686c1c7ce7ac2d6",
-    "title": "Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
-    "summary": "Upload came as the Israeli military was increasing its reliance on Amazon’s cloud platform to meet the technological demands of its bombardment of Gaza.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
-    "publishedAt": "2026-11-16T11:00:56.000Z"
-  },
-  {
-    "id": "4b86aafb317c91a5",
-    "title": "Two mass shootings in South Africa leave 17 dead",
-    "summary": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo",
-    "publishedAt": "2026-11-16T10:57:48.000Z"
-  },
-  {
-    "id": "1411a4c965cfebae",
-    "title": "Man charged after two people die in Leeds police pursuit crash",
-    "summary": "Leigh Ross, 39, charged with causing death by dangerous driving after BMW being pursued by police collided with another car.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/16/man-charged-after-two-people-die-in-leeds-police-pursuit-crash",
-    "publishedAt": "2026-11-16T10:43:11.000Z"
-  },
-  {
-    "id": "206a4d40733db24e",
-    "title": "Birth keeper told mother of baby who later died to ‘go home and rest’, NSW inquest hears",
-    "summary": "Sita Kali was involved in care for two of four babies who died between 2022 and 2024 in Lismore after free births or home births.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/16/nsw-inquest-four-babies-freebirth-home-birth-northern-rivers-ntwnfb",
-    "publishedAt": "2026-11-16T10:41:38.000Z"
-  },
-  {
-    "id": "329fb68b48f3c720",
-    "title": "Boots to begin prescribing medical cannabis in UK",
-    "summary": "Online service will be offered to patients with eligible conditions, in a first for a British high street pharmacy.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/16/boots-pharmacy-begin-prescribing-medical-cannabis-uk",
-    "publishedAt": "2026-11-16T10:32:50.000Z"
-  },
-  {
-    "id": "1f769fc5f645a2e3",
-    "title": "Lebanon’s second airport could provide economic and political benefits",
-    "summary": "The establishment of a second airport in Lebanon gives the war-devastated country more options for air travel.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
-    "publishedAt": "2026-11-16T10:28:22.000Z"
-  },
-  {
-    "id": "866c571fc6c7d4d7",
-    "title": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
-    "summary": "Demonstrators tried to block vehicle carrying the baboons, whose capture authorities say is needed to protect both primate and human.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
-    "publishedAt": "2026-11-16T10:19:08.000Z"
-  },
-  {
-    "id": "9ff3fb2acd28a213",
-    "title": "Barristers could be barred from practice over use of rape myths, warns justice secretary",
-    "summary": "Move follows Russell Brand trial, in which his barrister argued comedian could not be a rapist because his accusers had not ‘resisted’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/law/2026/nov/16/barristers-barred-practice-rape-myths-russell-brand-trial",
-    "publishedAt": "2026-11-16T10:16:54.000Z"
-  },
-  {
-    "id": "26bb3d253964104a",
-    "title": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
-    "summary": "The aircraft carrier joins two others operating in the US Central Command area of responsibility.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
-    "publishedAt": "2026-11-16T10:14:27.000Z"
-  },
-  {
-    "id": "44fa52e903c8010b",
-    "title": "Jordan bans Telegram over national security concerns",
-    "summary": "The measure comes amid a security crackdown after last month's deadly attack on a Greek Orthodox church.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss",
-    "publishedAt": "2026-11-16T10:12:28.000Z"
-  },
-  {
-    "id": "3996c93ffafca804",
-    "title": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
-    "summary": "Russia has proposed nonaggression pacts with individual nations, which could shatter collective defence against Moscow.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
-    "publishedAt": "2026-11-16T10:03:11.000Z"
-  },
-  {
-    "id": "481dd769e4db6596",
-    "title": "Yellow weather warnings issued for snow as temperatures plummet",
-    "summary": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o",
-    "publishedAt": "2026-11-16T10:02:04.000Z"
   }
 ]
