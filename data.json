@@ -1,5 +1,41 @@
 [
   {
+    "id": "4c0a9c32d62dc9a0",
+    "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+    "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo",
+    "publishedAt": "2026-11-17T01:04:45.000Z"
+  },
+  {
+    "id": "ae1b63a90fce4748",
+    "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
+    "summary": "Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
+    "publishedAt": "2026-11-17T00:45:11.000Z"
+  },
+  {
+    "id": "b72ec2876e056bba",
+    "title": "UK seeks closer ties with EU after Brexit fail",
+    "summary": "Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
+    "publishedAt": "2026-11-17T00:30:21.000Z"
+  },
+  {
+    "id": "52301871255b2458",
+    "title": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+    "summary": "The country's unresolved Oromia-Somali border dispute fuels renewed violence, displacing thousands.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
+    "publishedAt": "2026-11-17T00:21:19.000Z"
+  },
+  {
     "id": "788eef3f42aae51f",
     "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
     "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
@@ -160,6 +196,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
     "publishedAt": "2026-11-16T22:40:07.000Z"
+  },
+  {
+    "id": "e081a06f9a4777a1",
+    "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+    "summary": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o",
+    "publishedAt": "2026-11-16T22:32:47.000Z"
   },
   {
     "id": "6d43752056618ddd",
@@ -1303,50 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
     "publishedAt": "2026-11-16T11:39:14.000Z"
-  },
-  {
-    "id": "97a84867dfb0ddf1",
-    "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
-    "summary": "CEO ousted after affair with suspected Chinese spy reportedly plans comeback, but US treasury secretary urges ‘dramatic shake-up’",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
-    "publishedAt": "2026-11-16T11:30:35.000Z"
-  },
-  {
-    "id": "f3ddf5c2cb647e70",
-    "title": "Klopp says Infantino worse than Blatter",
-    "summary": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo",
-    "publishedAt": "2026-11-16T11:27:08.000Z"
-  },
-  {
-    "id": "3a41398a039c7736",
-    "title": "As homes seized, Jericho’s Palestinian residents fear settler takeover",
-    "summary": "Palestinians are assaulted and their homes are levelled in pogrom in occupied West Bank.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss",
-    "publishedAt": "2026-11-16T11:23:43.000Z"
-  },
-  {
-    "id": "48d014c98c102a78",
-    "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
-    "summary": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw987343352go",
-    "publishedAt": "2026-11-16T11:17:34.000Z"
-  },
-  {
-    "id": "776aed175fa5712c",
-    "title": "Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest",
-    "summary": "Broadcaster TV3 appears to cut footage of Thai drag performers and gay Philippine jury spokesperson.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest",
-    "publishedAt": "2026-11-16T11:12:44.000Z"
   }
 ]
