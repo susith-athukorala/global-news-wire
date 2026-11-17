@@ -1,5 +1,50 @@
 [
   {
+    "id": "580314b276829813",
+    "title": "Xi said China would welcome American students for exchanges. What's the reality?",
+    "summary": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
+    "publishedAt": "2026-11-17T22:41:53.000Z"
+  },
+  {
+    "id": "39b570cca86c9c0e",
+    "title": "Israeli parliament elects new Knesset speaker backed by Netanyahu’s opponents",
+    "summary": "Appointment of Matan Kahana marks step towards reversing policies of Netanyahu’s outgoing government.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+    "publishedAt": "2026-11-17T22:30:17.000Z"
+  },
+  {
+    "id": "22ace48cde2383ec",
+    "title": "ICE agents pepper spray pregnant US citizen in California, video shows",
+    "summary": "Lizbeth Vargas Andrade, 23, was arrested after being pushed to the ground and on to her stomach, her attorney says.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen",
+    "publishedAt": "2026-11-17T22:24:46.000Z"
+  },
+  {
+    "id": "554209990cc4bf65",
+    "title": "Russian military plane crash in Siberia kills 19",
+    "summary": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+    "publishedAt": "2026-11-17T22:21:16.000Z"
+  },
+  {
+    "id": "31a340241a73a2d5",
+    "title": "Public health expert reacts to latest measles milestone",
+    "summary": "NPR's Scott Detrow talks with Dr. Ashish Jha, senior fellow at Harvard's Belfer Center and former White House coronavirus czar, about the news that the U.S. has lost its measles elimination status.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6043126/public-health-expert-reacts-to-latest-measles-milestone",
+    "publishedAt": "2026-11-17T22:20:41.000Z"
+  },
+  {
     "id": "89ebf33e3c4fddef",
     "title": "New Nvidia boss cites 'momentum' in first results after Huang quits",
     "summary": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
@@ -801,6 +846,15 @@
     "publishedAt": "2026-11-17T14:46:37.000Z"
   },
   {
+    "id": "0b72aa84efbbb0b1",
+    "title": "How new US chip restrictions on South East Asia will hit China",
+    "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo",
+    "publishedAt": "2026-11-17T14:25:45.000Z"
+  },
+  {
     "id": "770f8c9685d65589",
     "title": "JD Vance blames Democrats for flight stoppage, claiming ‘obsession with men in women’s sports’",
     "summary": "The stoppage was seemingly caused by the transition from copper telecommunication lines.",
@@ -898,6 +952,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/education/2026/nov/17/school-phone-bans-results-students",
     "publishedAt": "2026-11-17T13:22:40.000Z"
+  },
+  {
+    "id": "65c9116677fb2eaa",
+    "title": "Mongolia’s president says he will step down after facing accusations of corruption",
+    "summary": "Mongolia’s President Khurelsukh Ukhnaa says he will resign after a member of a faction of his own party accused him of benefiting financially from a government railway project.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/mongolias-president-step-after-facing-accusations-corruption-138199346",
+    "publishedAt": "2026-11-17T13:14:34.000Z"
   },
   {
     "id": "f5c95b408dc3f014",
@@ -1285,68 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
     "publishedAt": "2026-11-17T11:00:00.000Z"
-  },
-  {
-    "id": "2bbd1e0c1bdc1eb6",
-    "title": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
-    "summary": "A former US Foreign Service officer ran a company that funded election adverts attacking Jeremy Corbyn’s Labour.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
-    "publishedAt": "2026-11-17T10:53:42.000Z"
-  },
-  {
-    "id": "feb3c2b9b9b512ec",
-    "title": "Don’t buy new tech this Black Friday: expert tips for buying refurbished phones and laptops",
-    "summary": "Tech on its last legs? Refurbished can be the cheaper, greener option.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2025/nov/27/expert-tips-buying-refurbished-tech-phones-laptop-uk",
-    "publishedAt": "2026-11-17T10:50:47.000Z"
-  },
-  {
-    "id": "0a0e369d3f8b767c",
-    "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
-    "summary": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
-    "publishedAt": "2026-11-17T10:47:18.000Z"
-  },
-  {
-    "id": "ebb2a14e940faf4a",
-    "title": "Trump arrives in Philippines to kick off Asia trip",
-    "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
-    "publishedAt": "2026-11-17T10:43:55.000Z"
-  },
-  {
-    "id": "89a719b24b9b5a52",
-    "title": "Fomula One champion Fernando Alonso to race at Dakar Rally 2027",
-    "summary": "Fernando Alonso will make his return to the Dakar Rally 2027 in Morocco with the Leob and Aston Martin team.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
-    "publishedAt": "2026-11-17T10:42:42.000Z"
-  },
-  {
-    "id": "1a8108f53b3fa11f",
-    "title": "Cass report author tells BBC draft conversion practices bill is not workable",
-    "summary": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo",
-    "publishedAt": "2026-11-17T10:36:21.000Z"
-  },
-  {
-    "id": "bbd0f183d729d393",
-    "title": "Former WH Smith chain TG Jones put up for sale after closing 130 stores",
-    "summary": "Modella Capital plans auction of high street retailer, which employs about 3,500 people, next year.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/17/wh-smith-tg-jones-sale-stores-modella-capita",
-    "publishedAt": "2026-11-17T10:33:01.000Z"
   }
 ]
