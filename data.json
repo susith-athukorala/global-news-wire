@@ -1,5 +1,140 @@
 [
   {
+    "id": "7a039a8c49c38dd7",
+    "title": "Japan urges creation of an Asian energy framework to counter oil crises",
+    "summary": "Japanese Prime Minister Sanae Takaichi has proposed the creation of an Asian energy agency to help countries in the region cope with oil crises, such as the shocks from the Iran war.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/japan-urges-creation-asian-energy-framework-counter-oil-138202916",
+    "publishedAt": "2026-11-17T10:07:59.000Z"
+  },
+  {
+    "id": "c78fde4315052dbc",
+    "title": "Would more hands-on dads create a more peaceful world? This pioneering scientist thinks so",
+    "summary": "Sarah Blaffer Hrdy unpicked Darwinian sexism to rewrite the story of evolution. Now, she’s turned her attention to the nature of fatherhood.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/17/would-more-hands-on-dads-create-a-more-peaceful-world-this-pioneering-scientist-thinks-so",
+    "publishedAt": "2026-11-17T10:00:10.000Z"
+  },
+  {
+    "id": "b4340710dbe71706",
+    "title": "Do school cellphone bans work? New study says yes – but it's complicated",
+    "summary": "A new study of school cellphone bans finds they may help students make up for some of the learning they've lost since 2013 – a divergence from earlier study results.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
+    "publishedAt": "2026-11-17T10:00:00.000Z"
+  },
+  {
+    "id": "d72eb9eccb6e93f2",
+    "title": "More people are getting the flu. Should you get a flu shot before you travel?",
+    "summary": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that's upon us?",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
+    "publishedAt": "2026-11-17T10:00:00.000Z"
+  },
+  {
+    "id": "001e9cad02ffd0f8",
+    "title": "Expert behind NHS children’s gender services review says she cannot back conversion practices ban",
+    "summary": "Hilary Cass says draft bill is having ‘chilling effect’ on healthcare professionals and could pose a risk to parents.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/17/expert-nhs-gender-review-cannot-back-conversion-practices-ban",
+    "publishedAt": "2026-11-17T09:51:03.000Z"
+  },
+  {
+    "id": "1c7792155df00109",
+    "title": "Powering towns on pig manure: How Denmark has transformed energy generation",
+    "summary": "Pigs are big business in Denmark. Now their waste is being turned into biogas, which powers the national grid.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/17/powering-towns-on-pig-manure-how-denmark-has-transformed-energy-generation?traffic_source=rss",
+    "publishedAt": "2026-11-17T09:51:02.000Z"
+  },
+  {
+    "id": "3ed305e1ffb46b51",
+    "title": "Russia downs over 1,400 Ukrainian drones as Kyiv hits a key bridge in Crimea",
+    "summary": "Ukraine's forces targeted a key rail and road bridge between Russia and the Crimean Peninsula for a second day. Moscow's forces, meanwhile, fired ballistic missiles and drones at Kyiv.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+    "publishedAt": "2026-11-17T09:50:45.000Z"
+  },
+  {
+    "id": "8360fc4a245b53c2",
+    "title": "Pope forgives person who nailed him in the eye with a rosary in Peru",
+    "summary": "Pope Leo XIV has forgiven the person who threw a rosary at him before his final Mass in Peru and nailed him in the eye.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-forgives-person-nailed-eye-rosary-peru-138202302",
+    "publishedAt": "2026-11-17T09:47:47.000Z"
+  },
+  {
+    "id": "701564270e850da1",
+    "title": "Health organization to announce that the U.S. has lost its measles elimination status",
+    "summary": "The Pan American Health Organization is expected to announce that measles is no longer eliminated in the U.S. Record cases, lower vaccination rates and uncontained outbreaks led to the resurgence.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6042892/health-organization-to-announce-that-the-u-s-has-lost-its-measles-elimination-status",
+    "publishedAt": "2026-11-17T09:46:43.000Z"
+  },
+  {
+    "id": "f4a3c58e612cf349",
+    "title": "More than £160m needed to clean up one of Europe's largest illegal dumps",
+    "summary": "Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo",
+    "publishedAt": "2026-11-17T09:46:31.000Z"
+  },
+  {
+    "id": "0180ed5a885979ad",
+    "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
+    "summary": "President Trump is off for a series of meetings in Asia that will cover trade, security and a rare trilateral meeting with China and Russia.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
+    "publishedAt": "2026-11-17T09:46:00.000Z"
+  },
+  {
+    "id": "b6a5b96612cc05c7",
+    "title": "Nvidia scandal and CEO's resignation rock Silicon Valley",
+    "summary": "Some in Silicon Valley are calling for former Nvidia CEO Jensen Huang to get his job back after he resigned amid reports of affairs with an alleged Chinese spy.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6043138/nvidia-scandal-and-ceos-resignation-rock-silicon-valley",
+    "publishedAt": "2026-11-17T09:45:01.000Z"
+  },
+  {
+    "id": "3ff7e1497711fd36",
+    "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+    "summary": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o",
+    "publishedAt": "2026-11-17T09:41:07.000Z"
+  },
+  {
+    "id": "85a26c9976447668",
+    "title": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
+    "summary": "The anti-Netanyahu bloc holds the keys to electing a new parliamentary speaker, setting the momentum for change.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role?traffic_source=rss",
+    "publishedAt": "2026-11-17T09:29:28.000Z"
+  },
+  {
+    "id": "3613b796376509c2",
+    "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+    "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o",
+    "publishedAt": "2026-11-17T09:27:44.000Z"
+  },
+  {
     "id": "34397ec1aa953dea",
     "title": "Tobacco group Imperial Brands to axe up to 4,600 jobs as it uses more AI",
     "summary": "Owner of JPS cigarettes, Golden Virginia tobacco, Blu vapes and Rizla has launched huge cost-cutting drive.",
@@ -34,6 +169,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6gm3912vvvyo",
     "publishedAt": "2026-11-17T08:51:40.000Z"
+  },
+  {
+    "id": "552e72f45612a566",
+    "title": "‘Line their own coffers’: independent MPs lambast Labor’s last-minute changes to election funding laws",
+    "summary": "Crossbenchers say the proposals could allow an ‘uncapped amount of money’ to flow to major parties through investment funds.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/17/line-their-own-coffers-independent-mps-lambast-labors-last-minute-changes-to-election-funding-laws",
+    "publishedAt": "2026-11-17T08:50:38.000Z"
   },
   {
     "id": "ad4dccd65a3607c4",
@@ -151,6 +295,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/17/cristiano-ronaldo-mother-portugal-coach-jorge-jesus?traffic_source=rss",
     "publishedAt": "2026-11-17T07:21:25.000Z"
+  },
+  {
+    "id": "6e2c208437b7f2db",
+    "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
+    "summary": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo",
+    "publishedAt": "2026-11-17T07:01:00.000Z"
   },
   {
     "id": "6486c29770631463",
@@ -432,6 +585,15 @@
     "publishedAt": "2026-11-17T02:42:22.000Z"
   },
   {
+    "id": "ef7ef8516cc1cef9",
+    "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+    "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo",
+    "publishedAt": "2026-11-17T02:38:08.000Z"
+  },
+  {
     "id": "325059606130af6e",
     "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
     "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
@@ -511,6 +673,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/16/fiona-hippo-eats-hat-cincinnati",
     "publishedAt": "2026-11-17T01:18:28.000Z"
+  },
+  {
+    "id": "115d73dd03914851",
+    "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+    "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+    "publishedAt": "2026-11-17T01:10:59.000Z"
   },
   {
     "id": "4c0a9c32d62dc9a0",
@@ -1177,176 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/16/anthropic-claude-risks-to-humanity-governance-ai",
     "publishedAt": "2026-11-16T18:18:57.000Z"
-  },
-  {
-    "id": "c7c97534a839252b",
-    "title": "British actor Robert Pattinson named as new James Bond",
-    "summary": "The actor called the studio's decision a 'dream come true'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
-    "publishedAt": "2026-11-16T18:13:14.000Z"
-  },
-  {
-    "id": "f582bf0dc53f6ed3",
-    "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-    "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-    "publishedAt": "2026-11-16T18:04:50.000Z"
-  },
-  {
-    "id": "a5f9a31e7d9fe53c",
-    "title": "Raising the state pension age above 70 would harm the poorest | Letters",
-    "summary": "Joanna Elson of the Independent Age charity is concerned about poverty among pensioners and says ministers need to think hard before making changes.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/16/raising-the-state-pension-age-above-70-would-harm-the-poorest",
-    "publishedAt": "2026-11-16T18:02:24.000Z"
-  },
-  {
-    "id": "05cd123b30c123f2",
-    "title": "Police ‘retreating from streets’ due to major funding crisis, chief constables say",
-    "summary": "Forces across England and Wales struggle amid financial pressures described as worst for decades.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/16/police-retreating-from-streets-major-funding-crisis-england-wales",
-    "publishedAt": "2026-11-16T18:00:50.000Z"
-  },
-  {
-    "id": "6fc0571b89499a30",
-    "title": "Cargo ship capsizes off Bulgaria’s Black Sea coast",
-    "summary": "Bulgaria's Transport Ministry says that all 12 of the ship's crew members were saved in a rescue operation.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss",
-    "publishedAt": "2026-11-16T17:54:31.000Z"
-  },
-  {
-    "id": "78c0025210e9b4bb",
-    "title": "Several companies are using Trump tariff refunds for corporate bonuses",
-    "summary": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
-    "publishedAt": "2026-11-16T17:52:13.000Z"
-  },
-  {
-    "id": "fc4e8640b755ee2f",
-    "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
-    "summary": "Occupied West Bank land defender is set to remain in detention until at least February 26 next year.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
-    "publishedAt": "2026-11-16T17:49:16.000Z"
-  },
-  {
-    "id": "f7aa1af00c015be9",
-    "title": "‘Near-philistine’: fury greets Shakespeare Institute plan to leave Stratford-upon-Avon",
-    "summary": "Renowned centre of Shakespeare studies, which is part of University of Birmingham, to move to its Edgbaston campus.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/education/2026/nov/16/near-philistine-fury-shakespeare-institute-plan-leave-stratford-upon-avon-edgbaston",
-    "publishedAt": "2026-11-16T17:45:02.000Z"
-  },
-  {
-    "id": "a86f0cf07a672a65",
-    "title": "Emma Barnett steps down from BBC Radio 4’s Today programme",
-    "summary": "Presenter says she will remain at the corporation working on show launching in 2027, as search for successor begins.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/16/emma-barnett-steps-down-bbc-radio-4-today-programme",
-    "publishedAt": "2026-11-16T17:36:07.000Z"
-  },
-  {
-    "id": "21d8d76d09ce873d",
-    "title": "Beckham firm sues after fragrance found for sale in discount store",
-    "summary": "Brand reacted with ‘shock and dismay’ after products were also found in a ‘bargain bin inside a gas station’",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
-    "publishedAt": "2026-11-16T17:35:59.000Z"
-  },
-  {
-    "id": "271b4d9fda3acde5",
-    "title": "Pakistan's imprisoned ex-leader Imran Khan appeals for urgent medical care",
-    "summary": "Imprisoned former Prime Minister Imran Khan has appealed to Pakistan's top judges for urgent medical treatment for himself and his wife.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pakistans-imprisoned-leader-imran-khan-appeals-urgent-medical-138177955",
-    "publishedAt": "2026-11-16T17:33:27.000Z"
-  },
-  {
-    "id": "8b3a9e38d408f331",
-    "title": "Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role",
-    "summary": "Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
-    "publishedAt": "2026-11-16T17:24:26.000Z"
-  },
-  {
-    "id": "f3f75958be84ef17",
-    "title": "Digital-only banks could be forced to fund high street banking",
-    "summary": "Treasury-backed review says customers of banks such as Monzo and Revolut often rely on physical cash services.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/16/digital-only-banks-monzo-revolut-fund-high-street-banking-facilities",
-    "publishedAt": "2026-11-16T17:18:56.000Z"
-  },
-  {
-    "id": "50abd88093e753a6",
-    "title": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
-    "summary": "US pressure on Iraq to curb Tehran's influence leaves potential for direct confrontation with Iran-linked armed group.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
-    "publishedAt": "2026-11-16T17:18:14.000Z"
-  },
-  {
-    "id": "08ec5c17ee75deb7",
-    "title": "Mexican drug kingpin Félix Gallardo, founder of Guadalajara cartel, dies at 80",
-    "summary": "Gallardo, nicknamed the “Boss of Bosses,” died of multiple organ failure.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/mexican-drug-kingpin-flix-gallardo-founder-guadalajara-cartel-138183861",
-    "publishedAt": "2026-11-16T17:14:36.000Z"
-  },
-  {
-    "id": "c1e0920ae4f7945a",
-    "title": "Macron leaves summit of French-speaking nations with leadership dispute on hold",
-    "summary": "French President Emmanuel Macron left a summit of French-speaking nations on Monday with uncertainty still hanging over the organization’s leadership after a dispute between Rwanda and Congo.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/macron-leaves-summit-french-speaking-nations-leadership-dispute-138172198",
-    "publishedAt": "2026-11-16T17:11:43.000Z"
-  },
-  {
-    "id": "5b99adf247815d10",
-    "title": "Judge sets Lindsay Clancy retrial for March in killings of her three children",
-    "summary": "Clancy’s first trial on charges of first-degree murder ended in mistrial after jurors couldn’t reach unanimous verdict.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/lindsay-clancy-retrial-march",
-    "publishedAt": "2026-11-16T17:07:54.000Z"
-  },
-  {
-    "id": "fcc96111cf3e4863",
-    "title": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears",
-    "summary": "The bloc imposed sanctions on nearly 50 Russian banks, financial institutions.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/eu-accuses-russia-stalling-ukraine-peace-talks-target-138172402",
-    "publishedAt": "2026-11-16T17:02:04.000Z"
-  },
-  {
-    "id": "1cbeb891f819301c",
-    "title": "Iran braces for natural gas shortages during winter energy imbalance",
-    "summary": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
-    "publishedAt": "2026-11-16T16:58:46.000Z"
   }
 ]
