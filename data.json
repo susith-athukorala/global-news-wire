@@ -1,5 +1,113 @@
 [
   {
+    "id": "e70024e15fe7af15",
+    "title": "More than 100,000 take part in France pay protests",
+    "summary": "Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
+    "publishedAt": "2026-11-17T19:09:49.000Z"
+  },
+  {
+    "id": "4e5d8dd77632b2b3",
+    "title": "Pope Leo’s envoy brings message of comfort and unity to Holy Land Christians",
+    "summary": "The Catholic cardinal who oversees care of the faithful in the Holy Land visited Jerusalem to convey Pope Leo XIV's presence during troubled times for Christians.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-leos-envoy-brings-message-comfort-unity-holy-138220614",
+    "publishedAt": "2026-11-17T19:05:12.000Z"
+  },
+  {
+    "id": "25cf1dd79d3fe93f",
+    "title": "Angry crowds rally against Slovakia's pro-Russian leader on Velvet Revolution anniversary",
+    "summary": "Crowds have gathered in Slovakia to protest the government of pro-Russian Prime Minister Robert Fico on the anniversary of the 1989 Velvet Revolution, which ended communist rule in Czechoslovakia.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/angry-crowds-rally-slovakias-pro-russian-leader-velvet-138221924",
+    "publishedAt": "2026-11-17T19:04:53.000Z"
+  },
+  {
+    "id": "46a59dad89819575",
+    "title": "Children linked to religious sect raided by UK police now subject of care proceedings",
+    "summary": "Scale of cases in family court relating to Ahmadi Religion of Peace and Light ‘rarely seen before’, one lawyer said.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/17/ahmadi-religion-of-peace-and-light-aropl-children-care-family-courts",
+    "publishedAt": "2026-11-17T19:04:47.000Z"
+  },
+  {
+    "id": "4c73605e859eef97",
+    "title": "NSA’s classified internal communications network reportedly faces outage",
+    "summary": "Disruption at US intelligence agency comes amid questions over recent outages in air travel, communications services.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
+    "publishedAt": "2026-11-17T19:03:14.000Z"
+  },
+  {
+    "id": "87064c77c3589376",
+    "title": "National Security Agency network for internal communications goes down",
+    "summary": "NSA issues ‘code yellow’ as NSANet, used by staff to share classified material, including top-secret intelligence, fails.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down",
+    "publishedAt": "2026-11-17T19:00:21.000Z"
+  },
+  {
+    "id": "a1fc2b7a4056c1cc",
+    "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
+    "summary": "The Palestinian Health Ministry says Fadda Mohammed Fheidat, 72, was shot dead by Israeli settlers.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
+    "publishedAt": "2026-11-17T18:43:46.000Z"
+  },
+  {
+    "id": "2ab58983706a81fd",
+    "title": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+    "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, its third attack in recent days on American military targets in the Gulf island kingdom after a roughly two-month lull in fighting.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+    "publishedAt": "2026-11-17T18:34:31.000Z"
+  },
+  {
+    "id": "db88cd04b73e6eb1",
+    "title": "Will the Milburn review come good or go south? Either way, we’ll always have Eurovision",
+    "summary": "The announcement of state plans to engage with young people told us nothing we hadn’t already heard, but it still felt momentous.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/17/will-the-milburn-review-come-good-or-go-south-either-way-well-always-have-eurovision",
+    "publishedAt": "2026-11-17T18:28:42.000Z"
+  },
+  {
+    "id": "ee3c63eaa00a4e5b",
+    "title": "Joe Biden criticizes Zelenskyy as ‘moody’ and ‘not as grateful’ in new memoir",
+    "summary": "Promise Me, America was published just before the former US president’s 84th birthday as he battles advanced cancer.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/biden-memoir-zelenskyy-ukraine",
+    "publishedAt": "2026-11-17T18:27:51.000Z"
+  },
+  {
+    "id": "31d16b6ff4cf7642",
+    "title": "Jensen Huang agrees to testify before US House, says can resume CEO role",
+    "summary": "Huang said he is ready to return as Nvidia CEO if the company's board would like him back at the helm.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss",
+    "publishedAt": "2026-11-17T18:14:06.000Z"
+  },
+  {
+    "id": "6af73e49fd3f903e",
+    "title": "UK backs idea of new levies on polluting sectors to pay for climate action costs",
+    "summary": "Britain joins other signatories to statement urging introduction of targeted taxes on heavy emitters.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/17/cop31-uk-backs-new-levies-polluting-sectors",
+    "publishedAt": "2026-11-17T17:59:41.000Z"
+  },
+  {
     "id": "574f499b55a7cf42",
     "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
     "summary": "High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy.",
@@ -133,6 +241,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
     "publishedAt": "2026-11-17T17:09:32.000Z"
+  },
+  {
+    "id": "6a0b0cc96336930c",
+    "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+    "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
+    "publishedAt": "2026-11-17T16:56:38.000Z"
   },
   {
     "id": "fd43296f1cf9ed50",
@@ -1080,6 +1197,15 @@
     "publishedAt": "2026-11-17T09:41:07.000Z"
   },
   {
+    "id": "30e6013ab6dadb08",
+    "title": "Some Afghan women quietly defy Taliban bans",
+    "summary": "In the shadows of the Afghan capital’s bustling streets, many women live in a hidden world, secretly defying the laws imposed on them when the Taliban seized power in August 2021.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/afghan-women-quietly-defy-taliban-bans-opening-secret-138200702",
+    "publishedAt": "2026-11-17T09:38:26.000Z"
+  },
+  {
     "id": "85a26c9976447668",
     "title": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
     "summary": "The anti-Netanyahu bloc holds the keys to electing a new parliamentary speaker, setting the momentum for change.",
@@ -1222,131 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/environment/2026/nov/17/farming-apple-growers-climate-breakdown-thatchers-cider-wildflowers-soil-water-insects-aoe",
     "publishedAt": "2026-11-17T08:00:08.000Z"
-  },
-  {
-    "id": "c554fb7a9bd7e08e",
-    "title": "Waitrose to expand digital broadcasting after festive ad launch wins 2m views",
-    "summary": "Chief executive of supermarket says it is considering new projects after success of Dish podcast and YouTube channel.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/17/waitrose-christmas-ad-launch-keira-knightley",
-    "publishedAt": "2026-11-17T08:00:07.000Z"
-  },
-  {
-    "id": "0922d1c918af0e5c",
-    "title": "Japan sends up jets after alleged Russian incursion of its airspace",
-    "summary": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o",
-    "publishedAt": "2026-11-17T07:44:17.000Z"
-  },
-  {
-    "id": "2a25e8c6bdfa0819",
-    "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-    "summary": "Photos of bridge, built after 2014 annexation and viewed by Ukraine as illegal, suggest massive steel arch has fallen into water.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
-    "publishedAt": "2026-11-17T07:42:26.000Z"
-  },
-  {
-    "id": "793b39c42854f992",
-    "title": "Bahrain thwarts drone attack, Iran claims targeting US military radar",
-    "summary": "The IRGC says the attack is part of efforts to counter 'hostile activities of US forces in the region'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
-    "publishedAt": "2026-11-17T07:35:54.000Z"
-  },
-  {
-    "id": "901e9997c0372f96",
-    "title": "India has been named a ‘destination of the year’ for 2027 – here are insiders’ tips on travelling beyond the tropes",
-    "summary": "As tourism booms, three experienced female travellers give their take on how to make the most of travelling here.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/16/is-is-india-travel-boom-travel-and-leisure-women",
-    "publishedAt": "2026-11-17T07:30:06.000Z"
-  },
-  {
-    "id": "81ff25122bd9012e",
-    "title": "Portugal coach Jorge Jesus responds to criticism from Ronaldo’s mother",
-    "summary": "Ronaldo's mother said she was glad to see Jesus suffer his first defeat after he had 'deceived' her son.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/17/cristiano-ronaldo-mother-portugal-coach-jorge-jesus?traffic_source=rss",
-    "publishedAt": "2026-11-17T07:21:25.000Z"
-  },
-  {
-    "id": "6e2c208437b7f2db",
-    "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
-    "summary": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo",
-    "publishedAt": "2026-11-17T07:01:00.000Z"
-  },
-  {
-    "id": "6486c29770631463",
-    "title": "Simply telling the AA about my minor no-fault, no-claim prang doubled my insurance quote",
-    "summary": "A recent £364 renewal quote suddenly increased to an extortionate £796.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/17/no-fault-no-claim-minor-car-accident-doubled-insurance-renewal-quote",
-    "publishedAt": "2026-11-17T07:00:08.000Z"
-  },
-  {
-    "id": "71566e5ba7c129a7",
-    "title": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
-    "summary": "New tech wealth, amassed with remarkable speed, is now washing up on British shores.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
-    "publishedAt": "2026-11-17T07:00:07.000Z"
-  },
-  {
-    "id": "46e5fa49c23d71dc",
-    "title": "Tokyo protests after two suspected Russian aircraft violate Japanese airspace",
-    "summary": "Japan said it has protested to Moscow after two suspected Russian warplanes temporarily entered Japanese airspace off the country’s southwestern coast on Tuesday as tensions escalate between the two sides.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/tokyo-protests-after-suspected-russian-aircraft-violate-japanese-138201049",
-    "publishedAt": "2026-11-17T06:57:20.000Z"
-  },
-  {
-    "id": "b6868768454bf25a",
-    "title": "‘Disgusted by it’: body of Melbourne Cup race horse found dumped in Sydney skip bin",
-    "summary": "So You Are placed eighth in race just two weeks ago and was put down after a severe bout of colic.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb",
-    "publishedAt": "2026-11-17T06:39:24.000Z"
-  },
-  {
-    "id": "9efce15ccb9c7114",
-    "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-    "summary": "Organisers say up to 10,000 people could join the next round of demonstrations ahead of the US president’s arrival in Manila for the Asean summit.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
-    "publishedAt": "2026-11-17T06:37:35.000Z"
-  },
-  {
-    "id": "cb0c5eb2fbafeb96",
-    "title": "Aboriginal mother allegedly kicked off a bus in regional NSW because her baby was crying",
-    "summary": "The NSW transport department says passenger safety is its ‘highest priority’ and the driver is no longer employed by the operator.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/17/aboriginal-mother-allegedly-kicked-off-bus-crying-baby-ntwnfb",
-    "publishedAt": "2026-11-17T06:18:03.000Z"
-  },
-  {
-    "id": "975ffc35667c2418",
-    "title": "Woman who got hooked on nasal spray for 10 years says it cost her thousands",
-    "summary": "Louise Gough says her dependence on decongestant nasal sprays left her feeling like a prisoner.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cj93ry10rl11o",
-    "publishedAt": "2026-11-17T06:12:23.000Z"
   }
 ]
