@@ -1,5 +1,104 @@
 [
   {
+    "id": "59af207e6b43c1ec",
+    "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
+    "summary": "US officials ‘continue to debate whether Iran can or will attempt to execute’ plot to detonate a ‘dirty bomb’, report says.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
+    "publishedAt": "2026-11-17T16:03:34.000Z"
+  },
+  {
+    "id": "348a0165c0fc5972",
+    "title": "4 detained in North Macedonia for alleged Iran-backed assassination plot in Greece",
+    "summary": "Authorities in North Macedonia say four people have been detained for questioning over an alleged Iran-linked assassination plot in neighboring Greece.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/4-detained-north-macedonia-alleged-iran-backed-assassination-138214034",
+    "publishedAt": "2026-11-17T16:01:02.000Z"
+  },
+  {
+    "id": "75f0e536e404aadb",
+    "title": "‘They learn the job doing the job’: the project helping UK’s Neets into work",
+    "summary": "Labour’s plan to get young unemployed people into work involves overhaul of welfare support, but for those with disabilities, specialist help is crucial.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/17/helping-neets-into-work-project",
+    "publishedAt": "2026-11-17T16:00:15.000Z"
+  },
+  {
+    "id": "47b4728cc9a6d81a",
+    "title": "UK sanctions firms over Israeli West Bank settlements",
+    "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o",
+    "publishedAt": "2026-11-17T15:59:47.000Z"
+  },
+  {
+    "id": "2f730ed45da87e4f",
+    "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+    "summary": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko",
+    "publishedAt": "2026-11-17T15:56:04.000Z"
+  },
+  {
+    "id": "9b3e4e64bfeabec8",
+    "title": "US Pentagon fails ninth straight audit despite progress in organizing finances",
+    "summary": "The audits check whether financial statements ​are fairly presented and financial systems ‌and processes are sound.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/pentagon-fails-audit",
+    "publishedAt": "2026-11-17T15:43:12.000Z"
+  },
+  {
+    "id": "66ef65e94fd251da",
+    "title": "How the attack on Crimean Bridge unfolded",
+    "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo",
+    "publishedAt": "2026-11-17T15:38:10.000Z"
+  },
+  {
+    "id": "b7f3fe73a9bca81b",
+    "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
+    "summary": "Southern separatists try to regain power to defend Aden as Saudi Arabia reshuffles its military command against Houthis.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
+    "publishedAt": "2026-11-17T15:26:55.000Z"
+  },
+  {
+    "id": "7eb996b94155b0a3",
+    "title": "Iran-backed group warns Iraqi forces against entering its stronghold near Baghdad",
+    "summary": "Kataib Hezbollah, a powerful Iran-backed armed group, has vowed to confront Iraqi government forces if they enter its stronghold near Baghdad.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/iran-backed-group-warns-iraqi-forces-entering-stronghold-138213451",
+    "publishedAt": "2026-11-17T15:20:52.000Z"
+  },
+  {
+    "id": "2d6e0dc8ee36eff3",
+    "title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
+    "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o",
+    "publishedAt": "2026-11-17T15:17:49.000Z"
+  },
+  {
+    "id": "458954e371fb7479",
+    "title": "US bank services returning to normal after major outage",
+    "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o",
+    "publishedAt": "2026-11-17T15:04:24.000Z"
+  },
+  {
     "id": "2538578688cbe576",
     "title": "Scammed migrant workers in UK to be considered possible victims of modern slavery",
     "summary": "Home Office changes policy after legal challenge over case of care worker scammed out of £22,000.",
@@ -277,6 +376,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
     "publishedAt": "2026-11-17T12:38:39.000Z"
+  },
+  {
+    "id": "f1fb5ad4d2079fac",
+    "title": "Where are the most jobs for 18-24 year-olds?",
+    "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko",
+    "publishedAt": "2026-11-17T12:35:53.000Z"
   },
   {
     "id": "459671b617fc3b10",
@@ -855,6 +963,15 @@
     "publishedAt": "2026-11-17T08:01:47.000Z"
   },
   {
+    "id": "788eef3f42aae51f",
+    "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
+    "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o",
+    "publishedAt": "2026-11-17T08:01:38.000Z"
+  },
+  {
     "id": "4cd462fe9068bdde",
     "title": "Drought, early harvests and wet winters: can an experimental orchard save the UK’s cider industry?",
     "summary": "Farmers are utilising science and nature to help orchards adapt and thrive in the face of shifting temperatures, rainfall and pests.",
@@ -1231,122 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
     "publishedAt": "2026-11-17T02:37:53.000Z"
-  },
-  {
-    "id": "13821325b9ed95c5",
-    "title": "David Jones’ total debt is over $400m including millions owed to staff, administrators confirm",
-    "summary": "Creditors meeting hears upmarket retailer owes $11m to employees and recorded a net loss of $228m last financial year.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/17/david-jones-creditors-meeting-debt-administrators",
-    "publishedAt": "2026-11-17T02:11:43.000Z"
-  },
-  {
-    "id": "25600330389395e5",
-    "title": "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine",
-    "summary": "Bougainville cabinet minister says fund gives chance to find solutions to ‘huge problems we have been living with since the days of the mine’s operation’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png",
-    "publishedAt": "2026-11-17T02:02:30.000Z"
-  },
-  {
-    "id": "cc3fdcbd8c2d4c2e",
-    "title": "Mozambique's Mondlane is the latest opposition leader to go on trial in Africa",
-    "summary": "Mozambique’s opposition leader will go on trial charged with instigating terrorism and inciting civil disobedience in relation to monthslong anti-government protests that broke out following a disputed 2024 election.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/mozambiques-venancio-mondlane-latest-opposition-leader-trial-africa-138196123",
-    "publishedAt": "2026-11-17T01:49:37.000Z"
-  },
-  {
-    "id": "899257ebfc02648d",
-    "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
-    "summary": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
-    "publishedAt": "2026-11-17T01:38:13.000Z"
-  },
-  {
-    "id": "f95f1206c26ca143",
-    "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-    "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko",
-    "publishedAt": "2026-11-17T01:26:01.000Z"
-  },
-  {
-    "id": "4ba609ef4470bd06",
-    "title": "Truck driver fired for ‘unsafe’ use of smartglasses in first reported sacking over device in Australia",
-    "summary": "Toll employee Ricardo Martins Silva used smartglasses to take photos at an LPG terminal despite the risk of an explosion caused by an electrical spark, a court heard.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/17/toll-truck-driver-fired-sacked-smartglasses-australia-ntwnfb",
-    "publishedAt": "2026-11-17T01:25:08.000Z"
-  },
-  {
-    "id": "02b6262a7355a1b2",
-    "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
-    "summary": "Three children and a woman were injured in the attack outside a central Dublin school in 2023.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
-    "publishedAt": "2026-11-17T01:19:56.000Z"
-  },
-  {
-    "id": "0c97473baf472110",
-    "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo",
-    "summary": "Knit hat caught in ceiling fan and flung into enclosure eaten by Fiona, who is being closely monitored by zoo staff.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/fiona-hippo-eats-hat-cincinnati",
-    "publishedAt": "2026-11-17T01:18:28.000Z"
-  },
-  {
-    "id": "115d73dd03914851",
-    "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
-    "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
-    "publishedAt": "2026-11-17T01:10:59.000Z"
-  },
-  {
-    "id": "4c0a9c32d62dc9a0",
-    "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
-    "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo",
-    "publishedAt": "2026-11-17T01:04:45.000Z"
-  },
-  {
-    "id": "ae1b63a90fce4748",
-    "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
-    "summary": "Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
-    "publishedAt": "2026-11-17T00:45:11.000Z"
-  },
-  {
-    "id": "b72ec2876e056bba",
-    "title": "UK seeks closer ties with EU after Brexit fail",
-    "summary": "Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
-    "publishedAt": "2026-11-17T00:30:21.000Z"
-  },
-  {
-    "id": "52301871255b2458",
-    "title": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
-    "summary": "The country's unresolved Oromia-Somali border dispute fuels renewed violence, displacing thousands.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
-    "publishedAt": "2026-11-17T00:21:19.000Z"
   }
 ]
