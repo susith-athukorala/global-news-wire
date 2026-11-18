@@ -1,5 +1,86 @@
 [
   {
+    "id": "4003574a4fa9700c",
+    "title": "Higher fuel prices push UK inflation to 3.6%",
+    "summary": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
+    "publishedAt": "2026-11-18T07:15:33.000Z"
+  },
+  {
+    "id": "95931435819c3270",
+    "title": "UK inflation rises to 3.6% as energy prices increase",
+    "summary": "October annual rate piles pressure on households as Iran war pushes up oil cost and rattles global economy.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
+    "publishedAt": "2026-11-18T07:01:09.000Z"
+  },
+  {
+    "id": "f0f608db8626685b",
+    "title": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
+    "summary": "Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16s.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study",
+    "publishedAt": "2026-11-18T07:00:36.000Z"
+  },
+  {
+    "id": "16292c916a375f49",
+    "title": "Life insurance: do you have a safety net to protect you and your family if the worst happens?",
+    "summary": "More people take pet insurance than income protection policies but here are plans worth considering.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/18/life-insurance-explained-types-of-cover",
+    "publishedAt": "2026-11-18T07:00:36.000Z"
+  },
+  {
+    "id": "f61454ddac633cbe",
+    "title": "Iran war dents Middle East sports as events are canceled. F1 bucks the trend",
+    "summary": "The season-ending Formula 1 races in the Middle East are going ahead despite the war in Iran and retaliatory attacks across the region that have canceled or postponed other large sports events.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/iran-war-dents-middle-east-sports-model-events-138239007",
+    "publishedAt": "2026-11-18T06:41:32.000Z"
+  },
+  {
+    "id": "231a189cb27a66f1",
+    "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
+    "summary": "The US secretary of state was speaking after Microsoft, major banks, and the National Security Agency were all affected by technical failures in recent days.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+    "publishedAt": "2026-11-18T06:26:49.000Z"
+  },
+  {
+    "id": "b75f3918528c7e52",
+    "title": "Conservationists searching for large river eels",
+    "summary": "The Tees Rivers Trust has been searching for eels to tag and track as they migrate out to sea.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck3rgl783xqro",
+    "publishedAt": "2026-11-18T06:19:28.000Z"
+  },
+  {
+    "id": "aa4bb8c23710e480",
+    "title": "How the Houthis fund war effort and tighten grip on Yemen",
+    "summary": "The Houthis’ expanding war economy fuels military recruitment while poverty deepens and public services deteriorate.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
+    "publishedAt": "2026-11-18T06:19:17.000Z"
+  },
+  {
+    "id": "aa50497c14006bbd",
+    "title": "States to debate social security contributions cut",
+    "summary": "The amendment is being brought forward by deputies Gavin St Pier and Tom Rylatt.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqgm39mwjgjpo",
+    "publishedAt": "2026-11-18T06:17:58.000Z"
+  },
+  {
     "id": "280b464cd48bdf52",
     "title": "What's gone wrong at Britain's worst bathing site?",
     "summary": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
@@ -981,6 +1062,15 @@
     "publishedAt": "2026-11-17T19:00:21.000Z"
   },
   {
+    "id": "2d6e0dc8ee36eff3",
+    "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+    "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o",
+    "publishedAt": "2026-11-17T18:58:57.000Z"
+  },
+  {
     "id": "a1fc2b7a4056c1cc",
     "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
     "summary": "The Palestinian Health Ministry says Fadda Mohammed Fheidat, 72, was shot dead by Israeli settlers.",
@@ -1258,95 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
     "publishedAt": "2026-11-17T16:40:55.000Z"
-  },
-  {
-    "id": "d9f6d74fe11ff889",
-    "title": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
-    "summary": "Partial demolition of bridge linking Russia and occupied Crimea is obvious embarrassment to Putin days before meeting with Xi and Trump.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis",
-    "publishedAt": "2026-11-17T16:40:26.000Z"
-  },
-  {
-    "id": "610bed2ebd821afd",
-    "title": "Thousands demand cancellation of Nathan Cofnas talk at Oxford University",
-    "summary": "Online petition with more than 32,000 signatures demands the university 'cancel Nathan Cofnas's invitation to speak'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/thousands-demand-cancellation-of-nathan-cofnas-talk-at-oxford-university?traffic_source=rss",
-    "publishedAt": "2026-11-17T16:38:28.000Z"
-  },
-  {
-    "id": "77ab65f34ee9bcc6",
-    "title": "US loses measles elimination status amid worst outbreak since 1991",
-    "summary": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
-    "publishedAt": "2026-11-17T16:16:24.000Z"
-  },
-  {
-    "id": "c72367bfbd838782",
-    "title": "Election-winning student movement enters Serbia’s new parliament",
-    "summary": "Hundreds hail Student List lawmakers as the new parliament meets for the first time.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament?traffic_source=rss",
-    "publishedAt": "2026-11-17T16:13:48.000Z"
-  },
-  {
-    "id": "db4d2925d4a1ef28",
-    "title": "‘We will have been spared a lot’: Kessler twins explained assisted dying decision in final letter",
-    "summary": "Pop-singing sisters, who died together aged 89 last year, described declining health and expressed gratitude assisted dying was an option.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/17/kessler-twins-assisted-dying-decision",
-    "publishedAt": "2026-11-17T16:12:58.000Z"
-  },
-  {
-    "id": "ebe27a4f6b9b122c",
-    "title": "US officially loses measles-free status after 26 years amid outbreak",
-    "summary": "A major health organisation declared measles endemic in US for first time since 2000, reversing decades of progress.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss",
-    "publishedAt": "2026-11-17T16:07:53.000Z"
-  },
-  {
-    "id": "59af207e6b43c1ec",
-    "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
-    "summary": "US officials ‘continue to debate whether Iran can or will attempt to execute’ plot to detonate a ‘dirty bomb’, report says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
-    "publishedAt": "2026-11-17T16:03:34.000Z"
-  },
-  {
-    "id": "348a0165c0fc5972",
-    "title": "4 detained in North Macedonia for alleged Iran-backed assassination plot in Greece",
-    "summary": "Authorities in North Macedonia say four people have been detained for questioning over an alleged Iran-linked assassination plot in neighboring Greece.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/4-detained-north-macedonia-alleged-iran-backed-assassination-138214034",
-    "publishedAt": "2026-11-17T16:01:02.000Z"
-  },
-  {
-    "id": "75f0e536e404aadb",
-    "title": "‘They learn the job doing the job’: the project helping UK’s Neets into work",
-    "summary": "Labour’s plan to get young unemployed people into work involves overhaul of welfare support, but for those with disabilities, specialist help is crucial.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/17/helping-neets-into-work-project",
-    "publishedAt": "2026-11-17T16:00:15.000Z"
-  },
-  {
-    "id": "47b4728cc9a6d81a",
-    "title": "UK sanctions firms over Israeli West Bank settlements",
-    "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o",
-    "publishedAt": "2026-11-17T15:59:47.000Z"
   }
 ]
