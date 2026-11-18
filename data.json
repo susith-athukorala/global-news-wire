@@ -1,5 +1,104 @@
 [
   {
+    "id": "1b18023527bf707b",
+    "title": "Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit",
+    "summary": "Trump told Philippine President Marcos he knew his parents 'very well'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
+    "publishedAt": "2026-11-18T18:09:57.000Z"
+  },
+  {
+    "id": "cde1f5190a74d2ba",
+    "title": "Tell us: are you playing Grand Theft Auto VI?",
+    "summary": "Grand Theft Auto VI has finally arrived. We’d like to hear your initial thoughts.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/18/tell-us-are-you-playing-grand-theft-auto-vi",
+    "publishedAt": "2026-11-18T18:00:04.000Z"
+  },
+  {
+    "id": "6addfade593ec8e1",
+    "title": "Cheese, pet passports and youth mobility: what’s in the UK-EU ‘relationship reset’ draft?",
+    "summary": "Leaked text of 72-paragraph second draft shows agreement has largely been reached before expected signoff on Friday.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer",
+    "publishedAt": "2026-11-18T17:56:39.000Z"
+  },
+  {
+    "id": "2559e1aba1f83760",
+    "title": "Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s",
+    "summary": "Scientists tell Commons exposure to colibactin in early life is potential driver of early-onset colorectal cancer.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/18/bacterial-toxin-e-coli-bowel-cancer-under-50s",
+    "publishedAt": "2026-11-18T17:55:14.000Z"
+  },
+  {
+    "id": "9885e5a301e8d4a7",
+    "title": "Alexander Zverev notified of abuse lawsuit by ex-partner during ATP Finals",
+    "summary": "Alexander Zverev was officially notified of a lawsuit filed by his former partner during the middle of the season-ending ATP Finals on Wednesday. The latest legal case against the men’s world No 1 brought by the mother of the former couple’s daughter alleges that Zverev violated the terms of an out-of-court…",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/sport/2026/nov/18/alexander-zverev-abuse-lawsuit-atp-finals-finals-brenda-patea",
+    "publishedAt": "2026-11-18T17:52:39.000Z"
+  },
+  {
+    "id": "8a5d0f11f0f35719",
+    "title": "Regulator mistakenly sent complaints about doctors to newspaper",
+    "summary": "Information sent to the Times newspaper by the General Medical Council included summaries of complaints alleging antisemitism and Islamophobia against doctors.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko",
+    "publishedAt": "2026-11-18T17:48:10.000Z"
+  },
+  {
+    "id": "421fe2bd9b346442",
+    "title": "Senate committee rejects Trump nominee to lead National Science Foundation",
+    "summary": "Committee chair Bill Cassidy, a Republican, said Jim O’Neill ‘did not do enough to stand up for science’ in previous posts.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee",
+    "publishedAt": "2026-11-18T17:46:34.000Z"
+  },
+  {
+    "id": "0ee878b982ebce30",
+    "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
+    "summary": "Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-18T17:45:09.000Z"
+  },
+  {
+    "id": "30d07b6e38bbe517",
+    "title": "Traces of filler found in heart and brain of woman who died after cosmetic procedure, UK inquest hears",
+    "summary": "Jury told Jordan Parke injected seven times amount of filler he was taught to use during Alice Webb’s ‘Brazilian butt lift’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/18/traces-of-filler-found-in-heart-and-brain-of-woman-who-died-after-cosmetic-procedure-uk-inquest-hears",
+    "publishedAt": "2026-11-18T17:42:22.000Z"
+  },
+  {
+    "id": "900cfe6e4d26cb35",
+    "title": "Man charged in connection to bomb threat at Illinois ethanol plant",
+    "summary": "Andrew M Kozak, 41, pleaded not guilty to two charges in federal court after an explosive device was found at facility.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/illinois-ethanol-plant-bomb-threat-charges",
+    "publishedAt": "2026-11-18T17:37:09.000Z"
+  },
+  {
+    "id": "b822906e6de8ab6f",
+    "title": "New pro-Brexit campaign took Westminster by surprise, but it is relying on the same old playbook",
+    "summary": "No 10 is confident Burnham can make the case for closer EU ties, with polling showing support from 71% of voters.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
+    "publishedAt": "2026-11-18T17:27:12.000Z"
+  },
+  {
     "id": "29362b5d065b0e65",
     "title": "California Republicans won only four of state’s 52 US House seats in midterms",
     "summary": "California Democrats flipped five seats and will send 48 representatives to DC after successful redistricting effort.",
@@ -675,6 +774,15 @@
     "publishedAt": "2026-11-18T12:00:57.000Z"
   },
   {
+    "id": "06612b957537e5fc",
+    "title": "Annoying Trump and dodging Flock: inside MapQuest’s contrarian comeback",
+    "summary": "After refusing to obey the president’s Lake Ontario order, MapQuest briefly rose to No 1 in navigation apps. It’s now a tool in the US anti-surveillance movement.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/mapquest-google-apple-navigation-app-flock",
+    "publishedAt": "2026-11-18T12:00:56.000Z"
+  },
+  {
     "id": "b99b9593fd906d2e",
     "title": "‘Partnership buys silence’: Fears grow over EU-Rwanda deportation plans",
     "summary": "A British immigration lawyer, Rwandan journalist, rights groups and leading politicians decry the proposal as inhumane.",
@@ -1215,6 +1323,15 @@
     "publishedAt": "2026-11-18T07:00:25.000Z"
   },
   {
+    "id": "17cf5eda5383f295",
+    "title": "Bikie ‘not surprised’ if he used fake $20,000 souvlaki invoice to pocket thousands on Big Build site, inquiry hears",
+    "summary": "Royal commission sees text message where Bandidos member Joel Leavitt says ‘just make up a quote that hits 20K’ while working on site for CFMEU.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
+    "publishedAt": "2026-11-18T06:48:28.000Z"
+  },
+  {
     "id": "f61454ddac633cbe",
     "title": "Iran war dents Middle East sports as events are canceled. F1 bucks the trend",
     "summary": "The season-ending Formula 1 races in the Middle East are going ahead despite the war in Iran and retaliatory attacks across the region that have canceled or postponed other large sports events.",
@@ -1231,122 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
     "publishedAt": "2026-11-18T06:26:49.000Z"
-  },
-  {
-    "id": "b75f3918528c7e52",
-    "title": "Conservationists searching for large river eels",
-    "summary": "The Tees Rivers Trust has been searching for eels to tag and track as they migrate out to sea.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck3rgl783xqro",
-    "publishedAt": "2026-11-18T06:19:28.000Z"
-  },
-  {
-    "id": "aa4bb8c23710e480",
-    "title": "How the Houthis fund war effort and tighten grip on Yemen",
-    "summary": "The Houthis’ expanding war economy fuels military recruitment while poverty deepens and public services deteriorate.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
-    "publishedAt": "2026-11-18T06:19:17.000Z"
-  },
-  {
-    "id": "aa50497c14006bbd",
-    "title": "States to debate social security contributions cut",
-    "summary": "The amendment is being brought forward by deputies Gavin St Pier and Tom Rylatt.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqgm39mwjgjpo",
-    "publishedAt": "2026-11-18T06:17:58.000Z"
-  },
-  {
-    "id": "280b464cd48bdf52",
-    "title": "What's gone wrong at Britain's worst bathing site?",
-    "summary": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o",
-    "publishedAt": "2026-11-18T06:12:44.000Z"
-  },
-  {
-    "id": "941d9d7c875e4ee0",
-    "title": "How important are Nvidia and Jensen Huang to the US economy?",
-    "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo",
-    "publishedAt": "2026-11-18T06:04:21.000Z"
-  },
-  {
-    "id": "60fbb837a588ce41",
-    "title": "‘Deeply concerning’: NHS in England reports more than 3,000 incidents of staff snooping on patients’ records",
-    "summary": "Campaign groups and regulators say data breaches are distressing for patients and families and erode trust in the health service.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/18/nhs-england-staff-snooping-patients-records",
-    "publishedAt": "2026-11-18T06:00:34.000Z"
-  },
-  {
-    "id": "424403895d493977",
-    "title": "How to deal with a class difference in friendships? Make fun of your privileged friends",
-    "summary": "Lasting cross-class friendships involve routinely ‘taking the piss’ out of the more privileged party, research by the LSE shows.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/inequality/2026/nov/18/class-difference-friendships-research-lse",
-    "publishedAt": "2026-11-18T06:00:32.000Z"
-  },
-  {
-    "id": "aeb433058d2ab7bb",
-    "title": "What’s in the air you breathe? How to stay safe during smog season",
-    "summary": "India and Pakistan had 42 of the world’s 50 most polluted cities in 2025. Millions now face another toxic winter.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/whats-in-the-air-you-breathe-how-to-stay-safe-during-smog-season-2?traffic_source=rss",
-    "publishedAt": "2026-11-18T05:55:08.000Z"
-  },
-  {
-    "id": "9af004fe6851934a",
-    "title": "Rafael Grossi wants to be UN chief. Will Trump’s support nuke his chances?",
-    "summary": "The nuclear watchdog chief is seen as technically competent, but questions remain about his plans for UN reform.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss",
-    "publishedAt": "2026-11-18T05:24:02.000Z"
-  },
-  {
-    "id": "b17c3ff765a694a3",
-    "title": "FIFA election: Who are Infantino’s challengers, and will he be re-elected?",
-    "summary": "A look at FIFA's presidential election process, the challengers and key dates, as Gianni Infantino seeks a fourth term.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss",
-    "publishedAt": "2026-11-18T05:16:25.000Z"
-  },
-  {
-    "id": "cc762e9566c979e7",
-    "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
-    "summary": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o",
-    "publishedAt": "2026-11-18T05:11:42.000Z"
-  },
-  {
-    "id": "359045f8c4cf3dbd",
-    "title": "‘Devastating consequences’: One Nation plan to slash Australia’s refugee program denounced",
-    "summary": "Amid widespread condemnation of the proposal, Pauline Hanson also wants to scrap existing parent and aged parent visa program.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
-    "publishedAt": "2026-11-18T05:11:31.000Z"
-  },
-  {
-    "id": "2f2a9c206de31c05",
-    "title": "Security flaw found in Java, world's third-largest programming language",
-    "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programmes.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo",
-    "publishedAt": "2026-11-18T05:03:38.000Z"
   }
 ]
