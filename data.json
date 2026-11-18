@@ -1,5 +1,41 @@
 [
   {
+    "id": "17cf5eda5383f295",
+    "title": "‘Everyone likes money’: Bandidos member can’t remember why he was paid $165,000, Big Build inquiry hears",
+    "summary": "Commissioner says inference could be made that bikie Joel Leavitt was ‘standing over’ union-aligned labour hire firm for the payment.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
+    "publishedAt": "2026-11-18T03:35:43.000Z"
+  },
+  {
+    "id": "cf857a101766ccf2",
+    "title": "Australia’s ‘problematic’ surrogacy laws could be transformed under proposed changes",
+    "summary": "Law reform body recommends ongoing ban on commercial surrogacy, but greater compensation for surrogates, and safeguards around who the child’s legal parents are.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/law/2026/nov/18/australias-strict-surrogacy-laws-could-be-relaxed-under-proposed-changes",
+    "publishedAt": "2026-11-18T03:28:59.000Z"
+  },
+  {
+    "id": "cf4b064fa7055b6f",
+    "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+    "summary": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
+    "publishedAt": "2026-11-18T03:28:41.000Z"
+  },
+  {
+    "id": "29a4b9ae70702f47",
+    "title": "Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats 56 Senate seats",
+    "summary": "Republican incumbent beaten in race dominated by controversy over second candidate named Dan Sullivan.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race",
+    "publishedAt": "2026-11-18T03:25:14.000Z"
+  },
+  {
     "id": "9c4d5859c587fa65",
     "title": "Waymo temporarily pulls driverless taxis from all US freeways",
     "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
@@ -594,6 +630,15 @@
     "publishedAt": "2026-11-17T20:30:57.000Z"
   },
   {
+    "id": "6fd8a06cc6e52462",
+    "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+    "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo",
+    "publishedAt": "2026-11-17T20:30:20.000Z"
+  },
+  {
     "id": "0635c7b781ebcf9a",
     "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
     "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
@@ -646,6 +691,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
     "publishedAt": "2026-11-17T20:11:41.000Z"
+  },
+  {
+    "id": "04508f950256e050",
+    "title": "Speed camera fault may have allowed drivers to escape fines",
+    "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo",
+    "publishedAt": "2026-11-17T20:04:54.000Z"
   },
   {
     "id": "8a16fbeddd0b5bbe",
@@ -880,6 +934,15 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-18/ex-nvidia-ceo-jensen-huang-says-he-would-be-honoured-to-return/107397042",
     "publishedAt": "2026-11-17T17:35:21.000Z"
+  },
+  {
+    "id": "65e017cce519167b",
+    "title": "US officially loses measles-free status as vaccination rates drop",
+    "summary": "The United States has officially been stripped of its measles-free status, with falling vaccination rates and more than 5,400 cases reported this year.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-18/us-loses-measles-free-status-after-26-years/107397030",
+    "publishedAt": "2026-11-17T17:34:43.000Z"
   },
   {
     "id": "ddbe88e354f562a3",
@@ -1285,68 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss",
     "publishedAt": "2026-11-17T14:09:08.000Z"
-  },
-  {
-    "id": "14f647f93bf67402",
-    "title": "NHS gets £500m boost in Wales' first budget under Plaid Cymru",
-    "summary": "Health spending will rise, but the government says it is grappling with \"tight\" public finances.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm9308z78p7ko",
-    "publishedAt": "2026-11-17T14:00:20.000Z"
-  },
-  {
-    "id": "059a57273e09bea5",
-    "title": "Paul Kelly pleads for Albanese to ‘show some backbone’ over AI as creatives campaign for copyright protections",
-    "summary": "Music legend is joined by Jimmy Barnes and Peter Garrett in backing Not AI’s To Take campaign ahead of Aria awards.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign",
-    "publishedAt": "2026-11-17T14:00:15.000Z"
-  },
-  {
-    "id": "410daed2c5d8caf9",
-    "title": "Chris Minns’ backflips are adding up. Is he ‘clearing the runway’ or panicking?",
-    "summary": "From train timetables to coffee cups and property underquoting, the NSW premier is making policy reversals well ahead of the March election.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/18/chris-minns-labor-backflips-are-adding-up-is-he-clearing-the-runway-or-panicking-nsw-state-election",
-    "publishedAt": "2026-11-17T14:00:14.000Z"
-  },
-  {
-    "id": "141de44d030caa4a",
-    "title": "Australia’s gender pay gap falls below 20% for first time",
-    "summary": "Men still dominate top-paid positions but businesses’ ‘deliberate’ decisions have narrowed gap, workplace gender equality agency report finds.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/18/australia-gender-pay-gap-falls-below-20-percent-for-first-time",
-    "publishedAt": "2026-11-17T14:00:13.000Z"
-  },
-  {
-    "id": "560a3ca5639e2b89",
-    "title": "Trump praises Quad as he unveils defence and minerals deals",
-    "summary": "With major talks in China approaching, US President Donald Trump, Anthony Albanese and their fellow Quad leaders deepen cooperation on defence and technology at a summit in Manila.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-18/quad-meeting-india-japan-usa-anthony-albanese-donald-trump/107396716",
-    "publishedAt": "2026-11-17T13:59:01.000Z"
-  },
-  {
-    "id": "ec207f4236748f6d",
-    "title": "UK unemployment unexpectedly eases to 4.6% as government releases Milburn report",
-    "summary": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
-    "publishedAt": "2026-11-17T13:44:09.000Z"
-  },
-  {
-    "id": "33a91ea69938b46c",
-    "title": "David Beckham sues after his fragrance is sold in gas stations and discount stores",
-    "summary": "David Beckham’s company is suing beauty group Coty for at least $41 million, alleging that sales of his perfumes in discount stores breached their licensing agreement and damaged his luxury brand.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/david-beckham-sues-after-fragrance-sold-gas-stations-138208042",
-    "publishedAt": "2026-11-17T13:42:06.000Z"
   }
 ]
