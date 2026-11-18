@@ -1,5 +1,68 @@
 [
   {
+    "id": "280b464cd48bdf52",
+    "title": "What's gone wrong at Britain's worst bathing site?",
+    "summary": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o",
+    "publishedAt": "2026-11-18T06:12:44.000Z"
+  },
+  {
+    "id": "941d9d7c875e4ee0",
+    "title": "How important are Nvidia and Jensen Huang to the US economy?",
+    "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo",
+    "publishedAt": "2026-11-18T06:04:21.000Z"
+  },
+  {
+    "id": "60fbb837a588ce41",
+    "title": "‘Deeply concerning’: NHS in England reports more than 3,000 incidents of staff snooping on patients’ records",
+    "summary": "Campaign groups and regulators say data breaches are distressing for patients and families and erode trust in the health service.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/18/nhs-england-staff-snooping-patients-records",
+    "publishedAt": "2026-11-18T06:00:34.000Z"
+  },
+  {
+    "id": "424403895d493977",
+    "title": "How to deal with a class difference in friendships? Make fun of your privileged friends",
+    "summary": "Lasting cross-class friendships involve routinely ‘taking the piss’ out of the more privileged party, research by the LSE shows.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/inequality/2026/nov/18/class-difference-friendships-research-lse",
+    "publishedAt": "2026-11-18T06:00:32.000Z"
+  },
+  {
+    "id": "aeb433058d2ab7bb",
+    "title": "What’s in the air you breathe? How to stay safe during smog season",
+    "summary": "India and Pakistan had 42 of the world’s 50 most polluted cities in 2025. Millions now face another toxic winter.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/whats-in-the-air-you-breathe-how-to-stay-safe-during-smog-season-2?traffic_source=rss",
+    "publishedAt": "2026-11-18T05:55:08.000Z"
+  },
+  {
+    "id": "9af004fe6851934a",
+    "title": "Rafael Grossi wants to be UN chief. Will Trump’s support nuke his chances?",
+    "summary": "The nuclear watchdog chief is seen as technically competent, but questions remain about his plans for UN reform.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss",
+    "publishedAt": "2026-11-18T05:24:02.000Z"
+  },
+  {
+    "id": "b17c3ff765a694a3",
+    "title": "FIFA election: Who are Infantino’s challengers, and will he be re-elected?",
+    "summary": "A look at FIFA's presidential election process, the challengers and key dates, as Gianni Infantino seeks a fourth term.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss",
+    "publishedAt": "2026-11-18T05:16:25.000Z"
+  },
+  {
     "id": "2f2a9c206de31c05",
     "title": "Security flaw found in Java, world's third-largest programming language",
     "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programmes.",
@@ -279,6 +342,15 @@
     "publishedAt": "2026-11-18T00:44:48.000Z"
   },
   {
+    "id": "5ecd266f9306818d",
+    "title": "A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point",
+    "summary": "Under pressure from Donald Trump, Japan’s government could be about to lift a ban on imported American potatoes, which famers say would threaten their livelihoods.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/18/potato-war-japan-76-year-ban-american-imported-potatoes",
+    "publishedAt": "2026-11-18T00:41:35.000Z"
+  },
+  {
     "id": "60663dfc1ffcf812",
     "title": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
     "summary": "Head of Iran's IRGC Quds Force to attend meetings over alleged oil smuggling linked to pro-Iranian armed groups.",
@@ -484,6 +556,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen",
     "publishedAt": "2026-11-17T22:24:46.000Z"
+  },
+  {
+    "id": "d4ef9b25c8f439f5",
+    "title": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
+    "summary": "Google’s Gmail also affected after problems reported in technological infrastructure in the US and worldwide.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/17/gmail-apple-outage-major-disruption",
+    "publishedAt": "2026-11-17T22:23:56.000Z"
   },
   {
     "id": "554209990cc4bf65",
@@ -963,6 +1044,15 @@
     "publishedAt": "2026-11-17T18:13:45.000Z"
   },
   {
+    "id": "04f9d71236828aaa",
+    "title": "GP clinic bought by Bupa encouraged doctors to bill expensive Medicare items",
+    "summary": "A GP clinic run by health insurance giant Bupa wrote to doctors, calling on them to use chronic condition plans to ensure \"revenue is increasing\".",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-18/bupa-clinic-urged-gps-to-bill-costly-medicare-items-lift-revenue/106981358",
+    "publishedAt": "2026-11-17T18:00:00.000Z"
+  },
+  {
     "id": "6af73e49fd3f903e",
     "title": "UK backs idea of new levies on polluting sectors to pay for climate action costs",
     "summary": "Britain joins other signatories to statement urging introduction of targeted taxes on heavy emitters.",
@@ -1258,95 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o",
     "publishedAt": "2026-11-17T15:59:47.000Z"
-  },
-  {
-    "id": "52ec0b9604f011b5",
-    "title": "Trump announces critical minerals agreements at Quad meeting in Manila",
-    "summary": "US President Trump says the deals will prevent 'coercion by any single foreign supplier'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila?traffic_source=rss",
-    "publishedAt": "2026-11-17T15:59:41.000Z"
-  },
-  {
-    "id": "2f730ed45da87e4f",
-    "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-    "summary": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko",
-    "publishedAt": "2026-11-17T15:56:04.000Z"
-  },
-  {
-    "id": "9b3e4e64bfeabec8",
-    "title": "US Pentagon fails ninth straight audit despite progress in organizing finances",
-    "summary": "The audits check whether financial statements ​are fairly presented and financial systems ‌and processes are sound.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/pentagon-fails-audit",
-    "publishedAt": "2026-11-17T15:43:12.000Z"
-  },
-  {
-    "id": "66ef65e94fd251da",
-    "title": "How the attack on Crimean Bridge unfolded",
-    "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo",
-    "publishedAt": "2026-11-17T15:38:10.000Z"
-  },
-  {
-    "id": "b7f3fe73a9bca81b",
-    "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
-    "summary": "Southern separatists try to regain power to defend Aden as Saudi Arabia reshuffles its military command against Houthis.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
-    "publishedAt": "2026-11-17T15:26:55.000Z"
-  },
-  {
-    "id": "7eb996b94155b0a3",
-    "title": "Iran-backed group warns Iraqi forces against entering its stronghold near Baghdad",
-    "summary": "Kataib Hezbollah, a powerful Iran-backed armed group, has vowed to confront Iraqi government forces if they enter its stronghold near Baghdad.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/iran-backed-group-warns-iraqi-forces-entering-stronghold-138213451",
-    "publishedAt": "2026-11-17T15:20:52.000Z"
-  },
-  {
-    "id": "2d6e0dc8ee36eff3",
-    "title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
-    "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o",
-    "publishedAt": "2026-11-17T15:17:49.000Z"
-  },
-  {
-    "id": "f93133de6a9e4b6f",
-    "title": "Ikea ditches plans for new UK stores, blaming high business taxes",
-    "summary": "Retailer’s British boss says John Healey ‘missed opportunity to back retailers’ in October’s budget.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
-    "publishedAt": "2026-11-17T15:09:32.000Z"
-  },
-  {
-    "id": "458954e371fb7479",
-    "title": "US bank services returning to normal after major outage",
-    "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o",
-    "publishedAt": "2026-11-17T15:04:24.000Z"
-  },
-  {
-    "id": "2538578688cbe576",
-    "title": "Scammed migrant workers in UK to be considered possible victims of modern slavery",
-    "summary": "Home Office changes policy after legal challenge over case of care worker scammed out of £22,000.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/17/scammed-migrant-workers-modern-slavery-home-office",
-    "publishedAt": "2026-11-17T15:00:15.000Z"
   }
 ]
