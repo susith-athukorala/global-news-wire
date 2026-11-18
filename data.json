@@ -1,5 +1,59 @@
 [
   {
+    "id": "9c4d5859c587fa65",
+    "title": "Waymo temporarily pulls driverless taxis from all US freeways",
+    "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo",
+    "publishedAt": "2026-11-18T03:07:22.000Z"
+  },
+  {
+    "id": "23f1c640aee08205",
+    "title": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
+    "summary": "Nvidia board chair says chip giant 'does not intend' to reinstate Huang as it projects revenues of $130bn in Q4.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+    "publishedAt": "2026-11-18T03:00:22.000Z"
+  },
+  {
+    "id": "4d0c3e89742fb557",
+    "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+    "summary": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o",
+    "publishedAt": "2026-11-18T02:40:45.000Z"
+  },
+  {
+    "id": "ed0aff097f36ddb8",
+    "title": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
+    "summary": "Illegal activities in the Amazon pose grave risks to uncontacted Indigenous groups like Brazil’s Awa,.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
+    "publishedAt": "2026-11-18T02:36:09.000Z"
+  },
+  {
+    "id": "fbbcc76d3133922c",
+    "title": "The ‘moon landing’ of gaming: Australians, some of the first to play GTA VI, prepare to descend on Vice City",
+    "summary": "After a 13 year wait for the latest Grand Theft Auto instalment, Thursday’s launch is shaping up to be ‘the biggest gaming event that’s ever been’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/gta-6-biggest-gaming-event-australians-prepare-for-global-release",
+    "publishedAt": "2026-11-18T02:24:02.000Z"
+  },
+  {
+    "id": "13e930560d572690",
+    "title": "Shaken and stirred: Jeff Bezos says he was ‘heavily involved’ in picking new James Bond",
+    "summary": "Amazon’s executive chair and billionaire founder said he felt there was ‘something special’ about Robert Pattinson.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/film/2026/nov/17/james-bond-robert-pattinson-jeff-bezos-pick",
+    "publishedAt": "2026-11-18T02:13:58.000Z"
+  },
+  {
     "id": "23d5709759eebb5b",
     "title": "Sleeve checks and no smartglasses: South Korea races to protect all-important university exams against AI",
     "summary": "South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams.",
@@ -538,6 +592,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
     "publishedAt": "2026-11-17T20:30:57.000Z"
+  },
+  {
+    "id": "0635c7b781ebcf9a",
+    "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+    "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no",
+    "publishedAt": "2026-11-17T20:25:46.000Z"
   },
   {
     "id": "4e3deff57ab20557",
@@ -1260,6 +1323,15 @@
     "publishedAt": "2026-11-17T14:00:13.000Z"
   },
   {
+    "id": "560a3ca5639e2b89",
+    "title": "Trump praises Quad as he unveils defence and minerals deals",
+    "summary": "With major talks in China approaching, US President Donald Trump, Anthony Albanese and their fellow Quad leaders deepen cooperation on defence and technology at a summit in Manila.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-18/quad-meeting-india-japan-usa-anthony-albanese-donald-trump/107396716",
+    "publishedAt": "2026-11-17T13:59:01.000Z"
+  },
+  {
     "id": "ec207f4236748f6d",
     "title": "UK unemployment unexpectedly eases to 4.6% as government releases Milburn report",
     "summary": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work.",
@@ -1276,77 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/david-beckham-sues-after-fragrance-sold-gas-stations-138208042",
     "publishedAt": "2026-11-17T13:42:06.000Z"
-  },
-  {
-    "id": "f8d4745de35250c2",
-    "title": "Deutsche Bank dismissed warnings about dealings with risky clients, reports claim",
-    "summary": "International investigation using trove of leaked internal data allegedly shows German bank overlooked compliance concerns to safeguard profits.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim",
-    "publishedAt": "2026-11-17T13:35:39.000Z"
-  },
-  {
-    "id": "40a1513920314bc2",
-    "title": "School phone bans result in ‘modest’ academic gains for students, study shows",
-    "summary": "More than 40 US states have passed laws restricting phones at schools with goal of boosting students’ focus and learning.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/education/2026/nov/17/school-phone-bans-results-students",
-    "publishedAt": "2026-11-17T13:22:40.000Z"
-  },
-  {
-    "id": "65c9116677fb2eaa",
-    "title": "Mongolia’s president says he will step down after facing accusations of corruption",
-    "summary": "Mongolia’s President Khurelsukh Ukhnaa says he will resign after a member of a faction of his own party accused him of benefiting financially from a government railway project.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/mongolias-president-step-after-facing-accusations-corruption-138199346",
-    "publishedAt": "2026-11-17T13:14:34.000Z"
-  },
-  {
-    "id": "f5c95b408dc3f014",
-    "title": "At the origin of France’s education protests, students refuse to give up",
-    "summary": "Blockades continue at some schools in the Parisian suburbs as students and teachers say little has improved.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss",
-    "publishedAt": "2026-11-17T13:14:25.000Z"
-  },
-  {
-    "id": "f7aceef3c7ddc54e",
-    "title": "Infantino’s FIFA challenger Diallo claims to have support beyond Europe",
-    "summary": "French football chief Philippe Diallo says he has received 'spontaneous signs of strong support' against Infantino.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss",
-    "publishedAt": "2026-11-17T13:09:31.000Z"
-  },
-  {
-    "id": "04508f950256e050",
-    "title": "Speed camera fault may have allowed drivers to escape fines",
-    "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo",
-    "publishedAt": "2026-11-17T13:03:30.000Z"
-  },
-  {
-    "id": "6fd8a06cc6e52462",
-    "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-    "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo",
-    "publishedAt": "2026-11-17T13:02:17.000Z"
-  },
-  {
-    "id": "21aeee77641d2d02",
-    "title": "Santander allows staff to count holidays and sick leave as days worked in office",
-    "summary": "News of Spanish-owned lender’s policy emerges as other banks are toughening their stance on working from home.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/17/santander-staff-holidays-sick-leave-days-in-office",
-    "publishedAt": "2026-11-17T13:01:08.000Z"
   }
 ]
