@@ -81,6 +81,15 @@
     "publishedAt": "2026-11-18T02:24:02.000Z"
   },
   {
+    "id": "ac30aa24238206ae",
+    "title": "AI is transforming the world and the US–China relationship",
+    "summary": "The ASEAN summit has become a platform for showing how economies are swept up in the newest and most potent form of US–China rivalry.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-18/ai-is-transforming-us-china-relationship/107393980",
+    "publishedAt": "2026-11-18T02:14:44.000Z"
+  },
+  {
     "id": "13e930560d572690",
     "title": "Shaken and stirred: Jeff Bezos says he was ‘heavily involved’ in picking new James Bond",
     "summary": "Amazon’s executive chair and billionaire founder said he felt there was ‘something special’ about Robert Pattinson.",
@@ -729,6 +738,15 @@
     "publishedAt": "2026-11-17T19:41:45.000Z"
   },
   {
+    "id": "833268100ba087d9",
+    "title": "Why a Trump-Xi-Putin summit is no Yalta 2.0, but is 'Putin's sick fantasy'",
+    "summary": "Vladimir Putin longs to be seen as a world leader on a par with Joseph Stalin, but the Russia he leads is a diminished power, and the Shenzhen summit may be more about optics than substance.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-18/yalta-trump-putin-xi-meeting-shenzhen/107396968",
+    "publishedAt": "2026-11-17T19:39:25.000Z"
+  },
+  {
     "id": "a570f4401a857abb",
     "title": "Using law to try to silence abuse victims is ‘ultimate form of gaslighting’, MPs told",
     "summary": "Woman sued by alleged rapist tells justice committee that Slapp lawsuits present perpetrator as victim of wrongdoing.",
@@ -988,6 +1006,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o",
     "publishedAt": "2026-11-17T17:25:23.000Z"
+  },
+  {
+    "id": "14f647f93bf67402",
+    "title": "NHS gets £500m boost in Wales' first budget under Plaid Cymru",
+    "summary": "Health spending will rise, but the government says it is grappling with \"tight\" public finances.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm9308z78p7ko",
+    "publishedAt": "2026-11-17T17:23:17.000Z"
   },
   {
     "id": "2c2e84dadece79b4",
@@ -1321,32 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo",
     "publishedAt": "2026-11-17T14:25:45.000Z"
-  },
-  {
-    "id": "770f8c9685d65589",
-    "title": "JD Vance blames Democrats for flight stoppage, claiming ‘obsession with men in women’s sports’",
-    "summary": "The stoppage was seemingly caused by the transition from copper telecommunication lines.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/jd-vance-democrats-trans-sports-flight-stoppage",
-    "publishedAt": "2026-11-17T14:20:30.000Z"
-  },
-  {
-    "id": "77727afd7ca4dd09",
-    "title": "Five people injured amid severe turbulence on JetBlue flight to Florida",
-    "summary": "Some passengers were taken to hospital after flight safely landed at Fort-Lauderdale-Hollywood airport.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/five-injured-turbulence-jetblue-flight",
-    "publishedAt": "2026-11-17T14:20:20.000Z"
-  },
-  {
-    "id": "25373c1bdd5f2dd8",
-    "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
-    "summary": "Settler group also sanctioned for blocking Gaza aid as foreign secretary calls for 'protecting the two-state solution'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss",
-    "publishedAt": "2026-11-17T14:09:08.000Z"
   }
 ]
