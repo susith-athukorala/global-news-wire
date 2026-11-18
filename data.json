@@ -1,5 +1,113 @@
 [
   {
+    "id": "cd4814f1f1b7893e",
+    "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+    "summary": "Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+    "publishedAt": "2026-11-18T12:14:28.000Z"
+  },
+  {
+    "id": "32f6128a8c73ee1b",
+    "title": "Environment department failing to protect wild birds, OEP finds",
+    "summary": "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Areas.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo",
+    "publishedAt": "2026-11-18T12:13:32.000Z"
+  },
+  {
+    "id": "ff60ccbd4361c9f2",
+    "title": "Police in Bangladesh clash with garment workers demanding higher minimum wages",
+    "summary": "Police in Bangladesh have clashed with garment workers demanding higher wages.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/police-bangladesh-clash-garment-workers-demanding-higher-minimum-138243349",
+    "publishedAt": "2026-11-18T12:10:19.000Z"
+  },
+  {
+    "id": "04a2d02cd25f366e",
+    "title": "Key Hegseth adviser faces questions over ties to Israeli defense contractor and Saudi Arabia",
+    "summary": "A government watchdog has also labeled Hegseth’s defense policy appointee a ‘walking conflict of interest’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/pete-hegseth-iran-war-pentagon",
+    "publishedAt": "2026-11-18T12:00:58.000Z"
+  },
+  {
+    "id": "74c36c5f59129af0",
+    "title": "‘I’m heartbroken’: experts dismayed as US loses long-held measles elimination status",
+    "summary": "Public health leaders condemn ‘significant damage’ by Trump administration as calls grow for RFK Jr to resign.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/us-measles-elimination-status-experts",
+    "publishedAt": "2026-11-18T12:00:57.000Z"
+  },
+  {
+    "id": "72c366e7a734e347",
+    "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
+    "summary": "President Trump will meet with Russian President Vladimir Putin and Chinese President Xi on Thursday for a historic three-way meeting.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
+    "publishedAt": "2026-11-18T11:57:10.000Z"
+  },
+  {
+    "id": "07fc8996b6941223",
+    "title": "Former U.S. ambassador on Trump's joint summit with leaders of China and Russia",
+    "summary": "NPR's Leila Fadel speaks to Nicholas Burns, former U.S. ambassador to China and NATO, about President Trump's planned meeting with the leaders of China and Russia.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6044067/former-u-s-ambassador-on-trumps-joint-summit-with-leaders-of-china-and-russia",
+    "publishedAt": "2026-11-18T11:57:06.000Z"
+  },
+  {
+    "id": "0965ee70dc243733",
+    "title": "Cameron Bancroft claims entire Australian team knew about ‘sandpapergate’",
+    "summary": "Bancroft contradicts Pat Cummins and admits he lied to protect Cricket Australia's investigation into the scandal.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/18/cameron-bancroft-claims-entire-australian-team-knew-about-sandpapergate?traffic_source=rss",
+    "publishedAt": "2026-11-18T11:51:26.000Z"
+  },
+  {
+    "id": "4b1632ddd3fe6465",
+    "title": "UK inflation rises to year high and keeps risk of second straight rate hike alive",
+    "summary": "Inflation in the U.K. has risen rose to its highest level for a year.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/uk-inflation-rises-year-high-possibility-straight-rate-138242229",
+    "publishedAt": "2026-11-18T11:50:15.000Z"
+  },
+  {
+    "id": "f087d7c7855c3ac1",
+    "title": "Who to watch in Spain's election race",
+    "summary": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no",
+    "publishedAt": "2026-11-18T11:44:25.000Z"
+  },
+  {
+    "id": "45a560c251c06a1d",
+    "title": "India lodges complaint against Palestinian footballer after under-17 match",
+    "summary": "Palestinian player Taha Soueidan 'deeply surprised' by criticism following accusations that he made a racist gesture.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/18/india-lodges-complaint-against-palestinian-footballer-after-under-17-match?traffic_source=rss",
+    "publishedAt": "2026-11-18T11:32:24.000Z"
+  },
+  {
+    "id": "2ffbc596fcf1a1df",
+    "title": "Tim Hortons accused of sharing user data with firm linked to Israeli army",
+    "summary": "Research into Tim Hortons’s app finds that it began transmitting information to Forter as soon as it opened.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/tim-hortons-app-sharing-extensive-data-with-israeli-military-linked-firm?traffic_source=rss",
+    "publishedAt": "2026-11-18T11:30:34.000Z"
+  },
+  {
     "id": "e94da4f7dbdc7db0",
     "title": "Yvette Cooper announces new health support for most vulnerable people in England",
     "summary": "Health secretary says 500,000 will benefit initially from ‘downpayment’ on PM’s national care service pledge.",
@@ -1224,6 +1332,15 @@
     "publishedAt": "2026-11-17T21:08:39.000Z"
   },
   {
+    "id": "9364369bd1a6b008",
+    "title": "Russian military plane crashes, killing all 19 on board",
+    "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo",
+    "publishedAt": "2026-11-17T21:06:11.000Z"
+  },
+  {
     "id": "2f9a8ae680bc27f0",
     "title": "US loses measles elimination status after 26 years amid record case numbers",
     "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
@@ -1231,122 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo",
     "publishedAt": "2026-11-17T21:04:00.000Z"
-  },
-  {
-    "id": "d123b5ef8039d1f7",
-    "title": "Campaigners take claim 'regulatory gap' risks poultry farms polluting rivers to High Court",
-    "summary": "It follows years of debate over the alleged impacts on rivers in an area dubbed \"poultry capital\".",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm894x41jw54o",
-    "publishedAt": "2026-11-17T21:00:51.000Z"
-  },
-  {
-    "id": "99ecaad568acc0fe",
-    "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
-    "summary": "Child reunited with family after he was detained by immigration agents in San Diego and transferred to Texas.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
-    "publishedAt": "2026-11-17T20:59:56.000Z"
-  },
-  {
-    "id": "0ed54a8b0bc0befc",
-    "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
-    "summary": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
-    "publishedAt": "2026-11-17T20:57:56.000Z"
-  },
-  {
-    "id": "819a043d45ff2312",
-    "title": "Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays",
-    "summary": "Trump homeland security chief says ‘we still got to live our life’ amid outcry over journey to LSU on government plane.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/markwayne-mullin-private-jet-football",
-    "publishedAt": "2026-11-17T20:45:48.000Z"
-  },
-  {
-    "id": "fbe1847f933b3456",
-    "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-    "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo",
-    "publishedAt": "2026-11-17T20:44:54.000Z"
-  },
-  {
-    "id": "dd412c6ae330cc7d",
-    "title": "Tensions rise over draft climate deal at COP31",
-    "summary": "Publication of the IPCC’s seventh assessment report becomes a sticking point at UN climate talks.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
-    "publishedAt": "2026-11-17T20:40:29.000Z"
-  },
-  {
-    "id": "447ab83e329fa24e",
-    "title": "University of Birmingham pauses plans to move Shakespeare Institute after outcry",
-    "summary": "Vice-chancellor halts proposed relocation from Stratford-upon-Avon but offers no guarantees over future.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/education/2026/nov/17/birmingham-university-shakespeare-institute-stratford-upon-avon",
-    "publishedAt": "2026-11-17T20:31:45.000Z"
-  },
-  {
-    "id": "566598e1eca81ebb",
-    "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
-    "summary": "Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionage.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
-    "publishedAt": "2026-11-17T20:30:57.000Z"
-  },
-  {
-    "id": "6fd8a06cc6e52462",
-    "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-    "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo",
-    "publishedAt": "2026-11-17T20:30:20.000Z"
-  },
-  {
-    "id": "0635c7b781ebcf9a",
-    "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-    "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no",
-    "publishedAt": "2026-11-17T20:25:46.000Z"
-  },
-  {
-    "id": "4e3deff57ab20557",
-    "title": "Trump nominates Chris LaNeve as army chief after Hegseth fired predecessor",
-    "summary": "LaNeve, who served as Hegseth’s senior military commander, nominated to permanently replace Gen Randy George.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff",
-    "publishedAt": "2026-11-17T20:21:58.000Z"
-  },
-  {
-    "id": "399fd9cdcf1ccf6e",
-    "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
-    "summary": "Bullet hit 72-year-old Fadha Wadha in head outside her home in al-Duyuk al-Tahta, in the West Bank, say residents.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
-    "publishedAt": "2026-11-17T20:21:48.000Z"
-  },
-  {
-    "id": "f38fc2cffad64253",
-    "title": "Australia sanctions individuals and company involved in illegal West Bank settlements",
-    "summary": "Foreign affairs minister Penny Wong says rapid expansion of settlements and settler violence are ‘extinguishing the possibility of a two-state solution’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
-    "publishedAt": "2026-11-17T20:20:31.000Z"
   }
 ]
