@@ -1,5 +1,59 @@
 [
   {
+    "id": "519fd482e0eb4ae0",
+    "title": "Power surge leaves residents facing thousands in unexpected costs",
+    "summary": "Many Victorians are thousands of dollars out of pocket after a power surge in Mildura in September damaged household appliances, with some insurance claims rejected.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-19/families-struggle-with-mildura-power-surge-aftermath/107376806",
+    "publishedAt": "2026-11-18T21:00:43.000Z"
+  },
+  {
+    "id": "ee161c60c8272b65",
+    "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
+    "summary": "Israeli tanks advance beyond the 'Yellow Line', forcing Palestinians to flee again in Gaza.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-18T20:38:06.000Z"
+  },
+  {
+    "id": "6c38428180203553",
+    "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
+    "summary": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
+    "publishedAt": "2026-11-18T20:37:40.000Z"
+  },
+  {
+    "id": "234a1b5b2a798a2e",
+    "title": "Birmingham council granted interim ban on union jacks on lamp-posts",
+    "summary": "High court judge issues order against Raise the Colours over flags on council-owned street furniture.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours",
+    "publishedAt": "2026-11-18T20:32:58.000Z"
+  },
+  {
+    "id": "129d48b31739a5a2",
+    "title": "PlayStation suffers widespread network problems hours before release of GTA VI",
+    "summary": "Disruption comes at critical moment, with Grand Theft Auto VI one of the most eagerly anticipated titles in history.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release",
+    "publishedAt": "2026-11-18T20:28:42.000Z"
+  },
+  {
+    "id": "ee7b14dff8918da3",
+    "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+    "summary": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+    "publishedAt": "2026-11-18T20:24:19.000Z"
+  },
+  {
     "id": "f5974850414e0694",
     "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
     "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
@@ -7,6 +61,24 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
     "publishedAt": "2026-11-18T20:14:57.000Z"
+  },
+  {
+    "id": "7545245e638bafe3",
+    "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
+    "summary": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
+    "publishedAt": "2026-11-18T20:14:04.000Z"
+  },
+  {
+    "id": "207025939c65c289",
+    "title": "Trump and Putin to meet one-on-one in China Thursday",
+    "summary": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
+    "publishedAt": "2026-11-18T20:12:20.000Z"
   },
   {
     "id": "55cee39d438a9c69",
@@ -70,6 +142,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
     "publishedAt": "2026-11-18T18:50:40.000Z"
+  },
+  {
+    "id": "fef422c85df5c054",
+    "title": "Burnham considering cuts to national insurance to create more youth jobs",
+    "summary": "PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25s.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report",
+    "publishedAt": "2026-11-18T18:43:37.000Z"
   },
   {
     "id": "7512ebe45fae1d9e",
@@ -432,6 +513,15 @@
     "publishedAt": "2026-11-18T15:39:57.000Z"
   },
   {
+    "id": "9458e9be620ec64c",
+    "title": "Anthony Albanese defies critics for Apec summit photo with Vladimir Putin",
+    "summary": "Despite pleas from pro-Ukraine Australians, the prime minister accepts wishes of Chinese hosts with group picture.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/anthony-albanese-defies-critics-for-apec-summit-photo-with-vladimir-putin",
+    "publishedAt": "2026-11-18T15:39:11.000Z"
+  },
+  {
     "id": "1a4065eef2caf827",
     "title": "Hakeem Jeffries becomes first Black nominee for US House speaker",
     "summary": "The New York congressman was nominated after Democrats gained control of Congress in the midterm elections.",
@@ -457,6 +547,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
     "publishedAt": "2026-11-18T15:32:01.000Z"
+  },
+  {
+    "id": "713214b0dd0d8fa5",
+    "title": "Xi gives Trump personal welcome ahead of historic talks with Putin",
+    "summary": "The tarmac greeting for US President Donald Trump saw Xi Jinping break with decades of precedent.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-19/xi-trump-red-carpet-welcome/107401618",
+    "publishedAt": "2026-11-18T15:32:00.000Z"
   },
   {
     "id": "c6b3a0009c6ff6d0",
@@ -709,6 +808,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss",
     "publishedAt": "2026-11-18T13:24:22.000Z"
+  },
+  {
+    "id": "4003574a4fa9700c",
+    "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+    "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
+    "publishedAt": "2026-11-18T13:17:06.000Z"
   },
   {
     "id": "bb9ae133864288b1",
@@ -1240,113 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/11/18/as-trump-arrives-in-china-low-expectations-for-breakthroughs-in-rivalry?traffic_source=rss",
     "publishedAt": "2026-11-18T09:30:01.000Z"
-  },
-  {
-    "id": "965b9ee2c71225ef",
-    "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-    "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o",
-    "publishedAt": "2026-11-18T09:28:35.000Z"
-  },
-  {
-    "id": "5bbc4d733f63bccf",
-    "title": "Sandpapergate: Cricket Australia to open forum for players, rules out probe",
-    "summary": "Cricket Australia says it will establish a forum, likely led by a former judge, but there will be no new sanctions.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/18/sandpapergate-cricket-australia-to-open-forum-for-players-rules-out-probe?traffic_source=rss",
-    "publishedAt": "2026-11-18T09:18:37.000Z"
-  },
-  {
-    "id": "71ac00ee0340a9f7",
-    "title": "India-UK ties outride Modi’s ‘decolonisation’ rhetoric",
-    "summary": "Prince William's visit highlights growing partnership between New Delhi and London, despite their colonial history.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/india-uk-ties-outride-modis-decolonisation-rhetoric?traffic_source=rss",
-    "publishedAt": "2026-11-18T09:13:12.000Z"
-  },
-  {
-    "id": "4db63cd937ae4e0c",
-    "title": "Shabana Mahmood to set out plans to tackle ‘corrosive’ perception of two-tier policing",
-    "summary": "Home secretary to tell police chiefs ‘misguided attempts at course correction’ can lead to ‘differential treatment’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/18/shabana-mahmood-two-tier-policing",
-    "publishedAt": "2026-11-18T09:10:43.000Z"
-  },
-  {
-    "id": "9c80aee121e8e4bf",
-    "title": "Myanmar-linked arsenic pollution prompts clean water scramble in Thailand",
-    "summary": "Thai authorities race to provide safe water to villagers after arsenic from Myanmar mines contaminates Mekong River.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/arsenic-pollution-linked-to-myanmar-mining-prompts-water-alert-in-thailand?traffic_source=rss",
-    "publishedAt": "2026-11-18T09:10:21.000Z"
-  },
-  {
-    "id": "8bd5e9a65af63b89",
-    "title": "Venezuelan boxer Linares arrested in US and faces deportation, ICE confirms",
-    "summary": "The 41-year-old was detained on Sunday by US immigration authorities at El Paso International Airport in Texas.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/18/venezuelan-boxer-linares-detained-in-us-and-faces-deportation-ice-confirms?traffic_source=rss",
-    "publishedAt": "2026-11-18T08:57:14.000Z"
-  },
-  {
-    "id": "7f602e2f645444f4",
-    "title": "‘We want to go back’: Rohingya refugees pin hopes on ICJ genocide verdict",
-    "summary": "After almost a decade in exile, they're hoping the ICJ rules in their favour. But will that help them get back home?",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/18/we-want-to-go-back-rohingya-refugees-pin-hopes-on-icj-genocide-verdict?traffic_source=rss",
-    "publishedAt": "2026-11-18T08:55:40.000Z"
-  },
-  {
-    "id": "f25b9255d10e23df",
-    "title": "MP urges council to speed up heating oil payments",
-    "summary": "About 23,000 households use heating oil in Northumberland and face increasing bills this winter.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm792dqz4qvyo",
-    "publishedAt": "2026-11-18T08:48:26.000Z"
-  },
-  {
-    "id": "2f2a9c206de31c05",
-    "title": "Security flaw found in Java, world's third-largest programming language",
-    "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo",
-    "publishedAt": "2026-11-18T08:47:06.000Z"
-  },
-  {
-    "id": "600f03a897964ab8",
-    "title": "David Lammy urges Andy Burnham to campaign on rejoining EU at next election",
-    "summary": "Former foreign secretary’s intervention comes as prime minister prepares for major UK-EU summit in Brussels.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit",
-    "publishedAt": "2026-11-18T08:42:41.000Z"
-  },
-  {
-    "id": "ee9ec5c290ff97fd",
-    "title": "People asked for views on blue brook pollution",
-    "summary": "The Environment Agency wants to know how the incident affected visitors, residents and businesses.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqpv9mjm78m3o",
-    "publishedAt": "2026-11-18T08:37:02.000Z"
-  },
-  {
-    "id": "6761e82c8b8595ae",
-    "title": "Epstein’s death more likely homicide than suicide, forensic expert says",
-    "summary": "An analysis of autopsy records and photos suggests the US sex offender was murdered in 2019, an expert says.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/forensic-experts-says-jeffrey-epstein-was-killed-casts-doubt-over-suicide?traffic_source=rss",
-    "publishedAt": "2026-11-18T08:35:19.000Z"
   }
 ]
