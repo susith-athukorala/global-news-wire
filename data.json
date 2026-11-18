@@ -1,5 +1,59 @@
 [
   {
+    "id": "383656fa52b5f2fc",
+    "title": "‘Neighbourhood support teams’ to pave way for national care service, Cooper announces",
+    "summary": "Health secretary said programme would help about 566,000 vulnerable people in England by April.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/18/new-neighbourhood-support-teams-to-pave-the-way-for-national-care-service-cooper-announces",
+    "publishedAt": "2026-11-18T18:56:02.000Z"
+  },
+  {
+    "id": "251bcc5da014a43c",
+    "title": "Ex-Tory defectors barred from shaping Reform’s immigration policy, says Zia Yusuf",
+    "summary": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
+    "publishedAt": "2026-11-18T18:50:40.000Z"
+  },
+  {
+    "id": "7512ebe45fae1d9e",
+    "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
+    "summary": "An Israeli court extended the detention of Abu Safia nearly two years after Israel's army detained him.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
+    "publishedAt": "2026-11-18T18:22:26.000Z"
+  },
+  {
+    "id": "c4915d5429f3bbeb",
+    "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+    "summary": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
+    "publishedAt": "2026-11-18T18:18:16.000Z"
+  },
+  {
+    "id": "43d4054102892bb2",
+    "title": "More gas storage is at risk. What’s the government plan for secure supplies?",
+    "summary": "SSE’s threat to close a big storage facility in Yorkshire highlights successive governments’ failures to build a strategy and safeguard supplies.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/18/more-gas-storage-is-at-risk-whats-the-government-plan-for-secure-supplies",
+    "publishedAt": "2026-11-18T18:17:15.000Z"
+  },
+  {
+    "id": "2fa85661d03776d7",
+    "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
+    "summary": "On NPR's Morning Edition , fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+    "publishedAt": "2026-11-18T18:15:59.000Z"
+  },
+  {
     "id": "1b18023527bf707b",
     "title": "Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit",
     "summary": "Trump told Philippine President Marcos he knew his parents 'very well'.",
@@ -38,7 +92,7 @@
   {
     "id": "9885e5a301e8d4a7",
     "title": "Alexander Zverev notified of abuse lawsuit by ex-partner during ATP Finals",
-    "summary": "Alexander Zverev was officially notified of a lawsuit filed by his former partner during the middle of the season-ending ATP Finals on Wednesday. The latest legal case against the men’s world No 1 brought by the mother of the former couple’s daughter alleges that Zverev violated the terms of an out-of-court…",
+    "summary": "",
     "category": "World",
     "source": "The Guardian",
     "link": "https://www.theguardian.com/sport/2026/nov/18/alexander-zverev-abuse-lawsuit-atp-finals-finals-brenda-patea",
@@ -1170,6 +1224,15 @@
     "publishedAt": "2026-11-18T08:48:26.000Z"
   },
   {
+    "id": "2f2a9c206de31c05",
+    "title": "Security flaw found in Java, world's third-largest programming language",
+    "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo",
+    "publishedAt": "2026-11-18T08:47:06.000Z"
+  },
+  {
     "id": "600f03a897964ab8",
     "title": "David Lammy urges Andy Burnham to campaign on rejoining EU at next election",
     "summary": "Former foreign secretary’s intervention comes as prime minister prepares for major UK-EU summit in Brussels.",
@@ -1285,68 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
     "publishedAt": "2026-11-18T07:15:33.000Z"
-  },
-  {
-    "id": "95931435819c3270",
-    "title": "UK inflation rises to 3.6% as energy prices increase",
-    "summary": "October annual rate piles pressure on households as Iran war pushes up oil cost and rattles global economy.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
-    "publishedAt": "2026-11-18T07:01:09.000Z"
-  },
-  {
-    "id": "f0f608db8626685b",
-    "title": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
-    "summary": "Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16s.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study",
-    "publishedAt": "2026-11-18T07:00:36.000Z"
-  },
-  {
-    "id": "16292c916a375f49",
-    "title": "Life insurance: do you have a safety net to protect you and your family if the worst happens?",
-    "summary": "More people take pet insurance than income protection policies but here are plans worth considering.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/18/life-insurance-explained-types-of-cover",
-    "publishedAt": "2026-11-18T07:00:36.000Z"
-  },
-  {
-    "id": "fa692d8fdce0fab1",
-    "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-    "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo",
-    "publishedAt": "2026-11-18T07:00:25.000Z"
-  },
-  {
-    "id": "17cf5eda5383f295",
-    "title": "Bikie ‘not surprised’ if he used fake $20,000 souvlaki invoice to pocket thousands on Big Build site, inquiry hears",
-    "summary": "Royal commission sees text message where Bandidos member Joel Leavitt says ‘just make up a quote that hits 20K’ while working on site for CFMEU.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
-    "publishedAt": "2026-11-18T06:48:28.000Z"
-  },
-  {
-    "id": "f61454ddac633cbe",
-    "title": "Iran war dents Middle East sports as events are canceled. F1 bucks the trend",
-    "summary": "The season-ending Formula 1 races in the Middle East are going ahead despite the war in Iran and retaliatory attacks across the region that have canceled or postponed other large sports events.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/iran-war-dents-middle-east-sports-model-events-138239007",
-    "publishedAt": "2026-11-18T06:41:32.000Z"
-  },
-  {
-    "id": "231a189cb27a66f1",
-    "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-    "summary": "The US secretary of state was speaking after Microsoft, major banks, and the National Security Agency were all affected by technical failures in recent days.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-    "publishedAt": "2026-11-18T06:26:49.000Z"
   }
 ]

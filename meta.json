@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-18T18:17:53.042Z",
+  "lastRun": "2026-11-18T19:17:51.278Z",
   "feedsOk": 17,
   "feedsTotal": 17,
   "articleCount": 150,
@@ -32,16 +32,16 @@
     "source": "U.S. EIA via FRED",
     "unit": "USD per barrel",
     "brent": {
-      "price": 92.14,
-      "date": "2026-11-11",
-      "previous": 90.16,
-      "previousDate": "2026-11-10"
+      "price": 92.94,
+      "date": "2026-11-17",
+      "previous": 92.9,
+      "previousDate": "2026-11-16"
     },
     "wti": {
-      "price": 89.62,
-      "date": "2026-11-11",
-      "previous": 89.62,
-      "previousDate": "2026-11-10"
+      "price": 89.53,
+      "date": "2026-11-17",
+      "previous": 89.24,
+      "previousDate": "2026-11-16"
     }
   }
 }
