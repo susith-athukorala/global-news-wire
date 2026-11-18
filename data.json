@@ -1,5 +1,68 @@
 [
   {
+    "id": "2f2a9c206de31c05",
+    "title": "Security flaw found in Java, world's third-largest programming language",
+    "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programmes.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo",
+    "publishedAt": "2026-11-18T05:03:38.000Z"
+  },
+  {
+    "id": "71288f95fb59ec2f",
+    "title": "‘Human’ wins Cambridge dictionary’s word of the year",
+    "summary": "Meaning and use of word has become more important in age of AI chatbot, says dictionary.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
+    "publishedAt": "2026-11-18T05:00:34.000Z"
+  },
+  {
+    "id": "253d55efc9877a4b",
+    "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+    "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+    "publishedAt": "2026-11-18T05:00:32.000Z"
+  },
+  {
+    "id": "4a15bbdb03befda2",
+    "title": "Drinking beer and spirits raises risk of acute kidney damage, study suggests",
+    "summary": "Research also shows consuming wine could cut risk, reopening debate on whether beverage has health benefits.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/18/drinking-beer-spirits-raises-risk-acute-kidney-damage-wine-protects-study",
+    "publishedAt": "2026-11-18T05:00:31.000Z"
+  },
+  {
+    "id": "913ab7688f1241e4",
+    "title": "Waymo suspends driverless freeway rides across US after California ban",
+    "summary": "California authorities have declared self-driving cars an 'imminent hazard to public safety' after traffic incidents.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/waymo-suspends-driverless-freeway-rides-across-us-after-california-ban?traffic_source=rss",
+    "publishedAt": "2026-11-18T04:58:02.000Z"
+  },
+  {
+    "id": "a7c4927d8de6fcfb",
+    "title": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
+    "summary": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
+    "publishedAt": "2026-11-18T04:33:40.000Z"
+  },
+  {
+    "id": "ca0698dc066287a1",
+    "title": "‘Aarigaa’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives",
+    "summary": "Peltola, the first Alaska Native in the US Senate, ran a campaign that drew universal issues from her own Indigenous politics.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
+    "publishedAt": "2026-11-18T04:25:29.000Z"
+  },
+  {
     "id": "17cf5eda5383f295",
     "title": "‘Everyone likes money’: Bandidos member can’t remember why he was paid $165,000, Big Build inquiry hears",
     "summary": "Commissioner says inference could be made that bikie Joel Leavitt was ‘standing over’ union-aligned labour hire firm for the payment.",
@@ -1285,68 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/17/scammed-migrant-workers-modern-slavery-home-office",
     "publishedAt": "2026-11-17T15:00:15.000Z"
-  },
-  {
-    "id": "d42da70fe4fe149f",
-    "title": "‘Chloe’s policy’ aims to prevent repeat of case of Treasury worker who took her own life",
-    "summary": "Exclusive: Parents of Chloe Moffat urge employers to treat staff facing allegations in a kinder, more human way.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/17/chloe-moffat-policy-parents-treasury-worker-employers",
-    "publishedAt": "2026-11-17T15:00:14.000Z"
-  },
-  {
-    "id": "f72e11ea1ec669a1",
-    "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
-    "summary": "A CNN report quoting unnamed US officials alleges Tehran is developing plans for an attack on officials in Washington.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss",
-    "publishedAt": "2026-11-17T14:59:39.000Z"
-  },
-  {
-    "id": "8ae6c9d26cd71a13",
-    "title": "US senators demand FAA pause upgrades linked to nationwide ground stop",
-    "summary": "Thousands of routers used in communications systems are slated to be replaced, raising the risk of more problems.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/us-senators-demand-faa-pause-upgrades-linked-to-nationwide-ground-stop?traffic_source=rss",
-    "publishedAt": "2026-11-17T14:57:33.000Z"
-  },
-  {
-    "id": "13af9aa1fa9c8072",
-    "title": "Jensen Huang’s departure as Nvidia CEO becomes a political proxy war",
-    "summary": "Huang’s exit sharpens debate over US stance towards Beijing; and as outages increase, do you get the feeling nothing works?",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china",
-    "publishedAt": "2026-11-17T14:50:24.000Z"
-  },
-  {
-    "id": "9d83a16f0eae6004",
-    "title": "Hundreds protest against ex-border patrol chief Greg Bovino at Rutgers University talk",
-    "summary": "New Jersey university’s Republicans club invited Bovino, who oversaw Trump’s ICE surges, to speak on campus.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/protest-greg-bovino-rutgers-university",
-    "publishedAt": "2026-11-17T14:49:01.000Z"
-  },
-  {
-    "id": "c3508966f37858d7",
-    "title": "Bessent vs Lutnick: Who is winning the China chip debate?",
-    "summary": "A rift has emerged in Trump’s cabinet over China’s access to advanced AI chips as export controls tighten.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/17/bessent-vs-lutnick-who-is-winning-the-china-chip-debate?traffic_source=rss",
-    "publishedAt": "2026-11-17T14:46:37.000Z"
-  },
-  {
-    "id": "0b72aa84efbbb0b1",
-    "title": "How new US chip restrictions on South East Asia will hit China",
-    "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo",
-    "publishedAt": "2026-11-17T14:25:45.000Z"
   }
 ]
