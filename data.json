@@ -1,5 +1,95 @@
 [
   {
+    "id": "e94da4f7dbdc7db0",
+    "title": "Yvette Cooper announces new health support for most vulnerable people in England",
+    "summary": "Health secretary says 500,000 will benefit initially from ‘downpayment’ on PM’s national care service pledge.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/18/yvette-cooper-health-support-vulnerable-people-england",
+    "publishedAt": "2026-11-18T11:08:32.000Z"
+  },
+  {
+    "id": "858ed1b42a5ae004",
+    "title": "Gun control activist faces long recovery after Washington DC mass shooting",
+    "summary": "Susan Thurston Hamerski was shot in the face by gunman who killed one and injured several others in Logan Circle.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/washington-dc-logan-circle-shooting-activist",
+    "publishedAt": "2026-11-18T11:00:57.000Z"
+  },
+  {
+    "id": "e7b98edb127dda91",
+    "title": "Fresh off recent wins, the left has a new goal: get AOC to run for president",
+    "summary": "With its policy priorities more mainstream than ever, the left is directing its momentum toward 2028.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/presidential-election-aoc-candidate",
+    "publishedAt": "2026-11-18T11:00:57.000Z"
+  },
+  {
+    "id": "de281466a05de55a",
+    "title": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
+    "summary": "With realism that defies belief, this vast game easily accommodates its trademark foulmouthed, OTT chaos – as well as new empathy for the fugitive couple at its centre.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
+    "publishedAt": "2026-11-18T11:00:55.000Z"
+  },
+  {
+    "id": "cc65b3599b80e1b9",
+    "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
+    "summary": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
+    "publishedAt": "2026-11-18T11:00:00.000Z"
+  },
+  {
+    "id": "c03ba45f39237778",
+    "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
+    "summary": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
+    "publishedAt": "2026-11-18T11:00:00.000Z"
+  },
+  {
+    "id": "dc7bcd92873ea910",
+    "title": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
+    "summary": "The NYT faces backlash over report suggesting a possible link between Iranian dams and underground missile facilities.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss",
+    "publishedAt": "2026-11-18T10:38:13.000Z"
+  },
+  {
+    "id": "3d44534895bdd683",
+    "title": "Traumas of Sudan war lead to wave of drug addiction",
+    "summary": "Anguish caused by conflict sees a growing number of young people turn to drugs.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/18/traumas-of-sudan-war-is-seeing-a-wave-of-drug-addiction?traffic_source=rss",
+    "publishedAt": "2026-11-18T10:35:06.000Z"
+  },
+  {
+    "id": "45c19e2f8827aac5",
+    "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+    "summary": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+    "publishedAt": "2026-11-18T10:32:03.000Z"
+  },
+  {
+    "id": "3aaf5d92c0730172",
+    "title": "SSE threatens to close Yorkshire gas storage site unless ministers intervene",
+    "summary": "Energy firm says existing market arrangements do not sustain facility’s continued operation.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
+    "publishedAt": "2026-11-18T10:29:22.000Z"
+  },
+  {
     "id": "9c8259feddcb5fba",
     "title": "Iran-backed militias tortured him, but Iraqi environmentalist refuses to quit",
     "summary": "Iran-backed militias kidnapped and tortured him, but Iraqi environmentalist is still on a mission to save marshes, and a way of life stretching back to the dawn of history.",
@@ -421,6 +511,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss",
     "publishedAt": "2026-11-18T05:16:25.000Z"
+  },
+  {
+    "id": "cc762e9566c979e7",
+    "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
+    "summary": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o",
+    "publishedAt": "2026-11-18T05:11:42.000Z"
   },
   {
     "id": "2f2a9c206de31c05",
@@ -1249,104 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
     "publishedAt": "2026-11-17T20:20:31.000Z"
-  },
-  {
-    "id": "50c674542804d570",
-    "title": "Kalshi halts Trump speech bets after CFTC order",
-    "summary": "Kalshi halts Trump speech bets following CFTC mandate amid concerns of insider trading in US prediction markets.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss",
-    "publishedAt": "2026-11-17T20:20:18.000Z"
-  },
-  {
-    "id": "f481237553572271",
-    "title": "China, Canada expand tariff relief after Carney-Xi meeting",
-    "summary": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
-    "publishedAt": "2026-11-17T20:11:41.000Z"
-  },
-  {
-    "id": "04508f950256e050",
-    "title": "Speed camera fault may have allowed drivers to escape fines",
-    "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo",
-    "publishedAt": "2026-11-17T20:04:54.000Z"
-  },
-  {
-    "id": "8a16fbeddd0b5bbe",
-    "title": "Gen-Z socialists may not care for 'free markets' anymore",
-    "summary": "A note from AMP says the popular tide is turning against \"free markets\", but who can blame the younger generation?",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-18/gen-z-socialists-may-not-care-for-free-markets-anymore/107389872",
-    "publishedAt": "2026-11-17T20:01:26.000Z"
-  },
-  {
-    "id": "0fc013d830c14219",
-    "title": "Milburn’s absurdly ambitious report offers blueprint for fixing everything and everyone",
-    "summary": "He lays out sweeping aims and finer details for how to fix the Neets crisis – and is obsessive about welfare.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-neet-report-absurdly-ambitious-analysis",
-    "publishedAt": "2026-11-17T19:47:31.000Z"
-  },
-  {
-    "id": "aa81f41407e93929",
-    "title": "Jeffries shifts strategy amid growing Democratic divisions in US House",
-    "summary": "The lawmaker is opting to put progressive opponents on record as he vies to become the chamber's first Black speaker.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/jeffries-shifts-strategy-amid-growing-democratic-divisions-in-us-house?traffic_source=rss",
-    "publishedAt": "2026-11-17T19:41:45.000Z"
-  },
-  {
-    "id": "833268100ba087d9",
-    "title": "Why a Trump-Xi-Putin summit is no Yalta 2.0, but is 'Putin's sick fantasy'",
-    "summary": "Vladimir Putin longs to be seen as a world leader on a par with Joseph Stalin, but the Russia he leads is a diminished power, and the Shenzhen summit may be more about optics than substance.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-18/yalta-trump-putin-xi-meeting-shenzhen/107396968",
-    "publishedAt": "2026-11-17T19:39:25.000Z"
-  },
-  {
-    "id": "a570f4401a857abb",
-    "title": "Using law to try to silence abuse victims is ‘ultimate form of gaslighting’, MPs told",
-    "summary": "Woman sued by alleged rapist tells justice committee that Slapp lawsuits present perpetrator as victim of wrongdoing.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/17/using-law-try-silence-abuse-victims-ultimate-gaslighting-mps-told",
-    "publishedAt": "2026-11-17T19:36:11.000Z"
-  },
-  {
-    "id": "9364369bd1a6b008",
-    "title": "Russian military plane crashes killing all 19 on board",
-    "summary": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo",
-    "publishedAt": "2026-11-17T19:33:55.000Z"
-  },
-  {
-    "id": "873a904b57e5c2a4",
-    "title": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
-    "summary": "Youth unemployment review risks clash with unions and Labour left over workers’ rights and minimum wage.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-tax-cuts-businesses-unions-neets-youth-unemployment",
-    "publishedAt": "2026-11-17T19:30:32.000Z"
-  },
-  {
-    "id": "e70024e15fe7af15",
-    "title": "More than 100,000 take part in France pay protests",
-    "summary": "Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
-    "publishedAt": "2026-11-17T19:09:49.000Z"
   }
 ]
