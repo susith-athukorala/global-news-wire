@@ -1,5 +1,32 @@
 [
   {
+    "id": "fef422c85df5c054",
+    "title": "Burnham considering cuts to national insurance to create more youth jobs",
+    "summary": "PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25s.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report",
+    "publishedAt": "2026-11-18T08:03:32.000Z"
+  },
+  {
+    "id": "a66e7fafa2b660d1",
+    "title": "Body found in Derry bog decapitated more than 2,000 years ago, coroner finds",
+    "summary": "Inquest-style inquiry concludes iron age remains are of 15- to 22-year-old female who may have been ritually sacrificed.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/18/ballymacombs-more-woman-derry-bog-decapitated-2000-years-ago",
+    "publishedAt": "2026-11-18T08:00:36.000Z"
+  },
+  {
+    "id": "42ab3381fc3286b1",
+    "title": "‘I didn’t notice his body being purple’: Byron Bay doula left newborn to inflate a jumping castle, court hears",
+    "summary": "Inquest into deaths of four babies born in free births or at home in northern NSW between 2022 and 2024 hears ‘something was seriously wrong’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/byron-bay-doula-left-newborn-to-inflate-jumping-castle-freebirth-inquest-ntwnfb",
+    "publishedAt": "2026-11-18T07:58:32.000Z"
+  },
+  {
     "id": "4003574a4fa9700c",
     "title": "Higher fuel prices push UK inflation to 3.6%",
     "summary": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
@@ -34,6 +61,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/money/2026/nov/18/life-insurance-explained-types-of-cover",
     "publishedAt": "2026-11-18T07:00:36.000Z"
+  },
+  {
+    "id": "fa692d8fdce0fab1",
+    "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+    "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo",
+    "publishedAt": "2026-11-18T07:00:25.000Z"
   },
   {
     "id": "f61454ddac633cbe",
@@ -187,6 +223,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/18/waymo-suspends-driverless-freeway-rides-across-us-after-california-ban?traffic_source=rss",
     "publishedAt": "2026-11-18T04:58:02.000Z"
+  },
+  {
+    "id": "434657a0e157fa1f",
+    "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+    "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o",
+    "publishedAt": "2026-11-18T04:57:06.000Z"
   },
   {
     "id": "a7c4927d8de6fcfb",
@@ -664,6 +709,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/17/nx-s1-6043126/public-health-expert-reacts-to-latest-measles-milestone",
     "publishedAt": "2026-11-17T22:20:41.000Z"
+  },
+  {
+    "id": "77ab65f34ee9bcc6",
+    "title": "US loses measles elimination status amid worst outbreak since 1991",
+    "summary": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+    "publishedAt": "2026-11-17T22:18:53.000Z"
   },
   {
     "id": "89ebf33e3c4fddef",
@@ -1287,66 +1341,12 @@
     "publishedAt": "2026-11-17T17:12:15.000Z"
   },
   {
-    "id": "2f9a8ae680bc27f0",
-    "title": "US loses measles elimination status after 26 years amid record case numbers",
-    "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo",
-    "publishedAt": "2026-11-17T17:10:03.000Z"
-  },
-  {
-    "id": "ec637b8162867a6e",
-    "title": "CAIR defends civil rights work against Trump’s ‘smear’",
-    "summary": "The country's largest Muslim advocacy group urges Trump to address rising hate crimes against Muslims.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/cair-defends-civil-rights-work-against-trumps-smear?traffic_source=rss",
-    "publishedAt": "2026-11-17T17:09:49.000Z"
-  },
-  {
-    "id": "36f71dc747c1e3ea",
-    "title": "Jensen Huang says he would return as Nvidia boss if asked by the board",
-    "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
-    "publishedAt": "2026-11-17T17:09:32.000Z"
-  },
-  {
-    "id": "6a0b0cc96336930c",
-    "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-    "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
-    "publishedAt": "2026-11-17T16:56:38.000Z"
-  },
-  {
-    "id": "fd43296f1cf9ed50",
-    "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
-    "summary": "The law targets the group's financing and activities as Houthis make advances in southwestern Yemen.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
-    "publishedAt": "2026-11-17T16:53:25.000Z"
-  },
-  {
-    "id": "285d70164db6af63",
-    "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-    "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo",
-    "publishedAt": "2026-11-17T16:42:11.000Z"
-  },
-  {
-    "id": "9775fff4b2849085",
-    "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
-    "summary": "Huang makes first statement since resigning, while board of directors is not considering reinstating him, reports say.",
+    "id": "db4d2925d4a1ef28",
+    "title": "‘Spared a lot’: Kessler twins explained assisted dying decision in final letter",
+    "summary": "Pop-singing sisters, who died aged 89 last year, described their declining health and desire to depart life together.",
     "category": "World",
     "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
-    "publishedAt": "2026-11-17T16:40:55.000Z"
+    "link": "https://www.theguardian.com/society/2026/nov/17/kessler-twins-assisted-dying-decision",
+    "publishedAt": "2026-11-17T17:12:07.000Z"
   }
 ]
