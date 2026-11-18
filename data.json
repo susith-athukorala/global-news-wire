@@ -1,5 +1,59 @@
 [
   {
+    "id": "23d5709759eebb5b",
+    "title": "Sleeve checks and no smartglasses: South Korea races to protect all-important university exams against AI",
+    "summary": "South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+    "publishedAt": "2026-11-18T02:03:27.000Z"
+  },
+  {
+    "id": "6ad22de5a395c5f3",
+    "title": "Tag team: dual waterspouts appear in San Francisco Bay amid stormy weather",
+    "summary": "Phenomenon is not a common occurrence in the Bay area and inclement weather is expected to continue for few days.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts",
+    "publishedAt": "2026-11-18T01:50:28.000Z"
+  },
+  {
+    "id": "69b783e08821625a",
+    "title": "What is Trump hoping to achieve at APEC meeting in China?",
+    "summary": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
+    "publishedAt": "2026-11-18T01:33:05.000Z"
+  },
+  {
+    "id": "7998baf335806447",
+    "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
+    "summary": "Daithi O'Corrain, 48, has been charged with damaging a US military C-130 aircraft while it was parked overnight.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport?traffic_source=rss",
+    "publishedAt": "2026-11-18T01:32:52.000Z"
+  },
+  {
+    "id": "efafc60650e540de",
+    "title": "Man charged over ‘brutal attack’ on Somali-American in Minnesota",
+    "summary": "Rideshare driver Mohamed Yusuf is in a critical condition after he was allegedly assaulted by a passenger.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/man-charged-over-brutal-attack-on-somali-american-in-minnesota?traffic_source=rss",
+    "publishedAt": "2026-11-18T01:31:53.000Z"
+  },
+  {
+    "id": "1c9a5d5e7190d05e",
+    "title": "White House withdraws nomination of Heidi Overton to lead FDA",
+    "summary": "Move to drop Trump ally and prominent abortion opponent comes a day before key Senate health committee vote.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/white-house-withdraws-heidi-overton-fda",
+    "publishedAt": "2026-11-18T01:26:15.000Z"
+  },
+  {
     "id": "4622143e813badc6",
     "title": "Voy at-home test kit adverts banned over low testosterone claims",
     "summary": "The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.",
@@ -7,6 +61,33 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o",
     "publishedAt": "2026-11-18T01:11:07.000Z"
+  },
+  {
+    "id": "aeecd4d18816ee83",
+    "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+    "summary": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+    "publishedAt": "2026-11-18T01:07:01.000Z"
+  },
+  {
+    "id": "d02231a2198a975f",
+    "title": "Ecuadorian fishermen sue Trump administration over drone strike",
+    "summary": "Crew say their boat was attacked by drones launched from US-operated vessel as part of 'manifestly unlawful' campaign.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
+    "publishedAt": "2026-11-18T01:04:43.000Z"
+  },
+  {
+    "id": "4931add3adfc7289",
+    "title": "DR Congo’s rival peace efforts fail to halt violence in the east",
+    "summary": "Diplomatic efforts struggle to end fighting in eastern DRC as civilians continue to bear the cost of conflict.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss",
+    "publishedAt": "2026-11-18T00:57:56.000Z"
   },
   {
     "id": "359045f8c4cf3dbd",
@@ -504,6 +585,15 @@
     "publishedAt": "2026-11-17T20:11:41.000Z"
   },
   {
+    "id": "8a16fbeddd0b5bbe",
+    "title": "Gen-Z socialists may not care for 'free markets' anymore",
+    "summary": "A note from AMP says the popular tide is turning against \"free markets\", but who can blame the younger generation?",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-18/gen-z-socialists-may-not-care-for-free-markets-anymore/107389872",
+    "publishedAt": "2026-11-17T20:01:26.000Z"
+  },
+  {
     "id": "0fc013d830c14219",
     "title": "Milburn’s absurdly ambitious report offers blueprint for fixing everything and everyone",
     "summary": "He lays out sweeping aims and finer details for how to fix the Neets crisis – and is obsessive about welfare.",
@@ -718,6 +808,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
     "publishedAt": "2026-11-17T17:36:31.000Z"
+  },
+  {
+    "id": "d59ca39667ca039d",
+    "title": "Nvidia chair tells investors he will not talk about bringing back Huang",
+    "summary": "In his first comments since resigning under pressure over his affair with a suspected Chinese spy, Jensen Huang says he would be honoured to return as Nvidia CEO if the board decides to have him back.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-18/ex-nvidia-ceo-jensen-huang-says-he-would-be-honoured-to-return/107397042",
+    "publishedAt": "2026-11-17T17:35:21.000Z"
   },
   {
     "id": "ddbe88e354f562a3",
@@ -1249,104 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/17/santander-staff-holidays-sick-leave-days-in-office",
     "publishedAt": "2026-11-17T13:01:08.000Z"
-  },
-  {
-    "id": "6344945c04695554",
-    "title": "Anthropic IPO: how can I buy shares, and is it worth it?",
-    "summary": "Stock market debut of Claude AI chatbot maker is expected to be one of the biggest flotations in history.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai",
-    "publishedAt": "2026-11-17T13:00:48.000Z"
-  },
-  {
-    "id": "ba7dd40d7be0b727",
-    "title": "Fossil-fuel industry accused of violating Colorado law over not disclosing drilling chemicals",
-    "summary": "Non-profit FracTracker Alliance alleges regulators have exempted compounds used in drilling despite 2022 law.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/17/fossil-fuel-industry-colorado",
-    "publishedAt": "2026-11-17T13:00:48.000Z"
-  },
-  {
-    "id": "59aa6d9a86871ba6",
-    "title": "Keepsake County review – eccentric stealing simulator with a social conscience",
-    "summary": "This irreverent stealth game depicts Samuel’s lonely life robbing garish, midwestern abodes – it’s a Shameless way to make a living.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/17/keepsake-county-review-stealing-simulator-forward-instinct",
-    "publishedAt": "2026-11-17T13:00:47.000Z"
-  },
-  {
-    "id": "12f0f249c1613a25",
-    "title": "Usman Nurmagomedov released from UAE prison after hotel brawl arrest",
-    "summary": "Russian MMA fighter and seven associates still face deportation after a hotel fight with other MMA fighters.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss",
-    "publishedAt": "2026-11-17T12:55:07.000Z"
-  },
-  {
-    "id": "0635c7b781ebcf9a",
-    "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
-    "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no",
-    "publishedAt": "2026-11-17T12:54:32.000Z"
-  },
-  {
-    "id": "789e3a36c6e251c2",
-    "title": "Brazil defeat Singapore 7-0 as Vinicius scores first-half hat-trick",
-    "summary": "Brazil's star forward scored a 12-minute hat-trick in the record world champions' thumping of the hosts in a friendly.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/17/brazil-defeat-singapore-7-0-as-vinicius-scores-first-half-hat-trick?traffic_source=rss",
-    "publishedAt": "2026-11-17T12:54:04.000Z"
-  },
-  {
-    "id": "f1a14cc39724ea78",
-    "title": "EU-backed court convicts Kosovo ex-President of attempting to obstruct justice",
-    "summary": "A European Union-backed court has convicted Kosovo's former president, Hashim Thaci, of trying to obstruct justice and contempt of court.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/eu-backed-court-convicts-kosovo-president-hashim-thaci-138204660",
-    "publishedAt": "2026-11-17T12:50:16.000Z"
-  },
-  {
-    "id": "b0aab3ed9431c535",
-    "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
-    "summary": "Energy facilities, industrial units, ports and bridges, schools, hospitals and apartment buildings have already been hit.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
-    "publishedAt": "2026-11-17T12:50:12.000Z"
-  },
-  {
-    "id": "1b20f8b7d72229bf",
-    "title": "Government must act now or lose Royal Mail, former minister warns",
-    "summary": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo",
-    "publishedAt": "2026-11-17T12:43:07.000Z"
-  },
-  {
-    "id": "4c008a5e50959ba6",
-    "title": "How is US Senate majority leader chosen?",
-    "summary": "Chris Van Hollen set to challenge Chuck Schumer for the post as the Democrats prepare to take control of Congress.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
-    "publishedAt": "2026-11-17T12:38:39.000Z"
-  },
-  {
-    "id": "8360fc4a245b53c2",
-    "title": "Pope forgives person who nailed him in the eye with a rosary in Peru",
-    "summary": "Pope Leo XIV has forgiven the person who threw a rosary at him before his final Mass in Peru and nailed him in the eye.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-forgives-person-nailed-eye-rosary-peru-138202302",
-    "publishedAt": "2026-11-17T12:37:26.000Z"
   }
 ]
