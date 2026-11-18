@@ -1,5 +1,149 @@
 [
   {
+    "id": "9c8259feddcb5fba",
+    "title": "Iran-backed militias tortured him, but Iraqi environmentalist refuses to quit",
+    "summary": "Iran-backed militias kidnapped and tortured him, but Iraqi environmentalist is still on a mission to save marshes, and a way of life stretching back to the dawn of history.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
+    "publishedAt": "2026-11-18T10:00:00.000Z"
+  },
+  {
+    "id": "ca4722352b547967",
+    "title": "China and the U.S. are still the biggest polluters, but only China is doing better",
+    "summary": "The two largest emitters of greenhouse gases are China and the United States. Now, the countries' stories are diverging: many Chinese provinces are reducing coal use, while the U.S. is falling behind on climate technologies.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
+    "publishedAt": "2026-11-18T10:00:00.000Z"
+  },
+  {
+    "id": "a1aa556e52bbd895",
+    "title": "OpenAI announces new AI safety program; researchers worry it won't be enough",
+    "summary": "OpenAI CEO Sam Altman said he would grant \"employee level\" access to outside researchers to evaluate AI safety. The pilot program appears much more restrictive.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
+    "publishedAt": "2026-11-18T10:00:00.000Z"
+  },
+  {
+    "id": "689560bf09bec457",
+    "title": "Project Gryffindor: Meta's plan to get more school kids using Instagram",
+    "summary": "Meta said it launched its \"school partnership program\" to keep teens safe, but internal documents tell a different story.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
+    "publishedAt": "2026-11-18T10:00:00.000Z"
+  },
+  {
+    "id": "a9cefeb130119d8e",
+    "title": "Fears grow over US sanctions on ICJ judges ahead of Myanmar genocide ruling",
+    "summary": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+    "publishedAt": "2026-11-18T09:58:28.000Z"
+  },
+  {
+    "id": "36a1fb555f5f8928",
+    "title": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
+    "summary": "Russian President Vladimir Putin will meet Wednesday with President Trump and Chinese President Xi, escaping the aftermath of a Ukrainian attack that partially collapsed a prized bridge.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge",
+    "publishedAt": "2026-11-18T09:43:28.000Z"
+  },
+  {
+    "id": "0083e066de34680f",
+    "title": "Government Accountability Office IT director discusses the recent tech outages",
+    "summary": "NPR's Leila Fadel speaks with Government Accountability Office IT and cybersecurity director Dave Hinchman about outdated government technology and the risk of system failures.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6042543/government-accountability-office-it-director-discusses-the-recent-tech-outages",
+    "publishedAt": "2026-11-18T09:42:54.000Z"
+  },
+  {
+    "id": "46b240cfb1682fda",
+    "title": "What do Deutsche Bank leaks reveal about Trump, Epstein and Russia?",
+    "summary": "Deutsche Bank leaks expose ties to Trump, Epstein, and global elites amid scrutiny over past financial misconduct.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/what-do-deutsche-bank-leaks-reveal-about-trump-epstein-and-russia?traffic_source=rss",
+    "publishedAt": "2026-11-18T09:42:26.000Z"
+  },
+  {
+    "id": "51cc2eeb8d8915fe",
+    "title": "Why Democrat Mary Peltola’s US Senate win in Alaska matters",
+    "summary": "Peltola’s Alaska win gives Democrats 56 Senate seats and a buffer in Republican states ahead of the 2028 elections.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss",
+    "publishedAt": "2026-11-18T09:38:50.000Z"
+  },
+  {
+    "id": "966121d632c45b6d",
+    "title": "‘Phantom forests’ in Australia’s arid outback used to create carbon credits meant to offset emissions, report claims",
+    "summary": "Carbon credit companies reject research that found only small increase in forest and canopy cover in regeneration areas despite wet conditions.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims",
+    "publishedAt": "2026-11-18T09:30:36.000Z"
+  },
+  {
+    "id": "4dbfacf9e3c0fbf5",
+    "title": "As Trump arrives in China, low expectations for breakthroughs in rivalry",
+    "summary": "Analysts expect few concrete outcomes from talks between the leaders on the sidelines of the APEC summit.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/18/as-trump-arrives-in-china-low-expectations-for-breakthroughs-in-rivalry?traffic_source=rss",
+    "publishedAt": "2026-11-18T09:30:01.000Z"
+  },
+  {
+    "id": "965b9ee2c71225ef",
+    "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+    "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o",
+    "publishedAt": "2026-11-18T09:28:35.000Z"
+  },
+  {
+    "id": "5bbc4d733f63bccf",
+    "title": "Sandpapergate: Cricket Australia to open forum for players, rules out probe",
+    "summary": "Cricket Australia says it will establish a forum, likely led by a former judge, but there will be no new sanctions.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/18/sandpapergate-cricket-australia-to-open-forum-for-players-rules-out-probe?traffic_source=rss",
+    "publishedAt": "2026-11-18T09:18:37.000Z"
+  },
+  {
+    "id": "71ac00ee0340a9f7",
+    "title": "India-UK ties outride Modi’s ‘decolonisation’ rhetoric",
+    "summary": "Prince William's visit highlights growing partnership between New Delhi and London, despite their colonial history.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/india-uk-ties-outride-modis-decolonisation-rhetoric?traffic_source=rss",
+    "publishedAt": "2026-11-18T09:13:12.000Z"
+  },
+  {
+    "id": "4db63cd937ae4e0c",
+    "title": "Shabana Mahmood to set out plans to tackle ‘corrosive’ perception of two-tier policing",
+    "summary": "Home secretary to tell police chiefs ‘misguided attempts at course correction’ can lead to ‘differential treatment’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/18/shabana-mahmood-two-tier-policing",
+    "publishedAt": "2026-11-18T09:10:43.000Z"
+  },
+  {
+    "id": "9c80aee121e8e4bf",
+    "title": "Myanmar-linked arsenic pollution prompts clean water scramble in Thailand",
+    "summary": "Thai authorities race to provide safe water to villagers after arsenic from Myanmar mines contaminates Mekong River.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/arsenic-pollution-linked-to-myanmar-mining-prompts-water-alert-in-thailand?traffic_source=rss",
+    "publishedAt": "2026-11-18T09:10:21.000Z"
+  },
+  {
     "id": "8bd5e9a65af63b89",
     "title": "Venezuelan boxer Linares arrested in US and faces deportation, ICE confirms",
     "summary": "The 41-year-old was detained on Sunday by US immigration authorities at El Paso International Airport in Texas.",
@@ -756,6 +900,15 @@
     "publishedAt": "2026-11-17T23:02:12.000Z"
   },
   {
+    "id": "2e8a2735ef156f35",
+    "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
+    "summary": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six months.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
+    "publishedAt": "2026-11-17T22:55:06.000Z"
+  },
+  {
     "id": "b9d51cb275c5307f",
     "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
     "summary": "Students oppose appearance of self-described ‘race realist’ who made plagiarism claims against Jason Arday.",
@@ -1195,158 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
     "publishedAt": "2026-11-17T19:09:49.000Z"
-  },
-  {
-    "id": "4e5d8dd77632b2b3",
-    "title": "Pope Leo’s envoy brings message of comfort and unity to Holy Land Christians",
-    "summary": "The Catholic cardinal who oversees care of the faithful in the Holy Land visited Jerusalem to convey Pope Leo XIV's presence during troubled times for Christians.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-leos-envoy-brings-message-comfort-unity-holy-138220614",
-    "publishedAt": "2026-11-17T19:05:12.000Z"
-  },
-  {
-    "id": "25cf1dd79d3fe93f",
-    "title": "Angry crowds rally against Slovakia's pro-Russian leader on Velvet Revolution anniversary",
-    "summary": "Crowds have gathered in Slovakia to protest the government of pro-Russian Prime Minister Robert Fico on the anniversary of the 1989 Velvet Revolution, which ended communist rule in Czechoslovakia.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/angry-crowds-rally-slovakias-pro-russian-leader-velvet-138221924",
-    "publishedAt": "2026-11-17T19:04:53.000Z"
-  },
-  {
-    "id": "46a59dad89819575",
-    "title": "Children linked to religious sect raided by UK police now subject of care proceedings",
-    "summary": "Scale of cases in family court relating to Ahmadi Religion of Peace and Light ‘rarely seen before’, one lawyer said.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/17/ahmadi-religion-of-peace-and-light-aropl-children-care-family-courts",
-    "publishedAt": "2026-11-17T19:04:47.000Z"
-  },
-  {
-    "id": "4c73605e859eef97",
-    "title": "NSA’s classified internal communications network reportedly faces outage",
-    "summary": "Disruption at US intelligence agency comes amid questions over recent outages in air travel, communications services.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
-    "publishedAt": "2026-11-17T19:03:14.000Z"
-  },
-  {
-    "id": "5f541beb0e64a046",
-    "title": "Nearly $500k of underwater gear in limbo after shipping agent cancelled",
-    "summary": "Small businesses say they are out of pocket and running out of time before Christmas, with imported stock stuck in limbo amid border delays and a logistics company's cancellation.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-18/customs-delay-hits-small-businesses/107368824",
-    "publishedAt": "2026-11-17T19:01:16.000Z"
-  },
-  {
-    "id": "87064c77c3589376",
-    "title": "National Security Agency network for internal communications goes down",
-    "summary": "NSA issues ‘code yellow’ as NSANet, used by staff to share classified material, including top-secret intelligence, fails.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down",
-    "publishedAt": "2026-11-17T19:00:21.000Z"
-  },
-  {
-    "id": "2d6e0dc8ee36eff3",
-    "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
-    "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o",
-    "publishedAt": "2026-11-17T18:58:57.000Z"
-  },
-  {
-    "id": "a1fc2b7a4056c1cc",
-    "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
-    "summary": "The Palestinian Health Ministry says Fadda Mohammed Fheidat, 72, was shot dead by Israeli settlers.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
-    "publishedAt": "2026-11-17T18:43:46.000Z"
-  },
-  {
-    "id": "3b6dc1ca1cc5a3cc",
-    "title": "Government backs welfare shake-up to prevent 'lost generation'",
-    "summary": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo",
-    "publishedAt": "2026-11-17T18:43:05.000Z"
-  },
-  {
-    "id": "2ab58983706a81fd",
-    "title": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-    "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, its third attack in recent days on American military targets in the Gulf island kingdom after a roughly two-month lull in fighting.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
-    "publishedAt": "2026-11-17T18:34:31.000Z"
-  },
-  {
-    "id": "db88cd04b73e6eb1",
-    "title": "Will the Milburn review come good or go south? Either way, we’ll always have Eurovision",
-    "summary": "The announcement of state plans to engage with young people told us nothing we hadn’t already heard, but it still felt momentous.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/17/will-the-milburn-review-come-good-or-go-south-either-way-well-always-have-eurovision",
-    "publishedAt": "2026-11-17T18:28:42.000Z"
-  },
-  {
-    "id": "ee3c63eaa00a4e5b",
-    "title": "Joe Biden criticizes Zelenskyy as ‘moody’ and ‘not as grateful’ in new memoir",
-    "summary": "Promise Me, America was published just before the former US president’s 84th birthday as he battles advanced cancer.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/biden-memoir-zelenskyy-ukraine",
-    "publishedAt": "2026-11-17T18:27:51.000Z"
-  },
-  {
-    "id": "31d16b6ff4cf7642",
-    "title": "Jensen Huang agrees to testify before US House, says can resume CEO role",
-    "summary": "Huang said he is ready to return as Nvidia CEO if the company's board would like him back at the helm.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss",
-    "publishedAt": "2026-11-17T18:14:06.000Z"
-  },
-  {
-    "id": "f087d7c7855c3ac1",
-    "title": "Who to watch in Spain's election race",
-    "summary": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no",
-    "publishedAt": "2026-11-17T18:13:45.000Z"
-  },
-  {
-    "id": "04f9d71236828aaa",
-    "title": "GP clinic bought by Bupa encouraged doctors to bill expensive Medicare items",
-    "summary": "A GP clinic run by health insurance giant Bupa wrote to doctors, calling on them to use chronic condition plans to ensure \"revenue is increasing\".",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-18/bupa-clinic-urged-gps-to-bill-costly-medicare-items-lift-revenue/106981358",
-    "publishedAt": "2026-11-17T18:00:00.000Z"
-  },
-  {
-    "id": "6af73e49fd3f903e",
-    "title": "UK backs idea of new levies on polluting sectors to pay for climate action costs",
-    "summary": "Britain joins other signatories to statement urging introduction of targeted taxes on heavy emitters.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/17/cop31-uk-backs-new-levies-polluting-sectors",
-    "publishedAt": "2026-11-17T17:59:41.000Z"
-  },
-  {
-    "id": "574f499b55a7cf42",
-    "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
-    "summary": "High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
-    "publishedAt": "2026-11-17T17:58:05.000Z"
   }
 ]
