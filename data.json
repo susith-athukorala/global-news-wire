@@ -1,5 +1,23 @@
 [
   {
+    "id": "f8b775cb33df8110",
+    "title": "Home owner felt 'physically ill' when she realised she was scammed",
+    "summary": "Bana D'Sena moved regionally for a quiet lifestyle, but instead she has been left $14,000 out of pocket.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-19/wa-roofing-business-clients-tens-thousands-out-pocket/107382446",
+    "publishedAt": "2026-11-18T22:06:24.000Z"
+  },
+  {
+    "id": "2a1b3475515a1832",
+    "title": "Waymo pulls driverless taxis from freeways across the US after California ban",
+    "summary": "The autonomous driving company suspended driverless taxi rides on US highways days after California banned the vehicles on its own freeways.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways",
+    "publishedAt": "2026-11-18T22:05:49.000Z"
+  },
+  {
     "id": "d4a645e126f6c05f",
     "title": "After the White House pulls its nominee to lead the FDA, what's next for the agency?",
     "summary": "On the eve of a key Senate vote, the White House withdrew Dr. Heidi Overton's nomination to run the Food and Drug Administration.",
@@ -459,6 +477,15 @@
     "publishedAt": "2026-11-18T16:26:16.000Z"
   },
   {
+    "id": "94313a3ed893388d",
+    "title": "EU proposes fresh $49 billion loan for Ukraine as war costs mount",
+    "summary": "The European Commission wants to raise a 45 billion euro loan for Ukraine to support its economy and war effort in 2027.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/eu-proposes-fresh-49-billion-loan-ukraine-war-138249084",
+    "publishedAt": "2026-11-18T16:26:13.000Z"
+  },
+  {
     "id": "c69a55dc2529c991",
     "title": "Ukraine says it hit 2 Russian oil refineries as Zelenskyy hails weapons produced in the country",
     "summary": "Ukraine says it has carried out new strikes on two oil refineries in southern Russia.",
@@ -484,6 +511,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/chinese-executive-convicted-case-linked-bangkok-building-collapse-138252346",
     "publishedAt": "2026-11-18T16:25:58.000Z"
+  },
+  {
+    "id": "1948a2b832e41723",
+    "title": "Remains of Ecuadorian killed in New York building collapse arrive in Quito",
+    "summary": "The remains of Jos&eacute; Caguana, one of two Ecuadorian construction workers killed in a New York building collapse, have arrived in Ecuador.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/remains-ecuadorian-killed-new-york-building-collapse-arrive-138252749",
+    "publishedAt": "2026-11-18T16:25:54.000Z"
   },
   {
     "id": "f850a1dfb2f79914",
@@ -1312,41 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/global-development/2026/nov/18/dangerous-intimate-images-algorithms-selfie-platforms",
     "publishedAt": "2026-11-18T10:00:47.000Z"
-  },
-  {
-    "id": "9c8259feddcb5fba",
-    "title": "Iran-backed militias tortured him, but Iraqi environmentalist refuses to quit",
-    "summary": "Iran-backed militias kidnapped and tortured him, but Iraqi environmentalist is still on a mission to save marshes, and a way of life stretching back to the dawn of history.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
-    "publishedAt": "2026-11-18T10:00:00.000Z"
-  },
-  {
-    "id": "ca4722352b547967",
-    "title": "China and the U.S. are still the biggest polluters, but only China is doing better",
-    "summary": "The two largest emitters of greenhouse gases are China and the United States. Now, the countries' stories are diverging: many Chinese provinces are reducing coal use, while the U.S. is falling behind on climate technologies.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
-    "publishedAt": "2026-11-18T10:00:00.000Z"
-  },
-  {
-    "id": "a1aa556e52bbd895",
-    "title": "OpenAI announces new AI safety program; researchers worry it won't be enough",
-    "summary": "OpenAI CEO Sam Altman said he would grant \"employee level\" access to outside researchers to evaluate AI safety. The pilot program appears much more restrictive.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
-    "publishedAt": "2026-11-18T10:00:00.000Z"
-  },
-  {
-    "id": "689560bf09bec457",
-    "title": "Project Gryffindor: Meta's plan to get more school kids using Instagram",
-    "summary": "Meta said it launched its \"school partnership program\" to keep teens safe, but internal documents tell a different story.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
-    "publishedAt": "2026-11-18T10:00:00.000Z"
   }
 ]
