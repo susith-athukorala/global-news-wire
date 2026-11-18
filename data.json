@@ -1,5 +1,158 @@
 [
   {
+    "id": "c6b3a0009c6ff6d0",
+    "title": "Cathedral's staff review 'difficult but necessary'",
+    "summary": "Gloucester Cathedral has been going through a restructure due to \"significant financial pressure\".",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6kgr03jlv4ro",
+    "publishedAt": "2026-11-18T15:14:34.000Z"
+  },
+  {
+    "id": "63ec1aef3da0b8bb",
+    "title": "Officials seek dismissal of lawsuit over stabbing of Ukrainian refugee on train in Charlotte",
+    "summary": "Uncle of Iryna Zarutska, a 23-year-old who was murdered on the train, filed a wrongful death lawsuit against the city.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/ukrainian-refugee-stabbing-lawsuit",
+    "publishedAt": "2026-11-18T15:05:20.000Z"
+  },
+  {
+    "id": "9b951ed51fdbb851",
+    "title": "What is Iraq’s Jurf al-Sakhar and what is behind gov’t push to control it?",
+    "summary": "Tensions surge between PM al-Zaidi's government and Kataib Hezbollah amid oil-smuggling scandal.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/what-is-iraqs-jurf-al-sakhar-and-what-is-behind-govt-push-to-control-it?traffic_source=rss",
+    "publishedAt": "2026-11-18T15:00:34.000Z"
+  },
+  {
+    "id": "3b3437501e2509c6",
+    "title": "Players say goodbye to Grand Theft Auto V with one last drive",
+    "summary": "For more than a decade, GTA Online and its virtual California has hosted the criminal capers of millions of players. As many of them prepare to move on to GTA VI, they are marking the end of an era.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/18/players-say-goodbye-to-grand-theft-auto-v-with-one-last-drive",
+    "publishedAt": "2026-11-18T15:00:01.000Z"
+  },
+  {
+    "id": "6818b2c09562dc54",
+    "title": "Twenty years ago, the Wii and PS3 predicted the future of gaming – did they get it right?",
+    "summary": "Both launched in 2006, with contrasting visions of gaming – one focused on accessibility, the other on technical ambition – each leaving a lasting legacy.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/18/how-nintendo-wii-sony-playstation-3-predicted-future-of-gaming",
+    "publishedAt": "2026-11-18T15:00:00.000Z"
+  },
+  {
+    "id": "b08df09c0c70e619",
+    "title": "Spanish court investigates Julio Iglesias over sexual abuse claims",
+    "summary": "Case involving allegations from two women employed at singer’s properties in Caribbean had been shelved.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/18/spanish-court-investigates-julio-iglesias-two-women-allegations",
+    "publishedAt": "2026-11-18T14:55:32.000Z"
+  },
+  {
+    "id": "5e370765aef44944",
+    "title": "US official says Hormuz insurance hits $64m: Is the strait really open?",
+    "summary": "Hung Cao says shipping insurance costs have soared to $64m for a single transit, challenging claims the strait is open.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open?traffic_source=rss",
+    "publishedAt": "2026-11-18T14:47:34.000Z"
+  },
+  {
+    "id": "018e3c2176d1aa94",
+    "title": "‘Plume’ of decomposing garbage, gas prompts emergency health order for LA county residents",
+    "summary": "Landfill operators have been ordered to provide hotel accommodations and other care to area residents.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/los-angeles-landfill-explosion-housing",
+    "publishedAt": "2026-11-18T14:40:29.000Z"
+  },
+  {
+    "id": "48dc592f64302b7b",
+    "title": "Palestinians flee refugee camp as Israel begins operation in central Gaza",
+    "summary": "Israeli army says the operation west of the 'Yellow Line' aims to 'eliminate a threat'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-18T14:39:09.000Z"
+  },
+  {
+    "id": "12b691abaca056e8",
+    "title": "‘Status quo’ between US and Iran could break out into war, analysts warn",
+    "summary": "Iran and the US have continued to exchange strikes in recent days, but all-out war has so far been avoided.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn?traffic_source=rss",
+    "publishedAt": "2026-11-18T14:36:20.000Z"
+  },
+  {
+    "id": "c2bbf96e840bcdfe",
+    "title": "‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge",
+    "summary": "A weeks-long operation was behind two waves of strikes using long-range missiles and drones developed in Ukraine.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge?traffic_source=rss",
+    "publishedAt": "2026-11-18T14:35:56.000Z"
+  },
+  {
+    "id": "ff5046da676c68b8",
+    "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
+    "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o",
+    "publishedAt": "2026-11-18T14:30:33.000Z"
+  },
+  {
+    "id": "8884d95056be6c39",
+    "title": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
+    "summary": "Von der Leyen says she wants to give Kyiv ‘strong hand’ in talks and is confident all 27 member states will back idea.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
+    "publishedAt": "2026-11-18T14:27:22.000Z"
+  },
+  {
+    "id": "52af1bf4467121a0",
+    "title": "Top UN court to deliver judgment alleging Myanmar committed genocide against Rohingya",
+    "summary": "The United Nations' top court is set to deliver a judgment Thursday in a case accusing Myanmar of committing genocide against the Rohingya.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/top-court-deliver-judgment-case-alleging-myanmar-committed-138247041",
+    "publishedAt": "2026-11-18T14:21:03.000Z"
+  },
+  {
+    "id": "78c933e259584316",
+    "title": "Boy, three, dies after ‘medical emergency’ at Greater Manchester nursery",
+    "summary": "Police are investigating death of child three days after emergency services were called to Cosy Toes nursery in Middleton.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/18/boy-three-dies-medical-emergency-cosy-toes-nursery-middleton-greater-manchester",
+    "publishedAt": "2026-11-18T14:18:29.000Z"
+  },
+  {
+    "id": "512644a7f89d12f4",
+    "title": "Can the US and Iran sustain a ‘frozen war’?",
+    "summary": "Tehran may eventually decide that 'escalating confrontation' is preferable to status quo, says analyst Hamidreza Azizi.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/can-the-us-and-iran-sustain-a-frozen?traffic_source=rss",
+    "publishedAt": "2026-11-18T14:13:51.000Z"
+  },
+  {
+    "id": "be3f81a89ea4887e",
+    "title": "What is the ‘endgame’ in Syria, as Israeli rivals look for new government?",
+    "summary": "As Israel intensifies its incursions into southern Syria, analysts say there will be little change in the future.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
+    "publishedAt": "2026-11-18T14:08:08.000Z"
+  },
+  {
     "id": "4054a219c6193a40",
     "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
     "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment regulator says.",
@@ -16,6 +169,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/money/2026/nov/18/uk-energy-bills-are-rising-tell-us-are-you-shopping-around-for-a-better-deal",
     "publishedAt": "2026-11-18T14:03:49.000Z"
+  },
+  {
+    "id": "a86fa1d1ab95da44",
+    "title": "LeBron James sues sports betting app Bron for using nickname and likeness without permission",
+    "summary": "NBA star’s lawsuit alleges ‘previously unknown app’ acted illegally ‘to gain notoriety’ by seeming affiliated with James.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/lebron-james-bron-betting-app-lawsuit",
+    "publishedAt": "2026-11-18T14:03:25.000Z"
   },
   {
     "id": "33ec29b36981d62b",
@@ -1053,6 +1215,15 @@
     "publishedAt": "2026-11-18T02:36:09.000Z"
   },
   {
+    "id": "3eb0b89a67c92996",
+    "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+    "summary": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o",
+    "publishedAt": "2026-11-18T02:29:52.000Z"
+  },
+  {
     "id": "fbbcc76d3133922c",
     "title": "The ‘moon landing’ of gaming: Australians, some of the first to play GTA VI, prepare to descend on Vice City",
     "summary": "After a 13 year wait for the latest Grand Theft Auto instalment, Thursday’s launch is shaping up to be ‘the biggest gaming event that’s ever been’",
@@ -1087,6 +1258,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
     "publishedAt": "2026-11-18T02:03:27.000Z"
+  },
+  {
+    "id": "007e206bca279226",
+    "title": "Irishman charged with destroying US military aircraft with axe",
+    "summary": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo",
+    "publishedAt": "2026-11-18T02:00:37.000Z"
   },
   {
     "id": "6ad22de5a395c5f3",
@@ -1168,185 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
     "publishedAt": "2026-11-18T01:04:43.000Z"
-  },
-  {
-    "id": "4931add3adfc7289",
-    "title": "DR Congo’s rival peace efforts fail to halt violence in the east",
-    "summary": "Diplomatic efforts struggle to end fighting in eastern DRC as civilians continue to bear the cost of conflict.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss",
-    "publishedAt": "2026-11-18T00:57:56.000Z"
-  },
-  {
-    "id": "359045f8c4cf3dbd",
-    "title": "One Nation says it would cut Australia’s refugee intake by 90% under ‘tough stance’",
-    "summary": "Pauline Hanson opens new war of words on immigration as foreign minister Penny Wong accuses populist party of ‘dividing Australians’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
-    "publishedAt": "2026-11-18T00:53:51.000Z"
-  },
-  {
-    "id": "b38f795818b06e9c",
-    "title": "Largest British study to check social media ban's effect on youth mental health",
-    "summary": "Ten different research teams will look at how well teenagers are coping without social media.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o",
-    "publishedAt": "2026-11-18T00:49:31.000Z"
-  },
-  {
-    "id": "ce76317bd9e9bc8e",
-    "title": "Nabeel Rajab, prominent Bahraini human rights activist, dies at 62",
-    "summary": "Nabeel Rajab, a prominent democracy activist who advocated for the rights of Bahrain’s Shiite majority and spent years in prison for challenging the country’s monarchy, has died.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/nabeel-rajab-prominent-bahraini-human-rights-activist-dies-138231196",
-    "publishedAt": "2026-11-18T00:45:40.000Z"
-  },
-  {
-    "id": "4090abf823f348f8",
-    "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
-    "summary": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o",
-    "publishedAt": "2026-11-18T00:44:48.000Z"
-  },
-  {
-    "id": "5ecd266f9306818d",
-    "title": "A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point",
-    "summary": "Under pressure from Donald Trump, Japan’s government could be about to lift a ban on imported American potatoes, which famers say would threaten their livelihoods.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/18/potato-war-japan-76-year-ban-american-imported-potatoes",
-    "publishedAt": "2026-11-18T00:41:35.000Z"
-  },
-  {
-    "id": "60663dfc1ffcf812",
-    "title": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
-    "summary": "Head of Iran's IRGC Quds Force to attend meetings over alleged oil smuggling linked to pro-Iranian armed groups.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/top-irgc-commander-in-iraq-for-talks-amid-kataib-hezbollah-tensions?traffic_source=rss",
-    "publishedAt": "2026-11-18T00:33:36.000Z"
-  },
-  {
-    "id": "efdbef3921bdb5ab",
-    "title": "Netanyahu ally ousted as speaker of Israeli parliament",
-    "summary": "The appointment could give Benjamin Netanyahu's main rival, Gadi Eisenkot, and his allies significant power to start winding back the previous government's policies.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-18/eisenkot-bloc-replaces-netanyahu-ally-as-knesset-speaker/107397646",
-    "publishedAt": "2026-11-18T00:25:07.000Z"
-  },
-  {
-    "id": "97642ef435212111",
-    "title": "Rare encounter with isolated Indigenous people in Brazil raises concerns over safety",
-    "summary": "A rare encounter with isolated Awa Indigenous people in Brazil’s Amazon has raised concerns about their safety and the growing threats to their forest territory.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/rare-encounter-isolated-indigenous-people-brazil-raises-concerns-138230528",
-    "publishedAt": "2026-11-18T00:24:18.000Z"
-  },
-  {
-    "id": "b33391a7cfd063ac",
-    "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
-    "summary": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
-    "publishedAt": "2026-11-18T00:21:33.000Z"
-  },
-  {
-    "id": "7918c93d47fcae66",
-    "title": "Man armed with axe accused of destroying US military plane at Shannon airport in Ireland",
-    "summary": "Daithi O’Corrain charged with destruction of US government property, after allegedly smashing gauges and cutting hydraulic lines.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/man-accused-of-destroying-us-military-plane-at-shannon-airport-in-ireland",
-    "publishedAt": "2026-11-18T00:06:15.000Z"
-  },
-  {
-    "id": "e566d508260a2198",
-    "title": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
-    "summary": "Analysts say mooted move to let more petrol and diesel vehicles be sold would wreck plan to reach net zero by 2050.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
-    "publishedAt": "2026-11-18T00:01:26.000Z"
-  },
-  {
-    "id": "3b268e73dbd456c0",
-    "title": "Shabana Mahmood to launch fast-track training to improve police leadership",
-    "summary": "After damning report into standards at the top of forces in England and Wales, 200 people a year with superintendent potential to be recruited.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/18/shabana-mahmood-fast-track-training-police-leadership",
-    "publishedAt": "2026-11-18T00:01:26.000Z"
-  },
-  {
-    "id": "41dd4cd2bb85897f",
-    "title": "Brexit work travel rules need urgent improvement, say UK business leaders",
-    "summary": "CBI says restrictions on cross-Channel work trips are hindering investment and trade between UK and Europe.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/18/brexit-work-travel-rules-urgent-improvement-cbi",
-    "publishedAt": "2026-11-18T00:01:25.000Z"
-  },
-  {
-    "id": "56e4daaf37dfc891",
-    "title": "Ofqual urges ‘life-altering’ penalties for students who use tech to cheat",
-    "summary": "England’s exam regulator says those caught using AI or smart glasses face disqualification from GCSEs and A-levels.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
-    "publishedAt": "2026-11-18T00:01:25.000Z"
-  },
-  {
-    "id": "89e54ca09382f745",
-    "title": "Hugh Jackman, Rebel Wilson and 150 Australian artists join call to block Woodside gas development near Scott Reef",
-    "summary": "Actors, authors and musicians sign open letter urging Murray Watt to reject the fossil fuel company’s plan to drill for gas in Browse basin off Kimberley coast.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/18/hugh-jackman-rebel-wilson-australian-artists-greenpeace-campaign-woodside-energy-scott-reef",
-    "publishedAt": "2026-11-18T00:00:25.000Z"
-  },
-  {
-    "id": "09c9e42a279f26e9",
-    "title": "Europe plans to catch the next computer chip wave",
-    "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o",
-    "publishedAt": "2026-11-18T00:00:24.000Z"
-  },
-  {
-    "id": "13821325b9ed95c5",
-    "title": "David Jones: what went wrong and what happens next? Five takeaways from first creditors meeting",
-    "summary": "Upmarket retailer, which recorded a net loss of $228m last financial year, has total debt over $400m including $11m owed to staff.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/17/david-jones-creditors-meeting-debt-administrators",
-    "publishedAt": "2026-11-17T23:53:58.000Z"
-  },
-  {
-    "id": "be875ec6f7e08e6b",
-    "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
-    "summary": "Kuwait's military says its air defence was repelling drones as Iran and the US hit out at each other across the Gulf.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
-    "publishedAt": "2026-11-17T23:38:38.000Z"
-  },
-  {
-    "id": "e4b0532df231c084",
-    "title": "Pakistan's solar revolution seems unstoppable - but there's a problem",
-    "summary": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o",
-    "publishedAt": "2026-11-17T23:34:56.000Z"
   }
 ]
