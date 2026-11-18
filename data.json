@@ -1,5 +1,59 @@
 [
   {
+    "id": "f5974850414e0694",
+    "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+    "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+    "publishedAt": "2026-11-18T20:14:57.000Z"
+  },
+  {
+    "id": "55cee39d438a9c69",
+    "title": "Shabana Mahmood backs ban on police marching in pride events in uniform",
+    "summary": "Home secretary says ‘routine two-tier policing’ does not exist, but public trust in impartial law enforcement must be restored.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
+    "publishedAt": "2026-11-18T20:03:50.000Z"
+  },
+  {
+    "id": "ddaa3f50c527a164",
+    "title": "US admits ‘substantial’ change to extradition request translation for leftist activist",
+    "summary": "DoJ cites three examples of alterations from English into Spanish for James ‘Fergie’ Chambers after Guardian report.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/fergie-chambers-extradition-request-translation",
+    "publishedAt": "2026-11-18T19:45:30.000Z"
+  },
+  {
+    "id": "6a0c40898d549363",
+    "title": "Heavy rain and snow predicted in California as ‘atmospheric river’ moves across state",
+    "summary": "Flood advisories issued for much of Bay Area with coastal flooding and heavy surf possible in southern California.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
+    "publishedAt": "2026-11-18T19:18:18.000Z"
+  },
+  {
+    "id": "51664ed2311ddc48",
+    "title": "EU ‘to close door’ to talks on long-term UK ties until Burnham has decided on Brexit",
+    "summary": "Diplomats say piecemeal approach of resets is coming to an end and Europe wants clarity on whether Britain wants to reverse its exit.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
+    "publishedAt": "2026-11-18T19:17:19.000Z"
+  },
+  {
+    "id": "969391b425f91fde",
+    "title": "FAA administrator urges ‘lay off’ Sean Duffy for the flight stoppage: ‘Blame me’",
+    "summary": "The comments come as the top US transportation official faces scrutiny over his handling of the tech outage crisis.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/18/faa-sean-duffy-flight-stoppage",
+    "publishedAt": "2026-11-18T19:14:38.000Z"
+  },
+  {
     "id": "383656fa52b5f2fc",
     "title": "‘Neighbourhood support teams’ to pave way for national care service, Cooper announces",
     "summary": "Health secretary said programme would help about 566,000 vulnerable people in England by April.",
@@ -468,6 +522,15 @@
     "publishedAt": "2026-11-18T14:47:34.000Z"
   },
   {
+    "id": "231a189cb27a66f1",
+    "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
+    "summary": "US secretary of state’s comments come as vulnerability in programming language Java highlighted.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+    "publishedAt": "2026-11-18T14:46:49.000Z"
+  },
+  {
     "id": "018e3c2176d1aa94",
     "title": "‘Plume’ of decomposing garbage, gas prompts emergency health order for LA county residents",
     "summary": "Landfill operators have been ordered to provide hotel accommodations and other care to area residents.",
@@ -882,6 +945,15 @@
     "publishedAt": "2026-11-18T11:51:26.000Z"
   },
   {
+    "id": "16292c916a375f49",
+    "title": "Life insurance: what is it and do you need it?",
+    "summary": "It could protect you and your family in the event of death or accident – and in some cases it costs no more than a TV streaming service.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/18/life-insurance-explained-types-of-cover",
+    "publishedAt": "2026-11-18T11:50:33.000Z"
+  },
+  {
     "id": "4b1632ddd3fe6465",
     "title": "UK inflation rises to year high and keeps risk of second straight rate hike alive",
     "summary": "Inflation in the U.K. has risen rose to its highest level for a year.",
@@ -1033,6 +1105,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
     "publishedAt": "2026-11-18T10:29:22.000Z"
+  },
+  {
+    "id": "fa692d8fdce0fab1",
+    "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+    "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo",
+    "publishedAt": "2026-11-18T10:23:57.000Z"
+  },
+  {
+    "id": "95931435819c3270",
+    "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
+    "summary": "Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
+    "publishedAt": "2026-11-18T10:14:26.000Z"
   },
   {
     "id": "ff864ec306dd2135",
@@ -1258,95 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/18/forensic-experts-says-jeffrey-epstein-was-killed-casts-doubt-over-suicide?traffic_source=rss",
     "publishedAt": "2026-11-18T08:35:19.000Z"
-  },
-  {
-    "id": "813e302ccb617cc1",
-    "title": "Elton John backs Australian artists in fight against AI in surprise Aria awards appearance",
-    "summary": "British musician backs Not AI’s To Take campaign, saying Albanese government has ‘a duty to protect Australian artists and their work’",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/18/elton-john-ai-campaign-australia-artists-aria-awards-copyright",
-    "publishedAt": "2026-11-18T08:29:57.000Z"
-  },
-  {
-    "id": "96a9ab34c41135ba",
-    "title": "Energy bills in Great Britain forecast to rise by 26% to £2,166 from January",
-    "summary": "Government under pressure to help households as increase would add £443 to average annual dual-fuel bill.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise",
-    "publishedAt": "2026-11-18T08:24:26.000Z"
-  },
-  {
-    "id": "df5e0ad9db4582ff",
-    "title": "Ghana's new $60m presidential jet sparks public outrage",
-    "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o",
-    "publishedAt": "2026-11-18T08:08:20.000Z"
-  },
-  {
-    "id": "80d78c322c3c796e",
-    "title": "China’s Xi pitches free trade at APEC amid Trump’s global trade disruptions",
-    "summary": "The president says Beijing seeks to provide a 'stable, predictable and beneficial environment for global enterprises'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/xis-pitch-for-free-trade-amid-trumps-global-trade-disruptions?traffic_source=rss",
-    "publishedAt": "2026-11-18T08:05:18.000Z"
-  },
-  {
-    "id": "fef422c85df5c054",
-    "title": "Burnham considering cuts to national insurance to create more youth jobs",
-    "summary": "PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25s.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report",
-    "publishedAt": "2026-11-18T08:03:32.000Z"
-  },
-  {
-    "id": "a66e7fafa2b660d1",
-    "title": "Body found in Derry bog decapitated more than 2,000 years ago, coroner finds",
-    "summary": "Inquest-style inquiry concludes iron age remains are of 15- to 22-year-old female who may have been ritually sacrificed.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/18/ballymacombs-more-woman-derry-bog-decapitated-2000-years-ago",
-    "publishedAt": "2026-11-18T08:00:36.000Z"
-  },
-  {
-    "id": "42ab3381fc3286b1",
-    "title": "‘I didn’t notice his body being purple’: Byron Bay doula left newborn to inflate a jumping castle, court hears",
-    "summary": "Inquest into deaths of four babies born in free births or at home in northern NSW between 2022 and 2024 hears ‘something was seriously wrong’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/18/byron-bay-doula-left-newborn-to-inflate-jumping-castle-freebirth-inquest-ntwnfb",
-    "publishedAt": "2026-11-18T07:58:32.000Z"
-  },
-  {
-    "id": "33cd2694a5950520",
-    "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
-    "summary": "Putin says Western powers are 'former hegemons', with Europe in the midst of a 'humiliating decline'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss",
-    "publishedAt": "2026-11-18T07:50:47.000Z"
-  },
-  {
-    "id": "89f77c210997212b",
-    "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-    "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo",
-    "publishedAt": "2026-11-18T07:48:18.000Z"
-  },
-  {
-    "id": "4003574a4fa9700c",
-    "title": "Higher fuel prices push UK inflation to 3.6%",
-    "summary": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
-    "publishedAt": "2026-11-18T07:15:33.000Z"
   }
 ]
