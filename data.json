@@ -1,5 +1,59 @@
 [
   {
+    "id": "d116a97c5f1a7a3f",
+    "title": "Anthropic: The seven founders who are about to become multi-billionaires",
+    "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
+    "publishedAt": "2026-11-18T13:55:14.000Z"
+  },
+  {
+    "id": "c73fa9294a5cab62",
+    "title": "Philippine president has Jollibee fried chicken sent to Trump for a late-night snack",
+    "summary": "Philippine President Ferdinand Marcos Jr. says he sent a delivery of Jollibee fried chicken to President Donald Trump so he could have a “taste of Manila” since the Republican president was staying in the capital for a short amount of time.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/philippine-president-jollibee-fried-chicken-delivered-trump-late-138241588",
+    "publishedAt": "2026-11-18T13:54:19.000Z"
+  },
+  {
+    "id": "ed344170b43a5e1a",
+    "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
+    "summary": "Israeli diplomats say decision on settlement expansion should not be taken by caretaker government led by Netanyahu.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
+    "publishedAt": "2026-11-18T13:47:19.000Z"
+  },
+  {
+    "id": "7f0ebec0fc8ab15d",
+    "title": "Ministers to drop foie gras imports ban to help seal EU food trade deal",
+    "summary": "Animal welfare charities criticise ‘backwards step’ on foie gras, production of which has been banned in UK since 2007.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/18/labour-drops-foie-gras-import-ban-eu-food-trade-deal",
+    "publishedAt": "2026-11-18T13:47:04.000Z"
+  },
+  {
+    "id": "1424daed67ca7ccc",
+    "title": "Man arrested in Nashville after DNA links him to unsolved 1990s rape cases",
+    "summary": "Archibald Amory, 58, reportedly being held in Tennessee pending return to New York, where he was tied to two cases.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/nyc-rape-arrest-nashville-1990s",
+    "publishedAt": "2026-11-18T13:39:34.000Z"
+  },
+  {
+    "id": "1bf80285ae594c45",
+    "title": "How the US House of Representatives chooses its leaders: A visual guide",
+    "summary": "After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss",
+    "publishedAt": "2026-11-18T13:24:22.000Z"
+  },
+  {
     "id": "bb9ae133864288b1",
     "title": "Some say hacks, others say AI - why have there been so many outages?",
     "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
@@ -18,6 +72,15 @@
     "publishedAt": "2026-11-18T13:10:01.000Z"
   },
   {
+    "id": "0f99cf10dcd34f8b",
+    "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+    "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o",
+    "publishedAt": "2026-11-18T13:04:48.000Z"
+  },
+  {
     "id": "df8d86c3af545847",
     "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
     "summary": "After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid. In Zambia and Zimbabwe, there are different approaches but similar worries.",
@@ -25,6 +88,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
     "publishedAt": "2026-11-18T13:03:38.000Z"
+  },
+  {
+    "id": "ce0b48a2fcdf2f0f",
+    "title": "GTA 6: Everything you need to know about the highly anticipated game",
+    "summary": "Economists predict GTA 6 could cost US up to $1bn in lost productivity, with the game set for release at midnight.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
+    "publishedAt": "2026-11-18T13:02:33.000Z"
   },
   {
     "id": "ff3942ae628f34da",
@@ -304,6 +376,24 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
     "publishedAt": "2026-11-18T11:00:00.000Z"
+  },
+  {
+    "id": "2e0b6944471dc67d",
+    "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+    "summary": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo",
+    "publishedAt": "2026-11-18T10:53:21.000Z"
+  },
+  {
+    "id": "26a5df592f6a30ba",
+    "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
+    "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo",
+    "publishedAt": "2026-11-18T10:48:49.000Z"
   },
   {
     "id": "dc7bcd92873ea910",
@@ -1008,6 +1098,15 @@
     "publishedAt": "2026-11-18T01:26:15.000Z"
   },
   {
+    "id": "89ebf33e3c4fddef",
+    "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+    "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+    "publishedAt": "2026-11-18T01:18:18.000Z"
+  },
+  {
     "id": "4622143e813badc6",
     "title": "Voy at-home test kit adverts banned over low testosterone claims",
     "summary": "The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.",
@@ -1215,6 +1314,15 @@
     "publishedAt": "2026-11-17T23:34:56.000Z"
   },
   {
+    "id": "daa9959cb12cf974",
+    "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+    "summary": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spy.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+    "publishedAt": "2026-11-17T23:32:16.000Z"
+  },
+  {
     "id": "5fecc68cc8f82dfe",
     "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
     "summary": "Eisenkot’s bloc has pledged to undo some of Netanyahu’s most contentious domestic policies following Kahana’s election.",
@@ -1240,113 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/17/california-waymo-banned-freeways",
     "publishedAt": "2026-11-17T23:14:12.000Z"
-  },
-  {
-    "id": "c9ade33180384ae7",
-    "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
-    "summary": "El Salvador's security minister has confirmed the troops will leave once kidnapped technicians are rescued.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
-    "publishedAt": "2026-11-17T23:09:00.000Z"
-  },
-  {
-    "id": "948f6671b98ff049",
-    "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-    "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o",
-    "publishedAt": "2026-11-17T23:02:12.000Z"
-  },
-  {
-    "id": "2e8a2735ef156f35",
-    "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
-    "summary": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six months.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
-    "publishedAt": "2026-11-17T22:55:06.000Z"
-  },
-  {
-    "id": "b9d51cb275c5307f",
-    "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
-    "summary": "Students oppose appearance of self-described ‘race realist’ who made plagiarism claims against Jason Arday.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday",
-    "publishedAt": "2026-11-17T22:50:16.000Z"
-  },
-  {
-    "id": "fbe1847f933b3456",
-    "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-    "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo",
-    "publishedAt": "2026-11-17T22:46:30.000Z"
-  },
-  {
-    "id": "89f77c210997212b",
-    "title": "Thomas Markle charged over child sex abuse material in Philippines",
-    "summary": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo",
-    "publishedAt": "2026-11-17T22:44:15.000Z"
-  },
-  {
-    "id": "580314b276829813",
-    "title": "Xi said China would welcome American students for exchanges. What's the reality?",
-    "summary": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
-    "publishedAt": "2026-11-17T22:41:53.000Z"
-  },
-  {
-    "id": "39b570cca86c9c0e",
-    "title": "Israeli parliament elects new Knesset speaker backed by Netanyahu’s opponents",
-    "summary": "Appointment of Matan Kahana marks step towards reversing policies of Netanyahu’s outgoing government.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
-    "publishedAt": "2026-11-17T22:30:17.000Z"
-  },
-  {
-    "id": "22ace48cde2383ec",
-    "title": "ICE agents pepper spray pregnant US citizen in California, video shows",
-    "summary": "Lizbeth Vargas Andrade, 23, was arrested after being pushed to the ground and on to her stomach, her attorney says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen",
-    "publishedAt": "2026-11-17T22:24:46.000Z"
-  },
-  {
-    "id": "d4ef9b25c8f439f5",
-    "title": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
-    "summary": "Google’s Gmail also affected after problems reported in technological infrastructure in the US and worldwide.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/17/gmail-apple-outage-major-disruption",
-    "publishedAt": "2026-11-17T22:23:56.000Z"
-  },
-  {
-    "id": "554209990cc4bf65",
-    "title": "Russian military plane crash in Siberia kills 19",
-    "summary": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
-    "publishedAt": "2026-11-17T22:21:16.000Z"
-  },
-  {
-    "id": "31a340241a73a2d5",
-    "title": "Public health expert reacts to latest measles milestone",
-    "summary": "NPR's Scott Detrow talks with Dr. Ashish Jha, senior fellow at Harvard's Belfer Center and former White House coronavirus czar, about the news that the U.S. has lost its measles elimination status.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6043126/public-health-expert-reacts-to-latest-measles-milestone",
-    "publishedAt": "2026-11-17T22:20:41.000Z"
   }
 ]
