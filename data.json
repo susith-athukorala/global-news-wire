@@ -1,5 +1,77 @@
 [
   {
+    "id": "4622143e813badc6",
+    "title": "Voy at-home test kit adverts banned over low testosterone claims",
+    "summary": "The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o",
+    "publishedAt": "2026-11-18T01:11:07.000Z"
+  },
+  {
+    "id": "359045f8c4cf3dbd",
+    "title": "One Nation says it would cut Australia’s refugee intake by 90% under ‘tough stance’",
+    "summary": "Pauline Hanson opens new war of words on immigration as foreign minister Penny Wong accuses populist party of ‘dividing Australians’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
+    "publishedAt": "2026-11-18T00:53:51.000Z"
+  },
+  {
+    "id": "ce76317bd9e9bc8e",
+    "title": "Nabeel Rajab, prominent Bahraini human rights activist, dies at 62",
+    "summary": "Nabeel Rajab, a prominent democracy activist who advocated for the rights of Bahrain’s Shiite majority and spent years in prison for challenging the country’s monarchy, has died.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/nabeel-rajab-prominent-bahraini-human-rights-activist-dies-138231196",
+    "publishedAt": "2026-11-18T00:45:40.000Z"
+  },
+  {
+    "id": "4090abf823f348f8",
+    "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
+    "summary": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o",
+    "publishedAt": "2026-11-18T00:44:48.000Z"
+  },
+  {
+    "id": "60663dfc1ffcf812",
+    "title": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
+    "summary": "Head of Iran's IRGC Quds Force to attend meetings over alleged oil smuggling linked to pro-Iranian armed groups.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/top-irgc-commander-in-iraq-for-talks-amid-kataib-hezbollah-tensions?traffic_source=rss",
+    "publishedAt": "2026-11-18T00:33:36.000Z"
+  },
+  {
+    "id": "97642ef435212111",
+    "title": "Rare encounter with isolated Indigenous people in Brazil raises concerns over safety",
+    "summary": "A rare encounter with isolated Awa Indigenous people in Brazil’s Amazon has raised concerns about their safety and the growing threats to their forest territory.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/rare-encounter-isolated-indigenous-people-brazil-raises-concerns-138230528",
+    "publishedAt": "2026-11-18T00:24:18.000Z"
+  },
+  {
+    "id": "b33391a7cfd063ac",
+    "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+    "summary": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
+    "publishedAt": "2026-11-18T00:21:33.000Z"
+  },
+  {
+    "id": "7918c93d47fcae66",
+    "title": "Man armed with axe accused of destroying US military plane at Shannon airport in Ireland",
+    "summary": "Daithi O’Corrain charged with destruction of US government property, after allegedly smashing gauges and cutting hydraulic lines.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/man-accused-of-destroying-us-military-plane-at-shannon-airport-in-ireland",
+    "publishedAt": "2026-11-18T00:06:15.000Z"
+  },
+  {
     "id": "e566d508260a2198",
     "title": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
     "summary": "Analysts say mooted move to let more petrol and diesel vehicles be sold would wreck plan to reach net zero by 2050.",
@@ -936,6 +1008,15 @@
     "publishedAt": "2026-11-17T15:17:49.000Z"
   },
   {
+    "id": "f93133de6a9e4b6f",
+    "title": "Ikea ditches plans for new UK stores, blaming high business taxes",
+    "summary": "Retailer’s British boss says John Healey ‘missed opportunity to back retailers’ in October’s budget.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
+    "publishedAt": "2026-11-17T15:09:32.000Z"
+  },
+  {
     "id": "458954e371fb7479",
     "title": "US bank services returning to normal after major outage",
     "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
@@ -1267,86 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/pope-forgives-person-nailed-eye-rosary-peru-138202302",
     "publishedAt": "2026-11-17T12:37:26.000Z"
-  },
-  {
-    "id": "f1fb5ad4d2079fac",
-    "title": "Where are the most jobs for 18-24 year-olds?",
-    "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko",
-    "publishedAt": "2026-11-17T12:35:53.000Z"
-  },
-  {
-    "id": "459671b617fc3b10",
-    "title": "How Europe decided on 'return hubs' for migrants",
-    "summary": "A group of European countries has announced plans to establish a \"migrant hub\" in Rwanda for rejected asylum-seekers.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/europe-decided-return-hubs-migrants-138205386",
-    "publishedAt": "2026-11-17T12:34:26.000Z"
-  },
-  {
-    "id": "da13ec7e3bd68487",
-    "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
-    "summary": "Trump says Washington doesn't need a deal with Tehran, while Iran rejects 'no war, no peace'. Is the war at an impasse?",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
-    "publishedAt": "2026-11-17T12:33:51.000Z"
-  },
-  {
-    "id": "888d174911605f8a",
-    "title": "‘Peace through strength’: Albanese and Trump hail progress on Quad alliance",
-    "summary": "Leaders of India and Japan join for talks on military exercises, AI and rare earths as a counter to Chinese power.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/peace-through-strength-albanese-and-trump-hail-progress-on-quad-alliance",
-    "publishedAt": "2026-11-17T12:22:56.000Z"
-  },
-  {
-    "id": "3642c1ffb44033e9",
-    "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
-    "summary": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
-    "publishedAt": "2026-11-17T12:20:57.000Z"
-  },
-  {
-    "id": "0a0e369d3f8b767c",
-    "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
-    "summary": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
-    "publishedAt": "2026-11-17T12:18:08.000Z"
-  },
-  {
-    "id": "01bd62afa7d540b2",
-    "title": "Mozambique’s opposition leader stands trial over deadly 2024 protests",
-    "summary": "Venancio Mondlane faces five charges, the most serious being instigating 'terrorism'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/mozambiques-opposition-leader-stands-trial-over-deadly-2024-protests?traffic_source=rss",
-    "publishedAt": "2026-11-17T12:10:53.000Z"
-  },
-  {
-    "id": "0e315aef4e072de3",
-    "title": "Giant lunar sculpture has visitors over the moon",
-    "summary": "People can see the 6m-wide sculpture in St Helier until 29 November.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm79213ngx45o",
-    "publishedAt": "2026-11-17T12:04:38.000Z"
-  },
-  {
-    "id": "cba336858f458e59",
-    "title": "Another commercial vessel sinks off Bulgaria's Black Sea coast",
-    "summary": "The Bulgarian Defense Ministry says that a Liberia-flagged gas tanker sank in Bulgaria’s exclusive economic zone in the Black Sea.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/commercial-vessel-sinks-off-bulgarias-black-sea-coast-138204792",
-    "publishedAt": "2026-11-17T12:02:21.000Z"
   }
 ]
