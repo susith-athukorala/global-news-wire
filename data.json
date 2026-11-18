@@ -1,5 +1,95 @@
 [
   {
+    "id": "b3d2db5385439efa",
+    "title": "'Best night' of Dáithí's life all thanks to organ donation",
+    "summary": "Dáithí Mac Gabhann walked out with Republic of Ireland's Troy Parrott as Ireland won 3-0 over Kosovo in the Nations League.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx5y1vq89lypo",
+    "publishedAt": "2026-11-18T16:09:29.000Z"
+  },
+  {
+    "id": "017ffa83242fd131",
+    "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+    "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
+    "publishedAt": "2026-11-18T16:05:32.000Z"
+  },
+  {
+    "id": "531745f357f9547c",
+    "title": "ICE offers firm operating deportation flights windfall and secrecy, data shows",
+    "summary": "Exclusive: Trump administration continues to award deals to private contractor CSI Aviation and agreed to remove ICE flights from tracking websites.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/ice-deportation-flights-csi-deal",
+    "publishedAt": "2026-11-18T16:00:06.000Z"
+  },
+  {
+    "id": "9df76955d6a92ede",
+    "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
+    "summary": "Jeffries is set to become one of Trump’s most prominent opponents for final two years of his presidency.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
+    "publishedAt": "2026-11-18T15:55:22.000Z"
+  },
+  {
+    "id": "f21f255fd91ab703",
+    "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+    "summary": "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happen.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+    "publishedAt": "2026-11-18T15:53:10.000Z"
+  },
+  {
+    "id": "f19ef6b75cbfa748",
+    "title": "Who speaks for Europe abroad? Not its top diplomat",
+    "summary": "EU leaders’ decision to exclude the bloc’s foreign policy chief from their negotiating lineup for Russia peace talks reveals how national turf wars undermine Brussels’ global ambitions.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/18/who-speaks-for-europe-abroad-not-its-top-diplomat",
+    "publishedAt": "2026-11-18T15:40:05.000Z"
+  },
+  {
+    "id": "146085dac4ffd258",
+    "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
+    "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo",
+    "publishedAt": "2026-11-18T15:39:57.000Z"
+  },
+  {
+    "id": "1a4065eef2caf827",
+    "title": "Hakeem Jeffries becomes first Black nominee for US House speaker",
+    "summary": "The New York congressman was nominated after Democrats gained control of Congress in the midterm elections.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
+    "publishedAt": "2026-11-18T15:37:52.000Z"
+  },
+  {
+    "id": "21eaf7ab0810b7f6",
+    "title": "Cancer patients at NHS trust harmed by years of unnecessary chemotherapy, report finds",
+    "summary": "Trust apologises after findings on treatment of 20 brain tumour patients under oncologist who retired in 2023.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/18/cancer-patients-nhs-trust-unnecessary-chemotherapy-coventry",
+    "publishedAt": "2026-11-18T15:35:05.000Z"
+  },
+  {
+    "id": "4a3749cdf48dd154",
+    "title": "Russian attacks on Ukraine kill at least five people",
+    "summary": "Most of the casualties were in strikes on Odesa that President Volodymyr Zelenskyy described as 'brutal'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
+    "publishedAt": "2026-11-18T15:32:01.000Z"
+  },
+  {
     "id": "c6b3a0009c6ff6d0",
     "title": "Cathedral's staff review 'difficult but necessary'",
     "summary": "Gloucester Cathedral has been going through a restructure due to \"significant financial pressure\".",
@@ -666,6 +756,15 @@
     "publishedAt": "2026-11-18T09:58:28.000Z"
   },
   {
+    "id": "ed30755a7a968537",
+    "title": "Nvidia needs more than a new CEO. An expert offers a way forward",
+    "summary": "Nvidia needs a new CEO. Keeping its engineers is another story.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6044070/nvidia-jensen-huang-ceo-replacement-engineers",
+    "publishedAt": "2026-11-18T09:43:44.000Z"
+  },
+  {
     "id": "36a1fb555f5f8928",
     "title": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
     "summary": "Russian President Vladimir Putin will meet Wednesday with President Trump and Chinese President Xi, escaping the aftermath of a Ukrainian attack that partially collapsed a prized bridge.",
@@ -1062,6 +1161,15 @@
     "publishedAt": "2026-11-18T05:11:42.000Z"
   },
   {
+    "id": "359045f8c4cf3dbd",
+    "title": "‘Devastating consequences’: One Nation plan to slash Australia’s refugee program denounced",
+    "summary": "Amid widespread condemnation of the proposal, Pauline Hanson also wants to scrap existing parent and aged parent visa program.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
+    "publishedAt": "2026-11-18T05:11:31.000Z"
+  },
+  {
     "id": "2f2a9c206de31c05",
     "title": "Security flaw found in Java, world's third-largest programming language",
     "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programmes.",
@@ -1240,113 +1348,5 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-18/ai-is-transforming-us-china-relationship/107393980",
     "publishedAt": "2026-11-18T02:14:44.000Z"
-  },
-  {
-    "id": "13e930560d572690",
-    "title": "Shaken and stirred: Jeff Bezos says he was ‘heavily involved’ in picking new James Bond",
-    "summary": "Amazon’s executive chair and billionaire founder said he felt there was ‘something special’ about Robert Pattinson.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/17/james-bond-robert-pattinson-jeff-bezos-pick",
-    "publishedAt": "2026-11-18T02:13:58.000Z"
-  },
-  {
-    "id": "23d5709759eebb5b",
-    "title": "Sleeve checks and no smartglasses: South Korea races to protect all-important university exams against AI",
-    "summary": "South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
-    "publishedAt": "2026-11-18T02:03:27.000Z"
-  },
-  {
-    "id": "007e206bca279226",
-    "title": "Irishman charged with destroying US military aircraft with axe",
-    "summary": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo",
-    "publishedAt": "2026-11-18T02:00:37.000Z"
-  },
-  {
-    "id": "6ad22de5a395c5f3",
-    "title": "Tag team: dual waterspouts appear in San Francisco Bay amid stormy weather",
-    "summary": "Phenomenon is not a common occurrence in the Bay area and inclement weather is expected to continue for few days.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts",
-    "publishedAt": "2026-11-18T01:50:28.000Z"
-  },
-  {
-    "id": "69b783e08821625a",
-    "title": "What is Trump hoping to achieve at APEC meeting in China?",
-    "summary": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
-    "publishedAt": "2026-11-18T01:33:05.000Z"
-  },
-  {
-    "id": "7998baf335806447",
-    "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
-    "summary": "Daithi O'Corrain, 48, has been charged with damaging a US military C-130 aircraft while it was parked overnight.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport?traffic_source=rss",
-    "publishedAt": "2026-11-18T01:32:52.000Z"
-  },
-  {
-    "id": "efafc60650e540de",
-    "title": "Man charged over ‘brutal attack’ on Somali-American in Minnesota",
-    "summary": "Rideshare driver Mohamed Yusuf is in a critical condition after he was allegedly assaulted by a passenger.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/man-charged-over-brutal-attack-on-somali-american-in-minnesota?traffic_source=rss",
-    "publishedAt": "2026-11-18T01:31:53.000Z"
-  },
-  {
-    "id": "1c9a5d5e7190d05e",
-    "title": "White House withdraws nomination of Heidi Overton to lead FDA",
-    "summary": "Move to drop Trump ally and prominent abortion opponent comes a day before key Senate health committee vote.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/white-house-withdraws-heidi-overton-fda",
-    "publishedAt": "2026-11-18T01:26:15.000Z"
-  },
-  {
-    "id": "89ebf33e3c4fddef",
-    "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-    "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
-    "publishedAt": "2026-11-18T01:18:18.000Z"
-  },
-  {
-    "id": "4622143e813badc6",
-    "title": "Voy at-home test kit adverts banned over low testosterone claims",
-    "summary": "The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o",
-    "publishedAt": "2026-11-18T01:11:07.000Z"
-  },
-  {
-    "id": "aeecd4d18816ee83",
-    "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-    "summary": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
-    "publishedAt": "2026-11-18T01:07:01.000Z"
-  },
-  {
-    "id": "d02231a2198a975f",
-    "title": "Ecuadorian fishermen sue Trump administration over drone strike",
-    "summary": "Crew say their boat was attacked by drones launched from US-operated vessel as part of 'manifestly unlawful' campaign.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
-    "publishedAt": "2026-11-18T01:04:43.000Z"
   }
 ]
