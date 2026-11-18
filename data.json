@@ -1,5 +1,32 @@
 [
   {
+    "id": "4054a219c6193a40",
+    "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
+    "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment regulator says.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
+    "publishedAt": "2026-11-18T14:07:35.000Z"
+  },
+  {
+    "id": "1352ea6b7b58f758",
+    "title": "UK energy bills are rising. Tell us: are you shopping around for a better deal?",
+    "summary": "We’d like to hear from UK households about whether they’re switching energy suppliers to save money or finding that deals are too similar to make it worthwhile.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/18/uk-energy-bills-are-rising-tell-us-are-you-shopping-around-for-a-better-deal",
+    "publishedAt": "2026-11-18T14:03:49.000Z"
+  },
+  {
+    "id": "33ec29b36981d62b",
+    "title": "Business Council of Australia more aligned with fossil fuel industry than its members’ values, analysis finds",
+    "summary": "Research by InfluenceMap raises questions about association’s policies and representation, particularly around advocacy for new gas supplies.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns",
+    "publishedAt": "2026-11-18T14:00:02.000Z"
+  },
+  {
     "id": "d116a97c5f1a7a3f",
     "title": "Anthropic: The seven founders who are about to become multi-billionaires",
     "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
@@ -702,6 +729,15 @@
     "publishedAt": "2026-11-18T07:50:47.000Z"
   },
   {
+    "id": "89f77c210997212b",
+    "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+    "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo",
+    "publishedAt": "2026-11-18T07:48:18.000Z"
+  },
+  {
     "id": "4003574a4fa9700c",
     "title": "Higher fuel prices push UK inflation to 3.6%",
     "summary": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o",
     "publishedAt": "2026-11-17T23:34:56.000Z"
-  },
-  {
-    "id": "daa9959cb12cf974",
-    "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
-    "summary": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spy.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
-    "publishedAt": "2026-11-17T23:32:16.000Z"
-  },
-  {
-    "id": "5fecc68cc8f82dfe",
-    "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
-    "summary": "Eisenkot’s bloc has pledged to undo some of Netanyahu’s most contentious domestic policies following Kahana’s election.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
-    "publishedAt": "2026-11-17T23:28:54.000Z"
-  },
-  {
-    "id": "587dd84e37e0bcab",
-    "title": "First responders describe rescue efforts after New Orleans boat crash: ‘We have to save each other’",
-    "summary": "More than 100 people were pulled from the Mississippi River in mission being hailed as ‘Mississippi miracle’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/new-orleans-boat-crash-rescue",
-    "publishedAt": "2026-11-17T23:28:22.000Z"
-  },
-  {
-    "id": "a5cb460da1b8032e",
-    "title": "California bans Waymo self-driving cars from freeways",
-    "summary": "State DMV says vehicles pose ‘imminent hazard’ after cars entered closed zone and tried to bypass highway patrol.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/17/california-waymo-banned-freeways",
-    "publishedAt": "2026-11-17T23:14:12.000Z"
   }
 ]
