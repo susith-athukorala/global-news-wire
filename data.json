@@ -1,5 +1,59 @@
 [
   {
+    "id": "d4a645e126f6c05f",
+    "title": "After the White House pulls its nominee to lead the FDA, what's next for the agency?",
+    "summary": "On the eve of a key Senate vote, the White House withdrew Dr. Heidi Overton's nomination to run the Food and Drug Administration.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6043134/after-the-white-house-pulls-its-nominee-to-lead-the-fda-whats-next-for-the-agency",
+    "publishedAt": "2026-11-18T21:59:59.000Z"
+  },
+  {
+    "id": "c04048f32bbf8ea4",
+    "title": "Mexico's Catholic street DJs turn annual pilgrimage into a party",
+    "summary": "A mix of street DJs and Catholic devotees are taking to the streets in one of Mexico's most important pilgrimages.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/mexicos-catholic-street-djs-turn-annual-pilgrimage-party-138262111",
+    "publishedAt": "2026-11-18T21:46:39.000Z"
+  },
+  {
+    "id": "2a7ed7ee18a084fe",
+    "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
+    "summary": "Artificial intelligence firm positioned for one of the biggest IPOs in history, with trading slated to begin Thursday.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
+    "publishedAt": "2026-11-18T21:39:15.000Z"
+  },
+  {
+    "id": "c5c72d03a8e9069d",
+    "title": "Member of anti-migrant group found guilty of Staffordshire murder",
+    "summary": "Raise the Colours activist Billy Allison, 36, killed man in ‘completely unprovoked and unjustified’ attack, say police.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/18/member-anti-migrant-group-guilty-murder-raise-colours-billy-allison",
+    "publishedAt": "2026-11-18T21:27:54.000Z"
+  },
+  {
+    "id": "9a49f85a2fc32a3c",
+    "title": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
+    "summary": "Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
+    "publishedAt": "2026-11-18T21:24:19.000Z"
+  },
+  {
+    "id": "6ccc664f899664a5",
+    "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+    "summary": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+    "publishedAt": "2026-11-18T21:01:05.000Z"
+  },
+  {
     "id": "519fd482e0eb4ae0",
     "title": "Power surge leaves residents facing thousands in unexpected costs",
     "summary": "Many Victorians are thousands of dollars out of pocket after a power surge in Mildura in September damaged household appliances, with some insurance claims rejected.",
@@ -88,6 +142,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
     "publishedAt": "2026-11-18T20:03:50.000Z"
+  },
+  {
+    "id": "5c059a7e1028ab25",
+    "title": "GTA 6 release puts NSW's lacklustre game development funding in spotlight",
+    "summary": "Screen NSW offers up to $30,000 per video game in state funding, but developers say it is not enough, and are leaving the state in search for better offers.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-19/nsw-video-game-developers-leaving-for-more-funding-elsewhere/107390536",
+    "publishedAt": "2026-11-18T19:54:12.000Z"
   },
   {
     "id": "ddaa3f50c527a164",
@@ -241,6 +304,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko",
     "publishedAt": "2026-11-18T17:48:10.000Z"
+  },
+  {
+    "id": "b6f40759575238ca",
+    "title": "Democrats nominate Hakeem Jeffries to be first Black speaker of US House",
+    "summary": "By electing Mr Jeffries as the party's leader in the US House of Representatives, Democrats position him to become the first Black speaker of the House come January.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-19/hakeem-jeffries-nominated-as-democratic-leader-house-speaker/107401668",
+    "publishedAt": "2026-11-18T17:48:01.000Z"
   },
   {
     "id": "421fe2bd9b346442",
@@ -1276,77 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
     "publishedAt": "2026-11-18T10:00:00.000Z"
-  },
-  {
-    "id": "a9cefeb130119d8e",
-    "title": "Fears grow over US sanctions on ICJ judges ahead of Myanmar genocide ruling",
-    "summary": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-    "publishedAt": "2026-11-18T09:58:28.000Z"
-  },
-  {
-    "id": "ed30755a7a968537",
-    "title": "Nvidia needs more than a new CEO. An expert offers a way forward",
-    "summary": "Nvidia needs a new CEO. Keeping its engineers is another story.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6044070/nvidia-jensen-huang-ceo-replacement-engineers",
-    "publishedAt": "2026-11-18T09:43:44.000Z"
-  },
-  {
-    "id": "36a1fb555f5f8928",
-    "title": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
-    "summary": "Russian President Vladimir Putin will meet Wednesday with President Trump and Chinese President Xi, escaping the aftermath of a Ukrainian attack that partially collapsed a prized bridge.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge",
-    "publishedAt": "2026-11-18T09:43:28.000Z"
-  },
-  {
-    "id": "0083e066de34680f",
-    "title": "Government Accountability Office IT director discusses the recent tech outages",
-    "summary": "NPR's Leila Fadel speaks with Government Accountability Office IT and cybersecurity director Dave Hinchman about outdated government technology and the risk of system failures.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6042543/government-accountability-office-it-director-discusses-the-recent-tech-outages",
-    "publishedAt": "2026-11-18T09:42:54.000Z"
-  },
-  {
-    "id": "46b240cfb1682fda",
-    "title": "What do Deutsche Bank leaks reveal about Trump, Epstein and Russia?",
-    "summary": "Deutsche Bank leaks expose ties to Trump, Epstein, and global elites amid scrutiny over past financial misconduct.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/what-do-deutsche-bank-leaks-reveal-about-trump-epstein-and-russia?traffic_source=rss",
-    "publishedAt": "2026-11-18T09:42:26.000Z"
-  },
-  {
-    "id": "51cc2eeb8d8915fe",
-    "title": "Why Democrat Mary Peltola’s US Senate win in Alaska matters",
-    "summary": "Peltola’s Alaska win gives Democrats 56 Senate seats and a buffer in Republican states ahead of the 2028 elections.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss",
-    "publishedAt": "2026-11-18T09:38:50.000Z"
-  },
-  {
-    "id": "966121d632c45b6d",
-    "title": "‘Phantom forests’ in Australia’s arid outback used to create carbon credits meant to offset emissions, report claims",
-    "summary": "Carbon credit companies reject research that found only small increase in forest and canopy cover in regeneration areas despite wet conditions.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims",
-    "publishedAt": "2026-11-18T09:30:36.000Z"
-  },
-  {
-    "id": "4dbfacf9e3c0fbf5",
-    "title": "As Trump arrives in China, low expectations for breakthroughs in rivalry",
-    "summary": "Analysts expect few concrete outcomes from talks between the leaders on the sidelines of the APEC summit.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/18/as-trump-arrives-in-china-low-expectations-for-breakthroughs-in-rivalry?traffic_source=rss",
-    "publishedAt": "2026-11-18T09:30:01.000Z"
   }
 ]
