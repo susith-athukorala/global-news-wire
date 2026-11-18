@@ -1,5 +1,113 @@
 [
   {
+    "id": "e566d508260a2198",
+    "title": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
+    "summary": "Analysts say mooted move to let more petrol and diesel vehicles be sold would wreck plan to reach net zero by 2050.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
+    "publishedAt": "2026-11-18T00:01:26.000Z"
+  },
+  {
+    "id": "3b268e73dbd456c0",
+    "title": "Shabana Mahmood to launch fast-track training to improve police leadership",
+    "summary": "After damning report into standards at the top of forces in England and Wales, 200 people a year with superintendent potential to be recruited.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/18/shabana-mahmood-fast-track-training-police-leadership",
+    "publishedAt": "2026-11-18T00:01:26.000Z"
+  },
+  {
+    "id": "41dd4cd2bb85897f",
+    "title": "Brexit work travel rules need urgent improvement, say UK business leaders",
+    "summary": "CBI says restrictions on cross-Channel work trips are hindering investment and trade between UK and Europe.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/18/brexit-work-travel-rules-urgent-improvement-cbi",
+    "publishedAt": "2026-11-18T00:01:25.000Z"
+  },
+  {
+    "id": "56e4daaf37dfc891",
+    "title": "Ofqual urges ‘life-altering’ penalties for students who use tech to cheat",
+    "summary": "England’s exam regulator says those caught using AI or smart glasses face disqualification from GCSEs and A-levels.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
+    "publishedAt": "2026-11-18T00:01:25.000Z"
+  },
+  {
+    "id": "89e54ca09382f745",
+    "title": "Hugh Jackman, Rebel Wilson and 150 Australian artists join call to block Woodside gas development near Scott Reef",
+    "summary": "Actors, authors and musicians sign open letter urging Murray Watt to reject the fossil fuel company’s plan to drill for gas in Browse basin off Kimberley coast.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/hugh-jackman-rebel-wilson-australian-artists-greenpeace-campaign-woodside-energy-scott-reef",
+    "publishedAt": "2026-11-18T00:00:25.000Z"
+  },
+  {
+    "id": "09c9e42a279f26e9",
+    "title": "Europe plans to catch the next computer chip wave",
+    "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o",
+    "publishedAt": "2026-11-18T00:00:24.000Z"
+  },
+  {
+    "id": "13821325b9ed95c5",
+    "title": "David Jones: what went wrong and what happens next? Five takeaways from first creditors meeting",
+    "summary": "Upmarket retailer, which recorded a net loss of $228m last financial year, has total debt over $400m including $11m owed to staff.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/17/david-jones-creditors-meeting-debt-administrators",
+    "publishedAt": "2026-11-17T23:53:58.000Z"
+  },
+  {
+    "id": "be875ec6f7e08e6b",
+    "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+    "summary": "Kuwait's military says its air defence was repelling drones as Iran and the US hit out at each other across the Gulf.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+    "publishedAt": "2026-11-17T23:38:38.000Z"
+  },
+  {
+    "id": "e4b0532df231c084",
+    "title": "Pakistan's solar revolution seems unstoppable - but there's a problem",
+    "summary": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o",
+    "publishedAt": "2026-11-17T23:34:56.000Z"
+  },
+  {
+    "id": "5fecc68cc8f82dfe",
+    "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+    "summary": "Eisenkot’s bloc has pledged to undo some of Netanyahu’s most contentious domestic policies following Kahana’s election.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+    "publishedAt": "2026-11-17T23:28:54.000Z"
+  },
+  {
+    "id": "587dd84e37e0bcab",
+    "title": "First responders describe rescue efforts after New Orleans boat crash: ‘We have to save each other’",
+    "summary": "More than 100 people were pulled from the Mississippi River in mission being hailed as ‘Mississippi miracle’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/new-orleans-boat-crash-rescue",
+    "publishedAt": "2026-11-17T23:28:22.000Z"
+  },
+  {
+    "id": "a5cb460da1b8032e",
+    "title": "California bans Waymo self-driving cars from freeways",
+    "summary": "State DMV says vehicles pose ‘imminent hazard’ after cars entered closed zone and tried to bypass highway patrol.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/17/california-waymo-banned-freeways",
+    "publishedAt": "2026-11-17T23:14:12.000Z"
+  },
+  {
     "id": "c9ade33180384ae7",
     "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
     "summary": "El Salvador's security minister has confirmed the troops will leave once kidnapped technicians are rescued.",
@@ -7,6 +115,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
     "publishedAt": "2026-11-17T23:09:00.000Z"
+  },
+  {
+    "id": "948f6671b98ff049",
+    "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+    "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o",
+    "publishedAt": "2026-11-17T23:02:12.000Z"
   },
   {
     "id": "b9d51cb275c5307f",
@@ -403,6 +520,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
     "publishedAt": "2026-11-17T19:03:14.000Z"
+  },
+  {
+    "id": "5f541beb0e64a046",
+    "title": "Nearly $500k of underwater gear in limbo after shipping agent cancelled",
+    "summary": "Small businesses say they are out of pocket and running out of time before Christmas, with imported stock stuck in limbo amid border delays and a logistics company's cancellation.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-18/customs-delay-hits-small-businesses/107368824",
+    "publishedAt": "2026-11-17T19:01:16.000Z"
   },
   {
     "id": "87064c77c3589376",
@@ -1222,131 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/commercial-vessel-sinks-off-bulgarias-black-sea-coast-138204792",
     "publishedAt": "2026-11-17T12:02:21.000Z"
-  },
-  {
-    "id": "d3447927e6ad3dcd",
-    "title": "NHS data contract to stay with Palantir until 2029",
-    "summary": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o",
-    "publishedAt": "2026-11-17T12:00:12.000Z"
-  },
-  {
-    "id": "18c69e675c0c78d0",
-    "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
-    "summary": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo",
-    "publishedAt": "2026-11-17T11:58:16.000Z"
-  },
-  {
-    "id": "40979fd2af5acbca",
-    "title": "Voldemort, Gotham City and the Greens: Victorian election gets a jolt of life as leaders face off in sole debate",
-    "summary": "Ben Carroll, Jess Wilson, Ellen Sandell and Warren Pickering grilled by undecided voters – and each other – as state prepares to head to the polls.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/17/voldemort-gotham-city-greens-liberal-labor-one-nation-victorian-election-leaders-debate-ntwnfb",
-    "publishedAt": "2026-11-17T11:55:28.000Z"
-  },
-  {
-    "id": "b9bfc161e17498d6",
-    "title": "Rebeca Grynspan could be the UN’s first woman boss, if she can sway Trump",
-    "summary": "Swaying the US could test Grynspan but she likes taking risks - and wants UN to take more, she tells Al Jazeera.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle?traffic_source=rss",
-    "publishedAt": "2026-11-17T11:49:39.000Z"
-  },
-  {
-    "id": "4c0a9c32d62dc9a0",
-    "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-    "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo",
-    "publishedAt": "2026-11-17T11:49:01.000Z"
-  },
-  {
-    "id": "961479e61fb9484f",
-    "title": "Alan Milburn says his plan to get young people into work will save only £200m a year",
-    "summary": "Author of long-awaited report says money saved in benefit cuts will mostly be used to fund new job support system.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-report-young-people-work-neets-job-support-savingsalan-milburn-plan-young-people-work-neets-savings-200m-a-year",
-    "publishedAt": "2026-11-17T11:30:35.000Z"
-  },
-  {
-    "id": "454f3dee7aedfd39",
-    "title": "Neet ideas: what’s in Alan Milburn’s report on young people not in education, employment or training?",
-    "summary": "Former minister’s 278-page report calls for changes to employment regulations, education, healthcare and benefits.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/17/neet-alan-milburn-report-young-people-not-in-education-employment-or-training",
-    "publishedAt": "2026-11-17T11:30:35.000Z"
-  },
-  {
-    "id": "9c0aed722d59825a",
-    "title": "Bridge between Russia and occupied Crimea ‘no longer usable’ after Kyiv strike | First Thing",
-    "summary": "Blow to Kremlin as prestigious bridge linking occupied Ukrainian peninsula struck by missile. Plus, what is in store for Robert Pattinson, the new 007?",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike",
-    "publishedAt": "2026-11-17T11:26:49.000Z"
-  },
-  {
-    "id": "bac46a537b29f370",
-    "title": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
-    "summary": "Host city offers showcase of China’s rise into a confident and innovative power central to global economy.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
-    "publishedAt": "2026-11-17T11:18:26.000Z"
-  },
-  {
-    "id": "acf94888b2b29f1b",
-    "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-    "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
-    "publishedAt": "2026-11-17T11:17:32.000Z"
-  },
-  {
-    "id": "6b0f5e4bf049b56e",
-    "title": "Is Pakistan about to carve out new provinces? Inside the controversial plan",
-    "summary": "Talk of new provinces has gathered pace, but there is no formal proposal or agreement among governing parties.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/is-pakistan-about-to-carve-out-new-provinces-inside-the-controversial-plan?traffic_source=rss",
-    "publishedAt": "2026-11-17T11:17:07.000Z"
-  },
-  {
-    "id": "f93133de6a9e4b6f",
-    "title": "Ikea ditches plans for new UK stores, blaming high business taxes",
-    "summary": "Retailer’s British boss says John Healey ‘missed opportunity to back retailers’ in October’s budget.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
-    "publishedAt": "2026-11-17T11:13:07.000Z"
-  },
-  {
-    "id": "9baf775908521cc1",
-    "title": "UK music industry hits record high of £8.4bn – but are working musicians being left behind?",
-    "summary": "Major tours by the likes of Oasis helped make 2025 a lucrative year, with music export revenue reaching £4.8bn.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/17/uk-music-industry-hits-record-high-of-84bn-this-is-music-report",
-    "publishedAt": "2026-11-17T11:12:54.000Z"
-  },
-  {
-    "id": "46e5fa49c23d71dc",
-    "title": "Tokyo protests after two suspected Russian aircraft violate Japanese airspace",
-    "summary": "Japan has protested to Moscow after two suspected Russian aircraft entered Japanese airspace off the country’s southwestern coast.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/tokyo-protests-after-suspected-russian-aircraft-violate-japanese-138201049",
-    "publishedAt": "2026-11-17T11:06:14.000Z"
   }
 ]
