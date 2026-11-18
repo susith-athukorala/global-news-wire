@@ -1,5 +1,50 @@
 [
   {
+    "id": "822990ef2a395e91",
+    "title": "Brazil's Senate approves Lula's $10 billion fiscal package after costly election spending",
+    "summary": "Brazil’s Senate approved on Wednesday a plan by President Luiz In&aacute;cio Lula da Silva to control his government’s spending and increase revenues after his reelection late October.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/brazils-senate-approves-lulas-10-billion-fiscal-package-138265187",
+    "publishedAt": "2026-11-18T23:04:44.000Z"
+  },
+  {
+    "id": "ef2050480c726e32",
+    "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+    "summary": "No state has ever been found guilty by an international court of committing genocide.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o",
+    "publishedAt": "2026-11-18T23:04:06.000Z"
+  },
+  {
+    "id": "ffaf75f088d156ed",
+    "title": "GTA 6 bedazzles gamers in Australia with ‘fully lived in, breathable world’",
+    "summary": "Players can renovate houses, fix cars, lift weights and follow the story in Grand Theft Auto VI’s Miami-inspired Vice City.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
+    "publishedAt": "2026-11-18T22:48:46.000Z"
+  },
+  {
+    "id": "94287023c76321c9",
+    "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+    "summary": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+    "publishedAt": "2026-11-18T22:31:41.000Z"
+  },
+  {
+    "id": "298e63834decf640",
+    "title": "Leaseholders in England and Wales to have ground rent capped in 2028",
+    "summary": "Housing minister hails ‘historic moment’ as he publishes bill to eventually ban almost all new leasehold properties.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028",
+    "publishedAt": "2026-11-18T22:30:09.000Z"
+  },
+  {
     "id": "f8b775cb33df8110",
     "title": "Home owner felt 'physically ill' when she realised she was scammed",
     "summary": "Bana D'Sena moved regionally for a quiet lifestyle, but instead she has been left $14,000 out of pocket.",
@@ -27,6 +72,15 @@
     "publishedAt": "2026-11-18T21:59:59.000Z"
   },
   {
+    "id": "170e9cf5765c4828",
+    "title": "Iraq sentences six French nationals to life in prison for joining ISIL",
+    "summary": "Trials began in September for 47 French citizens who were transferred from Syria last year.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss",
+    "publishedAt": "2026-11-18T21:53:17.000Z"
+  },
+  {
     "id": "c04048f32bbf8ea4",
     "title": "Mexico's Catholic street DJs turn annual pilgrimage into a party",
     "summary": "A mix of street DJs and Catholic devotees are taking to the streets in one of Mexico's most important pilgrimages.",
@@ -43,6 +97,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
     "publishedAt": "2026-11-18T21:39:15.000Z"
+  },
+  {
+    "id": "1bf8eed19977fb64",
+    "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+    "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o",
+    "publishedAt": "2026-11-18T21:28:08.000Z"
   },
   {
     "id": "c5c72d03a8e9069d",
@@ -178,6 +241,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/18/fergie-chambers-extradition-request-translation",
     "publishedAt": "2026-11-18T19:45:30.000Z"
+  },
+  {
+    "id": "8a3b3d15e1ce70e9",
+    "title": "Business owner goes bankrupt after high-risk loan fails",
+    "summary": "A NSW hairdresser says she regrets using a private loan to sell her business to her friend after she failed to pay back thousands of dollars.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-19/hairdresser-bankrupt-after-vendor-finance-deal/107240256",
+    "publishedAt": "2026-11-18T19:30:13.000Z"
   },
   {
     "id": "6a0c40898d549363",
@@ -1276,77 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo",
     "publishedAt": "2026-11-18T10:53:21.000Z"
-  },
-  {
-    "id": "26a5df592f6a30ba",
-    "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
-    "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo",
-    "publishedAt": "2026-11-18T10:48:49.000Z"
-  },
-  {
-    "id": "dc7bcd92873ea910",
-    "title": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
-    "summary": "The NYT faces backlash over report suggesting a possible link between Iranian dams and underground missile facilities.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss",
-    "publishedAt": "2026-11-18T10:38:13.000Z"
-  },
-  {
-    "id": "3d44534895bdd683",
-    "title": "Traumas of Sudan war lead to wave of drug addiction",
-    "summary": "Anguish caused by conflict sees a growing number of young people turn to drugs.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/18/traumas-of-sudan-war-is-seeing-a-wave-of-drug-addiction?traffic_source=rss",
-    "publishedAt": "2026-11-18T10:35:06.000Z"
-  },
-  {
-    "id": "45c19e2f8827aac5",
-    "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
-    "summary": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
-    "publishedAt": "2026-11-18T10:32:03.000Z"
-  },
-  {
-    "id": "3aaf5d92c0730172",
-    "title": "SSE threatens to close Yorkshire gas storage site unless ministers intervene",
-    "summary": "Energy firm says existing market arrangements do not sustain facility’s continued operation.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
-    "publishedAt": "2026-11-18T10:29:22.000Z"
-  },
-  {
-    "id": "fa692d8fdce0fab1",
-    "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-    "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo",
-    "publishedAt": "2026-11-18T10:23:57.000Z"
-  },
-  {
-    "id": "95931435819c3270",
-    "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
-    "summary": "Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
-    "publishedAt": "2026-11-18T10:14:26.000Z"
-  },
-  {
-    "id": "ff864ec306dd2135",
-    "title": "‘My family would kill me if they saw it’: the ‘harmless’ images that can be deadly for women in Pakistan",
-    "summary": "Tech companies urged to adapt moderation of photos online that can trigger violence against women in some countries.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/nov/18/dangerous-intimate-images-algorithms-selfie-platforms",
-    "publishedAt": "2026-11-18T10:00:47.000Z"
   }
 ]
