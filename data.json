@@ -1,5 +1,95 @@
 [
   {
+    "id": "bb9ae133864288b1",
+    "title": "Some say hacks, others say AI - why have there been so many outages?",
+    "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o",
+    "publishedAt": "2026-11-18T13:16:53.000Z"
+  },
+  {
+    "id": "41375c741c8dc062",
+    "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+    "summary": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o",
+    "publishedAt": "2026-11-18T13:10:01.000Z"
+  },
+  {
+    "id": "df8d86c3af545847",
+    "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
+    "summary": "After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid. In Zambia and Zimbabwe, there are different approaches but similar worries.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
+    "publishedAt": "2026-11-18T13:03:38.000Z"
+  },
+  {
+    "id": "ff3942ae628f34da",
+    "title": "Republicans could expedite bill to make big oil immune to lawsuits, warn experts",
+    "summary": "GOP lawmakers are rushing through high-priority bills before newly elected Democrats are sworn in.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/big-oil-immunity-bill-climate",
+    "publishedAt": "2026-11-18T13:00:04.000Z"
+  },
+  {
+    "id": "deb1e2e2b6780c17",
+    "title": "Energy price cap rise: how to switch providers",
+    "summary": "It is possible to switch to a better tariff and save money despite the forecast rise next year.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/18/energy-price-cap-rise-how-to-beat-the-january-hike",
+    "publishedAt": "2026-11-18T12:52:05.000Z"
+  },
+  {
+    "id": "679837f1aed33e9a",
+    "title": "Doctor whose evidence helped to convict Lucy Letby was barred from treating patients during trial",
+    "summary": "Exclusive: Jury was never told that Prof Peter Hindmarsh was barred from practising over concerns for patients’ safety.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/18/doctor-whose-evidence-helped-to-convict-lucy-letby-was-barred-from-treating-patients-during-trial",
+    "publishedAt": "2026-11-18T12:45:13.000Z"
+  },
+  {
+    "id": "6a33f337f6bec740",
+    "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+    "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo",
+    "publishedAt": "2026-11-18T12:39:24.000Z"
+  },
+  {
+    "id": "36fc805b49a93b2d",
+    "title": "Rwanda and DRC: What is holding up the Washington peace process?",
+    "summary": "The two sides remain divided over key security commitments under the Washington Accords.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss",
+    "publishedAt": "2026-11-18T12:27:23.000Z"
+  },
+  {
+    "id": "9e4e152e2f5a2168",
+    "title": "Peltola’s Alaska victory secures 56th Democratic seat in Senate | First Thing",
+    "summary": "The ninth gain of the midterms in the upper chamber, it is the first time Alaska has elected a Democrat since 2008. Plus the impact the NAZA documentary is having inside Israel.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/first-thing-peltolas-alaska-victory-secures-56th-democratic-seat-in-senate",
+    "publishedAt": "2026-11-18T12:23:41.000Z"
+  },
+  {
+    "id": "ff776c31ccfe588c",
+    "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+    "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
+    "publishedAt": "2026-11-18T12:22:15.000Z"
+  },
+  {
     "id": "cd4814f1f1b7893e",
     "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
     "summary": "Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies.",
@@ -18,6 +108,15 @@
     "publishedAt": "2026-11-18T12:13:32.000Z"
   },
   {
+    "id": "d62a189775416f75",
+    "title": "ICJ to rule on Rohingya genocide case: What to expect",
+    "summary": "The ICJ rules on The Gambia’s genocide case against Myanmar. Here’s what’s at stake for the Rohingya.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss",
+    "publishedAt": "2026-11-18T12:11:47.000Z"
+  },
+  {
     "id": "ff60ccbd4361c9f2",
     "title": "Police in Bangladesh clash with garment workers demanding higher minimum wages",
     "summary": "Police in Bangladesh have clashed with garment workers demanding higher wages.",
@@ -25,6 +124,24 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/police-bangladesh-clash-garment-workers-demanding-higher-minimum-138243349",
     "publishedAt": "2026-11-18T12:10:19.000Z"
+  },
+  {
+    "id": "70ddb4acd5c5c519",
+    "title": "Palestinians find refuge in ancient caves after Israel demolishes homes",
+    "summary": "Palestinians displaced in the occupied West Bank's Masafer Yatta area have been forced to live in underground caves.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/18/palestinians-find-refuge-in-ancient-caves-after-israel-demolish-homes?traffic_source=rss",
+    "publishedAt": "2026-11-18T12:04:21.000Z"
+  },
+  {
+    "id": "9776d7491306f4a4",
+    "title": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
+    "summary": "The battle for the US TV rights to the tournament will pit the traditional broadcaster and the ‘whatever-it-takes’ streamer. It could be a tipping point in the industry.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
+    "publishedAt": "2026-11-18T12:01:00.000Z"
   },
   {
     "id": "04a2d02cd25f366e",
@@ -45,6 +162,15 @@
     "publishedAt": "2026-11-18T12:00:57.000Z"
   },
   {
+    "id": "b99b9593fd906d2e",
+    "title": "‘Partnership buys silence’: Fears grow over EU-Rwanda deportation plans",
+    "summary": "A British immigration lawyer, Rwandan journalist, rights groups and leading politicians decry the proposal as inhumane.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/partnership-buys-silence-fears-grow-over-eu-rwanda-deportation-plans?traffic_source=rss",
+    "publishedAt": "2026-11-18T11:58:10.000Z"
+  },
+  {
     "id": "72c366e7a734e347",
     "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
     "summary": "President Trump will meet with Russian President Vladimir Putin and Chinese President Xi on Thursday for a historic three-way meeting.",
@@ -52,6 +178,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
     "publishedAt": "2026-11-18T11:57:10.000Z"
+  },
+  {
+    "id": "c84a640608d2c429",
+    "title": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
+    "summary": "Houthis advance towards Aden as Saudi-led coalition conducts precision strikes on key military targets in Yemen.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
+    "publishedAt": "2026-11-18T11:57:09.000Z"
   },
   {
     "id": "07fc8996b6941223",
@@ -106,6 +241,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/18/tim-hortons-app-sharing-extensive-data-with-israeli-military-linked-firm?traffic_source=rss",
     "publishedAt": "2026-11-18T11:30:34.000Z"
+  },
+  {
+    "id": "b11e64b6412dd0aa",
+    "title": "Bancroft sandpaper claims heap pressure on Cummins",
+    "summary": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro",
+    "publishedAt": "2026-11-18T11:12:46.000Z"
   },
   {
     "id": "e94da4f7dbdc7db0",
@@ -954,6 +1098,15 @@
     "publishedAt": "2026-11-18T00:33:36.000Z"
   },
   {
+    "id": "efdbef3921bdb5ab",
+    "title": "Netanyahu ally ousted as speaker of Israeli parliament",
+    "summary": "The appointment could give Benjamin Netanyahu's main rival, Gadi Eisenkot, and his allies significant power to start winding back the previous government's policies.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-18/eisenkot-bloc-replaces-netanyahu-ally-as-knesset-speaker/107397646",
+    "publishedAt": "2026-11-18T00:25:07.000Z"
+  },
+  {
     "id": "97642ef435212111",
     "title": "Rare encounter with isolated Indigenous people in Brazil raises concerns over safety",
     "summary": "A rare encounter with isolated Awa Indigenous people in Brazil’s Amazon has raised concerns about their safety and the growing threats to their forest territory.",
@@ -1125,6 +1278,15 @@
     "publishedAt": "2026-11-17T22:50:16.000Z"
   },
   {
+    "id": "fbe1847f933b3456",
+    "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+    "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo",
+    "publishedAt": "2026-11-17T22:46:30.000Z"
+  },
+  {
     "id": "89f77c210997212b",
     "title": "Thomas Markle charged over child sex abuse material in Philippines",
     "summary": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
@@ -1186,167 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/17/nx-s1-6043126/public-health-expert-reacts-to-latest-measles-milestone",
     "publishedAt": "2026-11-17T22:20:41.000Z"
-  },
-  {
-    "id": "77ab65f34ee9bcc6",
-    "title": "US loses measles elimination status amid worst outbreak since 1991",
-    "summary": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
-    "publishedAt": "2026-11-17T22:18:53.000Z"
-  },
-  {
-    "id": "89ebf33e3c4fddef",
-    "title": "New Nvidia boss cites 'momentum' in first results after Huang quits",
-    "summary": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
-    "publishedAt": "2026-11-17T22:17:04.000Z"
-  },
-  {
-    "id": "daa9959cb12cf974",
-    "title": "Nvidia doubles revenue in first earnings since Jensen Huang’s resignation",
-    "summary": "Report comes just days after company saw ouster of its CEO over allegations of affair with suspected Chinese spy.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
-    "publishedAt": "2026-11-17T22:06:44.000Z"
-  },
-  {
-    "id": "26a5df592f6a30ba",
-    "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
-    "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo",
-    "publishedAt": "2026-11-17T22:02:03.000Z"
-  },
-  {
-    "id": "24505ec98282bf9a",
-    "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
-    "summary": "US President Donald Trump has been trying to fire Cook since August 2025.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
-    "publishedAt": "2026-11-17T22:01:27.000Z"
-  },
-  {
-    "id": "46bd1587f896f009",
-    "title": "U.S. officially loses its measles elimination status",
-    "summary": "The Pan American Health Organization announced that measles is no longer considered eliminated in the U.S. It's classified as endemic now because a strain has lingered in the U.S. for over a year.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6044227/u-s-officially-loses-its-measles-elimination-status",
-    "publishedAt": "2026-11-17T21:53:30.000Z"
-  },
-  {
-    "id": "23d25a05deabc445",
-    "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
-    "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
-    "publishedAt": "2026-11-17T21:49:29.000Z"
-  },
-  {
-    "id": "e48357026cb54cb7",
-    "title": "Judge extends deadline for Trump’s deposition in $10bn BBC lawsuit",
-    "summary": "President, who had agreed to sit for deposition in October but backed out, must now appear by 22 January.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/trump-bbc-deposition-delay",
-    "publishedAt": "2026-11-17T21:45:58.000Z"
-  },
-  {
-    "id": "542e4d1fcea86b15",
-    "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
-    "summary": "Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
-    "publishedAt": "2026-11-17T21:40:56.000Z"
-  },
-  {
-    "id": "1c67e1b01c2d0e94",
-    "title": "Air travel, Microsoft, banking: Why are our IT systems failing?",
-    "summary": "NPR's Sacha Pfeiffer speaks with cybersecurity expert Dmitri Alperovitch about the coincidence of several major technical failures in IT infrastructure — and how best to understand it.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6043850/air-travel-microsoft-banking-why-are-our-it-systems-failing",
-    "publishedAt": "2026-11-17T21:40:41.000Z"
-  },
-  {
-    "id": "6d887e6fa58b9406",
-    "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
-    "summary": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
-    "publishedAt": "2026-11-17T21:35:24.000Z"
-  },
-  {
-    "id": "5f34fb9fea027296",
-    "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
-    "summary": "Democrats say they plan to investigate Trump's dealings with Venezuela after winning control of Congress.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
-    "publishedAt": "2026-11-17T21:26:42.000Z"
-  },
-  {
-    "id": "6a0b0cc96336930c",
-    "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-    "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
-    "publishedAt": "2026-11-17T21:24:35.000Z"
-  },
-  {
-    "id": "c89f894251b4700e",
-    "title": "‘Heads should roll’: owner of Melbourne Cup horse found dumped in skip bin demands investigation",
-    "summary": "Stuart Ramsey says it is a ‘bloody disgrace’ the gelding was left in the skip bin while awaiting burial.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/18/stuart-ramsey-calls-for-investigation-so-you-are-melbourne-cup-horse-found-skip-bin-ntwnfb",
-    "publishedAt": "2026-11-17T21:23:47.000Z"
-  },
-  {
-    "id": "d3de8fd9787040a4",
-    "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
-    "summary": "Whistleblower accuses military of dismissing advanced security warnings of drone strike that killed six US soldiers.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
-    "publishedAt": "2026-11-17T21:14:31.000Z"
-  },
-  {
-    "id": "d3b1efb6c55bd28d",
-    "title": "Medical practice squeezed as business confidence slumps in SA",
-    "summary": "Business confidence in SA has taken another knock, with almost three quarters of respondents to a survey listing wage, energy and rest costs as major factors.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-18/business-confidence-takes-hit-in-sa/107394878",
-    "publishedAt": "2026-11-17T21:08:39.000Z"
-  },
-  {
-    "id": "9364369bd1a6b008",
-    "title": "Russian military plane crashes, killing all 19 on board",
-    "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo",
-    "publishedAt": "2026-11-17T21:06:11.000Z"
-  },
-  {
-    "id": "2f9a8ae680bc27f0",
-    "title": "US loses measles elimination status after 26 years amid record case numbers",
-    "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo",
-    "publishedAt": "2026-11-17T21:04:00.000Z"
   }
 ]
