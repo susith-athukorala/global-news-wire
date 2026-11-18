@@ -1,5 +1,95 @@
 [
   {
+    "id": "8bd5e9a65af63b89",
+    "title": "Venezuelan boxer Linares arrested in US and faces deportation, ICE confirms",
+    "summary": "The 41-year-old was detained on Sunday by US immigration authorities at El Paso International Airport in Texas.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/18/venezuelan-boxer-linares-detained-in-us-and-faces-deportation-ice-confirms?traffic_source=rss",
+    "publishedAt": "2026-11-18T08:57:14.000Z"
+  },
+  {
+    "id": "7f602e2f645444f4",
+    "title": "‘We want to go back’: Rohingya refugees pin hopes on ICJ genocide verdict",
+    "summary": "After almost a decade in exile, they're hoping the ICJ rules in their favour. But will that help them get back home?",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/18/we-want-to-go-back-rohingya-refugees-pin-hopes-on-icj-genocide-verdict?traffic_source=rss",
+    "publishedAt": "2026-11-18T08:55:40.000Z"
+  },
+  {
+    "id": "f25b9255d10e23df",
+    "title": "MP urges council to speed up heating oil payments",
+    "summary": "About 23,000 households use heating oil in Northumberland and face increasing bills this winter.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm792dqz4qvyo",
+    "publishedAt": "2026-11-18T08:48:26.000Z"
+  },
+  {
+    "id": "600f03a897964ab8",
+    "title": "David Lammy urges Andy Burnham to campaign on rejoining EU at next election",
+    "summary": "Former foreign secretary’s intervention comes as prime minister prepares for major UK-EU summit in Brussels.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit",
+    "publishedAt": "2026-11-18T08:42:41.000Z"
+  },
+  {
+    "id": "ee9ec5c290ff97fd",
+    "title": "People asked for views on blue brook pollution",
+    "summary": "The Environment Agency wants to know how the incident affected visitors, residents and businesses.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqpv9mjm78m3o",
+    "publishedAt": "2026-11-18T08:37:02.000Z"
+  },
+  {
+    "id": "6761e82c8b8595ae",
+    "title": "Epstein’s death more likely homicide than suicide, forensic expert says",
+    "summary": "An analysis of autopsy records and photos suggests the US sex offender was murdered in 2019, an expert says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/forensic-experts-says-jeffrey-epstein-was-killed-casts-doubt-over-suicide?traffic_source=rss",
+    "publishedAt": "2026-11-18T08:35:19.000Z"
+  },
+  {
+    "id": "813e302ccb617cc1",
+    "title": "Elton John backs Australian artists in fight against AI in surprise Aria awards appearance",
+    "summary": "British musician backs Not AI’s To Take campaign, saying Albanese government has ‘a duty to protect Australian artists and their work’",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/18/elton-john-ai-campaign-australia-artists-aria-awards-copyright",
+    "publishedAt": "2026-11-18T08:29:57.000Z"
+  },
+  {
+    "id": "96a9ab34c41135ba",
+    "title": "Energy bills in Great Britain forecast to rise by 26% to £2,166 from January",
+    "summary": "Government under pressure to help households as increase would add £443 to average annual dual-fuel bill.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise",
+    "publishedAt": "2026-11-18T08:24:26.000Z"
+  },
+  {
+    "id": "df5e0ad9db4582ff",
+    "title": "Ghana's new $60m presidential jet sparks public outrage",
+    "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o",
+    "publishedAt": "2026-11-18T08:08:20.000Z"
+  },
+  {
+    "id": "80d78c322c3c796e",
+    "title": "China’s Xi pitches free trade at APEC amid Trump’s global trade disruptions",
+    "summary": "The president says Beijing seeks to provide a 'stable, predictable and beneficial environment for global enterprises'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/xis-pitch-for-free-trade-amid-trumps-global-trade-disruptions?traffic_source=rss",
+    "publishedAt": "2026-11-18T08:05:18.000Z"
+  },
+  {
     "id": "fef422c85df5c054",
     "title": "Burnham considering cuts to national insurance to create more youth jobs",
     "summary": "PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25s.",
@@ -25,6 +115,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/18/byron-bay-doula-left-newborn-to-inflate-jumping-castle-freebirth-inquest-ntwnfb",
     "publishedAt": "2026-11-18T07:58:32.000Z"
+  },
+  {
+    "id": "33cd2694a5950520",
+    "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
+    "summary": "Putin says Western powers are 'former hegemons', with Europe in the midst of a 'humiliating decline'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss",
+    "publishedAt": "2026-11-18T07:50:47.000Z"
   },
   {
     "id": "4003574a4fa9700c",
@@ -196,6 +295,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
     "publishedAt": "2026-11-18T05:00:34.000Z"
+  },
+  {
+    "id": "0f1eec22ebed7c63",
+    "title": "Pill that mimics Viagra can slow Alzheimer’s progression, study suggests",
+    "summary": "Experts call trial results of medication that slowed cognitive decline by almost a third ‘very promising’",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/18/pill-mimics-viagra-can-slow-alzheimers-progression-by-third-study",
+    "publishedAt": "2026-11-18T05:00:33.000Z"
   },
   {
     "id": "253d55efc9877a4b",
@@ -448,6 +556,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
     "publishedAt": "2026-11-18T00:53:51.000Z"
+  },
+  {
+    "id": "b38f795818b06e9c",
+    "title": "Largest British study to check social media ban's effect on youth mental health",
+    "summary": "Ten different research teams will look at how well teenagers are coping without social media.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o",
+    "publishedAt": "2026-11-18T00:49:31.000Z"
   },
   {
     "id": "ce76317bd9e9bc8e",
@@ -819,6 +936,15 @@
     "publishedAt": "2026-11-17T21:26:42.000Z"
   },
   {
+    "id": "6a0b0cc96336930c",
+    "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+    "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
+    "publishedAt": "2026-11-17T21:24:35.000Z"
+  },
+  {
     "id": "c89f894251b4700e",
     "title": "‘Heads should roll’: owner of Melbourne Cup horse found dumped in skip bin demands investigation",
     "summary": "Stuart Ramsey says it is a ‘bloody disgrace’ the gelding was left in the skip bin while awaiting burial.",
@@ -844,6 +970,15 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-18/business-confidence-takes-hit-in-sa/107394878",
     "publishedAt": "2026-11-17T21:08:39.000Z"
+  },
+  {
+    "id": "2f9a8ae680bc27f0",
+    "title": "US loses measles elimination status after 26 years amid record case numbers",
+    "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo",
+    "publishedAt": "2026-11-17T21:04:00.000Z"
   },
   {
     "id": "d123b5ef8039d1f7",
@@ -1213,140 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
     "publishedAt": "2026-11-17T17:58:05.000Z"
-  },
-  {
-    "id": "2e8a2735ef156f35",
-    "title": "Andy Burnham delays taking stock of UK’s relationship with EU",
-    "summary": "PM to wait until after Brussels summit at which he hopes for agreements on food, farming and emissions.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
-    "publishedAt": "2026-11-17T17:50:40.000Z"
-  },
-  {
-    "id": "33ff49f4c6798290",
-    "title": "Anti-Arab hate speech surged on social media during Israel’s election, report finds",
-    "summary": "Digital monitors recorded 400% rise in posts attacking Arab Israelis, including Netanyahu’s disproven fraud allegations.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/anti-arab-hate-speech-surged-on-social-media-during-israel-election-report",
-    "publishedAt": "2026-11-17T17:44:07.000Z"
-  },
-  {
-    "id": "5b565cfaa4953e93",
-    "title": "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
-    "summary": "The former Nvidia CEO's comments come as some in Silicon Valley have tried to argue that Huang was pushed out of the company too quickly amid a swirl of national security scandals.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
-    "publishedAt": "2026-11-17T17:36:31.000Z"
-  },
-  {
-    "id": "d59ca39667ca039d",
-    "title": "Nvidia chair tells investors he will not talk about bringing back Huang",
-    "summary": "In his first comments since resigning under pressure over his affair with a suspected Chinese spy, Jensen Huang says he would be honoured to return as Nvidia CEO if the board decides to have him back.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-18/ex-nvidia-ceo-jensen-huang-says-he-would-be-honoured-to-return/107397042",
-    "publishedAt": "2026-11-17T17:35:21.000Z"
-  },
-  {
-    "id": "65e017cce519167b",
-    "title": "US officially loses measles-free status as vaccination rates drop",
-    "summary": "The United States has officially been stripped of its measles-free status, with falling vaccination rates and more than 5,400 cases reported this year.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-18/us-loses-measles-free-status-after-26-years/107397030",
-    "publishedAt": "2026-11-17T17:34:43.000Z"
-  },
-  {
-    "id": "ddbe88e354f562a3",
-    "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
-    "summary": "Ali al-Zaidi's talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
-    "publishedAt": "2026-11-17T17:34:27.000Z"
-  },
-  {
-    "id": "6ca89969d594e53f",
-    "title": "Religious ruling revives memories in Israel of Rabin assassination",
-    "summary": "Hostility towards Palestinian participation in Israel's government fuels fears of far-right political violence.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/17/religious-ruling-revives-memories-in-israel-of-rabin-assassination?traffic_source=rss",
-    "publishedAt": "2026-11-17T17:33:18.000Z"
-  },
-  {
-    "id": "bca341e9aac3949d",
-    "title": "Thousands demonstrate in Haiti’s capital to praise Bukele and Salvadoran troops fighting gangs",
-    "summary": "Thousands of people in Haiti's capital and beyond are praising El Salvador’s president, Nayib Bukele, and his troops for fighting gangs in the country.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/thousands-demonstrate-haitis-capital-praise-bukele-salvadoran-troops-138217031",
-    "publishedAt": "2026-11-17T17:32:41.000Z"
-  },
-  {
-    "id": "9c55fa8f16bf4d28",
-    "title": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
-    "summary": "With the SpaceX satellite system faltering, Ukraine’s military launched a surprise, multi-pronged attack to take down vital bridge to Crimea.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
-    "publishedAt": "2026-11-17T17:30:40.000Z"
-  },
-  {
-    "id": "60cb9759cba14e4d",
-    "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-    "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o",
-    "publishedAt": "2026-11-17T17:25:23.000Z"
-  },
-  {
-    "id": "14f647f93bf67402",
-    "title": "NHS gets £500m boost in Wales' first budget under Plaid Cymru",
-    "summary": "Health spending will rise, but the government says it is grappling with \"tight\" public finances.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm9308z78p7ko",
-    "publishedAt": "2026-11-17T17:23:17.000Z"
-  },
-  {
-    "id": "2c2e84dadece79b4",
-    "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-    "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo",
-    "publishedAt": "2026-11-17T17:19:57.000Z"
-  },
-  {
-    "id": "486e920ef184101e",
-    "title": "Costa Rican journalist shot dead in first such killing in 25 years",
-    "summary": "Camilo Rodriguez’s death comes as the country grapples with a surge in drug violence.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead",
-    "publishedAt": "2026-11-17T17:19:12.000Z"
-  },
-  {
-    "id": "0444b0cc379b7bda",
-    "title": "Three people killed in plane crash in Arizona’s Grand Canyon national park",
-    "summary": "Wreckage of Piper Comanche aircraft was found on Monday after going missing in park’s North Rim area.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/grand-canyon-plane-crash-arizona-wreckage-found",
-    "publishedAt": "2026-11-17T17:12:15.000Z"
-  },
-  {
-    "id": "db4d2925d4a1ef28",
-    "title": "‘Spared a lot’: Kessler twins explained assisted dying decision in final letter",
-    "summary": "Pop-singing sisters, who died aged 89 last year, described their declining health and desire to depart life together.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/17/kessler-twins-assisted-dying-decision",
-    "publishedAt": "2026-11-17T17:12:07.000Z"
   }
 ]
