@@ -1,5 +1,113 @@
 [
   {
+    "id": "dc8971aae4da6e37",
+    "title": "Elon Musk claims ‘I’m not Maga’ and says he regrets vast sums to back Republicans",
+    "summary": "Musk, who aligned with Trump and was frequent White House guest, says he feels ‘pretty foolish’ about record midterm spending.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
+    "publishedAt": "2026-11-19T01:07:51.000Z"
+  },
+  {
+    "id": "da28dacabaf0124f",
+    "title": "Crimean Bridge attacked again, Russian official says",
+    "summary": "The head of Crimea said traffic was suspended after another attack on the link between mainland Russia and the occupied territory.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo",
+    "publishedAt": "2026-11-19T01:05:03.000Z"
+  },
+  {
+    "id": "eef9406edacd92a1",
+    "title": "Beau Lamarre-Condon’s testimony about Jesse Baird and Luke Davies’ deaths ‘fanciful in the extreme’, crown alleges",
+    "summary": "Prosecutor argues accused could be convicted on strength of forensic and ballistics evidence alone in closing statement.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/19/beau-lamarre-condon-jesse-baird-luke-davies-ntwnfb",
+    "publishedAt": "2026-11-19T01:00:25.000Z"
+  },
+  {
+    "id": "94d1cffd8a5c3802",
+    "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+    "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo",
+    "publishedAt": "2026-11-19T00:49:19.000Z"
+  },
+  {
+    "id": "bef9892dbf553562",
+    "title": "Unemployment rate jumps to 4.9% – the highest level in five years",
+    "summary": "Jobless rate rises from 4.7% to 4.9% for October, latest bureau of statistics figures reveal.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
+    "publishedAt": "2026-11-19T00:47:27.000Z"
+  },
+  {
+    "id": "a72278ca30f59e91",
+    "title": "German FA backs France’s Diallo for FIFA presidency",
+    "summary": "Incumbent Gianni Infantino has resisted repeated calls to resign, citing overwhelming global support.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/german-fa-backs-frances-diallo-for-fifa-presidency?traffic_source=rss",
+    "publishedAt": "2026-11-19T00:44:50.000Z"
+  },
+  {
+    "id": "c4a653fe6dabd51e",
+    "title": "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
+    "summary": "Farmers are receiving higher payments but are producing far less milk and also face rising prices for hay.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss",
+    "publishedAt": "2026-11-19T00:40:01.000Z"
+  },
+  {
+    "id": "e186ff9e0d20379b",
+    "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+    "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do",
+    "publishedAt": "2026-11-19T00:38:52.000Z"
+  },
+  {
+    "id": "ac692c165ff89b04",
+    "title": "Somalia’s constitutional overhaul tests its fragile federal bargain",
+    "summary": "Mohamud’s reforms promise stronger government, but regional resistance and violence threaten the fragile deal of 2012.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss",
+    "publishedAt": "2026-11-19T00:37:03.000Z"
+  },
+  {
+    "id": "4e09e8eb8125ea11",
+    "title": "Anthropic raises $81.3bn in biggest IPO of all-time",
+    "summary": "AI giant prices shares at $83 in blockbuster market debut.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
+    "publishedAt": "2026-11-19T00:20:03.000Z"
+  },
+  {
+    "id": "d8abb0b94743f7a0",
+    "title": "Unvaccinated Pennsylvania resident dies amid historic US measles resurgence",
+    "summary": "Pennsylvania records eighth measles death of 2026, a day after the US formally loses its 26-year elimination status.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence?traffic_source=rss",
+    "publishedAt": "2026-11-19T00:14:40.000Z"
+  },
+  {
+    "id": "a03b6991851b525b",
+    "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
+    "summary": "The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
+    "publishedAt": "2026-11-19T00:11:40.000Z"
+  },
+  {
     "id": "b8fc9ad90e7d4763",
     "title": "Two-hour ambulance handover limit missed more than 2,000 times",
     "summary": "Achieving the two-hour protocol over the winter will be \"very challenging\", says a senior doctor.",
@@ -79,6 +187,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o",
     "publishedAt": "2026-11-18T23:28:03.000Z"
+  },
+  {
+    "id": "7f5dccfcc1fb8c9b",
+    "title": "Crimea bridge has been attacked again, says Russian-installed governor",
+    "summary": "Assessment of damage is underway, days after two attacks that destroyed road section of key bridge across Kerch strait linking annexed peninsula to Russia.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+    "publishedAt": "2026-11-18T23:27:37.000Z"
   },
   {
     "id": "a2c3574e4f0cbe70",
@@ -1080,6 +1197,15 @@
     "publishedAt": "2026-11-18T13:55:14.000Z"
   },
   {
+    "id": "4b1632ddd3fe6465",
+    "title": "UK inflation rises to year high and keeps risk of second straight rate hike alive",
+    "summary": "Inflation in the U.K. has risen to its highest level in a year, reaching 3.6% in October.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/uk-inflation-rises-year-high-possibility-straight-rate-138242229",
+    "publishedAt": "2026-11-18T13:54:26.000Z"
+  },
+  {
     "id": "c73fa9294a5cab62",
     "title": "Philippine president has Jollibee fried chicken sent to Trump for a late-night snack",
     "summary": "Philippine President Ferdinand Marcos Jr. says he sent a delivery of Jollibee fried chicken to President Donald Trump so he could have a “taste of Manila” since the Republican president was staying in the capital for a short amount of time.",
@@ -1222,131 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss",
     "publishedAt": "2026-11-18T12:27:23.000Z"
-  },
-  {
-    "id": "9e4e152e2f5a2168",
-    "title": "Peltola’s Alaska victory secures 56th Democratic seat in Senate | First Thing",
-    "summary": "The ninth gain of the midterms in the upper chamber, it is the first time Alaska has elected a Democrat since 2008. Plus the impact the NAZA documentary is having inside Israel.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/first-thing-peltolas-alaska-victory-secures-56th-democratic-seat-in-senate",
-    "publishedAt": "2026-11-18T12:23:41.000Z"
-  },
-  {
-    "id": "ff776c31ccfe588c",
-    "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-    "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
-    "publishedAt": "2026-11-18T12:22:15.000Z"
-  },
-  {
-    "id": "cd4814f1f1b7893e",
-    "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
-    "summary": "Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
-    "publishedAt": "2026-11-18T12:14:28.000Z"
-  },
-  {
-    "id": "32f6128a8c73ee1b",
-    "title": "Environment department failing to protect wild birds, OEP finds",
-    "summary": "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Areas.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo",
-    "publishedAt": "2026-11-18T12:13:32.000Z"
-  },
-  {
-    "id": "d62a189775416f75",
-    "title": "ICJ to rule on Rohingya genocide case: What to expect",
-    "summary": "The ICJ rules on The Gambia’s genocide case against Myanmar. Here’s what’s at stake for the Rohingya.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss",
-    "publishedAt": "2026-11-18T12:11:47.000Z"
-  },
-  {
-    "id": "ff60ccbd4361c9f2",
-    "title": "Police in Bangladesh clash with garment workers demanding higher minimum wages",
-    "summary": "Police in Bangladesh have clashed with garment workers demanding higher wages.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/police-bangladesh-clash-garment-workers-demanding-higher-minimum-138243349",
-    "publishedAt": "2026-11-18T12:10:19.000Z"
-  },
-  {
-    "id": "70ddb4acd5c5c519",
-    "title": "Palestinians find refuge in ancient caves after Israel demolishes homes",
-    "summary": "Palestinians displaced in the occupied West Bank's Masafer Yatta area have been forced to live in underground caves.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/18/palestinians-find-refuge-in-ancient-caves-after-israel-demolish-homes?traffic_source=rss",
-    "publishedAt": "2026-11-18T12:04:21.000Z"
-  },
-  {
-    "id": "9776d7491306f4a4",
-    "title": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
-    "summary": "The battle for the US TV rights to the tournament will pit the traditional broadcaster and the ‘whatever-it-takes’ streamer. It could be a tipping point in the industry.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
-    "publishedAt": "2026-11-18T12:01:00.000Z"
-  },
-  {
-    "id": "04a2d02cd25f366e",
-    "title": "Key Hegseth adviser faces questions over ties to Israeli defense contractor and Saudi Arabia",
-    "summary": "A government watchdog has also labeled Hegseth’s defense policy appointee a ‘walking conflict of interest’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/pete-hegseth-iran-war-pentagon",
-    "publishedAt": "2026-11-18T12:00:58.000Z"
-  },
-  {
-    "id": "74c36c5f59129af0",
-    "title": "‘I’m heartbroken’: experts dismayed as US loses long-held measles elimination status",
-    "summary": "Public health leaders condemn ‘significant damage’ by Trump administration as calls grow for RFK Jr to resign.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/us-measles-elimination-status-experts",
-    "publishedAt": "2026-11-18T12:00:57.000Z"
-  },
-  {
-    "id": "06612b957537e5fc",
-    "title": "Annoying Trump and dodging Flock: inside MapQuest’s contrarian comeback",
-    "summary": "After refusing to obey the president’s Lake Ontario order, MapQuest briefly rose to No 1 in navigation apps. It’s now a tool in the US anti-surveillance movement.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/mapquest-google-apple-navigation-app-flock",
-    "publishedAt": "2026-11-18T12:00:56.000Z"
-  },
-  {
-    "id": "b99b9593fd906d2e",
-    "title": "‘Partnership buys silence’: Fears grow over EU-Rwanda deportation plans",
-    "summary": "A British immigration lawyer, Rwandan journalist, rights groups and leading politicians decry the proposal as inhumane.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/partnership-buys-silence-fears-grow-over-eu-rwanda-deportation-plans?traffic_source=rss",
-    "publishedAt": "2026-11-18T11:58:10.000Z"
-  },
-  {
-    "id": "72c366e7a734e347",
-    "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
-    "summary": "President Trump will meet with Russian President Vladimir Putin and Chinese President Xi on Thursday for a historic three-way meeting.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
-    "publishedAt": "2026-11-18T11:57:10.000Z"
-  },
-  {
-    "id": "c84a640608d2c429",
-    "title": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
-    "summary": "Houthis advance towards Aden as Saudi-led coalition conducts precision strikes on key military targets in Yemen.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
-    "publishedAt": "2026-11-18T11:57:09.000Z"
   }
 ]
