@@ -1,5 +1,122 @@
 [
   {
+    "id": "4ceff601e2330ba1",
+    "title": "John Cornyn blocks Trump judicial nominee after Senate shouting match with Ted Cruz",
+    "summary": "Outgoing senator withheld ‘blue slip’ from T Elliot Gaiser, blocking his appointment to northern Texas district court.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/judge-t-elliot-gaiser-nomination-fight",
+    "publishedAt": "2026-11-19T20:03:58.000Z"
+  },
+  {
+    "id": "d7c5b3a2d95ee966",
+    "title": "Judge bans Trump’s restrictions on HIV funds for transgender patients",
+    "summary": "Federal court rules providers can acknowledge gender identity and provide gender-affirming care.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/hiv-treatment-trans-patients-trump",
+    "publishedAt": "2026-11-19T20:02:00.000Z"
+  },
+  {
+    "id": "7cbe0781a3dc413a",
+    "title": "Oil firm fined for breaking environmental rules hundreds of times",
+    "summary": "Ten charges involved oil, cyanide and other pollutants entering local waterways.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo",
+    "publishedAt": "2026-11-19T19:58:27.000Z"
+  },
+  {
+    "id": "9a626d0b39103af2",
+    "title": "‘On the same page’: Hegseth hails US ties with Colombia’s de la Espriella",
+    "summary": "The US defence secretary praised security cooperation with Colombia as country joins Americas Counter Cartel Coalition.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
+    "publishedAt": "2026-11-19T19:53:24.000Z"
+  },
+  {
+    "id": "5ca92f35c1888736",
+    "title": "Howard-era minister Sharman Stone dies via voluntary assisted dying, aged 75",
+    "summary": "The former Liberal MP had fought a long battle against glioblastoma, an aggressive form of brain cancer.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
+    "publishedAt": "2026-11-19T19:44:24.000Z"
+  },
+  {
+    "id": "8de921d60327898d",
+    "title": "European leaders unite in Berlin to reaffirm support for Ukraine",
+    "summary": "German chancellor warns peace talks without Europe's involvement are doomed to fail, urging unity with Ukraine.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
+    "publishedAt": "2026-11-19T19:40:23.000Z"
+  },
+  {
+    "id": "df80a7297159cc83",
+    "title": "‘Welsh can tell any story’: Cymraeg dub of Star Wars premieres in Cardiff",
+    "summary": "Actors Mark Lewis Jones and Osian Morgan, who voiced characters in dub of 1977 film, among guests on red carpet.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/film/2026/nov/19/welsh-cymraeg-dub-star-wars-cardiff",
+    "publishedAt": "2026-11-19T19:33:00.000Z"
+  },
+  {
+    "id": "6a2c00a9910807a3",
+    "title": "Prison authorities consider whether Russell Brand harassed victims with YouTube message",
+    "summary": "Ministry of Justice weighs up comments issued through rapist’s wife as PM asks: ‘Why are we having to hear from him?’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/2026/nov/19/prison-authorities-consider-russell-brand-youtube-message-rules-victim-distress",
+    "publishedAt": "2026-11-19T19:30:14.000Z"
+  },
+  {
+    "id": "eb1e6e1afdc11e91",
+    "title": "Blockbuster GTA VI release shows cultural, economic heft of video games",
+    "summary": "Runaway success of popular franchise comes as video game industry has struggled with mass layoffs in recent years.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
+    "publishedAt": "2026-11-19T19:27:32.000Z"
+  },
+  {
+    "id": "646f795f08ca368d",
+    "title": "Save the Children: Gaza’s children face ‘unmatched dangers’",
+    "summary": "Aid group says one third of violations against children worldwide were in occupied Palestinian territory.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
+    "publishedAt": "2026-11-19T19:23:45.000Z"
+  },
+  {
+    "id": "4ae9e36cfdba5ecc",
+    "title": "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya",
+    "summary": "Landmark judgement in The Hague is the first time a state has been held responsible for genocide at the ICJ.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss",
+    "publishedAt": "2026-11-19T19:19:06.000Z"
+  },
+  {
+    "id": "9e8a67228c3007d8",
+    "title": "Man arrested after ‘horrific’ knife attack on Bradford councillor",
+    "summary": "Politicians call attack on independent councillor Ibrar Ali canvassing in Bradford Moor ward ‘deeply disturbing’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali",
+    "publishedAt": "2026-11-19T19:18:56.000Z"
+  },
+  {
+    "id": "b5502e0ebc980de5",
+    "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+    "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+    "publishedAt": "2026-11-19T19:16:21.000Z"
+  },
+  {
     "id": "372e8dc43d48a12c",
     "title": "UK and EU plan first talks on sending refused asylum seekers to third countries",
     "summary": "Two sides to commit to discussing third-country hubs as part of reset pact after five-country deal with Rwanda.",
@@ -1143,6 +1260,15 @@
     "publishedAt": "2026-11-19T09:44:40.000Z"
   },
   {
+    "id": "855f26820aebedf4",
+    "title": "In the land that gave us 'cinema,' activist archivists are bringing back old home movies",
+    "summary": "Archiving activists who roam from town to town in France are making people's forgotten home movies great again by preserving them digitally.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/land-gave-us-cinema-activist-archivists-bringing-back-138278144",
+    "publishedAt": "2026-11-19T09:22:15.000Z"
+  },
+  {
     "id": "a995c33de1b31fc8",
     "title": "BAE to slash 1,000 jobs across head office and air business to streamline orders",
     "summary": "Job cuts to exclude shop floor, aircraft maintenance and trainees but move prompts calls for more orders to support British defence giant.",
@@ -1222,131 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/tv-and-radio/2026/nov/19/the-altruists-review-anthony-boyle-julia-garner",
     "publishedAt": "2026-11-19T08:01:21.000Z"
-  },
-  {
-    "id": "a0d671cc1b785199",
-    "title": "‘Sam-Bankman Fried messaged me from prison’: rising star Anthony Boyle on playing the disgraced tech bro – and a zero-hours bike courier",
-    "summary": "The actor’s latest roles see him go from a delivery guy on £40 a day to the notorious crypto scammer who stole more than $10bn. His sympathies are clear: ‘I wasn’t brought up to care about money,’ he says.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/19/anthony-boyle-actor-interview-see-buildings-fall-like-lightning-altruists",
-    "publishedAt": "2026-11-19T08:00:22.000Z"
-  },
-  {
-    "id": "8c1ff0a9b2195c81",
-    "title": "EDF snaps up 1.3m more customers after Utilita takeover",
-    "summary": "Britain’s fourth-largest energy supplier brings account base up to 6m after purchase of pay-as-you-go supplier.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/19/edf-takeover-utilita-energy-suppliers-energy-bills",
-    "publishedAt": "2026-11-19T08:00:21.000Z"
-  },
-  {
-    "id": "cce6a870c6e4baa7",
-    "title": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
-    "summary": "Hegseth's new military deal with Venezuela raises questions about US influence, regional security and Maduro's removal.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
-    "publishedAt": "2026-11-19T07:52:30.000Z"
-  },
-  {
-    "id": "8fa88520efcabf8a",
-    "title": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
-    "summary": "Israeli soldiers describe the psychological toll of the genocide in Gaza, yet many express no remorse.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss",
-    "publishedAt": "2026-11-19T07:51:03.000Z"
-  },
-  {
-    "id": "d33ae63fcc149668",
-    "title": "Charting the world’s biggest IPOs as Anthropic overtakes SpaceX",
-    "summary": "The AI company behind Claude raised $81.3bn in the largest initial public offering ever, at a $1.5 trillion valuation.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/charting-the-worlds-biggest-ipos-as-anthropic-overtakes-spacex?traffic_source=rss",
-    "publishedAt": "2026-11-19T07:36:08.000Z"
-  },
-  {
-    "id": "72d9f8d8fb928bef",
-    "title": "For Putin, sharing a spotlight with Trump and Xi boosts his profile on the global stage",
-    "summary": "For Russian President Vladimir Putin, the three-way meeting with Donald Trump and Xi Jinping offers a much-coveted chance for the Kremlin leader to demonstrate that he heads a superpower on a par with the United States and China.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/putin-sharing-spotlight-trump-xi-boosts-profile-global-138265640",
-    "publishedAt": "2026-11-19T07:29:39.000Z"
-  },
-  {
-    "id": "bc659a943d4b30ec",
-    "title": "North Korea is expanding its original uranium enrichment facility, UN nuclear watchdog says",
-    "summary": "The U.N. nuclear watchdog says that North Korea has been expanding its original uranium enrichment facility at its Yongbyon nuclear complex.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/north-korea-expanding-original-uranium-enrichment-facility-nuclear-138276975",
-    "publishedAt": "2026-11-19T07:29:33.000Z"
-  },
-  {
-    "id": "e774f6afe94a5404",
-    "title": "Wreck of Australia's first warship built at home found 128 years after sinking",
-    "summary": "The wreck of Australia’s first Australian-built warship, HMCS Spitfire, has been found 128 years to the day after it sank off the country’s north coast.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/wreck-australias-warship-built-home-found-128-years-138278608",
-    "publishedAt": "2026-11-19T07:29:29.000Z"
-  },
-  {
-    "id": "b2bd0db824513d9f",
-    "title": "The UK and EU are holding a summit to patch up ties after their bitter Brexit divorce",
-    "summary": "Prime Minister Andy Burnham is meeting EU officials in Brussels on Friday to discuss closer ties between the UK and the bloc that it left in 2020.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/uk-eu-holding-summit-patch-ties-after-bitter-138278421",
-    "publishedAt": "2026-11-19T07:25:50.000Z"
-  },
-  {
-    "id": "3c9480ea21e36fb8",
-    "title": "IPCC report delay will threaten global effort to tackle climate crisis, says top scientist",
-    "summary": "Johan Rockström, one of world’s leading climate scientists, says stopping panel from working as quickly as possible is inviting disaster.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
-    "publishedAt": "2026-11-19T07:16:45.000Z"
-  },
-  {
-    "id": "03a269265f7bba42",
-    "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
-    "summary": "The US blockade of Iranian ports has a crippling effect on the economy, but Tehran insists its economy can survive.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
-    "publishedAt": "2026-11-19T07:08:57.000Z"
-  },
-  {
-    "id": "501bc1a449453d99",
-    "title": "Netanyahu’s last stand and the dangerous politics of survival",
-    "summary": "Facing political oblivion, Netanyahu is playing a high-stakes game that could push Israel towards violence and chaos.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival?traffic_source=rss",
-    "publishedAt": "2026-11-19T06:58:44.000Z"
-  },
-  {
-    "id": "cd01ccb73b961d87",
-    "title": "Violent protests and killings in Bangladesh ahead of exiled Sheikh Hasina’s planned return",
-    "summary": "Awami League party called for ⁠nationwide protest on Thursday after the government rejected Hasina’s request for passport.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return",
-    "publishedAt": "2026-11-19T06:58:33.000Z"
-  },
-  {
-    "id": "d8a561c0ee88365a",
-    "title": "Increase in direct cremations since pandemic",
-    "summary": "A 2026 Cost of Dying Report found direct cremation was now chosen for around one in five funerals.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o",
-    "publishedAt": "2026-11-19T06:23:22.000Z"
   }
 ]
