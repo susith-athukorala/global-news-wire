@@ -1,5 +1,59 @@
 [
   {
+    "id": "d6d5a75fc790921b",
+    "title": "Myanmar committed acts of genocide against Rohingya minority, world’s top court rules",
+    "summary": "Governments around world have been awaiting ICJ judgment, seen as critical test for dealing with most serious of all state crimes.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
+    "publishedAt": "2026-11-19T11:08:44.000Z"
+  },
+  {
+    "id": "f134fe4f942fcc5e",
+    "title": "Race to replant five South African baobabs after export blocked",
+    "summary": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+    "publishedAt": "2026-11-19T11:03:24.000Z"
+  },
+  {
+    "id": "3abb8e70f06f511a",
+    "title": "FIFA confirms Diallo, Tashima as Infantino’s challengers at 2027 election",
+    "summary": "French football chief Philippe Diallo and Japan's Kozo Tashima will be the only candidates to run for FIFA presidency.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss",
+    "publishedAt": "2026-11-19T10:42:53.000Z"
+  },
+  {
+    "id": "82c4e603c2731f40",
+    "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
+    "summary": "Several African stars feature.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo",
+    "publishedAt": "2026-11-19T10:32:10.000Z"
+  },
+  {
+    "id": "ec20b8d8696161e7",
+    "title": "UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya",
+    "summary": "In case filed at the ICJ in 2019, The Gambia accused Myanmar of breaching the 1948 Genocide Convention.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
+    "publishedAt": "2026-11-19T10:31:36.000Z"
+  },
+  {
+    "id": "d9137887b4b7d7c7",
+    "title": "New law ‘may be needed’ after Google rejects call to remove Russell Brand’s YouTube prison message",
+    "summary": "Ex-minister Jess Phillips admits government does not have power to compel platforms to remove distressing content.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/2026/nov/19/google-youtube-russell-brand-youtube-prison-message-jess-phillips-new-law",
+    "publishedAt": "2026-11-19T10:12:54.000Z"
+  },
+  {
     "id": "1aaebe7d96fec402",
     "title": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
     "summary": "With two million Palestinians confined to an area of less than 130sq km, UN-backed Gaza peace plan has collapsed.",
@@ -16,6 +70,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/games/2026/nov/19/tips-for-playing-grand-theft-auto-vi",
     "publishedAt": "2026-11-19T10:00:25.000Z"
+  },
+  {
+    "id": "62837eed4c0fd851",
+    "title": "From training clips to thirst traps: why athletes are turning to OnlyFans",
+    "summary": "A professional sports career does not guarantee wealth. And a growing number of athletes are turning to alternative streams of income.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/sport/2026/nov/19/athletes-onlyfans-earnings",
+    "publishedAt": "2026-11-19T10:00:24.000Z"
   },
   {
     "id": "fe44b1178bdbaa57",
@@ -70,6 +133,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/top-court-set-rule-case-alleging-myanmar-committed-138279244",
     "publishedAt": "2026-11-19T09:46:54.000Z"
+  },
+  {
+    "id": "7073f2bce7e23030",
+    "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
+    "summary": "President Trump, Xi and Putin have met in Shenzhen for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+    "publishedAt": "2026-11-19T09:44:40.000Z"
   },
   {
     "id": "a995c33de1b31fc8",
@@ -1276,77 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/science/2026/nov/18/bacterial-toxin-e-coli-bowel-cancer-under-50s",
     "publishedAt": "2026-11-18T17:55:14.000Z"
-  },
-  {
-    "id": "9885e5a301e8d4a7",
-    "title": "Alexander Zverev notified of abuse lawsuit by ex-partner during ATP Finals",
-    "summary": "",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/sport/2026/nov/18/alexander-zverev-abuse-lawsuit-atp-finals-finals-brenda-patea",
-    "publishedAt": "2026-11-18T17:52:39.000Z"
-  },
-  {
-    "id": "8a5d0f11f0f35719",
-    "title": "Regulator mistakenly sent complaints about doctors to newspaper",
-    "summary": "Information sent to the Times newspaper by the General Medical Council included summaries of complaints alleging antisemitism and Islamophobia against doctors.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko",
-    "publishedAt": "2026-11-18T17:48:10.000Z"
-  },
-  {
-    "id": "b6f40759575238ca",
-    "title": "Democrats nominate Hakeem Jeffries to be first Black speaker of US House",
-    "summary": "By electing Mr Jeffries as the party's leader in the US House of Representatives, Democrats position him to become the first Black speaker of the House come January.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-19/hakeem-jeffries-nominated-as-democratic-leader-house-speaker/107401668",
-    "publishedAt": "2026-11-18T17:48:01.000Z"
-  },
-  {
-    "id": "421fe2bd9b346442",
-    "title": "Senate committee rejects Trump nominee to lead National Science Foundation",
-    "summary": "Committee chair Bill Cassidy, a Republican, said Jim O’Neill ‘did not do enough to stand up for science’ in previous posts.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee",
-    "publishedAt": "2026-11-18T17:46:34.000Z"
-  },
-  {
-    "id": "0ee878b982ebce30",
-    "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
-    "summary": "Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
-    "publishedAt": "2026-11-18T17:45:09.000Z"
-  },
-  {
-    "id": "30d07b6e38bbe517",
-    "title": "Traces of filler found in heart and brain of woman who died after cosmetic procedure, UK inquest hears",
-    "summary": "Jury told Jordan Parke injected seven times amount of filler he was taught to use during Alice Webb’s ‘Brazilian butt lift’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/18/traces-of-filler-found-in-heart-and-brain-of-woman-who-died-after-cosmetic-procedure-uk-inquest-hears",
-    "publishedAt": "2026-11-18T17:42:22.000Z"
-  },
-  {
-    "id": "900cfe6e4d26cb35",
-    "title": "Man charged in connection to bomb threat at Illinois ethanol plant",
-    "summary": "Andrew M Kozak, 41, pleaded not guilty to two charges in federal court after an explosive device was found at facility.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/illinois-ethanol-plant-bomb-threat-charges",
-    "publishedAt": "2026-11-18T17:37:09.000Z"
-  },
-  {
-    "id": "ff776c31ccfe588c",
-    "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-    "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
-    "publishedAt": "2026-11-18T17:34:25.000Z"
   }
 ]
