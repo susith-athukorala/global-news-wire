@@ -1,5 +1,167 @@
 [
   {
+    "id": "e43a8cb3f143187e",
+    "title": "Parents: please don’t buy Grand Theft Auto VI for your child",
+    "summary": "Rockstar Games’ brilliant 18-rated criminal caper is stuffed with sex, drugs and violence. It is the most explicit game I’ve ever played – and it really is not for kids.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-parents-please-dont-buy-gta-6-vi-for-your-child",
+    "publishedAt": "2026-11-19T13:00:48.000Z"
+  },
+  {
+    "id": "ad45abb72d75e7ea",
+    "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+    "summary": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn).",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o",
+    "publishedAt": "2026-11-19T12:56:30.000Z"
+  },
+  {
+    "id": "50a5a499604da53a",
+    "title": "AI demand will push up interest rates around the world, IMF head warns",
+    "summary": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+    "publishedAt": "2026-11-19T12:51:16.000Z"
+  },
+  {
+    "id": "98ab7da0b6c3855f",
+    "title": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
+    "summary": "Early efforts to contain coronavirus \"were doomed to fail\", the public inquiry has found. Here's what you need to know.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo",
+    "publishedAt": "2026-11-19T12:47:27.000Z"
+  },
+  {
+    "id": "bbd0f183d729d393",
+    "title": "Former WH Smith chain TG Jones put up for sale after closing 150 stores",
+    "summary": "Modella Capital plans auction of high street retailer, which employs about 3,500 people, next year.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/17/wh-smith-tg-jones-sale-stores-modella-capita",
+    "publishedAt": "2026-11-19T12:45:07.000Z"
+  },
+  {
+    "id": "cce4eee7a68c5b2b",
+    "title": "Wife of Trump ally Todd Blanche promoted treatments with unproven medical claims",
+    "summary": "Kristine Blanche, named to US health advisory role, offered purported treatments for Epstein-Barr virus and HPV.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website",
+    "publishedAt": "2026-11-19T12:39:20.000Z"
+  },
+  {
+    "id": "6de01886ecf7fb17",
+    "title": "Bus crashes into fuel truck in Pakistan and at least 10 people are killed",
+    "summary": "A bus has rammed into a fuel truck carrying liquefied petroleum gas in southwestern Pakistan, igniting a fire that killed at least 10 people and left several injured.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/bus-crashes-fuel-truck-southwestern-pakistan-10-people-138282967",
+    "publishedAt": "2026-11-19T12:39:10.000Z"
+  },
+  {
+    "id": "f926463fa40c9c7b",
+    "title": "Car rams into Palestinian residents four times in Israeli city, injuring eight",
+    "summary": "Arab MPs accuse Israeli politicians of fuelling hostility as footage shows driver accelerating towards pedestrians at several locations in Kafr Qasim.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim",
+    "publishedAt": "2026-11-19T12:36:37.000Z"
+  },
+  {
+    "id": "fc1d57a3f5c7b403",
+    "title": "Danish MPs approve Greenland security pact with US",
+    "summary": "Danish foreign minister says deal ‘removes all uncertainty’ over territory but warns trust in US needs rebuilding.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us",
+    "publishedAt": "2026-11-19T12:33:52.000Z"
+  },
+  {
+    "id": "2ec7c02657102938",
+    "title": "First Thing: Trump, Xi and Putin hold historic trilateral meeting in China",
+    "summary": "The three leaders spoke about international peace and nuclear weapons as Trump called Putin a ‘friend’. Plus, yes, GTA VI is really finally here, and the critics have their verdict: masterpiece.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/first-thing-trump-xi-and-putin-hold-historic-trilateral-meeting-in-china",
+    "publishedAt": "2026-11-19T12:31:41.000Z"
+  },
+  {
+    "id": "4a105c5c67d339a2",
+    "title": "China and Russia say they and US agree on UN reforms, boosting fuel supplies, dialogue on nuclear",
+    "summary": "China, Russia and the U.S. have agreed to seek reforms at the United Nations, increase oil supplies and engage in dialogue to reduce nuclear risks.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/china-russia-us-agree-reforms-boosting-fuel-supplies-138269362",
+    "publishedAt": "2026-11-19T12:31:16.000Z"
+  },
+  {
+    "id": "b2386f01b84b1689",
+    "title": "Danish lawmakers approve a security deal with Greenland and the US, hoping to finally end tensions",
+    "summary": "Denmark’s parliament has approved an agreement with Greenland and the United States to strengthen security in the Arctic and North Atlantic.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/danish-lawmakers-approve-security-deal-greenland-us-hoping-138281209",
+    "publishedAt": "2026-11-19T12:31:09.000Z"
+  },
+  {
+    "id": "aeff9386d01183cd",
+    "title": "Top U.N. court rules Myanmar committed genocide against the Rohingya",
+    "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during the 2017 military operations in the northern Rakhine State.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+    "publishedAt": "2026-11-19T12:29:41.000Z"
+  },
+  {
+    "id": "5873d97881414033",
+    "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
+    "summary": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo",
+    "publishedAt": "2026-11-19T12:26:39.000Z"
+  },
+  {
+    "id": "c84927df27bbd2bf",
+    "title": "Yahoo for the loo An ode to the commode Dotty for the potty It's World Toilet Day",
+    "summary": "November 19 marks the 25th anniversary of World Toilet Day. The theme this year: \"Sanitation and Gender Equality: Safe Toilets, Equal Futures.\"",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
+    "publishedAt": "2026-11-19T12:26:31.000Z"
+  },
+  {
+    "id": "53b632b4ea42a152",
+    "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+    "summary": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
+    "publishedAt": "2026-11-19T12:26:01.000Z"
+  },
+  {
+    "id": "ee5dea581cdc457d",
+    "title": "Home of Bangladesh’s former leader Muhammad Yunus set on fire",
+    "summary": "The blaze broke out during heightened violence before ousted Prime Minister Sheikh Hasina's planned return.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss",
+    "publishedAt": "2026-11-19T12:21:33.000Z"
+  },
+  {
+    "id": "d2e8419e645009d8",
+    "title": "What is a ‘nuclear briefcase’, spotted at the APEC summit?",
+    "summary": "Vladimir Putin's special briefcase - thought to carry access to nuclear weapons - made a rare appearance in Shenzhen.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit?traffic_source=rss",
+    "publishedAt": "2026-11-19T12:11:42.000Z"
+  },
+  {
     "id": "feb249b67917e5a3",
     "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
     "summary": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
@@ -61,6 +223,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss",
     "publishedAt": "2026-11-19T11:38:39.000Z"
+  },
+  {
+    "id": "673fe163ae2a4b65",
+    "title": "Nvidia approaches Arm boss Rene Haas in search for new CEO",
+    "summary": "CEO of Cambridge-based firm viewed as leading contender to replace co-founder Jensen Huang according to reports.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas",
+    "publishedAt": "2026-11-19T11:29:01.000Z"
   },
   {
     "id": "0388a3d7701dd241",
@@ -1177,176 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
     "publishedAt": "2026-11-18T21:01:05.000Z"
-  },
-  {
-    "id": "519fd482e0eb4ae0",
-    "title": "Power surge leaves residents facing thousands in unexpected costs",
-    "summary": "Many Victorians are thousands of dollars out of pocket after a power surge in Mildura in September damaged household appliances, with some insurance claims rejected.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-19/families-struggle-with-mildura-power-surge-aftermath/107376806",
-    "publishedAt": "2026-11-18T21:00:43.000Z"
-  },
-  {
-    "id": "ee161c60c8272b65",
-    "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-    "summary": "Israeli tanks advance beyond the 'Yellow Line', forcing Palestinians to flee again in Gaza.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
-    "publishedAt": "2026-11-18T20:38:06.000Z"
-  },
-  {
-    "id": "6c38428180203553",
-    "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
-    "summary": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
-    "publishedAt": "2026-11-18T20:37:40.000Z"
-  },
-  {
-    "id": "234a1b5b2a798a2e",
-    "title": "Birmingham council granted interim ban on union jacks on lamp-posts",
-    "summary": "High court judge issues order against Raise the Colours over flags on council-owned street furniture.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours",
-    "publishedAt": "2026-11-18T20:32:58.000Z"
-  },
-  {
-    "id": "33e02f14abaadffb",
-    "title": "Economists warn Australia getting close to recession as unemployment spikes",
-    "summary": "Economists say Australia risks slipping into recession after the latest unemployment data.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-19/asx-markets-business-news-live-updates-thursday-19-november/107401802",
-    "publishedAt": "2026-11-18T20:31:18.000Z"
-  },
-  {
-    "id": "129d48b31739a5a2",
-    "title": "PlayStation suffers widespread network problems hours before release of GTA VI",
-    "summary": "Disruption comes at critical moment, with Grand Theft Auto VI one of the most eagerly anticipated titles in history.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release",
-    "publishedAt": "2026-11-18T20:28:42.000Z"
-  },
-  {
-    "id": "ee7b14dff8918da3",
-    "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
-    "summary": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-    "publishedAt": "2026-11-18T20:24:19.000Z"
-  },
-  {
-    "id": "f5974850414e0694",
-    "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-    "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
-    "publishedAt": "2026-11-18T20:14:57.000Z"
-  },
-  {
-    "id": "7545245e638bafe3",
-    "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
-    "summary": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
-    "publishedAt": "2026-11-18T20:14:04.000Z"
-  },
-  {
-    "id": "207025939c65c289",
-    "title": "Trump and Putin to meet one-on-one in China Thursday",
-    "summary": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
-    "publishedAt": "2026-11-18T20:12:20.000Z"
-  },
-  {
-    "id": "ff5046da676c68b8",
-    "title": "William and Kate meet PM Modi as they wrap up India tour",
-    "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o",
-    "publishedAt": "2026-11-18T20:07:08.000Z"
-  },
-  {
-    "id": "55cee39d438a9c69",
-    "title": "Shabana Mahmood backs ban on police marching in pride events in uniform",
-    "summary": "Home secretary says ‘routine two-tier policing’ does not exist, but public trust in impartial law enforcement must be restored.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
-    "publishedAt": "2026-11-18T20:03:50.000Z"
-  },
-  {
-    "id": "5c059a7e1028ab25",
-    "title": "GTA 6 release puts NSW's lacklustre game development funding in spotlight",
-    "summary": "Screen NSW offers up to $30,000 per video game in state funding, but developers say it is not enough, and are leaving the state in search for better offers.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-19/nsw-video-game-developers-leaving-for-more-funding-elsewhere/107390536",
-    "publishedAt": "2026-11-18T19:54:12.000Z"
-  },
-  {
-    "id": "ddaa3f50c527a164",
-    "title": "US admits ‘substantial’ change to extradition request translation for leftist activist",
-    "summary": "DoJ cites three examples of alterations from English into Spanish for James ‘Fergie’ Chambers after Guardian report.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/fergie-chambers-extradition-request-translation",
-    "publishedAt": "2026-11-18T19:45:30.000Z"
-  },
-  {
-    "id": "8a3b3d15e1ce70e9",
-    "title": "Business owner goes bankrupt after high-risk loan fails",
-    "summary": "A NSW hairdresser says she regrets using a private loan to sell her business to her friend after she failed to pay back thousands of dollars.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-19/hairdresser-bankrupt-after-vendor-finance-deal/107240256",
-    "publishedAt": "2026-11-18T19:30:13.000Z"
-  },
-  {
-    "id": "6a0c40898d549363",
-    "title": "Heavy rain and snow predicted in California as ‘atmospheric river’ moves across state",
-    "summary": "Flood advisories issued for much of Bay Area with coastal flooding and heavy surf possible in southern California.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
-    "publishedAt": "2026-11-18T19:18:18.000Z"
-  },
-  {
-    "id": "51664ed2311ddc48",
-    "title": "EU ‘to close door’ to talks on long-term UK ties until Burnham has decided on Brexit",
-    "summary": "Diplomats say piecemeal approach of resets is coming to an end and Europe wants clarity on whether Britain wants to reverse its exit.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
-    "publishedAt": "2026-11-18T19:17:19.000Z"
-  },
-  {
-    "id": "969391b425f91fde",
-    "title": "FAA administrator urges ‘lay off’ Sean Duffy for the flight stoppage: ‘Blame me’",
-    "summary": "The comments come as the top US transportation official faces scrutiny over his handling of the tech outage crisis.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/18/faa-sean-duffy-flight-stoppage",
-    "publishedAt": "2026-11-18T19:14:38.000Z"
-  },
-  {
-    "id": "80b03891e1bbd2dd",
-    "title": "Insurance giant Bupa shuts some GP clinics after buying up chains",
-    "summary": "A former patient and former receptionist accuse the insurer of neglecting a GP clinic before shutting it, something Bupa rejects.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-19/health-insurer-bupa-shuts-some-gp-clinics-after-buying-up-chains/106982854",
-    "publishedAt": "2026-11-18T19:00:25.000Z"
   }
 ]
