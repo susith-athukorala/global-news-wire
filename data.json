@@ -1,5 +1,77 @@
 [
   {
+    "id": "8c1ff0a9b2195c81",
+    "title": "EDF snaps up 1.3m more customers after Utilita takeover",
+    "summary": "Britain’s fourth-largest energy supplier brings account base up to 6m after purchase of pay-as-you-go supplier.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/19/edf-takeover-utilita-energy-suppliers-energy-bills",
+    "publishedAt": "2026-11-19T08:00:21.000Z"
+  },
+  {
+    "id": "cce6a870c6e4baa7",
+    "title": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
+    "summary": "Hegseth's new military deal with Venezuela raises questions about US influence, regional security and Maduro's removal.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
+    "publishedAt": "2026-11-19T07:52:30.000Z"
+  },
+  {
+    "id": "8fa88520efcabf8a",
+    "title": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
+    "summary": "Israeli soldiers describe the psychological toll of the genocide in Gaza, yet many express no remorse.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss",
+    "publishedAt": "2026-11-19T07:51:03.000Z"
+  },
+  {
+    "id": "d33ae63fcc149668",
+    "title": "Charting the world’s biggest IPOs as Anthropic overtakes SpaceX",
+    "summary": "The AI company behind Claude raised $81.3bn in the largest initial public offering ever, at a $1.5 trillion valuation.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/charting-the-worlds-biggest-ipos-as-anthropic-overtakes-spacex?traffic_source=rss",
+    "publishedAt": "2026-11-19T07:36:08.000Z"
+  },
+  {
+    "id": "72d9f8d8fb928bef",
+    "title": "For Putin, sharing a spotlight with Trump and Xi boosts his profile on the global stage",
+    "summary": "For Russian President Vladimir Putin, the three-way meeting with Donald Trump and Xi Jinping offers a much-coveted chance for the Kremlin leader to demonstrate that he heads a superpower on a par with the United States and China.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/putin-sharing-spotlight-trump-xi-boosts-profile-global-138265640",
+    "publishedAt": "2026-11-19T07:29:39.000Z"
+  },
+  {
+    "id": "bc659a943d4b30ec",
+    "title": "North Korea is expanding its original uranium enrichment facility, UN nuclear watchdog says",
+    "summary": "The U.N. nuclear watchdog says that North Korea has been expanding its original uranium enrichment facility at its Yongbyon nuclear complex.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/north-korea-expanding-original-uranium-enrichment-facility-nuclear-138276975",
+    "publishedAt": "2026-11-19T07:29:33.000Z"
+  },
+  {
+    "id": "e774f6afe94a5404",
+    "title": "Wreck of Australia's first warship built at home found 128 years after sinking",
+    "summary": "The wreck of Australia’s first Australian-built warship, HMCS Spitfire, has been found 128 years to the day after it sank off the country’s north coast.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/wreck-australias-warship-built-home-found-128-years-138278608",
+    "publishedAt": "2026-11-19T07:29:29.000Z"
+  },
+  {
+    "id": "b2bd0db824513d9f",
+    "title": "The UK and EU are holding a summit to patch up ties after their bitter Brexit divorce",
+    "summary": "Prime Minister Andy Burnham is meeting EU officials in Brussels on Friday to discuss closer ties between the UK and the bloc that it left in 2020.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/uk-eu-holding-summit-patch-ties-after-bitter-138278421",
+    "publishedAt": "2026-11-19T07:25:50.000Z"
+  },
+  {
     "id": "03a269265f7bba42",
     "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
     "summary": "The US blockade of Iranian ports has a crippling effect on the economy, but Tehran insists its economy can survive.",
@@ -117,6 +189,15 @@
     "publishedAt": "2026-11-19T06:00:20.000Z"
   },
   {
+    "id": "676ff91fd9e76f4d",
+    "title": "Grade I interiors, gold bars, cost fears: Bank of England faces headache over £160m revamp",
+    "summary": "UK central bank will want to avoid echoes of expensive US Federal Reserve revamp that led to Trump clash.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/19/bank-of-england-revamp",
+    "publishedAt": "2026-11-19T06:00:19.000Z"
+  },
+  {
     "id": "41281cef2db6c182",
     "title": "Tulip Siddiq says she is considering legal action against former Bangladesh leader",
     "summary": "Former minister, who was sentenced to prison in Bangladesh in her absence, says she was victim of ‘malicious prosecution’",
@@ -124,6 +205,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/19/tulip-siddiq-says-she-is-considering-legal-action-against-former-bangladesh-leader",
     "publishedAt": "2026-11-19T06:00:18.000Z"
+  },
+  {
+    "id": "5cdd8ef9a5f11d2a",
+    "title": "Flexibility more important to jobseekers than pay, global survey finds",
+    "summary": "A poll of more than 40,000 workers found that a better work-life balance was the main reason people consider leaving their jobs.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/19/flexibility-more-important-to-jobseekers-than-pay-global-survey-finds",
+    "publishedAt": "2026-11-19T05:45:18.000Z"
   },
   {
     "id": "07e6ce0bedeab033",
@@ -1258,95 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
     "publishedAt": "2026-11-18T16:19:41.000Z"
-  },
-  {
-    "id": "b3d2db5385439efa",
-    "title": "'Best night' of Dáithí's life all thanks to organ donation",
-    "summary": "Dáithí Mac Gabhann walked out with Republic of Ireland's Troy Parrott as Ireland won 3-0 over Kosovo in the Nations League.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx5y1vq89lypo",
-    "publishedAt": "2026-11-18T16:09:29.000Z"
-  },
-  {
-    "id": "017ffa83242fd131",
-    "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-    "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
-    "publishedAt": "2026-11-18T16:05:32.000Z"
-  },
-  {
-    "id": "8db619b3bbc255e5",
-    "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
-    "summary": "Zookeepers say she cannot have surgery but are providing fluids and supportive care to help her pass the hat.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo",
-    "publishedAt": "2026-11-18T16:05:26.000Z"
-  },
-  {
-    "id": "531745f357f9547c",
-    "title": "ICE offers firm operating deportation flights windfall and secrecy, data shows",
-    "summary": "Exclusive: Trump administration continues to award deals to private contractor CSI Aviation and agreed to remove ICE flights from tracking websites.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/ice-deportation-flights-csi-deal",
-    "publishedAt": "2026-11-18T16:00:06.000Z"
-  },
-  {
-    "id": "35a68083c8ac401b",
-    "title": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
-    "summary": "Cal-Maine reports avian influenza at Florida site, with 2.7 percent of its total flock affected.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak?traffic_source=rss",
-    "publishedAt": "2026-11-18T15:57:35.000Z"
-  },
-  {
-    "id": "9df76955d6a92ede",
-    "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
-    "summary": "Jeffries is set to become one of Trump’s most prominent opponents for final two years of his presidency.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
-    "publishedAt": "2026-11-18T15:55:22.000Z"
-  },
-  {
-    "id": "f21f255fd91ab703",
-    "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
-    "summary": "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happen.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
-    "publishedAt": "2026-11-18T15:53:10.000Z"
-  },
-  {
-    "id": "f19ef6b75cbfa748",
-    "title": "Who speaks for Europe abroad? Not its top diplomat",
-    "summary": "EU leaders’ decision to exclude the bloc’s foreign policy chief from their negotiating lineup for Russia peace talks reveals how national turf wars undermine Brussels’ global ambitions.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/18/who-speaks-for-europe-abroad-not-its-top-diplomat",
-    "publishedAt": "2026-11-18T15:40:05.000Z"
-  },
-  {
-    "id": "146085dac4ffd258",
-    "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
-    "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo",
-    "publishedAt": "2026-11-18T15:39:57.000Z"
-  },
-  {
-    "id": "9458e9be620ec64c",
-    "title": "Anthony Albanese defies critics for Apec summit photo with Vladimir Putin",
-    "summary": "Despite pleas from pro-Ukraine Australians, the prime minister accepts wishes of Chinese hosts with group picture.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/18/anthony-albanese-defies-critics-for-apec-summit-photo-with-vladimir-putin",
-    "publishedAt": "2026-11-18T15:39:11.000Z"
   }
 ]
