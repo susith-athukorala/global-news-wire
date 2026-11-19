@@ -1,5 +1,95 @@
 [
   {
+    "id": "b8fc9ad90e7d4763",
+    "title": "Two-hour ambulance handover limit missed more than 2,000 times",
+    "summary": "Achieving the two-hour protocol over the winter will be \"very challenging\", says a senior doctor.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm752zx62n62o",
+    "publishedAt": "2026-11-19T00:01:29.000Z"
+  },
+  {
+    "id": "8a80a14053f22bd3",
+    "title": "Mike Lynch’s superyacht had unidentified vulnerability to high winds, report finds",
+    "summary": "Bayesian, which sank off Sicily killing seven including tech tycoon, had not been fully assessed, say investigators.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/19/mike-lynch-superyacht-bayesian-vulnerability-to-high-winds-report",
+    "publishedAt": "2026-11-19T00:01:11.000Z"
+  },
+  {
+    "id": "d458a1da01c44a78",
+    "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+    "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno",
+    "publishedAt": "2026-11-19T00:00:59.000Z"
+  },
+  {
+    "id": "56673e8fb67a197f",
+    "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
+    "summary": "The five-year-old artificial intelligence powerhouse priced its initial public offering at $83 a share, shrugging off growing concern about a possible AI bubble and volatility in tech stocks.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+    "publishedAt": "2026-11-18T23:54:56.000Z"
+  },
+  {
+    "id": "d2cb25e8bf7044cb",
+    "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+    "summary": "Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides home.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+    "publishedAt": "2026-11-18T23:53:51.000Z"
+  },
+  {
+    "id": "584db0d8b9b3e36b",
+    "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+    "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+    "publishedAt": "2026-11-18T23:44:27.000Z"
+  },
+  {
+    "id": "32224de2dbb70a71",
+    "title": "Migrant boat capsizes off Senegal, leaving at least one dead",
+    "summary": "Incident comes days after another boat capsized in Senegalese waters, and Spain declared a migration emergency.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss",
+    "publishedAt": "2026-11-18T23:36:23.000Z"
+  },
+  {
+    "id": "b0717db2279dfd24",
+    "title": "NASA’s Voyager 1 hits record one light-day distance, 50 years after launch",
+    "summary": "Voyager 1 reaches one light-day from Earth, marking a historic milestone nearly 50 years after its 1977 launch.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss",
+    "publishedAt": "2026-11-18T23:35:12.000Z"
+  },
+  {
+    "id": "c66416daa819ed69",
+    "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
+    "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o",
+    "publishedAt": "2026-11-18T23:28:03.000Z"
+  },
+  {
+    "id": "a2c3574e4f0cbe70",
+    "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+    "summary": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+    "publishedAt": "2026-11-18T23:25:25.000Z"
+  },
+  {
     "id": "822990ef2a395e91",
     "title": "Brazil's Senate approves Lula's $10 billion fiscal package after costly election spending",
     "summary": "Brazil’s Senate approved on Wednesday a plan by President Luiz In&aacute;cio Lula da Silva to control his government’s spending and increase revenues after his reelection late October.",
@@ -18,6 +108,24 @@
     "publishedAt": "2026-11-18T23:04:06.000Z"
   },
   {
+    "id": "29dd76ade58aa7f7",
+    "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+    "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo",
+    "publishedAt": "2026-11-18T23:01:09.000Z"
+  },
+  {
+    "id": "aee112598660f869",
+    "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
+    "summary": "The US Treasury has accused Hezbollah of using charitable organisations as 'fronts' for fundraising.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
+    "publishedAt": "2026-11-18T22:56:19.000Z"
+  },
+  {
     "id": "ffaf75f088d156ed",
     "title": "GTA 6 bedazzles gamers in Australia with ‘fully lived in, breathable world’",
     "summary": "Players can renovate houses, fix cars, lift weights and follow the story in Grand Theft Auto VI’s Miami-inspired Vice City.",
@@ -25,6 +133,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
     "publishedAt": "2026-11-18T22:48:46.000Z"
+  },
+  {
+    "id": "bb17ea5596420ecc",
+    "title": "UK's Prince Harry sees 'big separation' between US administration, public on support for Ukraine",
+    "summary": "Britain’s Prince Harry offered a veiled criticism of the U.S. government’s policy toward Ukraine, saying in an interview released late Wednesday that he believes there is a “big separation” between the U.S. administration’s stance and that of the Ameri.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/uks-prince-harry-sees-big-separation-us-administration-138263585",
+    "publishedAt": "2026-11-18T22:40:16.000Z"
   },
   {
     "id": "94287023c76321c9",
@@ -360,6 +477,15 @@
     "publishedAt": "2026-11-18T18:00:04.000Z"
   },
   {
+    "id": "0e08297d4dd42269",
+    "title": "Early data suggests transparent auction pricing is working",
+    "summary": "After a radical law change publishing \"reserve\" prices, the first month of data shows sale prices are close to what was advertised.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-19/transparent-auction-pricing-is-working-early-data-suggests/107397792",
+    "publishedAt": "2026-11-18T18:00:00.000Z"
+  },
+  {
     "id": "6addfade593ec8e1",
     "title": "Cheese, pet passports and youth mobility: what’s in the UK-EU ‘relationship reset’ draft?",
     "summary": "Leaked text of 72-paragraph second draft shows agreement has largely been reached before expected signoff on Friday.",
@@ -610,6 +736,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/money/2026/nov/18/private-renters-in-england-have-you-struggled-to-get-your-deposit-back",
     "publishedAt": "2026-11-18T16:21:21.000Z"
+  },
+  {
+    "id": "3aaf5d92c0730172",
+    "title": "Labour faces double blow over UK fossil fuel projects",
+    "summary": "Large North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
+    "publishedAt": "2026-11-18T16:19:41.000Z"
   },
   {
     "id": "b3d2db5385439efa",
@@ -1213,140 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
     "publishedAt": "2026-11-18T11:57:09.000Z"
-  },
-  {
-    "id": "07fc8996b6941223",
-    "title": "Former U.S. ambassador on Trump's joint summit with leaders of China and Russia",
-    "summary": "NPR's Leila Fadel speaks to Nicholas Burns, former U.S. ambassador to China and NATO, about President Trump's planned meeting with the leaders of China and Russia.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6044067/former-u-s-ambassador-on-trumps-joint-summit-with-leaders-of-china-and-russia",
-    "publishedAt": "2026-11-18T11:57:06.000Z"
-  },
-  {
-    "id": "0965ee70dc243733",
-    "title": "Cameron Bancroft claims entire Australian team knew about ‘sandpapergate’",
-    "summary": "Bancroft contradicts Pat Cummins and admits he lied to protect Cricket Australia's investigation into the scandal.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/18/cameron-bancroft-claims-entire-australian-team-knew-about-sandpapergate?traffic_source=rss",
-    "publishedAt": "2026-11-18T11:51:26.000Z"
-  },
-  {
-    "id": "16292c916a375f49",
-    "title": "Life insurance: what is it and do you need it?",
-    "summary": "It could protect you and your family in the event of death or accident – and in some cases it costs no more than a TV streaming service.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/18/life-insurance-explained-types-of-cover",
-    "publishedAt": "2026-11-18T11:50:33.000Z"
-  },
-  {
-    "id": "4b1632ddd3fe6465",
-    "title": "UK inflation rises to year high and keeps risk of second straight rate hike alive",
-    "summary": "Inflation in the U.K. has risen rose to its highest level for a year.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/uk-inflation-rises-year-high-possibility-straight-rate-138242229",
-    "publishedAt": "2026-11-18T11:50:15.000Z"
-  },
-  {
-    "id": "f087d7c7855c3ac1",
-    "title": "Who to watch in Spain's election race",
-    "summary": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no",
-    "publishedAt": "2026-11-18T11:44:25.000Z"
-  },
-  {
-    "id": "45a560c251c06a1d",
-    "title": "India lodges complaint against Palestinian footballer after under-17 match",
-    "summary": "Palestinian player Taha Soueidan 'deeply surprised' by criticism following accusations that he made a racist gesture.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/18/india-lodges-complaint-against-palestinian-footballer-after-under-17-match?traffic_source=rss",
-    "publishedAt": "2026-11-18T11:32:24.000Z"
-  },
-  {
-    "id": "2ffbc596fcf1a1df",
-    "title": "Tim Hortons accused of sharing user data with firm linked to Israeli army",
-    "summary": "Research into Tim Hortons’s app finds that it began transmitting information to Forter as soon as it opened.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/tim-hortons-app-sharing-extensive-data-with-israeli-military-linked-firm?traffic_source=rss",
-    "publishedAt": "2026-11-18T11:30:34.000Z"
-  },
-  {
-    "id": "b11e64b6412dd0aa",
-    "title": "Bancroft sandpaper claims heap pressure on Cummins",
-    "summary": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro",
-    "publishedAt": "2026-11-18T11:12:46.000Z"
-  },
-  {
-    "id": "e94da4f7dbdc7db0",
-    "title": "Yvette Cooper announces new health support for most vulnerable people in England",
-    "summary": "Health secretary says 500,000 will benefit initially from ‘downpayment’ on PM’s national care service pledge.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/18/yvette-cooper-health-support-vulnerable-people-england",
-    "publishedAt": "2026-11-18T11:08:32.000Z"
-  },
-  {
-    "id": "858ed1b42a5ae004",
-    "title": "Gun control activist faces long recovery after Washington DC mass shooting",
-    "summary": "Susan Thurston Hamerski was shot in the face by gunman who killed one and injured several others in Logan Circle.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/washington-dc-logan-circle-shooting-activist",
-    "publishedAt": "2026-11-18T11:00:57.000Z"
-  },
-  {
-    "id": "e7b98edb127dda91",
-    "title": "Fresh off recent wins, the left has a new goal: get AOC to run for president",
-    "summary": "With its policy priorities more mainstream than ever, the left is directing its momentum toward 2028.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/presidential-election-aoc-candidate",
-    "publishedAt": "2026-11-18T11:00:57.000Z"
-  },
-  {
-    "id": "de281466a05de55a",
-    "title": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
-    "summary": "With realism that defies belief, this vast game easily accommodates its trademark foulmouthed, OTT chaos – as well as new empathy for the fugitive couple at its centre.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
-    "publishedAt": "2026-11-18T11:00:55.000Z"
-  },
-  {
-    "id": "cc65b3599b80e1b9",
-    "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
-    "summary": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
-    "publishedAt": "2026-11-18T11:00:00.000Z"
-  },
-  {
-    "id": "c03ba45f39237778",
-    "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
-    "summary": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
-    "publishedAt": "2026-11-18T11:00:00.000Z"
-  },
-  {
-    "id": "2e0b6944471dc67d",
-    "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
-    "summary": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo",
-    "publishedAt": "2026-11-18T10:53:21.000Z"
   }
 ]
