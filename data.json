@@ -1,5 +1,32 @@
 [
   {
+    "id": "cfe5120ba72936b3",
+    "title": "For some patients, psychedelic treatment brings new troubles in its aftermath",
+    "summary": "Psychedelics could transform mental health care, but some advocates and researchers say there needs to be more focus on the minority of people with persistent troubles after using these drugs.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/19/nx-s1-6043791/for-some-patients-psychedelic-treatment-brings-new-troubles-in-its-aftermath",
+    "publishedAt": "2026-11-19T23:07:17.000Z"
+  },
+  {
+    "id": "9b2835c8ee7502e7",
+    "title": "California probing whether China improperly acquired Nvidia technology",
+    "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no",
+    "publishedAt": "2026-11-19T23:04:30.000Z"
+  },
+  {
+    "id": "34d33cfc51a7ffb0",
+    "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+    "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo",
+    "publishedAt": "2026-11-19T22:48:22.000Z"
+  },
+  {
     "id": "7d68e8a5be2d8b28",
     "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
     "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
@@ -16,6 +43,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
     "publishedAt": "2026-11-19T22:05:18.000Z"
+  },
+  {
+    "id": "dbbd568913ba5e0e",
+    "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
+    "summary": "US House committee releases chip export data amid scrutiny of former Nvidia CEO's alleged links to a Chinese spy.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
+    "publishedAt": "2026-11-19T21:58:27.000Z"
   },
   {
     "id": "4447f5511cca0269",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
     "publishedAt": "2026-11-19T11:07:37.000Z"
-  },
-  {
-    "id": "f134fe4f942fcc5e",
-    "title": "Race to replant five South African baobabs after export blocked",
-    "summary": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
-    "publishedAt": "2026-11-19T11:03:24.000Z"
-  },
-  {
-    "id": "3abb8e70f06f511a",
-    "title": "FIFA confirms Diallo, Tashima as Infantino’s challengers at 2027 election",
-    "summary": "French football chief Philippe Diallo and Japan's Kozo Tashima will be the only candidates to run for FIFA presidency.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss",
-    "publishedAt": "2026-11-19T10:42:53.000Z"
-  },
-  {
-    "id": "de4920d03fcc2309",
-    "title": "FIFA unveils Diallo and Tashima as challengers to Infantino's presidency",
-    "summary": "The March 2027 election will be the first time Mr Infantino faces a challenger after being re-elected without opposition in 2023.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-19/fifa-president-challenge-candidates-infantino-diallo-tashima/107406458",
-    "publishedAt": "2026-11-19T10:42:23.000Z"
-  },
-  {
-    "id": "82c4e603c2731f40",
-    "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
-    "summary": "Several African stars feature.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo",
-    "publishedAt": "2026-11-19T10:32:10.000Z"
   }
 ]
