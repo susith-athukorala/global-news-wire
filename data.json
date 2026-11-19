@@ -1,5 +1,113 @@
 [
   {
+    "id": "8eeed620a2ddf0e7",
+    "title": "Spiked nightcaps and invitations to strangers: how Philip Young sexually abused his wife for 15 years",
+    "summary": "Joanne Young, who has waived anonymity, was subjected to years of drugging and rape by former Swindon councillor, who invited other men to assault her.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/19/philip-young-sexual-abuse-spiked-nightcaps-strangers-joanne-young",
+    "publishedAt": "2026-11-19T16:00:06.000Z"
+  },
+  {
+    "id": "d4f3a86a03fa8cd6",
+    "title": "‘It stings to come close’: Louisiana Democrat’s narrow failure to make it 57 Senate seats",
+    "summary": "Jamie Davis falls just short as Democrats across south wonder whether blue wave could have been even bigger.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/louisiana-senate-seat-democrats-jamie-davis",
+    "publishedAt": "2026-11-19T16:00:06.000Z"
+  },
+  {
+    "id": "584db0d8b9b3e36b",
+    "title": "Anthropic raises $81bn in record-breaking stock market debut",
+    "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+    "publishedAt": "2026-11-19T15:58:58.000Z"
+  },
+  {
+    "id": "4dffa5bc2cfc8f13",
+    "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+    "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+    "publishedAt": "2026-11-19T15:50:03.000Z"
+  },
+  {
+    "id": "5d8913f71b9fd999",
+    "title": "‘Pot luck service’: Royal Mail on course to miss delivery targets for fourth year in a row",
+    "summary": "Citizens Advice criticises company for failing to meet Ofcom requirements while reporting increased revenue.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/19/royal-mail-to-miss-delivery-targets-fourth-year-in-row",
+    "publishedAt": "2026-11-19T15:42:33.000Z"
+  },
+  {
+    "id": "bfad6145e3fb8837",
+    "title": "‘New page in history?’ Xi, Trump and Putin summit was more of a footnote",
+    "summary": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agenda.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
+    "publishedAt": "2026-11-19T15:35:01.000Z"
+  },
+  {
+    "id": "b7dfe4c137ba76ff",
+    "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+    "summary": "The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+    "publishedAt": "2026-11-19T15:24:51.000Z"
+  },
+  {
+    "id": "db18c3c5862651cb",
+    "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+    "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+    "publishedAt": "2026-11-19T15:23:34.000Z"
+  },
+  {
+    "id": "fdaee6f33560203a",
+    "title": "More support for households reliant on heating oil",
+    "summary": "North Northamptonshire Council is encouraging eligible residents to apply for more support.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o",
+    "publishedAt": "2026-11-19T15:22:31.000Z"
+  },
+  {
+    "id": "c189f1a985e3a3a9",
+    "title": "San Francisco breaks rain record as atmospheric river buffets California",
+    "summary": "Planes temporarily grounded, roads flooded and tens of thousands lose power, with evacuations in south of state.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/california-atmospheric-river-san-francisco-rain-record",
+    "publishedAt": "2026-11-19T15:21:54.000Z"
+  },
+  {
+    "id": "5107e59575ddcbbf",
+    "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+    "summary": "Andy Burnham due in Brussels on Friday but sticking points on food rules and tuition fees remain unresolved.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+    "publishedAt": "2026-11-19T15:18:12.000Z"
+  },
+  {
+    "id": "e78cdb2b70ffc0b8",
+    "title": "Putin pitches Arctic route, calls for investment: Will it work?",
+    "summary": "Analysts say some Asian investors may show interest, but the route is unlikely to be a viable global shipping lane.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work?traffic_source=rss",
+    "publishedAt": "2026-11-19T15:16:43.000Z"
+  },
+  {
     "id": "508d5655484970ee",
     "title": "Covid inquiry urges UK–Ireland pandemic co-ordination in future",
     "summary": "In its latest report into the programme of test and trace, it said cooperation was needed \"to ensure that border control measures are effective and operable in practice\".",
@@ -25,6 +133,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/university-lecturer-serbias-student-led-movement-elected-parliament-138286308",
     "publishedAt": "2026-11-19T14:51:38.000Z"
+  },
+  {
+    "id": "66e1b4360fa11064",
+    "title": "Somalia orders the UAE ambassador to leave as a diplomatic dispute escalates",
+    "summary": "Somalia’s government has ordered the United Arab Emirates ambassador to leave the country within 72 hours.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/somalia-orders-uae-ambassador-leave-diplomatic-dispute-escalates-138288436",
+    "publishedAt": "2026-11-19T14:51:20.000Z"
   },
   {
     "id": "9cd5e9763e4dce4b",
@@ -70,6 +187,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
     "publishedAt": "2026-11-19T14:15:15.000Z"
+  },
+  {
+    "id": "8d4538a5bc803e2f",
+    "title": "Migrant boat capsizes off Senegal's coast, leaving 1 person dead and several missing",
+    "summary": "A migrant boat capsized off Senegal's coast, resulting in one death and several missing people, according to local officials.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/migrant-boat-capsizes-off-senegals-coast-leaving-1-138286309",
+    "publishedAt": "2026-11-19T14:03:39.000Z"
   },
   {
     "id": "dc1cead1523c47f2",
@@ -288,6 +414,15 @@
     "publishedAt": "2026-11-19T12:45:07.000Z"
   },
   {
+    "id": "a2c3574e4f0cbe70",
+    "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+    "summary": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+    "publishedAt": "2026-11-19T12:40:46.000Z"
+  },
+  {
     "id": "cce4eee7a68c5b2b",
     "title": "Wife of Trump ally Todd Blanche promoted treatments with unproven medical claims",
     "summary": "Kristine Blanche, named to US health advisory role, offered purported treatments for Epstein-Barr virus and HPV.",
@@ -504,6 +639,15 @@
     "publishedAt": "2026-11-19T11:18:48.000Z"
   },
   {
+    "id": "b8fc9ad90e7d4763",
+    "title": "'Dad was deteriorating': Two-hour ambulance target missed more than 2,000 times",
+    "summary": "The Release to Rescue initiative was introduced this year to cut ambulance delays and speed up handover times.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm752zx62n62o",
+    "publishedAt": "2026-11-19T11:14:38.000Z"
+  },
+  {
     "id": "144f0711e6f6d6a5",
     "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
     "summary": "Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systemic betrayal of Kardell Lomas before her death recognised.",
@@ -601,6 +745,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
     "publishedAt": "2026-11-19T10:05:33.000Z"
+  },
+  {
+    "id": "7f5dccfcc1fb8c9b",
+    "title": "Crimea bridge has been attacked again, says Russian-installed governor",
+    "summary": "Assessment of damage under way, days after two attacks that destroyed road section of key bridge across Kerch strait linking annexed peninsula to Russia.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+    "publishedAt": "2026-11-19T10:03:42.000Z"
   },
   {
     "id": "21379e0f60462e40",
@@ -1195,158 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
     "publishedAt": "2026-11-19T02:30:12.000Z"
-  },
-  {
-    "id": "90d8037f17be5b0e",
-    "title": "ICJ to rule on Rohingya genocide case against Myanmar",
-    "summary": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
-    "publishedAt": "2026-11-19T02:10:43.000Z"
-  },
-  {
-    "id": "253230d17cbe0959",
-    "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-    "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
-    "publishedAt": "2026-11-19T01:56:28.000Z"
-  },
-  {
-    "id": "968788ae22a13a68",
-    "title": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk",
-    "summary": "Australian fashion chain becomes latest retailer in trouble after David Jones, Cue and Veronika Maine.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/19/general-pants-co-enters-voluntary-administration-jobs-at-risk",
-    "publishedAt": "2026-11-19T01:46:21.000Z"
-  },
-  {
-    "id": "a23a354e9c43a50a",
-    "title": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
-    "summary": "A new report alleges that injuries on Epstein's body were overlooked by medical examiners during his 2019 autopsy.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
-    "publishedAt": "2026-11-19T01:17:08.000Z"
-  },
-  {
-    "id": "dc8971aae4da6e37",
-    "title": "Elon Musk claims ‘I’m not Maga’ and says he regrets vast sums to back Republicans",
-    "summary": "Musk, who aligned with Trump and was frequent White House guest, says he feels ‘pretty foolish’ about record midterm spending.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
-    "publishedAt": "2026-11-19T01:07:51.000Z"
-  },
-  {
-    "id": "da28dacabaf0124f",
-    "title": "Crimean Bridge attacked again, Russian official says",
-    "summary": "The head of Crimea said traffic was suspended after another attack on the link between mainland Russia and the occupied territory.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo",
-    "publishedAt": "2026-11-19T01:05:03.000Z"
-  },
-  {
-    "id": "eef9406edacd92a1",
-    "title": "Beau Lamarre-Condon’s testimony about Jesse Baird and Luke Davies’ deaths ‘fanciful in the extreme’, crown alleges",
-    "summary": "Prosecutor argues accused could be convicted on strength of forensic and ballistics evidence alone in closing statement.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/19/beau-lamarre-condon-jesse-baird-luke-davies-ntwnfb",
-    "publishedAt": "2026-11-19T01:00:25.000Z"
-  },
-  {
-    "id": "beba5590c387073c",
-    "title": "Analysts surprised as unemployment rate surges to 4.9pc in October",
-    "summary": "The number of people in employment fell by 43,500 last month and the number of officially unemployed increased by 17,800, in seasonally adjusted terms.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-19/unemployment-rate-jumps-in-october-in-australia/107399076",
-    "publishedAt": "2026-11-19T00:59:34.000Z"
-  },
-  {
-    "id": "94d1cffd8a5c3802",
-    "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-    "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo",
-    "publishedAt": "2026-11-19T00:49:19.000Z"
-  },
-  {
-    "id": "bef9892dbf553562",
-    "title": "Unemployment rate jumps to 4.9% – the highest level in five years",
-    "summary": "Jobless rate rises from 4.7% to 4.9% for October, latest bureau of statistics figures reveal.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
-    "publishedAt": "2026-11-19T00:47:27.000Z"
-  },
-  {
-    "id": "a72278ca30f59e91",
-    "title": "German FA backs France’s Diallo for FIFA presidency",
-    "summary": "Incumbent Gianni Infantino has resisted repeated calls to resign, citing overwhelming global support.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/german-fa-backs-frances-diallo-for-fifa-presidency?traffic_source=rss",
-    "publishedAt": "2026-11-19T00:44:50.000Z"
-  },
-  {
-    "id": "c4a653fe6dabd51e",
-    "title": "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
-    "summary": "Farmers are receiving higher payments but are producing far less milk and also face rising prices for hay.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss",
-    "publishedAt": "2026-11-19T00:40:01.000Z"
-  },
-  {
-    "id": "e186ff9e0d20379b",
-    "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
-    "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do",
-    "publishedAt": "2026-11-19T00:38:52.000Z"
-  },
-  {
-    "id": "ac692c165ff89b04",
-    "title": "Somalia’s constitutional overhaul tests its fragile federal bargain",
-    "summary": "Mohamud’s reforms promise stronger government, but regional resistance and violence threaten the fragile deal of 2012.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss",
-    "publishedAt": "2026-11-19T00:37:03.000Z"
-  },
-  {
-    "id": "4e09e8eb8125ea11",
-    "title": "Anthropic raises $81.3bn in biggest IPO of all-time",
-    "summary": "AI giant prices shares at $83 in blockbuster market debut.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
-    "publishedAt": "2026-11-19T00:20:03.000Z"
-  },
-  {
-    "id": "d8abb0b94743f7a0",
-    "title": "Unvaccinated Pennsylvania resident dies amid historic US measles resurgence",
-    "summary": "Pennsylvania records eighth measles death of 2026, a day after the US formally loses its 26-year elimination status.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence?traffic_source=rss",
-    "publishedAt": "2026-11-19T00:14:40.000Z"
-  },
-  {
-    "id": "a03b6991851b525b",
-    "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
-    "summary": "The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
-    "publishedAt": "2026-11-19T00:11:40.000Z"
   }
 ]
