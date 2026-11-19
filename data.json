@@ -1,5 +1,86 @@
 [
   {
+    "id": "5d1fe480c3ce0383",
+    "title": "Inside Greenland’s push for fine dining, from polar night logistics to 'kaffemik' traditions",
+    "summary": "Greenland's chefs are transforming traditional Inuit ingredients into modern fine-dining experiences.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/inside-greenlands-push-fine-dining-polar-night-logistics-138276973",
+    "publishedAt": "2026-11-19T06:10:41.000Z"
+  },
+  {
+    "id": "82b67a498d5a0c5e",
+    "title": "Developer accused of 'environmental vandalism'",
+    "summary": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo",
+    "publishedAt": "2026-11-19T06:09:25.000Z"
+  },
+  {
+    "id": "855f26820aebedf4",
+    "title": "In the land that gave us 'cinema,' activist archivists are bringing back old home movies",
+    "summary": "Archiving activists who roam from town to town in France are making people's forgotten home movies great again by preserving them digitally.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/land-gave-us-cinema-activist-archivists-bringing-back-138278144",
+    "publishedAt": "2026-11-19T06:07:51.000Z"
+  },
+  {
+    "id": "177817c71f85433b",
+    "title": "Ecuadorian footballer gets eight-year ban for throwing rock at referee",
+    "summary": "Jhon Perlaza threw a stone that struck an assistant referee, who later required surgery, during a third-tier match.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/19/ecuadorian-footballer-gets-eight-year-ban-for-throwing-rock-at-referee?traffic_source=rss",
+    "publishedAt": "2026-11-19T06:06:23.000Z"
+  },
+  {
+    "id": "0567c4f26961cac7",
+    "title": "Leftover pumpkins help deliver 1,000th free meal",
+    "summary": "\"It's a really tough time for a lot of people,\" a sustainable food organisation says.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno",
+    "publishedAt": "2026-11-19T06:04:30.000Z"
+  },
+  {
+    "id": "7a017463e99c8d89",
+    "title": "Car use in London forecast to rise by 10% in next decade",
+    "summary": "Modelling in draft of 10-year London plan threatens Sadiq Khan’s promises on improving air quality.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/19/car-use-in-london-forecast-to-rise-by-10-in-next-decade",
+    "publishedAt": "2026-11-19T06:00:20.000Z"
+  },
+  {
+    "id": "41281cef2db6c182",
+    "title": "Tulip Siddiq says she is considering legal action against former Bangladesh leader",
+    "summary": "Former minister, who was sentenced to prison in Bangladesh in her absence, says she was victim of ‘malicious prosecution’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/19/tulip-siddiq-says-she-is-considering-legal-action-against-former-bangladesh-leader",
+    "publishedAt": "2026-11-19T06:00:18.000Z"
+  },
+  {
+    "id": "07e6ce0bedeab033",
+    "title": "‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking",
+    "summary": "HMCS Spitfire was commissioned by colonial government to protect against Russian warships during the Crimean war.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
+    "publishedAt": "2026-11-19T05:22:38.000Z"
+  },
+  {
+    "id": "9649f214a30e5abb",
+    "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
+    "summary": "World court to issue key verdict in its first genocide ruling in more than a decade.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
+    "publishedAt": "2026-11-19T05:13:13.000Z"
+  },
+  {
     "id": "5aaa0462f285a93d",
     "title": "Meet Phil, the bar-tailed godwit tracked on a 6,800-mile round trip to Siberia",
     "summary": "Scientists use lightweight tracker to map wading bird’s extraordinary migration from Norfolk to the Arctic and back.",
@@ -342,6 +423,15 @@
     "publishedAt": "2026-11-18T23:44:27.000Z"
   },
   {
+    "id": "d116a97c5f1a7a3f",
+    "title": "The seven Anthropic founders who are about to become multi-billionaires",
+    "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
+    "publishedAt": "2026-11-18T23:42:07.000Z"
+  },
+  {
     "id": "32224de2dbb70a71",
     "title": "Migrant boat capsizes off Senegal, leaving at least one dead",
     "summary": "Incident comes days after another boat capsized in Senegalese waters, and Spain declared a migration emergency.",
@@ -594,6 +684,15 @@
     "publishedAt": "2026-11-18T20:32:58.000Z"
   },
   {
+    "id": "33e02f14abaadffb",
+    "title": "Economists warn Australia getting close to recession as unemployment spikes",
+    "summary": "Economists say Australia risks slipping into recession after the latest unemployment data.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-19/asx-markets-business-news-live-updates-thursday-19-november/107401802",
+    "publishedAt": "2026-11-18T20:31:18.000Z"
+  },
+  {
     "id": "129d48b31739a5a2",
     "title": "PlayStation suffers widespread network problems hours before release of GTA VI",
     "summary": "Disruption comes at critical moment, with Grand Theft Auto VI one of the most eagerly anticipated titles in history.",
@@ -727,6 +826,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report",
     "publishedAt": "2026-11-18T18:43:37.000Z"
+  },
+  {
+    "id": "cf060697885b97d4",
+    "title": "The ambitions behind Trump, Xi and Putin's unprecedented meeting",
+    "summary": "Presidents Donald Trump, Xi Jinping and Vladimir Putin are about to sit down together for the first time. So what should we expect from this historic meeting?",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-19/what-trump-putin-xi-want-when-they-meet/107390546",
+    "publishedAt": "2026-11-18T18:41:53.000Z"
   },
   {
     "id": "7512ebe45fae1d9e",
@@ -1240,113 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/18/spanish-court-investigates-julio-iglesias-two-women-allegations",
     "publishedAt": "2026-11-18T14:55:32.000Z"
-  },
-  {
-    "id": "5e370765aef44944",
-    "title": "US official says Hormuz insurance hits $64m: Is the strait really open?",
-    "summary": "Hung Cao says shipping insurance costs have soared to $64m for a single transit, challenging claims the strait is open.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open?traffic_source=rss",
-    "publishedAt": "2026-11-18T14:47:34.000Z"
-  },
-  {
-    "id": "231a189cb27a66f1",
-    "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-    "summary": "US secretary of state’s comments come as vulnerability in programming language Java highlighted.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-    "publishedAt": "2026-11-18T14:46:49.000Z"
-  },
-  {
-    "id": "018e3c2176d1aa94",
-    "title": "‘Plume’ of decomposing garbage, gas prompts emergency health order for LA county residents",
-    "summary": "Landfill operators have been ordered to provide hotel accommodations and other care to area residents.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/los-angeles-landfill-explosion-housing",
-    "publishedAt": "2026-11-18T14:40:29.000Z"
-  },
-  {
-    "id": "48dc592f64302b7b",
-    "title": "Palestinians flee refugee camp as Israel begins operation in central Gaza",
-    "summary": "Israeli army says the operation west of the 'Yellow Line' aims to 'eliminate a threat'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
-    "publishedAt": "2026-11-18T14:39:09.000Z"
-  },
-  {
-    "id": "12b691abaca056e8",
-    "title": "‘Status quo’ between US and Iran could break out into war, analysts warn",
-    "summary": "Iran and the US have continued to exchange strikes in recent days, but all-out war has so far been avoided.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn?traffic_source=rss",
-    "publishedAt": "2026-11-18T14:36:20.000Z"
-  },
-  {
-    "id": "c2bbf96e840bcdfe",
-    "title": "‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge",
-    "summary": "A weeks-long operation was behind two waves of strikes using long-range missiles and drones developed in Ukraine.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge?traffic_source=rss",
-    "publishedAt": "2026-11-18T14:35:56.000Z"
-  },
-  {
-    "id": "ff5046da676c68b8",
-    "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
-    "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o",
-    "publishedAt": "2026-11-18T14:30:33.000Z"
-  },
-  {
-    "id": "8884d95056be6c39",
-    "title": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
-    "summary": "Von der Leyen says she wants to give Kyiv ‘strong hand’ in talks and is confident all 27 member states will back idea.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
-    "publishedAt": "2026-11-18T14:27:22.000Z"
-  },
-  {
-    "id": "52af1bf4467121a0",
-    "title": "Top UN court to deliver judgment alleging Myanmar committed genocide against Rohingya",
-    "summary": "The United Nations' top court is set to deliver a judgment Thursday in a case accusing Myanmar of committing genocide against the Rohingya.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/top-court-deliver-judgment-case-alleging-myanmar-committed-138247041",
-    "publishedAt": "2026-11-18T14:21:03.000Z"
-  },
-  {
-    "id": "78c933e259584316",
-    "title": "Boy, three, dies after ‘medical emergency’ at Greater Manchester nursery",
-    "summary": "Police are investigating death of child three days after emergency services were called to Cosy Toes nursery in Middleton.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/18/boy-three-dies-medical-emergency-cosy-toes-nursery-middleton-greater-manchester",
-    "publishedAt": "2026-11-18T14:18:29.000Z"
-  },
-  {
-    "id": "512644a7f89d12f4",
-    "title": "Can the US and Iran sustain a ‘frozen war’?",
-    "summary": "Tehran may eventually decide that 'escalating confrontation' is preferable to status quo, says analyst Hamidreza Azizi.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/can-the-us-and-iran-sustain-a-frozen?traffic_source=rss",
-    "publishedAt": "2026-11-18T14:13:51.000Z"
-  },
-  {
-    "id": "be3f81a89ea4887e",
-    "title": "What is the ‘endgame’ in Syria, as Israeli rivals look for new government?",
-    "summary": "As Israel intensifies its incursions into southern Syria, analysts say there will be little change in the future.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
-    "publishedAt": "2026-11-18T14:08:08.000Z"
   }
 ]
