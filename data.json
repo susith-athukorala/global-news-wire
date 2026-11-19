@@ -1,5 +1,32 @@
 [
   {
+    "id": "fd737119107954c7",
+    "title": "Jimmy Dimly is back and we should treasure him while we can | John Crace",
+    "summary": "Old-school Tory with a heart wants to make London fun again – just don’t mention Brexit.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/19/james-cleverly-london-mayor-john-crace-sketch",
+    "publishedAt": "2026-11-19T17:54:48.000Z"
+  },
+  {
+    "id": "6df730d7ff278039",
+    "title": "Wife of Italian fugitive convicted of terrorism arrested in Argentina over his escape",
+    "summary": "Argentine authorities have arrested the wife of an Italian fugitive convicted of terrorism-related crimes.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/wife-italian-fugitive-convicted-terrorism-arrested-argentina-escape-138294446",
+    "publishedAt": "2026-11-19T17:40:18.000Z"
+  },
+  {
+    "id": "0a9843ba32b0e591",
+    "title": "US army plan to detonate bomb-making chemicals has Iowa residents bracing for lead dust cloud",
+    "summary": "Officials recommend that residents in path of expected toxic plume vacate area, and some schools will be closed.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+    "publishedAt": "2026-11-19T17:18:08.000Z"
+  },
+  {
     "id": "d843d0b0fcfec967",
     "title": "‘Not an acquittal’: After impeachment vote, Hegseth still under microscope",
     "summary": "A week after a fizzled impeachment bid, analysts say Hegseth continues to face backlash for his leadership at Pentagon.",
@@ -7,6 +34,33 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope?traffic_source=rss",
     "publishedAt": "2026-11-19T17:15:30.000Z"
+  },
+  {
+    "id": "f3004053344a2862",
+    "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
+    "summary": "Hailed as ‘a rare moment of justice’, judges’ decision sets out a roadmap for assessing the question of intent.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
+    "publishedAt": "2026-11-19T17:14:55.000Z"
+  },
+  {
+    "id": "8b7d6e98f9b274af",
+    "title": "US zoo staff monitor Fiona the hippo’s rear end for signs of hat she ate",
+    "summary": "Colonoscopy, ultrasound, Vibration plate and patience deployed 11 days after beloved beast ingested knitted hat.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
+    "publishedAt": "2026-11-19T17:12:57.000Z"
+  },
+  {
+    "id": "38e3030e7f0cdbf3",
+    "title": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
+    "summary": "US president appeared to doze off while Chinese leader made speech, but White House insisted he was awake.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china",
+    "publishedAt": "2026-11-19T17:12:11.000Z"
   },
   {
     "id": "33b9dab59bcc1490",
@@ -1294,59 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/19/car-use-in-london-forecast-to-rise-by-10-in-next-decade",
     "publishedAt": "2026-11-19T06:00:20.000Z"
-  },
-  {
-    "id": "676ff91fd9e76f4d",
-    "title": "Grade I interiors, gold bars, cost fears: Bank of England faces headache over £160m revamp",
-    "summary": "UK central bank will want to avoid echoes of expensive US Federal Reserve revamp that led to Trump clash.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/19/bank-of-england-revamp",
-    "publishedAt": "2026-11-19T06:00:19.000Z"
-  },
-  {
-    "id": "41281cef2db6c182",
-    "title": "Tulip Siddiq says she is considering legal action against former Bangladesh leader",
-    "summary": "Former minister, who was sentenced to prison in Bangladesh in her absence, says she was victim of ‘malicious prosecution’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/19/tulip-siddiq-says-she-is-considering-legal-action-against-former-bangladesh-leader",
-    "publishedAt": "2026-11-19T06:00:18.000Z"
-  },
-  {
-    "id": "5cdd8ef9a5f11d2a",
-    "title": "Flexibility more important to jobseekers than pay, global survey finds",
-    "summary": "A poll of more than 40,000 workers found that a better work-life balance was the main reason people consider leaving their jobs.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/19/flexibility-more-important-to-jobseekers-than-pay-global-survey-finds",
-    "publishedAt": "2026-11-19T05:45:18.000Z"
-  },
-  {
-    "id": "07e6ce0bedeab033",
-    "title": "‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking",
-    "summary": "HMCS Spitfire was commissioned by colonial government to protect against Russian warships during the Crimean war.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
-    "publishedAt": "2026-11-19T05:22:38.000Z"
-  },
-  {
-    "id": "9649f214a30e5abb",
-    "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
-    "summary": "World court to issue key verdict in its first genocide ruling in more than a decade.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
-    "publishedAt": "2026-11-19T05:13:13.000Z"
-  },
-  {
-    "id": "5aaa0462f285a93d",
-    "title": "Meet Phil, the bar-tailed godwit tracked on a 6,800-mile round trip to Siberia",
-    "summary": "Scientists use lightweight tracker to map wading bird’s extraordinary migration from Norfolk to the Arctic and back.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/19/phil-bar-tailed-godwit-bird-tracked-round-trip-siberia",
-    "publishedAt": "2026-11-19T05:01:17.000Z"
   }
 ]
