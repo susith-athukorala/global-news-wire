@@ -1,5 +1,32 @@
 [
   {
+    "id": "253230d17cbe0959",
+    "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+    "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
+    "publishedAt": "2026-11-19T01:56:28.000Z"
+  },
+  {
+    "id": "968788ae22a13a68",
+    "title": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk",
+    "summary": "Australian fashion chain becomes latest retailer in trouble after David Jones, Cue and Veronika Maine.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/19/general-pants-co-enters-voluntary-administration-jobs-at-risk",
+    "publishedAt": "2026-11-19T01:46:21.000Z"
+  },
+  {
+    "id": "a23a354e9c43a50a",
+    "title": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
+    "summary": "A new report alleges that injuries on Epstein's body were overlooked by medical examiners during his 2019 autopsy.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
+    "publishedAt": "2026-11-19T01:17:08.000Z"
+  },
+  {
     "id": "dc8971aae4da6e37",
     "title": "Elon Musk claims ‘I’m not Maga’ and says he regrets vast sums to back Republicans",
     "summary": "Musk, who aligned with Trump and was frequent White House guest, says he feels ‘pretty foolish’ about record midterm spending.",
@@ -295,6 +322,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways",
     "publishedAt": "2026-11-18T22:05:49.000Z"
+  },
+  {
+    "id": "ae23edec696264d8",
+    "title": "After Nepal's epic flood, they're restoring their community ... and their lives",
+    "summary": "As the emergency response to the flood ends, aid workers turn to the hard work of rebuilding communities that lost everything. Many of those workers lost everything, too.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6022034/flood-nepal-survival-climate-change",
+    "publishedAt": "2026-11-18T22:01:17.000Z"
   },
   {
     "id": "d4a645e126f6c05f",
@@ -682,6 +718,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/18/illinois-ethanol-plant-bomb-threat-charges",
     "publishedAt": "2026-11-18T17:37:09.000Z"
+  },
+  {
+    "id": "ff776c31ccfe588c",
+    "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+    "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
+    "publishedAt": "2026-11-18T17:34:25.000Z"
   },
   {
     "id": "b822906e6de8ab6f",
@@ -1287,6 +1332,15 @@
     "publishedAt": "2026-11-18T13:04:48.000Z"
   },
   {
+    "id": "a3e7ac4e36703779",
+    "title": "Calls for 'automatic compensation' following telco outages",
+    "summary": "Unhappy mobile and internet customers are increasingly turning to the industry ombudsman for compensation amid rising network outages. Consumer advocates say telcos should automatically compensate those affected.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-19/telstra-outage-drives-surge-in-telco-outage-complaints/107400558",
+    "publishedAt": "2026-11-18T13:03:53.000Z"
+  },
+  {
     "id": "df8d86c3af545847",
     "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
     "summary": "After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid. In Zambia and Zimbabwe, there are different approaches but similar worries.",
@@ -1294,59 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
     "publishedAt": "2026-11-18T13:03:38.000Z"
-  },
-  {
-    "id": "ce0b48a2fcdf2f0f",
-    "title": "GTA 6: Everything you need to know about the highly anticipated game",
-    "summary": "Economists predict GTA 6 could cost US up to $1bn in lost productivity, with the game set for release at midnight.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
-    "publishedAt": "2026-11-18T13:02:33.000Z"
-  },
-  {
-    "id": "ff3942ae628f34da",
-    "title": "Republicans could expedite bill to make big oil immune to lawsuits, warn experts",
-    "summary": "GOP lawmakers are rushing through high-priority bills before newly elected Democrats are sworn in.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/big-oil-immunity-bill-climate",
-    "publishedAt": "2026-11-18T13:00:04.000Z"
-  },
-  {
-    "id": "deb1e2e2b6780c17",
-    "title": "Energy price cap rise: how to switch providers",
-    "summary": "It is possible to switch to a better tariff and save money despite the forecast rise next year.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/18/energy-price-cap-rise-how-to-beat-the-january-hike",
-    "publishedAt": "2026-11-18T12:52:05.000Z"
-  },
-  {
-    "id": "679837f1aed33e9a",
-    "title": "Doctor whose evidence helped to convict Lucy Letby was barred from treating patients during trial",
-    "summary": "Exclusive: Jury was never told that Prof Peter Hindmarsh was barred from practising over concerns for patients’ safety.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/18/doctor-whose-evidence-helped-to-convict-lucy-letby-was-barred-from-treating-patients-during-trial",
-    "publishedAt": "2026-11-18T12:45:13.000Z"
-  },
-  {
-    "id": "6a33f337f6bec740",
-    "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-    "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo",
-    "publishedAt": "2026-11-18T12:39:24.000Z"
-  },
-  {
-    "id": "36fc805b49a93b2d",
-    "title": "Rwanda and DRC: What is holding up the Washington peace process?",
-    "summary": "The two sides remain divided over key security commitments under the Washington Accords.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss",
-    "publishedAt": "2026-11-18T12:27:23.000Z"
   }
 ]
