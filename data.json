@@ -1,5 +1,68 @@
 [
   {
+    "id": "7d68e8a5be2d8b28",
+    "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+    "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko",
+    "publishedAt": "2026-11-19T22:09:04.000Z"
+  },
+  {
+    "id": "4447f5511cca0269",
+    "title": "Appeals court rejects Democrat LaMonica McIver’s bid to toss charges over ICE protest",
+    "summary": "New Jersey congresswoman, charged with interfering with immigration arrest, set to face trial over May 2025 incident.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/lamonica-mciver-ice-delaney-hall",
+    "publishedAt": "2026-11-19T21:57:39.000Z"
+  },
+  {
+    "id": "ab107cfc887ac163",
+    "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
+    "summary": "Anti-AI groups gather in front of Nasdaq exchange in Times Square and Anthropic’s headquarters in San Francisco.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
+    "publishedAt": "2026-11-19T21:52:19.000Z"
+  },
+  {
+    "id": "b89806bc3d786f7c",
+    "title": "Haiti police say at least 34 suspected gang members killed in raid",
+    "summary": "Police say the raid targeted the Martissant area, located on a key route out of Port-au-Prince held by gangs since 2021.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss",
+    "publishedAt": "2026-11-19T21:39:39.000Z"
+  },
+  {
+    "id": "11a8aa5fd92f82ca",
+    "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+    "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+    "publishedAt": "2026-11-19T21:38:42.000Z"
+  },
+  {
+    "id": "cfbc867680d22cde",
+    "title": "Brazil's Lula moves to protect Chief Raoni’s birthplace in the Amazon rainforest",
+    "summary": "The Brazilian government has advanced legal protection for the territory of Raoni Metuktire, a prominent Indigenous leader in the Amazon.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/brazils-lula-moves-protect-chief-raonis-birthplace-amazon-138301684",
+    "publishedAt": "2026-11-19T21:23:34.000Z"
+  },
+  {
+    "id": "47cd5f1547e7be04",
+    "title": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
+    "summary": "The appeals court's ruling prevents a lower-court decision from taking effect, which would block Trump from lifting TPS.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss",
+    "publishedAt": "2026-11-19T21:11:45.000Z"
+  },
+  {
     "id": "45284d5b1c0dbace",
     "title": "Suspects charged in brazen train heist ring that netted $22m in cargo from major retailers",
     "summary": "More than a dozen people allegedly targeted trains carrying Nike sneakers, Crocs footwear and other goods.",
@@ -486,6 +549,15 @@
     "publishedAt": "2026-11-19T15:58:58.000Z"
   },
   {
+    "id": "b25352a4adb30a65",
+    "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+    "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo",
+    "publishedAt": "2026-11-19T15:52:26.000Z"
+  },
+  {
     "id": "4dffa5bc2cfc8f13",
     "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
     "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’",
@@ -657,6 +729,15 @@
     "publishedAt": "2026-11-19T14:03:39.000Z"
   },
   {
+    "id": "72d9f8d8fb928bef",
+    "title": "For Putin, sharing a spotlight with Trump and Xi boosts his profile on the global stage",
+    "summary": "For Russian President Vladimir Putin, the three-way meeting with Donald Trump and Xi Jinping offered a much-coveted chance for the Kremlin leader to demonstrate that he heads a superpower on a par with the United States and China.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/putin-sharing-spotlight-trump-xi-boosts-profile-global-138265640",
+    "publishedAt": "2026-11-19T14:02:14.000Z"
+  },
+  {
     "id": "dc1cead1523c47f2",
     "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
     "summary": "Reported proposal to give musicians special treatment is ‘unworkable’, Aria CEO says, vowing to stand with other creatives.",
@@ -727,6 +808,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/19/un-warns-misuse-security-laws-uk-palestine-action-ban",
     "publishedAt": "2026-11-19T13:43:15.000Z"
+  },
+  {
+    "id": "e774f6afe94a5404",
+    "title": "Wreck of Australia's first warship built at home found 128 years after sinking",
+    "summary": "The wreck of Australia’s first Australian-built warship, HMCS Spitfire, has been found 128 years to the day after it sank off the country’s north coast.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/wreck-australias-warship-built-home-found-128-years-138278608",
+    "publishedAt": "2026-11-19T13:38:20.000Z"
   },
   {
     "id": "530a5501006336ca",
@@ -1197,6 +1287,15 @@
     "publishedAt": "2026-11-19T10:42:53.000Z"
   },
   {
+    "id": "de4920d03fcc2309",
+    "title": "FIFA unveils Diallo and Tashima as challengers to Infantino's presidency",
+    "summary": "The March 2027 election will be the first time Mr Infantino faces a challenger after being re-elected without opposition in 2023.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-19/fifa-president-challenge-candidates-infantino-diallo-tashima/107406458",
+    "publishedAt": "2026-11-19T10:42:23.000Z"
+  },
+  {
     "id": "82c4e603c2731f40",
     "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
     "summary": "Several African stars feature.",
@@ -1249,104 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/games/2026/nov/19/tips-for-playing-grand-theft-auto-vi",
     "publishedAt": "2026-11-19T10:00:25.000Z"
-  },
-  {
-    "id": "62837eed4c0fd851",
-    "title": "From training clips to thirst traps: why athletes are turning to OnlyFans",
-    "summary": "A professional sports career does not guarantee wealth. And a growing number of athletes are turning to alternative streams of income.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/sport/2026/nov/19/athletes-onlyfans-earnings",
-    "publishedAt": "2026-11-19T10:00:24.000Z"
-  },
-  {
-    "id": "fe44b1178bdbaa57",
-    "title": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
-    "summary": "Shares in the maker of the popular Claude artificial intelligence model will start trading on the Nasdaq Thursday.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
-    "publishedAt": "2026-11-19T10:00:00.000Z"
-  },
-  {
-    "id": "8c2efae1ddd7ef36",
-    "title": "Malaysian weightlifting champion Roslin loses arm after motorbike crash",
-    "summary": "Muhammad Hafizuddin Roslin, who won a gold medal at the Commonwealth Games 2026, had his arm amputated after accident.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/19/malaysian-weightlifting-champion-hafizuddin-loses-arm-after-motorbike-crash?traffic_source=rss",
-    "publishedAt": "2026-11-19T09:56:07.000Z"
-  },
-  {
-    "id": "0af123159cbe44f3",
-    "title": "South Korea’s top court overturns charges against ex-PM for his role in martial law",
-    "summary": "South Korea’s Supreme Court has overturned the conviction of former Prime Minister Han Duck-soo for aiding in the declaration of martial law in December 2024.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/south-koreas-top-court-overturns-charges-prime-minister-138280095",
-    "publishedAt": "2026-11-19T09:52:10.000Z"
-  },
-  {
-    "id": "736d45c4f90c62e0",
-    "title": "Pakistan military says it killed 22 militants in raids on hideouts in northwest",
-    "summary": "Pakistan's military says security forces have raided militant hideouts in the northwest near the Afghan border, setting off gunbattles that killed 22 militants.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pakistan-military-killed-22-militants-raids-hideouts-northwest-138279716",
-    "publishedAt": "2026-11-19T09:47:04.000Z"
-  },
-  {
-    "id": "5ff2ad299f6ebc4c",
-    "title": "Fire set at home of former Bangladesh interim leader as political tensions rise",
-    "summary": "Authorities in Bangladesh say a fire at the ancestral home of a former Bangladesh interim leader and Nobel Peace Prize laureate appears to have been intentionally set.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/fire-set-home-former-bangladesh-interim-leader-political-138280092",
-    "publishedAt": "2026-11-19T09:46:57.000Z"
-  },
-  {
-    "id": "e86aff74c6b2ed41",
-    "title": "Top UN court set to rule in a case alleging Myanmar committed genocide against Rohingya",
-    "summary": "The United Nations court is delivering its judgment on whether Myanmar committed genocide against the Rohingya nearly a decade ago.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/top-court-set-rule-case-alleging-myanmar-committed-138279244",
-    "publishedAt": "2026-11-19T09:46:54.000Z"
-  },
-  {
-    "id": "c8c377cdedac8a53",
-    "title": "A third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge",
-    "summary": "Ukraine has launched a third aerial attack in four days on the Kerch Bridge, a crucial link between Russia and Crimea.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ukrainian-strike-4-days-halts-rail-traffic-russias-138280630",
-    "publishedAt": "2026-11-19T09:46:49.000Z"
-  },
-  {
-    "id": "7a9c705eae85952c",
-    "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
-    "summary": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
-    "publishedAt": "2026-11-19T09:46:24.000Z"
-  },
-  {
-    "id": "7073f2bce7e23030",
-    "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
-    "summary": "President Trump, Xi and Putin have met in Shenzhen for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
-    "publishedAt": "2026-11-19T09:44:40.000Z"
-  },
-  {
-    "id": "8c1ff0a9b2195c81",
-    "title": "EDF snaps up 1.3m more customers after Utilita takeover",
-    "summary": "Great Britain’s fourth-largest energy supplier brings account base up to 6m after purchase of pay-as-you-go supplier.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/19/edf-takeover-utilita-energy-suppliers-energy-bills",
-    "publishedAt": "2026-11-19T09:44:32.000Z"
   }
 ]
