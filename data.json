@@ -1,5 +1,68 @@
 [
   {
+    "id": "45284d5b1c0dbace",
+    "title": "Suspects charged in brazen train heist ring that netted $22m in cargo from major retailers",
+    "summary": "More than a dozen people allegedly targeted trains carrying Nike sneakers, Crocs footwear and other goods.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/nike-croc-train-heist",
+    "publishedAt": "2026-11-19T21:02:16.000Z"
+  },
+  {
+    "id": "d968a940255abb42",
+    "title": "Why are Bukele’s Salvadoran troops in Haiti and what have they achieved?",
+    "summary": "With crowds rallying behind El Salvador's deployment in Haiti, analysts question whether civilians are any safer.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/why-are-bukeles-salvadoran-troops-in-haiti-and-what-have-they-achieved?traffic_source=rss",
+    "publishedAt": "2026-11-19T20:54:08.000Z"
+  },
+  {
+    "id": "66980e9ba6199f37",
+    "title": "Trump’s case against NYT and Penguin Random House may proceed: Judge",
+    "summary": "The lawsuit cited a book about Trump by two NYT reporters and what it said were 'false, malicious, defamatory' articles.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge?traffic_source=rss",
+    "publishedAt": "2026-11-19T20:32:46.000Z"
+  },
+  {
+    "id": "4f2872fed60af9be",
+    "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
+    "summary": "The resolution was defeated 51-48. Three Republicans broke rank, voting against the measure.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
+    "publishedAt": "2026-11-19T20:30:54.000Z"
+  },
+  {
+    "id": "84d7ad1fe702e707",
+    "title": "Senate Republicans rejects war powers bill to halt fighting in Iran",
+    "summary": "Measure fails 48-51 with GOP members again defending war that played a role in costing them midterm elections.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
+    "publishedAt": "2026-11-19T20:24:09.000Z"
+  },
+  {
+    "id": "653751b5d3ac0b8a",
+    "title": "Grand Theft Auto fans skip work and pull all-nighters to play new instalment",
+    "summary": "Hotly anticipated Bonnie and Clyde-inspired adventure GTA VI has gamers glued to their screens around the world.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters",
+    "publishedAt": "2026-11-19T20:07:23.000Z"
+  },
+  {
+    "id": "6dd2ec3981ff138f",
+    "title": "Who are Anthropic’s seven co-founders, now worth $180bn?",
+    "summary": "The company counts physicists, a former journalist and an associate of the pope among its guiding lights.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders",
+    "publishedAt": "2026-11-19T20:05:13.000Z"
+  },
+  {
     "id": "4ceff601e2330ba1",
     "title": "John Cornyn blocks Trump judicial nominee after Senate shouting match with Ted Cruz",
     "summary": "Outgoing senator withheld ‘blue slip’ from T Elliot Gaiser, blocking his appointment to northern Texas district court.",
@@ -52,6 +115,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
     "publishedAt": "2026-11-19T19:40:23.000Z"
+  },
+  {
+    "id": "2e2f5eb6f9cf3d07",
+    "title": "One year on from workplace death, grieving mum urges BlueScope inquest",
+    "summary": "She joins the union in calling for an inquest, with at least six further dangerous incidents reported on the $1.15 billion blast furnace relines since Jack McGrath's death.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-20/union-demands-inquest-into-workers-death/107402252",
+    "publishedAt": "2026-11-19T19:36:13.000Z"
   },
   {
     "id": "df80a7297159cc83",
@@ -1035,6 +1107,15 @@
     "publishedAt": "2026-11-19T11:23:41.000Z"
   },
   {
+    "id": "79caf38409df8dce",
+    "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+    "summary": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
+    "publishedAt": "2026-11-19T11:20:37.000Z"
+  },
+  {
     "id": "13429205ba75c5ad",
     "title": "Surgeon calls for corporate homicide probe over claims patients unnecessarily bled to death",
     "summary": "Dr Mohammed Habib said he had been raising concerns about NHS Grampian for a decade, including with government ministers and police.",
@@ -1260,93 +1341,12 @@
     "publishedAt": "2026-11-19T09:44:40.000Z"
   },
   {
-    "id": "855f26820aebedf4",
-    "title": "In the land that gave us 'cinema,' activist archivists are bringing back old home movies",
-    "summary": "Archiving activists who roam from town to town in France are making people's forgotten home movies great again by preserving them digitally.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/land-gave-us-cinema-activist-archivists-bringing-back-138278144",
-    "publishedAt": "2026-11-19T09:22:15.000Z"
-  },
-  {
-    "id": "a995c33de1b31fc8",
-    "title": "BAE to slash 1,000 jobs across head office and air business to streamline orders",
-    "summary": "Job cuts to exclude shop floor, aircraft maintenance and trainees but move prompts calls for more orders to support British defence giant.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/19/bae-to-slash-1000-jobs-across-head-office-and-air-business-to-streamline-orders",
-    "publishedAt": "2026-11-19T09:19:05.000Z"
-  },
-  {
-    "id": "4dd0dd363114b2bb",
-    "title": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
-    "summary": "North Korea can produce both highly enriched uranium and weapons-grade plutonium at its facilities, according to IAEA.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss",
-    "publishedAt": "2026-11-19T09:16:47.000Z"
-  },
-  {
-    "id": "db86e2f82bea4e54",
-    "title": "Kenya’s marathon champion Peres Jepchirchir gets three-year ban for doping",
-    "summary": "Jepchirchir breached anti-doping rules by testing positive for banned substance EPO, Athletics Integrity Unit says.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/19/kenyas-marathon-champion-peres-jepchirchir-gets-three-year-ban-for-doping?traffic_source=rss",
-    "publishedAt": "2026-11-19T09:06:36.000Z"
-  },
-  {
-    "id": "f10fb213fdd86ab6",
-    "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-    "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o",
-    "publishedAt": "2026-11-19T09:04:41.000Z"
-  },
-  {
-    "id": "b25352a4adb30a65",
-    "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
-    "summary": "Some local media report that at least four bodies have been recovered.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo",
-    "publishedAt": "2026-11-19T09:02:52.000Z"
-  },
-  {
-    "id": "d89f452127a57d2b",
-    "title": "Trump meets Putin and Xi as trilateral US, Russia, China talks begin",
-    "summary": "US president calls both Putin and Xi a 'friend' in separate meetings at APEC, ahead of rare three-way talks.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss",
-    "publishedAt": "2026-11-19T08:32:10.000Z"
-  },
-  {
-    "id": "df4b75045c55b0a6",
-    "title": "‘We don’t produce Neets’: the London school recognised at World’s Best School awards",
-    "summary": "Swiss Cottage school for children with complex needs is place where ‘every child feels they belong’, education secretary says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/education/2026/nov/19/london-swiss-cottage-school-worlds-best-school-awards",
-    "publishedAt": "2026-11-19T08:28:22.000Z"
-  },
-  {
-    "id": "69be7e3e1ef4d0bf",
-    "title": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
-    "summary": "Material damage was reported after ​debris fell following the latest Houthi strikes launched towards Saudi Arabia.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
-    "publishedAt": "2026-11-19T08:19:17.000Z"
-  },
-  {
-    "id": "db619bc903191c04",
-    "title": "The Altruists review – two of TV’s best actors light up this chaotic crypto tale",
-    "summary": "Julia Garner and Anthony Boyle play the FTX founders behind ‘the greatest fraud ever committed’ in the US. It’s a mind-boggling story – just make sure you don’t miss a single moment.",
+    "id": "8c1ff0a9b2195c81",
+    "title": "EDF snaps up 1.3m more customers after Utilita takeover",
+    "summary": "Great Britain’s fourth-largest energy supplier brings account base up to 6m after purchase of pay-as-you-go supplier.",
     "category": "Economy",
     "source": "The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/19/the-altruists-review-anthony-boyle-julia-garner",
-    "publishedAt": "2026-11-19T08:01:21.000Z"
+    "link": "https://www.theguardian.com/business/2026/nov/19/edf-takeover-utilita-energy-suppliers-energy-bills",
+    "publishedAt": "2026-11-19T09:44:32.000Z"
   }
 ]
