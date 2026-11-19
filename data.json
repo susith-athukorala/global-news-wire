@@ -1,5 +1,113 @@
 [
   {
+    "id": "feb249b67917e5a3",
+    "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+    "summary": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo",
+    "publishedAt": "2026-11-19T12:02:29.000Z"
+  },
+  {
+    "id": "e8502c2f7d93f0a0",
+    "title": "Anti-vaccine group once led by RFK Jr says Meta removed posts after Guardian report",
+    "summary": "Children’s Health Defense, which was allowed back after misinformation ban, accuses tech company of censorship.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/childrens-health-defense-meta-rfk-jr",
+    "publishedAt": "2026-11-19T12:00:07.000Z"
+  },
+  {
+    "id": "bf81bed1e6acaea2",
+    "title": "Lack of early border controls made UK ‘extremely vulnerable’ to Covid, inquiry finds",
+    "summary": "Latest report also says test and trace failures allowed virus to spread quickly and unchecked.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/19/covid-inquiry-uk-report-lack-of-early-border-controls-virus-spread",
+    "publishedAt": "2026-11-19T12:00:06.000Z"
+  },
+  {
+    "id": "19146049b90e2385",
+    "title": "Argentina mourns teen footballer Nunez who died after on-pitch collision",
+    "summary": "Abel Nunez, 16, died after suffering a severe blow to the head during a youth football match for his club, Ezeiza.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/19/argentina-mourns-teen-footballer-nunez-who-died-after-on-pitch-collision?traffic_source=rss",
+    "publishedAt": "2026-11-19T11:57:34.000Z"
+  },
+  {
+    "id": "e481cf0ebb471f46",
+    "title": "Tories select James Cleverly as candidate for London mayor",
+    "summary": "Former home secretary wins 86% support in a membership vote to stand in May 2028.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/19/tories-select-james-cleverly-candidate-london-mayor",
+    "publishedAt": "2026-11-19T11:53:11.000Z"
+  },
+  {
+    "id": "b3ec3e30f40da899",
+    "title": "Robert Pattinson to apply for 90,000 more jobs? UK government trolls James Bond actor",
+    "summary": "Westminster joins wave of ‘job-stealing’ memes after the actor’s late success edging out the other contenders to be the new 007.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/film/2026/nov/19/robert-pattinson-james-bond-uk-government-youth-employment-scheme",
+    "publishedAt": "2026-11-19T11:44:55.000Z"
+  },
+  {
+    "id": "c0c5d7531b8b77ab",
+    "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+    "summary": "Trump threatens to 'wipe out' Iran in case of attack as Tehran's capabilities remain unclear.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss",
+    "publishedAt": "2026-11-19T11:38:39.000Z"
+  },
+  {
+    "id": "0388a3d7701dd241",
+    "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
+    "summary": "Former NSW opposition leader warns party against becoming ‘Labor lite’ or ‘One Nation lite’ in late-night speech.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
+    "publishedAt": "2026-11-19T11:23:41.000Z"
+  },
+  {
+    "id": "13429205ba75c5ad",
+    "title": "Surgeon calls for corporate homicide probe over claims patients unnecessarily bled to death",
+    "summary": "Dr Mohammed Habib said he had been raising concerns about NHS Grampian for a decade, including with government ministers and police.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crjeqxexyq05o",
+    "publishedAt": "2026-11-19T11:18:48.000Z"
+  },
+  {
+    "id": "144f0711e6f6d6a5",
+    "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
+    "summary": "Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systemic betrayal of Kardell Lomas before her death recognised.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
+    "publishedAt": "2026-11-19T11:13:32.000Z"
+  },
+  {
+    "id": "90f5b98b1ec763c4",
+    "title": "Mongolia's lawmakers accept president's resignation following corruption accusations",
+    "summary": "Mongolia’s parliament has accepted President Khurelsukh Ukhnaa's resignation after he was accused of benefiting from a government railway project seven years ago, when he served as prime minister.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/mongolias-lawmakers-accept-presidents-resignation-corruption-accusations-138282020",
+    "publishedAt": "2026-11-19T11:10:51.000Z"
+  },
+  {
+    "id": "9160d257b83dbfcb",
+    "title": "Denmark parliament approves security deal with Greenland and US",
+    "summary": "All 109 Danish lawmakers present approved the deal, easing tensions over Trump's desire to annex the Arctic island.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
+    "publishedAt": "2026-11-19T11:09:00.000Z"
+  },
+  {
     "id": "d6d5a75fc790921b",
     "title": "Myanmar committed acts of genocide against Rohingya minority, world’s top court rules",
     "summary": "Governments around world have been awaiting ICJ judgment, seen as critical test for dealing with most serious of all state crimes.",
@@ -133,6 +241,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/top-court-set-rule-case-alleging-myanmar-committed-138279244",
     "publishedAt": "2026-11-19T09:46:54.000Z"
+  },
+  {
+    "id": "c8c377cdedac8a53",
+    "title": "A third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge",
+    "summary": "Ukraine has launched a third aerial attack in four days on the Kerch Bridge, a crucial link between Russia and Crimea.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/ukrainian-strike-4-days-halts-rail-traffic-russias-138280630",
+    "publishedAt": "2026-11-19T09:46:49.000Z"
   },
   {
     "id": "7073f2bce7e23030",
@@ -1231,122 +1348,5 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-19/health-insurer-bupa-shuts-some-gp-clinics-after-buying-up-chains/106982854",
     "publishedAt": "2026-11-18T19:00:25.000Z"
-  },
-  {
-    "id": "383656fa52b5f2fc",
-    "title": "‘Neighbourhood support teams’ to pave way for national care service, Cooper announces",
-    "summary": "Health secretary said programme would help about 566,000 vulnerable people in England by April.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/18/new-neighbourhood-support-teams-to-pave-the-way-for-national-care-service-cooper-announces",
-    "publishedAt": "2026-11-18T18:56:02.000Z"
-  },
-  {
-    "id": "251bcc5da014a43c",
-    "title": "Ex-Tory defectors barred from shaping Reform’s immigration policy, says Zia Yusuf",
-    "summary": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
-    "publishedAt": "2026-11-18T18:50:40.000Z"
-  },
-  {
-    "id": "fef422c85df5c054",
-    "title": "Burnham considering cuts to national insurance to create more youth jobs",
-    "summary": "PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25s.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report",
-    "publishedAt": "2026-11-18T18:43:37.000Z"
-  },
-  {
-    "id": "cf060697885b97d4",
-    "title": "The ambitions behind Trump, Xi and Putin's unprecedented meeting",
-    "summary": "Presidents Donald Trump, Xi Jinping and Vladimir Putin are about to sit down together for the first time. So what should we expect from this historic meeting?",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-19/what-trump-putin-xi-want-when-they-meet/107390546",
-    "publishedAt": "2026-11-18T18:41:53.000Z"
-  },
-  {
-    "id": "7512ebe45fae1d9e",
-    "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
-    "summary": "An Israeli court extended the detention of Abu Safia nearly two years after Israel's army detained him.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
-    "publishedAt": "2026-11-18T18:22:26.000Z"
-  },
-  {
-    "id": "c4915d5429f3bbeb",
-    "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
-    "summary": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
-    "publishedAt": "2026-11-18T18:18:16.000Z"
-  },
-  {
-    "id": "43d4054102892bb2",
-    "title": "More gas storage is at risk. What’s the government plan for secure supplies?",
-    "summary": "SSE’s threat to close a big storage facility in Yorkshire highlights successive governments’ failures to build a strategy and safeguard supplies.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/18/more-gas-storage-is-at-risk-whats-the-government-plan-for-secure-supplies",
-    "publishedAt": "2026-11-18T18:17:15.000Z"
-  },
-  {
-    "id": "2fa85661d03776d7",
-    "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
-    "summary": "On NPR's Morning Edition , fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
-    "publishedAt": "2026-11-18T18:15:59.000Z"
-  },
-  {
-    "id": "1b18023527bf707b",
-    "title": "Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit",
-    "summary": "Trump told Philippine President Marcos he knew his parents 'very well'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
-    "publishedAt": "2026-11-18T18:09:57.000Z"
-  },
-  {
-    "id": "cde1f5190a74d2ba",
-    "title": "Tell us: are you playing Grand Theft Auto VI?",
-    "summary": "Grand Theft Auto VI has finally arrived. We’d like to hear your initial thoughts.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/18/tell-us-are-you-playing-grand-theft-auto-vi",
-    "publishedAt": "2026-11-18T18:00:04.000Z"
-  },
-  {
-    "id": "0e08297d4dd42269",
-    "title": "Early data suggests transparent auction pricing is working",
-    "summary": "After a radical law change publishing \"reserve\" prices, the first month of data shows sale prices are close to what was advertised.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-19/transparent-auction-pricing-is-working-early-data-suggests/107397792",
-    "publishedAt": "2026-11-18T18:00:00.000Z"
-  },
-  {
-    "id": "6addfade593ec8e1",
-    "title": "Cheese, pet passports and youth mobility: what’s in the UK-EU ‘relationship reset’ draft?",
-    "summary": "Leaked text of 72-paragraph second draft shows agreement has largely been reached before expected signoff on Friday.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer",
-    "publishedAt": "2026-11-18T17:56:39.000Z"
-  },
-  {
-    "id": "2559e1aba1f83760",
-    "title": "Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s",
-    "summary": "Scientists tell Commons exposure to colibactin in early life is potential driver of early-onset colorectal cancer.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/18/bacterial-toxin-e-coli-bowel-cancer-under-50s",
-    "publishedAt": "2026-11-18T17:55:14.000Z"
   }
 ]
