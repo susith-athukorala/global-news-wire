@@ -1,5 +1,32 @@
 [
   {
+    "id": "4a271fc5cc060197",
+    "title": "A cyberattack using artificial intelligence targeted the EU in October, official says",
+    "summary": "An official in Brussels says a cyberattack using software powered by artificial intelligence targeted the European Union in October.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/cyberattack-artificial-intelligence-targeted-eu-october-official-138284407",
+    "publishedAt": "2026-11-19T13:23:58.000Z"
+  },
+  {
+    "id": "b184fb499300f775",
+    "title": "A van Gogh with a complex past sells for a record $190 million at auction",
+    "summary": "A vibrant landscape painted by Vincent van Gogh weeks before his death has sold for $190.4 million at auction.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/van-gogh-complex-past-sells-record-190-million-138284157",
+    "publishedAt": "2026-11-19T13:16:09.000Z"
+  },
+  {
+    "id": "89cb1d80a52448b4",
+    "title": "What is a stake at the EU-UK summit in Brussels?",
+    "summary": "Leaders will wrestle with easing Brexit red tape, restoring emissions trading and opening up youth mobility.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
+    "publishedAt": "2026-11-19T13:11:23.000Z"
+  },
+  {
     "id": "e43a8cb3f143187e",
     "title": "Parents: please don’t buy Grand Theft Auto VI for your child",
     "summary": "Rockstar Games’ brilliant 18-rated criminal caper is stuffed with sex, drugs and violence. It is the most explicit game I’ve ever played – and it really is not for kids.",
@@ -286,6 +313,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
     "publishedAt": "2026-11-19T11:08:44.000Z"
+  },
+  {
+    "id": "f5974850414e0694",
+    "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+    "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+    "publishedAt": "2026-11-19T11:07:37.000Z"
   },
   {
     "id": "f134fe4f942fcc5e",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o",
     "publishedAt": "2026-11-18T21:28:08.000Z"
-  },
-  {
-    "id": "c5c72d03a8e9069d",
-    "title": "Member of anti-migrant group found guilty of Staffordshire murder",
-    "summary": "Raise the Colours activist Billy Allison, 36, killed man in ‘completely unprovoked and unjustified’ attack, say police.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/18/member-anti-migrant-group-guilty-murder-raise-colours-billy-allison",
-    "publishedAt": "2026-11-18T21:27:54.000Z"
-  },
-  {
-    "id": "9a49f85a2fc32a3c",
-    "title": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
-    "summary": "Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
-    "publishedAt": "2026-11-18T21:24:19.000Z"
-  },
-  {
-    "id": "017ffa83242fd131",
-    "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-    "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
-    "publishedAt": "2026-11-18T21:13:06.000Z"
-  },
-  {
-    "id": "6ccc664f899664a5",
-    "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
-    "summary": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
-    "publishedAt": "2026-11-18T21:01:05.000Z"
   }
 ]
