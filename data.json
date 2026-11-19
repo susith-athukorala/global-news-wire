@@ -1,5 +1,77 @@
 [
   {
+    "id": "508d5655484970ee",
+    "title": "Covid inquiry urges UK–Ireland pandemic co-ordination in future",
+    "summary": "In its latest report into the programme of test and trace, it said cooperation was needed \"to ensure that border control measures are effective and operable in practice\".",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6x280lqrxpgo",
+    "publishedAt": "2026-11-19T15:07:43.000Z"
+  },
+  {
+    "id": "9b19fd96c1e6b73c",
+    "title": "Four UK men convicted of sexual assault and rape of woman at invitation of husband",
+    "summary": "Former Tory councillor advertised ex-wife on swinging websites and drugged and bound her for sex.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
+    "publishedAt": "2026-11-19T15:02:39.000Z"
+  },
+  {
+    "id": "9b3f817a029435c0",
+    "title": "University lecturer from Serbia's student-led movement is elected Parliament speaker",
+    "summary": "A university lecturer from Serbia's student-led movement has become Parliament speaker.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/university-lecturer-serbias-student-led-movement-elected-parliament-138286308",
+    "publishedAt": "2026-11-19T14:51:38.000Z"
+  },
+  {
+    "id": "9cd5e9763e4dce4b",
+    "title": "Japan, India agree to enhance military and defense industry cooperation",
+    "summary": "Japan and India have agreed to enhance their military and arms industry cooperation, including allowing Japanese troops to conduct live-fire missile training at Indian firing ranges in future joint drills.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/japan-india-agree-enhance-military-defense-industry-cooperation-138288577",
+    "publishedAt": "2026-11-19T14:51:10.000Z"
+  },
+  {
+    "id": "6714e4bf3198219d",
+    "title": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty",
+    "summary": "Somalia says the UAE is interfering in its internal affairs with actions that amount to an 'open invasion'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss",
+    "publishedAt": "2026-11-19T14:34:22.000Z"
+  },
+  {
+    "id": "273b58be9b5754a6",
+    "title": "‘Really making history’: five takeaways from the meeting between Trump, Xi and Putin",
+    "summary": "Leaders focused on nuclear weapons and international court at their unprecedented gathering in Shenzhen.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/19/five-takeaways-from-putin-trump-xi-apec-shenzhen-summit",
+    "publishedAt": "2026-11-19T14:32:03.000Z"
+  },
+  {
+    "id": "9f84fa9bd9067786",
+    "title": "What the ICJ genocide ruling means for the Rohingya people",
+    "summary": "This is the first time the court has ruled that a state committed genocide.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya?traffic_source=rss",
+    "publishedAt": "2026-11-19T14:31:47.000Z"
+  },
+  {
+    "id": "1be6b905ffcf33b4",
+    "title": "Trump takes 500 actions to weaken cancer protections, new report says",
+    "summary": "Natural Resources Defense Council shows how federal rules changes will increase public’s exposure to carcinogens.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
+    "publishedAt": "2026-11-19T14:15:15.000Z"
+  },
+  {
     "id": "dc1cead1523c47f2",
     "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
     "summary": "Reported proposal to give musicians special treatment is ‘unworkable’, Aria CEO says, vowing to stand with other creatives.",
@@ -16,6 +88,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/19/democrats-senate-majority-midterms-trump",
     "publishedAt": "2026-11-19T14:00:52.000Z"
+  },
+  {
+    "id": "cfeab4f3add0a716",
+    "title": "‘Communities are really angry’: how Australia’s datacentre opposition has gone from marginal to mainstream in five months",
+    "summary": "A network of grassroots campaigners around the country are sharing information to help push back against the datacentre boom.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/20/communities-are-really-angry-how-datacentre-opposition-has-gone-from-marginal-to-mainstream-in-five-months",
+    "publishedAt": "2026-11-19T14:00:50.000Z"
   },
   {
     "id": "a9056f83354fc551",
@@ -369,6 +450,15 @@
     "publishedAt": "2026-11-19T11:53:11.000Z"
   },
   {
+    "id": "0f9c66562d6989ce",
+    "title": "Florida pastor found guilty over role in assassination of Haitian president",
+    "summary": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm702q0lg50po",
+    "publishedAt": "2026-11-19T11:44:57.000Z"
+  },
+  {
     "id": "b3ec3e30f40da899",
     "title": "Robert Pattinson to apply for 90,000 more jobs? UK government trolls James Bond actor",
     "summary": "Westminster joins wave of ‘job-stealing’ memes after the actor’s late success edging out the other contenders to be the new 007.",
@@ -594,6 +684,15 @@
     "publishedAt": "2026-11-19T09:46:49.000Z"
   },
   {
+    "id": "7a9c705eae85952c",
+    "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
+    "summary": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
+    "publishedAt": "2026-11-19T09:46:24.000Z"
+  },
+  {
     "id": "7073f2bce7e23030",
     "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
     "summary": "President Trump, Xi and Putin have met in Shenzhen for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
@@ -682,6 +781,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/tv-and-radio/2026/nov/19/the-altruists-review-anthony-boyle-julia-garner",
     "publishedAt": "2026-11-19T08:01:21.000Z"
+  },
+  {
+    "id": "a0d671cc1b785199",
+    "title": "‘Sam-Bankman Fried messaged me from prison’: rising star Anthony Boyle on playing the disgraced tech bro – and a zero-hours bike courier",
+    "summary": "The actor’s latest roles see him go from a delivery guy on £40 a day to the notorious crypto scammer who stole more than $10bn. His sympathies are clear: ‘I wasn’t brought up to care about money,’ he says.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/film/2026/nov/19/anthony-boyle-actor-interview-see-buildings-fall-like-lightning-altruists",
+    "publishedAt": "2026-11-19T08:00:22.000Z"
   },
   {
     "id": "8c1ff0a9b2195c81",
@@ -817,6 +925,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/19/mother-whose-twin-baby-died-was-determined-to-have-home-birth-despite-expert-advice-nsw-inquest-hears-ntwnfb",
     "publishedAt": "2026-11-19T06:17:12.000Z"
+  },
+  {
+    "id": "29dd76ade58aa7f7",
+    "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+    "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo",
+    "publishedAt": "2026-11-19T06:15:57.000Z"
   },
   {
     "id": "5d1fe480c3ce0383",
@@ -1035,6 +1152,15 @@
     "publishedAt": "2026-11-19T03:58:10.000Z"
   },
   {
+    "id": "c04048f32bbf8ea4",
+    "title": "Mexico's Catholic street DJs turn annual pilgrimage into a party",
+    "summary": "A mix of street DJs and Catholic devotees are taking to the streets in one of Mexico's most important pilgrimages.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/mexicos-catholic-street-djs-turn-annual-pilgrimage-party-138262111",
+    "publishedAt": "2026-11-19T03:30:14.000Z"
+  },
+  {
     "id": "f2874059374d43a2",
     "title": "‘I’ll take the rap for that’: labour hire boss asked for fake invoices for sports club sponsorships, Big Build royal commission hears",
     "summary": "Invoices, including for junior football and netball sponsorships totalling thousands of dollars, were part of ‘distorted’ payments to CFMEU official, inquiry told.",
@@ -1060,6 +1186,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/19/one-nation-general-manager-takes-leave-amid-sidelining-speculation-politics-ntwnfb",
     "publishedAt": "2026-11-19T02:36:37.000Z"
+  },
+  {
+    "id": "ffaf75f088d156ed",
+    "title": "GTA 6 dazzles gamers in Australia with ‘fully lived-in, breathable world’",
+    "summary": "Players can renovate houses, fix cars, lift weights and follow the story in Grand Theft Auto VI’s Miami-inspired Vice City.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
+    "publishedAt": "2026-11-19T02:30:12.000Z"
   },
   {
     "id": "90d8037f17be5b0e",
@@ -1213,140 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
     "publishedAt": "2026-11-19T00:11:40.000Z"
-  },
-  {
-    "id": "61b027a68d1b4d0d",
-    "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
-    "summary": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o",
-    "publishedAt": "2026-11-19T00:05:31.000Z"
-  },
-  {
-    "id": "b8fc9ad90e7d4763",
-    "title": "Two-hour ambulance handover limit missed more than 2,000 times",
-    "summary": "Achieving the two-hour protocol over the winter will be \"very challenging\", says a senior doctor.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm752zx62n62o",
-    "publishedAt": "2026-11-19T00:01:29.000Z"
-  },
-  {
-    "id": "8a80a14053f22bd3",
-    "title": "Mike Lynch’s superyacht had unidentified vulnerability to high winds, report finds",
-    "summary": "Bayesian, which sank off Sicily killing seven including tech tycoon, had not been fully assessed, say investigators.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/19/mike-lynch-superyacht-bayesian-vulnerability-to-high-winds-report",
-    "publishedAt": "2026-11-19T00:01:11.000Z"
-  },
-  {
-    "id": "d458a1da01c44a78",
-    "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-    "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno",
-    "publishedAt": "2026-11-19T00:00:59.000Z"
-  },
-  {
-    "id": "56673e8fb67a197f",
-    "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
-    "summary": "The five-year-old artificial intelligence powerhouse priced its initial public offering at $83 a share, shrugging off growing concern about a possible AI bubble and volatility in tech stocks.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
-    "publishedAt": "2026-11-18T23:54:56.000Z"
-  },
-  {
-    "id": "d2cb25e8bf7044cb",
-    "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
-    "summary": "Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides home.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
-    "publishedAt": "2026-11-18T23:53:51.000Z"
-  },
-  {
-    "id": "584db0d8b9b3e36b",
-    "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-    "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
-    "publishedAt": "2026-11-18T23:44:27.000Z"
-  },
-  {
-    "id": "d116a97c5f1a7a3f",
-    "title": "The seven Anthropic founders who are about to become multi-billionaires",
-    "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
-    "publishedAt": "2026-11-18T23:42:07.000Z"
-  },
-  {
-    "id": "32224de2dbb70a71",
-    "title": "Migrant boat capsizes off Senegal, leaving at least one dead",
-    "summary": "Incident comes days after another boat capsized in Senegalese waters, and Spain declared a migration emergency.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss",
-    "publishedAt": "2026-11-18T23:36:23.000Z"
-  },
-  {
-    "id": "b0717db2279dfd24",
-    "title": "NASA’s Voyager 1 hits record one light-day distance, 50 years after launch",
-    "summary": "Voyager 1 reaches one light-day from Earth, marking a historic milestone nearly 50 years after its 1977 launch.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss",
-    "publishedAt": "2026-11-18T23:35:12.000Z"
-  },
-  {
-    "id": "c66416daa819ed69",
-    "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
-    "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o",
-    "publishedAt": "2026-11-18T23:28:03.000Z"
-  },
-  {
-    "id": "7f5dccfcc1fb8c9b",
-    "title": "Crimea bridge has been attacked again, says Russian-installed governor",
-    "summary": "Assessment of damage is underway, days after two attacks that destroyed road section of key bridge across Kerch strait linking annexed peninsula to Russia.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
-    "publishedAt": "2026-11-18T23:27:37.000Z"
-  },
-  {
-    "id": "a2c3574e4f0cbe70",
-    "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
-    "summary": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
-    "publishedAt": "2026-11-18T23:25:25.000Z"
-  },
-  {
-    "id": "822990ef2a395e91",
-    "title": "Brazil's Senate approves Lula's $10 billion fiscal package after costly election spending",
-    "summary": "Brazil’s Senate approved on Wednesday a plan by President Luiz In&aacute;cio Lula da Silva to control his government’s spending and increase revenues after his reelection late October.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/brazils-senate-approves-lulas-10-billion-fiscal-package-138265187",
-    "publishedAt": "2026-11-18T23:04:44.000Z"
-  },
-  {
-    "id": "ef2050480c726e32",
-    "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-    "summary": "No state has ever been found guilty by an international court of committing genocide.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o",
-    "publishedAt": "2026-11-18T23:04:06.000Z"
   }
 ]
