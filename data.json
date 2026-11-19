@@ -1,5 +1,104 @@
 [
   {
+    "id": "1aaebe7d96fec402",
+    "title": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
+    "summary": "With two million Palestinians confined to an area of less than 130sq km, UN-backed Gaza peace plan has collapsed.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
+    "publishedAt": "2026-11-19T10:05:33.000Z"
+  },
+  {
+    "id": "21379e0f60462e40",
+    "title": "Bank your stolen cash, bring a change of clothes, go easy on the bloodshed: 15 tips for playing Grand Theft Auto VI",
+    "summary": "There’s a vast amount to absorb in Leonida, but these pointers will rev up your criminal engines and allow you to better enjoy the ride.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/19/tips-for-playing-grand-theft-auto-vi",
+    "publishedAt": "2026-11-19T10:00:25.000Z"
+  },
+  {
+    "id": "fe44b1178bdbaa57",
+    "title": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
+    "summary": "Shares in the maker of the popular Claude artificial intelligence model will start trading on the Nasdaq Thursday.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
+    "publishedAt": "2026-11-19T10:00:00.000Z"
+  },
+  {
+    "id": "8c2efae1ddd7ef36",
+    "title": "Malaysian weightlifting champion Roslin loses arm after motorbike crash",
+    "summary": "Muhammad Hafizuddin Roslin, who won a gold medal at the Commonwealth Games 2026, had his arm amputated after accident.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/19/malaysian-weightlifting-champion-hafizuddin-loses-arm-after-motorbike-crash?traffic_source=rss",
+    "publishedAt": "2026-11-19T09:56:07.000Z"
+  },
+  {
+    "id": "0af123159cbe44f3",
+    "title": "South Korea’s top court overturns charges against ex-PM for his role in martial law",
+    "summary": "South Korea’s Supreme Court has overturned the conviction of former Prime Minister Han Duck-soo for aiding in the declaration of martial law in December 2024.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/south-koreas-top-court-overturns-charges-prime-minister-138280095",
+    "publishedAt": "2026-11-19T09:52:10.000Z"
+  },
+  {
+    "id": "736d45c4f90c62e0",
+    "title": "Pakistan military says it killed 22 militants in raids on hideouts in northwest",
+    "summary": "Pakistan's military says security forces have raided militant hideouts in the northwest near the Afghan border, setting off gunbattles that killed 22 militants.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pakistan-military-killed-22-militants-raids-hideouts-northwest-138279716",
+    "publishedAt": "2026-11-19T09:47:04.000Z"
+  },
+  {
+    "id": "5ff2ad299f6ebc4c",
+    "title": "Fire set at home of former Bangladesh interim leader as political tensions rise",
+    "summary": "Authorities in Bangladesh say a fire at the ancestral home of a former Bangladesh interim leader and Nobel Peace Prize laureate appears to have been intentionally set.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/fire-set-home-former-bangladesh-interim-leader-political-138280092",
+    "publishedAt": "2026-11-19T09:46:57.000Z"
+  },
+  {
+    "id": "e86aff74c6b2ed41",
+    "title": "Top UN court set to rule in a case alleging Myanmar committed genocide against Rohingya",
+    "summary": "The United Nations court is delivering its judgment on whether Myanmar committed genocide against the Rohingya nearly a decade ago.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/top-court-set-rule-case-alleging-myanmar-committed-138279244",
+    "publishedAt": "2026-11-19T09:46:54.000Z"
+  },
+  {
+    "id": "a995c33de1b31fc8",
+    "title": "BAE to slash 1,000 jobs across head office and air business to streamline orders",
+    "summary": "Job cuts to exclude shop floor, aircraft maintenance and trainees but move prompts calls for more orders to support British defence giant.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/19/bae-to-slash-1000-jobs-across-head-office-and-air-business-to-streamline-orders",
+    "publishedAt": "2026-11-19T09:19:05.000Z"
+  },
+  {
+    "id": "4dd0dd363114b2bb",
+    "title": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
+    "summary": "North Korea can produce both highly enriched uranium and weapons-grade plutonium at its facilities, according to IAEA.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss",
+    "publishedAt": "2026-11-19T09:16:47.000Z"
+  },
+  {
+    "id": "db86e2f82bea4e54",
+    "title": "Kenya’s marathon champion Peres Jepchirchir gets three-year ban for doping",
+    "summary": "Jepchirchir breached anti-doping rules by testing positive for banned substance EPO, Athletics Integrity Unit says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/19/kenyas-marathon-champion-peres-jepchirchir-gets-three-year-ban-for-doping?traffic_source=rss",
+    "publishedAt": "2026-11-19T09:06:36.000Z"
+  },
+  {
     "id": "f10fb213fdd86ab6",
     "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
     "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
@@ -7,6 +106,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o",
     "publishedAt": "2026-11-19T09:04:41.000Z"
+  },
+  {
+    "id": "b25352a4adb30a65",
+    "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
+    "summary": "Some local media report that at least four bodies have been recovered.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo",
+    "publishedAt": "2026-11-19T09:02:52.000Z"
   },
   {
     "id": "d89f452127a57d2b",
@@ -34,6 +142,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
     "publishedAt": "2026-11-19T08:19:17.000Z"
+  },
+  {
+    "id": "db619bc903191c04",
+    "title": "The Altruists review – two of TV’s best actors light up this chaotic crypto tale",
+    "summary": "Julia Garner and Anthony Boyle play the FTX founders behind ‘the greatest fraud ever committed’ in the US. It’s a mind-boggling story – just make sure you don’t miss a single moment.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/19/the-altruists-review-anthony-boyle-julia-garner",
+    "publishedAt": "2026-11-19T08:01:21.000Z"
   },
   {
     "id": "8c1ff0a9b2195c81",
@@ -1231,122 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
     "publishedAt": "2026-11-18T17:34:25.000Z"
-  },
-  {
-    "id": "b822906e6de8ab6f",
-    "title": "New pro-Brexit campaign took Westminster by surprise, but it is relying on the same old playbook",
-    "summary": "No 10 is confident Burnham can make the case for closer EU ties, with polling showing support from 71% of voters.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
-    "publishedAt": "2026-11-18T17:27:12.000Z"
-  },
-  {
-    "id": "f21f255fd91ab703",
-    "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
-    "summary": "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happen.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
-    "publishedAt": "2026-11-18T17:25:00.000Z"
-  },
-  {
-    "id": "29362b5d065b0e65",
-    "title": "California Republicans won only four of state’s 52 US House seats in midterms",
-    "summary": "California Democrats flipped five seats and will send 48 representatives to DC after successful redistricting effort.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/california-republicans-us-house",
-    "publishedAt": "2026-11-18T17:03:46.000Z"
-  },
-  {
-    "id": "5b8efa841e7cdd46",
-    "title": "The best TVs in the UK for every home and screen size, tested",
-    "summary": "Not sure which TV is right for you? Whether you want an affordable mini LED or a feature-packed OLED, here’s what our square-eyed expert recommends.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2026/nov/18/best-tvs-tested-uk",
-    "publishedAt": "2026-11-18T17:01:14.000Z"
-  },
-  {
-    "id": "86b25768645308c4",
-    "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-    "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o",
-    "publishedAt": "2026-11-18T17:00:04.000Z"
-  },
-  {
-    "id": "c4c4669fc2b3b123",
-    "title": "Brooklyn man sues, saying he warned of cracks before deadly building collapse",
-    "summary": "Dengane Omari Jack filed a lawsuit against his landlord and multiple construction companies.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/brooklyn-building-collapse-lawsuit",
-    "publishedAt": "2026-11-18T16:57:26.000Z"
-  },
-  {
-    "id": "0d2f6ca4dec29f8c",
-    "title": "Democrats demand answers from Howard Lutnick about Nvidia and his family’s business",
-    "summary": "Democratic lawmakers ask if commerce secretary favored Nvidia to enrich his adult children and Cantor Fitzgerald.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald",
-    "publishedAt": "2026-11-18T16:48:29.000Z"
-  },
-  {
-    "id": "725f3be025ebfbab",
-    "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
-    "summary": "Iranian attacks on the Gulf countries draw condemnation from across the region.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
-    "publishedAt": "2026-11-18T16:47:26.000Z"
-  },
-  {
-    "id": "9d29e3bcc686fcf6",
-    "title": "World Bank official says Lebanon reconstruction making slow progress",
-    "summary": "Beirut blames Israel's occupation and attacks on southern Lebanon for reconstruction delays.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
-    "publishedAt": "2026-11-18T16:44:59.000Z"
-  },
-  {
-    "id": "f563f9ad21e7dbe5",
-    "title": "Senators criticize Apple and Google for letting teens access ‘nudify’ apps despite parental controls",
-    "summary": "Exclusive: three Senate Democrats sent letters to tech CEOs saying safeguards against nudification apps are insufficient on their platforms.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/18/senate-democrats-nudify-apps-apple-google",
-    "publishedAt": "2026-11-18T16:39:25.000Z"
-  },
-  {
-    "id": "678303faed6d7868",
-    "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-    "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o",
-    "publishedAt": "2026-11-18T16:33:16.000Z"
-  },
-  {
-    "id": "8c6872b79dc7a03f",
-    "title": "St. Peter's Basilica marks 400 years at the heart of Roman Catholicism",
-    "summary": "St. Peter’s Basilica, the spiritual heart of Roman Catholicism, marks the 400th anniversary of its dedication.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/st-peters-basilica-marks-400-years-heart-roman-138252856",
-    "publishedAt": "2026-11-18T16:31:35.000Z"
-  },
-  {
-    "id": "ef345a586168b9b8",
-    "title": "Migrants face severe health tolls amid South Africa's anti-illegal migration tensions",
-    "summary": "Aid groups in South Africa report that anti-illegal migration protests have severely impacted the health of migrants.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/migrants-face-severe-health-tolls-amid-south-africas-138247843",
-    "publishedAt": "2026-11-18T16:26:16.000Z"
   }
 ]
