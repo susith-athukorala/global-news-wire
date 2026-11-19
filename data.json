@@ -1,5 +1,32 @@
 [
   {
+    "id": "82f098f29c3eb789",
+    "title": "‘Shame old Aussies’ to ‘fresh chaos’: what the UK papers say about Bancroft’s explosive ball tampering claims",
+    "summary": "Sports sections of British newspapers deliver their take on the unfolding Cricket Australia sandpaper saga.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/19/shame-old-aussies-to-fresh-chaos-what-the-uk-papers-say-about-bancrofts-explosive-ball-tampering-claims-ntwnfb",
+    "publishedAt": "2026-11-19T04:06:19.000Z"
+  },
+  {
+    "id": "0f144ace9611dcf3",
+    "title": "One in four women globally unable to refuse sex within marriage, says UN",
+    "summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+    "publishedAt": "2026-11-19T04:00:16.000Z"
+  },
+  {
+    "id": "29eb633a1a4008b5",
+    "title": "‘Most extraordinary virtual world’: critics hail Grand Theft Auto VI as masterpiece",
+    "summary": "Reviewers praise relationship between two leads in hotly anticipated release, whose trailer attracted 90m views in 24 hours.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-vi-critics-response-masterpiece",
+    "publishedAt": "2026-11-19T04:00:16.000Z"
+  },
+  {
     "id": "f2874059374d43a2",
     "title": "‘I’ll take the rap for that’: labour hire boss asked for fake invoices for sports club sponsorships, Big Build royal commission hears",
     "summary": "Invoices, including for junior football and netball sponsorships totalling thousands of dollars, were part of ‘distorted’ payments to CFMEU official, inquiry told.",
@@ -1321,32 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/18/nyc-rape-arrest-nashville-1990s",
     "publishedAt": "2026-11-18T13:39:34.000Z"
-  },
-  {
-    "id": "1bf80285ae594c45",
-    "title": "How the US House of Representatives chooses its leaders: A visual guide",
-    "summary": "After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss",
-    "publishedAt": "2026-11-18T13:24:22.000Z"
-  },
-  {
-    "id": "4003574a4fa9700c",
-    "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-    "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
-    "publishedAt": "2026-11-18T13:17:06.000Z"
-  },
-  {
-    "id": "bb9ae133864288b1",
-    "title": "Some say hacks, others say AI - why have there been so many outages?",
-    "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o",
-    "publishedAt": "2026-11-18T13:16:53.000Z"
   }
 ]
