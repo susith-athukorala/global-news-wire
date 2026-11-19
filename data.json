@@ -1,5 +1,95 @@
 [
   {
+    "id": "372e8dc43d48a12c",
+    "title": "UK and EU plan first talks on sending refused asylum seekers to third countries",
+    "summary": "Two sides to commit to discussing third-country hubs as part of reset pact after five-country deal with Rwanda.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
+    "publishedAt": "2026-11-19T19:02:45.000Z"
+  },
+  {
+    "id": "595df0fa2b1d569f",
+    "title": "Mamdani signs bill to ban horse-drawn carriages in New York City",
+    "summary": "Animal rights activists back the new law while workers’ unions oppose the ban over concerns about lost livelihoods.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/nyc-horse-drawn-carriage-ban-mamdani",
+    "publishedAt": "2026-11-19T18:56:23.000Z"
+  },
+  {
+    "id": "50469bae18e9982d",
+    "title": "France awaits verdict six years after police beat Black music producer",
+    "summary": "Three officers are accused of assaulting Michel Zecler in an incident that was filmed by surveillance cameras.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss",
+    "publishedAt": "2026-11-19T18:51:50.000Z"
+  },
+  {
+    "id": "6b3443124bcc427d",
+    "title": "Spuds in space: scientists say potatoes could be key food source for future moon base",
+    "summary": "New report details how potatoes were successfully cultivated in simulated lunar soil.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/19/potatoes-moon-base-nasa",
+    "publishedAt": "2026-11-19T18:49:54.000Z"
+  },
+  {
+    "id": "06d9fa71c3674dd0",
+    "title": "Heavy fighting erupts in Haiti as armed forces fight gangs to regain control of key corridor",
+    "summary": "Armed forces in Haiti have launched an aggressive operation to remove powerful gangs long entrenched in a key corridor that connects the country’s capital to its western and southern regions.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/heavy-fighting-erupts-haiti-armed-forces-fight-gangs-138295678",
+    "publishedAt": "2026-11-19T18:46:43.000Z"
+  },
+  {
+    "id": "28d1ab3a6c4e88f6",
+    "title": "Palestinians in Gaza face new displacement after Israeli army operation",
+    "summary": "Families in Nuseirat spend the night without shelter, while many fear returning despite Israel ending offensive.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+    "publishedAt": "2026-11-19T18:46:10.000Z"
+  },
+  {
+    "id": "125f9d56cd3ea0a5",
+    "title": "The 'Magic Six': How to strengthen your marriage in midlife",
+    "summary": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
+    "publishedAt": "2026-11-19T18:28:23.000Z"
+  },
+  {
+    "id": "46ef685dc33619c5",
+    "title": "Call for police to investigate Scottish hospital after 19 deaths due to surgery",
+    "summary": "Surgeon at Aberdeen Royal Infirmary says he repeatedly voiced concerns and that patients may have died unnecessarily.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
+    "publishedAt": "2026-11-19T18:21:59.000Z"
+  },
+  {
+    "id": "04800584010a6e4b",
+    "title": "Iraq reaches compromise with Kataib Hezbollah over armed group stronghold",
+    "summary": "The compromise reached will station forces that include brigades from the Popular Mobilisation Forces.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
+    "publishedAt": "2026-11-19T18:16:09.000Z"
+  },
+  {
+    "id": "f1b9eaa5143f7c9f",
+    "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
+    "summary": "Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
+    "publishedAt": "2026-11-19T18:15:48.000Z"
+  },
+  {
     "id": "fd737119107954c7",
     "title": "Jimmy Dimly is back and we should treasure him while we can | John Crace",
     "summary": "Old-school Tory with a heart wants to make London fun again – just don’t mention Brexit.",
@@ -1258,95 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o",
     "publishedAt": "2026-11-19T06:23:22.000Z"
-  },
-  {
-    "id": "68f2c2c4e5fed0db",
-    "title": "Tammy Shipley was supposed to be monitored in prison. Instead she died after drinking 20L of water",
-    "summary": "If the Aboriginal woman had been checked at regular intervals as required, her ‘excess consumption of water’ would have been prevented, inquest finds.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/19/tammy-shipley-was-supposed-to-be-monitored-in-prison-instead-she-died-after-drinking-20l-of-water-ntwnfb",
-    "publishedAt": "2026-11-19T06:20:46.000Z"
-  },
-  {
-    "id": "b3970ca8d300738c",
-    "title": "Mother whose twin baby died was determined to have home birth despite advice of experts, NSW inquest hears",
-    "summary": "Inquest into deaths of four babies in northern NSW between 2022 and 2024 told mother refused to give birth in hospital after hearing others’ traumatic stories.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/19/mother-whose-twin-baby-died-was-determined-to-have-home-birth-despite-expert-advice-nsw-inquest-hears-ntwnfb",
-    "publishedAt": "2026-11-19T06:17:12.000Z"
-  },
-  {
-    "id": "29dd76ade58aa7f7",
-    "title": "Gilts v kilts: What is happening with Scottish government bonds?",
-    "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo",
-    "publishedAt": "2026-11-19T06:15:57.000Z"
-  },
-  {
-    "id": "5d1fe480c3ce0383",
-    "title": "Inside Greenland’s push for fine dining, from polar night logistics to 'kaffemik' traditions",
-    "summary": "Greenland's chefs are transforming traditional Inuit ingredients into modern fine-dining experiences.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/inside-greenlands-push-fine-dining-polar-night-logistics-138276973",
-    "publishedAt": "2026-11-19T06:10:41.000Z"
-  },
-  {
-    "id": "82b67a498d5a0c5e",
-    "title": "Developer accused of 'environmental vandalism'",
-    "summary": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo",
-    "publishedAt": "2026-11-19T06:09:25.000Z"
-  },
-  {
-    "id": "9b1de6dde25dc076",
-    "title": "Grand Theft Auto VI launches to rave reviews after 13-year wait",
-    "summary": "Critics hail GTA 6 as a 'masterpiece', 'spectacular', and an 'astonishing American epic'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait?traffic_source=rss",
-    "publishedAt": "2026-11-19T06:08:47.000Z"
-  },
-  {
-    "id": "855f26820aebedf4",
-    "title": "In the land that gave us 'cinema,' activist archivists are bringing back old home movies",
-    "summary": "Archiving activists who roam from town to town in France are making people's forgotten home movies great again by preserving them digitally.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/land-gave-us-cinema-activist-archivists-bringing-back-138278144",
-    "publishedAt": "2026-11-19T06:07:51.000Z"
-  },
-  {
-    "id": "177817c71f85433b",
-    "title": "Ecuadorian footballer gets eight-year ban for throwing rock at referee",
-    "summary": "Jhon Perlaza threw a stone that struck an assistant referee, who later required surgery, during a third-tier match.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/19/ecuadorian-footballer-gets-eight-year-ban-for-throwing-rock-at-referee?traffic_source=rss",
-    "publishedAt": "2026-11-19T06:06:23.000Z"
-  },
-  {
-    "id": "0567c4f26961cac7",
-    "title": "Leftover pumpkins help deliver 1,000th free meal",
-    "summary": "\"It's a really tough time for a lot of people,\" a sustainable food organisation says.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno",
-    "publishedAt": "2026-11-19T06:04:30.000Z"
-  },
-  {
-    "id": "7a017463e99c8d89",
-    "title": "Car use in London forecast to rise by 10% in next decade",
-    "summary": "Modelling in draft of 10-year London plan threatens Sadiq Khan’s promises on improving air quality.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/19/car-use-in-london-forecast-to-rise-by-10-in-next-decade",
-    "publishedAt": "2026-11-19T06:00:20.000Z"
   }
 ]
