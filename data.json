@@ -1,5 +1,41 @@
 [
   {
+    "id": "f10fb213fdd86ab6",
+    "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+    "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o",
+    "publishedAt": "2026-11-19T09:04:41.000Z"
+  },
+  {
+    "id": "d89f452127a57d2b",
+    "title": "Trump meets Putin and Xi as trilateral US, Russia, China talks begin",
+    "summary": "US president calls both Putin and Xi a 'friend' in separate meetings at APEC, ahead of rare three-way talks.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss",
+    "publishedAt": "2026-11-19T08:32:10.000Z"
+  },
+  {
+    "id": "df4b75045c55b0a6",
+    "title": "‘We don’t produce Neets’: the London school recognised at World’s Best School awards",
+    "summary": "Swiss Cottage school for children with complex needs is place where ‘every child feels they belong’, education secretary says.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/education/2026/nov/19/london-swiss-cottage-school-worlds-best-school-awards",
+    "publishedAt": "2026-11-19T08:28:22.000Z"
+  },
+  {
+    "id": "69be7e3e1ef4d0bf",
+    "title": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
+    "summary": "Material damage was reported after ​debris fell following the latest Houthi strikes launched towards Saudi Arabia.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
+    "publishedAt": "2026-11-19T08:19:17.000Z"
+  },
+  {
     "id": "8c1ff0a9b2195c81",
     "title": "EDF snaps up 1.3m more customers after Utilita takeover",
     "summary": "Britain’s fourth-largest energy supplier brings account base up to 6m after purchase of pay-as-you-go supplier.",
@@ -70,6 +106,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/uk-eu-holding-summit-patch-ties-after-bitter-138278421",
     "publishedAt": "2026-11-19T07:25:50.000Z"
+  },
+  {
+    "id": "3c9480ea21e36fb8",
+    "title": "IPCC report delay will threaten global effort to tackle climate crisis, says top scientist",
+    "summary": "Johan Rockström, one of world’s leading climate scientists, says stopping panel from working as quickly as possible is inviting disaster.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
+    "publishedAt": "2026-11-19T07:16:45.000Z"
   },
   {
     "id": "03a269265f7bba42",
@@ -522,6 +567,15 @@
     "publishedAt": "2026-11-19T00:11:40.000Z"
   },
   {
+    "id": "61b027a68d1b4d0d",
+    "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+    "summary": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o",
+    "publishedAt": "2026-11-19T00:05:31.000Z"
+  },
+  {
     "id": "b8fc9ad90e7d4763",
     "title": "Two-hour ambulance handover limit missed more than 2,000 times",
     "summary": "Achieving the two-hour protocol over the winter will be \"very challenging\", says a senior doctor.",
@@ -799,6 +853,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
     "publishedAt": "2026-11-18T21:24:19.000Z"
+  },
+  {
+    "id": "017ffa83242fd131",
+    "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+    "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
+    "publishedAt": "2026-11-18T21:13:06.000Z"
   },
   {
     "id": "6ccc664f899664a5",
@@ -1179,6 +1242,15 @@
     "publishedAt": "2026-11-18T17:27:12.000Z"
   },
   {
+    "id": "f21f255fd91ab703",
+    "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+    "summary": "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happen.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+    "publishedAt": "2026-11-18T17:25:00.000Z"
+  },
+  {
     "id": "29362b5d065b0e65",
     "title": "California Republicans won only four of state’s 52 US House seats in midterms",
     "summary": "California Democrats flipped five seats and will send 48 representatives to DC after successful redistricting effort.",
@@ -1276,77 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/migrants-face-severe-health-tolls-amid-south-africas-138247843",
     "publishedAt": "2026-11-18T16:26:16.000Z"
-  },
-  {
-    "id": "94313a3ed893388d",
-    "title": "EU proposes fresh $49 billion loan for Ukraine as war costs mount",
-    "summary": "The European Commission wants to raise a 45 billion euro loan for Ukraine to support its economy and war effort in 2027.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/eu-proposes-fresh-49-billion-loan-ukraine-war-138249084",
-    "publishedAt": "2026-11-18T16:26:13.000Z"
-  },
-  {
-    "id": "c69a55dc2529c991",
-    "title": "Ukraine says it hit 2 Russian oil refineries as Zelenskyy hails weapons produced in the country",
-    "summary": "Ukraine says it has carried out new strikes on two oil refineries in southern Russia.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ukraine-hit-2-russian-oil-refineries-zelenskyy-hails-138250394",
-    "publishedAt": "2026-11-18T16:26:07.000Z"
-  },
-  {
-    "id": "01266f1dae7af6ee",
-    "title": "El Salvador's president confirms and celebrates attack on home of key Haitian gang leader",
-    "summary": "El Salvador’s president says that his troops have demolished the lavish home of a prominent gang leader in Haiti known as Jeff.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/el-salvadors-president-confirms-celebrates-attack-home-key-138251283",
-    "publishedAt": "2026-11-18T16:26:03.000Z"
-  },
-  {
-    "id": "7f9c731715a9de54",
-    "title": "A Chinese executive is convicted in a case linked to a Bangkok building collapse",
-    "summary": "A Thai court has found a Chinese executive and Thai shareholders guilty of illegally operating a business in Thailand.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/chinese-executive-convicted-case-linked-bangkok-building-collapse-138252346",
-    "publishedAt": "2026-11-18T16:25:58.000Z"
-  },
-  {
-    "id": "1948a2b832e41723",
-    "title": "Remains of Ecuadorian killed in New York building collapse arrive in Quito",
-    "summary": "The remains of Jos&eacute; Caguana, one of two Ecuadorian construction workers killed in a New York building collapse, have arrived in Ecuador.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/remains-ecuadorian-killed-new-york-building-collapse-arrive-138252749",
-    "publishedAt": "2026-11-18T16:25:54.000Z"
-  },
-  {
-    "id": "f850a1dfb2f79914",
-    "title": "Ukraine criticizes IAEA plan to appoint sanctioned Russian official to senior post",
-    "summary": "Ukraine has criticized the proposal by the International Atomic Energy Agency to appoint a Russian official, sanctioned by Kyiv, to a senior position.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ukraine-criticizes-iaea-plan-appoint-sanctioned-russian-official-138252932",
-    "publishedAt": "2026-11-18T16:25:50.000Z"
-  },
-  {
-    "id": "fafb6fa73db8a5e4",
-    "title": "Private renters in England: have you struggled to get your deposit back?",
-    "summary": "We would like to hear from private tenants about their experiences of the rental deposit system in England.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/18/private-renters-in-england-have-you-struggled-to-get-your-deposit-back",
-    "publishedAt": "2026-11-18T16:21:21.000Z"
-  },
-  {
-    "id": "3aaf5d92c0730172",
-    "title": "Labour faces double blow over UK fossil fuel projects",
-    "summary": "Large North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
-    "publishedAt": "2026-11-18T16:19:41.000Z"
   }
 ]
