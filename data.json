@@ -1,5 +1,77 @@
 [
   {
+    "id": "5aaa0462f285a93d",
+    "title": "Meet Phil, the bar-tailed godwit tracked on a 6,800-mile round trip to Siberia",
+    "summary": "Scientists use lightweight tracker to map wading bird’s extraordinary migration from Norfolk to the Arctic and back.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/19/phil-bar-tailed-godwit-bird-tracked-round-trip-siberia",
+    "publishedAt": "2026-11-19T05:01:17.000Z"
+  },
+  {
+    "id": "4afb7daa8324d58e",
+    "title": "Weight-loss drugs used in nearly one in 10 homes in Great Britain, study finds",
+    "summary": "About 2.6m adults are taking the drugs, fuelled by the regulator’s approval of the pill versions and a rise in male users.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/19/weight-loss-drugs-nearly-one-in-10-homes-great-britain-study-finds",
+    "publishedAt": "2026-11-19T05:00:19.000Z"
+  },
+  {
+    "id": "aae72e4c06797373",
+    "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+    "summary": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+    "publishedAt": "2026-11-19T05:00:18.000Z"
+  },
+  {
+    "id": "2c3fe24857f56520",
+    "title": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence",
+    "summary": "European leaders set to meet in Berlin as Kyiv faces a 25 billion-euro ($27.4bn) financing gap next year.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
+    "publishedAt": "2026-11-19T04:58:36.000Z"
+  },
+  {
+    "id": "fb4492dc04e2d68f",
+    "title": "Hannah Lillith Assadi wins National book award for ‘visionary’ novel Paradiso 17",
+    "summary": "Assadi’s third novel was inspired by the story of her late father, a Palestinian who escaped the Nakba as a child in 1948.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/books/2026/nov/19/hannah-lillith-assadi-paradiso-17-wins-national-book-award",
+    "publishedAt": "2026-11-19T04:54:13.000Z"
+  },
+  {
+    "id": "2cad4ef34e233f10",
+    "title": "Trump makes third Supreme Court bid to end Venezuelan migrant protections",
+    "summary": "Emergency appeal follows a California judge's ruling that ending their temporary protected status was unlawful.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections?traffic_source=rss",
+    "publishedAt": "2026-11-19T04:46:59.000Z"
+  },
+  {
+    "id": "96087ce73eeb94cd",
+    "title": "Elon Musk says he feels ‘pretty foolish’ about US midterm spending",
+    "summary": "Musk says campaign cash alone cannot decide elections, even as he heavily funded Republican candidates in Texas.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/elon-musk-says-he-feels-pretty-foolish-about-us-midterm-spending?traffic_source=rss",
+    "publishedAt": "2026-11-19T04:46:18.000Z"
+  },
+  {
+    "id": "f63c37da22eef926",
+    "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+    "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o",
+    "publishedAt": "2026-11-19T04:42:52.000Z"
+  },
+  {
     "id": "82f098f29c3eb789",
     "title": "‘Shame old Aussies’ to ‘fresh chaos’: what the UK papers say about Bancroft’s explosive ball tampering claims",
     "summary": "Sports sections of British newspapers deliver their take on the unfolding Cricket Australia sandpaper saga.",
@@ -25,6 +97,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-vi-critics-response-masterpiece",
     "publishedAt": "2026-11-19T04:00:16.000Z"
+  },
+  {
+    "id": "01b661b82e8d491f",
+    "title": "Miami court convicts US-Haitian pastor over 2021 assassination of president",
+    "summary": "Prosecutors accused Christian Emmanuel Sanon of seeking to replace then-Haitian President Moise.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
+    "publishedAt": "2026-11-19T03:58:10.000Z"
   },
   {
     "id": "f2874059374d43a2",
@@ -115,6 +196,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/19/beau-lamarre-condon-jesse-baird-luke-davies-ntwnfb",
     "publishedAt": "2026-11-19T01:00:25.000Z"
+  },
+  {
+    "id": "beba5590c387073c",
+    "title": "Analysts surprised as unemployment rate surges to 4.9pc in October",
+    "summary": "The number of people in employment fell by 43,500 last month and the number of officially unemployed increased by 17,800, in seasonally adjusted terms.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-19/unemployment-rate-jumps-in-october-in-australia/107399076",
+    "publishedAt": "2026-11-19T00:59:34.000Z"
   },
   {
     "id": "94d1cffd8a5c3802",
@@ -1258,95 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
     "publishedAt": "2026-11-18T14:08:08.000Z"
-  },
-  {
-    "id": "4054a219c6193a40",
-    "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
-    "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment regulator says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
-    "publishedAt": "2026-11-18T14:07:35.000Z"
-  },
-  {
-    "id": "1352ea6b7b58f758",
-    "title": "UK energy bills are rising. Tell us: are you shopping around for a better deal?",
-    "summary": "We’d like to hear from UK households about whether they’re switching energy suppliers to save money or finding that deals are too similar to make it worthwhile.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/18/uk-energy-bills-are-rising-tell-us-are-you-shopping-around-for-a-better-deal",
-    "publishedAt": "2026-11-18T14:03:49.000Z"
-  },
-  {
-    "id": "a86fa1d1ab95da44",
-    "title": "LeBron James sues sports betting app Bron for using nickname and likeness without permission",
-    "summary": "NBA star’s lawsuit alleges ‘previously unknown app’ acted illegally ‘to gain notoriety’ by seeming affiliated with James.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/lebron-james-bron-betting-app-lawsuit",
-    "publishedAt": "2026-11-18T14:03:25.000Z"
-  },
-  {
-    "id": "33ec29b36981d62b",
-    "title": "Business Council of Australia more aligned with fossil fuel industry than its members’ values, analysis finds",
-    "summary": "Research by InfluenceMap raises questions about association’s policies and representation, particularly around advocacy for new gas supplies.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns",
-    "publishedAt": "2026-11-18T14:00:02.000Z"
-  },
-  {
-    "id": "d116a97c5f1a7a3f",
-    "title": "Anthropic: The seven founders who are about to become multi-billionaires",
-    "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
-    "publishedAt": "2026-11-18T13:55:14.000Z"
-  },
-  {
-    "id": "4b1632ddd3fe6465",
-    "title": "UK inflation rises to year high and keeps risk of second straight rate hike alive",
-    "summary": "Inflation in the U.K. has risen to its highest level in a year, reaching 3.6% in October.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/uk-inflation-rises-year-high-possibility-straight-rate-138242229",
-    "publishedAt": "2026-11-18T13:54:26.000Z"
-  },
-  {
-    "id": "c73fa9294a5cab62",
-    "title": "Philippine president has Jollibee fried chicken sent to Trump for a late-night snack",
-    "summary": "Philippine President Ferdinand Marcos Jr. says he sent a delivery of Jollibee fried chicken to President Donald Trump so he could have a “taste of Manila” since the Republican president was staying in the capital for a short amount of time.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/philippine-president-jollibee-fried-chicken-delivered-trump-late-138241588",
-    "publishedAt": "2026-11-18T13:54:19.000Z"
-  },
-  {
-    "id": "ed344170b43a5e1a",
-    "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
-    "summary": "Israeli diplomats say decision on settlement expansion should not be taken by caretaker government led by Netanyahu.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
-    "publishedAt": "2026-11-18T13:47:19.000Z"
-  },
-  {
-    "id": "7f0ebec0fc8ab15d",
-    "title": "Ministers to drop foie gras imports ban to help seal EU food trade deal",
-    "summary": "Animal welfare charities criticise ‘backwards step’ on foie gras, production of which has been banned in UK since 2007.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/18/labour-drops-foie-gras-import-ban-eu-food-trade-deal",
-    "publishedAt": "2026-11-18T13:47:04.000Z"
-  },
-  {
-    "id": "1424daed67ca7ccc",
-    "title": "Man arrested in Nashville after DNA links him to unsolved 1990s rape cases",
-    "summary": "Archibald Amory, 58, reportedly being held in Tennessee pending return to New York, where he was tied to two cases.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/18/nyc-rape-arrest-nashville-1990s",
-    "publishedAt": "2026-11-18T13:39:34.000Z"
   }
 ]
