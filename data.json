@@ -1,5 +1,86 @@
 [
   {
+    "id": "fd2811614640e90d",
+    "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
+    "summary": "Asian markets on track for their worst week since 2020, with European and US stocks also way down.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+    "publishedAt": "2026-11-20T10:02:21.000Z"
+  },
+  {
+    "id": "3e36496a5cab4b5d",
+    "title": "Zohran Mamdani unveils plan to close Rikers Island jail complex",
+    "summary": "Mayor plans to close jail by 2032 and relocate its remaining population to smaller facilities across four boroughs.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/rikers-island-closure-plan-mamdani",
+    "publishedAt": "2026-11-20T10:00:30.000Z"
+  },
+  {
+    "id": "b4d8b1b930db3e50",
+    "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
+    "summary": "The attack follows Putin's pledge of 'painful' response to Ukraine's attack on symbolic Crimean bridge.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+    "publishedAt": "2026-11-20T09:54:00.000Z"
+  },
+  {
+    "id": "849d6ad23296c893",
+    "title": "Experts say powering data centers uses more water than cooling them",
+    "summary": "Fears about data center water use are especially acute in Arizona. But keeping servers cool uses a lot less water than generating the electricity for which data centers are so thirsty.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6045780/experts-say-powering-data-centers-uses-more-water-than-cooling-them",
+    "publishedAt": "2026-11-20T09:43:39.000Z"
+  },
+  {
+    "id": "1592da0c0a3d9b24",
+    "title": "AI models are propelling rapid growth and revealing vulnerabilities",
+    "summary": "AI models are exposing the internet's longstanding insecurity, driving rapid change and technical outages.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6047374/ai-models-are-propelling-rapid-growth-and-revealing-vulnerabilities",
+    "publishedAt": "2026-11-20T09:43:11.000Z"
+  },
+  {
+    "id": "6045235091c0672f",
+    "title": "Business opportunity or security threat? Nvidia case raises questions about China",
+    "summary": "The Nvidia case illustrates the friction between Silicon Valley, which wants to sell high-tech products to China, and the national security community, which aims to restrict U.S. tech to China.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6043838/business-opportunity-or-security-threat-nvidia-case-raises-questions-about-china",
+    "publishedAt": "2026-11-20T09:42:24.000Z"
+  },
+  {
+    "id": "2af93e3b8100433c",
+    "title": "White House removes cyber-security chief after series of tech outages",
+    "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
+    "publishedAt": "2026-11-20T09:37:59.000Z"
+  },
+  {
+    "id": "6784575ef645eb46",
+    "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+    "summary": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+    "publishedAt": "2026-11-20T09:36:10.000Z"
+  },
+  {
+    "id": "2c3757b0893a7b0c",
+    "title": "California investigates Nvidia over whether chip exports ended up in China",
+    "summary": "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investors.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+    "publishedAt": "2026-11-20T09:18:30.000Z"
+  },
+  {
     "id": "04f6eec64cd9546b",
     "title": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
     "summary": "More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 2017, most of them distance runners.",
@@ -439,6 +520,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/society/2026/nov/20/patient-confidentiality-sensitive-discussion-records-shared-nhs-staff",
     "publishedAt": "2026-11-20T05:00:23.000Z"
+  },
+  {
+    "id": "0abd9fbdec95bfa4",
+    "title": "‘We will become cyborgs’ Peter Gabriel on bonobo ape duets, building a Jurassic Park for plants – and why AI will make great music",
+    "summary": "From sampling to streaming, the rock legend has always been in thrall to technology – but is superintelligence a step too far? Back with an epic new album, he unpacks his remarkable ideas.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
+    "publishedAt": "2026-11-20T05:00:22.000Z"
   },
   {
     "id": "5a31c1195c819bc8",
@@ -1233,6 +1323,15 @@
     "publishedAt": "2026-11-19T17:54:48.000Z"
   },
   {
+    "id": "b5c89c2c5b19e036",
+    "title": "4 men found guilty of sex crimes against British woman in a case that recalls Gisèle Pelicot's",
+    "summary": "Four British men have been found guilty of multiple sexual crimes against a woman whose ex-husband drugged and advertised her for sex online.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/4-men-found-guilty-crimes-british-woman-husband-138292217",
+    "publishedAt": "2026-11-19T17:54:16.000Z"
+  },
+  {
     "id": "6df730d7ff278039",
     "title": "Wife of Italian fugitive convicted of terrorism arrested in Argentina over his escape",
     "summary": "Argentine authorities have arrested the wife of an Italian fugitive convicted of terrorism-related crimes.",
@@ -1249,104 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
     "publishedAt": "2026-11-19T17:38:22.000Z"
-  },
-  {
-    "id": "b8fc9ad90e7d4763",
-    "title": "'Dad was deteriorating': Two-hour ambulance target missed more than 2,000 times",
-    "summary": "The Release to Rescue initiative was introduced this year to cut ambulance delays and speed up handover times.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm752zx62n62o",
-    "publishedAt": "2026-11-19T17:31:34.000Z"
-  },
-  {
-    "id": "0a9843ba32b0e591",
-    "title": "US army plan to detonate bomb-making chemicals has Iowa residents bracing for lead dust cloud",
-    "summary": "Officials recommend that residents in path of expected toxic plume vacate area, and some schools will be closed.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
-    "publishedAt": "2026-11-19T17:18:08.000Z"
-  },
-  {
-    "id": "d843d0b0fcfec967",
-    "title": "‘Not an acquittal’: After impeachment vote, Hegseth still under microscope",
-    "summary": "A week after a fizzled impeachment bid, analysts say Hegseth continues to face backlash for his leadership at Pentagon.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope?traffic_source=rss",
-    "publishedAt": "2026-11-19T17:15:30.000Z"
-  },
-  {
-    "id": "f3004053344a2862",
-    "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
-    "summary": "Hailed as ‘a rare moment of justice’, judges’ decision sets out a roadmap for assessing the question of intent.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
-    "publishedAt": "2026-11-19T17:14:55.000Z"
-  },
-  {
-    "id": "8b7d6e98f9b274af",
-    "title": "US zoo staff monitor Fiona the hippo’s rear end for signs of hat she ate",
-    "summary": "Colonoscopy, ultrasound, Vibration plate and patience deployed 11 days after beloved beast ingested knitted hat.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
-    "publishedAt": "2026-11-19T17:12:57.000Z"
-  },
-  {
-    "id": "38e3030e7f0cdbf3",
-    "title": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
-    "summary": "US president appeared to doze off while Chinese leader made speech, but White House insisted he was awake.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china",
-    "publishedAt": "2026-11-19T17:12:11.000Z"
-  },
-  {
-    "id": "f5974850414e0694",
-    "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-    "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
-    "publishedAt": "2026-11-19T17:03:23.000Z"
-  },
-  {
-    "id": "33b9dab59bcc1490",
-    "title": "Cap all political donations, not only those from overseas, Burnham told",
-    "summary": "Experts say ‘insanely complex’ £100,000 limit proposed for overseas donors should be replaced by universal cap.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/19/andy-burnham-political-donations-cap-overseas-donors-elections",
-    "publishedAt": "2026-11-19T17:01:40.000Z"
-  },
-  {
-    "id": "18b9e87b48882398",
-    "title": "Yemen’s besieged city of Taiz faces a deepening water crisis",
-    "summary": "Fuel shortages and the loss of access to wells have left residents dependent on unsafe water.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis?traffic_source=rss",
-    "publishedAt": "2026-11-19T16:59:38.000Z"
-  },
-  {
-    "id": "19f7a3533d5e2672",
-    "title": "Anthropic starts trading in the US after blockbuster IPO",
-    "summary": "Anthropic’s IPO surpasses SpaceX, marking the largest initial public offering in US history at $81bn.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo?traffic_source=rss",
-    "publishedAt": "2026-11-19T16:57:26.000Z"
-  },
-  {
-    "id": "947e6ec924674139",
-    "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-    "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
-    "publishedAt": "2026-11-19T16:55:57.000Z"
   }
 ]
