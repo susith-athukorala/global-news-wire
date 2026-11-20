@@ -1,5 +1,77 @@
 [
   {
+    "id": "6db0fde3718cbe9e",
+    "title": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
+    "summary": "Labor says allowing mine to increase production reflects ‘gravity of situation facing hundreds of workers’ – but critics call it ‘unprecedented and dangerous’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
+    "publishedAt": "2026-11-20T23:09:57.000Z"
+  },
+  {
+    "id": "5d3c25a64fe3237b",
+    "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+    "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
+    "publishedAt": "2026-11-20T23:08:57.000Z"
+  },
+  {
+    "id": "4e24f14be3407a12",
+    "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+    "summary": "EU warns COP31 risks turning into a 'fossil summit' as critical climate commitments are omitted from the draft deal.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+    "publishedAt": "2026-11-20T23:06:41.000Z"
+  },
+  {
+    "id": "b85a5fc66bb6655a",
+    "title": "US police departments warn GTA VI users to ‘keep it in the game’",
+    "summary": "Although there is no definitive link between violent video games and behavior, departments take to social media.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/grand-theft-auto-vi-us-police-psa",
+    "publishedAt": "2026-11-20T23:02:30.000Z"
+  },
+  {
+    "id": "39792ebd7ac7848e",
+    "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
+    "summary": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o",
+    "publishedAt": "2026-11-20T22:57:26.000Z"
+  },
+  {
+    "id": "4939f70f711bb596",
+    "title": "French police officers sentenced for beating of music producer Michel Zecler",
+    "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo",
+    "publishedAt": "2026-11-20T22:37:09.000Z"
+  },
+  {
+    "id": "8ed73d92e1a547ca",
+    "title": "French police officers found guilty of racist assault on black music producer",
+    "summary": "Beating of Michel Zecler in 2020 sparked outrage over police brutality after it was caught on security cameras.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+    "publishedAt": "2026-11-20T22:23:53.000Z"
+  },
+  {
+    "id": "69042885001bee95",
+    "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+    "summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+    "publishedAt": "2026-11-20T22:15:07.000Z"
+  },
+  {
     "id": "9b37693e45ed76e6",
     "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
     "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
@@ -1206,6 +1278,15 @@
     "publishedAt": "2026-11-20T09:54:00.000Z"
   },
   {
+    "id": "562df2c80c8dc794",
+    "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+    "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo",
+    "publishedAt": "2026-11-20T09:44:56.000Z"
+  },
+  {
     "id": "849d6ad23296c893",
     "title": "Experts say powering data centers uses more water than cooling them",
     "summary": "Fears about data center water use are especially acute in Arizona. But keeping servers cool uses a lot less water than generating the electricity for which data centers are so thirsty.",
@@ -1267,86 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
     "publishedAt": "2026-11-20T09:16:30.000Z"
-  },
-  {
-    "id": "6edc9b97feb8dc8f",
-    "title": "The U.K. and EU hold a rare summit to strengthen ties",
-    "summary": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
-    "publishedAt": "2026-11-20T09:14:41.000Z"
-  },
-  {
-    "id": "5142390aaa16dc3e",
-    "title": "Pakistan minister visits India for first time since 2025 war",
-    "summary": "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
-    "publishedAt": "2026-11-20T09:11:57.000Z"
-  },
-  {
-    "id": "34ed9397c7f7d687",
-    "title": "California’s coastal communities on alert as biggest waves in years hit state",
-    "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
-    "publishedAt": "2026-11-20T09:03:20.000Z"
-  },
-  {
-    "id": "974fdeb4375ac413",
-    "title": "Three Kyiv bridges hit during major Russian missile attack",
-    "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
-    "publishedAt": "2026-11-20T09:01:06.000Z"
-  },
-  {
-    "id": "7ab8caed3c676c4c",
-    "title": "British Library to outsource security and ‘repurpose’ reading rooms as business spaces",
-    "summary": "Exclusive: Guards told their jobs will be transferred to a private contractor that has rejected union recognition.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/books/2026/nov/20/british-library-outsource-security-reading-rooms-business-spaces",
-    "publishedAt": "2026-11-20T09:00:27.000Z"
-  },
-  {
-    "id": "eb7611afb1500257",
-    "title": "Russian attacks on Kyiv kill 3, cripple bridges and cut power",
-    "summary": "Russia has launched missiles and drones across Kyiv, killing three people and injuring nine.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/russian-attacks-kyiv-kill-3-cripple-bridges-cut-138313948",
-    "publishedAt": "2026-11-20T08:51:45.000Z"
-  },
-  {
-    "id": "c8ab7ff78dd0aabd",
-    "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
-    "summary": "Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
-    "publishedAt": "2026-11-20T08:36:13.000Z"
-  },
-  {
-    "id": "ed220e25d6dafea0",
-    "title": "Joanne Young praised for bravery in exposing rape by husband and strangers",
-    "summary": "Woman who waived anonymity says she hopes her case will mean other victims of abuse are more likely to come forward.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/20/joanne-young-drugged-raped-by-husband-praised-bravery-anonymity",
-    "publishedAt": "2026-11-20T08:22:16.000Z"
-  },
-  {
-    "id": "c4176800e835a66d",
-    "title": "El Salvador’s Bukele seeks third term after constitution change",
-    "summary": "Critics accuse populist president of engineering a de facto one-party state in El Salvador.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss",
-    "publishedAt": "2026-11-20T08:21:34.000Z"
   }
 ]
