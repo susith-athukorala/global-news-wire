@@ -1,5 +1,59 @@
 [
   {
+    "id": "4fa85ae7ae72f760",
+    "title": "Trump threatens ban on US firms building AI data centres overseas",
+    "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+    "publishedAt": "2026-11-20T19:51:52.000Z"
+  },
+  {
+    "id": "c7c292cd88703f22",
+    "title": "Gérard Depardieu and French author investigated over sexual allegations",
+    "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo",
+    "publishedAt": "2026-11-20T19:45:20.000Z"
+  },
+  {
+    "id": "04cee6e2e64103da",
+    "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+    "summary": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
+    "publishedAt": "2026-11-20T19:40:07.000Z"
+  },
+  {
+    "id": "5f9e6b5ffe183b7e",
+    "title": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
+    "summary": "Jamie Dimon says he is ‘setting an example’ in seeking to claw back Labour’s increase in surcharge, from 3% to 6%.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
+    "publishedAt": "2026-11-20T19:38:59.000Z"
+  },
+  {
+    "id": "c262f425bba41b2e",
+    "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
+    "summary": "Christmas comedy hit is set for a follow-up from the point of view of the father with Seth Rogen as writer and producer.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
+    "publishedAt": "2026-11-20T19:18:20.000Z"
+  },
+  {
+    "id": "51bdd196589ee62e",
+    "title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
+    "summary": "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
+    "publishedAt": "2026-11-20T19:15:18.000Z"
+  },
+  {
     "id": "7a65904af0ba1b33",
     "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
     "summary": "Democrats – including incoming banking chair and both majority leader candidates – said wealthy interests were prioritized over the needs of working Americans.",
@@ -1179,6 +1233,15 @@
     "publishedAt": "2026-11-20T07:56:03.000Z"
   },
   {
+    "id": "be53535af9f6b717",
+    "title": "Sydney man charged with car bomb plot and downloading Islamic State group material",
+    "summary": "Australian police have arrested a man in the greater Sydney area on charges of researching how to build a car bomb and downloading violent material inspired by the Islamic State group.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/sydney-man-charged-car-bomb-plot-downloading-islamic-138312769",
+    "publishedAt": "2026-11-20T07:49:52.000Z"
+  },
+  {
     "id": "64fbe551bb28c36b",
     "title": "Xi projects China’s global influence after hosting Trump and Putin at APEC",
     "summary": "China’s President Xi Jinping has emerged from the Asia-Pacific Economic Cooperation summit with a diplomatic win, reinforcing his global standing despite limited substantive progress.",
@@ -1204,6 +1267,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/italian-hedgehog-hospital-tiny-patients-face-strain-warming-138312300",
     "publishedAt": "2026-11-20T07:38:28.000Z"
+  },
+  {
+    "id": "319dce72739d9fd8",
+    "title": "El Salvador President Nayib Bukele seeks third term while attacking gangs in Haiti",
+    "summary": "El Salvador’s President Nayib Bukele has officially launched his bid for reelection in the February elections.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/el-salvador-president-nayib-bukele-seeks-term-attacking-138309430",
+    "publishedAt": "2026-11-20T07:38:27.000Z"
   },
   {
     "id": "06cc65bcb8370f6e",
@@ -1276,77 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss",
     "publishedAt": "2026-11-20T07:12:43.000Z"
-  },
-  {
-    "id": "82130019fe0a4652",
-    "title": "'Better results for patients' since SWAH surgery suspended, says health chief",
-    "summary": "Emergency general surgery was temporarily suspended at SWAH in December 2022.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq2d944g077lo",
-    "publishedAt": "2026-11-20T07:11:13.000Z"
-  },
-  {
-    "id": "fe32abc21ab4bc3b",
-    "title": "Sandpapergate: Australian gov’t demands CA to ensure transparency in forum",
-    "summary": "Cricket Australia's Sandpapergate forum for players to give their accounts has been ridiculed by former cricketers.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/20/sandpapergate-australia-ball-tampering-2018-scandal-cricket-government-bancroft-cummins?traffic_source=rss",
-    "publishedAt": "2026-11-20T07:04:27.000Z"
-  },
-  {
-    "id": "5ab4db7f8a3f6d71",
-    "title": "European troops from 11 countries drill in Poland for a potential postwar Ukraine mission",
-    "summary": "Thousands of European troops are taking part in a major military exercise in southeastern Poland.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/european-troops-11-countries-drill-poland-potential-postwar-138313096",
-    "publishedAt": "2026-11-20T07:01:39.000Z"
-  },
-  {
-    "id": "849d571e5e17e74f",
-    "title": "What impact has Brexit had on the UK and EU economies?",
-    "summary": "As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
-    "publishedAt": "2026-11-20T07:00:26.000Z"
-  },
-  {
-    "id": "7173a86c9318b477",
-    "title": "Baby born with heart abnormalities ‘didn’t have a chance’ after non-medical free birth, NSW inquest hears",
-    "summary": "Inquest into the deaths of four babies after free and home births hears routine checks and follow-up may have saved their lives.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/20/routine-checks-may-have-saved-babies-lives-freebirth-inquest-nsw-ntwnfb",
-    "publishedAt": "2026-11-20T06:51:54.000Z"
-  },
-  {
-    "id": "4c907ceadad6329d",
-    "title": "Nigeria moves to end jail terms for attempted suicide",
-    "summary": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o",
-    "publishedAt": "2026-11-20T06:32:17.000Z"
-  },
-  {
-    "id": "9e246eddfd3c3ff6",
-    "title": "Wildlife conservation cash targets ex-colliery sites",
-    "summary": "The project aims to create and restore habitats for amphibians and lizards at sites in Yorkshire.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o",
-    "publishedAt": "2026-11-20T06:21:50.000Z"
-  },
-  {
-    "id": "723cb6584332afcd",
-    "title": "‘We don’t want our future decided by the military’: Young Germans protest",
-    "summary": "Ahead of Friday's nationwide rallies, German teenagers explain why they are resisting conscription.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
-    "publishedAt": "2026-11-20T06:20:26.000Z"
   }
 ]
