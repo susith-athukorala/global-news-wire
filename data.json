@@ -1,5 +1,68 @@
 [
   {
+    "id": "82130019fe0a4652",
+    "title": "'Better results for patients' since SWAH surgery suspended, says health chief",
+    "summary": "Emergency general surgery was temporarily suspended at SWAH in December 2022.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq2d944g077lo",
+    "publishedAt": "2026-11-20T07:11:13.000Z"
+  },
+  {
+    "id": "5ab4db7f8a3f6d71",
+    "title": "European troops from 11 countries drill in Poland for a potential postwar Ukraine mission",
+    "summary": "Thousands of European troops are taking part in a major military exercise in southeastern Poland.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/european-troops-11-countries-drill-poland-potential-postwar-138313096",
+    "publishedAt": "2026-11-20T07:01:39.000Z"
+  },
+  {
+    "id": "7173a86c9318b477",
+    "title": "Baby born with heart abnormalities ‘didn’t have a chance’ after non-medical free birth, NSW inquest hears",
+    "summary": "Inquest into the deaths of four babies after free and home births hears routine checks and follow-up may have saved their lives.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/20/routine-checks-may-have-saved-babies-lives-freebirth-inquest-nsw-ntwnfb",
+    "publishedAt": "2026-11-20T06:51:54.000Z"
+  },
+  {
+    "id": "9e246eddfd3c3ff6",
+    "title": "Wildlife conservation cash targets ex-colliery sites",
+    "summary": "The project aims to create and restore habitats for amphibians and lizards at sites in Yorkshire.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o",
+    "publishedAt": "2026-11-20T06:21:50.000Z"
+  },
+  {
+    "id": "723cb6584332afcd",
+    "title": "‘We don’t want our future decided by the military’: Young Germans protest",
+    "summary": "Ahead of Friday's nationwide rallies, German teenagers explain why they are resisting conscription.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
+    "publishedAt": "2026-11-20T06:20:26.000Z"
+  },
+  {
+    "id": "0d7f33946a1bb407",
+    "title": "Social poker with £5 stake is booming, says dealer",
+    "summary": "A poker league in Fenland sees a 35% rise in players since 2022.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm8947dy3kg9o",
+    "publishedAt": "2026-11-20T06:19:25.000Z"
+  },
+  {
+    "id": "5c6961b5adafeb89",
+    "title": "Tashima says Balogun red card row at World Cup prompted FIFA presidency bid",
+    "summary": "Tashima is one of three names on the ballot for the March election, along with current President Infantino and Diallo.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
+    "publishedAt": "2026-11-20T06:15:06.000Z"
+  },
+  {
     "id": "fa271ab0d709f34e",
     "title": "Survey reveals 'major increase' in cost of living",
     "summary": "More than two thirds of respondents reported noticing rises in the cost of living.",
@@ -1285,68 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
     "publishedAt": "2026-11-19T14:15:15.000Z"
-  },
-  {
-    "id": "8d4538a5bc803e2f",
-    "title": "Migrant boat capsizes off Senegal's coast, leaving 1 person dead and several missing",
-    "summary": "A migrant boat capsized off Senegal's coast, resulting in one death and several missing people, according to local officials.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/migrant-boat-capsizes-off-senegals-coast-leaving-1-138286309",
-    "publishedAt": "2026-11-19T14:03:39.000Z"
-  },
-  {
-    "id": "5ff2ad299f6ebc4c",
-    "title": "Fire set at home of former Bangladesh interim leader as political tensions rise",
-    "summary": "Authorities in Bangladesh say a fire at the ancestral home of a former Bangladesh interim leader and Nobel Peace Prize laureate appears to have been intentionally set.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/fire-set-home-former-bangladesh-interim-leader-political-138280092",
-    "publishedAt": "2026-11-19T14:02:26.000Z"
-  },
-  {
-    "id": "e86aff74c6b2ed41",
-    "title": "For the first time, UN's highest court finds a country responsible for genocide: Myanmar",
-    "summary": "The United Nations' top court has ruled that Myanmar committed genocide against the Rohingya minority during a 2017 military operation.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/top-court-set-rule-case-alleging-myanmar-committed-138279244",
-    "publishedAt": "2026-11-19T14:02:22.000Z"
-  },
-  {
-    "id": "c8c377cdedac8a53",
-    "title": "A third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge to Crimea",
-    "summary": "Ukraine has launched a third aerial attack in four days on the Kerch Bridge, a crucial link between Russia and Crimea.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ukrainian-strike-4-days-halts-rail-traffic-russias-138280630",
-    "publishedAt": "2026-11-19T14:02:20.000Z"
-  },
-  {
-    "id": "b2386f01b84b1689",
-    "title": "Denmark approves security deal with US and Greenland, seeking to finally ease tensions with Trump",
-    "summary": "Denmark’s parliament has approved an agreement with Greenland and the United States to strengthen security in the Arctic and North Atlantic.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/danish-lawmakers-approve-security-deal-greenland-us-hoping-138281209",
-    "publishedAt": "2026-11-19T14:02:18.000Z"
-  },
-  {
-    "id": "4a105c5c67d339a2",
-    "title": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but emerge with no major breakthroughs",
-    "summary": "Three leaders who view their nations as the world’s superpowers have sat around a table together for the first time to talk about reducing nuclear risks and resolving conflicts.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/china-russia-us-agree-reforms-boosting-fuel-supplies-138269362",
-    "publishedAt": "2026-11-19T14:02:15.000Z"
-  },
-  {
-    "id": "72d9f8d8fb928bef",
-    "title": "For Putin, sharing a spotlight with Trump and Xi boosts his profile on the global stage",
-    "summary": "For Russian President Vladimir Putin, the three-way meeting with Donald Trump and Xi Jinping offered a much-coveted chance for the Kremlin leader to demonstrate that he heads a superpower on a par with the United States and China.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/putin-sharing-spotlight-trump-xi-boosts-profile-global-138265640",
-    "publishedAt": "2026-11-19T14:02:14.000Z"
   }
 ]
