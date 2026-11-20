@@ -1,5 +1,95 @@
 [
   {
+    "id": "e0006c8114bab179",
+    "title": "‘The greatest game ever made’: readers and Guardian staff on Grand Theft Auto VI",
+    "summary": "Rockstar’s newest installment of its hit franchise still has plenty of action, along with a dose of ‘healthy masculinity’",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/20/grand-theft-auto-vi-players-review",
+    "publishedAt": "2026-11-20T18:04:15.000Z"
+  },
+  {
+    "id": "9e9344d4e360d116",
+    "title": "Xi, Putin and Trump walked into a room and one walked out the biggest winner",
+    "summary": "Donald Trump, Xi Jinping and Vladimir Putin's \"declaration of peace\" is less about world peace than the peace of mind of powerful men.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-21/trump-xi-putin-summit-had-more-flair-than-substance/107405592",
+    "publishedAt": "2026-11-20T18:00:00.000Z"
+  },
+  {
+    "id": "4f1d9bc8cb90d219",
+    "title": "Denmark accuses Russian intelligence of plotting to kill American Ukrainian on its soil",
+    "summary": "Authorities thwarted the attempted killing of an American Ukrainian citizen on Danish soil in a plot allegedly orchestrated by Russian intelligence services.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497",
+    "publishedAt": "2026-11-20T17:59:38.000Z"
+  },
+  {
+    "id": "1efc3952f067ddc0",
+    "title": "Burnham seals trade and youth mobility deals in biggest step towards EU since Brexit",
+    "summary": "Agreements reached on food and drink, emissions and to allow young people to move around continent, but may be derailed over student fees.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
+    "publishedAt": "2026-11-20T17:57:10.000Z"
+  },
+  {
+    "id": "7c163ba9da6b0df3",
+    "title": "Voters in four out of five UK parliamentary seats back rejoining EU",
+    "summary": "Survey of 7,000 people shows that dozens of former leave areas now want to rejoin EU.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/20/voters-in-four-out-of-five-uk-parliamentary-seats-back-rejoining-eu",
+    "publishedAt": "2026-11-20T17:55:09.000Z"
+  },
+  {
+    "id": "9850fda4b50d2aa8",
+    "title": "Mamdani unveils plan to close New York’s Rikers Island by 2032",
+    "summary": "The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
+    "publishedAt": "2026-11-20T17:54:55.000Z"
+  },
+  {
+    "id": "ac72bf8df42ae789",
+    "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+    "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo",
+    "publishedAt": "2026-11-20T17:54:37.000Z"
+  },
+  {
+    "id": "907a25d3e6931696",
+    "title": "US tech sell-off continues as Anthropic tumbles after mega IPO",
+    "summary": "Anthropic's listing had been viewed as a potential boost for an industry struggling to regain its footing.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
+    "publishedAt": "2026-11-20T17:44:18.000Z"
+  },
+  {
+    "id": "bcffeb52063fa6ce",
+    "title": "Two men killed after glider crashes into Loch Leven in Scotland",
+    "summary": "The pair had flown from the Scottish Gliding Centre at Portmoak on a training flight.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
+    "publishedAt": "2026-11-20T17:42:49.000Z"
+  },
+  {
+    "id": "952e40cdf3b622f7",
+    "title": "Protests held across Europe over wages, services, high living costs",
+    "summary": "Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss",
+    "publishedAt": "2026-11-20T17:32:32.000Z"
+  },
+  {
     "id": "a632c0a4e3bb0578",
     "title": "Joanne Young’s faith in the justice system is a sign of real changes, but the courts are still catching up",
     "summary": "Years of reforms by prosecutors and police guided the approach that saw Young’s abusers convicted, though much more remains to be done.",
@@ -16,6 +106,33 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
     "publishedAt": "2026-11-20T17:08:14.000Z"
+  },
+  {
+    "id": "db87266e54640b6c",
+    "title": "The best dehumidifiers: 14 favourites to beat damp and cut bills, tested",
+    "summary": "Fed up with condensation, mould and musty smells? A dehumidifier could help – plus, they’re a cheaper way to dry laundry compared with tumble dryers.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2025/oct/21/best-dehumidifiers-tested-uk",
+    "publishedAt": "2026-11-20T17:08:04.000Z"
+  },
+  {
+    "id": "20ea11a59a491c92",
+    "title": "Top US Democrat warns Trump admin against destroying records",
+    "summary": "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss",
+    "publishedAt": "2026-11-20T17:05:42.000Z"
+  },
+  {
+    "id": "88104756fc04509b",
+    "title": "UK far-right activist ‘Danny Tommo’ jailed for slashing migrant boat",
+    "summary": "Daniel Thomas livestreamed himself slashing a dinghy used to bring migrants from France to the UK.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat?traffic_source=rss",
+    "publishedAt": "2026-11-20T17:05:32.000Z"
   },
   {
     "id": "03fe316625f44039",
@@ -421,6 +538,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss",
     "publishedAt": "2026-11-20T13:17:00.000Z"
+  },
+  {
+    "id": "a8f641bc1705047c",
+    "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+    "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+    "publishedAt": "2026-11-20T13:08:30.000Z"
   },
   {
     "id": "d544944123e0b4c1",
@@ -1222,131 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss",
     "publishedAt": "2026-11-20T05:36:21.000Z"
-  },
-  {
-    "id": "0388a3d7701dd241",
-    "title": "Kellie Sloane says she’s ‘pretty sure’ NSW Liberals exodus is over after Mark Speakman resigns",
-    "summary": "Former opposition leader warns party against being ‘One Nation lite’ as he becomes eighth out of 24 Liberal MPs not to recontest seat in March.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-    "publishedAt": "2026-11-20T05:02:16.000Z"
-  },
-  {
-    "id": "beca203ab8406f0a",
-    "title": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
-    "summary": "More than 85 percent of Gaza Civil Defence vehicles are out of service as crews struggle to reach trapped people.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
-    "publishedAt": "2026-11-20T05:01:40.000Z"
-  },
-  {
-    "id": "51ca9e41eaaa8cc0",
-    "title": "Race to be next UN secretary general exposes divisions among world powers",
-    "summary": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunner.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
-    "publishedAt": "2026-11-20T05:00:24.000Z"
-  },
-  {
-    "id": "26c67f7aec1ed250",
-    "title": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
-    "summary": "Al-Qadisiyah University’s move a sign of the country’s slide into a Taliban-like gender segregation, say activists.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
-    "publishedAt": "2026-11-20T05:00:23.000Z"
-  },
-  {
-    "id": "e97ea1c2e692270c",
-    "title": "Patient ‘horrified’ to find her sensitive discussions were shared with more than 100,000 NHS staff",
-    "summary": "Exclusive: Investigation launched after details of grief and trauma uploaded, raising questions over extent of issue.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/20/patient-confidentiality-sensitive-discussion-records-shared-nhs-staff",
-    "publishedAt": "2026-11-20T05:00:23.000Z"
-  },
-  {
-    "id": "0abd9fbdec95bfa4",
-    "title": "‘We will become cyborgs’ Peter Gabriel on bonobo ape duets, building a Jurassic Park for plants – and why AI will make great music",
-    "summary": "From sampling to streaming, the rock legend has always been in thrall to technology – but is superintelligence a step too far? Back with an epic new album, he unpacks his remarkable ideas.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
-    "publishedAt": "2026-11-20T05:00:22.000Z"
-  },
-  {
-    "id": "5a31c1195c819bc8",
-    "title": "Contaminated petrol leaves Yemeni drivers struggling to make ends meet",
-    "summary": "Drivers in Houthi-controlled areas face rising fuel prices and costly repairs as contaminated petrol damages their cars.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet?traffic_source=rss",
-    "publishedAt": "2026-11-20T05:00:16.000Z"
-  },
-  {
-    "id": "1ec751eff66e7d6a",
-    "title": "Beau Lamarre-Condon’s explanations of body disposal ‘ring hollow’, court hears",
-    "summary": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in February 2024.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/20/beau-lamarre-condons-attempts-to-explain-disposal-alleged-victims-bodies-ring-hollow-court-hears-ntwnfb",
-    "publishedAt": "2026-11-20T04:58:21.000Z"
-  },
-  {
-    "id": "50425ff6da685b82",
-    "title": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
-    "summary": "Public expectations around datacentres have changed in the age of AI, chief executive Craig Scroggie says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
-    "publishedAt": "2026-11-20T04:37:08.000Z"
-  },
-  {
-    "id": "3432b89d3c37b065",
-    "title": "UK and EU to agree youth mobility scheme, BBC understands",
-    "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go",
-    "publishedAt": "2026-11-20T04:35:51.000Z"
-  },
-  {
-    "id": "6bb7fc8f304864c7",
-    "title": "‘Perfect weapon’: diabetic woman found guilty of murdering her 94-year-old parents with insulin",
-    "summary": "Jury convicts Raelene Polymiadis after four-month trial in South Australian supreme court.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/20/diabetic-woman-found-guilty-murdering-94-year-old-parents-with-insulin-ntwnfb",
-    "publishedAt": "2026-11-20T04:15:16.000Z"
-  },
-  {
-    "id": "fb3d577571ba5da5",
-    "title": "China issues Mount Fuji warning as family of missing climber offers reward",
-    "summary": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo",
-    "publishedAt": "2026-11-20T04:13:22.000Z"
-  },
-  {
-    "id": "319dce72739d9fd8",
-    "title": "El Salvador President Nayib Bukele seeks third term while attacking gangs in Haiti",
-    "summary": "El Salvador’s President Nayib Bukele has officially launched his bid for reelection in the February elections.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/el-salvador-president-nayib-bukele-seeks-term-attacking-138309430",
-    "publishedAt": "2026-11-20T03:39:07.000Z"
-  },
-  {
-    "id": "281a2874b1b5de27",
-    "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
-    "summary": "A record breaking IPO has raised billions for the AI frontier lab – but experts say the coming months could prove bumpy, as the industry faces a variety of challenges.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
-    "publishedAt": "2026-11-20T03:33:45.000Z"
   }
 ]
