@@ -1,5 +1,59 @@
 [
   {
+    "id": "a8f641bc1705047c",
+    "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+    "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+    "publishedAt": "2026-11-20T02:13:05.000Z"
+  },
+  {
+    "id": "e8f81db00b4023bd",
+    "title": "Does our ethnicity change how we experience dying?",
+    "summary": "Death is the one certainty we all share - but could our ethnicity change how we go through it?",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cv7028g0j3yxo",
+    "publishedAt": "2026-11-20T01:29:43.000Z"
+  },
+  {
+    "id": "9e020bee1762afc0",
+    "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+    "summary": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+    "publishedAt": "2026-11-20T01:29:28.000Z"
+  },
+  {
+    "id": "6455c7d0ecb1da48",
+    "title": "White House cyber director ousted after US hit by wave of tech outages",
+    "summary": "Sean Cairncross exits after outages that sparked fierce criticism, with DoD official Kirsten Davies to take over.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
+    "publishedAt": "2026-11-20T01:25:05.000Z"
+  },
+  {
+    "id": "82ff5daca2751506",
+    "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
+    "summary": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
+    "publishedAt": "2026-11-20T01:10:06.000Z"
+  },
+  {
+    "id": "247f47a4c401da76",
+    "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+    "summary": "Motorists and businesses struggle as shortages disrupt daily life.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
+    "publishedAt": "2026-11-20T01:06:15.000Z"
+  },
+  {
     "id": "24f0933c7ee3ceb4",
     "title": "More climate money for Africa? Europe says use what's already pledged",
     "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
@@ -1098,6 +1152,15 @@
     "publishedAt": "2026-11-19T13:38:20.000Z"
   },
   {
+    "id": "feb249b67917e5a3",
+    "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+    "summary": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo",
+    "publishedAt": "2026-11-19T13:35:52.000Z"
+  },
+  {
     "id": "530a5501006336ca",
     "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
     "summary": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
@@ -1285,68 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/bus-crashes-fuel-truck-southwestern-pakistan-10-people-138282967",
     "publishedAt": "2026-11-19T12:39:10.000Z"
-  },
-  {
-    "id": "f926463fa40c9c7b",
-    "title": "Car rams into Palestinian residents four times in Israeli city, injuring eight",
-    "summary": "Arab MPs accuse Israeli politicians of fuelling hostility as footage shows driver accelerating towards pedestrians at several locations in Kafr Qasim.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim",
-    "publishedAt": "2026-11-19T12:36:37.000Z"
-  },
-  {
-    "id": "fc1d57a3f5c7b403",
-    "title": "Danish MPs approve Greenland security pact with US",
-    "summary": "Danish foreign minister says deal ‘removes all uncertainty’ over territory but warns trust in US needs rebuilding.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us",
-    "publishedAt": "2026-11-19T12:33:52.000Z"
-  },
-  {
-    "id": "2ec7c02657102938",
-    "title": "First Thing: Trump, Xi and Putin hold historic trilateral meeting in China",
-    "summary": "The three leaders spoke about international peace and nuclear weapons as Trump called Putin a ‘friend’. Plus, yes, GTA VI is really finally here, and the critics have their verdict: masterpiece.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/first-thing-trump-xi-and-putin-hold-historic-trilateral-meeting-in-china",
-    "publishedAt": "2026-11-19T12:31:41.000Z"
-  },
-  {
-    "id": "4a105c5c67d339a2",
-    "title": "China and Russia say they and US agree on UN reforms, boosting fuel supplies, dialogue on nuclear",
-    "summary": "China, Russia and the U.S. have agreed to seek reforms at the United Nations, increase oil supplies and engage in dialogue to reduce nuclear risks.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/china-russia-us-agree-reforms-boosting-fuel-supplies-138269362",
-    "publishedAt": "2026-11-19T12:31:16.000Z"
-  },
-  {
-    "id": "b2386f01b84b1689",
-    "title": "Danish lawmakers approve a security deal with Greenland and the US, hoping to finally end tensions",
-    "summary": "Denmark’s parliament has approved an agreement with Greenland and the United States to strengthen security in the Arctic and North Atlantic.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/danish-lawmakers-approve-security-deal-greenland-us-hoping-138281209",
-    "publishedAt": "2026-11-19T12:31:09.000Z"
-  },
-  {
-    "id": "aeff9386d01183cd",
-    "title": "Top U.N. court rules Myanmar committed genocide against the Rohingya",
-    "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during the 2017 military operations in the northern Rakhine State.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-    "publishedAt": "2026-11-19T12:29:41.000Z"
-  },
-  {
-    "id": "5873d97881414033",
-    "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
-    "summary": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo",
-    "publishedAt": "2026-11-19T12:26:39.000Z"
   }
 ]
