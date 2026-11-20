@@ -1,5 +1,140 @@
 [
   {
+    "id": "378d332f77f8d29a",
+    "title": "Pontins owner fined £1m over death of woman at Somerset holiday park",
+    "summary": "Wendy Jones, 68, was fatally injured when part of a ceiling collapsed during a bingo game at Pontins Brean Sands.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/20/pontins-owner-fined-death-somerset-brean-sands-holiday-park-wendy-jones",
+    "publishedAt": "2026-11-20T14:07:46.000Z"
+  },
+  {
+    "id": "adfd6129676fb7a3",
+    "title": "As the Coalition stares down One Nation in NSW, a new threat is rising: the teals",
+    "summary": "The opposition’s struggle is creating an opportunity for progressive independents who are boosted by shrewd political operator Chris Minns.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
+    "publishedAt": "2026-11-20T14:00:32.000Z"
+  },
+  {
+    "id": "c4b4ae37df7dbfd3",
+    "title": "‘Rebuild bridges’ and reset after Brexit: What we know about EU-UK deal",
+    "summary": "Agreements aim to simplify trade checks, link emissions systems and launch a youth mobility programme.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/uk-eu-deal-what-we-know-so-far?traffic_source=rss",
+    "publishedAt": "2026-11-20T13:59:17.000Z"
+  },
+  {
+    "id": "ae1a77b85ce2ff1c",
+    "title": "Myanmar dismisses the UN court's ruling on its responsibility for Rohingya genocide as 'unfair'",
+    "summary": "Myanmar’s government has dismissed a landmark judgment by the United Nations’ top court finding the country guilty of genocide against its Rohingya minority as “unfair.”",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/myanmar-dismisses-courts-ruling-responsibility-rohingya-genocide-unfair-138313854",
+    "publishedAt": "2026-11-20T13:46:32.000Z"
+  },
+  {
+    "id": "e2e5b18f28177fc6",
+    "title": "Saudi Arabia intercepts more Yemen Houthi missiles and drones, and other Mideast news",
+    "summary": "Saudi Arabia says Iran-backed Houthi rebels have fired more missiles and drones at the kingdom.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-yemen-houthi-missiles-drones-mideast-138314659",
+    "publishedAt": "2026-11-20T13:46:20.000Z"
+  },
+  {
+    "id": "c22b98232233eb41",
+    "title": "Italy strike draws workers, students into nationwide protests over wages and living costs",
+    "summary": "Italy is experiencing a nationwide strike disrupting schools, hospitals, and local transport.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/italy-strike-draws-workers-students-nationwide-protests-wages-138314660",
+    "publishedAt": "2026-11-20T13:46:11.000Z"
+  },
+  {
+    "id": "ed39a36a086fcad7",
+    "title": "France probes suspected leaks of confidential information to Le Pen’s far-right party",
+    "summary": "French authorities are investigating whether a former Interior Ministry official leaked confidential information to Marine Le Pen's far-right National Rally.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/france-probes-suspected-leaks-confidential-information-le-pens-138315239",
+    "publishedAt": "2026-11-20T13:45:29.000Z"
+  },
+  {
+    "id": "58df1e927429d7d0",
+    "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
+    "summary": "This is a breaking news story.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers?traffic_source=rss",
+    "publishedAt": "2026-11-20T13:45:14.000Z"
+  },
+  {
+    "id": "f1a48fe1ed72c918",
+    "title": "Mahmood ‘smells a rat’ over housing provision for vulnerable people in Birmingham",
+    "summary": "Warnings over exploitation risks come amid push for investigation into supported exempt accommodation sector.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/20/ahabana-mahmood-housing-provision-vulnerable-people-birmingham-supported-exempt-accommodation",
+    "publishedAt": "2026-11-20T13:43:46.000Z"
+  },
+  {
+    "id": "a22e8fed9bbc9d5b",
+    "title": "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
+    "summary": "Analysts are sceptical about how this will be achieved amid the ongoing wars in Ukraine and Iran.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss",
+    "publishedAt": "2026-11-20T13:42:56.000Z"
+  },
+  {
+    "id": "f19fb6e0753b17a7",
+    "title": "Myanmar, China object to ‘unfair’ ICJ genocide ruling",
+    "summary": "A Myanmar government spokesperson said the ruling was unjust and noted that the court's decision was not unanimous.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
+    "publishedAt": "2026-11-20T13:41:49.000Z"
+  },
+  {
+    "id": "5149c4c248bac41a",
+    "title": "Judge says ICE ‘made a mockery of court orders’ with instant re-arrest policy",
+    "summary": "Federal judge in Colorado finds immigration officials in contempt but takes no more action after they end practice.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-rearrest-judge-mockery-court-orders",
+    "publishedAt": "2026-11-20T13:26:36.000Z"
+  },
+  {
+    "id": "61854d96040f3cd9",
+    "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
+    "summary": "Farage issues warning to potential rivals and says he will fight next election as leader if ‘still here and fit and healthy’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
+    "publishedAt": "2026-11-20T13:23:22.000Z"
+  },
+  {
+    "id": "3afbb9449e6ad793",
+    "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
+    "summary": "Iraq's Federal Police are due to assume control of town's newly established control headquarters.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss",
+    "publishedAt": "2026-11-20T13:17:00.000Z"
+  },
+  {
+    "id": "d544944123e0b4c1",
+    "title": "An entrepreneur fights for workers’ protections after his mom was fired after being assaulted at her Saks Fifth Avenue job",
+    "summary": "Jeff Vinokur is using his newly minted wealth from the sale of his edtech company to hold the retail store accountable.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/saks-fifth-avenue-worker-assault",
+    "publishedAt": "2026-11-20T13:00:30.000Z"
+  },
+  {
     "id": "1c65bd77cc62ed4b",
     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
     "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
@@ -1213,140 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
     "publishedAt": "2026-11-19T22:17:09.000Z"
-  },
-  {
-    "id": "fea67cf9c7eff96e",
-    "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
-    "summary": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
-    "publishedAt": "2026-11-19T22:09:18.000Z"
-  },
-  {
-    "id": "7d68e8a5be2d8b28",
-    "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-    "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko",
-    "publishedAt": "2026-11-19T22:09:04.000Z"
-  },
-  {
-    "id": "43ca9c4e1a29a793",
-    "title": "Thomas Markle, Meghan’s father, is competent to face child sex abuse images case",
-    "summary": "Judge in Florida says an expert has determined the 82-year-old estranged father of the Duchess of Sussex is mentally competent to face charges.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
-    "publishedAt": "2026-11-19T22:05:18.000Z"
-  },
-  {
-    "id": "dbbd568913ba5e0e",
-    "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
-    "summary": "US House committee releases chip export data amid scrutiny of former Nvidia CEO's alleged links to a Chinese spy.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
-    "publishedAt": "2026-11-19T21:58:27.000Z"
-  },
-  {
-    "id": "4447f5511cca0269",
-    "title": "Appeals court rejects Democrat LaMonica McIver’s bid to toss charges over ICE protest",
-    "summary": "New Jersey congresswoman, charged with interfering with immigration arrest, set to face trial over May 2025 incident.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/lamonica-mciver-ice-delaney-hall",
-    "publishedAt": "2026-11-19T21:57:39.000Z"
-  },
-  {
-    "id": "ab107cfc887ac163",
-    "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
-    "summary": "Anti-AI groups gather in front of Nasdaq exchange in Times Square and Anthropic’s headquarters in San Francisco.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
-    "publishedAt": "2026-11-19T21:52:19.000Z"
-  },
-  {
-    "id": "b89806bc3d786f7c",
-    "title": "Haiti police say at least 34 suspected gang members killed in raid",
-    "summary": "Police say the raid targeted the Martissant area, located on a key route out of Port-au-Prince held by gangs since 2021.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss",
-    "publishedAt": "2026-11-19T21:39:39.000Z"
-  },
-  {
-    "id": "11a8aa5fd92f82ca",
-    "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-    "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
-    "publishedAt": "2026-11-19T21:38:42.000Z"
-  },
-  {
-    "id": "cfbc867680d22cde",
-    "title": "Brazil's Lula moves to protect Chief Raoni’s birthplace in the Amazon rainforest",
-    "summary": "The Brazilian government has advanced legal protection for the territory of Raoni Metuktire, a prominent Indigenous leader in the Amazon.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/brazils-lula-moves-protect-chief-raonis-birthplace-amazon-138301684",
-    "publishedAt": "2026-11-19T21:23:34.000Z"
-  },
-  {
-    "id": "47cd5f1547e7be04",
-    "title": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
-    "summary": "The appeals court's ruling prevents a lower-court decision from taking effect, which would block Trump from lifting TPS.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss",
-    "publishedAt": "2026-11-19T21:11:45.000Z"
-  },
-  {
-    "id": "45284d5b1c0dbace",
-    "title": "Suspects charged in brazen train heist ring that netted $22m in cargo from major retailers",
-    "summary": "More than a dozen people allegedly targeted trains carrying Nike sneakers, Crocs footwear and other goods.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/nike-croc-train-heist",
-    "publishedAt": "2026-11-19T21:02:16.000Z"
-  },
-  {
-    "id": "d968a940255abb42",
-    "title": "Why are Bukele’s Salvadoran troops in Haiti and what have they achieved?",
-    "summary": "With crowds rallying behind El Salvador's deployment in Haiti, analysts question whether civilians are any safer.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/why-are-bukeles-salvadoran-troops-in-haiti-and-what-have-they-achieved?traffic_source=rss",
-    "publishedAt": "2026-11-19T20:54:08.000Z"
-  },
-  {
-    "id": "66980e9ba6199f37",
-    "title": "Trump’s case against NYT and Penguin Random House may proceed: Judge",
-    "summary": "The lawsuit cited a book about Trump by two NYT reporters and what it said were 'false, malicious, defamatory' articles.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge?traffic_source=rss",
-    "publishedAt": "2026-11-19T20:32:46.000Z"
-  },
-  {
-    "id": "4f2872fed60af9be",
-    "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-    "summary": "The resolution was defeated 51-48. Three Republicans broke rank, voting against the measure.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
-    "publishedAt": "2026-11-19T20:30:54.000Z"
-  },
-  {
-    "id": "84d7ad1fe702e707",
-    "title": "Senate Republicans rejects war powers bill to halt fighting in Iran",
-    "summary": "Measure fails 48-51 with GOP members again defending war that played a role in costing them midterm elections.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
-    "publishedAt": "2026-11-19T20:24:09.000Z"
   }
 ]
