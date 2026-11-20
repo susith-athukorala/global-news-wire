@@ -1,5 +1,86 @@
 [
   {
+    "id": "9b37693e45ed76e6",
+    "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+    "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo",
+    "publishedAt": "2026-11-20T22:14:17.000Z"
+  },
+  {
+    "id": "d143a578a81d5432",
+    "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+    "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+    "publishedAt": "2026-11-20T22:11:29.000Z"
+  },
+  {
+    "id": "06b98fb6c92a521b",
+    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
+    "publishedAt": "2026-11-20T21:57:07.000Z"
+  },
+  {
+    "id": "8e3ceec613f9f9ec",
+    "title": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+    "summary": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+    "publishedAt": "2026-11-20T21:47:41.000Z"
+  },
+  {
+    "id": "52616db544c81aa8",
+    "title": "Tech stocks end the week on a down note, despite Anthropic's mega-IPO",
+    "summary": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6048645/tech-stocks-end-the-week-on-a-down-note-despite-anthropics-mega-ipo",
+    "publishedAt": "2026-11-20T21:38:32.000Z"
+  },
+  {
+    "id": "7a84bc29f641256d",
+    "title": "New research gives insight to where your brain plans out your speech",
+    "summary": "New research shows where this all takes place and what it means for possibly treating those who have speech difficulties.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6047695/new-research-gives-insight-to-where-your-brain-plans-out-your-speech",
+    "publishedAt": "2026-11-20T21:38:25.000Z"
+  },
+  {
+    "id": "735fdf70ca9ea6aa",
+    "title": "Machine Gods: Anthropic's early days",
+    "summary": "In the wake of AI giant Anthropic's record-breaking IPO, Machine Gods hosts Kevin Roose and Casey Newton look back on the early days of the company, when less than 200 workers in a cramped office obsessed over AI safety and viewed business as an afterthought.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6047503/machine-gods-anthropics-early-days",
+    "publishedAt": "2026-11-20T21:38:14.000Z"
+  },
+  {
+    "id": "3d4928456c2e0a66",
+    "title": "Another day of survival for a family in Ukraine",
+    "summary": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia -- stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+    "publishedAt": "2026-11-20T21:32:31.000Z"
+  },
+  {
+    "id": "41857d96f900e24a",
+    "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+    "summary": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+    "publishedAt": "2026-11-20T21:05:07.000Z"
+  },
+  {
     "id": "ca7b21a1b7959133",
     "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
     "summary": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
@@ -117,6 +198,15 @@
     "publishedAt": "2026-11-20T19:15:18.000Z"
   },
   {
+    "id": "fcd977b345bbc3f2",
+    "title": "Australia strikes deal on AI talks with China",
+    "summary": "Anthony Albanese has secured an agreement for new talks with China on artificial intelligence as the prime minister returns to Australia.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-21/australia-strikes-deal-on-ai-talks-with-china-after-apec/107411592",
+    "publishedAt": "2026-11-20T19:12:47.000Z"
+  },
+  {
     "id": "7a65904af0ba1b33",
     "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
     "summary": "Democrats – including incoming banking chair and both majority leader candidates – said wealthy interests were prioritized over the needs of working Americans.",
@@ -133,6 +223,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
     "publishedAt": "2026-11-20T18:51:09.000Z"
+  },
+  {
+    "id": "0243aca6f183dc01",
+    "title": "Students rally across Europe over cost of living, war and education cuts",
+    "summary": "From the shadows of the mighty Colosseum in Rome to Parliament Square in London, and in dozens of other cities across Europe, thousands of young Europeans gathered to make their voices heard on Friday.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-21/students-protest-in-eu-and-uk/107406996",
+    "publishedAt": "2026-11-20T18:38:10.000Z"
   },
   {
     "id": "b9a3083bba603ec2",
@@ -1249,104 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss",
     "publishedAt": "2026-11-20T08:21:34.000Z"
-  },
-  {
-    "id": "5107e59575ddcbbf",
-    "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-    "summary": "Britain makes concessions on youth mobility scheme as negotiations on food and farming go down to the wire.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-    "publishedAt": "2026-11-20T08:19:28.000Z"
-  },
-  {
-    "id": "562df2c80c8dc794",
-    "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-    "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo",
-    "publishedAt": "2026-11-20T08:09:04.000Z"
-  },
-  {
-    "id": "d30ea484ee133168",
-    "title": "Eat your cup: could edible packaging help solve the world’s plastic problem?",
-    "summary": "Experts say seaweed could be a solution in the fight against global plastic waste, which doubled between 2000 and 2019.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/20/could-edible-packaging-help-solve-world-plastic-problem",
-    "publishedAt": "2026-11-20T08:00:27.000Z"
-  },
-  {
-    "id": "96258bd38c2dd809",
-    "title": "Senior Tories urge Badenoch to drop Brexit talk in major strategy shift, sources say",
-    "summary": "Exclusive: While PM pushes for EU reset, Tory leader is moving away from ‘divisive’ issue that defined party for years.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/20/kemi-badenoch-brexit-eu-conservatives",
-    "publishedAt": "2026-11-20T08:00:26.000Z"
-  },
-  {
-    "id": "14028a62e5926a58",
-    "title": "Islam set to be the largest religion by 2035: Where will most Muslims live?",
-    "summary": "Pew Research projects Muslim population in Pakistan will overtake Indonesia by 2070, with India next and Nigeria third.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss",
-    "publishedAt": "2026-11-20T07:56:03.000Z"
-  },
-  {
-    "id": "be53535af9f6b717",
-    "title": "Sydney man charged with car bomb plot and downloading Islamic State group material",
-    "summary": "Australian police have arrested a man in the greater Sydney area on charges of researching how to build a car bomb and downloading violent material inspired by the Islamic State group.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/sydney-man-charged-car-bomb-plot-downloading-islamic-138312769",
-    "publishedAt": "2026-11-20T07:49:52.000Z"
-  },
-  {
-    "id": "5ab4db7f8a3f6d71",
-    "title": "Troops from 11 countries drill in Poland for potential postwar Ukraine mission",
-    "summary": "Thousands of European troops are taking part in a major military exercise in southeastern Poland.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/european-troops-11-countries-drill-poland-potential-postwar-138313096",
-    "publishedAt": "2026-11-20T07:48:16.000Z"
-  },
-  {
-    "id": "64fbe551bb28c36b",
-    "title": "Xi projects China’s global influence after hosting Trump and Putin at APEC",
-    "summary": "China’s President Xi Jinping has emerged from the Asia-Pacific Economic Cooperation summit with a diplomatic win, reinforcing his global standing despite limited substantive progress.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/xi-projects-chinas-global-influence-after-hosting-trump-138313749",
-    "publishedAt": "2026-11-20T07:45:48.000Z"
-  },
-  {
-    "id": "b15eb4d2aefdc582",
-    "title": "A long-buried ancient library in Rome opens to the public after restoration",
-    "summary": "The ancient Ulpia Library in Rome has been restored and is reopening to the public this week.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/long-buried-ancient-library-rome-opens-public-after-138307336",
-    "publishedAt": "2026-11-20T07:41:51.000Z"
-  },
-  {
-    "id": "84187c8f8f80804c",
-    "title": "At an Italian hedgehog hospital, tiny patients face the strain of a warming climate",
-    "summary": "Italy's only hedgehog rescue center is overwhelmed with underweight hoglets due to climate change.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/italian-hedgehog-hospital-tiny-patients-face-strain-warming-138312300",
-    "publishedAt": "2026-11-20T07:38:28.000Z"
-  },
-  {
-    "id": "319dce72739d9fd8",
-    "title": "El Salvador President Nayib Bukele seeks third term while attacking gangs in Haiti",
-    "summary": "El Salvador’s President Nayib Bukele has officially launched his bid for reelection in the February elections.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/el-salvador-president-nayib-bukele-seeks-term-attacking-138309430",
-    "publishedAt": "2026-11-20T07:38:27.000Z"
   }
 ]
