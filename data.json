@@ -1,5 +1,113 @@
 [
   {
+    "id": "a632c0a4e3bb0578",
+    "title": "Joanne Young’s faith in the justice system is a sign of real changes, but the courts are still catching up",
+    "summary": "Years of reforms by prosecutors and police guided the approach that saw Young’s abusers convicted, though much more remains to be done.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/20/joanne-young-faith-in-the-justice-system-changes-but-courts-still-catching-up",
+    "publishedAt": "2026-11-20T17:09:20.000Z"
+  },
+  {
+    "id": "ae58bd9e7f4a9216",
+    "title": "Cybersecurity operation thwarts attack on UK supermarket fridges and freezers",
+    "summary": "News of operation comes after supermarkets in at least seven European countries hit by cyber-attacks.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
+    "publishedAt": "2026-11-20T17:08:14.000Z"
+  },
+  {
+    "id": "03fe316625f44039",
+    "title": "Gérard Depardieu and Michel Houellebecq investigated over on-set rape and assault allegations",
+    "summary": "Actor and author are alleged to have attacked and gang-raped a woman while filming together in 2018.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/film/2026/nov/20/gerard-depardieu-michel-houellebecq-investigated-allegations",
+    "publishedAt": "2026-11-20T16:54:57.000Z"
+  },
+  {
+    "id": "df67e737aa0fce20",
+    "title": "Police search for teacher who missed sentencing after indecent assault conviction",
+    "summary": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980s.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+    "publishedAt": "2026-11-20T16:50:47.000Z"
+  },
+  {
+    "id": "f030513eb38f01e0",
+    "title": "White supremacist convicted of planning bomb attack on asylum seekers in Hull",
+    "summary": "Mikka Anderson stockpiled weapons and tried to recruit accomplice for attack on Royal Hotel.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/20/white-supremacist-mikka-anderson-convicted-planning-bomb-attack-asylum-seekers-hull",
+    "publishedAt": "2026-11-20T16:48:31.000Z"
+  },
+  {
+    "id": "e9650a9973c91d70",
+    "title": "Latest botched execution prompts calls for US moratorium on lethal injections",
+    "summary": "Reinaldo Dennes screamed in pain and took over an hour to die – but Texas officials branded the execution a success.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/botched-execution-texas",
+    "publishedAt": "2026-11-20T16:48:08.000Z"
+  },
+  {
+    "id": "9237bb24fb41222c",
+    "title": "Fired White House press secretary Katie Zacharia under California state bar investigation",
+    "summary": "Zacharia’s spokesperson called allegations she falsely represented herself as an attorney ‘baseless’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/katie-zacharia-california-bar-investigation",
+    "publishedAt": "2026-11-20T16:46:05.000Z"
+  },
+  {
+    "id": "5024389180d8d2eb",
+    "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+    "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo",
+    "publishedAt": "2026-11-20T16:41:52.000Z"
+  },
+  {
+    "id": "bde64cffa40e19a0",
+    "title": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
+    "summary": "Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss",
+    "publishedAt": "2026-11-20T16:40:35.000Z"
+  },
+  {
+    "id": "3eacaa80edda8f5e",
+    "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
+    "summary": "German chancellor says Qatar pledged $16.5bn in new investments as the two countries deepen defence and technology ties.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss",
+    "publishedAt": "2026-11-20T16:13:57.000Z"
+  },
+  {
+    "id": "3c8df5a3d8810e8a",
+    "title": "US Senate passes bill to speed up energy project approvals",
+    "summary": "The legislation aims to lower energy bills by making energy project approvals faster and limiting court challenges.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss",
+    "publishedAt": "2026-11-20T16:10:12.000Z"
+  },
+  {
+    "id": "e1feb04c3ab620af",
+    "title": "What is Vox, and how did Spain’s far-right party rise to prominence?",
+    "summary": "As Spain prepares to vote, Vox is campaigning on mass deportations and 'national priority'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence?traffic_source=rss",
+    "publishedAt": "2026-11-20T16:05:31.000Z"
+  },
+  {
     "id": "f46463a92e746f5b",
     "title": "Onlookers say botched Texas prison execution is like nothing they have ever seen",
     "summary": "Reinaldo Dennes’ execution took more than an hour as workers struggled to find suitable veins.",
@@ -27,6 +135,15 @@
     "publishedAt": "2026-11-20T15:55:28.000Z"
   },
   {
+    "id": "b15c605acea6f263",
+    "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+    "summary": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o",
+    "publishedAt": "2026-11-20T15:55:02.000Z"
+  },
+  {
     "id": "897a725c7c809408",
     "title": "Kansas hosts become guests as Algeria repays World Cup welcome",
     "summary": "A bond between Kansas and Algeria has deepened since the city hosted the North Africans during the World Cup.",
@@ -34,6 +151,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/20/kansas-hosts-become-guests-as-algeria-repays-world-cup-welcome?traffic_source=rss",
     "publishedAt": "2026-11-20T15:49:06.000Z"
+  },
+  {
+    "id": "a69c1b155a087e86",
+    "title": "Airbnb's divisive new house rules come into force",
+    "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo",
+    "publishedAt": "2026-11-20T15:48:35.000Z"
   },
   {
     "id": "0a9843ba32b0e591",
@@ -322,6 +448,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss",
     "publishedAt": "2026-11-20T12:44:58.000Z"
+  },
+  {
+    "id": "92faa8ab8cece3a0",
+    "title": "Texas death-row inmate screams as execution takes more than one hour",
+    "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo",
+    "publishedAt": "2026-11-20T12:42:37.000Z"
   },
   {
     "id": "71c26b19046c44d0",
@@ -1213,140 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
     "publishedAt": "2026-11-20T03:33:45.000Z"
-  },
-  {
-    "id": "540a5b7ca6b4a105",
-    "title": "Thousands protest Colombia’s tax plans amid row over US military role",
-    "summary": "Trade unions, students and opposition groups demonstrated in Bogota and other major cities on Thursday.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
-    "publishedAt": "2026-11-20T03:26:23.000Z"
-  },
-  {
-    "id": "25115328031c85c6",
-    "title": "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
-    "summary": "Lula honours Raoni in Mato Grosso, celebrating his legacy and advancing protection for Kayapo and Yudja ancestral lands.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss",
-    "publishedAt": "2026-11-20T03:24:49.000Z"
-  },
-  {
-    "id": "8b7d6e98f9b274af",
-    "title": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
-    "summary": "Zoo staff tried a colonoscopy, vibration plate and other procedures to aid the hippo in passing the hat to no avail.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
-    "publishedAt": "2026-11-20T03:05:59.000Z"
-  },
-  {
-    "id": "ac6c433afc9e1ac7",
-    "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
-    "summary": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
-    "publishedAt": "2026-11-20T02:54:22.000Z"
-  },
-  {
-    "id": "feedd56ce83382c3",
-    "title": "Trump DoJ moves to drop legal challenge to Mary Peltola’s Alaska Senate win",
-    "summary": "President had sought to block results if Democrat won race that featured two candidates named Dan Sullivan.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/trump-mary-peltola-alaska-senate",
-    "publishedAt": "2026-11-20T02:43:33.000Z"
-  },
-  {
-    "id": "84142d97290bfa01",
-    "title": "After meeting Putin, Trump tells Europe it could save money ending the war",
-    "summary": "From abandoning a Cold War mentality to nuclear non-proliferation and the war in Ukraine, here are the key takeaways from the Trump-Xi-Putin meeting.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-20/key-takeaways-from-trump-xi-putin-meeting/107407564",
-    "publishedAt": "2026-11-20T02:35:44.000Z"
-  },
-  {
-    "id": "a8f641bc1705047c",
-    "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
-    "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
-    "publishedAt": "2026-11-20T02:13:05.000Z"
-  },
-  {
-    "id": "e8f81db00b4023bd",
-    "title": "Does our ethnicity change how we experience dying?",
-    "summary": "Death is the one certainty we all share - but could our ethnicity change how we go through it?",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cv7028g0j3yxo",
-    "publishedAt": "2026-11-20T01:29:43.000Z"
-  },
-  {
-    "id": "9e020bee1762afc0",
-    "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
-    "summary": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
-    "publishedAt": "2026-11-20T01:29:28.000Z"
-  },
-  {
-    "id": "8fc44eaca7192377",
-    "title": "US army warns detonation of unstable explosives will create toxic plume",
-    "summary": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo",
-    "publishedAt": "2026-11-20T01:27:27.000Z"
-  },
-  {
-    "id": "6455c7d0ecb1da48",
-    "title": "White House cyber director ousted after US hit by wave of tech outages",
-    "summary": "Sean Cairncross exits after outages that sparked fierce criticism, with DoD official Kirsten Davies to take over.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
-    "publishedAt": "2026-11-20T01:25:05.000Z"
-  },
-  {
-    "id": "82ff5daca2751506",
-    "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
-    "summary": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
-    "publishedAt": "2026-11-20T01:10:06.000Z"
-  },
-  {
-    "id": "247f47a4c401da76",
-    "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
-    "summary": "Motorists and businesses struggle as shortages disrupt daily life.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
-    "publishedAt": "2026-11-20T01:06:15.000Z"
-  },
-  {
-    "id": "24f0933c7ee3ceb4",
-    "title": "More climate money for Africa? Europe says use what's already pledged",
-    "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko",
-    "publishedAt": "2026-11-20T00:54:50.000Z"
-  },
-  {
-    "id": "b5502e0ebc980de5",
-    "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-    "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
-    "publishedAt": "2026-11-20T00:50:24.000Z"
   }
 ]
