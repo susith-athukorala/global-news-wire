@@ -1,5 +1,86 @@
 [
   {
+    "id": "43ef19d00b9fb232",
+    "title": "Why Canada is embracing AI data centres while the US pushes back",
+    "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo",
+    "publishedAt": "2026-11-20T00:13:24.000Z"
+  },
+  {
+    "id": "fa5e13f287b2a816",
+    "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+    "summary": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o",
+    "publishedAt": "2026-11-20T00:08:22.000Z"
+  },
+  {
+    "id": "7c01653370c338e5",
+    "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+    "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+    "publishedAt": "2026-11-20T00:02:07.000Z"
+  },
+  {
+    "id": "8f4c6a379360f7bd",
+    "title": "Resident doctors to begin 24-hour strike over pay",
+    "summary": "A full 24-hour strike begins at 07:00 GMT - the second such action taken by doctors this year.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o",
+    "publishedAt": "2026-11-20T00:02:03.000Z"
+  },
+  {
+    "id": "14d658a371f08e75",
+    "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+    "summary": "BepiColombo double probe will map planet’s surface and study its interior to shed light on its unusually large core.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+    "publishedAt": "2026-11-20T00:01:15.000Z"
+  },
+  {
+    "id": "ee6874af8839ae3f",
+    "title": "Trump posthumously pardons US baseball legend Pete Rose",
+    "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
+    "publishedAt": "2026-11-19T23:51:50.000Z"
+  },
+  {
+    "id": "b14b228b0a9167a0",
+    "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+    "summary": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo",
+    "publishedAt": "2026-11-19T23:29:00.000Z"
+  },
+  {
+    "id": "b81400d8153e7dff",
+    "title": "Florida to carry out record-breaking 20th execution of the year",
+    "summary": "State to execute man convicted of two counts of first-degree murder while Texas also plans to put a man to death.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
+    "publishedAt": "2026-11-19T23:15:42.000Z"
+  },
+  {
+    "id": "b44406431214237a",
+    "title": "Six killed in suspected gas explosion at Georgia apartment building",
+    "summary": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+    "publishedAt": "2026-11-19T23:09:48.000Z"
+  },
+  {
     "id": "cfe5120ba72936b3",
     "title": "For some patients, psychedelic treatment brings new troubles in its aftermath",
     "summary": "Psychedelics could transform mental health care, but some advocates and researchers say there needs to be more focus on the minority of people with persistent troubles after using these drugs.",
@@ -1267,86 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas",
     "publishedAt": "2026-11-19T11:29:01.000Z"
-  },
-  {
-    "id": "0388a3d7701dd241",
-    "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
-    "summary": "Former NSW opposition leader warns party against becoming ‘Labor lite’ or ‘One Nation lite’ in late-night speech.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-    "publishedAt": "2026-11-19T11:23:41.000Z"
-  },
-  {
-    "id": "79caf38409df8dce",
-    "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
-    "summary": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
-    "publishedAt": "2026-11-19T11:20:37.000Z"
-  },
-  {
-    "id": "13429205ba75c5ad",
-    "title": "Surgeon calls for corporate homicide probe over claims patients unnecessarily bled to death",
-    "summary": "Dr Mohammed Habib said he had been raising concerns about NHS Grampian for a decade, including with government ministers and police.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crjeqxexyq05o",
-    "publishedAt": "2026-11-19T11:18:48.000Z"
-  },
-  {
-    "id": "b8fc9ad90e7d4763",
-    "title": "'Dad was deteriorating': Two-hour ambulance target missed more than 2,000 times",
-    "summary": "The Release to Rescue initiative was introduced this year to cut ambulance delays and speed up handover times.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm752zx62n62o",
-    "publishedAt": "2026-11-19T11:14:38.000Z"
-  },
-  {
-    "id": "144f0711e6f6d6a5",
-    "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
-    "summary": "Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systemic betrayal of Kardell Lomas before her death recognised.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
-    "publishedAt": "2026-11-19T11:13:32.000Z"
-  },
-  {
-    "id": "90f5b98b1ec763c4",
-    "title": "Mongolia's lawmakers accept president's resignation following corruption accusations",
-    "summary": "Mongolia’s parliament has accepted President Khurelsukh Ukhnaa's resignation after he was accused of benefiting from a government railway project seven years ago, when he served as prime minister.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/mongolias-lawmakers-accept-presidents-resignation-corruption-accusations-138282020",
-    "publishedAt": "2026-11-19T11:10:51.000Z"
-  },
-  {
-    "id": "9160d257b83dbfcb",
-    "title": "Denmark parliament approves security deal with Greenland and US",
-    "summary": "All 109 Danish lawmakers present approved the deal, easing tensions over Trump's desire to annex the Arctic island.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
-    "publishedAt": "2026-11-19T11:09:00.000Z"
-  },
-  {
-    "id": "d6d5a75fc790921b",
-    "title": "Myanmar committed acts of genocide against Rohingya minority, world’s top court rules",
-    "summary": "Governments around world have been awaiting ICJ judgment, seen as critical test for dealing with most serious of all state crimes.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
-    "publishedAt": "2026-11-19T11:08:44.000Z"
-  },
-  {
-    "id": "f5974850414e0694",
-    "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-    "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
-    "publishedAt": "2026-11-19T11:07:37.000Z"
   }
 ]
