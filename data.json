@@ -1,5 +1,77 @@
 [
   {
+    "id": "1c65bd77cc62ed4b",
+    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+    "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
+    "publishedAt": "2026-11-20T12:56:48.000Z"
+  },
+  {
+    "id": "db18afe3428cbd47",
+    "title": "Nations League quarterfinal draw: Spain face France, England play Norway",
+    "summary": "World Cup winners and European champions Spain have reached three of the four Nations League finals, winning in 2023.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss",
+    "publishedAt": "2026-11-20T12:44:58.000Z"
+  },
+  {
+    "id": "71c26b19046c44d0",
+    "title": "Fallout over tuition fees may snag Burnham’s EU deal, say insiders",
+    "summary": "No 10 pushing back on claims in Brussels that lack of agreement on fees for EU students could sink agreements.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
+    "publishedAt": "2026-11-20T12:42:08.000Z"
+  },
+  {
+    "id": "1ba9a6b8a32101ed",
+    "title": "Friday night will be ‘coldest of the autumn so far’, UK forecasters say",
+    "summary": "Temperatures will be ‘severe’ in the north, as low as minus 9C, with some sub-zero temperatures farther south.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/20/friday-cold-weather-uk",
+    "publishedAt": "2026-11-20T12:40:05.000Z"
+  },
+  {
+    "id": "bea53ace23fa5ef2",
+    "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
+    "summary": "Polish PM calls strikes, which took place amid western military exercises, ‘an intentional provocation’ by Moscow.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
+    "publishedAt": "2026-11-20T12:34:30.000Z"
+  },
+  {
+    "id": "7f9917cd1808de49",
+    "title": "First Thing: Blockbuster Anthropic IPO fails to halt global slide in AI stocks",
+    "summary": "Record-breaking IPO for company behind Claude comes amid tumbling prices for other AI stocks. Plus why the humble potato could be vital for future space missions.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/first-thing-blockbuster-anthropic-ipo-fails-to-halt-global-slide-in-ai-stocks",
+    "publishedAt": "2026-11-20T12:26:42.000Z"
+  },
+  {
+    "id": "7745a81f8be2a894",
+    "title": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
+    "summary": "The case sets a precedent for establishing a state's intent to commit genocide beyond explicitly written orders.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-20T12:20:29.000Z"
+  },
+  {
+    "id": "879f652197240985",
+    "title": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
+    "summary": "CENTCOM declares vessels bypassing the Iran blockade could be stopped, boarded or even seized by US forces.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
+    "publishedAt": "2026-11-20T12:19:24.000Z"
+  },
+  {
     "id": "b838cca1a5c39c0c",
     "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
     "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
@@ -115,6 +187,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
     "publishedAt": "2026-11-20T11:00:31.000Z"
+  },
+  {
+    "id": "eb38042c0b5cd1ef",
+    "title": "‘I agree with the president’: incoming senator Abdul El-Sayed seeks to help Trump end military aid to Israel",
+    "summary": "Michigan senator-elect also secured a meeting with JD Vance, who called him a ‘terrible evil’ in lead-up to election.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/el-sayed-trump-israel-aid",
+    "publishedAt": "2026-11-20T11:00:29.000Z"
   },
   {
     "id": "4e73c3befc3e3efc",
@@ -927,6 +1008,15 @@
     "publishedAt": "2026-11-20T00:54:50.000Z"
   },
   {
+    "id": "b5502e0ebc980de5",
+    "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+    "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+    "publishedAt": "2026-11-20T00:50:24.000Z"
+  },
+  {
     "id": "7b5de63c6c02493a",
     "title": "Religious messages agriculture secretary emailed to staff deemed unconstitutional",
     "summary": "A federal judge ruled that messages sent by Brooke Rollins to USDA workers suggest Christianity is a shared faith and violate the first amendment.",
@@ -1258,95 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
     "publishedAt": "2026-11-19T20:24:09.000Z"
-  },
-  {
-    "id": "5a6b5b6de7e6cb46",
-    "title": "Call for ACCC to take up 'strong case' for burn victim hurt by Temu product",
-    "summary": "Two years after she was badly burnt while wearing a recalled Temu-purchased hoodie, Daniella Jacobs-Herd's family has run out of legal options. Allan Fels is among those calling on the consumer watchdog to use its powers to help.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-20/burns-victim-has-strong-case-against-temu-supplier/107404316",
-    "publishedAt": "2026-11-19T20:11:10.000Z"
-  },
-  {
-    "id": "653751b5d3ac0b8a",
-    "title": "Grand Theft Auto fans skip work and pull all-nighters to play new instalment",
-    "summary": "Hotly anticipated Bonnie and Clyde-inspired adventure GTA VI has gamers glued to their screens around the world.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters",
-    "publishedAt": "2026-11-19T20:07:23.000Z"
-  },
-  {
-    "id": "947e6ec924674139",
-    "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-    "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
-    "publishedAt": "2026-11-19T20:07:02.000Z"
-  },
-  {
-    "id": "6dd2ec3981ff138f",
-    "title": "Who are Anthropic’s seven co-founders, now worth $180bn?",
-    "summary": "The company counts physicists, a former journalist and an associate of the pope among its guiding lights.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders",
-    "publishedAt": "2026-11-19T20:05:13.000Z"
-  },
-  {
-    "id": "4ceff601e2330ba1",
-    "title": "John Cornyn blocks Trump judicial nominee after Senate shouting match with Ted Cruz",
-    "summary": "Outgoing senator withheld ‘blue slip’ from T Elliot Gaiser, blocking his appointment to northern Texas district court.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/judge-t-elliot-gaiser-nomination-fight",
-    "publishedAt": "2026-11-19T20:03:58.000Z"
-  },
-  {
-    "id": "d7c5b3a2d95ee966",
-    "title": "Judge bans Trump’s restrictions on HIV funds for transgender patients",
-    "summary": "Federal court rules providers can acknowledge gender identity and provide gender-affirming care.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/hiv-treatment-trans-patients-trump",
-    "publishedAt": "2026-11-19T20:02:00.000Z"
-  },
-  {
-    "id": "7cbe0781a3dc413a",
-    "title": "Oil firm fined for breaking environmental rules hundreds of times",
-    "summary": "Ten charges involved oil, cyanide and other pollutants entering local waterways.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo",
-    "publishedAt": "2026-11-19T19:58:27.000Z"
-  },
-  {
-    "id": "9a626d0b39103af2",
-    "title": "‘On the same page’: Hegseth hails US ties with Colombia’s de la Espriella",
-    "summary": "The US defence secretary praised security cooperation with Colombia as country joins Americas Counter Cartel Coalition.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
-    "publishedAt": "2026-11-19T19:53:24.000Z"
-  },
-  {
-    "id": "5ca92f35c1888736",
-    "title": "Howard-era minister Sharman Stone dies via voluntary assisted dying, aged 75",
-    "summary": "The former Liberal MP had fought a long battle against glioblastoma, an aggressive form of brain cancer.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
-    "publishedAt": "2026-11-19T19:44:24.000Z"
-  },
-  {
-    "id": "8de921d60327898d",
-    "title": "European leaders unite in Berlin to reaffirm support for Ukraine",
-    "summary": "German chancellor warns peace talks without Europe's involvement are doomed to fail, urging unity with Ukraine.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
-    "publishedAt": "2026-11-19T19:40:23.000Z"
   }
 ]
