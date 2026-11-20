@@ -1,5 +1,104 @@
 [
   {
+    "id": "04f6eec64cd9546b",
+    "title": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
+    "summary": "More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 2017, most of them distance runners.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
+    "publishedAt": "2026-11-20T09:16:30.000Z"
+  },
+  {
+    "id": "6edc9b97feb8dc8f",
+    "title": "The U.K. and EU hold a rare summit to strengthen ties",
+    "summary": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
+    "publishedAt": "2026-11-20T09:14:41.000Z"
+  },
+  {
+    "id": "5142390aaa16dc3e",
+    "title": "Pakistan minister visits India for first time since 2025 war",
+    "summary": "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
+    "publishedAt": "2026-11-20T09:11:57.000Z"
+  },
+  {
+    "id": "34ed9397c7f7d687",
+    "title": "California’s coastal communities on alert as biggest waves in years hit state",
+    "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+    "publishedAt": "2026-11-20T09:03:20.000Z"
+  },
+  {
+    "id": "974fdeb4375ac413",
+    "title": "Three Kyiv bridges hit during major Russian missile attack",
+    "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
+    "publishedAt": "2026-11-20T09:01:06.000Z"
+  },
+  {
+    "id": "7ab8caed3c676c4c",
+    "title": "British Library to outsource security and ‘repurpose’ reading rooms as business spaces",
+    "summary": "Exclusive: Guards told their jobs will be transferred to a private contractor that has rejected union recognition.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/books/2026/nov/20/british-library-outsource-security-reading-rooms-business-spaces",
+    "publishedAt": "2026-11-20T09:00:27.000Z"
+  },
+  {
+    "id": "eb7611afb1500257",
+    "title": "Russian attacks on Kyiv kill 3, cripple bridges and cut power",
+    "summary": "Russia has launched missiles and drones across Kyiv, killing three people and injuring nine.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/russian-attacks-kyiv-kill-3-cripple-bridges-cut-138313948",
+    "publishedAt": "2026-11-20T08:51:45.000Z"
+  },
+  {
+    "id": "c8ab7ff78dd0aabd",
+    "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
+    "summary": "Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
+    "publishedAt": "2026-11-20T08:36:13.000Z"
+  },
+  {
+    "id": "ed220e25d6dafea0",
+    "title": "Joanne Young praised for bravery in exposing rape by husband and strangers",
+    "summary": "Woman who waived anonymity says she hopes her case will mean other victims of abuse are more likely to come forward.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/20/joanne-young-drugged-raped-by-husband-praised-bravery-anonymity",
+    "publishedAt": "2026-11-20T08:22:16.000Z"
+  },
+  {
+    "id": "c4176800e835a66d",
+    "title": "El Salvador’s Bukele seeks third term after constitution change",
+    "summary": "Critics accuse populist president of engineering a de facto one-party state in El Salvador.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss",
+    "publishedAt": "2026-11-20T08:21:34.000Z"
+  },
+  {
+    "id": "5107e59575ddcbbf",
+    "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+    "summary": "Britain makes concessions on youth mobility scheme as negotiations on food and farming go down to the wire.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+    "publishedAt": "2026-11-20T08:19:28.000Z"
+  },
+  {
     "id": "562df2c80c8dc794",
     "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
     "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
@@ -25,6 +124,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/20/kemi-badenoch-brexit-eu-conservatives",
     "publishedAt": "2026-11-20T08:00:26.000Z"
+  },
+  {
+    "id": "14028a62e5926a58",
+    "title": "Islam set to be the largest religion by 2035: Where will most Muslims live?",
+    "summary": "Pew Research projects Muslim population in Pakistan will overtake Indonesia by 2070, with India next and Nigeria third.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss",
+    "publishedAt": "2026-11-20T07:56:03.000Z"
   },
   {
     "id": "64fbe551bb28c36b",
@@ -144,6 +252,15 @@
     "publishedAt": "2026-11-20T07:01:39.000Z"
   },
   {
+    "id": "849d571e5e17e74f",
+    "title": "What impact has Brexit had on the UK and EU economies?",
+    "summary": "As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
+    "publishedAt": "2026-11-20T07:00:26.000Z"
+  },
+  {
     "id": "7173a86c9318b477",
     "title": "Baby born with heart abnormalities ‘didn’t have a chance’ after non-medical free birth, NSW inquest hears",
     "summary": "Inquest into the deaths of four babies after free and home births hears routine checks and follow-up may have saved their lives.",
@@ -151,6 +268,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/20/routine-checks-may-have-saved-babies-lives-freebirth-inquest-nsw-ntwnfb",
     "publishedAt": "2026-11-20T06:51:54.000Z"
+  },
+  {
+    "id": "4c907ceadad6329d",
+    "title": "Nigeria moves to end jail terms for attempted suicide",
+    "summary": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o",
+    "publishedAt": "2026-11-20T06:32:17.000Z"
   },
   {
     "id": "9e246eddfd3c3ff6",
@@ -459,6 +585,15 @@
     "publishedAt": "2026-11-20T01:29:28.000Z"
   },
   {
+    "id": "8fc44eaca7192377",
+    "title": "US army warns detonation of unstable explosives will create toxic plume",
+    "summary": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo",
+    "publishedAt": "2026-11-20T01:27:27.000Z"
+  },
+  {
     "id": "6455c7d0ecb1da48",
     "title": "White House cyber director ousted after US hit by wave of tech outages",
     "summary": "Sean Cairncross exits after outages that sparked fierce criticism, with DoD official Kirsten Davies to take over.",
@@ -619,6 +754,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
     "publishedAt": "2026-11-19T23:51:50.000Z"
+  },
+  {
+    "id": "a9056f83354fc551",
+    "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
+    "summary": "Australian physicists chose to transmit the word ‘gravity’ in binary code through brick wall.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
+    "publishedAt": "2026-11-19T23:30:26.000Z"
   },
   {
     "id": "b14b228b0a9167a0",
@@ -1098,6 +1242,15 @@
     "publishedAt": "2026-11-19T17:40:18.000Z"
   },
   {
+    "id": "db18c3c5862651cb",
+    "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+    "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+    "publishedAt": "2026-11-19T17:38:22.000Z"
+  },
+  {
     "id": "b8fc9ad90e7d4763",
     "title": "'Dad was deteriorating': Two-hour ambulance target missed more than 2,000 times",
     "summary": "The Release to Rescue initiative was introduced this year to cut ambulance delays and speed up handover times.",
@@ -1195,158 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
     "publishedAt": "2026-11-19T16:55:57.000Z"
-  },
-  {
-    "id": "207fd9de5c056732",
-    "title": "Susan Smith denied parole again 32 years after drowning her two sons",
-    "summary": "This is the second time Smith has requested to be released from prison for killing the two boys, who were both under the age of four at the time.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo",
-    "publishedAt": "2026-11-19T16:53:29.000Z"
-  },
-  {
-    "id": "2d772e55f934c1db",
-    "title": "Newborn dies after suspected female genital mutilation in Senegal; relatives arrested",
-    "summary": "Three people have been arrested in eastern Senegal after a newborn baby girl died following alleged female genital mutilation.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/newborn-dies-after-suspected-female-genital-mutilation-senegal-138292570",
-    "publishedAt": "2026-11-19T16:42:21.000Z"
-  },
-  {
-    "id": "b5c89c2c5b19e036",
-    "title": "4 men found guilty of crimes against British woman whose husband advertised her for sex online",
-    "summary": "Four British men have been found guilty of multiple sexual crimes against a woman whose ex-husband drugged and advertised her for sex online.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/4-men-found-guilty-crimes-british-woman-husband-138292217",
-    "publishedAt": "2026-11-19T16:38:39.000Z"
-  },
-  {
-    "id": "5849b513801565e7",
-    "title": "Myanmar is the first state found responsible for genocide. How did the UN court rule in other cases?",
-    "summary": "The United Nations’ top court has for the first time ruled that a nation committed what legal scholars call the crime of crimes, finding that Myanmar committed genocide in a brutal 2017 military crackdown against the Rohingya minority.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/myanmar-state-found-responsible-genocide-court-rule-cases-138292621",
-    "publishedAt": "2026-11-19T16:38:36.000Z"
-  },
-  {
-    "id": "f185109c2e3b1ded",
-    "title": "Dutch watchdog tells people not to buy AI smart glasses",
-    "summary": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o",
-    "publishedAt": "2026-11-19T16:33:17.000Z"
-  },
-  {
-    "id": "bab39ac73f995eed",
-    "title": "Rare rhino's first steps captured on video at zoo",
-    "summary": "Zookeepers say the rhino's birth is a \"special moment\" for the under-threat one horned species.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo",
-    "publishedAt": "2026-11-19T16:28:41.000Z"
-  },
-  {
-    "id": "1411c015818d8df7",
-    "title": "‘Take temperature down’ over guidance on single-sex spaces, head of UK equalities body urges",
-    "summary": "EHRC chair says ‘misinformation’ about guidance issued after supreme court ruling has created ‘more anxiety’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/19/ehrc-guidance-single-sex-spaces-transgender-supreme-court",
-    "publishedAt": "2026-11-19T16:27:10.000Z"
-  },
-  {
-    "id": "26035da73ae0ea21",
-    "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
-    "summary": "Relief in the immediate aftermath of a landmark ruling, but what happens next is in the hands of governments around the world.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
-    "publishedAt": "2026-11-19T16:15:52.000Z"
-  },
-  {
-    "id": "4f83c28623847fea",
-    "title": "Prosecutors allege British woman ‘trying to find someone who would kill her’ lured to US and murdered",
-    "summary": "Sonia Exelby’s disappearance sparked an international search. The accused man, Dwain Hall, denies murdering her.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/british-woman-florida-murder-case-sonia-exelby",
-    "publishedAt": "2026-11-19T16:08:17.000Z"
-  },
-  {
-    "id": "8eeed620a2ddf0e7",
-    "title": "Spiked nightcaps and invitations to strangers: how Philip Young sexually abused his wife for 15 years",
-    "summary": "Joanne Young, who has waived anonymity, was subjected to years of drugging and rape by former Swindon councillor, who invited other men to assault her.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/19/philip-young-sexual-abuse-spiked-nightcaps-strangers-joanne-young",
-    "publishedAt": "2026-11-19T16:00:06.000Z"
-  },
-  {
-    "id": "d4f3a86a03fa8cd6",
-    "title": "‘It stings to come close’: Louisiana Democrat’s narrow failure to make it 57 Senate seats",
-    "summary": "Jamie Davis falls just short as Democrats across south wonder whether blue wave could have been even bigger.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/louisiana-senate-seat-democrats-jamie-davis",
-    "publishedAt": "2026-11-19T16:00:06.000Z"
-  },
-  {
-    "id": "584db0d8b9b3e36b",
-    "title": "Anthropic raises $81bn in record-breaking stock market debut",
-    "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
-    "publishedAt": "2026-11-19T15:58:58.000Z"
-  },
-  {
-    "id": "b25352a4adb30a65",
-    "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-    "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo",
-    "publishedAt": "2026-11-19T15:52:26.000Z"
-  },
-  {
-    "id": "4dffa5bc2cfc8f13",
-    "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-    "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
-    "publishedAt": "2026-11-19T15:50:03.000Z"
-  },
-  {
-    "id": "5d8913f71b9fd999",
-    "title": "‘Pot luck service’: Royal Mail on course to miss delivery targets for fourth year in a row",
-    "summary": "Citizens Advice criticises company for failing to meet Ofcom requirements while reporting increased revenue.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/19/royal-mail-to-miss-delivery-targets-fourth-year-in-row",
-    "publishedAt": "2026-11-19T15:42:33.000Z"
-  },
-  {
-    "id": "bfad6145e3fb8837",
-    "title": "‘New page in history?’ Xi, Trump and Putin summit was more of a footnote",
-    "summary": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agenda.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
-    "publishedAt": "2026-11-19T15:35:01.000Z"
-  },
-  {
-    "id": "13429205ba75c5ad",
-    "title": "Surgeon calls for corporate homicide probe over claims patients unnecessarily bled to death",
-    "summary": "Dr Mohammed Habib said he had been raising concerns about NHS Grampian for a decade, including with government ministers and police.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crjeqxexyq05o",
-    "publishedAt": "2026-11-19T15:30:48.000Z"
   }
 ]
