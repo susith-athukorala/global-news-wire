@@ -1,5 +1,32 @@
 [
   {
+    "id": "319dce72739d9fd8",
+    "title": "El Salvador President Nayib Bukele seeks third term while attacking gangs in Haiti",
+    "summary": "El Salvador’s President Nayib Bukele has officially launched his bid for reelection in the February elections.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/el-salvador-president-nayib-bukele-seeks-term-attacking-138309430",
+    "publishedAt": "2026-11-20T03:39:07.000Z"
+  },
+  {
+    "id": "540a5b7ca6b4a105",
+    "title": "Thousands protest Colombia’s tax plans amid row over US military role",
+    "summary": "Trade unions, students and opposition groups demonstrated in Bogota and other major cities on Thursday.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
+    "publishedAt": "2026-11-20T03:26:23.000Z"
+  },
+  {
+    "id": "25115328031c85c6",
+    "title": "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
+    "summary": "Lula honours Raoni in Mato Grosso, celebrating his legacy and advancing protection for Kayapo and Yudja ancestral lands.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss",
+    "publishedAt": "2026-11-20T03:24:49.000Z"
+  },
+  {
     "id": "ac6c433afc9e1ac7",
     "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
     "summary": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
@@ -1321,32 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-parents-please-dont-buy-gta-6-vi-for-your-child",
     "publishedAt": "2026-11-19T13:00:48.000Z"
-  },
-  {
-    "id": "0af123159cbe44f3",
-    "title": "South Korea’s top court overturns charges against ex-PM for his role in martial law",
-    "summary": "South Korea’s Supreme Court has overturned the conviction of former Prime Minister Han Duck-soo.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/south-koreas-top-court-overturns-charges-prime-minister-138280095",
-    "publishedAt": "2026-11-19T12:58:32.000Z"
-  },
-  {
-    "id": "ad45abb72d75e7ea",
-    "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
-    "summary": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn).",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o",
-    "publishedAt": "2026-11-19T12:56:30.000Z"
-  },
-  {
-    "id": "50a5a499604da53a",
-    "title": "AI demand will push up interest rates around the world, IMF head warns",
-    "summary": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-    "publishedAt": "2026-11-19T12:51:16.000Z"
   }
 ]
