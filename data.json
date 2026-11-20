@@ -1,5 +1,95 @@
 [
   {
+    "id": "7a65904af0ba1b33",
+    "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
+    "summary": "Democrats – including incoming banking chair and both majority leader candidates – said wealthy interests were prioritized over the needs of working Americans.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
+    "publishedAt": "2026-11-20T18:51:16.000Z"
+  },
+  {
+    "id": "5733aa2a7beb0744",
+    "title": "Lauren Boebert says Trump ‘did some things to hurt’ her constituents",
+    "summary": "Controversial Colorado Republican narrowly lost House seat in midterms but says ‘I’m not mad at the president’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
+    "publishedAt": "2026-11-20T18:51:09.000Z"
+  },
+  {
+    "id": "b9a3083bba603ec2",
+    "title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
+    "summary": "Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
+    "publishedAt": "2026-11-20T18:37:35.000Z"
+  },
+  {
+    "id": "22f5eaecb09c50bc",
+    "title": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
+    "summary": "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illness.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
+    "publishedAt": "2026-11-20T18:36:30.000Z"
+  },
+  {
+    "id": "799e86da778639c8",
+    "title": "Spain frees wealthy US-sought activist on bail as Irish police raid Dublin home",
+    "summary": "Pro-Palestinian donor James ‘Fergie’ Chambers released as court considers extradition request.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
+    "publishedAt": "2026-11-20T18:34:13.000Z"
+  },
+  {
+    "id": "11e49cad6848a494",
+    "title": "Princeton doctoral student reportedly detained by ICE on way back from conference",
+    "summary": "Eva Yi Xie was taken into custody at Washington DC airport after presenting research at neuroscience conference.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice",
+    "publishedAt": "2026-11-20T18:33:17.000Z"
+  },
+  {
+    "id": "ab96d4d31437bc69",
+    "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
+    "summary": "Nikhil Gupta admitted to plotting with Indian government official to hire hitman to murder dual US-Canadian citizen.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
+    "publishedAt": "2026-11-20T18:24:12.000Z"
+  },
+  {
+    "id": "1dbd628dcd3565fb",
+    "title": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
+    "summary": "PM challenges rivals to rebuff plan he says could add 0.5% annual growth to economy and offer young people hope.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
+    "publishedAt": "2026-11-20T18:22:50.000Z"
+  },
+  {
+    "id": "b05464920f2e0593",
+    "title": "What exactly is in the deal between the UK and the EU?",
+    "summary": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange scheme.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
+    "publishedAt": "2026-11-20T18:19:53.000Z"
+  },
+  {
+    "id": "80154fe65d348e4e",
+    "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
+    "summary": "Russian intelligence thought to be behind plan to kill US-Ukrainian musician Kyivstoner before concert in Denmark.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+    "publishedAt": "2026-11-20T18:16:12.000Z"
+  },
+  {
     "id": "e0006c8114bab179",
     "title": "‘The greatest game ever made’: readers and Guardian staff on Grand Theft Auto VI",
     "summary": "Rockstar’s newest installment of its hit franchise still has plenty of action, along with a dose of ‘healthy masculinity’",
@@ -61,6 +151,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo",
     "publishedAt": "2026-11-20T17:54:37.000Z"
+  },
+  {
+    "id": "e93e2ca783cbde76",
+    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+    "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
+    "publishedAt": "2026-11-20T17:49:48.000Z"
   },
   {
     "id": "907a25d3e6931696",
@@ -430,6 +529,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
     "publishedAt": "2026-11-20T14:00:32.000Z"
+  },
+  {
+    "id": "8c001dfe6421839d",
+    "title": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
+    "summary": "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income stream.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
+    "publishedAt": "2026-11-20T14:00:31.000Z"
   },
   {
     "id": "c4b4ae37df7dbfd3",
@@ -1240,113 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
     "publishedAt": "2026-11-20T06:20:26.000Z"
-  },
-  {
-    "id": "0d7f33946a1bb407",
-    "title": "Social poker with £5 stake is booming, says dealer",
-    "summary": "A poker league in Fenland sees a 35% rise in players since 2022.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm8947dy3kg9o",
-    "publishedAt": "2026-11-20T06:19:25.000Z"
-  },
-  {
-    "id": "5c6961b5adafeb89",
-    "title": "Tashima says Balogun red card row at World Cup prompted FIFA presidency bid",
-    "summary": "Tashima is one of three names on the ballot for the March election, along with current President Infantino and Diallo.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
-    "publishedAt": "2026-11-20T06:15:06.000Z"
-  },
-  {
-    "id": "fa271ab0d709f34e",
-    "title": "Survey reveals 'major increase' in cost of living",
-    "summary": "More than two thirds of respondents reported noticing rises in the cost of living.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq772r7kk315o",
-    "publishedAt": "2026-11-20T06:12:28.000Z"
-  },
-  {
-    "id": "dbeffd86dbf70ea0",
-    "title": "'When I found out about Breast Friends it was the best thing ever'",
-    "summary": "The King's Award for Voluntary Service is the highest award given to voluntary groups in the UK.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c862p6v3wx43o",
-    "publishedAt": "2026-11-20T06:10:40.000Z"
-  },
-  {
-    "id": "230c016a101bbd35",
-    "title": "Community hub to close citing financial challenges",
-    "summary": "Lisa Green, who works in the cafe, says the team is like a \"family\" and people rely on the hub.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cv0l31g4n1weo",
-    "publishedAt": "2026-11-20T06:09:33.000Z"
-  },
-  {
-    "id": "e7800576970a6e54",
-    "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
-    "summary": "US Maritime Administration acknowledged naval blockade's impact on insurance premiums and cargo capacity, memo shows.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss",
-    "publishedAt": "2026-11-20T06:03:03.000Z"
-  },
-  {
-    "id": "eeea0e424e241a36",
-    "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-    "summary": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno",
-    "publishedAt": "2026-11-20T06:00:33.000Z"
-  },
-  {
-    "id": "b82da36cedfe5a91",
-    "title": "Academy trust pays out after Prevent threat over children’s Palestine badges",
-    "summary": "Lion Academy Trust apologises after threatening four pupils in east London with referral to counter-extremism scheme.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/20/lion-academy-trust-children-palestine-badges-prevent-london",
-    "publishedAt": "2026-11-20T06:00:23.000Z"
-  },
-  {
-    "id": "8864c85aaebc7531",
-    "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
-    "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro",
-    "publishedAt": "2026-11-20T05:59:56.000Z"
-  },
-  {
-    "id": "be53535af9f6b717",
-    "title": "Sydney man charged with car bomb plot and downloading Islamic State group material",
-    "summary": "Australian police have arrested a man in the greater Sydney area on charges of researching how to build a car bomb and downloading violent material inspired by the Islamic State group.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/sydney-man-charged-car-bomb-plot-downloading-islamic-138312769",
-    "publishedAt": "2026-11-20T05:53:11.000Z"
-  },
-  {
-    "id": "da4aa71278e1438f",
-    "title": "Dozens of inmates in Romania step onto the stage for the 15th edition of a prison theater festival",
-    "summary": "A drama festival in Romania gives dozens of prison inmates a brief respite from life behind bars as they perform on stage at a renowned theater in the capital.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/dozens-inmates-romania-step-stage-15th-edition-prison-138312303",
-    "publishedAt": "2026-11-20T05:52:21.000Z"
-  },
-  {
-    "id": "3bcfa52a6aed6af4",
-    "title": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
-    "summary": "For refugees, the ICJ ruling that Myanmar committed genocide is a vindication. But will they be able to return home?",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss",
-    "publishedAt": "2026-11-20T05:36:21.000Z"
   }
 ]
