@@ -1,5 +1,95 @@
 [
   {
+    "id": "fa271ab0d709f34e",
+    "title": "Survey reveals 'major increase' in cost of living",
+    "summary": "More than two thirds of respondents reported noticing rises in the cost of living.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq772r7kk315o",
+    "publishedAt": "2026-11-20T06:12:28.000Z"
+  },
+  {
+    "id": "dbeffd86dbf70ea0",
+    "title": "'When I found out about Breast Friends it was the best thing ever'",
+    "summary": "The King's Award for Voluntary Service is the highest award given to voluntary groups in the UK.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c862p6v3wx43o",
+    "publishedAt": "2026-11-20T06:10:40.000Z"
+  },
+  {
+    "id": "230c016a101bbd35",
+    "title": "Community hub to close citing financial challenges",
+    "summary": "Lisa Green, who works in the cafe, says the team is like a \"family\" and people rely on the hub.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cv0l31g4n1weo",
+    "publishedAt": "2026-11-20T06:09:33.000Z"
+  },
+  {
+    "id": "e7800576970a6e54",
+    "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
+    "summary": "US Maritime Administration acknowledged naval blockade's impact on insurance premiums and cargo capacity, memo shows.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss",
+    "publishedAt": "2026-11-20T06:03:03.000Z"
+  },
+  {
+    "id": "eeea0e424e241a36",
+    "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+    "summary": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno",
+    "publishedAt": "2026-11-20T06:00:33.000Z"
+  },
+  {
+    "id": "b82da36cedfe5a91",
+    "title": "Academy trust pays out after Prevent threat over children’s Palestine badges",
+    "summary": "Lion Academy Trust apologises after threatening four pupils in east London with referral to counter-extremism scheme.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/20/lion-academy-trust-children-palestine-badges-prevent-london",
+    "publishedAt": "2026-11-20T06:00:23.000Z"
+  },
+  {
+    "id": "8864c85aaebc7531",
+    "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
+    "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro",
+    "publishedAt": "2026-11-20T05:59:56.000Z"
+  },
+  {
+    "id": "be53535af9f6b717",
+    "title": "Sydney man charged with car bomb plot and downloading Islamic State group material",
+    "summary": "Australian police have arrested a man in the greater Sydney area on charges of researching how to build a car bomb and downloading violent material inspired by the Islamic State group.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/sydney-man-charged-car-bomb-plot-downloading-islamic-138312769",
+    "publishedAt": "2026-11-20T05:53:11.000Z"
+  },
+  {
+    "id": "da4aa71278e1438f",
+    "title": "Dozens of inmates in Romania step onto the stage for the 15th edition of a prison theater festival",
+    "summary": "A drama festival in Romania gives dozens of prison inmates a brief respite from life behind bars as they perform on stage at a renowned theater in the capital.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/dozens-inmates-romania-step-stage-15th-edition-prison-138312303",
+    "publishedAt": "2026-11-20T05:52:21.000Z"
+  },
+  {
+    "id": "3bcfa52a6aed6af4",
+    "title": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
+    "summary": "For refugees, the ICJ ruling that Myanmar committed genocide is a vindication. But will they be able to return home?",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss",
+    "publishedAt": "2026-11-20T05:36:21.000Z"
+  },
+  {
     "id": "beca203ab8406f0a",
     "title": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
     "summary": "More than 85 percent of Gaza Civil Defence vehicles are out of service as crews struggle to reach trapped people.",
@@ -396,6 +486,15 @@
     "publishedAt": "2026-11-19T22:17:09.000Z"
   },
   {
+    "id": "fea67cf9c7eff96e",
+    "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
+    "summary": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
+    "publishedAt": "2026-11-19T22:09:18.000Z"
+  },
+  {
     "id": "7d68e8a5be2d8b28",
     "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
     "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
@@ -619,6 +718,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/news/2026/nov/19/prison-authorities-consider-russell-brand-youtube-message-rules-victim-distress",
     "publishedAt": "2026-11-19T19:30:14.000Z"
+  },
+  {
+    "id": "9c2c457701b5d251",
+    "title": "A decade after Brexit vote, polls show many Brits regret the decision",
+    "summary": "A decade after the Brexit referendum was held, and more than six years on from when the UK actually left the EU, there is growing speculation the decision could be reversed.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-20/british-pm-burnham-heads-to-brussels-amid-brexit-regret-at-home/107401698",
+    "publishedAt": "2026-11-19T19:28:21.000Z"
   },
   {
     "id": "eb1e6e1afdc11e91",
@@ -1240,113 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/putin-sharing-spotlight-trump-xi-boosts-profile-global-138265640",
     "publishedAt": "2026-11-19T14:02:14.000Z"
-  },
-  {
-    "id": "dc1cead1523c47f2",
-    "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
-    "summary": "Reported proposal to give musicians special treatment is ‘unworkable’, Aria CEO says, vowing to stand with other creatives.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
-    "publishedAt": "2026-11-19T14:00:52.000Z"
-  },
-  {
-    "id": "ed2f9c6e43d446ca",
-    "title": "‘A new day in the Senate’: 56-seat majority gives Democrats fuel to take on Trump",
-    "summary": "Party wins biggest majority since Obama and one unthinkable two years ago – now the hard work of investigating and lawmaking begins.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/democrats-senate-majority-midterms-trump",
-    "publishedAt": "2026-11-19T14:00:52.000Z"
-  },
-  {
-    "id": "cfeab4f3add0a716",
-    "title": "‘Communities are really angry’: how Australia’s datacentre opposition has gone from marginal to mainstream in five months",
-    "summary": "A network of grassroots campaigners around the country are sharing information to help push back against the datacentre boom.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/20/communities-are-really-angry-how-datacentre-opposition-has-gone-from-marginal-to-mainstream-in-five-months",
-    "publishedAt": "2026-11-19T14:00:50.000Z"
-  },
-  {
-    "id": "a9056f83354fc551",
-    "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
-    "summary": "Australian physicists chose to transmit the word ‘gravity’ in binary code through brick wall.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
-    "publishedAt": "2026-11-19T14:00:50.000Z"
-  },
-  {
-    "id": "57e16eaca3c36e7f",
-    "title": "Welsh NHS in strongest pre-winter position ever, says health minister",
-    "summary": "It comes as the number waiting for planned NHS treatment in Wales increases for the sixth month.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq702e33el83o",
-    "publishedAt": "2026-11-19T13:52:35.000Z"
-  },
-  {
-    "id": "d6d5a75fc790921b",
-    "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
-    "summary": "Judgment finds ‘intent to destroy a substantial part of the Rohingya population’ after case seen as critical test for dealing with most serious of state crimes.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
-    "publishedAt": "2026-11-19T13:52:10.000Z"
-  },
-  {
-    "id": "65034a4e4e2ab1b3",
-    "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
-    "summary": "Advocates raised concerns about consumer privacy and data-sharing, involving a firm with ties to Israel's military.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/19/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal?traffic_source=rss",
-    "publishedAt": "2026-11-19T13:49:49.000Z"
-  },
-  {
-    "id": "71e890035ceb0d10",
-    "title": "FIFA Under-17 World Cup 2026 gets under way in Qatar despite USA withdrawal",
-    "summary": "The 25-day tournament will feature 48 teams, with Dominican Republic replacing USA as FIFA plays down security concerns.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/19/fifa-under-17-world-cup-2026-gets-under-way-in-qatar-despite-usa-withdrawal?traffic_source=rss",
-    "publishedAt": "2026-11-19T13:47:50.000Z"
-  },
-  {
-    "id": "f28b5387f9a4cc58",
-    "title": "UN warns against misuse of security laws as UK weighs Palestine Action ban",
-    "summary": "Human rights committee publishes guidance on freedom of association, which criticises vague laws targeting ‘extremism’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/19/un-warns-misuse-security-laws-uk-palestine-action-ban",
-    "publishedAt": "2026-11-19T13:43:15.000Z"
-  },
-  {
-    "id": "e774f6afe94a5404",
-    "title": "Wreck of Australia's first warship built at home found 128 years after sinking",
-    "summary": "The wreck of Australia’s first Australian-built warship, HMCS Spitfire, has been found 128 years to the day after it sank off the country’s north coast.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/wreck-australias-warship-built-home-found-128-years-138278608",
-    "publishedAt": "2026-11-19T13:38:20.000Z"
-  },
-  {
-    "id": "feb249b67917e5a3",
-    "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-    "summary": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo",
-    "publishedAt": "2026-11-19T13:35:52.000Z"
-  },
-  {
-    "id": "530a5501006336ca",
-    "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
-    "summary": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro",
-    "publishedAt": "2026-11-19T13:35:29.000Z"
   }
 ]
