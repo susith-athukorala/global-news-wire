@@ -1,5 +1,32 @@
 [
   {
+    "id": "ac6c433afc9e1ac7",
+    "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+    "summary": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+    "publishedAt": "2026-11-20T02:54:22.000Z"
+  },
+  {
+    "id": "feedd56ce83382c3",
+    "title": "Trump DoJ moves to drop legal challenge to Mary Peltola’s Alaska Senate win",
+    "summary": "President had sought to block results if Democrat won race that featured two candidates named Dan Sullivan.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/trump-mary-peltola-alaska-senate",
+    "publishedAt": "2026-11-20T02:43:33.000Z"
+  },
+  {
+    "id": "84142d97290bfa01",
+    "title": "After meeting Putin, Trump tells Europe it could save money ending the war",
+    "summary": "From abandoning a Cold War mentality to nuclear non-proliferation and the war in Ukraine, here are the key takeaways from the Trump-Xi-Putin meeting.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-20/key-takeaways-from-trump-xi-putin-meeting/107407564",
+    "publishedAt": "2026-11-20T02:35:44.000Z"
+  },
+  {
     "id": "a8f641bc1705047c",
     "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
     "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
@@ -1053,6 +1080,24 @@
     "publishedAt": "2026-11-19T14:02:20.000Z"
   },
   {
+    "id": "b2386f01b84b1689",
+    "title": "Denmark approves security deal with US and Greenland, seeking to finally ease tensions with Trump",
+    "summary": "Denmark’s parliament has approved an agreement with Greenland and the United States to strengthen security in the Arctic and North Atlantic.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/danish-lawmakers-approve-security-deal-greenland-us-hoping-138281209",
+    "publishedAt": "2026-11-19T14:02:18.000Z"
+  },
+  {
+    "id": "4a105c5c67d339a2",
+    "title": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but emerge with no major breakthroughs",
+    "summary": "Three leaders who view their nations as the world’s superpowers have sat around a table together for the first time to talk about reducing nuclear risks and resolving conflicts.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/china-russia-us-agree-reforms-boosting-fuel-supplies-138269362",
+    "publishedAt": "2026-11-19T14:02:15.000Z"
+  },
+  {
     "id": "72d9f8d8fb928bef",
     "title": "For Putin, sharing a spotlight with Trump and Xi boosts his profile on the global stage",
     "summary": "For Russian President Vladimir Putin, the three-way meeting with Donald Trump and Xi Jinping offered a much-coveted chance for the Kremlin leader to demonstrate that he heads a superpower on a par with the United States and China.",
@@ -1303,50 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
     "publishedAt": "2026-11-19T12:51:16.000Z"
-  },
-  {
-    "id": "98ab7da0b6c3855f",
-    "title": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
-    "summary": "Early efforts to contain coronavirus \"were doomed to fail\", the public inquiry has found. Here's what you need to know.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo",
-    "publishedAt": "2026-11-19T12:47:27.000Z"
-  },
-  {
-    "id": "bbd0f183d729d393",
-    "title": "Former WH Smith chain TG Jones put up for sale after closing 150 stores",
-    "summary": "Modella Capital plans auction of high street retailer, which employs about 3,500 people, next year.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/17/wh-smith-tg-jones-sale-stores-modella-capita",
-    "publishedAt": "2026-11-19T12:45:07.000Z"
-  },
-  {
-    "id": "a2c3574e4f0cbe70",
-    "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
-    "summary": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
-    "publishedAt": "2026-11-19T12:40:46.000Z"
-  },
-  {
-    "id": "cce4eee7a68c5b2b",
-    "title": "Wife of Trump ally Todd Blanche promoted treatments with unproven medical claims",
-    "summary": "Kristine Blanche, named to US health advisory role, offered purported treatments for Epstein-Barr virus and HPV.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website",
-    "publishedAt": "2026-11-19T12:39:20.000Z"
-  },
-  {
-    "id": "6de01886ecf7fb17",
-    "title": "Bus crashes into fuel truck in Pakistan and at least 10 people are killed",
-    "summary": "A bus has rammed into a fuel truck carrying liquefied petroleum gas in southwestern Pakistan, igniting a fire that killed at least 10 people and left several injured.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/bus-crashes-fuel-truck-southwestern-pakistan-10-people-138282967",
-    "publishedAt": "2026-11-19T12:39:10.000Z"
   }
 ]
