@@ -1,5 +1,68 @@
 [
   {
+    "id": "b5e83f8af299d41d",
+    "title": "‘Traumatizing’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
+    "summary": "Exclusive: Luis Alejandro Cora Perez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
+    "publishedAt": "2026-11-20T11:00:31.000Z"
+  },
+  {
+    "id": "4d56cf5c96859181",
+    "title": "Emails reveal how Trump allies pushed pardons for election deniers",
+    "summary": "Former Trump lawyer urged justice department officials to seek pardons for those falsely claiming he won the 2020 presidential election in their states.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/allies-email-trump-pardon-election-deniers",
+    "publishedAt": "2026-11-20T11:00:31.000Z"
+  },
+  {
+    "id": "dc4abeffea47e7ab",
+    "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+    "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+    "publishedAt": "2026-11-20T11:00:31.000Z"
+  },
+  {
+    "id": "3c8c58662f49f959",
+    "title": "Unidentified object looks to have crashed in Poland after Russian attacks in Ukraine",
+    "summary": "The Polish military is investigating a “suspected violation” of the country’s airspace near the Ukrainian border after officials sought to retrieve an unidentified object that had apparently crash-landed.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/unidentified-object-appears-crashed-poland-after-russian-attacks-138315055",
+    "publishedAt": "2026-11-20T10:55:19.000Z"
+  },
+  {
+    "id": "08f2088455cff969",
+    "title": "How to get a bigger Black Friday bargain: cashback, price matches and gift cards",
+    "summary": "From cashback on what you buy to cut-price gift cards, we offer tips on how to maximise savings on your shopping.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/20/black-friday-uk-bargain-cashback-gift-cards-savings",
+    "publishedAt": "2026-11-20T10:39:26.000Z"
+  },
+  {
+    "id": "b9341d8d5dfb22aa",
+    "title": "Drone operator removes Man United training footage and issues apology",
+    "summary": "The footage, filmed during new manager Mauricio Pochettino's first training session, was uploaded online.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
+    "publishedAt": "2026-11-20T10:37:20.000Z"
+  },
+  {
+    "id": "4cbd4e9e8f863b20",
+    "title": "What are heat pumps and how much do they cost?",
+    "summary": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o",
+    "publishedAt": "2026-11-20T10:24:52.000Z"
+  },
+  {
     "id": "fd2811614640e90d",
     "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
     "summary": "Asian markets on track for their worst week since 2020, with European and US stocks also way down.",
@@ -16,6 +79,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/20/rikers-island-closure-plan-mamdani",
     "publishedAt": "2026-11-20T10:00:30.000Z"
+  },
+  {
+    "id": "2e0b430afbc7782e",
+    "title": "I’m a tech expert and new mum. Here’s what I learned testing 17 baby monitors",
+    "summary": "Our tech expert and new mum tested 17 monitors for picture quality, battery life and reliability – here’s what she recommends.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2026/nov/20/best-baby-monitor-tested-uk",
+    "publishedAt": "2026-11-20T10:00:28.000Z"
+  },
+  {
+    "id": "6ea9ae0fcc4a48d3",
+    "title": "Myanmar calls international court ruling on Rohingya genocide 'unfair'",
+    "summary": "A government spokesperson says the decision by the International Court of Justice was not unanimous and Myanmar was unjustly accused.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-20/myanmar-calls-icj-ruling-on-genocide-unfair/107411450",
+    "publishedAt": "2026-11-20T09:54:10.000Z"
   },
   {
     "id": "b4d8b1b930db3e50",
@@ -621,6 +702,15 @@
     "publishedAt": "2026-11-20T03:24:49.000Z"
   },
   {
+    "id": "8b7d6e98f9b274af",
+    "title": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
+    "summary": "Zoo staff tried a colonoscopy, vibration plate and other procedures to aid the hippo in passing the hat to no avail.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
+    "publishedAt": "2026-11-20T03:05:59.000Z"
+  },
+  {
     "id": "ac6c433afc9e1ac7",
     "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
     "summary": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
@@ -1071,6 +1161,15 @@
     "publishedAt": "2026-11-19T20:07:23.000Z"
   },
   {
+    "id": "947e6ec924674139",
+    "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+    "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+    "publishedAt": "2026-11-19T20:07:02.000Z"
+  },
+  {
     "id": "6dd2ec3981ff138f",
     "title": "Who are Anthropic’s seven co-founders, now worth $180bn?",
     "summary": "The company counts physicists, a former journalist and an associate of the pope among its guiding lights.",
@@ -1249,104 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss",
     "publishedAt": "2026-11-19T18:51:50.000Z"
-  },
-  {
-    "id": "6b3443124bcc427d",
-    "title": "Spuds in space: scientists say potatoes could be key food source for future moon base",
-    "summary": "New report details how potatoes were successfully cultivated in simulated lunar soil.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/19/potatoes-moon-base-nasa",
-    "publishedAt": "2026-11-19T18:49:54.000Z"
-  },
-  {
-    "id": "06d9fa71c3674dd0",
-    "title": "Heavy fighting erupts in Haiti as armed forces fight gangs to regain control of key corridor",
-    "summary": "Armed forces in Haiti have launched an aggressive operation to remove powerful gangs long entrenched in a key corridor that connects the country’s capital to its western and southern regions.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/heavy-fighting-erupts-haiti-armed-forces-fight-gangs-138295678",
-    "publishedAt": "2026-11-19T18:46:43.000Z"
-  },
-  {
-    "id": "28d1ab3a6c4e88f6",
-    "title": "Palestinians in Gaza face new displacement after Israeli army operation",
-    "summary": "Families in Nuseirat spend the night without shelter, while many fear returning despite Israel ending offensive.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
-    "publishedAt": "2026-11-19T18:46:10.000Z"
-  },
-  {
-    "id": "125f9d56cd3ea0a5",
-    "title": "The 'Magic Six': How to strengthen your marriage in midlife",
-    "summary": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
-    "publishedAt": "2026-11-19T18:28:23.000Z"
-  },
-  {
-    "id": "46ef685dc33619c5",
-    "title": "Call for police to investigate Scottish hospital after 19 deaths due to surgery",
-    "summary": "Surgeon at Aberdeen Royal Infirmary says he repeatedly voiced concerns and that patients may have died unnecessarily.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
-    "publishedAt": "2026-11-19T18:21:59.000Z"
-  },
-  {
-    "id": "04800584010a6e4b",
-    "title": "Iraq reaches compromise with Kataib Hezbollah over armed group stronghold",
-    "summary": "The compromise reached will station forces that include brigades from the Popular Mobilisation Forces.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
-    "publishedAt": "2026-11-19T18:16:09.000Z"
-  },
-  {
-    "id": "f1b9eaa5143f7c9f",
-    "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
-    "summary": "Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
-    "publishedAt": "2026-11-19T18:15:48.000Z"
-  },
-  {
-    "id": "fd737119107954c7",
-    "title": "Jimmy Dimly is back and we should treasure him while we can | John Crace",
-    "summary": "Old-school Tory with a heart wants to make London fun again – just don’t mention Brexit.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/19/james-cleverly-london-mayor-john-crace-sketch",
-    "publishedAt": "2026-11-19T17:54:48.000Z"
-  },
-  {
-    "id": "b5c89c2c5b19e036",
-    "title": "4 men found guilty of sex crimes against British woman in a case that recalls Gisèle Pelicot's",
-    "summary": "Four British men have been found guilty of multiple sexual crimes against a woman whose ex-husband drugged and advertised her for sex online.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/4-men-found-guilty-crimes-british-woman-husband-138292217",
-    "publishedAt": "2026-11-19T17:54:16.000Z"
-  },
-  {
-    "id": "6df730d7ff278039",
-    "title": "Wife of Italian fugitive convicted of terrorism arrested in Argentina over his escape",
-    "summary": "Argentine authorities have arrested the wife of an Italian fugitive convicted of terrorism-related crimes.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/wife-italian-fugitive-convicted-terrorism-arrested-argentina-escape-138294446",
-    "publishedAt": "2026-11-19T17:40:18.000Z"
-  },
-  {
-    "id": "db18c3c5862651cb",
-    "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-    "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
-    "publishedAt": "2026-11-19T17:38:22.000Z"
   }
 ]
