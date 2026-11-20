@@ -1,5 +1,95 @@
 [
   {
+    "id": "b838cca1a5c39c0c",
+    "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+    "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+    "publishedAt": "2026-11-20T12:04:57.000Z"
+  },
+  {
+    "id": "4e15263afc43214e",
+    "title": "Majority of people who have been in US prisons were also victims of violent crime, study finds",
+    "summary": "Report based on survey of 20,000 Americans says 84% of people who are incarcerated were assaulted, shot or stabbed.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/us-prison-violence-victims-study",
+    "publishedAt": "2026-11-20T12:00:20.000Z"
+  },
+  {
+    "id": "3214d198a1d04df3",
+    "title": "Newcastle United vs Arsenal: Premier League – Predictions, lineups, preview",
+    "summary": "As players return from international break, Premier League leaders Arsenal face Newcastle away on match day 11.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/20/newcastle-united-arsenal-premier-league-predictions-lineups-saka-saliba?traffic_source=rss",
+    "publishedAt": "2026-11-20T11:59:52.000Z"
+  },
+  {
+    "id": "1deeaf75e4251d2f",
+    "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+    "summary": "Reactions to ICJ ruling underline global divisions over court with China raising concerns about judicial overreach.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
+    "publishedAt": "2026-11-20T11:57:43.000Z"
+  },
+  {
+    "id": "07c70c40af5eb0a8",
+    "title": "Patient safety chief concerned about NHS Grampian",
+    "summary": "Karen Titchener said she is seeking \"independent assurance\" that change is being implemented at NHS Grampian.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr894yq07v23o",
+    "publishedAt": "2026-11-20T11:39:25.000Z"
+  },
+  {
+    "id": "72f3e7331a5ab8f1",
+    "title": "US appoints new cybersecurity chief after series of tech failures",
+    "summary": "Appointee Kirsten Davies says US has the chance to 'dominate the cyber landscape for generations to come'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures?traffic_source=rss",
+    "publishedAt": "2026-11-20T11:26:28.000Z"
+  },
+  {
+    "id": "faaa262b96a45bc4",
+    "title": "‘You’ve got me for life’: first ceremonies in England cement care leavers’ relationships",
+    "summary": "Lifelong guardianship ceremonies were announced in July as way to publicly affirm chosen connections.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/20/lifelong-guardianship-ceremonies-england-care-leavers-relationships",
+    "publishedAt": "2026-11-20T11:23:17.000Z"
+  },
+  {
+    "id": "36a40b9b58676249",
+    "title": "Home Office tells woman born and raised in London she is not British",
+    "summary": "Woman, 24, says she cannot work and faces destitution after it was found her mother had no right to UK passport.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/20/home-office-tells-woman-born-london-she-is-not-british",
+    "publishedAt": "2026-11-20T11:22:17.000Z"
+  },
+  {
+    "id": "0cfb735f2465f6c3",
+    "title": "EU and UK seal reset deal",
+    "summary": "Deals on food and animal goods, mobility and student fees have been agreed, but months of negotiations lay ahead.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
+    "publishedAt": "2026-11-20T11:20:19.000Z"
+  },
+  {
+    "id": "3a083cc0df3bc786",
+    "title": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
+    "summary": "NATO Article 5 says attack on one member is an attack on all. Analysts say inclusion of Ukraine 'stretches credulity'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
+    "publishedAt": "2026-11-20T11:01:51.000Z"
+  },
+  {
     "id": "b5e83f8af299d41d",
     "title": "‘Traumatizing’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
     "summary": "Exclusive: Luis Alejandro Cora Perez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike.",
@@ -25,6 +115,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
     "publishedAt": "2026-11-20T11:00:31.000Z"
+  },
+  {
+    "id": "4e73c3befc3e3efc",
+    "title": "Nearly 600 women killed in South Africa within three months",
+    "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o",
+    "publishedAt": "2026-11-20T10:56:02.000Z"
   },
   {
     "id": "3c8c58662f49f959",
@@ -61,6 +160,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o",
     "publishedAt": "2026-11-20T10:24:52.000Z"
+  },
+  {
+    "id": "9097a55787b7ffc6",
+    "title": "South Korea catches 111 students with new measures against exam cheating",
+    "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo",
+    "publishedAt": "2026-11-20T10:16:19.000Z"
   },
   {
     "id": "fd2811614640e90d",
@@ -358,6 +466,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo",
     "publishedAt": "2026-11-20T07:32:19.000Z"
+  },
+  {
+    "id": "7c92c0ebe28603c6",
+    "title": "Australian Rohingya hope world will listen after UN court's genocide ruling",
+    "summary": "Rohingya Australians welcome the International Court of Justice's judgement that Myanmar committed genocide against the Muslim minority group but say the decision must be backed up by action from the international community including Australia.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-20/icj-rohingya-genocide-case-community-reactions/107408880",
+    "publishedAt": "2026-11-20T07:29:09.000Z"
   },
   {
     "id": "79fa21ef1dae9c16",
@@ -1231,122 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
     "publishedAt": "2026-11-19T19:40:23.000Z"
-  },
-  {
-    "id": "2e2f5eb6f9cf3d07",
-    "title": "One year on from workplace death, grieving mum urges BlueScope inquest",
-    "summary": "She joins the union in calling for an inquest, with at least six further dangerous incidents reported on the $1.15 billion blast furnace relines since Jack McGrath's death.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-20/union-demands-inquest-into-workers-death/107402252",
-    "publishedAt": "2026-11-19T19:36:13.000Z"
-  },
-  {
-    "id": "df80a7297159cc83",
-    "title": "‘Welsh can tell any story’: Cymraeg dub of Star Wars premieres in Cardiff",
-    "summary": "Actors Mark Lewis Jones and Osian Morgan, who voiced characters in dub of 1977 film, among guests on red carpet.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/19/welsh-cymraeg-dub-star-wars-cardiff",
-    "publishedAt": "2026-11-19T19:33:00.000Z"
-  },
-  {
-    "id": "6a2c00a9910807a3",
-    "title": "Prison authorities consider whether Russell Brand harassed victims with YouTube message",
-    "summary": "Ministry of Justice weighs up comments issued through rapist’s wife as PM asks: ‘Why are we having to hear from him?’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2026/nov/19/prison-authorities-consider-russell-brand-youtube-message-rules-victim-distress",
-    "publishedAt": "2026-11-19T19:30:14.000Z"
-  },
-  {
-    "id": "9c2c457701b5d251",
-    "title": "A decade after Brexit vote, polls show many Brits regret the decision",
-    "summary": "A decade after the Brexit referendum was held, and more than six years on from when the UK actually left the EU, there is growing speculation the decision could be reversed.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-20/british-pm-burnham-heads-to-brussels-amid-brexit-regret-at-home/107401698",
-    "publishedAt": "2026-11-19T19:28:21.000Z"
-  },
-  {
-    "id": "eb1e6e1afdc11e91",
-    "title": "Blockbuster GTA VI release shows cultural, economic heft of video games",
-    "summary": "Runaway success of popular franchise comes as video game industry has struggled with mass layoffs in recent years.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
-    "publishedAt": "2026-11-19T19:27:32.000Z"
-  },
-  {
-    "id": "646f795f08ca368d",
-    "title": "Save the Children: Gaza’s children face ‘unmatched dangers’",
-    "summary": "Aid group says one third of violations against children worldwide were in occupied Palestinian territory.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
-    "publishedAt": "2026-11-19T19:23:45.000Z"
-  },
-  {
-    "id": "4ae9e36cfdba5ecc",
-    "title": "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya",
-    "summary": "Landmark judgement in The Hague is the first time a state has been held responsible for genocide at the ICJ.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss",
-    "publishedAt": "2026-11-19T19:19:06.000Z"
-  },
-  {
-    "id": "9e8a67228c3007d8",
-    "title": "Man arrested after ‘horrific’ knife attack on Bradford councillor",
-    "summary": "Politicians call attack on independent councillor Ibrar Ali canvassing in Bradford Moor ward ‘deeply disturbing’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali",
-    "publishedAt": "2026-11-19T19:18:56.000Z"
-  },
-  {
-    "id": "b5502e0ebc980de5",
-    "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-    "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
-    "publishedAt": "2026-11-19T19:16:21.000Z"
-  },
-  {
-    "id": "372e8dc43d48a12c",
-    "title": "UK and EU plan first talks on sending refused asylum seekers to third countries",
-    "summary": "Two sides to commit to discussing third-country hubs as part of reset pact after five-country deal with Rwanda.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
-    "publishedAt": "2026-11-19T19:02:45.000Z"
-  },
-  {
-    "id": "20faa7d60d81fae9",
-    "title": "AI company lists at $111 a share in record-breaking float",
-    "summary": "The Nasdaq debut of the artificial intelligence behemoth fails to disappoint as it drops on the market at $US111.50, 34 per cent higher than the IPO price of $US83.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-20/anthropic-ipo-three-trillion/107407020",
-    "publishedAt": "2026-11-19T19:02:29.000Z"
-  },
-  {
-    "id": "595df0fa2b1d569f",
-    "title": "Mamdani signs bill to ban horse-drawn carriages in New York City",
-    "summary": "Animal rights activists back the new law while workers’ unions oppose the ban over concerns about lost livelihoods.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/nyc-horse-drawn-carriage-ban-mamdani",
-    "publishedAt": "2026-11-19T18:56:23.000Z"
-  },
-  {
-    "id": "50469bae18e9982d",
-    "title": "France awaits verdict six years after police beat Black music producer",
-    "summary": "Three officers are accused of assaulting Michel Zecler in an incident that was filmed by surveillance cameras.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss",
-    "publishedAt": "2026-11-19T18:51:50.000Z"
   }
 ]
