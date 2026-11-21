@@ -1,5 +1,23 @@
 [
   {
+    "id": "de7f6c902fce731b",
+    "title": "Campaigners back call for scrutiny of consent laws by Joanne Young",
+    "summary": "Experts say no law states third-party consent is a valid defence and call for public debate and further education.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
+    "publishedAt": "2026-11-21T06:00:53.000Z"
+  },
+  {
+    "id": "36d89dc3ce5a7893",
+    "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
+    "summary": "Eisenkot's fragile alliance must overcome deep ideological divisions to turn its opposition into a government.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
+    "publishedAt": "2026-11-21T05:46:29.000Z"
+  },
+  {
     "id": "a5ae86279d6526d5",
     "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
     "summary": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
@@ -1330,23 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo",
     "publishedAt": "2026-11-20T12:42:37.000Z"
-  },
-  {
-    "id": "71c26b19046c44d0",
-    "title": "Fallout over tuition fees may snag Burnham’s EU deal, say insiders",
-    "summary": "No 10 pushing back on claims in Brussels that lack of agreement on fees for EU students could sink agreements.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
-    "publishedAt": "2026-11-20T12:42:08.000Z"
-  },
-  {
-    "id": "1ba9a6b8a32101ed",
-    "title": "Friday night will be ‘coldest of the autumn so far’, UK forecasters say",
-    "summary": "Temperatures will be ‘severe’ in the north, as low as minus 9C, with some sub-zero temperatures farther south.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/20/friday-cold-weather-uk",
-    "publishedAt": "2026-11-20T12:40:05.000Z"
   }
 ]
