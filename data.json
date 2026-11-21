@@ -1,5 +1,59 @@
 [
   {
+    "id": "a5ae86279d6526d5",
+    "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+    "summary": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
+    "publishedAt": "2026-11-21T05:15:41.000Z"
+  },
+  {
+    "id": "9f96134b0c5390d8",
+    "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
+    "summary": "Despite dodging tears in the tarmac, people are confident in city’s infrastructure – and will not worry about what has not happened yet.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
+    "publishedAt": "2026-11-21T05:00:50.000Z"
+  },
+  {
+    "id": "e3c15a3c87e0d145",
+    "title": "Tourists are throwing fewer coins into Rome’s Trevi fountain – is €2 entry fee to blame?",
+    "summary": "Charity that collects the coins says donations are down by £200,000 after a barrier was put in place to restrict access.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
+    "publishedAt": "2026-11-21T05:00:49.000Z"
+  },
+  {
+    "id": "e75debc60ef612de",
+    "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
+    "summary": "Victoria police say boy, 17, communicated with offenders under username ‘Onepercent’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
+    "publishedAt": "2026-11-21T04:44:00.000Z"
+  },
+  {
+    "id": "30aaa889f8ae2f05",
+    "title": "Man convicted of starting Palisades fire in Los Angeles",
+    "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
+    "publishedAt": "2026-11-21T04:34:00.000Z"
+  },
+  {
+    "id": "87a03058b822e7a5",
+    "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
+    "summary": "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
+    "publishedAt": "2026-11-21T04:32:07.000Z"
+  },
+  {
     "id": "6300341dc8de3fad",
     "title": "Rohingya who escaped Myanmar’s genocide tell their stories",
     "summary": "Survivors recount rivers red with blood and burning nearby villages serving as an urgent warning to flee their homes.",
@@ -828,6 +882,15 @@
     "publishedAt": "2026-11-20T16:46:05.000Z"
   },
   {
+    "id": "07c70c40af5eb0a8",
+    "title": "Man who nearly died during liver surgery at Aberdeen hospital says mistakes were made",
+    "summary": "It comes after a leaked review identified 19 avoidable deaths following liver and pancreatic surgery at the hospital.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr894yq07v23o",
+    "publishedAt": "2026-11-20T16:45:44.000Z"
+  },
+  {
     "id": "5024389180d8d2eb",
     "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
     "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
@@ -1285,68 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/20/friday-cold-weather-uk",
     "publishedAt": "2026-11-20T12:40:05.000Z"
-  },
-  {
-    "id": "8f4c6a379360f7bd",
-    "title": "Striking doctors warn staff will leave NI for better pay",
-    "summary": "A full 24-hour strike began at 07:00 GMT - the second such action taken by doctors this year.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o",
-    "publishedAt": "2026-11-20T12:37:33.000Z"
-  },
-  {
-    "id": "bea53ace23fa5ef2",
-    "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
-    "summary": "Polish PM calls strikes, which took place amid western military exercises, ‘an intentional provocation’ by Moscow.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
-    "publishedAt": "2026-11-20T12:34:30.000Z"
-  },
-  {
-    "id": "c8ab7ff78dd0aabd",
-    "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
-    "summary": "Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
-    "publishedAt": "2026-11-20T12:28:12.000Z"
-  },
-  {
-    "id": "7f9917cd1808de49",
-    "title": "First Thing: Blockbuster Anthropic IPO fails to halt global slide in AI stocks",
-    "summary": "Record-breaking IPO for company behind Claude comes amid tumbling prices for other AI stocks. Plus why the humble potato could be vital for future space missions.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/first-thing-blockbuster-anthropic-ipo-fails-to-halt-global-slide-in-ai-stocks",
-    "publishedAt": "2026-11-20T12:26:42.000Z"
-  },
-  {
-    "id": "7745a81f8be2a894",
-    "title": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
-    "summary": "The case sets a precedent for establishing a state's intent to commit genocide beyond explicitly written orders.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
-    "publishedAt": "2026-11-20T12:20:29.000Z"
-  },
-  {
-    "id": "879f652197240985",
-    "title": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
-    "summary": "CENTCOM declares vessels bypassing the Iran blockade could be stopped, boarded or even seized by US forces.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
-    "publishedAt": "2026-11-20T12:19:24.000Z"
-  },
-  {
-    "id": "3c8c58662f49f959",
-    "title": "Russian missile crash in Poland likely an intentional provocation, Polish leader says",
-    "summary": "",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/unidentified-object-appears-crashed-poland-after-russian-attacks-138315055",
-    "publishedAt": "2026-11-20T12:16:46.000Z"
   }
 ]
