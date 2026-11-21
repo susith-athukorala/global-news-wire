@@ -1,5 +1,95 @@
 [
   {
+    "id": "061f6c8fa6ba0386",
+    "title": "Can AI really help spot Black Friday deals? We put it to the test",
+    "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o",
+    "publishedAt": "2026-11-21T00:06:11.000Z"
+  },
+  {
+    "id": "dac87da1566eceac",
+    "title": "NI doctors' strike due to end, with separate walkout planned for Monday",
+    "summary": "Consultants and specialist doctors will begin a separate 24-hour strike on Monday morning as part of the same pay dispute.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6d71e9epe8qo",
+    "publishedAt": "2026-11-21T00:02:22.000Z"
+  },
+  {
+    "id": "d836d8ed0f497e05",
+    "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+    "summary": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw9874p114dro",
+    "publishedAt": "2026-11-21T00:02:09.000Z"
+  },
+  {
+    "id": "89fcbe70d366afaa",
+    "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+    "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo",
+    "publishedAt": "2026-11-21T00:01:39.000Z"
+  },
+  {
+    "id": "19c0628393b866ea",
+    "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
+    "summary": "Thom Tillis move comes after Michael LoSapio, nominated for Cisa role, told hearing ‘I don’t believe it was an attack’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
+    "publishedAt": "2026-11-20T23:48:38.000Z"
+  },
+  {
+    "id": "96a7f9767d2d2403",
+    "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+    "summary": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+    "publishedAt": "2026-11-20T23:42:43.000Z"
+  },
+  {
+    "id": "fabe8f110b31881b",
+    "title": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
+    "summary": "Police say two children among dead as search continues for more victims.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+    "publishedAt": "2026-11-20T23:36:36.000Z"
+  },
+  {
+    "id": "d7d37cd779a1fde1",
+    "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+    "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo",
+    "publishedAt": "2026-11-20T23:28:17.000Z"
+  },
+  {
+    "id": "bf78ec82969c79f6",
+    "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+    "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo",
+    "publishedAt": "2026-11-20T23:20:33.000Z"
+  },
+  {
+    "id": "973aadc167195a9f",
+    "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+    "summary": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+    "publishedAt": "2026-11-20T23:20:29.000Z"
+  },
+  {
     "id": "6db0fde3718cbe9e",
     "title": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
     "summary": "Labor says allowing mine to increase production reflects ‘gravity of situation facing hundreds of workers’ – but critics call it ‘unprecedented and dangerous’",
@@ -945,6 +1035,15 @@
     "publishedAt": "2026-11-20T13:08:30.000Z"
   },
   {
+    "id": "974fdeb4375ac413",
+    "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+    "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
+    "publishedAt": "2026-11-20T13:01:16.000Z"
+  },
+  {
     "id": "d544944123e0b4c1",
     "title": "An entrepreneur fights for workers’ protections after his mom was fired after being assaulted at her Saks Fifth Avenue job",
     "summary": "Jeff Vinokur is using his newly minted wealth from the sale of his edtech company to hold the retail store accountable.",
@@ -1017,6 +1116,15 @@
     "publishedAt": "2026-11-20T12:34:30.000Z"
   },
   {
+    "id": "c8ab7ff78dd0aabd",
+    "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
+    "summary": "Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
+    "publishedAt": "2026-11-20T12:28:12.000Z"
+  },
+  {
     "id": "7f9917cd1808de49",
     "title": "First Thing: Blockbuster Anthropic IPO fails to halt global slide in AI stocks",
     "summary": "Record-breaking IPO for company behind Claude comes amid tumbling prices for other AI stocks. Plus why the humble potato could be vital for future space missions.",
@@ -1069,6 +1177,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/20/newcastle-united-arsenal-premier-league-predictions-lineups-saka-saliba?traffic_source=rss",
     "publishedAt": "2026-11-20T11:59:52.000Z"
+  },
+  {
+    "id": "9173d02e44743ebf",
+    "title": "Russia missiles, drone fall in Poland territory as Putin pummels Ukraine",
+    "summary": "Russia pummelled Ukraine with dozens of missiles and hundreds of drones overnight, hours after President Vladimir Putin vowed a \"painful\" response for Kyiv's strikes on the Crimean bridge this week.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-20/ukraine-russia-crimea-strikes-bridge-kyiv-power-outage-poland/107411538",
+    "publishedAt": "2026-11-20T11:58:17.000Z"
   },
   {
     "id": "1deeaf75e4251d2f",
@@ -1231,122 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo",
     "publishedAt": "2026-11-20T10:16:19.000Z"
-  },
-  {
-    "id": "fd2811614640e90d",
-    "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
-    "summary": "Asian markets on track for their worst week since 2020, with European and US stocks also way down.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-    "publishedAt": "2026-11-20T10:02:21.000Z"
-  },
-  {
-    "id": "3e36496a5cab4b5d",
-    "title": "Zohran Mamdani unveils plan to close Rikers Island jail complex",
-    "summary": "Mayor plans to close jail by 2032 and relocate its remaining population to smaller facilities across four boroughs.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/rikers-island-closure-plan-mamdani",
-    "publishedAt": "2026-11-20T10:00:30.000Z"
-  },
-  {
-    "id": "2e0b430afbc7782e",
-    "title": "I’m a tech expert and new mum. Here’s what I learned testing 17 baby monitors",
-    "summary": "Our tech expert and new mum tested 17 monitors for picture quality, battery life and reliability – here’s what she recommends.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2026/nov/20/best-baby-monitor-tested-uk",
-    "publishedAt": "2026-11-20T10:00:28.000Z"
-  },
-  {
-    "id": "6ea9ae0fcc4a48d3",
-    "title": "Myanmar calls international court ruling on Rohingya genocide 'unfair'",
-    "summary": "A government spokesperson says the decision by the International Court of Justice was not unanimous and Myanmar was unjustly accused.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-20/myanmar-calls-icj-ruling-on-genocide-unfair/107411450",
-    "publishedAt": "2026-11-20T09:54:10.000Z"
-  },
-  {
-    "id": "b4d8b1b930db3e50",
-    "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
-    "summary": "The attack follows Putin's pledge of 'painful' response to Ukraine's attack on symbolic Crimean bridge.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
-    "publishedAt": "2026-11-20T09:54:00.000Z"
-  },
-  {
-    "id": "562df2c80c8dc794",
-    "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-    "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo",
-    "publishedAt": "2026-11-20T09:44:56.000Z"
-  },
-  {
-    "id": "849d6ad23296c893",
-    "title": "Experts say powering data centers uses more water than cooling them",
-    "summary": "Fears about data center water use are especially acute in Arizona. But keeping servers cool uses a lot less water than generating the electricity for which data centers are so thirsty.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6045780/experts-say-powering-data-centers-uses-more-water-than-cooling-them",
-    "publishedAt": "2026-11-20T09:43:39.000Z"
-  },
-  {
-    "id": "1592da0c0a3d9b24",
-    "title": "AI models are propelling rapid growth and revealing vulnerabilities",
-    "summary": "AI models are exposing the internet's longstanding insecurity, driving rapid change and technical outages.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6047374/ai-models-are-propelling-rapid-growth-and-revealing-vulnerabilities",
-    "publishedAt": "2026-11-20T09:43:11.000Z"
-  },
-  {
-    "id": "6045235091c0672f",
-    "title": "Business opportunity or security threat? Nvidia case raises questions about China",
-    "summary": "The Nvidia case illustrates the friction between Silicon Valley, which wants to sell high-tech products to China, and the national security community, which aims to restrict U.S. tech to China.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6043838/business-opportunity-or-security-threat-nvidia-case-raises-questions-about-china",
-    "publishedAt": "2026-11-20T09:42:24.000Z"
-  },
-  {
-    "id": "2af93e3b8100433c",
-    "title": "White House removes cyber-security chief after series of tech outages",
-    "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
-    "publishedAt": "2026-11-20T09:37:59.000Z"
-  },
-  {
-    "id": "6784575ef645eb46",
-    "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
-    "summary": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-    "publishedAt": "2026-11-20T09:36:10.000Z"
-  },
-  {
-    "id": "2c3757b0893a7b0c",
-    "title": "California investigates Nvidia over whether chip exports ended up in China",
-    "summary": "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investors.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-    "publishedAt": "2026-11-20T09:18:30.000Z"
-  },
-  {
-    "id": "04f6eec64cd9546b",
-    "title": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
-    "summary": "More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 2017, most of them distance runners.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
-    "publishedAt": "2026-11-20T09:16:30.000Z"
   }
 ]
