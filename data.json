@@ -1,5 +1,59 @@
 [
   {
+    "id": "8dbe631aa2dbbd8d",
+    "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+    "summary": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+    "publishedAt": "2026-11-21T08:08:01.000Z"
+  },
+  {
+    "id": "d057a4ec016c1c14",
+    "title": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
+    "summary": "Insiders say they only see cuts, with no discernible long-term strategy, since title’s purchase by German media firm.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
+    "publishedAt": "2026-11-21T08:00:53.000Z"
+  },
+  {
+    "id": "23ebc14888ba4e2e",
+    "title": "Letby trial doctor barred from treating patients was expert witness in another case",
+    "summary": "Prof Peter Hindmarsh played key role in conviction of two Birmingham parents whose son died after diabetes episode.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case",
+    "publishedAt": "2026-11-21T08:00:52.000Z"
+  },
+  {
+    "id": "299849b262daed6b",
+    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
+    "publishedAt": "2026-11-21T07:31:05.000Z"
+  },
+  {
+    "id": "f01cf604f34c52f1",
+    "title": "At least two killed, 28 injured in fire at power station in Iraq’s Basra",
+    "summary": "The blaze at the Hartha power station that spread to nearby houses injures dozens of others.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+    "publishedAt": "2026-11-21T07:25:29.000Z"
+  },
+  {
+    "id": "25e287884892cba2",
+    "title": "Three US citizens among 4 convicted in Honduras over sex-trafficking case",
+    "summary": "The defendants face 10 years in jail after being found guilty of recruiting women into a sex-trafficking ring.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss",
+    "publishedAt": "2026-11-21T07:07:59.000Z"
+  },
+  {
     "id": "0c08a6f395c3cc5b",
     "title": "‘Like an invisible stealth tax’: ways to shield your cash from UK inflation",
     "summary": "With living costs set to rise higher in 2027, here’s how you can help your savings and pension keep up with soaring prices.",
@@ -657,6 +711,15 @@
     "publishedAt": "2026-11-20T19:03:56.000Z"
   },
   {
+    "id": "6c28ca354fc80a74",
+    "title": "IDF refuses ABC requests for evidence journalist was Hamas operative",
+    "summary": "Israel's military has ignored or declined to answer the ABC's multiple requests for evidence a Palestinian journalist it engaged as a freelancer in Gaza was a Hamas operative.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-21/idf-gives-abc-no-evidence-palestinian-journalist-was-hamas/107407710",
+    "publishedAt": "2026-11-20T19:03:53.000Z"
+  },
+  {
     "id": "7a65904af0ba1b33",
     "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
     "summary": "Democrats – including incoming banking chair and both majority leader candidates – said wealthy interests were prioritized over the needs of working Americans.",
@@ -763,6 +826,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/games/2026/nov/20/grand-theft-auto-vi-players-review",
     "publishedAt": "2026-11-20T18:04:15.000Z"
+  },
+  {
+    "id": "7a6b4b5a50a5fdcf",
+    "title": "Questions over future for Australian workers as mass lay-offs hit",
+    "summary": "Laid-off white-collar workers are being forced to sell their homes to make ends meet, amid mounting concerns the country is heading into a recession.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-21/australians-lose-jobs-recession-fears-some-forced-to-sell-homes/107408374",
+    "publishedAt": "2026-11-20T18:00:00.000Z"
   },
   {
     "id": "9e9344d4e360d116",
@@ -1276,77 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/france-probes-suspected-leaks-confidential-information-le-pens-138315239",
     "publishedAt": "2026-11-20T13:45:29.000Z"
-  },
-  {
-    "id": "58df1e927429d7d0",
-    "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
-    "summary": "This is a breaking news story.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers?traffic_source=rss",
-    "publishedAt": "2026-11-20T13:45:14.000Z"
-  },
-  {
-    "id": "f1a48fe1ed72c918",
-    "title": "Mahmood ‘smells a rat’ over housing provision for vulnerable people in Birmingham",
-    "summary": "Warnings over exploitation risks come amid push for investigation into supported exempt accommodation sector.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/20/ahabana-mahmood-housing-provision-vulnerable-people-birmingham-supported-exempt-accommodation",
-    "publishedAt": "2026-11-20T13:43:46.000Z"
-  },
-  {
-    "id": "a22e8fed9bbc9d5b",
-    "title": "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
-    "summary": "Analysts are sceptical about how this will be achieved amid the ongoing wars in Ukraine and Iran.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss",
-    "publishedAt": "2026-11-20T13:42:56.000Z"
-  },
-  {
-    "id": "f19fb6e0753b17a7",
-    "title": "Myanmar, China object to ‘unfair’ ICJ genocide ruling",
-    "summary": "A Myanmar government spokesperson said the ruling was unjust and noted that the court's decision was not unanimous.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
-    "publishedAt": "2026-11-20T13:41:49.000Z"
-  },
-  {
-    "id": "5149c4c248bac41a",
-    "title": "Judge says ICE ‘made a mockery of court orders’ with instant re-arrest policy",
-    "summary": "Federal judge in Colorado finds immigration officials in contempt but takes no more action after they end practice.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-rearrest-judge-mockery-court-orders",
-    "publishedAt": "2026-11-20T13:26:36.000Z"
-  },
-  {
-    "id": "61854d96040f3cd9",
-    "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
-    "summary": "Farage issues warning to potential rivals and says he will fight next election as leader if ‘still here and fit and healthy’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
-    "publishedAt": "2026-11-20T13:23:22.000Z"
-  },
-  {
-    "id": "3afbb9449e6ad793",
-    "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
-    "summary": "Iraq's Federal Police are due to assume control of town's newly established control headquarters.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss",
-    "publishedAt": "2026-11-20T13:17:00.000Z"
-  },
-  {
-    "id": "a8f641bc1705047c",
-    "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-    "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
-    "publishedAt": "2026-11-20T13:08:30.000Z"
   }
 ]
