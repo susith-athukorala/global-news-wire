@@ -1,5 +1,95 @@
 [
   {
+    "id": "42f62b2e7356a388",
+    "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+    "summary": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+    "publishedAt": "2026-11-21T11:02:49.000Z"
+  },
+  {
+    "id": "b537fedc25b3af7f",
+    "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
+    "summary": "Foreign combatants in Port-au-Prince welcomed by many after years of gang control but some fear offensive could exacerbate volatile situation.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
+    "publishedAt": "2026-11-21T11:00:57.000Z"
+  },
+  {
+    "id": "25eda5fc61269ef9",
+    "title": "New Orleans Catholic clergy abuse survivors begin receiving payments from $305m bankruptcy settlement",
+    "summary": "Arrival of payments in contentious legal saga that began in 2020 is ‘a weight off my shoulders’, one survivor said.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/21/new-orleans-catholic-clergy-abuse-settlement",
+    "publishedAt": "2026-11-21T11:00:57.000Z"
+  },
+  {
+    "id": "f5022eb10131b352",
+    "title": "Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
+    "summary": "From Elon Musk to Palantir’s Alex Karp, CEOs are softening hardline stances in expectation of an influx of Democrats.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
+    "publishedAt": "2026-11-21T11:00:56.000Z"
+  },
+  {
+    "id": "3ee9e565daea4788",
+    "title": "Did Democrats fail Florida? Angie Nixon on ‘missed opportunity’ in midterms",
+    "summary": "The party invested in key battlegrounds, netting stunning wins at the expense of candidates in Florida and Louisiana.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/21/democrats-florida-midterm-election-loss",
+    "publishedAt": "2026-11-21T11:00:55.000Z"
+  },
+  {
+    "id": "24a8fc5753dfcc91",
+    "title": "Usman Khawaja and David Warner taken off air over Australia’s Sandpapergate",
+    "summary": "Ex-Australia cricketers Khawaja and Warner taken off air having been most outspoken over 2018 scandal in South Africa.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/usman-khawaja-and-david-warner-taken-off-air-over-australias-sandpapergate?traffic_source=rss",
+    "publishedAt": "2026-11-21T10:54:22.000Z"
+  },
+  {
+    "id": "b77d49b4be4a0557",
+    "title": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
+    "summary": "Palestinians fear forced displacement as Israeli authorities target legally licensed homes in West Bank.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
+    "publishedAt": "2026-11-21T10:38:13.000Z"
+  },
+  {
+    "id": "f7c9465153ab732d",
+    "title": "Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list",
+    "summary": "James Harden climbs NBA career record list in leading Cleveland Cavaliers to 128-119 win over Indiana Pacers.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/cavaliers-james-harden-closes-on-michael-jordan-in-nba-50-point-game-list?traffic_source=rss",
+    "publishedAt": "2026-11-21T10:27:23.000Z"
+  },
+  {
+    "id": "6433155462042bde",
+    "title": "Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028",
+    "summary": "Members of the UN's Convention on Certain Conventional Weapons fail to agree on swift adoption of legally binding rules.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit?traffic_source=rss",
+    "publishedAt": "2026-11-21T10:25:29.000Z"
+  },
+  {
+    "id": "619a6a5c2b00496d",
+    "title": "‘National scandal’: residents in England rally against surge in mega-warehouse developments",
+    "summary": "Campaigners call out ‘greed’ of developers after 95% of ‘megashed’ planning applications approved in last 10 years.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/21/national-scandal-residents-in-england-rally-against-surge-in-mega-warehouse-developments",
+    "publishedAt": "2026-11-21T10:00:54.000Z"
+  },
+  {
     "id": "82ffb684477a84ac",
     "title": "Anthropic says it will put humanity first. Will its IPO change that?",
     "summary": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested.",
@@ -864,6 +954,15 @@
     "publishedAt": "2026-11-20T19:03:53.000Z"
   },
   {
+    "id": "a48cf524d8c75887",
+    "title": "Forget rogue robots, it’s tech billionaires and AI cricket that should really terrify us | Barney Ronay",
+    "summary": "The encroachment of artificial intelligence smells like the death of sport. Can we find the will and collective backbone to resist?",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/sport/2026/nov/20/cricket-rogue-robots-tech-billionaires-artificial-intelligence",
+    "publishedAt": "2026-11-20T19:00:36.000Z"
+  },
+  {
     "id": "7a65904af0ba1b33",
     "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
     "summary": "Democrats – including incoming banking chair and both majority leader candidates – said wealthy interests were prioritized over the needs of working Americans.",
@@ -880,6 +979,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
     "publishedAt": "2026-11-20T18:51:09.000Z"
+  },
+  {
+    "id": "98bc7692f0a189f9",
+    "title": "New York City lawmakers propose ban on restaurants boiling lobsters alive",
+    "summary": "Sponsors cite ‘studies’ indicating crustaceans experience significant pain when boiled alive without being stunned.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/new-york-city-ban-boiling-lobsters-alive-proposal",
+    "publishedAt": "2026-11-20T18:49:03.000Z"
   },
   {
     "id": "0243aca6f183dc01",
@@ -1240,113 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/society/2026/nov/20/cosmetic-cowboys-law-avoid-more-deaths-family-brazilian-butt-lift-victim",
     "publishedAt": "2026-11-20T15:55:28.000Z"
-  },
-  {
-    "id": "4e73c3befc3e3efc",
-    "title": "Nearly 600 women killed in South Africa within three months",
-    "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o",
-    "publishedAt": "2026-11-20T15:55:16.000Z"
-  },
-  {
-    "id": "b15c605acea6f263",
-    "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-    "summary": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o",
-    "publishedAt": "2026-11-20T15:55:02.000Z"
-  },
-  {
-    "id": "897a725c7c809408",
-    "title": "Kansas hosts become guests as Algeria repays World Cup welcome",
-    "summary": "A bond between Kansas and Algeria has deepened since the city hosted the North Africans during the World Cup.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/20/kansas-hosts-become-guests-as-algeria-repays-world-cup-welcome?traffic_source=rss",
-    "publishedAt": "2026-11-20T15:49:06.000Z"
-  },
-  {
-    "id": "a69c1b155a087e86",
-    "title": "Airbnb's divisive new house rules come into force",
-    "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo",
-    "publishedAt": "2026-11-20T15:48:35.000Z"
-  },
-  {
-    "id": "c22b98232233eb41",
-    "title": "Workers and students protest across Europe as a strike in Italy disrupts services",
-    "summary": "Workers and students are protesting across Europe on Friday as a nationwide strike disrupted transport and school services in Italy and demonstrators gathered in several countries to press demands on issues ranging from wages and living costs to educat.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/italy-strike-draws-workers-students-nationwide-protests-wages-138314660",
-    "publishedAt": "2026-11-20T15:43:51.000Z"
-  },
-  {
-    "id": "0a9843ba32b0e591",
-    "title": "US army postpones plan to detonate bomb-making chemical amid outcry",
-    "summary": "Controlled detonation could lead to plume containing lead particles, worrying residents and state officials.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
-    "publishedAt": "2026-11-20T15:39:48.000Z"
-  },
-  {
-    "id": "804f7cffd0cc980f",
-    "title": "Poland condemns Russian ‘provocation’ after airspace violations",
-    "summary": "The incidents came as European troops were taking part in a Ukraine post-war military exercise.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
-    "publishedAt": "2026-11-20T15:18:26.000Z"
-  },
-  {
-    "id": "4dfd121c6c304146",
-    "title": "Anthropic shares fall a day after blockbuster opening",
-    "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
-    "publishedAt": "2026-11-20T15:16:52.000Z"
-  },
-  {
-    "id": "da9d0908c1c1da59",
-    "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
-    "summary": "Activists in more than 20 countries demonstrate over cost of living, learning conditions and rising military spending.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living",
-    "publishedAt": "2026-11-20T15:15:28.000Z"
-  },
-  {
-    "id": "a596c1cec5852dfd",
-    "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
-    "summary": "Bipartisan legislation now goes to the House amid concerns by some Democrats and environmental groups.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
-    "publishedAt": "2026-11-20T15:09:09.000Z"
-  },
-  {
-    "id": "8059cd705488bfd3",
-    "title": "Far-right activist Daniel Thomas jailed for slashing dinghy in Channel",
-    "summary": "Thomas admitted criminal damage after cutting vessel that had been carrying asylum seekers.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/20/far-right-activist-daniel-thomas-jailed-for-slashing-dinghy-in-channel",
-    "publishedAt": "2026-11-20T15:07:50.000Z"
-  },
-  {
-    "id": "c582c3b013cd14be",
-    "title": "‘Light therapy without remortgaging the house’: the best LED face masks – tested",
-    "summary": "They claim to reduce fine lines, blemishes and redness – but which stand up to scrutiny? After consulting dermatologists and putting them to the test, we have crowned a brand new number one.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
-    "publishedAt": "2026-11-20T15:06:46.000Z"
   }
 ]
