@@ -1,5 +1,23 @@
 [
   {
+    "id": "3500af305ed03afd",
+    "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+    "summary": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+    "publishedAt": "2026-11-21T16:39:49.000Z"
+  },
+  {
+    "id": "5236383aa1a552b7",
+    "title": "India’s opposition stages protests against Meta over account removals",
+    "summary": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+    "publishedAt": "2026-11-21T16:14:01.000Z"
+  },
+  {
     "id": "b899eec8aba7faca",
     "title": "Hormuz swim highlights environmental cost of war",
     "summary": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
@@ -1330,23 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
     "publishedAt": "2026-11-20T19:15:18.000Z"
-  },
-  {
-    "id": "fcd977b345bbc3f2",
-    "title": "Australia strikes deal on AI talks with China",
-    "summary": "Anthony Albanese has secured an agreement for new talks with China on artificial intelligence as the prime minister returns to Australia.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-21/australia-strikes-deal-on-ai-talks-with-china-after-apec/107411592",
-    "publishedAt": "2026-11-20T19:12:47.000Z"
-  },
-  {
-    "id": "2af93e3b8100433c",
-    "title": "White House removes cyber-security chief after series of tech outages",
-    "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
-    "publishedAt": "2026-11-20T19:03:56.000Z"
   }
 ]
