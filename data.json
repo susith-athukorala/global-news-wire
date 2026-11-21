@@ -1,5 +1,23 @@
 [
   {
+    "id": "5daf6c0c23eb5cf1",
+    "title": "USDA, FBI breached by hackers amid spate of tech outages – reports",
+    "summary": "Latest intrusions targeted farmer-payment system at the USDA and the FBI’s National Crime Information Center.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
+    "publishedAt": "2026-11-21T14:09:02.000Z"
+  },
+  {
+    "id": "158994b8ae4ecd45",
+    "title": "International talks on controlling use of autonomous weapons collapse",
+    "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+    "publishedAt": "2026-11-21T13:15:29.000Z"
+  },
+  {
     "id": "7f7da43ad1dc527e",
     "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
     "summary": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne.",
@@ -142,6 +160,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo",
     "publishedAt": "2026-11-21T12:09:49.000Z"
+  },
+  {
+    "id": "62126f15378bd553",
+    "title": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?",
+    "summary": "Canadians have put a lot of trust in their prime minister but some question if it can last if the trade wars were to end.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada",
+    "publishedAt": "2026-11-21T12:00:58.000Z"
   },
   {
     "id": "5cea83edc6af74e3",
@@ -1269,6 +1296,15 @@
     "publishedAt": "2026-11-20T18:16:12.000Z"
   },
   {
+    "id": "ae58bd9e7f4a9216",
+    "title": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
+    "summary": "News of vulnerability comes after retailers in at least seven European countries hit by cyber-attacks.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
+    "publishedAt": "2026-11-20T18:06:52.000Z"
+  },
+  {
     "id": "e0006c8114bab179",
     "title": "‘The greatest game ever made’: readers and Guardian staff on Grand Theft Auto VI",
     "summary": "Rockstar’s newest installment of its hit franchise still has plenty of action, along with a dose of ‘healthy masculinity’",
@@ -1312,41 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
     "publishedAt": "2026-11-20T17:57:10.000Z"
-  },
-  {
-    "id": "7c163ba9da6b0df3",
-    "title": "Voters in four out of five UK parliamentary seats back rejoining EU",
-    "summary": "Survey of 7,000 people shows that dozens of former leave areas now want to rejoin EU.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/20/voters-in-four-out-of-five-uk-parliamentary-seats-back-rejoining-eu",
-    "publishedAt": "2026-11-20T17:55:09.000Z"
-  },
-  {
-    "id": "9850fda4b50d2aa8",
-    "title": "Mamdani unveils plan to close New York’s Rikers Island by 2032",
-    "summary": "The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
-    "publishedAt": "2026-11-20T17:54:55.000Z"
-  },
-  {
-    "id": "ac72bf8df42ae789",
-    "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-    "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo",
-    "publishedAt": "2026-11-20T17:54:37.000Z"
-  },
-  {
-    "id": "e93e2ca783cbde76",
-    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-    "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
-    "publishedAt": "2026-11-20T17:49:48.000Z"
   }
 ]
