@@ -1,5 +1,86 @@
 [
   {
+    "id": "2fd34a5eec662c0b",
+    "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
+    "summary": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+    "publishedAt": "2026-11-21T22:01:42.000Z"
+  },
+  {
+    "id": "1add95be92a81fc8",
+    "title": "Google employees protest AI in schools policy",
+    "summary": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+    "publishedAt": "2026-11-21T22:01:40.000Z"
+  },
+  {
+    "id": "b01c4c2b305a2980",
+    "title": "Highlights and challenges from covering an historic month in South America",
+    "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+    "publishedAt": "2026-11-21T22:01:35.000Z"
+  },
+  {
+    "id": "0a89d776917aa587",
+    "title": "A grieving family in Lebanon returns to their village",
+    "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
+    "publishedAt": "2026-11-21T22:01:32.000Z"
+  },
+  {
+    "id": "cabda8bbd81bfa0e",
+    "title": "Lock of former US President George Washington's hair sells for $4,000",
+    "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do",
+    "publishedAt": "2026-11-21T22:01:19.000Z"
+  },
+  {
+    "id": "634fcadcb1799e68",
+    "title": "Bahrain says Iranian attack causes fire at industrial facility",
+    "summary": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+    "publishedAt": "2026-11-21T21:31:03.000Z"
+  },
+  {
+    "id": "bd54b97073b41a33",
+    "title": "'It gives me the ick': Can you cheat on someone with a video game?",
+    "summary": "Grand Theft Auto VI lets you build and nurture a romantic relationship but some say dates with a fictional character are a step too far.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo",
+    "publishedAt": "2026-11-21T21:21:57.000Z"
+  },
+  {
+    "id": "98d5d76471e03648",
+    "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+    "summary": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+    "publishedAt": "2026-11-21T21:02:18.000Z"
+  },
+  {
+    "id": "dd194f367fab44eb",
+    "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+    "summary": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+    "publishedAt": "2026-11-21T20:56:35.000Z"
+  },
+  {
     "id": "8dbb5efc4b25ef21",
     "title": "24 dead in Nigeria when boat capsizes while carrying people to a funeral",
     "summary": "Nigeria's emergency services say that a boat carrying people to a funeral has capsized and that at least 24 people have died.",
@@ -666,6 +747,15 @@
     "publishedAt": "2026-11-21T10:27:23.000Z"
   },
   {
+    "id": "06b98fb6c92a521b",
+    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
+    "publishedAt": "2026-11-21T10:26:36.000Z"
+  },
+  {
     "id": "6433155462042bde",
     "title": "Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028",
     "summary": "Members of the UN's Convention on Certain Conventional Weapons fail to agree on swift adoption of legally binding rules.",
@@ -1258,95 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
     "publishedAt": "2026-11-20T23:08:57.000Z"
-  },
-  {
-    "id": "4e24f14be3407a12",
-    "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
-    "summary": "EU warns COP31 risks turning into a 'fossil summit' as critical climate commitments are omitted from the draft deal.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
-    "publishedAt": "2026-11-20T23:06:41.000Z"
-  },
-  {
-    "id": "b85a5fc66bb6655a",
-    "title": "US police departments warn GTA VI users to ‘keep it in the game’",
-    "summary": "Although there is no definitive link between violent video games and behavior, departments take to social media.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/grand-theft-auto-vi-us-police-psa",
-    "publishedAt": "2026-11-20T23:02:30.000Z"
-  },
-  {
-    "id": "39792ebd7ac7848e",
-    "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
-    "summary": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o",
-    "publishedAt": "2026-11-20T22:57:26.000Z"
-  },
-  {
-    "id": "a8f641bc1705047c",
-    "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-    "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
-    "publishedAt": "2026-11-20T22:53:24.000Z"
-  },
-  {
-    "id": "4dfd121c6c304146",
-    "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-    "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
-    "publishedAt": "2026-11-20T22:42:47.000Z"
-  },
-  {
-    "id": "4939f70f711bb596",
-    "title": "French police officers sentenced for beating of music producer Michel Zecler",
-    "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo",
-    "publishedAt": "2026-11-20T22:37:09.000Z"
-  },
-  {
-    "id": "8ed73d92e1a547ca",
-    "title": "French police officers found guilty of racist assault on black music producer",
-    "summary": "Beating of Michel Zecler in 2020 sparked outrage over police brutality after it was caught on security cameras.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
-    "publishedAt": "2026-11-20T22:23:53.000Z"
-  },
-  {
-    "id": "69042885001bee95",
-    "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
-    "summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-    "publishedAt": "2026-11-20T22:15:07.000Z"
-  },
-  {
-    "id": "9b37693e45ed76e6",
-    "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-    "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo",
-    "publishedAt": "2026-11-20T22:14:17.000Z"
-  },
-  {
-    "id": "d143a578a81d5432",
-    "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
-    "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
-    "publishedAt": "2026-11-20T22:11:29.000Z"
   }
 ]
