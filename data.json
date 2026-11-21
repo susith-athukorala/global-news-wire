@@ -1,5 +1,77 @@
 [
   {
+    "id": "f5546c3da205076b",
+    "title": "Taiwan warns Canada faces the China risks Carney has cautioned against",
+    "summary": "Canadian Prime Minister Mark Carney has tried to deepen trade ties with China.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/taiwan-warns-canada-faces-china-risks-carney-cautioned-138346706",
+    "publishedAt": "2026-11-21T19:14:06.000Z"
+  },
+  {
+    "id": "cdabda9f591abb40",
+    "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
+    "summary": "A government in office for more than two years is finally forced to take responsibility and seemingly no longer able to blame its Labor predecessors.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
+    "publishedAt": "2026-11-21T19:00:08.000Z"
+  },
+  {
+    "id": "3977b4ac2205104f",
+    "title": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
+    "summary": "Copini Beauty referred to New South Wales health regulators, while federal government says it is ‘deeply concerned’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
+    "publishedAt": "2026-11-21T19:00:07.000Z"
+  },
+  {
+    "id": "96394a4bee6598fb",
+    "title": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
+    "summary": "GiveSendGo has been accused of facilitating the financing of extremism, but the platform says it does not ‘condone racism, discrimination, hate speech, or violence of any kind’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
+    "publishedAt": "2026-11-21T19:00:06.000Z"
+  },
+  {
+    "id": "635c339e1bd25625",
+    "title": "Louisiana man charged with killing woman on hiking trail and murdering co-worker with crossbow",
+    "summary": "Jared Schurr arrested in Mississippi after Lizeht Rodriguez and Woodrow Scott died in otherwise unrelated killings.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges",
+    "publishedAt": "2026-11-21T18:50:00.000Z"
+  },
+  {
+    "id": "4c9d70de279cb63c",
+    "title": "Russia-bound ship attacked in Gulf of Finland",
+    "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
+    "publishedAt": "2026-11-21T18:22:09.000Z"
+  },
+  {
+    "id": "0b0e060ad4ed3c25",
+    "title": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
+    "summary": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
+    "publishedAt": "2026-11-21T18:20:37.000Z"
+  },
+  {
+    "id": "ddb90bb60accc725",
+    "title": "FBI national crime database suffers suspected breach: Reports",
+    "summary": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
+    "publishedAt": "2026-11-21T18:19:10.000Z"
+  },
+  {
     "id": "efe791339806547e",
     "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
     "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
@@ -1276,77 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
     "publishedAt": "2026-11-20T21:32:31.000Z"
-  },
-  {
-    "id": "41857d96f900e24a",
-    "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
-    "summary": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
-    "publishedAt": "2026-11-20T21:05:07.000Z"
-  },
-  {
-    "id": "ca7b21a1b7959133",
-    "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
-    "summary": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
-    "publishedAt": "2026-11-20T20:59:04.000Z"
-  },
-  {
-    "id": "d74f383a965dbc75",
-    "title": "Sudan’s war leaves disabled children missing out on education",
-    "summary": "War forces schools, rehabilitation centres to close, forcing children with disabilities to lose access to education.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
-    "publishedAt": "2026-11-20T20:45:08.000Z"
-  },
-  {
-    "id": "7b1a23d32effbf98",
-    "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
-    "summary": "Tallinn's decision to shut road border crossings comes after an attack on a drone manufacturer.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
-    "publishedAt": "2026-11-20T20:30:46.000Z"
-  },
-  {
-    "id": "af72f9870d1f5ea7",
-    "title": "The 11 best analog and low-tech gifts for a life beyond your phone screen",
-    "summary": "Our favorite screen alternatives, including guided watercolor books, jigsaw puzzles and a Mexican cookbook.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter-us/2026/nov/20/best-analog-holiday-gift-ideas",
-    "publishedAt": "2026-11-20T20:15:38.000Z"
-  },
-  {
-    "id": "43dd820136b6ca3c",
-    "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
-    "summary": "Drones cause 'fear and panic' among Palestinians as Israel continues attacks on the Strip despite 'ceasefire'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
-    "publishedAt": "2026-11-20T20:14:56.000Z"
-  },
-  {
-    "id": "68b3333cb7fe92e1",
-    "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
-    "summary": "As thousands from Qatar's Nepali community watch their team play, they hope that the team will rise in global rankings.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss",
-    "publishedAt": "2026-11-20T20:03:11.000Z"
-  },
-  {
-    "id": "aecd3a5a0f31a90b",
-    "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
-    "summary": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
-    "publishedAt": "2026-11-20T19:57:05.000Z"
   }
 ]
