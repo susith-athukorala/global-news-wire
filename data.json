@@ -1,5 +1,50 @@
 [
   {
+    "id": "b899eec8aba7faca",
+    "title": "Hormuz swim highlights environmental cost of war",
+    "summary": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo",
+    "publishedAt": "2026-11-21T16:12:31.000Z"
+  },
+  {
+    "id": "221cd0d836981695",
+    "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+    "summary": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+    "publishedAt": "2026-11-21T16:03:16.000Z"
+  },
+  {
+    "id": "117d5b34db748007",
+    "title": "US midterms 2026: What happens before the new Congress takes office?",
+    "summary": "What happens between the US midterm elections and January, when Democrats take control of Congress?",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+    "publishedAt": "2026-11-21T15:49:32.000Z"
+  },
+  {
+    "id": "da9c6a6f2638047c",
+    "title": "Virginia child dies in state’s first measles-associated death of 2026",
+    "summary": "Death adds to national measles outbreak that recently cost the US its measles elimination status after 26 years.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
+    "publishedAt": "2026-11-21T15:30:07.000Z"
+  },
+  {
+    "id": "1e0d5628c1b79a76",
+    "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
+    "summary": "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
+    "publishedAt": "2026-11-21T15:20:43.000Z"
+  },
+  {
     "id": "4e974cea1067bf12",
     "title": "Independent review ordered into surgery carried out by NHS Grampian",
     "summary": "It follows a whistleblower's leaking of a document which shows there were 19 avoidable deaths at the health board.",
@@ -7,6 +52,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cr62pxzyql1jo",
     "publishedAt": "2026-11-21T15:15:29.000Z"
+  },
+  {
+    "id": "f39079c7c71e6eb6",
+    "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+    "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+    "publishedAt": "2026-11-21T15:01:18.000Z"
   },
   {
     "id": "00e77640c25aba0e",
@@ -99,6 +153,15 @@
     "publishedAt": "2026-11-21T14:09:02.000Z"
   },
   {
+    "id": "80154fe65d348e4e",
+    "title": "Denmark to expel Russian diplomat over alleged plot to kill US-Ukrainian rapper",
+    "summary": "Moscow intelligence thought to be behind plan to kill musician Kyivstoner before concert in Denmark.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+    "publishedAt": "2026-11-21T14:03:50.000Z"
+  },
+  {
     "id": "f077389309ffb835",
     "title": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
     "summary": "People are falling in love with AI systems like ChatGPT and Gemini - and some relationships are ending in ways that feel like the very human experience of being dumped.",
@@ -115,6 +178,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
     "publishedAt": "2026-11-21T13:15:29.000Z"
+  },
+  {
+    "id": "79bace62ffcba62c",
+    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+    "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
+    "publishedAt": "2026-11-21T13:15:21.000Z"
   },
   {
     "id": "7f7da43ad1dc527e",
@@ -1276,77 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
     "publishedAt": "2026-11-20T19:03:56.000Z"
-  },
-  {
-    "id": "6c28ca354fc80a74",
-    "title": "IDF refuses ABC requests for evidence journalist was Hamas operative",
-    "summary": "Israel's military has ignored or declined to answer the ABC's multiple requests for evidence a Palestinian journalist it engaged as a freelancer in Gaza was a Hamas operative.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-21/idf-gives-abc-no-evidence-palestinian-journalist-was-hamas/107407710",
-    "publishedAt": "2026-11-20T19:03:53.000Z"
-  },
-  {
-    "id": "a48cf524d8c75887",
-    "title": "Forget rogue robots, it’s tech billionaires and AI cricket that should really terrify us | Barney Ronay",
-    "summary": "The encroachment of artificial intelligence smells like the death of sport. Can we find the will and collective backbone to resist?",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/sport/2026/nov/20/cricket-rogue-robots-tech-billionaires-artificial-intelligence",
-    "publishedAt": "2026-11-20T19:00:36.000Z"
-  },
-  {
-    "id": "7a65904af0ba1b33",
-    "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
-    "summary": "Democrats – including incoming banking chair and both majority leader candidates – said wealthy interests were prioritized over the needs of working Americans.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
-    "publishedAt": "2026-11-20T18:51:16.000Z"
-  },
-  {
-    "id": "5733aa2a7beb0744",
-    "title": "Lauren Boebert says Trump ‘did some things to hurt’ her constituents",
-    "summary": "Controversial Colorado Republican narrowly lost House seat in midterms but says ‘I’m not mad at the president’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
-    "publishedAt": "2026-11-20T18:51:09.000Z"
-  },
-  {
-    "id": "98bc7692f0a189f9",
-    "title": "New York City lawmakers propose ban on restaurants boiling lobsters alive",
-    "summary": "Sponsors cite ‘studies’ indicating crustaceans experience significant pain when boiled alive without being stunned.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/new-york-city-ban-boiling-lobsters-alive-proposal",
-    "publishedAt": "2026-11-20T18:49:03.000Z"
-  },
-  {
-    "id": "0243aca6f183dc01",
-    "title": "Students rally across Europe over cost of living, war and education cuts",
-    "summary": "From the shadows of the mighty Colosseum in Rome to Parliament Square in London, and in dozens of other cities across Europe, thousands of young Europeans gathered to make their voices heard on Friday.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-21/students-protest-in-eu-and-uk/107406996",
-    "publishedAt": "2026-11-20T18:38:10.000Z"
-  },
-  {
-    "id": "b9a3083bba603ec2",
-    "title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
-    "summary": "Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
-    "publishedAt": "2026-11-20T18:37:35.000Z"
-  },
-  {
-    "id": "22f5eaecb09c50bc",
-    "title": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
-    "summary": "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illness.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
-    "publishedAt": "2026-11-20T18:36:30.000Z"
   }
 ]
