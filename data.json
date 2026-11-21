@@ -1,5 +1,41 @@
 [
   {
+    "id": "8dbb5efc4b25ef21",
+    "title": "24 dead in Nigeria when boat capsizes while carrying people to a funeral",
+    "summary": "Nigeria's emergency services say that a boat carrying people to a funeral has capsized and that at least 24 people have died.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/24-dead-nigeria-boat-capsizes-carrying-people-funeral-138348287",
+    "publishedAt": "2026-11-21T20:55:16.000Z"
+  },
+  {
+    "id": "c902a31706b5ef7e",
+    "title": "Thousands protest across Europe over living costs and housing",
+    "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+    "publishedAt": "2026-11-21T20:47:50.000Z"
+  },
+  {
+    "id": "4411aba23093ba4d",
+    "title": "Bayer reaches Roundup settlement that could cost the company billions",
+    "summary": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+    "publishedAt": "2026-11-21T20:37:35.000Z"
+  },
+  {
+    "id": "fb37a339a98376d9",
+    "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
+    "summary": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+    "publishedAt": "2026-11-21T20:15:13.000Z"
+  },
+  {
     "id": "a483f4d15ca0a193",
     "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
     "summary": "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday.",
@@ -1008,6 +1044,15 @@
     "publishedAt": "2026-11-21T03:01:24.000Z"
   },
   {
+    "id": "3412d4ff84a0daad",
+    "title": "Ahead of 2028, a presidential campaign is building behind AOC",
+    "summary": "In the wake of the US midterms \"bluenami\", speculation that Alexandria Ocasio-Cortez is popular enough to be elected America's first female president has reached a fever pitch.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-21/alexandria-ocasio-cortez-aoc-possible-2028-presidential-campaign/107389828",
+    "publishedAt": "2026-11-21T02:19:16.000Z"
+  },
+  {
     "id": "e02bde69f1098b9e",
     "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
     "summary": "US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'.",
@@ -1303,50 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
     "publishedAt": "2026-11-20T22:11:29.000Z"
-  },
-  {
-    "id": "06b98fb6c92a521b",
-    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-    "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
-    "publishedAt": "2026-11-20T21:57:07.000Z"
-  },
-  {
-    "id": "8e3ceec613f9f9ec",
-    "title": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
-    "summary": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
-    "publishedAt": "2026-11-20T21:47:41.000Z"
-  },
-  {
-    "id": "52616db544c81aa8",
-    "title": "Tech stocks end the week on a down note, despite Anthropic's mega-IPO",
-    "summary": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6048645/tech-stocks-end-the-week-on-a-down-note-despite-anthropics-mega-ipo",
-    "publishedAt": "2026-11-20T21:38:32.000Z"
-  },
-  {
-    "id": "7a84bc29f641256d",
-    "title": "New research gives insight to where your brain plans out your speech",
-    "summary": "New research shows where this all takes place and what it means for possibly treating those who have speech difficulties.",
-    "category": "Science",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6047695/new-research-gives-insight-to-where-your-brain-plans-out-your-speech",
-    "publishedAt": "2026-11-20T21:38:25.000Z"
-  },
-  {
-    "id": "fd2811614640e90d",
-    "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
-    "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-    "publishedAt": "2026-11-20T21:38:17.000Z"
   }
 ]
