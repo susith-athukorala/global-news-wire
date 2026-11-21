@@ -1,5 +1,95 @@
 [
   {
+    "id": "4e974cea1067bf12",
+    "title": "Independent review ordered into surgery carried out by NHS Grampian",
+    "summary": "It follows a whistleblower's leaking of a document which shows there were 19 avoidable deaths at the health board.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr62pxzyql1jo",
+    "publishedAt": "2026-11-21T15:15:29.000Z"
+  },
+  {
+    "id": "00e77640c25aba0e",
+    "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
+    "summary": "The viral satirization of the caregiving burden left to women and daughters hit home for many viewers.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
+    "publishedAt": "2026-11-21T15:00:01.000Z"
+  },
+  {
+    "id": "5f7e494dc48ee2bc",
+    "title": "Federal judge denies request to release man shot by immigration agents in New York",
+    "summary": "Oscar Belgal, a Dominican national, was shot by ICE agents as he drove his five-year-old son home from school.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
+    "publishedAt": "2026-11-21T14:52:30.000Z"
+  },
+  {
+    "id": "79a02425ec1794ff",
+    "title": "Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal",
+    "summary": "Documentary records Catherine taking on Three Peaks challenge and finding ‘sense of hope alongside uncertainty’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
+    "publishedAt": "2026-11-21T14:42:56.000Z"
+  },
+  {
+    "id": "a1f3faa7350ac798",
+    "title": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
+    "summary": "Temperatures in a concrete facility contributed to one man’s death after he struggled to breathe, prisoners allege.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
+    "publishedAt": "2026-11-21T14:38:58.000Z"
+  },
+  {
+    "id": "da7d58d380d5f524",
+    "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
+    "summary": "Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
+    "publishedAt": "2026-11-21T14:35:52.000Z"
+  },
+  {
+    "id": "8d21ce3be6517221",
+    "title": "British man recalls ‘despair’ over son’s death after fall from Cyprus window",
+    "summary": "Joshua Foster tells of moment he ‘lost control’ of two-year-old when he fell from fourth storey of hotel.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
+    "publishedAt": "2026-11-21T14:35:20.000Z"
+  },
+  {
+    "id": "5b6c5cedadbc09fc",
+    "title": "Mexico detains top cartel boss 'El Chapo Isidro,' one of FBI's 10 most wanted fugitives",
+    "summary": "Mexican authorities have captured top cartel boss Fausto Isidro Meza Flores, known as “El Chapo Isidro.\"",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/mexico-detains-top-cartel-boss-el-chapo-isidro-138341584",
+    "publishedAt": "2026-11-21T14:29:09.000Z"
+  },
+  {
+    "id": "d615c59e615c53a1",
+    "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+    "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+    "publishedAt": "2026-11-21T14:18:17.000Z"
+  },
+  {
+    "id": "858ce2cb6cc9a457",
+    "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+    "summary": "Iran's FM Araghchi says there is 'major strategic debate' about the future of Iran's nuclear doctrine.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+    "publishedAt": "2026-11-21T14:15:36.000Z"
+  },
+  {
     "id": "5daf6c0c23eb5cf1",
     "title": "USDA, FBI breached by hackers amid spate of tech outages – reports",
     "summary": "Latest intrusions targeted farmer-payment system at the USDA and the FBI’s National Crime Information Center.",
@@ -7,6 +97,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
     "publishedAt": "2026-11-21T14:09:02.000Z"
+  },
+  {
+    "id": "f077389309ffb835",
+    "title": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
+    "summary": "People are falling in love with AI systems like ChatGPT and Gemini - and some relationships are ending in ways that feel like the very human experience of being dumped.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
+    "publishedAt": "2026-11-21T14:00:01.000Z"
   },
   {
     "id": "158994b8ae4ecd45",
@@ -1134,6 +1233,15 @@
     "publishedAt": "2026-11-20T19:38:59.000Z"
   },
   {
+    "id": "ac72bf8df42ae789",
+    "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+    "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo",
+    "publishedAt": "2026-11-20T19:27:49.000Z"
+  },
+  {
     "id": "c262f425bba41b2e",
     "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
     "summary": "Christmas comedy hit is set for a follow-up from the point of view of the father with Seth Rogen as writer and producer.",
@@ -1240,113 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
     "publishedAt": "2026-11-20T18:36:30.000Z"
-  },
-  {
-    "id": "799e86da778639c8",
-    "title": "Spain frees wealthy US-sought activist on bail as Irish police raid Dublin home",
-    "summary": "Pro-Palestinian donor James ‘Fergie’ Chambers released as court considers extradition request.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
-    "publishedAt": "2026-11-20T18:34:13.000Z"
-  },
-  {
-    "id": "11e49cad6848a494",
-    "title": "Princeton doctoral student reportedly detained by ICE on way back from conference",
-    "summary": "Eva Yi Xie was taken into custody at Washington DC airport after presenting research at neuroscience conference.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice",
-    "publishedAt": "2026-11-20T18:33:17.000Z"
-  },
-  {
-    "id": "ab96d4d31437bc69",
-    "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
-    "summary": "Nikhil Gupta admitted to plotting with Indian government official to hire hitman to murder dual US-Canadian citizen.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
-    "publishedAt": "2026-11-20T18:24:12.000Z"
-  },
-  {
-    "id": "1dbd628dcd3565fb",
-    "title": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
-    "summary": "PM challenges rivals to rebuff plan he says could add 0.5% annual growth to economy and offer young people hope.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
-    "publishedAt": "2026-11-20T18:22:50.000Z"
-  },
-  {
-    "id": "b05464920f2e0593",
-    "title": "What exactly is in the deal between the UK and the EU?",
-    "summary": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange scheme.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
-    "publishedAt": "2026-11-20T18:19:53.000Z"
-  },
-  {
-    "id": "80154fe65d348e4e",
-    "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
-    "summary": "Russian intelligence thought to be behind plan to kill US-Ukrainian musician Kyivstoner before concert in Denmark.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
-    "publishedAt": "2026-11-20T18:16:12.000Z"
-  },
-  {
-    "id": "ae58bd9e7f4a9216",
-    "title": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
-    "summary": "News of vulnerability comes after retailers in at least seven European countries hit by cyber-attacks.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
-    "publishedAt": "2026-11-20T18:06:52.000Z"
-  },
-  {
-    "id": "e0006c8114bab179",
-    "title": "‘The greatest game ever made’: readers and Guardian staff on Grand Theft Auto VI",
-    "summary": "Rockstar’s newest installment of its hit franchise still has plenty of action, along with a dose of ‘healthy masculinity’",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/20/grand-theft-auto-vi-players-review",
-    "publishedAt": "2026-11-20T18:04:15.000Z"
-  },
-  {
-    "id": "7a6b4b5a50a5fdcf",
-    "title": "Questions over future for Australian workers as mass lay-offs hit",
-    "summary": "Laid-off white-collar workers are being forced to sell their homes to make ends meet, amid mounting concerns the country is heading into a recession.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-21/australians-lose-jobs-recession-fears-some-forced-to-sell-homes/107408374",
-    "publishedAt": "2026-11-20T18:00:00.000Z"
-  },
-  {
-    "id": "9e9344d4e360d116",
-    "title": "Xi, Putin and Trump walked into a room and one walked out the biggest winner",
-    "summary": "Donald Trump, Xi Jinping and Vladimir Putin's \"declaration of peace\" is less about world peace than the peace of mind of powerful men.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-21/trump-xi-putin-summit-had-more-flair-than-substance/107405592",
-    "publishedAt": "2026-11-20T18:00:00.000Z"
-  },
-  {
-    "id": "4f1d9bc8cb90d219",
-    "title": "Denmark accuses Russian intelligence of plotting to kill American Ukrainian on its soil",
-    "summary": "Authorities thwarted the attempted killing of an American Ukrainian citizen on Danish soil in a plot allegedly orchestrated by Russian intelligence services.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497",
-    "publishedAt": "2026-11-20T17:59:38.000Z"
-  },
-  {
-    "id": "1efc3952f067ddc0",
-    "title": "Burnham seals trade and youth mobility deals in biggest step towards EU since Brexit",
-    "summary": "Agreements reached on food and drink, emissions and to allow young people to move around continent, but may be derailed over student fees.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
-    "publishedAt": "2026-11-20T17:57:10.000Z"
   }
 ]
