@@ -1,5 +1,14 @@
 [
   {
+    "id": "325f1a2a1c9a284c",
+    "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
+    "summary": "Body of a man in his 20s discovered by police who were sent to investigate the shooting of an officer, who is in a serious but stable condition.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+    "publishedAt": "2026-11-21T22:41:36.000Z"
+  },
+  {
     "id": "2fd34a5eec662c0b",
     "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
     "summary": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
@@ -43,6 +52,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do",
     "publishedAt": "2026-11-21T22:01:19.000Z"
+  },
+  {
+    "id": "c5f200bbc78329a5",
+    "title": "Russian cargo ship burns in Baltic Sea after drone strike",
+    "summary": "Finland says Ukraine was likely behind an attack on Russian cargo ship Sparta II in the Baltic Sea.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-22/russian-cargo-ship-burns-in-baltic-sea-after-drone-strike/107413782",
+    "publishedAt": "2026-11-21T21:52:45.000Z"
   },
   {
     "id": "634fcadcb1799e68",
@@ -99,6 +117,15 @@
     "publishedAt": "2026-11-21T20:47:50.000Z"
   },
   {
+    "id": "fa6445c868464642",
+    "title": "Eisenkot invites Netanyahu's party to Israeli coalition talks",
+    "summary": "Gadi Eisenkot's Yashar party has invited Israeli Prime Minister Benjamin Netanyahu's Likud party to coalition talks.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-22/gadi-eisenkot-invites-benjamin-netanyahu-israeli-coalition-talks/107413714",
+    "publishedAt": "2026-11-21T20:41:17.000Z"
+  },
+  {
     "id": "4411aba23093ba4d",
     "title": "Bayer reaches Roundup settlement that could cost the company billions",
     "summary": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.",
@@ -124,6 +151,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
     "publishedAt": "2026-11-21T19:53:00.000Z"
+  },
+  {
+    "id": "9a3029a5f62b7df4",
+    "title": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
+    "summary": "Cop31 summit ‘unravelling’ as governments fail to agree on transition to renewables and aid for developing countries.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
+    "publishedAt": "2026-11-21T19:43:52.000Z"
   },
   {
     "id": "6bb0948a08a8b60c",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo",
     "publishedAt": "2026-11-20T23:28:17.000Z"
-  },
-  {
-    "id": "bf78ec82969c79f6",
-    "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
-    "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo",
-    "publishedAt": "2026-11-20T23:20:33.000Z"
-  },
-  {
-    "id": "973aadc167195a9f",
-    "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
-    "summary": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
-    "publishedAt": "2026-11-20T23:20:29.000Z"
-  },
-  {
-    "id": "6db0fde3718cbe9e",
-    "title": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
-    "summary": "Labor says allowing mine to increase production reflects ‘gravity of situation facing hundreds of workers’ – but critics call it ‘unprecedented and dangerous’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
-    "publishedAt": "2026-11-20T23:09:57.000Z"
-  },
-  {
-    "id": "5d3c25a64fe3237b",
-    "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-    "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
-    "publishedAt": "2026-11-20T23:08:57.000Z"
   }
 ]
