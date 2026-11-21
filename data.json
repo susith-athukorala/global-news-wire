@@ -1,5 +1,140 @@
 [
   {
+    "id": "7f7da43ad1dc527e",
+    "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
+    "summary": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
+    "publishedAt": "2026-11-21T13:08:59.000Z"
+  },
+  {
+    "id": "8e797836f2dc8906",
+    "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+    "summary": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+    "publishedAt": "2026-11-21T13:00:01.000Z"
+  },
+  {
+    "id": "ee9aa2dd2ab75d74",
+    "title": "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
+    "summary": "Iran war stretching fleet’s capacity, navy chief admits, as CBO finds estimated cost of new ships ‘unrealistically low’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
+    "publishedAt": "2026-11-21T13:00:00.000Z"
+  },
+  {
+    "id": "1c20aabfa0ef2b66",
+    "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+    "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
+    "publishedAt": "2026-11-21T12:52:00.000Z"
+  },
+  {
+    "id": "97bfc49f3b794101",
+    "title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
+    "summary": "Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
+    "publishedAt": "2026-11-21T12:49:20.000Z"
+  },
+  {
+    "id": "72dc2f0a14f7ed60",
+    "title": "Cold gives way to rain in parts of UK as weather warning issued for south-west England",
+    "summary": "Flood alerts in place and risk of power cuts as more than 100mm predicted to fall on Dartmoor on Sunday.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
+    "publishedAt": "2026-11-21T12:47:57.000Z"
+  },
+  {
+    "id": "b3207d7d6b59cba1",
+    "title": "Black music producer's lawyer hails landmark ruling as French court finds racist police violence",
+    "summary": "A French court has acknowledged the racist nature of a violent incident involving police officers and sentenced them to prison.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/black-music-producers-lawyer-hails-landmark-ruling-french-138340923",
+    "publishedAt": "2026-11-21T12:45:56.000Z"
+  },
+  {
+    "id": "623ed4ea303378cf",
+    "title": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
+    "summary": "Two drones attack a cargo ship close to Russia's maritime border, causing damage and crew evacuation.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+    "publishedAt": "2026-11-21T12:45:24.000Z"
+  },
+  {
+    "id": "b746812d1ffebfb4",
+    "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
+    "summary": "As President Trump met with Russian and Chinese counterparts, Ukraine and its European allies were left out of the talks. NPR's Scott Simon talks with Phillips O'Brien of St. Andrew's University.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
+    "publishedAt": "2026-11-21T12:40:18.000Z"
+  },
+  {
+    "id": "dbd66d83127def56",
+    "title": "Scientists sequenced a whale's entire genome using drones and whale snot",
+    "summary": "Scientists were able to sequence the entire genome of a whale using samples of its snot. They used sharp flying skills and commercial drones affixed with petri dishes to collect the samples.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6044816/scientists-sequenced-a-whales-entire-genome-using-drones-and-whale-snot",
+    "publishedAt": "2026-11-21T12:40:15.000Z"
+  },
+  {
+    "id": "3a9dcea78a0c5405",
+    "title": "Philadelphia neonatologist Joanna Parga-Belinkie on keeping babies safe from measles",
+    "summary": "Amid ongoing measles outbreaks, Philadelphia neonatologist Joanna Parga-Belinkie talks with NPR's Scott Simon about how she keeps infants too young for the vaccine safe.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6038857/philadelphia-neonatologist-joanna-parga-belinkie-on-keeping-babies-safe-from-measles",
+    "publishedAt": "2026-11-21T12:40:10.000Z"
+  },
+  {
+    "id": "e6b4a40b75a906c6",
+    "title": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
+    "summary": "Sudan's displaced elderly often have to support grandchildren or fend for themselves.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
+    "publishedAt": "2026-11-21T12:30:49.000Z"
+  },
+  {
+    "id": "fd3efd63d803fd4f",
+    "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+    "summary": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the second time in recent months that an AI company or someone linked to one claims to have cracked a famed unsolved math problem.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+    "publishedAt": "2026-11-21T12:30:16.000Z"
+  },
+  {
+    "id": "196d1d3ecda778c6",
+    "title": "Israeli attacks on Gaza kill at least four Palestinians",
+    "summary": "Israeli drone attack kills three people in Gaza City, another shot dead by Israeli forces in Jabalia.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-21T12:29:49.000Z"
+  },
+  {
+    "id": "db5575ec9beee539",
+    "title": "How red squirrels made island their home",
+    "summary": "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\".",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo",
+    "publishedAt": "2026-11-21T12:18:55.000Z"
+  },
+  {
     "id": "cfe33db7546f7f8e",
     "title": "Sessions offer advice on rising energy costs",
     "summary": "A council is urging people to seek support with rising energy costs on heating this winter.",
@@ -1213,140 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
     "publishedAt": "2026-11-20T17:49:48.000Z"
-  },
-  {
-    "id": "907a25d3e6931696",
-    "title": "US tech sell-off continues as Anthropic tumbles after mega IPO",
-    "summary": "Anthropic's listing had been viewed as a potential boost for an industry struggling to regain its footing.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
-    "publishedAt": "2026-11-20T17:44:18.000Z"
-  },
-  {
-    "id": "bcffeb52063fa6ce",
-    "title": "Two men killed after glider crashes into Loch Leven in Scotland",
-    "summary": "The pair had flown from the Scottish Gliding Centre at Portmoak on a training flight.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
-    "publishedAt": "2026-11-20T17:42:49.000Z"
-  },
-  {
-    "id": "952e40cdf3b622f7",
-    "title": "Protests held across Europe over wages, services, high living costs",
-    "summary": "Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss",
-    "publishedAt": "2026-11-20T17:32:32.000Z"
-  },
-  {
-    "id": "a632c0a4e3bb0578",
-    "title": "Joanne Young’s faith in the justice system is a sign of real changes, but the courts are still catching up",
-    "summary": "Years of reforms by prosecutors and police guided the approach that saw Young’s abusers convicted, though much more remains to be done.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/20/joanne-young-faith-in-the-justice-system-changes-but-courts-still-catching-up",
-    "publishedAt": "2026-11-20T17:09:20.000Z"
-  },
-  {
-    "id": "ae58bd9e7f4a9216",
-    "title": "Cybersecurity operation thwarts attack on UK supermarket fridges and freezers",
-    "summary": "News of operation comes after supermarkets in at least seven European countries hit by cyber-attacks.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
-    "publishedAt": "2026-11-20T17:08:14.000Z"
-  },
-  {
-    "id": "db87266e54640b6c",
-    "title": "The best dehumidifiers: 14 favourites to beat damp and cut bills, tested",
-    "summary": "Fed up with condensation, mould and musty smells? A dehumidifier could help – plus, they’re a cheaper way to dry laundry compared with tumble dryers.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2025/oct/21/best-dehumidifiers-tested-uk",
-    "publishedAt": "2026-11-20T17:08:04.000Z"
-  },
-  {
-    "id": "20ea11a59a491c92",
-    "title": "Top US Democrat warns Trump admin against destroying records",
-    "summary": "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss",
-    "publishedAt": "2026-11-20T17:05:42.000Z"
-  },
-  {
-    "id": "88104756fc04509b",
-    "title": "UK far-right activist ‘Danny Tommo’ jailed for slashing migrant boat",
-    "summary": "Daniel Thomas livestreamed himself slashing a dinghy used to bring migrants from France to the UK.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat?traffic_source=rss",
-    "publishedAt": "2026-11-20T17:05:32.000Z"
-  },
-  {
-    "id": "03fe316625f44039",
-    "title": "Gérard Depardieu and Michel Houellebecq investigated over on-set rape and assault allegations",
-    "summary": "Actor and author are alleged to have attacked and gang-raped a woman while filming together in 2018.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/20/gerard-depardieu-michel-houellebecq-investigated-allegations",
-    "publishedAt": "2026-11-20T16:54:57.000Z"
-  },
-  {
-    "id": "df67e737aa0fce20",
-    "title": "Police search for teacher who missed sentencing after indecent assault conviction",
-    "summary": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980s.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
-    "publishedAt": "2026-11-20T16:50:47.000Z"
-  },
-  {
-    "id": "f030513eb38f01e0",
-    "title": "White supremacist convicted of planning bomb attack on asylum seekers in Hull",
-    "summary": "Mikka Anderson stockpiled weapons and tried to recruit accomplice for attack on Royal Hotel.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/20/white-supremacist-mikka-anderson-convicted-planning-bomb-attack-asylum-seekers-hull",
-    "publishedAt": "2026-11-20T16:48:31.000Z"
-  },
-  {
-    "id": "e9650a9973c91d70",
-    "title": "Latest botched execution prompts calls for US moratorium on lethal injections",
-    "summary": "Reinaldo Dennes screamed in pain and took over an hour to die – but Texas officials branded the execution a success.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/botched-execution-texas",
-    "publishedAt": "2026-11-20T16:48:08.000Z"
-  },
-  {
-    "id": "9237bb24fb41222c",
-    "title": "Fired White House press secretary Katie Zacharia under California state bar investigation",
-    "summary": "Zacharia’s spokesperson called allegations she falsely represented herself as an attorney ‘baseless’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/katie-zacharia-california-bar-investigation",
-    "publishedAt": "2026-11-20T16:46:05.000Z"
-  },
-  {
-    "id": "07c70c40af5eb0a8",
-    "title": "Man who nearly died during liver surgery at Aberdeen hospital says mistakes were made",
-    "summary": "It comes after a leaked review identified 19 avoidable deaths following liver and pancreatic surgery at the hospital.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr894yq07v23o",
-    "publishedAt": "2026-11-20T16:45:44.000Z"
-  },
-  {
-    "id": "5024389180d8d2eb",
-    "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-    "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo",
-    "publishedAt": "2026-11-20T16:41:52.000Z"
   }
 ]
