@@ -1,5 +1,95 @@
 [
   {
+    "id": "82ffb684477a84ac",
+    "title": "Anthropic says it will put humanity first. Will its IPO change that?",
+    "summary": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+    "publishedAt": "2026-11-21T10:00:00.000Z"
+  },
+  {
+    "id": "f52a7432fa104a76",
+    "title": "The AI boom had a really bad week — and it's raising loud alarms",
+    "summary": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+    "publishedAt": "2026-11-21T10:00:00.000Z"
+  },
+  {
+    "id": "b0a88f7fc7d22737",
+    "title": "Verstappen escapes Vegas F1 discipline, takes pole as Antonelli penalised",
+    "summary": "Max Verstappen escapes discipline in Vegas F1 practice after run-ins and takes pole as Kimi Antonelli hit with penalty.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/verstappen-escapes-las-vegas-discipline-takes-pole-as-antonelli-penalised?traffic_source=rss",
+    "publishedAt": "2026-11-21T09:58:59.000Z"
+  },
+  {
+    "id": "7ec96e3adde6a5bf",
+    "title": "Black Friday deals for liquid Brazilian butt lifts criticised over safety fears",
+    "summary": "Experts say BBLs and other cosmetic procedures can be risky and seasonal offers at clinics in England could make people rush decisions.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears",
+    "publishedAt": "2026-11-21T09:52:52.000Z"
+  },
+  {
+    "id": "398adce4c4a50a02",
+    "title": "China commits to low-carbon electrification and help for others to improve",
+    "summary": "Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
+    "publishedAt": "2026-11-21T09:47:57.000Z"
+  },
+  {
+    "id": "d0d19939b320e45a",
+    "title": "Rejoining EU ‘on the table’ as UK strikes deals on trade and young people",
+    "summary": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
+    "publishedAt": "2026-11-21T09:45:52.000Z"
+  },
+  {
+    "id": "aa64eb9f2bcc5789",
+    "title": "Sandpapergate: Cummins has Australia’s ‘unanimous support’ as Test captain",
+    "summary": "Pat Cummins to remain Test captain after Cricket Australia back cricketer following cheating scandal in South Africa.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/cummins-wins-cricket-australias-unanimous-support-as-test-captain-sandpapergate?traffic_source=rss",
+    "publishedAt": "2026-11-21T09:38:29.000Z"
+  },
+  {
+    "id": "e86869f8921697db",
+    "title": "FBI reportedly investigating apparent hack of its criminal database",
+    "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+    "publishedAt": "2026-11-21T09:34:20.000Z"
+  },
+  {
+    "id": "02b26256ce2cf024",
+    "title": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+    "summary": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as 'oil trustees'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+    "publishedAt": "2026-11-21T09:30:24.000Z"
+  },
+  {
+    "id": "4062c3edc571c282",
+    "title": "French police officers guilty of Michel Zecler assault: What happens now?",
+    "summary": "Officers dealt more than 30 blows to the Black music producer in what the court ruled was a racially motivated crime.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss",
+    "publishedAt": "2026-11-21T09:12:14.000Z"
+  },
+  {
     "id": "81d1b7e6d871a772",
     "title": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
     "summary": "Ballon d'Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne.",
@@ -1188,6 +1278,15 @@
     "publishedAt": "2026-11-20T15:48:35.000Z"
   },
   {
+    "id": "c22b98232233eb41",
+    "title": "Workers and students protest across Europe as a strike in Italy disrupts services",
+    "summary": "Workers and students are protesting across Europe on Friday as a nationwide strike disrupted transport and school services in Italy and demonstrators gathered in several countries to press demands on issues ranging from wages and living costs to educat.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/italy-strike-draws-workers-students-nationwide-protests-wages-138314660",
+    "publishedAt": "2026-11-20T15:43:51.000Z"
+  },
+  {
     "id": "0a9843ba32b0e591",
     "title": "US army postpones plan to detonate bomb-making chemical amid outcry",
     "summary": "Controlled detonation could lead to plume containing lead particles, worrying residents and state officials.",
@@ -1249,104 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
     "publishedAt": "2026-11-20T15:06:46.000Z"
-  },
-  {
-    "id": "ce92865d67000bf7",
-    "title": "‘Forever our Fiona’: fans of the famous hippo mourn her death at zoo",
-    "summary": "Flowers and notes appeared next to sculpture of hippos at Cincinatti zoo within hours of Fiona dying, days after swallowing a visitors’ hat.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/fiona-hippo-death-shrine-tributes-hat-cincinnati-zoo",
-    "publishedAt": "2026-11-20T15:06:46.000Z"
-  },
-  {
-    "id": "def1c49490022eb7",
-    "title": "‘You can’t get experience if no one’s employing you’: the vicious circle facing Blackpool’s Neets",
-    "summary": "The English seaside town tops the list for 16- to 24-year-olds out of work and education, but not for lack of young jobseekers’ efforts.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle",
-    "publishedAt": "2026-11-20T15:00:32.000Z"
-  },
-  {
-    "id": "7dbf331b0d3981bb",
-    "title": "‘A source of inspiration’: series of public events celebrate life of Dolores Huerta",
-    "summary": "A public vigil and celebration of life honor the civil rights activist and co-founder of United Farm Workers union.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california",
-    "publishedAt": "2026-11-20T15:00:31.000Z"
-  },
-  {
-    "id": "d110e28f6dfb7de2",
-    "title": "Trump to hold press conference after meeting with Xi and Putin",
-    "summary": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-    "publishedAt": "2026-11-20T15:00:00.000Z"
-  },
-  {
-    "id": "fcf91da59b745817",
-    "title": "‘Gloucestershire nouveau’: UK vineyard uncorks its 2026 answer to beaujolais",
-    "summary": "Three Choirs unveils First Release white wine after long, hot summer led to earliest harvest start in 50 years.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/20/three-choirs-vineyard-2026-first-release-wine-record-early-harvest-beaujolais-nouveau",
-    "publishedAt": "2026-11-20T14:59:23.000Z"
-  },
-  {
-    "id": "473e99b0daaf5ab6",
-    "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
-    "summary": "Yemen's Houthis have warned airlines of military activity in Saudi airspace in the coming hours.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
-    "publishedAt": "2026-11-20T14:48:04.000Z"
-  },
-  {
-    "id": "6709de4f92fda2a9",
-    "title": "Hot potato: Can Japan resist Trump pressure to import food staple?",
-    "summary": "Japan imports 60 percent of its food, but it fiercely draws the line at potatoes.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/hot-potato-can-japan-resist-trump-pressure-to-import-food-staple?traffic_source=rss",
-    "publishedAt": "2026-11-20T14:38:25.000Z"
-  },
-  {
-    "id": "3c68554c4f1569c3",
-    "title": "Outages in US cause worry, despite official attempts to downplay concerns",
-    "summary": "Experts say Trump administration is not taking the threat of AI attacks seriously, as consumers stock up on supplies.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/outages-in-us-cause-worry-despite-official-attempts-to-downplay-concerns?traffic_source=rss",
-    "publishedAt": "2026-11-20T14:34:04.000Z"
-  },
-  {
-    "id": "378d332f77f8d29a",
-    "title": "Pontins owner fined £1m over death of woman at Somerset holiday park",
-    "summary": "Wendy Jones, 68, was fatally injured when part of a ceiling collapsed during a bingo game at Pontins Brean Sands.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/20/pontins-owner-fined-death-somerset-brean-sands-holiday-park-wendy-jones",
-    "publishedAt": "2026-11-20T14:07:46.000Z"
-  },
-  {
-    "id": "88ea46033b066d29",
-    "title": "Idea of Britain rejoining EU still on table after key summit",
-    "summary": "Leaders from Britain and the European Union say they have agreed several new deals in Brussels, as the United Kingdom's Prime Minister Andy Burnham attempts to reshape his country's relationship with its closest neighbours.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-21/key-takeaways-from-uk-eu-summit/107406986",
-    "publishedAt": "2026-11-20T14:04:59.000Z"
-  },
-  {
-    "id": "adfd6129676fb7a3",
-    "title": "As the Coalition stares down One Nation in NSW, a new threat is rising: the teals",
-    "summary": "The opposition’s struggle is creating an opportunity for progressive independents who are boosted by shrewd political operator Chris Minns.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
-    "publishedAt": "2026-11-20T14:00:32.000Z"
   }
 ]
