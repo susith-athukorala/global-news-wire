@@ -1,5 +1,41 @@
 [
   {
+    "id": "81d1b7e6d871a772",
+    "title": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
+    "summary": "Ballon d'Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
+    "publishedAt": "2026-11-21T09:01:29.000Z"
+  },
+  {
+    "id": "da8458e75361a0a1",
+    "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
+    "summary": "Manipur's chief minister orders a probe into the incident, saying those responsible will be arrested and punished.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
+    "publishedAt": "2026-11-21T08:48:54.000Z"
+  },
+  {
+    "id": "ea848382db55266f",
+    "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
+    "summary": "Infantino handed huge boost in re-election campaign as FIFA president as CONMEBOL offers unanimous support.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
+    "publishedAt": "2026-11-21T08:33:52.000Z"
+  },
+  {
+    "id": "5a8d64ef0622348f",
+    "title": "Trafalgar Square Christmas tree felled in Norway",
+    "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo",
+    "publishedAt": "2026-11-21T08:10:03.000Z"
+  },
+  {
     "id": "8dbe631aa2dbbd8d",
     "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
     "summary": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years.",
@@ -97,6 +133,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
     "publishedAt": "2026-11-21T06:00:53.000Z"
+  },
+  {
+    "id": "3bd15573705779b6",
+    "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
+    "summary": "The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
+    "publishedAt": "2026-11-21T06:00:52.000Z"
   },
   {
     "id": "ec0a4bcf030a68e2",
@@ -457,6 +502,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o",
     "publishedAt": "2026-11-20T22:57:26.000Z"
+  },
+  {
+    "id": "a8f641bc1705047c",
+    "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+    "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+    "publishedAt": "2026-11-20T22:53:24.000Z"
   },
   {
     "id": "4939f70f711bb596",
@@ -1294,59 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
     "publishedAt": "2026-11-20T14:00:32.000Z"
-  },
-  {
-    "id": "8c001dfe6421839d",
-    "title": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
-    "summary": "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income stream.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
-    "publishedAt": "2026-11-20T14:00:31.000Z"
-  },
-  {
-    "id": "c4b4ae37df7dbfd3",
-    "title": "‘Rebuild bridges’ and reset after Brexit: What we know about EU-UK deal",
-    "summary": "Agreements aim to simplify trade checks, link emissions systems and launch a youth mobility programme.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/uk-eu-deal-what-we-know-so-far?traffic_source=rss",
-    "publishedAt": "2026-11-20T13:59:17.000Z"
-  },
-  {
-    "id": "ae1a77b85ce2ff1c",
-    "title": "Myanmar dismisses the UN court's ruling on its responsibility for Rohingya genocide as 'unfair'",
-    "summary": "Myanmar’s government has dismissed a landmark judgment by the United Nations’ top court finding the country guilty of genocide against its Rohingya minority as “unfair.”",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/myanmar-dismisses-courts-ruling-responsibility-rohingya-genocide-unfair-138313854",
-    "publishedAt": "2026-11-20T13:46:32.000Z"
-  },
-  {
-    "id": "e2e5b18f28177fc6",
-    "title": "Saudi Arabia intercepts more Yemen Houthi missiles and drones, and other Mideast news",
-    "summary": "Saudi Arabia says Iran-backed Houthi rebels have fired more missiles and drones at the kingdom.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-yemen-houthi-missiles-drones-mideast-138314659",
-    "publishedAt": "2026-11-20T13:46:20.000Z"
-  },
-  {
-    "id": "c22b98232233eb41",
-    "title": "Italy strike draws workers, students into nationwide protests over wages and living costs",
-    "summary": "Italy is experiencing a nationwide strike disrupting schools, hospitals, and local transport.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/italy-strike-draws-workers-students-nationwide-protests-wages-138314660",
-    "publishedAt": "2026-11-20T13:46:11.000Z"
-  },
-  {
-    "id": "ed39a36a086fcad7",
-    "title": "France probes suspected leaks of confidential information to Le Pen’s far-right party",
-    "summary": "French authorities are investigating whether a former Interior Ministry official leaked confidential information to Marine Le Pen's far-right National Rally.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/france-probes-suspected-leaks-confidential-information-le-pens-138315239",
-    "publishedAt": "2026-11-20T13:45:29.000Z"
   }
 ]
