@@ -1,5 +1,59 @@
 [
   {
+    "id": "cfe33db7546f7f8e",
+    "title": "Sessions offer advice on rising energy costs",
+    "summary": "A council is urging people to seek support with rising energy costs on heating this winter.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo",
+    "publishedAt": "2026-11-21T12:09:49.000Z"
+  },
+  {
+    "id": "5cea83edc6af74e3",
+    "title": "‘Music was our teacher’: the sound system pioneers reviving the scene in Manchester and beyond",
+    "summary": "Manchester-based Megatone Sound Foundation and Baron Turbo Charge have rejuvenated the culture to offer a sense of belonging and empowerment.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/2026/nov/21/sound-system-pioneers-music-manchester-windrush",
+    "publishedAt": "2026-11-21T12:00:58.000Z"
+  },
+  {
+    "id": "d0727a3fe2f2db73",
+    "title": "Race to lead Senate Democrats the latest battlefield in party’s tussle over Israel",
+    "summary": "Chris Van Hollen and Chuck Schumer represent conflicting visions on issue that has become ‘litmus test’ for Democratic voters.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
+    "publishedAt": "2026-11-21T12:00:57.000Z"
+  },
+  {
+    "id": "6a0eab3ade2c167c",
+    "title": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
+    "summary": "Former captains Mohammad Rizwan and Shan Masood lose Pakistan central contracts, but Babar Azam and Salman Agha backed.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/pakistan-drop-rizwan-and-masood-but-babar-and-agha-backed-in-overhaul?traffic_source=rss",
+    "publishedAt": "2026-11-21T11:35:42.000Z"
+  },
+  {
+    "id": "f718a78b8a858f07",
+    "title": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
+    "summary": "A Russian strike on Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, has killed two people and wounded 60 others.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-138340723",
+    "publishedAt": "2026-11-21T11:22:38.000Z"
+  },
+  {
+    "id": "b28eefa3bc614ca7",
+    "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
+    "summary": "Thursday’s byelection in Castle Bromwich will be latest test for Nigel Farage’s party as rival eats into support.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
+    "publishedAt": "2026-11-21T11:08:14.000Z"
+  },
+  {
     "id": "42f62b2e7356a388",
     "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
     "summary": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.",
@@ -1294,59 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo",
     "publishedAt": "2026-11-20T16:41:52.000Z"
-  },
-  {
-    "id": "bde64cffa40e19a0",
-    "title": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
-    "summary": "Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss",
-    "publishedAt": "2026-11-20T16:40:35.000Z"
-  },
-  {
-    "id": "3eacaa80edda8f5e",
-    "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
-    "summary": "German chancellor says Qatar pledged $16.5bn in new investments as the two countries deepen defence and technology ties.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss",
-    "publishedAt": "2026-11-20T16:13:57.000Z"
-  },
-  {
-    "id": "3c8df5a3d8810e8a",
-    "title": "US Senate passes bill to speed up energy project approvals",
-    "summary": "The legislation aims to lower energy bills by making energy project approvals faster and limiting court challenges.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss",
-    "publishedAt": "2026-11-20T16:10:12.000Z"
-  },
-  {
-    "id": "e1feb04c3ab620af",
-    "title": "What is Vox, and how did Spain’s far-right party rise to prominence?",
-    "summary": "As Spain prepares to vote, Vox is campaigning on mass deportations and 'national priority'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence?traffic_source=rss",
-    "publishedAt": "2026-11-20T16:05:31.000Z"
-  },
-  {
-    "id": "f46463a92e746f5b",
-    "title": "Onlookers say botched Texas prison execution is like nothing they have ever seen",
-    "summary": "Reinaldo Dennes’ execution took more than an hour as workers struggled to find suitable veins.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/reinaldo-dennes-texas-execution-lethal-injection-botched",
-    "publishedAt": "2026-11-20T16:00:44.000Z"
-  },
-  {
-    "id": "373c703199e7e1e3",
-    "title": "Suki Waterhouse and Robert Pattinson to become Britain’s next big Hollywood power couple",
-    "summary": "Duo’s fame set to soar after Pattinson announced as next James Bond – but they will take newgen approach to power.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple",
-    "publishedAt": "2026-11-20T16:00:33.000Z"
   }
 ]
