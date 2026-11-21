@@ -1,5 +1,41 @@
 [
   {
+    "id": "0c08a6f395c3cc5b",
+    "title": "‘Like an invisible stealth tax’: ways to shield your cash from UK inflation",
+    "summary": "With living costs set to rise higher in 2027, here’s how you can help your savings and pension keep up with soaring prices.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/21/ways-to-shield-savings-pensions-from-uk-inflation-cost-of-living",
+    "publishedAt": "2026-11-21T07:00:52.000Z"
+  },
+  {
+    "id": "27289681dc07471e",
+    "title": "Athlete swims in Strait of Hormuz to highlight Iran war's impact on wildlife",
+    "summary": "British endurance swimmer Lewis Pugh has swum the Strait of Hormuz to highlight environmental threats during ongoing conflict.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/endurance-athlete-swims-strait-hormuz-highlight-iran-wars-138338972",
+    "publishedAt": "2026-11-21T06:53:49.000Z"
+  },
+  {
+    "id": "386215e0d4c0016a",
+    "title": "Russia dusts off its prewar demands as the US raises discussing European security at Ukraine talks",
+    "summary": "After nearly five years of fighting in Ukraine, the Kremlin is eagerly embracing a U.S. offer to discuss postwar European security.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/russia-dusts-off-prewar-demands-us-raises-discussing-138338870",
+    "publishedAt": "2026-11-21T06:39:23.000Z"
+  },
+  {
+    "id": "df1655ff078fbd9b",
+    "title": "Beating Ebola takes more than medicine – I saw what worked in west Africa a decade ago | Kayode Akintola",
+    "summary": "The outbreak in DR Congo is shaping up to be the worst ever, but the support of local faith leaders – and adequate funding – will be needed to bring it under control.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/nov/21/ebola-outbreak-congo-worst-ever",
+    "publishedAt": "2026-11-21T06:00:53.000Z"
+  },
+  {
     "id": "de7f6c902fce731b",
     "title": "Campaigners back call for scrutiny of consent laws by Joanne Young",
     "summary": "Experts say no law states third-party consent is a valid defence and call for public debate and further education.",
@@ -7,6 +43,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
     "publishedAt": "2026-11-21T06:00:53.000Z"
+  },
+  {
+    "id": "ec0a4bcf030a68e2",
+    "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+    "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
+    "publishedAt": "2026-11-21T06:00:09.000Z"
   },
   {
     "id": "36d89dc3ce5a7893",
@@ -1303,50 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
     "publishedAt": "2026-11-20T13:08:30.000Z"
-  },
-  {
-    "id": "974fdeb4375ac413",
-    "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-    "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
-    "publishedAt": "2026-11-20T13:01:16.000Z"
-  },
-  {
-    "id": "d544944123e0b4c1",
-    "title": "An entrepreneur fights for workers’ protections after his mom was fired after being assaulted at her Saks Fifth Avenue job",
-    "summary": "Jeff Vinokur is using his newly minted wealth from the sale of his edtech company to hold the retail store accountable.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/saks-fifth-avenue-worker-assault",
-    "publishedAt": "2026-11-20T13:00:30.000Z"
-  },
-  {
-    "id": "1c65bd77cc62ed4b",
-    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-    "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
-    "publishedAt": "2026-11-20T12:56:48.000Z"
-  },
-  {
-    "id": "db18afe3428cbd47",
-    "title": "Nations League quarterfinal draw: Spain face France, England play Norway",
-    "summary": "World Cup winners and European champions Spain have reached three of the four Nations League finals, winning in 2023.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss",
-    "publishedAt": "2026-11-20T12:44:58.000Z"
-  },
-  {
-    "id": "92faa8ab8cece3a0",
-    "title": "Texas death-row inmate screams as execution takes more than one hour",
-    "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo",
-    "publishedAt": "2026-11-20T12:42:37.000Z"
   }
 ]
