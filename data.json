@@ -1,5 +1,59 @@
 [
   {
+    "id": "c37c957c7736c8a2",
+    "title": "Tech Now",
+    "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc",
+    "publishedAt": "2026-11-21T01:00:00.000Z"
+  },
+  {
+    "id": "17e1c5c1e63b4f10",
+    "title": "ANC fights to keep control of South Africa's key cities after election setback",
+    "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo",
+    "publishedAt": "2026-11-21T00:34:51.000Z"
+  },
+  {
+    "id": "e5102d2b451f1adf",
+    "title": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+    "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instruct people to vote in a way that would benefit Liberal party.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+    "publishedAt": "2026-11-21T00:26:56.000Z"
+  },
+  {
+    "id": "db1918fa8a92243d",
+    "title": "Haiti strikes deal with El Salvador to build new prisons after minister visit",
+    "summary": "Haiti announces an agreement with El Salvador for the construction of a new prison.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/haiti-strikes-deal-el-salvador-build-new-prisons-138332512",
+    "publishedAt": "2026-11-21T00:17:44.000Z"
+  },
+  {
+    "id": "e2acd19c97da0e18",
+    "title": "Bolivian festival seeks to return guinea pig to nations' rituals",
+    "summary": "Guinea pigs, known as cuy in the Andes region, have enjoyed a day in their honor in Bolivia with races, and beauty and weight contests, organized by students promoting the rodent’s nutritional and economic value to Bolivian households.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/bolivian-festival-seeks-return-guinea-pig-nations-rituals-138333056",
+    "publishedAt": "2026-11-21T00:17:04.000Z"
+  },
+  {
+    "id": "d9d55b2a7cb96960",
+    "title": "Trump turns White House press conference into a 2028 succession audition",
+    "summary": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
+    "publishedAt": "2026-11-21T00:16:26.000Z"
+  },
+  {
     "id": "061f6c8fa6ba0386",
     "title": "Can AI really help spot Black Friday deals? We put it to the test",
     "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
@@ -216,6 +270,15 @@
     "publishedAt": "2026-11-20T21:38:25.000Z"
   },
   {
+    "id": "fd2811614640e90d",
+    "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+    "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+    "publishedAt": "2026-11-20T21:38:17.000Z"
+  },
+  {
     "id": "735fdf70ca9ea6aa",
     "title": "Machine Gods: Anthropic's early days",
     "summary": "In the wake of AI giant Anthropic's record-breaking IPO, Machine Gods hosts Kevin Roose and Casey Newton look back on the early days of the company, when less than 200 workers in a cramped office obsessed over AI safety and viewed business as an afterthought.",
@@ -367,6 +430,15 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-21/australia-strikes-deal-on-ai-talks-with-china-after-apec/107411592",
     "publishedAt": "2026-11-20T19:12:47.000Z"
+  },
+  {
+    "id": "2af93e3b8100433c",
+    "title": "White House removes cyber-security chief after series of tech outages",
+    "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
+    "publishedAt": "2026-11-20T19:03:56.000Z"
   },
   {
     "id": "7a65904af0ba1b33",
@@ -1276,77 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/20/allies-email-trump-pardon-election-deniers",
     "publishedAt": "2026-11-20T11:00:31.000Z"
-  },
-  {
-    "id": "dc4abeffea47e7ab",
-    "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-    "summary": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-    "publishedAt": "2026-11-20T11:00:31.000Z"
-  },
-  {
-    "id": "eb38042c0b5cd1ef",
-    "title": "‘I agree with the president’: incoming senator Abdul El-Sayed seeks to help Trump end military aid to Israel",
-    "summary": "Michigan senator-elect also secured a meeting with JD Vance, who called him a ‘terrible evil’ in lead-up to election.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/el-sayed-trump-israel-aid",
-    "publishedAt": "2026-11-20T11:00:29.000Z"
-  },
-  {
-    "id": "4e73c3befc3e3efc",
-    "title": "Nearly 600 women killed in South Africa within three months",
-    "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o",
-    "publishedAt": "2026-11-20T10:56:02.000Z"
-  },
-  {
-    "id": "3c8c58662f49f959",
-    "title": "Unidentified object looks to have crashed in Poland after Russian attacks in Ukraine",
-    "summary": "The Polish military is investigating a “suspected violation” of the country’s airspace near the Ukrainian border after officials sought to retrieve an unidentified object that had apparently crash-landed.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/unidentified-object-appears-crashed-poland-after-russian-attacks-138315055",
-    "publishedAt": "2026-11-20T10:55:19.000Z"
-  },
-  {
-    "id": "08f2088455cff969",
-    "title": "How to get a bigger Black Friday bargain: cashback, price matches and gift cards",
-    "summary": "From cashback on what you buy to cut-price gift cards, we offer tips on how to maximise savings on your shopping.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/20/black-friday-uk-bargain-cashback-gift-cards-savings",
-    "publishedAt": "2026-11-20T10:39:26.000Z"
-  },
-  {
-    "id": "b9341d8d5dfb22aa",
-    "title": "Drone operator removes Man United training footage and issues apology",
-    "summary": "The footage, filmed during new manager Mauricio Pochettino's first training session, was uploaded online.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
-    "publishedAt": "2026-11-20T10:37:20.000Z"
-  },
-  {
-    "id": "4cbd4e9e8f863b20",
-    "title": "What are heat pumps and how much do they cost?",
-    "summary": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o",
-    "publishedAt": "2026-11-20T10:24:52.000Z"
-  },
-  {
-    "id": "9097a55787b7ffc6",
-    "title": "South Korea catches 111 students with new measures against exam cheating",
-    "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo",
-    "publishedAt": "2026-11-20T10:16:19.000Z"
   }
 ]
