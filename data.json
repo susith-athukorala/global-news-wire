@@ -1,5 +1,68 @@
 [
   {
+    "id": "efe791339806547e",
+    "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+    "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+    "publishedAt": "2026-11-21T18:08:55.000Z"
+  },
+  {
+    "id": "7ac6d14389feef65",
+    "title": "Trump orders contractors to check with White House over any congressional inquiries",
+    "summary": "Anticipating flood of Democratic requests, US president issues executive order in attempt to stymie oversight efforts.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
+    "publishedAt": "2026-11-21T18:08:30.000Z"
+  },
+  {
+    "id": "11a79bbce9a7451d",
+    "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+    "summary": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+    "publishedAt": "2026-11-21T17:46:55.000Z"
+  },
+  {
+    "id": "e50ea8f0b383a59e",
+    "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
+    "summary": "One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
+    "publishedAt": "2026-11-21T17:28:51.000Z"
+  },
+  {
+    "id": "5cbcf31514b33551",
+    "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
+    "summary": "US vice-president says it’s not his place to second-guess the president, but refrains from endorsing Trump’s claim.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
+    "publishedAt": "2026-11-21T17:24:51.000Z"
+  },
+  {
+    "id": "5d55bd6f854c8751",
+    "title": "Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League",
+    "summary": "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
+    "publishedAt": "2026-11-21T17:21:37.000Z"
+  },
+  {
+    "id": "cf79c26c0f5c1fb9",
+    "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+    "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+    "publishedAt": "2026-11-21T17:20:03.000Z"
+  },
+  {
     "id": "3500af305ed03afd",
     "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
     "summary": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers.",
@@ -1285,68 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
     "publishedAt": "2026-11-20T19:57:05.000Z"
-  },
-  {
-    "id": "4fa85ae7ae72f760",
-    "title": "Trump threatens ban on US firms building AI data centres overseas",
-    "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
-    "publishedAt": "2026-11-20T19:51:52.000Z"
-  },
-  {
-    "id": "c7c292cd88703f22",
-    "title": "Gérard Depardieu and French author investigated over sexual allegations",
-    "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo",
-    "publishedAt": "2026-11-20T19:45:20.000Z"
-  },
-  {
-    "id": "04cee6e2e64103da",
-    "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
-    "summary": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
-    "publishedAt": "2026-11-20T19:40:07.000Z"
-  },
-  {
-    "id": "5f9e6b5ffe183b7e",
-    "title": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
-    "summary": "Jamie Dimon says he is ‘setting an example’ in seeking to claw back Labour’s increase in surcharge, from 3% to 6%.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
-    "publishedAt": "2026-11-20T19:38:59.000Z"
-  },
-  {
-    "id": "ac72bf8df42ae789",
-    "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-    "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo",
-    "publishedAt": "2026-11-20T19:27:49.000Z"
-  },
-  {
-    "id": "c262f425bba41b2e",
-    "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
-    "summary": "Christmas comedy hit is set for a follow-up from the point of view of the father with Seth Rogen as writer and producer.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
-    "publishedAt": "2026-11-20T19:18:20.000Z"
-  },
-  {
-    "id": "51bdd196589ee62e",
-    "title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
-    "summary": "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
-    "publishedAt": "2026-11-20T19:15:18.000Z"
   }
 ]
