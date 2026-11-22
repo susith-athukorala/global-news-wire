@@ -1,5 +1,50 @@
 [
   {
+    "id": "cc6d817be8060122",
+    "title": "Hydrogen energy company cuts staff two months after $49m federal grant",
+    "summary": "Two months after receiving a grant to expand into commercial manufacturing, a move expected to create 40 new jobs, Port Kembla company Hysata cuts 17 staff.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-23/hydrogen-company-hysata-cuts-jobs-after-49m-grant/107410440",
+    "publishedAt": "2026-11-22T22:43:15.000Z"
+  },
+  {
+    "id": "4e7af9af598a2a32",
+    "title": "Ukraine war spilling into NATO territory",
+    "summary": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+    "publishedAt": "2026-11-22T22:40:22.000Z"
+  },
+  {
+    "id": "897a7c844452ff84",
+    "title": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+    "summary": "A company working for President Trump's son-in-law Jared Kushner purchased 300 acres of Albanian land for more than $130 million in April. But Albanians in the area tell NPR this is not Kushner's land -- it's theirs.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
+    "publishedAt": "2026-11-22T22:39:47.000Z"
+  },
+  {
+    "id": "c36cd7f669a1d161",
+    "title": "Trump to host private dinner for largest owners of his meme coin",
+    "summary": "Sunday's dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
+    "publishedAt": "2026-11-22T22:37:38.000Z"
+  },
+  {
+    "id": "7e276867e62f67c5",
+    "title": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
+    "summary": "Much-loved broadcaster played a critical role in exposing rest of the world to Australian music – and vice versa.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83",
+    "publishedAt": "2026-11-22T22:24:56.000Z"
+  },
+  {
     "id": "109f006a5b07536e",
     "title": "Democrats win largest House majority since 1992 with North Carolina seat",
     "summary": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
@@ -702,6 +747,15 @@
     "publishedAt": "2026-11-22T11:37:52.000Z"
   },
   {
+    "id": "e201a12a5d699bde",
+    "title": "US 'missteps' cost them power and influence in Asia, report finds",
+    "summary": "The gap between US and Chinese military capabilities in Asia is now the narrowest on record, though this reflects a decline in US power rather than a rise in China's.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-22/us-loses-influence-in-asia-as-china-gains-in-lowy-power-index/107411514",
+    "publishedAt": "2026-11-22T11:32:15.000Z"
+  },
+  {
     "id": "9cf5484351a494b4",
     "title": "The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington",
     "summary": "‘Raising growth in every postcode’ has been the PM’s rallying cry but deep regional disparities and rising energy bills pose problems this winter.",
@@ -1251,6 +1305,15 @@
     "publishedAt": "2026-11-21T23:44:00.000Z"
   },
   {
+    "id": "8dbb5efc4b25ef21",
+    "title": "At least 24 dead in Nigeria when boat going to funeral capsizes",
+    "summary": "Authorities haven't said how many passengers were believed to be on board.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/24-dead-nigeria-boat-capsizes-carrying-people-funeral-138348287",
+    "publishedAt": "2026-11-21T23:06:21.000Z"
+  },
+  {
     "id": "325f1a2a1c9a284c",
     "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
     "summary": "Body of a man in his 20s discovered by police who were sent to investigate the shooting of an officer, who is in a serious but stable condition.",
@@ -1285,68 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
     "publishedAt": "2026-11-21T22:01:40.000Z"
-  },
-  {
-    "id": "b01c4c2b305a2980",
-    "title": "Highlights and challenges from covering an historic month in South America",
-    "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
-    "publishedAt": "2026-11-21T22:01:35.000Z"
-  },
-  {
-    "id": "0a89d776917aa587",
-    "title": "A grieving family in Lebanon returns to their village",
-    "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
-    "publishedAt": "2026-11-21T22:01:32.000Z"
-  },
-  {
-    "id": "cabda8bbd81bfa0e",
-    "title": "Lock of former US President George Washington's hair sells for $4,000",
-    "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do",
-    "publishedAt": "2026-11-21T22:01:19.000Z"
-  },
-  {
-    "id": "c5f200bbc78329a5",
-    "title": "Russian cargo ship burns in Baltic Sea after drone strike",
-    "summary": "Finland says Ukraine was likely behind an attack on Russian cargo ship Sparta II in the Baltic Sea.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-22/russian-cargo-ship-burns-in-baltic-sea-after-drone-strike/107413782",
-    "publishedAt": "2026-11-21T21:52:45.000Z"
-  },
-  {
-    "id": "634fcadcb1799e68",
-    "title": "Bahrain says Iranian attack causes fire at industrial facility",
-    "summary": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
-    "publishedAt": "2026-11-21T21:31:03.000Z"
-  },
-  {
-    "id": "bd54b97073b41a33",
-    "title": "'It gives me the ick': Can you cheat on someone with a video game?",
-    "summary": "Grand Theft Auto VI lets you build and nurture a romantic relationship but some say dates with a fictional character are a step too far.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo",
-    "publishedAt": "2026-11-21T21:21:57.000Z"
-  },
-  {
-    "id": "98d5d76471e03648",
-    "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
-    "summary": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
-    "publishedAt": "2026-11-21T21:02:18.000Z"
   }
 ]
