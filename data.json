@@ -1026,6 +1026,15 @@
     "publishedAt": "2026-11-21T20:55:16.000Z"
   },
   {
+    "id": "5b6c5cedadbc09fc",
+    "title": "11 killed in burst of violence in northern Mexico after capture of cartel leader",
+    "summary": "At least 11 people have been killed in a burst of violence in Mexico’s Sinaloa state.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/mexico-detains-top-cartel-boss-el-chapo-isidro-138341584",
+    "publishedAt": "2026-11-21T20:50:13.000Z"
+  },
+  {
     "id": "c902a31706b5ef7e",
     "title": "Thousands protest across Europe over living costs and housing",
     "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
@@ -1339,14 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
     "publishedAt": "2026-11-21T15:00:01.000Z"
-  },
-  {
-    "id": "5f7e494dc48ee2bc",
-    "title": "Federal judge denies request to release man shot by immigration agents in New York",
-    "summary": "Oscar Belgal, a Dominican national, was shot by ICE agents as he drove his five-year-old son home from school.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
-    "publishedAt": "2026-11-21T14:52:30.000Z"
   }
 ]
