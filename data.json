@@ -1,5 +1,68 @@
 [
   {
+    "id": "6cfafb674561f3f2",
+    "title": "Conservative media weighs its future as cracks emerge in Trump’s movement",
+    "summary": "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on Maga.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
+    "publishedAt": "2026-11-22T11:00:26.000Z"
+  },
+  {
+    "id": "0ea430def48395d9",
+    "title": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
+    "summary": "Billionaire commerce secretary faces scrutiny after sex scandal reveals his role in sales of chips to China.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
+    "publishedAt": "2026-11-22T11:00:26.000Z"
+  },
+  {
+    "id": "967160e59a88daf2",
+    "title": "Arizona grandfather hailed as a hero after finding missing toddler in desert",
+    "summary": "Jay Stewart joined search party after two-year-old Vella Campillo wandered off into desert from front yard of home.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/22/arizona-grandfather-toddler-missing-desert",
+    "publishedAt": "2026-11-22T11:00:25.000Z"
+  },
+  {
+    "id": "2606cafd4f33a621",
+    "title": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
+    "summary": "Exporters welcome end in sight for Brexit checks – but are frustrated that implementation will take so long.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
+    "publishedAt": "2026-11-22T11:00:24.000Z"
+  },
+  {
+    "id": "5c6eae0d839d5fef",
+    "title": "Exquisitely decorated home of Victorian workman David Parr wins blue plaque",
+    "summary": "Working-class man who covered mansions with William Morris’s patterns spent his nights filling his Cambridge terrace house with his own designs.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/nov/22/exquisitely-decorated-home-of-victorian-workman-david-parr-wins-blue-plaque-cambridge",
+    "publishedAt": "2026-11-22T10:59:28.000Z"
+  },
+  {
+    "id": "8864c85aaebc7531",
+    "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+    "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro",
+    "publishedAt": "2026-11-22T10:44:12.000Z"
+  },
+  {
+    "id": "06b2152cf89272d5",
+    "title": "Russian cargo ship still on fire off Finland after drone attack",
+    "summary": "The ship, bound for Russia's Kaliningrad, was damaged in international waters before drifting into Finnish territory.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
+    "publishedAt": "2026-11-22T10:39:50.000Z"
+  },
+  {
     "id": "c1d19bebb454a090",
     "title": "‘Intimidating’ vigilantes posing as far-right security on the rise, UK experts say",
     "summary": "Volunteers in black uniforms and body armour increasingly seen with figures such as Tommy Robinson.",
@@ -1285,68 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
     "publishedAt": "2026-11-21T10:00:00.000Z"
-  },
-  {
-    "id": "b0a88f7fc7d22737",
-    "title": "Verstappen escapes Vegas F1 discipline, takes pole as Antonelli penalised",
-    "summary": "Max Verstappen escapes discipline in Vegas F1 practice after run-ins and takes pole as Kimi Antonelli hit with penalty.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/21/verstappen-escapes-las-vegas-discipline-takes-pole-as-antonelli-penalised?traffic_source=rss",
-    "publishedAt": "2026-11-21T09:58:59.000Z"
-  },
-  {
-    "id": "7ec96e3adde6a5bf",
-    "title": "Black Friday deals for liquid Brazilian butt lifts criticised over safety fears",
-    "summary": "Experts say BBLs and other cosmetic procedures can be risky and seasonal offers at clinics in England could make people rush decisions.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears",
-    "publishedAt": "2026-11-21T09:52:52.000Z"
-  },
-  {
-    "id": "398adce4c4a50a02",
-    "title": "China commits to low-carbon electrification and help for others to improve",
-    "summary": "Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
-    "publishedAt": "2026-11-21T09:47:57.000Z"
-  },
-  {
-    "id": "d0d19939b320e45a",
-    "title": "Rejoining EU ‘on the table’ as UK strikes deals on trade and young people",
-    "summary": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
-    "publishedAt": "2026-11-21T09:45:52.000Z"
-  },
-  {
-    "id": "ec0a4bcf030a68e2",
-    "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-    "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
-    "publishedAt": "2026-11-21T09:40:55.000Z"
-  },
-  {
-    "id": "aa64eb9f2bcc5789",
-    "title": "Sandpapergate: Cummins has Australia’s ‘unanimous support’ as Test captain",
-    "summary": "Pat Cummins to remain Test captain after Cricket Australia back cricketer following cheating scandal in South Africa.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/21/cummins-wins-cricket-australias-unanimous-support-as-test-captain-sandpapergate?traffic_source=rss",
-    "publishedAt": "2026-11-21T09:38:29.000Z"
-  },
-  {
-    "id": "e86869f8921697db",
-    "title": "FBI reportedly investigating apparent hack of its criminal database",
-    "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-    "publishedAt": "2026-11-21T09:34:20.000Z"
   }
 ]
