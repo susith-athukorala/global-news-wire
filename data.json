@@ -1,5 +1,41 @@
 [
   {
+    "id": "6d237cbadb79f401",
+    "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ US healthcare proposal",
+    "summary": "Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to pass.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
+    "publishedAt": "2026-11-22T22:01:17.000Z"
+  },
+  {
+    "id": "5ef7582c1147383f",
+    "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the failure to say the f-word is not his alone",
+    "summary": "Australia’s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking point.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
+    "publishedAt": "2026-11-22T21:46:40.000Z"
+  },
+  {
+    "id": "365b4c7077e607d8",
+    "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
+    "summary": "Parties remain split over who will lead the next government and whether far-right minister Itamar Ben-Gvir will join.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
+    "publishedAt": "2026-11-22T21:33:11.000Z"
+  },
+  {
+    "id": "3797ce7f617bdf99",
+    "title": "Heartbreak in US capital as Washington Spirit lose women’s football final",
+    "summary": "KC Current win NWSL championship as Spirit lose third consecutive final despite playing in front of rowdy home crowd.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
+    "publishedAt": "2026-11-22T21:26:12.000Z"
+  },
+  {
     "id": "16bb4b229baf69d1",
     "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
     "summary": "Jay Clayton was pressed on Trump’s characterization of Putin during media appearances on Sunday.",
@@ -88,6 +124,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
     "publishedAt": "2026-11-22T19:00:34.000Z"
+  },
+  {
+    "id": "bbda56ca67938c35",
+    "title": "Australia's neighbour 'heading towards disaster' with oil and gas project, experts say",
+    "summary": "Timor-Leste says Russian and Chinese companies have expressed an interest in the country's multi-billion-dollar Greater Sunrise project, despite a leading analyst saying it will \"bankrupt\" the country. Is oil and gas project on Australia's doorstep heading for 'disaster'?",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-23/greater-sunrise-timor-leste-russia-china-oil-gas/107383394",
+    "publishedAt": "2026-11-22T18:47:12.000Z"
   },
   {
     "id": "445b003be1d25975",
@@ -927,6 +972,15 @@
     "publishedAt": "2026-11-22T06:38:26.000Z"
   },
   {
+    "id": "c28c0306a038ff61",
+    "title": "'One-in-2,000-year weather' to be investigated post-blackout",
+    "summary": "The SA government says the suggestion that a \"one-in-2,000-year weather event\" was responsible for the Eyre Peninsula blackout will be critically examined amid ongoing fallout from the incident.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-22/eyre-peninsula-blackout-weather-to-be-investigated/107404306",
+    "publishedAt": "2026-11-22T06:06:26.000Z"
+  },
+  {
     "id": "cd3f9ca39c7787eb",
     "title": "Dozens missing after fire at Indonesian factory",
     "summary": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
@@ -1060,6 +1114,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
     "publishedAt": "2026-11-22T03:34:02.000Z"
+  },
+  {
+    "id": "0e341a0ac0dc0ca9",
+    "title": "‘We’ve got to stop the war’: Endurance athlete swims in Strait of Hormuz",
+    "summary": "As tankers are attacked and blown up nearby, 56-year-old Englishman Lewis Pugh swims in the Strait of Hormuz to draw attention to how the conflict is threatening the area's habitat and wildlife.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-22/strait-of-hormuz-swimmer-highlights-iran-war-impact-on-wildlife/107414066",
+    "publishedAt": "2026-11-22T02:47:18.000Z"
   },
   {
     "id": "f152d2776513f0f0",
@@ -1285,68 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/24-dead-nigeria-boat-capsizes-carrying-people-funeral-138348287",
     "publishedAt": "2026-11-21T20:55:16.000Z"
-  },
-  {
-    "id": "5b6c5cedadbc09fc",
-    "title": "11 killed in burst of violence in northern Mexico after capture of cartel leader",
-    "summary": "At least 11 people have been killed in a burst of violence in Mexico’s Sinaloa state.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/mexico-detains-top-cartel-boss-el-chapo-isidro-138341584",
-    "publishedAt": "2026-11-21T20:50:13.000Z"
-  },
-  {
-    "id": "c902a31706b5ef7e",
-    "title": "Thousands protest across Europe over living costs and housing",
-    "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
-    "publishedAt": "2026-11-21T20:47:50.000Z"
-  },
-  {
-    "id": "fa6445c868464642",
-    "title": "Eisenkot invites Netanyahu's party to Israeli coalition talks",
-    "summary": "Gadi Eisenkot's Yashar party has invited Israeli Prime Minister Benjamin Netanyahu's Likud party to coalition talks.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-22/gadi-eisenkot-invites-benjamin-netanyahu-israeli-coalition-talks/107413714",
-    "publishedAt": "2026-11-21T20:41:17.000Z"
-  },
-  {
-    "id": "4411aba23093ba4d",
-    "title": "Bayer reaches Roundup settlement that could cost the company billions",
-    "summary": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
-    "publishedAt": "2026-11-21T20:37:35.000Z"
-  },
-  {
-    "id": "2ae034849a56f5f6",
-    "title": "Recall of coloured sand in NZ raises 'serious alarm bells'",
-    "summary": "CHOICE is calling for \"urgent investigations\" into coloured sand products in Australia, which have recently been recalled in New Zealand due to asbestos.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-22/choice-faber-castell-recall-new-zealand/107412296",
-    "publishedAt": "2026-11-21T20:34:11.000Z"
-  },
-  {
-    "id": "fb37a339a98376d9",
-    "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
-    "summary": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
-    "publishedAt": "2026-11-21T20:15:13.000Z"
-  },
-  {
-    "id": "a483f4d15ca0a193",
-    "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
-    "summary": "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
-    "publishedAt": "2026-11-21T19:53:00.000Z"
   }
 ]
