@@ -1,5 +1,32 @@
 [
   {
+    "id": "a6ca28dfe395ec2a",
+    "title": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
+    "summary": "State faces electricity supply gap when Yallourn coal-fired power station closes in 2028 as experts warn neither Labor nor the Coalition has adequate plans.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
+    "publishedAt": "2026-11-22T01:00:13.000Z"
+  },
+  {
+    "id": "1a833297790b9635",
+    "title": "Fred Nile, former NSW politician and figurehead of the rightwing Christian Democratic party, dies aged 92",
+    "summary": "Controversial figure frequently took positions against drug use, abortion and homosexuality, but in later years supported legislation expunging homosexual convictions.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92",
+    "publishedAt": "2026-11-22T00:26:35.000Z"
+  },
+  {
+    "id": "fba1ce7349f13f79",
+    "title": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
+    "summary": "US justice department brings charges against group after at least 36 trains burglarized for shoes and tools.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
+    "publishedAt": "2026-11-22T00:20:41.000Z"
+  },
+  {
     "id": "f03a82a7ba205934",
     "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
     "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
@@ -1321,32 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o",
     "publishedAt": "2026-11-21T00:06:11.000Z"
-  },
-  {
-    "id": "dac87da1566eceac",
-    "title": "NI doctors' strike due to end, with separate walkout planned for Monday",
-    "summary": "Consultants and specialist doctors will begin a separate 24-hour strike on Monday morning as part of the same pay dispute.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6d71e9epe8qo",
-    "publishedAt": "2026-11-21T00:02:22.000Z"
-  },
-  {
-    "id": "d836d8ed0f497e05",
-    "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
-    "summary": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw9874p114dro",
-    "publishedAt": "2026-11-21T00:02:09.000Z"
-  },
-  {
-    "id": "89fcbe70d366afaa",
-    "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-    "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo",
-    "publishedAt": "2026-11-21T00:01:39.000Z"
   }
 ]
