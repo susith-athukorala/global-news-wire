@@ -1,5 +1,32 @@
 [
   {
+    "id": "16bb4b229baf69d1",
+    "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
+    "summary": "Jay Clayton was pressed on Trump’s characterization of Putin during media appearances on Sunday.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+    "publishedAt": "2026-11-22T20:55:33.000Z"
+  },
+  {
+    "id": "58ba47aabdb3efc8",
+    "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+    "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno",
+    "publishedAt": "2026-11-22T20:26:24.000Z"
+  },
+  {
+    "id": "a8188fc285368e32",
+    "title": "Liverpool 4-0 Manchester United: Five key takeaways for Pochettino",
+    "summary": "United suffer their worst result under a new manager in 100 years as Liverpool cruise past Mauricio Pochettino's side.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/22/liverpool-4-0-manchester-united-the-key-takeaways-for-pochettino?traffic_source=rss",
+    "publishedAt": "2026-11-22T20:04:12.000Z"
+  },
+  {
     "id": "fb61cc4234e2e4e6",
     "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
     "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips.",
@@ -70,6 +97,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
     "publishedAt": "2026-11-22T18:45:30.000Z"
+  },
+  {
+    "id": "926986a6893bb915",
+    "title": "Struggling to afford your mortgage? You are not alone",
+    "summary": "Knowing your options when it comes to managing your mortgage can be a great stress reliever, even if you never need to use them.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-23/can-not-pay-your-mortgage-what-to-do/107413984",
+    "publishedAt": "2026-11-22T18:45:00.000Z"
   },
   {
     "id": "ee99e3bdcaf063a4",
@@ -160,6 +196,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
     "publishedAt": "2026-11-22T17:32:14.000Z"
+  },
+  {
+    "id": "4c9d70de279cb63c",
+    "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+    "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
+    "publishedAt": "2026-11-22T17:18:26.000Z"
   },
   {
     "id": "5dc8b441a877238e",
@@ -963,6 +1008,15 @@
     "publishedAt": "2026-11-22T05:21:01.000Z"
   },
   {
+    "id": "8a6fc7fa9552937d",
+    "title": "COP31 struggles to reach deal with parties at odds over fossil fuels",
+    "summary": "The language around fossil fuels remains a flashpoint at UN climate talks in Türkiye, where negotiations have gone into a second day past the deadline.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-22/cop31-at-odds-over-fossil-fuels/107414330",
+    "publishedAt": "2026-11-22T05:04:51.000Z"
+  },
+  {
     "id": "f908da6e29c938c7",
     "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
     "summary": "Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing.",
@@ -1294,59 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
     "publishedAt": "2026-11-21T19:53:00.000Z"
-  },
-  {
-    "id": "9a3029a5f62b7df4",
-    "title": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
-    "summary": "Cop31 summit ‘unravelling’ as governments fail to agree on transition to renewables and aid for developing countries.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
-    "publishedAt": "2026-11-21T19:43:52.000Z"
-  },
-  {
-    "id": "6bb0948a08a8b60c",
-    "title": "Man charged with attempted murder after councillor stabbed in Bradford",
-    "summary": "Arfan Ali, 31, has also been charged with assault and possession of an offensive weapon in a public place.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
-    "publishedAt": "2026-11-21T19:42:42.000Z"
-  },
-  {
-    "id": "27289681dc07471e",
-    "title": "Athlete swims in Strait of Hormuz to highlight Iran war's impact on wildlife",
-    "summary": "British endurance swimmer Lewis Pugh has swum the Strait of Hormuz to highlight environmental threats during ongoing conflict.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/endurance-athlete-swims-strait-hormuz-highlight-iran-wars-138338972",
-    "publishedAt": "2026-11-21T19:22:13.000Z"
-  },
-  {
-    "id": "f5546c3da205076b",
-    "title": "Taiwan warns Canada faces the China risks Carney has cautioned against",
-    "summary": "Canadian Prime Minister Mark Carney has tried to deepen trade ties with China.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/taiwan-warns-canada-faces-china-risks-carney-cautioned-138346706",
-    "publishedAt": "2026-11-21T19:14:06.000Z"
-  },
-  {
-    "id": "cdabda9f591abb40",
-    "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
-    "summary": "A government in office for more than two years is finally forced to take responsibility and seemingly no longer able to blame its Labor predecessors.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
-    "publishedAt": "2026-11-21T19:00:08.000Z"
-  },
-  {
-    "id": "3977b4ac2205104f",
-    "title": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
-    "summary": "Copini Beauty referred to New South Wales health regulators, while federal government says it is ‘deeply concerned’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
-    "publishedAt": "2026-11-21T19:00:07.000Z"
   }
 ]
