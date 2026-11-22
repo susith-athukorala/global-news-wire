@@ -1,5 +1,14 @@
 [
   {
+    "id": "109f006a5b07536e",
+    "title": "Democrats win largest House majority since 1992 with North Carolina seat",
+    "summary": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
+    "publishedAt": "2026-11-22T22:19:47.000Z"
+  },
+  {
     "id": "6d237cbadb79f401",
     "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ US healthcare proposal",
     "summary": "Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to pass.",
@@ -178,6 +187,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
     "publishedAt": "2026-11-22T18:25:42.000Z"
+  },
+  {
+    "id": "6249533009fcbdd6",
+    "title": "Some river hatcheries are having discharge limits set for the first time",
+    "summary": "Tasmania is dotted with salmon hatcheries that have river water flowing through them, emitting nutrients back into waterways. Some are having firm limits set for the first time, but data shows it could be a challenge to meet them.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-23/tasmania-salmon-hatcheries-discharge-limits/107408108",
+    "publishedAt": "2026-11-22T18:20:01.000Z"
   },
   {
     "id": "233527ac46cd3e5c",
@@ -1330,23 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
     "publishedAt": "2026-11-21T21:02:18.000Z"
-  },
-  {
-    "id": "dd194f367fab44eb",
-    "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-    "summary": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
-    "publishedAt": "2026-11-21T20:56:35.000Z"
-  },
-  {
-    "id": "8dbb5efc4b25ef21",
-    "title": "24 dead in Nigeria when boat capsizes while carrying people to a funeral",
-    "summary": "Nigeria's emergency services say that a boat carrying people to a funeral has capsized and that at least 24 people have died.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/24-dead-nigeria-boat-capsizes-carrying-people-funeral-138348287",
-    "publishedAt": "2026-11-21T20:55:16.000Z"
   }
 ]
