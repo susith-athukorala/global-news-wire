@@ -1,5 +1,32 @@
 [
   {
+    "id": "969b3e367a9a8e12",
+    "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
+    "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+    "publishedAt": "2026-11-22T16:55:49.000Z"
+  },
+  {
+    "id": "e0aab1d66fdb83b1",
+    "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+    "summary": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term 'fossil fuels'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
+    "publishedAt": "2026-11-22T16:33:26.000Z"
+  },
+  {
+    "id": "4fa2e6869078e762",
+    "title": "International climate talks end in disappointment",
+    "summary": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement after conflict over fossil fuels - the primary driver of fossil fuels.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+    "publishedAt": "2026-11-22T16:33:22.000Z"
+  },
+  {
     "id": "9e0e59e94b700d88",
     "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
     "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere.",
@@ -1321,32 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
     "publishedAt": "2026-11-21T15:20:43.000Z"
-  },
-  {
-    "id": "4e974cea1067bf12",
-    "title": "Independent review ordered into surgery carried out by NHS Grampian",
-    "summary": "It follows a whistleblower's leaking of a document which shows there were 19 avoidable deaths at the health board.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr62pxzyql1jo",
-    "publishedAt": "2026-11-21T15:15:29.000Z"
-  },
-  {
-    "id": "f39079c7c71e6eb6",
-    "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-    "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
-    "publishedAt": "2026-11-21T15:01:18.000Z"
-  },
-  {
-    "id": "00e77640c25aba0e",
-    "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
-    "summary": "The viral satirization of the caregiving burden left to women and daughters hit home for many viewers.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
-    "publishedAt": "2026-11-21T15:00:01.000Z"
   }
 ]
