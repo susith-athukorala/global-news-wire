@@ -1,5 +1,59 @@
 [
   {
+    "id": "3d8d91e95743101e",
+    "title": "Max Verstappen wins F1 Las Vegas Grand Prix for third time in four years",
+    "summary": "Red Bull's Verstappen dug deep to fend off Antonelli and Russell in a race that saw a jaw-dropping 35 lead changes.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
+    "publishedAt": "2026-11-22T07:48:28.000Z"
+  },
+  {
+    "id": "ed7511bdf5f5b434",
+    "title": "Indonesia factory fire kills three, 36 missing",
+    "summary": "At least 15 people rescued, including four taken to hospital, as authorities say it is unclear what caused the blaze.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss",
+    "publishedAt": "2026-11-22T07:46:35.000Z"
+  },
+  {
+    "id": "c7a127b3b6fda3f9",
+    "title": "Midwives told to expect fewer jobs as recruitment drive is paused",
+    "summary": "One graduate said she would take minimum wage to get her first job in widwifery.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck24e1j762y6o",
+    "publishedAt": "2026-11-22T07:46:28.000Z"
+  },
+  {
+    "id": "624fc5d1f4a5e62d",
+    "title": "Wembanyama scores 50 points, bags 19 rebounds in Spurs’ 14th win of season",
+    "summary": "Wembanyama was just shy of his career-high score of 52 points, set in a victory over Dallas on November 4.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/22/wembanyama-scores-50-points-bags-19-rebounds-in-spurs-14th-win-of-season?traffic_source=rss",
+    "publishedAt": "2026-11-22T07:44:37.000Z"
+  },
+  {
+    "id": "c96c1ed2d4eb4dc8",
+    "title": "MP criticises Guernsey and Jersey company ownership register plans",
+    "summary": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo",
+    "publishedAt": "2026-11-22T07:22:05.000Z"
+  },
+  {
+    "id": "2c8bfaa220e8f4fe",
+    "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+    "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
+    "publishedAt": "2026-11-22T07:12:41.000Z"
+  },
+  {
     "id": "3684e9678abe9669",
     "title": "Fire at confectionary factory in Indonesia leaves at least three dead and dozens missing",
     "summary": "Relatives of the missing victims flocked to the factory’s entrance, seeking updates about their loved ones.",
@@ -9,6 +63,15 @@
     "publishedAt": "2026-11-22T07:11:17.000Z"
   },
   {
+    "id": "5c32e616b4802ccd",
+    "title": "‘A Nintendo Switch – yes, I know I’m 67’: the best gifts for every generation, picked by real people aged 2 to 103",
+    "summary": "We asked everyone from gen Alpha preschoolers to retired boomers, celebs and Guardian writers what’s on their gift list this year – here’s what they said.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2026/nov/22/best-christmas-gifts-every-generation-uk",
+    "publishedAt": "2026-11-22T07:00:21.000Z"
+  },
+  {
     "id": "634423e927703cea",
     "title": "Unreal deals: the scam websites targeting Black Friday bargain hunters",
     "summary": "AI is being used to clone retailers’ sites and ‘poison’ chatbots into recommending them, experts say.",
@@ -16,6 +79,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/money/2026/nov/22/black-friday-scam-deals--ai-fake-storefront",
     "publishedAt": "2026-11-22T07:00:20.000Z"
+  },
+  {
+    "id": "bd0c1f68734ffe4a",
+    "title": "Why Somalia’s president turned against his former ally, the UAE",
+    "summary": "Behind Somalia's break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
+    "publishedAt": "2026-11-22T06:59:59.000Z"
   },
   {
     "id": "45be79e617b4c214",
@@ -232,6 +304,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo",
     "publishedAt": "2026-11-22T00:09:58.000Z"
+  },
+  {
+    "id": "fe71d9b3a355d1d0",
+    "title": "Employers are being asked to give interview feedback - here's what applicants want",
+    "summary": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo",
+    "publishedAt": "2026-11-22T00:04:07.000Z"
   },
   {
     "id": "0cdc2ecf2eb91d84",
@@ -1267,86 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6d71e9epe8qo",
     "publishedAt": "2026-11-21T07:01:13.000Z"
-  },
-  {
-    "id": "0c08a6f395c3cc5b",
-    "title": "‘Like an invisible stealth tax’: ways to shield your cash from UK inflation",
-    "summary": "With living costs set to rise higher in 2027, here’s how you can help your savings and pension keep up with soaring prices.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/21/ways-to-shield-savings-pensions-from-uk-inflation-cost-of-living",
-    "publishedAt": "2026-11-21T07:00:52.000Z"
-  },
-  {
-    "id": "27289681dc07471e",
-    "title": "Athlete swims in Strait of Hormuz to highlight Iran war's impact on wildlife",
-    "summary": "British endurance swimmer Lewis Pugh has swum the Strait of Hormuz to highlight environmental threats during ongoing conflict.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/endurance-athlete-swims-strait-hormuz-highlight-iran-wars-138338972",
-    "publishedAt": "2026-11-21T06:53:49.000Z"
-  },
-  {
-    "id": "386215e0d4c0016a",
-    "title": "Russia dusts off its prewar demands as the US raises discussing European security at Ukraine talks",
-    "summary": "After nearly five years of fighting in Ukraine, the Kremlin is eagerly embracing a U.S. offer to discuss postwar European security.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/russia-dusts-off-prewar-demands-us-raises-discussing-138338870",
-    "publishedAt": "2026-11-21T06:39:23.000Z"
-  },
-  {
-    "id": "df1655ff078fbd9b",
-    "title": "Beating Ebola takes more than medicine – I saw what worked in west Africa a decade ago | Kayode Akintola",
-    "summary": "The outbreak in DR Congo is shaping up to be the worst ever, but the support of local faith leaders – and adequate funding – will be needed to bring it under control.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/nov/21/ebola-outbreak-congo-worst-ever",
-    "publishedAt": "2026-11-21T06:00:53.000Z"
-  },
-  {
-    "id": "de7f6c902fce731b",
-    "title": "Campaigners back call for scrutiny of consent laws by Joanne Young",
-    "summary": "Experts say no law states third-party consent is a valid defence and call for public debate and further education.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
-    "publishedAt": "2026-11-21T06:00:53.000Z"
-  },
-  {
-    "id": "3bd15573705779b6",
-    "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
-    "summary": "The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
-    "publishedAt": "2026-11-21T06:00:52.000Z"
-  },
-  {
-    "id": "ec0a4bcf030a68e2",
-    "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-    "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
-    "publishedAt": "2026-11-21T06:00:09.000Z"
-  },
-  {
-    "id": "36d89dc3ce5a7893",
-    "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
-    "summary": "Eisenkot's fragile alliance must overcome deep ideological divisions to turn its opposition into a government.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
-    "publishedAt": "2026-11-21T05:46:29.000Z"
-  },
-  {
-    "id": "a5ae86279d6526d5",
-    "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-    "summary": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
-    "publishedAt": "2026-11-21T05:15:41.000Z"
   }
 ]
