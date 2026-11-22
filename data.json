@@ -1,5 +1,41 @@
 [
   {
+    "id": "3684e9678abe9669",
+    "title": "Fire at confectionary factory in Indonesia leaves at least three dead and dozens missing",
+    "summary": "Relatives of the missing victims flocked to the factory’s entrance, seeking updates about their loved ones.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+    "publishedAt": "2026-11-22T07:11:17.000Z"
+  },
+  {
+    "id": "634423e927703cea",
+    "title": "Unreal deals: the scam websites targeting Black Friday bargain hunters",
+    "summary": "AI is being used to clone retailers’ sites and ‘poison’ chatbots into recommending them, experts say.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/22/black-friday-scam-deals--ai-fake-storefront",
+    "publishedAt": "2026-11-22T07:00:20.000Z"
+  },
+  {
+    "id": "45be79e617b4c214",
+    "title": "Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title",
+    "summary": "Trinity Rodman left in tears after scoring Spirit's only goal as DiBernardo and Debinha give Current a closely fought win.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss",
+    "publishedAt": "2026-11-22T06:40:18.000Z"
+  },
+  {
+    "id": "0930d70aa26063d9",
+    "title": "Record-breaking sightings of rare moth in Essex",
+    "summary": "There is now a self-sustaining population of the moth at a nature reserve in Essex, a charity says.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6jrey28gvqxo",
+    "publishedAt": "2026-11-22T06:38:26.000Z"
+  },
+  {
     "id": "cd3f9ca39c7787eb",
     "title": "Dozens missing after fire at Indonesian factory",
     "summary": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
     "publishedAt": "2026-11-21T05:15:41.000Z"
-  },
-  {
-    "id": "9f96134b0c5390d8",
-    "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
-    "summary": "Despite dodging tears in the tarmac, people are confident in city’s infrastructure – and will not worry about what has not happened yet.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
-    "publishedAt": "2026-11-21T05:00:50.000Z"
-  },
-  {
-    "id": "e3c15a3c87e0d145",
-    "title": "Tourists are throwing fewer coins into Rome’s Trevi fountain – is €2 entry fee to blame?",
-    "summary": "Charity that collects the coins says donations are down by £200,000 after a barrier was put in place to restrict access.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
-    "publishedAt": "2026-11-21T05:00:49.000Z"
-  },
-  {
-    "id": "e75debc60ef612de",
-    "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
-    "summary": "Victoria police say boy, 17, communicated with offenders under username ‘Onepercent’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
-    "publishedAt": "2026-11-21T04:44:00.000Z"
-  },
-  {
-    "id": "30aaa889f8ae2f05",
-    "title": "Man convicted of starting Palisades fire in Los Angeles",
-    "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
-    "publishedAt": "2026-11-21T04:34:00.000Z"
   }
 ]
