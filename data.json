@@ -1,5 +1,50 @@
 [
   {
+    "id": "c1d19bebb454a090",
+    "title": "‘Intimidating’ vigilantes posing as far-right security on the rise, UK experts say",
+    "summary": "Volunteers in black uniforms and body armour increasingly seen with figures such as Tommy Robinson.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/22/intimidating-vigilantes-posing-as-far-right-security-on-the-rise-uk-experts-say",
+    "publishedAt": "2026-11-22T09:49:16.000Z"
+  },
+  {
+    "id": "1b15f9b731e61280",
+    "title": "Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown",
+    "summary": "Sajad Jawad died three days after winning the gold medal in the 90kg category at the Asian Championships in Thailand.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss",
+    "publishedAt": "2026-11-22T09:45:48.000Z"
+  },
+  {
+    "id": "444029da750d50cd",
+    "title": "Restored wells bring life back to Hebron’s occupied Old City",
+    "summary": "Hebron's Old City has been under constant siege by Israeli settlers and the military.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
+    "publishedAt": "2026-11-22T09:33:16.000Z"
+  },
+  {
+    "id": "0c878406db538ded",
+    "title": "Why are so many more young Scots claiming disability benefits?",
+    "summary": "The number of Scots claiming disability benefits has risen sharply since the Covid pandemic - why?",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r7kmgd8dxo",
+    "publishedAt": "2026-11-22T09:28:24.000Z"
+  },
+  {
+    "id": "f30828084c8adf40",
+    "title": "South Korea education minister resigns over exam cheating scandal",
+    "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no",
+    "publishedAt": "2026-11-22T09:20:45.000Z"
+  },
+  {
     "id": "0eff314b5c196522",
     "title": "Indian opposition party’s youth wing warns of more Meta protests after police clashes",
     "summary": "Members of Congress party clashed with police outside tech company’s offices on Friday.",
@@ -7,6 +52,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad",
     "publishedAt": "2026-11-22T09:14:27.000Z"
+  },
+  {
+    "id": "7751ababced90d74",
+    "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+    "summary": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
+    "publishedAt": "2026-11-22T09:00:22.000Z"
   },
   {
     "id": "2c6a6ddb3592049f",
@@ -1294,59 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
     "publishedAt": "2026-11-21T09:34:20.000Z"
-  },
-  {
-    "id": "02b26256ce2cf024",
-    "title": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
-    "summary": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as 'oil trustees'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
-    "publishedAt": "2026-11-21T09:30:24.000Z"
-  },
-  {
-    "id": "4062c3edc571c282",
-    "title": "French police officers guilty of Michel Zecler assault: What happens now?",
-    "summary": "Officers dealt more than 30 blows to the Black music producer in what the court ruled was a racially motivated crime.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss",
-    "publishedAt": "2026-11-21T09:12:14.000Z"
-  },
-  {
-    "id": "81d1b7e6d871a772",
-    "title": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
-    "summary": "Ballon d'Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
-    "publishedAt": "2026-11-21T09:01:29.000Z"
-  },
-  {
-    "id": "da8458e75361a0a1",
-    "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
-    "summary": "Manipur's chief minister orders a probe into the incident, saying those responsible will be arrested and punished.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
-    "publishedAt": "2026-11-21T08:48:54.000Z"
-  },
-  {
-    "id": "ea848382db55266f",
-    "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
-    "summary": "Infantino handed huge boost in re-election campaign as FIFA president as CONMEBOL offers unanimous support.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
-    "publishedAt": "2026-11-21T08:33:52.000Z"
-  },
-  {
-    "id": "a5ae86279d6526d5",
-    "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-    "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
-    "publishedAt": "2026-11-21T08:10:25.000Z"
   }
 ]
