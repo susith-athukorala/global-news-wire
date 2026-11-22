@@ -1053,6 +1053,15 @@
     "publishedAt": "2026-11-21T07:07:59.000Z"
   },
   {
+    "id": "dac87da1566eceac",
+    "title": "Further walkout planned by NI doctors as strike ends",
+    "summary": "Consultants and specialist doctors will begin a separate 24-hour strike on Monday morning as part of the same pay dispute.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6d71e9epe8qo",
+    "publishedAt": "2026-11-21T07:01:13.000Z"
+  },
+  {
     "id": "0c08a6f395c3cc5b",
     "title": "‘Like an invisible stealth tax’: ways to shield your cash from UK inflation",
     "summary": "With living costs set to rise higher in 2027, here’s how you can help your savings and pension keep up with soaring prices.",
@@ -1339,14 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
     "publishedAt": "2026-11-21T00:16:26.000Z"
-  },
-  {
-    "id": "061f6c8fa6ba0386",
-    "title": "Can AI really help spot Black Friday deals? We put it to the test",
-    "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o",
-    "publishedAt": "2026-11-21T00:06:11.000Z"
   }
 ]
