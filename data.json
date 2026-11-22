@@ -1,5 +1,86 @@
 [
   {
+    "id": "7b306ae35bb3ca96",
+    "title": "It's Medicare open enrollment time. Here's what you need to know",
+    "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+    "publishedAt": "2026-11-22T13:11:04.000Z"
+  },
+  {
+    "id": "100db31f629448b3",
+    "title": "The life, death and improbable rebirth of LA’s most beloved diner",
+    "summary": "For decades, it served pancakes, hash browns and steaks to hungry Angelenos. Then came closure, and a city mourned – but now the Original Pantry is back.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles",
+    "publishedAt": "2026-11-22T13:00:27.000Z"
+  },
+  {
+    "id": "39b72b03f73897dd",
+    "title": "Air alert sounds hours after attack on Russia-bound ship in the Gulf of Finland",
+    "summary": "The governor of Kaliningrad says a rare air alert sounded in the Russian exclave near Poland and Lithuania.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/air-alert-sounds-kaliningrad-hours-after-attack-russia-138356879",
+    "publishedAt": "2026-11-22T12:50:47.000Z"
+  },
+  {
+    "id": "9537481dc5fc6afc",
+    "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post",
+    "summary": "Reform deputy leader calls Russian leader ‘a murderous dictator’ after US president appears to endorse him.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/22/british-right-reform-tory-party-distances-itself-from-trump-putin-friend-post",
+    "publishedAt": "2026-11-22T12:36:58.000Z"
+  },
+  {
+    "id": "16f9f4caac2a34ca",
+    "title": "Okinawa celebrates restored Shuri Castle hall 7 years after fire",
+    "summary": "Officials and residents in Okinawa have celebrated the restoration of Shuri Castle's main hall, marking a significant return of the island's cultural symbol.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/okinawa-celebrates-restored-shuri-castle-hall-7-years-138356880",
+    "publishedAt": "2026-11-22T12:33:55.000Z"
+  },
+  {
+    "id": "e3b790d982203eb7",
+    "title": "What to know about tear gas and reproductive health, as concerns are raised in France",
+    "summary": "French activists and lawmakers are demanding after recent protests that police stop using tear gas because of rising concerns about menstrual changes and reproductive health issues.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/tear-gas-reproductive-health-people-raise-concerns-france-138356698",
+    "publishedAt": "2026-11-22T12:33:10.000Z"
+  },
+  {
+    "id": "ce5ab375d97782b4",
+    "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
+    "summary": "Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
+    "publishedAt": "2026-11-22T12:31:30.000Z"
+  },
+  {
+    "id": "60110fcfbf3151ce",
+    "title": "Bruno Fernandes says contract talks on hold as Man United battle poor start",
+    "summary": "The Manchester United captain's current deal expires at the end of the season, though the club has an option to extend.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss",
+    "publishedAt": "2026-11-22T12:22:43.000Z"
+  },
+  {
+    "id": "05c5626ea5c46aae",
+    "title": "Israeli settlers attack several Palestinian villages in occupied West Bank",
+    "summary": "Attacks in Ramallah, el-Bireh provinces included the burning of 12 vehicles and spray-painting racist slogans on homes.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
+    "publishedAt": "2026-11-22T12:19:42.000Z"
+  },
+  {
     "id": "bc8c4fe7111210ba",
     "title": "School wins mental health and wellbeing award",
     "summary": "The opening of a wellbeing room for students at Blanchelande College is recognised by judges.",
@@ -1267,86 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
     "publishedAt": "2026-11-21T12:29:49.000Z"
-  },
-  {
-    "id": "db5575ec9beee539",
-    "title": "How red squirrels made island their home",
-    "summary": "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\".",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo",
-    "publishedAt": "2026-11-21T12:18:55.000Z"
-  },
-  {
-    "id": "cfe33db7546f7f8e",
-    "title": "Sessions offer advice on rising energy costs",
-    "summary": "A council is urging people to seek support with rising energy costs on heating this winter.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo",
-    "publishedAt": "2026-11-21T12:09:49.000Z"
-  },
-  {
-    "id": "62126f15378bd553",
-    "title": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?",
-    "summary": "Canadians have put a lot of trust in their prime minister but some question if it can last if the trade wars were to end.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada",
-    "publishedAt": "2026-11-21T12:00:58.000Z"
-  },
-  {
-    "id": "5cea83edc6af74e3",
-    "title": "‘Music was our teacher’: the sound system pioneers reviving the scene in Manchester and beyond",
-    "summary": "Manchester-based Megatone Sound Foundation and Baron Turbo Charge have rejuvenated the culture to offer a sense of belonging and empowerment.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2026/nov/21/sound-system-pioneers-music-manchester-windrush",
-    "publishedAt": "2026-11-21T12:00:58.000Z"
-  },
-  {
-    "id": "d0727a3fe2f2db73",
-    "title": "Race to lead Senate Democrats the latest battlefield in party’s tussle over Israel",
-    "summary": "Chris Van Hollen and Chuck Schumer represent conflicting visions on issue that has become ‘litmus test’ for Democratic voters.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
-    "publishedAt": "2026-11-21T12:00:57.000Z"
-  },
-  {
-    "id": "6a0eab3ade2c167c",
-    "title": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
-    "summary": "Former captains Mohammad Rizwan and Shan Masood lose Pakistan central contracts, but Babar Azam and Salman Agha backed.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/21/pakistan-drop-rizwan-and-masood-but-babar-and-agha-backed-in-overhaul?traffic_source=rss",
-    "publishedAt": "2026-11-21T11:35:42.000Z"
-  },
-  {
-    "id": "f718a78b8a858f07",
-    "title": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
-    "summary": "A Russian strike on Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, has killed two people and wounded 60 others.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-138340723",
-    "publishedAt": "2026-11-21T11:22:38.000Z"
-  },
-  {
-    "id": "b28eefa3bc614ca7",
-    "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
-    "summary": "Thursday’s byelection in Castle Bromwich will be latest test for Nigel Farage’s party as rival eats into support.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
-    "publishedAt": "2026-11-21T11:08:14.000Z"
-  },
-  {
-    "id": "42f62b2e7356a388",
-    "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-    "summary": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
-    "publishedAt": "2026-11-21T11:02:49.000Z"
   }
 ]
