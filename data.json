@@ -1,5 +1,23 @@
 [
   {
+    "id": "0eff314b5c196522",
+    "title": "Indian opposition party’s youth wing warns of more Meta protests after police clashes",
+    "summary": "Members of Congress party clashed with police outside tech company’s offices on Friday.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad",
+    "publishedAt": "2026-11-22T09:14:27.000Z"
+  },
+  {
+    "id": "2c6a6ddb3592049f",
+    "title": "Gukesh vs Sindarov: The youngest World Chess Championship in history",
+    "summary": "India's Gukesh defends his title against Uzbekistan’s Sindarov in up to 14 games in Geneva from November 22.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss",
+    "publishedAt": "2026-11-22T08:11:40.000Z"
+  },
+  {
     "id": "a0dc0301adf16799",
     "title": "Highly lucrative: Bank of England directors illegally profited from post-abolition enslavement in Cuba",
     "summary": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people.",
@@ -349,6 +367,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
     "publishedAt": "2026-11-21T22:41:36.000Z"
+  },
+  {
+    "id": "299849b262daed6b",
+    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
+    "publishedAt": "2026-11-21T22:19:43.000Z"
   },
   {
     "id": "2fd34a5eec662c0b",
@@ -1321,32 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
     "publishedAt": "2026-11-21T08:10:25.000Z"
-  },
-  {
-    "id": "5a8d64ef0622348f",
-    "title": "Trafalgar Square Christmas tree felled in Norway",
-    "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo",
-    "publishedAt": "2026-11-21T08:10:03.000Z"
-  },
-  {
-    "id": "8dbe631aa2dbbd8d",
-    "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-    "summary": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
-    "publishedAt": "2026-11-21T08:08:01.000Z"
-  },
-  {
-    "id": "d057a4ec016c1c14",
-    "title": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
-    "summary": "Insiders say they only see cuts, with no discernible long-term strategy, since title’s purchase by German media firm.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
-    "publishedAt": "2026-11-21T08:00:53.000Z"
   }
 ]
