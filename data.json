@@ -1,5 +1,104 @@
 [
   {
+    "id": "bc8c4fe7111210ba",
+    "title": "School wins mental health and wellbeing award",
+    "summary": "The opening of a wellbeing room for students at Blanchelande College is recognised by judges.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5n4eyv9wv7zo",
+    "publishedAt": "2026-11-22T12:10:39.000Z"
+  },
+  {
+    "id": "414e7c0b894f99df",
+    "title": "‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause",
+    "summary": "Where women see hot flushes and brain fog, pharmaceutical companies see dollar signs. But are products like lion’s mane mushrooms or even magnets for knickers really helping them?",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women",
+    "publishedAt": "2026-11-22T12:00:29.000Z"
+  },
+  {
+    "id": "cd078dd643252a99",
+    "title": "CEO of funding agency for UK science and research criticised by union over cuts",
+    "summary": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadership.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
+    "publishedAt": "2026-11-22T12:00:28.000Z"
+  },
+  {
+    "id": "217d05cb79f9cd7d",
+    "title": "They went out to celebrate at a Memphis bar. Then, ICE descended",
+    "summary": "More than 120 people in the Tennessee city were detained in one of the largest single-day ICE raids in the US in 2026.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/22/memphis-tn-ice-detained",
+    "publishedAt": "2026-11-22T12:00:28.000Z"
+  },
+  {
+    "id": "cb7ae8930c6499f7",
+    "title": "Cloned number plate victims in England and Wales to get new reporting tool",
+    "summary": "Police launch initiative after steep rise in criminals using method to evade detection and avoid paying penalties.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/22/cloned-number-plate-victims-england-and-wales-new-reporting-tool",
+    "publishedAt": "2026-11-22T11:59:28.000Z"
+  },
+  {
+    "id": "4153672099ea83b5",
+    "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
+    "summary": "Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+    "publishedAt": "2026-11-22T11:46:42.000Z"
+  },
+  {
+    "id": "7c0492a47a9d0163",
+    "title": "Why have UN efforts to regulate ‘killer robots’ stalled?",
+    "summary": "CWC countries agree to 'elaborate' on potential accord regulating autonomous weapons in two years, prompting criticism.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss",
+    "publishedAt": "2026-11-22T11:44:50.000Z"
+  },
+  {
+    "id": "6ea93ef6abc3e932",
+    "title": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
+    "summary": "Foreign secretary says there is clear case to integrate more closely but does not say if he backs talks on possibly rejoining.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/22/closer-eu-ties-uk-ed-miliband-brexit",
+    "publishedAt": "2026-11-22T11:41:49.000Z"
+  },
+  {
+    "id": "b50fe2c3326321a9",
+    "title": "Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU",
+    "summary": "Former PM who opted for minimal ties with bloc says moves towards membership would dominate government’s time.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-aghast-andy-burnham-talk-about-rejoining-eu",
+    "publishedAt": "2026-11-22T11:37:52.000Z"
+  },
+  {
+    "id": "9cf5484351a494b4",
+    "title": "The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington",
+    "summary": "‘Raising growth in every postcode’ has been the PM’s rallying cry but deep regional disparities and rising energy bills pose problems this winter.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
+    "publishedAt": "2026-11-22T11:24:22.000Z"
+  },
+  {
+    "id": "4e95c65bfea50bcf",
+    "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
+    "summary": "Lionel Messi escapes red-card booking for controversial throw-in in Miami's 3-0 defeat by Columbus in MLS Cup playoffs.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
+    "publishedAt": "2026-11-22T11:07:30.000Z"
+  },
+  {
     "id": "6cfafb674561f3f2",
     "title": "Conservative media weighs its future as cracks emerge in Trump’s movement",
     "summary": "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on Maga.",
@@ -439,6 +538,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
     "publishedAt": "2026-11-22T00:20:41.000Z"
+  },
+  {
+    "id": "e86869f8921697db",
+    "title": "FBI reportedly investigating apparent hack of its criminal database",
+    "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+    "publishedAt": "2026-11-22T00:10:44.000Z"
   },
   {
     "id": "f03a82a7ba205934",
@@ -1240,113 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
     "publishedAt": "2026-11-21T11:02:49.000Z"
-  },
-  {
-    "id": "b537fedc25b3af7f",
-    "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
-    "summary": "Foreign combatants in Port-au-Prince welcomed by many after years of gang control but some fear offensive could exacerbate volatile situation.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
-    "publishedAt": "2026-11-21T11:00:57.000Z"
-  },
-  {
-    "id": "25eda5fc61269ef9",
-    "title": "New Orleans Catholic clergy abuse survivors begin receiving payments from $305m bankruptcy settlement",
-    "summary": "Arrival of payments in contentious legal saga that began in 2020 is ‘a weight off my shoulders’, one survivor said.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/21/new-orleans-catholic-clergy-abuse-settlement",
-    "publishedAt": "2026-11-21T11:00:57.000Z"
-  },
-  {
-    "id": "f5022eb10131b352",
-    "title": "Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
-    "summary": "From Elon Musk to Palantir’s Alex Karp, CEOs are softening hardline stances in expectation of an influx of Democrats.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
-    "publishedAt": "2026-11-21T11:00:56.000Z"
-  },
-  {
-    "id": "3ee9e565daea4788",
-    "title": "Did Democrats fail Florida? Angie Nixon on ‘missed opportunity’ in midterms",
-    "summary": "The party invested in key battlegrounds, netting stunning wins at the expense of candidates in Florida and Louisiana.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/21/democrats-florida-midterm-election-loss",
-    "publishedAt": "2026-11-21T11:00:55.000Z"
-  },
-  {
-    "id": "24a8fc5753dfcc91",
-    "title": "Usman Khawaja and David Warner taken off air over Australia’s Sandpapergate",
-    "summary": "Ex-Australia cricketers Khawaja and Warner taken off air having been most outspoken over 2018 scandal in South Africa.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/21/usman-khawaja-and-david-warner-taken-off-air-over-australias-sandpapergate?traffic_source=rss",
-    "publishedAt": "2026-11-21T10:54:22.000Z"
-  },
-  {
-    "id": "b77d49b4be4a0557",
-    "title": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
-    "summary": "Palestinians fear forced displacement as Israeli authorities target legally licensed homes in West Bank.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
-    "publishedAt": "2026-11-21T10:38:13.000Z"
-  },
-  {
-    "id": "f7c9465153ab732d",
-    "title": "Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list",
-    "summary": "James Harden climbs NBA career record list in leading Cleveland Cavaliers to 128-119 win over Indiana Pacers.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/21/cavaliers-james-harden-closes-on-michael-jordan-in-nba-50-point-game-list?traffic_source=rss",
-    "publishedAt": "2026-11-21T10:27:23.000Z"
-  },
-  {
-    "id": "06b98fb6c92a521b",
-    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-    "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
-    "publishedAt": "2026-11-21T10:26:36.000Z"
-  },
-  {
-    "id": "6433155462042bde",
-    "title": "Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028",
-    "summary": "Members of the UN's Convention on Certain Conventional Weapons fail to agree on swift adoption of legally binding rules.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit?traffic_source=rss",
-    "publishedAt": "2026-11-21T10:25:29.000Z"
-  },
-  {
-    "id": "619a6a5c2b00496d",
-    "title": "‘National scandal’: residents in England rally against surge in mega-warehouse developments",
-    "summary": "Campaigners call out ‘greed’ of developers after 95% of ‘megashed’ planning applications approved in last 10 years.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/21/national-scandal-residents-in-england-rally-against-surge-in-mega-warehouse-developments",
-    "publishedAt": "2026-11-21T10:00:54.000Z"
-  },
-  {
-    "id": "82ffb684477a84ac",
-    "title": "Anthropic says it will put humanity first. Will its IPO change that?",
-    "summary": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
-    "publishedAt": "2026-11-21T10:00:00.000Z"
-  },
-  {
-    "id": "f52a7432fa104a76",
-    "title": "The AI boom had a really bad week — and it's raising loud alarms",
-    "summary": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
-    "publishedAt": "2026-11-21T10:00:00.000Z"
   }
 ]
