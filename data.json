@@ -1,5 +1,32 @@
 [
   {
+    "id": "b562b9609d14edbc",
+    "title": "Fossil fuel dispute threatens to derail COP31 climate deal",
+    "summary": "The UN summit in Turkey enters second day of overtime as countries struggle to reach an agreement.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
+    "publishedAt": "2026-11-22T03:58:31.000Z"
+  },
+  {
+    "id": "0335f411a7a318e0",
+    "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
+    "summary": "Seven alleged cartel gunmen and four soldiers were killed in operation to arrest cartel boss Fausto Isidro Meza Flores.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
+    "publishedAt": "2026-11-22T03:34:02.000Z"
+  },
+  {
+    "id": "f152d2776513f0f0",
+    "title": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
+    "summary": "Police say the boat driver fled and the vessel’s manager was taken into custody.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+    "publishedAt": "2026-11-22T02:45:36.000Z"
+  },
+  {
     "id": "9d9658f0b24e8968",
     "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
     "summary": "Israeli forces continue to destroy residential buildings as part of a 'gradual displacement' policy, a Gaza mayor says.",
@@ -520,6 +547,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/mexico-detains-top-cartel-boss-el-chapo-isidro-138341584",
     "publishedAt": "2026-11-21T14:29:09.000Z"
+  },
+  {
+    "id": "519719c3976f7dd7",
+    "title": "Mexico's military captures drug kingpin on FBI's most wanted list",
+    "summary": "Meza Flores was one of the FBI's 10 most wanted fugitives and the alleged leader of the Beltran Leyva gang, which is allied with one of two rival factions in the powerful Sinaloa cartel.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-22/drug-lord-chapo-isidro-captured-by-mexican-military/107413284",
+    "publishedAt": "2026-11-21T14:21:23.000Z"
   },
   {
     "id": "b83a6748f6817d7a",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc",
     "publishedAt": "2026-11-21T01:00:00.000Z"
-  },
-  {
-    "id": "a5749441319d3969",
-    "title": "Can Mauricio Pochettino save Man United from Premier League relegation?",
-    "summary": "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
-    "publishedAt": "2026-11-21T00:55:01.000Z"
-  },
-  {
-    "id": "17e1c5c1e63b4f10",
-    "title": "ANC fights to keep control of South Africa's key cities after election setback",
-    "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo",
-    "publishedAt": "2026-11-21T00:34:51.000Z"
-  },
-  {
-    "id": "e5102d2b451f1adf",
-    "title": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
-    "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instruct people to vote in a way that would benefit Liberal party.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
-    "publishedAt": "2026-11-21T00:26:56.000Z"
-  },
-  {
-    "id": "db1918fa8a92243d",
-    "title": "Haiti strikes deal with El Salvador to build new prisons after minister visit",
-    "summary": "Haiti announces an agreement with El Salvador for the construction of a new prison.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/haiti-strikes-deal-el-salvador-build-new-prisons-138332512",
-    "publishedAt": "2026-11-21T00:17:44.000Z"
   }
 ]
