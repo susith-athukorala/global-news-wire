@@ -1,5 +1,68 @@
 [
   {
+    "id": "9e0e59e94b700d88",
+    "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+    "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+    "publishedAt": "2026-11-22T16:12:54.000Z"
+  },
+  {
+    "id": "e2830407b36aa712",
+    "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
+    "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
+    "publishedAt": "2026-11-22T16:05:25.000Z"
+  },
+  {
+    "id": "a9b90e3e08ebf8b4",
+    "title": "US releases files on suspected Bigfoot sightings in Montana and Oregon",
+    "summary": "Forest Service releases files months after residents in rural Ontario reported encounters with massive figures.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
+    "publishedAt": "2026-11-22T15:53:24.000Z"
+  },
+  {
+    "id": "12e4cbe57aec9277",
+    "title": "Court bans China’s BYD from selling ‘Defender clone’ SUV in EU",
+    "summary": "District court in the Hague finds Chinese carmaker infringed on intellectual property of Jaguar Land Rover.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/22/court-bans-china-byd-selling-defender-clone-suv-in-eu",
+    "publishedAt": "2026-11-22T15:43:47.000Z"
+  },
+  {
+    "id": "7a9c296a38c7bb9c",
+    "title": "UK taxpayer funds held in offshore tax havens top £1tn, latest HMRC data shows",
+    "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama raising fears over cost to public purse.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+    "publishedAt": "2026-11-22T15:43:01.000Z"
+  },
+  {
+    "id": "231f1049fd5702a6",
+    "title": "A suspected drone strike hits a Russian vessel in Libya",
+    "summary": "The sea drone strike triggered an explosion and fire in Benghazi.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/suspected-drone-strike-hits-russian-vessel-libya-138359178",
+    "publishedAt": "2026-11-22T15:36:31.000Z"
+  },
+  {
+    "id": "d4bb76db92bf4198",
+    "title": "Netanyahu rival condemns settler arson attacks on Palestinian villages in West Bank",
+    "summary": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+    "publishedAt": "2026-11-22T15:22:38.000Z"
+  },
+  {
     "id": "5e3fa98465e66560",
     "title": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
     "summary": "Analysis reportedly finds striking similarities in dialogue and narrative structure between late author’s novel, Prudence, and two of her contemporaries.",
@@ -765,6 +828,15 @@
     "publishedAt": "2026-11-22T02:08:49.000Z"
   },
   {
+    "id": "79bace62ffcba62c",
+    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+    "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
+    "publishedAt": "2026-11-22T01:25:03.000Z"
+  },
+  {
     "id": "a6ca28dfe395ec2a",
     "title": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
     "summary": "State faces electricity supply gap when Yallourn coal-fired power station closes in 2028 as experts warn neither Labor nor the Coalition has adequate plans.",
@@ -1179,6 +1251,15 @@
     "publishedAt": "2026-11-21T16:39:49.000Z"
   },
   {
+    "id": "158994b8ae4ecd45",
+    "title": "International UN talks on controlling use of autonomous weapons collapse",
+    "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+    "publishedAt": "2026-11-21T16:36:11.000Z"
+  },
+  {
     "id": "5236383aa1a552b7",
     "title": "India’s opposition stages protests against Meta over account removals",
     "summary": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions.",
@@ -1267,86 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
     "publishedAt": "2026-11-21T14:52:30.000Z"
-  },
-  {
-    "id": "79a02425ec1794ff",
-    "title": "Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal",
-    "summary": "Documentary records Catherine taking on Three Peaks challenge and finding ‘sense of hope alongside uncertainty’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
-    "publishedAt": "2026-11-21T14:42:56.000Z"
-  },
-  {
-    "id": "a1f3faa7350ac798",
-    "title": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
-    "summary": "Temperatures in a concrete facility contributed to one man’s death after he struggled to breathe, prisoners allege.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
-    "publishedAt": "2026-11-21T14:38:58.000Z"
-  },
-  {
-    "id": "da7d58d380d5f524",
-    "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
-    "summary": "Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
-    "publishedAt": "2026-11-21T14:35:52.000Z"
-  },
-  {
-    "id": "8d21ce3be6517221",
-    "title": "British man recalls ‘despair’ over son’s death after fall from Cyprus window",
-    "summary": "Joshua Foster tells of moment he ‘lost control’ of two-year-old when he fell from fourth storey of hotel.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
-    "publishedAt": "2026-11-21T14:35:20.000Z"
-  },
-  {
-    "id": "5b6c5cedadbc09fc",
-    "title": "Mexico detains top cartel boss 'El Chapo Isidro,' one of FBI's 10 most wanted fugitives",
-    "summary": "Mexican authorities have captured top cartel boss Fausto Isidro Meza Flores, known as “El Chapo Isidro.\"",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/mexico-detains-top-cartel-boss-el-chapo-isidro-138341584",
-    "publishedAt": "2026-11-21T14:29:09.000Z"
-  },
-  {
-    "id": "519719c3976f7dd7",
-    "title": "Mexico's military captures drug kingpin on FBI's most wanted list",
-    "summary": "Meza Flores was one of the FBI's 10 most wanted fugitives and the alleged leader of the Beltran Leyva gang, which is allied with one of two rival factions in the powerful Sinaloa cartel.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-22/drug-lord-chapo-isidro-captured-by-mexican-military/107413284",
-    "publishedAt": "2026-11-21T14:21:23.000Z"
-  },
-  {
-    "id": "b83a6748f6817d7a",
-    "title": "Elon Musk’s lawyer joining Tom Brady in buying Chelsea stake",
-    "summary": "",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/football/2026/nov/21/elon-musk-lawyer-tom-brady-nfl-chelsea-stake",
-    "publishedAt": "2026-11-21T14:20:05.000Z"
-  },
-  {
-    "id": "d615c59e615c53a1",
-    "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-    "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-    "publishedAt": "2026-11-21T14:18:17.000Z"
-  },
-  {
-    "id": "858ce2cb6cc9a457",
-    "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
-    "summary": "Iran's FM Araghchi says there is 'major strategic debate' about the future of Iran's nuclear doctrine.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
-    "publishedAt": "2026-11-21T14:15:36.000Z"
   }
 ]
