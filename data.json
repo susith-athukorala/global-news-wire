@@ -1,5 +1,59 @@
 [
   {
+    "id": "5e3fa98465e66560",
+    "title": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
+    "summary": "Analysis reportedly finds striking similarities in dialogue and narrative structure between late author’s novel, Prudence, and two of her contemporaries.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
+    "publishedAt": "2026-11-22T15:07:42.000Z"
+  },
+  {
+    "id": "250aae444e4bb215",
+    "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
+    "summary": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum's airport.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
+    "publishedAt": "2026-11-22T15:03:38.000Z"
+  },
+  {
+    "id": "7772328af26e6686",
+    "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+    "summary": "A Russian drone attack kills at least two people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+    "publishedAt": "2026-11-22T14:48:50.000Z"
+  },
+  {
+    "id": "46289997b5a88111",
+    "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+    "summary": "Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
+    "publishedAt": "2026-11-22T14:35:55.000Z"
+  },
+  {
+    "id": "756fef08e76041e0",
+    "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
+    "summary": "Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
+    "publishedAt": "2026-11-22T14:33:26.000Z"
+  },
+  {
+    "id": "02b9bd3afcbc9fee",
+    "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+    "summary": "Military officials tour underground facility in show of military capabilities despite US attacks.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+    "publishedAt": "2026-11-22T14:20:41.000Z"
+  },
+  {
     "id": "f7ac6af79b5200dc",
     "title": "Experts say ‘trusted messengers’ critical as Amish grapple with measles outbreak",
     "summary": "Unfolding crisis shows importance of ‘human connections’ over the long term – especially in under-vaccinated areas.",
@@ -1294,59 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
     "publishedAt": "2026-11-21T14:15:36.000Z"
-  },
-  {
-    "id": "5daf6c0c23eb5cf1",
-    "title": "USDA, FBI breached by hackers amid spate of tech outages – reports",
-    "summary": "Latest intrusions targeted farmer-payment system at the USDA and the FBI’s National Crime Information Center.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
-    "publishedAt": "2026-11-21T14:09:02.000Z"
-  },
-  {
-    "id": "80154fe65d348e4e",
-    "title": "Denmark to expel Russian diplomat over alleged plot to kill US-Ukrainian rapper",
-    "summary": "Moscow intelligence thought to be behind plan to kill musician Kyivstoner before concert in Denmark.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
-    "publishedAt": "2026-11-21T14:03:50.000Z"
-  },
-  {
-    "id": "f077389309ffb835",
-    "title": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
-    "summary": "People are falling in love with AI systems like ChatGPT and Gemini - and some relationships are ending in ways that feel like the very human experience of being dumped.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
-    "publishedAt": "2026-11-21T14:00:01.000Z"
-  },
-  {
-    "id": "158994b8ae4ecd45",
-    "title": "International talks on controlling use of autonomous weapons collapse",
-    "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-    "publishedAt": "2026-11-21T13:15:29.000Z"
-  },
-  {
-    "id": "79bace62ffcba62c",
-    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-    "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
-    "publishedAt": "2026-11-21T13:15:21.000Z"
-  },
-  {
-    "id": "7f7da43ad1dc527e",
-    "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
-    "summary": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
-    "publishedAt": "2026-11-21T13:08:59.000Z"
   }
 ]
