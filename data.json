@@ -1,5 +1,14 @@
 [
   {
+    "id": "9d9658f0b24e8968",
+    "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+    "summary": "Israeli forces continue to destroy residential buildings as part of a 'gradual displacement' policy, a Gaza mayor says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-22T02:14:18.000Z"
+  },
+  {
     "id": "a6ca28dfe395ec2a",
     "title": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
     "summary": "State faces electricity supply gap when Yallourn coal-fired power station closes in 2028 as experts warn neither Labor nor the Coalition has adequate plans.",
@@ -187,6 +196,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
     "publishedAt": "2026-11-21T20:37:35.000Z"
+  },
+  {
+    "id": "2ae034849a56f5f6",
+    "title": "Recall of coloured sand in NZ raises 'serious alarm bells'",
+    "summary": "CHOICE is calling for \"urgent investigations\" into coloured sand products in Australia, which have recently been recalled in New Zealand due to asbestos.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-22/choice-faber-castell-recall-new-zealand/107412296",
+    "publishedAt": "2026-11-21T20:34:11.000Z"
   },
   {
     "id": "fb37a339a98376d9",
@@ -1330,23 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/haiti-strikes-deal-el-salvador-build-new-prisons-138332512",
     "publishedAt": "2026-11-21T00:17:44.000Z"
-  },
-  {
-    "id": "e2acd19c97da0e18",
-    "title": "Bolivian festival seeks to return guinea pig to nations' rituals",
-    "summary": "Guinea pigs, known as cuy in the Andes region, have enjoyed a day in their honor in Bolivia with races, and beauty and weight contests, organized by students promoting the rodent’s nutritional and economic value to Bolivian households.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/bolivian-festival-seeks-return-guinea-pig-nations-rituals-138333056",
-    "publishedAt": "2026-11-21T00:17:04.000Z"
-  },
-  {
-    "id": "d9d55b2a7cb96960",
-    "title": "Trump turns White House press conference into a 2028 succession audition",
-    "summary": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
-    "publishedAt": "2026-11-21T00:16:26.000Z"
   }
 ]
