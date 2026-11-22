@@ -1,5 +1,32 @@
 [
   {
+    "id": "f908da6e29c938c7",
+    "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+    "summary": "Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+    "publishedAt": "2026-11-22T05:04:39.000Z"
+  },
+  {
+    "id": "d667cad85cdb2211",
+    "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
+    "summary": "COP31 President ​Murat Kurum asks negotiators to consider a last-minute proposal in attempt to reach an agreement.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
+    "publishedAt": "2026-11-22T04:51:35.000Z"
+  },
+  {
+    "id": "4aca8d2eb9183dcb",
+    "title": "Fire at Indonesian candy factory leaves 3 dead and dozens of workers unaccounted for",
+    "summary": "A fire has swept through a candy factory in Indonesia’s Banten province, leaving three people dead and rescue teams searching for 36 workers who remained unaccounted for.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/fire-indonesian-candy-factory-leaves-3-dead-dozens-138354030",
+    "publishedAt": "2026-11-22T04:19:45.000Z"
+  },
+  {
     "id": "b562b9609d14edbc",
     "title": "Fossil fuel dispute threatens to derail COP31 climate deal",
     "summary": "The UN summit in Turkey enters second day of overtime as countries struggle to reach an agreement.",
@@ -34,6 +61,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
     "publishedAt": "2026-11-22T02:14:18.000Z"
+  },
+  {
+    "id": "e5102d2b451f1adf",
+    "title": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+    "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instructed people to vote in a way that would benefit Liberal party.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+    "publishedAt": "2026-11-22T02:08:49.000Z"
   },
   {
     "id": "a6ca28dfe395ec2a",
@@ -1312,41 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
     "publishedAt": "2026-11-21T01:49:07.000Z"
-  },
-  {
-    "id": "8fca5ea10a956677",
-    "title": "Can Africa’s new credit rating agency change how the continent is assessed?",
-    "summary": "The new African agency aims to bring greater transparency to credit ratings.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss",
-    "publishedAt": "2026-11-21T01:36:10.000Z"
-  },
-  {
-    "id": "933288238db15d27",
-    "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
-    "summary": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
-    "publishedAt": "2026-11-21T01:12:48.000Z"
-  },
-  {
-    "id": "55a61f00efc1e0ae",
-    "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-    "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o",
-    "publishedAt": "2026-11-21T01:02:39.000Z"
-  },
-  {
-    "id": "c37c957c7736c8a2",
-    "title": "Tech Now",
-    "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc",
-    "publishedAt": "2026-11-21T01:00:00.000Z"
   }
 ]
