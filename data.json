@@ -1,5 +1,86 @@
 [
   {
+    "id": "cd3f9ca39c7787eb",
+    "title": "Dozens missing after fire at Indonesian factory",
+    "summary": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
+    "publishedAt": "2026-11-22T06:05:00.000Z"
+  },
+  {
+    "id": "a0149a11303781b2",
+    "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+    "summary": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+    "publishedAt": "2026-11-22T06:00:21.000Z"
+  },
+  {
+    "id": "2d635062e2c3dca5",
+    "title": "Labour MPs sign up for leadership course to counter rightwing populism",
+    "summary": "Course run by former No 10 advisers is funded by Gary Lubner, who has given more than £11m to Labour.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+    "publishedAt": "2026-11-22T06:00:21.000Z"
+  },
+  {
+    "id": "9eade0408225d6bd",
+    "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
+    "summary": "After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world’s systems are under attack.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+    "publishedAt": "2026-11-22T06:00:19.000Z"
+  },
+  {
+    "id": "96eef9501f0cde58",
+    "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
+    "summary": "The effects of the continent’s coming polls will be felt far and wide – and could well turn into ‘key tests’ of the bloc’s resilience.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
+    "publishedAt": "2026-11-22T06:00:18.000Z"
+  },
+  {
+    "id": "f594d1a5be663427",
+    "title": "In Ukraine, the fight to keep winter outside begins with a broken window",
+    "summary": "As the winter cold sets in, Kyiv and other Ukrainian cities face a growing shortage of window installers as Russian attacks leave homes shattered and families exposed to the cold.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/ukraine-fight-winter-begins-broken-window-138354669",
+    "publishedAt": "2026-11-22T05:46:25.000Z"
+  },
+  {
+    "id": "253bd1d799d8cfbb",
+    "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
+    "summary": "Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
+    "publishedAt": "2026-11-22T05:38:52.000Z"
+  },
+  {
+    "id": "5796c184441cce78",
+    "title": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
+    "summary": "Sudan's displacement crisis could worsen with winter approaching.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
+    "publishedAt": "2026-11-22T05:21:46.000Z"
+  },
+  {
+    "id": "dc4db2d331645011",
+    "title": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
+    "summary": "Joshua Howard, 31, is believed to have been struck by a car and thrown over the guardrail as he was walking home from a party in Rouse Hill.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
+    "publishedAt": "2026-11-22T05:21:01.000Z"
+  },
+  {
     "id": "f908da6e29c938c7",
     "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
     "summary": "Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing.",
@@ -1267,86 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
     "publishedAt": "2026-11-21T04:34:00.000Z"
-  },
-  {
-    "id": "87a03058b822e7a5",
-    "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
-    "summary": "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
-    "publishedAt": "2026-11-21T04:32:07.000Z"
-  },
-  {
-    "id": "6300341dc8de3fad",
-    "title": "Rohingya who escaped Myanmar’s genocide tell their stories",
-    "summary": "Survivors recount rivers red with blood and burning nearby villages serving as an urgent warning to flee their homes.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories",
-    "publishedAt": "2026-11-21T04:00:47.000Z"
-  },
-  {
-    "id": "a3627de354489a1b",
-    "title": "Magnitude 6.7 earthquake shakes Peru's Andes",
-    "summary": "A magnitude 6.7 earthquake has shaken the Andes in central Peru with no immediate reports of damage or casualties.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/magnitude-67-earthquake-shakes-perus-andes-damage-casualties-138334341",
-    "publishedAt": "2026-11-21T03:53:18.000Z"
-  },
-  {
-    "id": "1d796e9f461804ec",
-    "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
-    "summary": "The announcement from Rockstar Games would mean GTA VI has already earned more than the entire box office run of the highest-grossing film of all time.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
-    "publishedAt": "2026-11-21T03:51:03.000Z"
-  },
-  {
-    "id": "7337ec70298c4a92",
-    "title": "All 146 Air Niugini plane passengers and crew safe after an emergency landing in Philippines",
-    "summary": "An Air Niugini plane carrying 146 passengers and crew from Hong Kong to Papua New Guinea has safely made an emergency landing in a southern Philippine city due to a warning of a possible engine fire.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/146-air-niugini-plane-passengers-crew-safe-after-138336593",
-    "publishedAt": "2026-11-21T03:43:44.000Z"
-  },
-  {
-    "id": "8a571c278df90746",
-    "title": "Phumzile Mlambo-Ngcuka, former South Africa deputy president and UN Women chief, dies at 71",
-    "summary": "Former South African Deputy President Phumzile Mlambo-Ngcuka has died at 71.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/phumzile-mlambo-ngcuka-former-south-africa-deputy-president-138337313",
-    "publishedAt": "2026-11-21T03:43:29.000Z"
-  },
-  {
-    "id": "7c64ff706afc112d",
-    "title": "Three French police officers sentenced over racist assault on Black man",
-    "summary": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss",
-    "publishedAt": "2026-11-21T03:01:24.000Z"
-  },
-  {
-    "id": "3412d4ff84a0daad",
-    "title": "Ahead of 2028, a presidential campaign is building behind AOC",
-    "summary": "In the wake of the US midterms \"bluenami\", speculation that Alexandria Ocasio-Cortez is popular enough to be elected America's first female president has reached a fever pitch.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-21/alexandria-ocasio-cortez-aoc-possible-2028-presidential-campaign/107389828",
-    "publishedAt": "2026-11-21T02:19:16.000Z"
-  },
-  {
-    "id": "e02bde69f1098b9e",
-    "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
-    "summary": "US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
-    "publishedAt": "2026-11-21T01:49:07.000Z"
   }
 ]
