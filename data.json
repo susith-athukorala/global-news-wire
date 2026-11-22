@@ -1,5 +1,32 @@
 [
   {
+    "id": "f03a82a7ba205934",
+    "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+    "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo",
+    "publishedAt": "2026-11-22T00:10:37.000Z"
+  },
+  {
+    "id": "55c7e27ba1e37b55",
+    "title": "How a teen gamer and his mother helped rescue a missing girl",
+    "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo",
+    "publishedAt": "2026-11-22T00:09:58.000Z"
+  },
+  {
+    "id": "0cdc2ecf2eb91d84",
+    "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+    "summary": "Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+    "publishedAt": "2026-11-21T23:44:00.000Z"
+  },
+  {
     "id": "325f1a2a1c9a284c",
     "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
     "summary": "Body of a man in his 20s discovered by police who were sent to investigate the shooting of an officer, who is in a serious but stable condition.",
@@ -448,6 +475,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/mexico-detains-top-cartel-boss-el-chapo-isidro-138341584",
     "publishedAt": "2026-11-21T14:29:09.000Z"
+  },
+  {
+    "id": "b83a6748f6817d7a",
+    "title": "Elon Musk’s lawyer joining Tom Brady in buying Chelsea stake",
+    "summary": "Elon Musk’s lawyer is joining Tom Brady in buying a stake in Chelsea. The Guardian revealed on Friday that the much-decorated former NFL player is in discussions about purchasing a minority shareholding at Stamford Bridge and can now disclose that Alex Spiro of the New York law firm Quinn Emmanuel is also seeking…",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/21/elon-musk-lawyer-tom-brady-nfl-chelsea-stake",
+    "publishedAt": "2026-11-21T14:20:05.000Z"
   },
   {
     "id": "d615c59e615c53a1",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo",
     "publishedAt": "2026-11-21T00:01:39.000Z"
-  },
-  {
-    "id": "19c0628393b866ea",
-    "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
-    "summary": "Thom Tillis move comes after Michael LoSapio, nominated for Cisa role, told hearing ‘I don’t believe it was an attack’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
-    "publishedAt": "2026-11-20T23:48:38.000Z"
-  },
-  {
-    "id": "96a7f9767d2d2403",
-    "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
-    "summary": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
-    "publishedAt": "2026-11-20T23:42:43.000Z"
-  },
-  {
-    "id": "fabe8f110b31881b",
-    "title": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
-    "summary": "Police say two children among dead as search continues for more victims.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
-    "publishedAt": "2026-11-20T23:36:36.000Z"
-  },
-  {
-    "id": "d7d37cd779a1fde1",
-    "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
-    "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo",
-    "publishedAt": "2026-11-20T23:28:17.000Z"
   }
 ]
