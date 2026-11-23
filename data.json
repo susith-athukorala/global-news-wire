@@ -1,5 +1,23 @@
 [
   {
+    "id": "38e98f092cebca28",
+    "title": "Manchester’s Co-op Live arena evacuated after apparent tear gas incident at Don Toliver concert",
+    "summary": "Incident occurred near the end of Sunday night show by US rapper Don Toliver, with one person taken to hospital.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/23/manchester-co-op-live-arena-evacuated-tear-gas-don-toliver-concert",
+    "publishedAt": "2026-11-23T03:27:53.000Z"
+  },
+  {
+    "id": "53cf732139625145",
+    "title": "Belgium’s airports set to shut down due to anti-austerity strike",
+    "summary": "Skeyes halts air traffic control services, grounding flights at Belgian airports amid union-led strike.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike?traffic_source=rss",
+    "publishedAt": "2026-11-23T03:15:55.000Z"
+  },
+  {
     "id": "e027852317727e56",
     "title": "Former Bachelor star Sam Wood seeking mediation amid DV charges for allegedly strangling wife",
     "summary": "Lawyer Brad Hill seeks two-week adjournment on Monday for mediation, which can only occur if alleged victim consents.",
@@ -891,6 +909,15 @@
     "publishedAt": "2026-11-22T12:19:42.000Z"
   },
   {
+    "id": "f908da6e29c938c7",
+    "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
+    "summary": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+    "publishedAt": "2026-11-22T12:12:07.000Z"
+  },
+  {
     "id": "bc8c4fe7111210ba",
     "title": "School wins mental health and wellbeing award",
     "summary": "The opening of a wellbeing room for students at Blanchelande College is recognised by judges.",
@@ -1260,6 +1287,15 @@
     "publishedAt": "2026-11-22T06:59:59.000Z"
   },
   {
+    "id": "b562b9609d14edbc",
+    "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+    "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
+    "publishedAt": "2026-11-22T06:54:06.000Z"
+  },
+  {
     "id": "45be79e617b4c214",
     "title": "Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title",
     "summary": "Trinity Rodman left in tears after scoring Spirit's only goal as DiBernardo and Debinha give Current a closely fought win.",
@@ -1312,41 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
     "publishedAt": "2026-11-22T06:00:21.000Z"
-  },
-  {
-    "id": "9eade0408225d6bd",
-    "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
-    "summary": "After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world’s systems are under attack.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
-    "publishedAt": "2026-11-22T06:00:19.000Z"
-  },
-  {
-    "id": "96eef9501f0cde58",
-    "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
-    "summary": "The effects of the continent’s coming polls will be felt far and wide – and could well turn into ‘key tests’ of the bloc’s resilience.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
-    "publishedAt": "2026-11-22T06:00:18.000Z"
-  },
-  {
-    "id": "f594d1a5be663427",
-    "title": "In Ukraine, the fight to keep winter outside begins with a broken window",
-    "summary": "As the winter cold sets in, Kyiv and other Ukrainian cities face a growing shortage of window installers as Russian attacks leave homes shattered and families exposed to the cold.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/ukraine-fight-winter-begins-broken-window-138354669",
-    "publishedAt": "2026-11-22T05:46:25.000Z"
-  },
-  {
-    "id": "253bd1d799d8cfbb",
-    "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
-    "summary": "Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
-    "publishedAt": "2026-11-22T05:38:52.000Z"
   }
 ]
