@@ -1,5 +1,32 @@
 [
   {
+    "id": "a3d6e17b844c421d",
+    "title": "Fewer than half in UK will pay TV licence fee within a decade, report warns",
+    "summary": "Analysis for thinktank points to cycle of falling income leading to lower spending on content in ‘spiral of decline’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
+    "publishedAt": "2026-11-23T05:00:48.000Z"
+  },
+  {
+    "id": "aae51d5e942a94a9",
+    "title": "‘Difficult geopolitical times’: Albanese defends Bowen after Cop31 deal failure",
+    "summary": "Coalition calls for climate change minister to resign immediately or be sacked over ‘catastrophic diplomatic disaster’, despite offering no alternatives on reducing emissions.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/23/difficult-geopolitical-times-albanese-defends-bowen-after-cop31-deal-failure",
+    "publishedAt": "2026-11-23T04:21:00.000Z"
+  },
+  {
+    "id": "756073f765a59932",
+    "title": "Unemployment to surpass 5% and ‘things will get a bit harder’, treasurer Jim Chalmers warns",
+    "summary": "Economists flag rising recession risk as government forecasts economy will grow by less than 2% in 2027 and 2028.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns",
+    "publishedAt": "2026-11-23T04:17:27.000Z"
+  },
+  {
     "id": "d137cc38db6898b0",
     "title": "Doula thought self-described birth keeper was clinically trained before NSW baby death, inquest hears",
     "summary": "Inquest into the deaths of four babies after free and home births hears doula urged client to attend birth centre.",
@@ -7,6 +34,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/23/doula-thought-self-described-birth-keeper-was-clinically-trained-before-nsw-baby-death-inquest-hears-ntwnfb",
     "publishedAt": "2026-11-23T04:03:07.000Z"
+  },
+  {
+    "id": "1e3834cb7a60b497",
+    "title": "Pip assessments need 'fundamental overhaul', report to say",
+    "summary": "Disability minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo",
+    "publishedAt": "2026-11-23T04:01:13.000Z"
   },
   {
     "id": "83aa240cb8a5b20c",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
     "publishedAt": "2026-11-22T06:54:06.000Z"
-  },
-  {
-    "id": "45be79e617b4c214",
-    "title": "Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title",
-    "summary": "Trinity Rodman left in tears after scoring Spirit's only goal as DiBernardo and Debinha give Current a closely fought win.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss",
-    "publishedAt": "2026-11-22T06:40:18.000Z"
-  },
-  {
-    "id": "0930d70aa26063d9",
-    "title": "Record-breaking sightings of rare moth in Essex",
-    "summary": "There is now a self-sustaining population of the moth at a nature reserve in Essex, a charity says.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6jrey28gvqxo",
-    "publishedAt": "2026-11-22T06:38:26.000Z"
-  },
-  {
-    "id": "c28c0306a038ff61",
-    "title": "'One-in-2,000-year weather' to be investigated post-blackout",
-    "summary": "The SA government says the suggestion that a \"one-in-2,000-year weather event\" was responsible for the Eyre Peninsula blackout will be critically examined amid ongoing fallout from the incident.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-22/eyre-peninsula-blackout-weather-to-be-investigated/107404306",
-    "publishedAt": "2026-11-22T06:06:26.000Z"
-  },
-  {
-    "id": "cd3f9ca39c7787eb",
-    "title": "Dozens missing after fire at Indonesian factory",
-    "summary": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
-    "publishedAt": "2026-11-22T06:05:00.000Z"
   }
 ]
