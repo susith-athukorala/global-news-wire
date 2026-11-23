@@ -1,5 +1,41 @@
 [
   {
+    "id": "60825bb1955b7e71",
+    "title": "Russian incursions into NATO territory are increasing",
+    "summary": "NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
+    "publishedAt": "2026-11-23T23:08:51.000Z"
+  },
+  {
+    "id": "a4dc0379d2f60a2b",
+    "title": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street?",
+    "summary": "Trump claims credit for Huang's return, raising concerns over federal government meddling in corporate board decisions.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss",
+    "publishedAt": "2026-11-23T23:06:03.000Z"
+  },
+  {
+    "id": "cfc232b21505c09a",
+    "title": "'A nightmare I'd like to forget' - patients of failing health board say it's beyond redemption",
+    "summary": "Patients describe days waiting in A&E at a health board in special measures for almost a decade.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmde19r99w9go",
+    "publishedAt": "2026-11-23T22:55:38.000Z"
+  },
+  {
+    "id": "f251d809d996cc13",
+    "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+    "summary": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+    "publishedAt": "2026-11-23T22:41:48.000Z"
+  },
+  {
     "id": "3c7214ece71fcc2e",
     "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
     "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
@@ -1312,41 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
     "publishedAt": "2026-11-23T07:37:09.000Z"
-  },
-  {
-    "id": "438677fa752fb716",
-    "title": "Thai court upholds royal defamation conviction for opposition lawmaker and cuts sentence to 3 years",
-    "summary": "An appeals court has upheld the conviction of an opposition lawmaker for defaming Thailand’s monarchy in social media posts but reduced her prison sentence from six years to three.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/thai-court-upholds-royal-defamation-conviction-opposition-lawmaker-138369625",
-    "publishedAt": "2026-11-23T07:36:09.000Z"
-  },
-  {
-    "id": "b5f3c8c31ce0dd78",
-    "title": "Turkish authorities search for lion spotted on outskirts of Istanbul",
-    "summary": "Police and animal welfare teams in Istanbul are searching for a female lion seen prowling the city’s outskirts.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/turkish-authorities-search-lion-spotted-outskirts-istanbul-138369535",
-    "publishedAt": "2026-11-23T07:36:06.000Z"
-  },
-  {
-    "id": "c70992d38b3c9c91",
-    "title": "Clubs and families revolt as Football Queensland charges $5 a head to watch children play",
-    "summary": "Gate fee comes on top of annual cost of between $300 and $700 per family.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/23/football-queensland-gate-fee-kids-soccer-outrage",
-    "publishedAt": "2026-11-23T07:30:57.000Z"
-  },
-  {
-    "id": "bc064cfe5bb9a5f1",
-    "title": "MotoGP maestro Marquez makes history with eighth premier-class world title",
-    "summary": "His eighth success in the premier class of motorcycling pulled Marc Marquez level with Italian great Giacomo Agostini.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/23/marc-marquez-motogp-world-title-eighth-premier-class-motorcyling-portugal-gp?traffic_source=rss",
-    "publishedAt": "2026-11-23T07:19:47.000Z"
   }
 ]
