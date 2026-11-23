@@ -1,5 +1,32 @@
 [
   {
+    "id": "941d9d7c875e4ee0",
+    "title": "How important are Nvidia and Jensen Huang to the US economy?",
+    "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo",
+    "publishedAt": "2026-11-23T15:15:48.000Z"
+  },
+  {
+    "id": "30f657ecf295887e",
+    "title": "Cranberry jam: warming winters and extreme weather threaten an iconic holiday fruit",
+    "summary": "Scientists are racing to identify and breed new berry varieties that can thrive on an increasingly warmer planet.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/23/cranberry-growing-climate-crisis",
+    "publishedAt": "2026-11-23T15:00:49.000Z"
+  },
+  {
+    "id": "1785416a2ab8e040",
+    "title": "Nvidia's board of directors brings Jensen Huang back as CEO",
+    "summary": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Jensen's return as a national security risk.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
+    "publishedAt": "2026-11-23T14:53:41.000Z"
+  },
+  {
     "id": "6144b94b70afb55b",
     "title": "Amtrak train derails after colliding with tractor-trailer in Louisiana",
     "summary": "Five passengers were reported to have non-life-threatening injuries after crash at railroad crossing near Lafayette.",
@@ -169,6 +196,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/23/students-from-gaza-win-visa-battle-to-study-in-ireland",
     "publishedAt": "2026-11-23T13:03:14.000Z"
+  },
+  {
+    "id": "a44d3770aa7f06b4",
+    "title": "AI conquered chess. What happened next should give us hope",
+    "summary": "As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicate.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
+    "publishedAt": "2026-11-23T13:00:31.000Z"
   },
   {
     "id": "9ef6302e722db8b7",
@@ -1312,41 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/22/liverpool-4-0-manchester-united-the-key-takeaways-for-pochettino?traffic_source=rss",
     "publishedAt": "2026-11-22T20:04:12.000Z"
-  },
-  {
-    "id": "231f1049fd5702a6",
-    "title": "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say",
-    "summary": "The sea drone strike triggered an explosion and fire in Benghazi.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/suspected-drone-strike-hits-russian-vessel-libya-138359178",
-    "publishedAt": "2026-11-22T19:38:18.000Z"
-  },
-  {
-    "id": "e3b790d982203eb7",
-    "title": "What to know about tear gas and reproductive health, as concerns are raised in France",
-    "summary": "French activists and lawmakers are demanding after recent protests that police stop using tear gas because of rising concerns about menstrual changes and reproductive health issues.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/tear-gas-reproductive-health-people-raise-concerns-france-138356698",
-    "publishedAt": "2026-11-22T19:38:14.000Z"
-  },
-  {
-    "id": "37779a806d9c66e4",
-    "title": "NSW renters' bonds could generate $200m a year to help tenants, union says",
-    "summary": "The NSW Tenants' Union is arguing funding for the state's rental taskforce could be bolstered by $200 million if interest was being accumulated on rental bonds.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-23/more-funding-needed-to-equip-nsw-rental-taskforce-says-union/106973144",
-    "publishedAt": "2026-11-22T19:35:38.000Z"
-  },
-  {
-    "id": "fb61cc4234e2e4e6",
-    "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-    "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-    "publishedAt": "2026-11-22T19:34:59.000Z"
   }
 ]
