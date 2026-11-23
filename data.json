@@ -1,5 +1,41 @@
 [
   {
+    "id": "3c7214ece71fcc2e",
+    "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+    "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
+    "publishedAt": "2026-11-23T22:15:26.000Z"
+  },
+  {
+    "id": "95f79e5818c90801",
+    "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
+    "summary": "Democrat, who lost re-election bid, found to have made ‘unwelcome sexual advances’ towards House staffer.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
+    "publishedAt": "2026-11-23T21:53:33.000Z"
+  },
+  {
+    "id": "4e527fd4a33b32aa",
+    "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+    "summary": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
+    "publishedAt": "2026-11-23T21:30:40.000Z"
+  },
+  {
+    "id": "8acddeed4a257c6c",
+    "title": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material",
+    "summary": "Virginia and Oregon filed separate lawsuits on Monday, accusing the company of promoting Grok's 'spicy mode'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss",
+    "publishedAt": "2026-11-23T21:15:33.000Z"
+  },
+  {
     "id": "54218a61834f0012",
     "title": "Republican sheriff racked up $3m security bill for California taxpayers, including Ritz-Carlton stays and steak",
     "summary": "High costs incurred during Chad Bianco’s failed run for state governor, including a $665 steak dinner, have raised concerns.",
@@ -133,6 +169,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
     "publishedAt": "2026-11-23T19:20:30.000Z"
+  },
+  {
+    "id": "a23b3821460267bd",
+    "title": "Woman faces hour-long drive to give birth as hospital suspends maternity services",
+    "summary": "From Monday, maternity services at Daisy Hill Hospital will move to Craigavon Area Hospital.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cv5y10xn90y3o",
+    "publishedAt": "2026-11-23T18:34:09.000Z"
   },
   {
     "id": "ef0d9c4c3ddbc24a",
@@ -1303,50 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/23/marc-marquez-motogp-world-title-eighth-premier-class-motorcyling-portugal-gp?traffic_source=rss",
     "publishedAt": "2026-11-23T07:19:47.000Z"
-  },
-  {
-    "id": "ec55d8f5986d9974",
-    "title": "Can you solve it? How Super Mario explains Renaissance art",
-    "summary": "Today’s puzzle is about the hidden mathematical pattern behind a much-loved video game.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/23/can-you-solve-it-how-super-mario-explains-renaissance-art",
-    "publishedAt": "2026-11-23T07:10:49.000Z"
-  },
-  {
-    "id": "f2f86ae6cd7b80d1",
-    "title": "India-Pakistan cricket fans want ‘dirty politics’ kept out of beloved sport",
-    "summary": "Cricket's die-hard fans say players are being forced to take part in acts of aggression for the benefit of politicians.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/23/india-pakistan-cricket-fans-want-dirty-politics-kept-out-of-beloved-sport?traffic_source=rss",
-    "publishedAt": "2026-11-23T07:07:33.000Z"
-  },
-  {
-    "id": "b51b3d885cdf52a1",
-    "title": "Grieving families getting into debt and doing without memorials due to benefit freezes",
-    "summary": "MPs to discuss bereavement support as financial help for funeral expenses and bereaved families fails to keep pace with costs.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/23/grieving-families-getting-into-debt-and-doing-without-memorials-due-to-benefit-freezes",
-    "publishedAt": "2026-11-23T07:00:50.000Z"
-  },
-  {
-    "id": "5249720e433467d4",
-    "title": "Drivers trapped in limbo due to DVLA licence delays",
-    "summary": "It had been revoked on medical grounds but after 12 months I was invited to restore it. Nine months later my application was untouched.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/23/drivers-dvla-driving-licence-delays-revoked-medical",
-    "publishedAt": "2026-11-23T07:00:50.000Z"
-  },
-  {
-    "id": "e995d4d0cb4acfee",
-    "title": "Apple iPhone Duo review: the most novel and interesting iPhone in almost a decade",
-    "summary": "The folding iPhone is early-adopter gold, changing the way iOS works and successfully condensing a tablet into your pocket, but it is not for everyone.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/23/apple-iphone-duo-review-most-novel-interesting-iphone-in-almost-a-decade",
-    "publishedAt": "2026-11-23T07:00:49.000Z"
   }
 ]
