@@ -1,5 +1,23 @@
 [
   {
+    "id": "ef0d9c4c3ddbc24a",
+    "title": "Former prince Andrew was paid £750,000 in hope of helping Turkish woman with passport, high court told",
+    "summary": "Nebahat Isbilen claims her former adviser paid bribe in return for help with passport, but money was returned.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/23/former-prince-andrew-was-paid-bribe-to-help-turkish-woman-with-passport-high-court-told",
+    "publishedAt": "2026-11-23T18:20:03.000Z"
+  },
+  {
+    "id": "59a966b49afd1bb9",
+    "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
+    "summary": "Nepal's Prime Minister Balendra Shah is in New Delhi for a two-day visit — his first since coming to power in March.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss",
+    "publishedAt": "2026-11-23T18:12:55.000Z"
+  },
+  {
     "id": "0774ef478ccb361f",
     "title": "Gisèle Pelicot ‘deeply shocked’ after nude images used to promote book",
     "summary": "French woman says she will pursue legal action against publisher over use of photos taken by convicted husband.",
@@ -43,6 +61,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss",
     "publishedAt": "2026-11-23T18:00:23.000Z"
+  },
+  {
+    "id": "1e3834cb7a60b497",
+    "title": "Pip assessments need 'fundamental overhaul', report to say",
+    "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo",
+    "publishedAt": "2026-11-23T17:59:55.000Z"
   },
   {
     "id": "68325e9c18ef882c",
@@ -1305,6 +1332,15 @@
     "publishedAt": "2026-11-23T05:38:01.000Z"
   },
   {
+    "id": "3254ef278d69e73b",
+    "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+    "summary": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
+    "publishedAt": "2026-11-23T05:33:17.000Z"
+  },
+  {
     "id": "233527ac46cd3e5c",
     "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
     "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
     "publishedAt": "2026-11-23T05:15:06.000Z"
-  },
-  {
-    "id": "a3d6e17b844c421d",
-    "title": "Fewer than half in UK will pay TV licence fee within a decade, report warns",
-    "summary": "Analysis for thinktank points to cycle of falling income leading to lower spending on content in ‘spiral of decline’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
-    "publishedAt": "2026-11-23T05:00:48.000Z"
-  },
-  {
-    "id": "aae51d5e942a94a9",
-    "title": "‘Difficult geopolitical times’: Albanese defends Bowen after Cop31 deal failure",
-    "summary": "Coalition calls for climate change minister to resign immediately or be sacked over ‘catastrophic diplomatic disaster’, despite offering no alternatives on reducing emissions.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/23/difficult-geopolitical-times-albanese-defends-bowen-after-cop31-deal-failure",
-    "publishedAt": "2026-11-23T04:21:00.000Z"
-  },
-  {
-    "id": "756073f765a59932",
-    "title": "Unemployment to surpass 5% and ‘things will get a bit harder’, treasurer Jim Chalmers warns",
-    "summary": "Economists flag rising recession risk as government forecasts economy will grow by less than 2% in 2027 and 2028.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns",
-    "publishedAt": "2026-11-23T04:17:27.000Z"
-  },
-  {
-    "id": "d137cc38db6898b0",
-    "title": "Doula thought self-described birth keeper was clinically trained before NSW baby death, inquest hears",
-    "summary": "Inquest into the deaths of four babies after free and home births hears doula urged client to attend birth centre.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/23/doula-thought-self-described-birth-keeper-was-clinically-trained-before-nsw-baby-death-inquest-hears-ntwnfb",
-    "publishedAt": "2026-11-23T04:03:07.000Z"
   }
 ]
