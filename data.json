@@ -1,5 +1,86 @@
 [
   {
+    "id": "c8f40f6d3f92a08e",
+    "title": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
+    "summary": "President Zelenskyy hails \"an exemplary Ukrainian operation\" as UN calls for investigation.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/ukraine-claims-responsiblity-for-drone-attacks-on-russian-ships-off-libya?traffic_source=rss",
+    "publishedAt": "2026-11-23T08:12:29.000Z"
+  },
+  {
+    "id": "373c1cc837029028",
+    "title": "Is it true that … we only use 10% of our brains?",
+    "summary": "The idea that we access a fraction of our cognitive potential goes back decades, but does medical science agree?",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/23/is-it-true-we-only-use-10-per-cent-brain",
+    "publishedAt": "2026-11-23T08:00:51.000Z"
+  },
+  {
+    "id": "5deb76a86bdb12dd",
+    "title": "Carney enlists fake Trump for laughs at Canada's annual press gallery dinner",
+    "summary": "Canadian Prime Minister Mark Carney shared the stage with a fake Donald Trump and two versions of himself Saturday, enlisting comedians to help roast the U.S. president and Canadian politicians at an annual dinner with journalists.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/carney-enlists-fake-trump-laughs-canadas-annual-press-138366618",
+    "publishedAt": "2026-11-23T08:00:41.000Z"
+  },
+  {
+    "id": "aff9948775419467",
+    "title": "Indonesian rescuers race to find 34 missing workers after a deadly candy factory fire",
+    "summary": "Indonesian rescuers are searching for 34 missing workers after a deadly fire swept through a candy factory west of Jakarta.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/indonesian-rescuers-race-find-34-missing-workers-after-138369526",
+    "publishedAt": "2026-11-23T07:52:44.000Z"
+  },
+  {
+    "id": "20e9d0df2d4836e5",
+    "title": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
+    "summary": "President Zelenskyy hails \"an exemplary Ukrainian operation\" as UN calls for investigation.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+    "publishedAt": "2026-11-23T07:37:09.000Z"
+  },
+  {
+    "id": "438677fa752fb716",
+    "title": "Thai court upholds royal defamation conviction for opposition lawmaker and cuts sentence to 3 years",
+    "summary": "An appeals court has upheld the conviction of an opposition lawmaker for defaming Thailand’s monarchy in social media posts but reduced her prison sentence from six years to three.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/thai-court-upholds-royal-defamation-conviction-opposition-lawmaker-138369625",
+    "publishedAt": "2026-11-23T07:36:09.000Z"
+  },
+  {
+    "id": "b5f3c8c31ce0dd78",
+    "title": "Turkish authorities search for lion spotted on outskirts of Istanbul",
+    "summary": "Police and animal welfare teams in Istanbul are searching for a female lion seen prowling the city’s outskirts.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/turkish-authorities-search-lion-spotted-outskirts-istanbul-138369535",
+    "publishedAt": "2026-11-23T07:36:06.000Z"
+  },
+  {
+    "id": "c70992d38b3c9c91",
+    "title": "Clubs and families revolt as Football Queensland charges $5 a head to watch children play",
+    "summary": "Gate fee comes on top of annual cost of between $300 and $700 per family.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/23/football-queensland-gate-fee-kids-soccer-outrage",
+    "publishedAt": "2026-11-23T07:30:57.000Z"
+  },
+  {
+    "id": "bc064cfe5bb9a5f1",
+    "title": "MotoGP maestro Marquez makes history with eighth premier-class world title",
+    "summary": "His eighth success in the premier class of motorcycling pulled Marc Marquez level with Italian great Giacomo Agostini.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/23/marc-marquez-motogp-world-title-eighth-premier-class-motorcyling-portugal-gp?traffic_source=rss",
+    "publishedAt": "2026-11-23T07:19:47.000Z"
+  },
+  {
     "id": "ec55d8f5986d9974",
     "title": "Can you solve it? How Super Mario explains Renaissance art",
     "summary": "Today’s puzzle is about the hidden mathematical pattern behind a much-loved video game.",
@@ -7,6 +88,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/science/2026/nov/23/can-you-solve-it-how-super-mario-explains-renaissance-art",
     "publishedAt": "2026-11-23T07:10:49.000Z"
+  },
+  {
+    "id": "f2f86ae6cd7b80d1",
+    "title": "India-Pakistan cricket fans want ‘dirty politics’ kept out of beloved sport",
+    "summary": "Cricket's die-hard fans say players are being forced to take part in acts of aggression for the benefit of politicians.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/23/india-pakistan-cricket-fans-want-dirty-politics-kept-out-of-beloved-sport?traffic_source=rss",
+    "publishedAt": "2026-11-23T07:07:33.000Z"
   },
   {
     "id": "b51b3d885cdf52a1",
@@ -27,6 +117,15 @@
     "publishedAt": "2026-11-23T07:00:50.000Z"
   },
   {
+    "id": "e995d4d0cb4acfee",
+    "title": "Apple iPhone Duo review: the most novel and interesting iPhone in almost a decade",
+    "summary": "The folding iPhone is early-adopter gold, changing the way iOS works and successfully condensing a tablet into your pocket, but it is not for everyone.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/23/apple-iphone-duo-review-most-novel-interesting-iphone-in-almost-a-decade",
+    "publishedAt": "2026-11-23T07:00:49.000Z"
+  },
+  {
     "id": "af75c65b14939e5d",
     "title": "Monday briefing: What could Andy Burnham’s reset mean for the UK?",
     "summary": "In today’s newsletter: The prime minister has reopened the debate over a future relationship with a changed EU – as the bloc faces the rise of the far right, a protectionist economic agenda and growing defence ambitions.",
@@ -43,6 +142,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo",
     "publishedAt": "2026-11-23T06:33:50.000Z"
+  },
+  {
+    "id": "a23b3821460267bd",
+    "title": "Birth excitement 'turns to worry' over maternity move",
+    "summary": "From Monday, maternity services at Daisy Hill Hospital will move to Craigavon Area Hospital.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cv5y10xn90y3o",
+    "publishedAt": "2026-11-23T06:17:17.000Z"
   },
   {
     "id": "c0578df5807fed39",
@@ -520,6 +628,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
     "publishedAt": "2026-11-22T21:26:12.000Z"
+  },
+  {
+    "id": "d7fd540855b100c5",
+    "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+    "summary": "The couple have been together for four years and were engaged in 2025.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo",
+    "publishedAt": "2026-11-22T21:22:40.000Z"
   },
   {
     "id": "16bb4b229baf69d1",
@@ -1231,122 +1348,5 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-22/us-loses-influence-in-asia-as-china-gains-in-lowy-power-index/107411514",
     "publishedAt": "2026-11-22T11:32:15.000Z"
-  },
-  {
-    "id": "9cf5484351a494b4",
-    "title": "The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington",
-    "summary": "‘Raising growth in every postcode’ has been the PM’s rallying cry but deep regional disparities and rising energy bills pose problems this winter.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
-    "publishedAt": "2026-11-22T11:24:22.000Z"
-  },
-  {
-    "id": "4e95c65bfea50bcf",
-    "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
-    "summary": "Lionel Messi escapes red-card booking for controversial throw-in in Miami's 3-0 defeat by Columbus in MLS Cup playoffs.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
-    "publishedAt": "2026-11-22T11:07:30.000Z"
-  },
-  {
-    "id": "6cfafb674561f3f2",
-    "title": "Conservative media weighs its future as cracks emerge in Trump’s movement",
-    "summary": "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on Maga.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
-    "publishedAt": "2026-11-22T11:00:26.000Z"
-  },
-  {
-    "id": "0ea430def48395d9",
-    "title": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
-    "summary": "Billionaire commerce secretary faces scrutiny after sex scandal reveals his role in sales of chips to China.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
-    "publishedAt": "2026-11-22T11:00:26.000Z"
-  },
-  {
-    "id": "967160e59a88daf2",
-    "title": "Arizona grandfather hailed as a hero after finding missing toddler in desert",
-    "summary": "Jay Stewart joined search party after two-year-old Vella Campillo wandered off into desert from front yard of home.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/22/arizona-grandfather-toddler-missing-desert",
-    "publishedAt": "2026-11-22T11:00:25.000Z"
-  },
-  {
-    "id": "2606cafd4f33a621",
-    "title": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
-    "summary": "Exporters welcome end in sight for Brexit checks – but are frustrated that implementation will take so long.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
-    "publishedAt": "2026-11-22T11:00:24.000Z"
-  },
-  {
-    "id": "5c6eae0d839d5fef",
-    "title": "Exquisitely decorated home of Victorian workman David Parr wins blue plaque",
-    "summary": "Working-class man who covered mansions with William Morris’s patterns spent his nights filling his Cambridge terrace house with his own designs.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/nov/22/exquisitely-decorated-home-of-victorian-workman-david-parr-wins-blue-plaque-cambridge",
-    "publishedAt": "2026-11-22T10:59:28.000Z"
-  },
-  {
-    "id": "8864c85aaebc7531",
-    "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
-    "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro",
-    "publishedAt": "2026-11-22T10:44:12.000Z"
-  },
-  {
-    "id": "06b2152cf89272d5",
-    "title": "Russian cargo ship still on fire off Finland after drone attack",
-    "summary": "The ship, bound for Russia's Kaliningrad, was damaged in international waters before drifting into Finnish territory.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
-    "publishedAt": "2026-11-22T10:39:50.000Z"
-  },
-  {
-    "id": "c1d19bebb454a090",
-    "title": "‘Intimidating’ vigilantes posing as far-right security on the rise, UK experts say",
-    "summary": "Volunteers in black uniforms and body armour increasingly seen with figures such as Tommy Robinson.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/22/intimidating-vigilantes-posing-as-far-right-security-on-the-rise-uk-experts-say",
-    "publishedAt": "2026-11-22T09:49:16.000Z"
-  },
-  {
-    "id": "1b15f9b731e61280",
-    "title": "Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown",
-    "summary": "Sajad Jawad died three days after winning the gold medal in the 90kg category at the Asian Championships in Thailand.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss",
-    "publishedAt": "2026-11-22T09:45:48.000Z"
-  },
-  {
-    "id": "444029da750d50cd",
-    "title": "Restored wells bring life back to Hebron’s occupied Old City",
-    "summary": "Hebron's Old City has been under constant siege by Israeli settlers and the military.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
-    "publishedAt": "2026-11-22T09:33:16.000Z"
-  },
-  {
-    "id": "0c878406db538ded",
-    "title": "Why are so many more young Scots claiming disability benefits?",
-    "summary": "The number of Scots claiming disability benefits has risen sharply since the Covid pandemic - why?",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8r7kmgd8dxo",
-    "publishedAt": "2026-11-22T09:28:24.000Z"
   }
 ]
