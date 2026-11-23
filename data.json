@@ -1,5 +1,158 @@
 [
   {
+    "id": "a25d3e2dc07765f1",
+    "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+    "summary": "",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo",
+    "publishedAt": "2026-11-23T17:11:58.000Z"
+  },
+  {
+    "id": "9d50e4f5338758f0",
+    "title": "Democrats to hold a dozen 2028 presidential primary debates starting in June",
+    "summary": "DNC unveils plans to hold 12 primary debates over 10 months, allowing up to 20 candidates to participate.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/23/dnc-democrats-presidential-primary-debates",
+    "publishedAt": "2026-11-23T17:07:55.000Z"
+  },
+  {
+    "id": "0d242859bfc8fb24",
+    "title": "Greece’s oldest modern-era museum reopens on the Acropolis after major restoration",
+    "summary": "Greece’s oldest modern-era museum has reopened on the Acropolis in Athens after a seven-year, 6.2 million-euro ($6.8 million) restoration.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/greeces-oldest-modern-era-museum-reopens-acropolis-after-138377839",
+    "publishedAt": "2026-11-23T17:02:53.000Z"
+  },
+  {
+    "id": "a024af7babbaa994",
+    "title": "Hungary’s Magyar says he will visit Ukraine in a sign of mending relations",
+    "summary": "Hungarian Prime Minister P&eacute;ter Magyar plans to visit Ukraine soon, signaling improved relations between the two countries.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/hungarys-magyar-visit-ukraine-sign-mending-relations-138377958",
+    "publishedAt": "2026-11-23T17:02:18.000Z"
+  },
+  {
+    "id": "7cb5a964ccec2301",
+    "title": "Bukele reveals circumstances in which 3 Salvadoran soldiers died fighting gangs in Haiti",
+    "summary": "El Salvador’s president has identified the soldiers from the Central American country who recently died in Haiti as they fight violent gangs.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/bukele-reveals-circumstances-3-salvadoran-soldiers-died-fighting-138378203",
+    "publishedAt": "2026-11-23T17:02:13.000Z"
+  },
+  {
+    "id": "d9d944320bc41f99",
+    "title": "Indonesia names 6 current and former police officials as suspects in an alleged treason plot",
+    "summary": "Indonesian authorities have named former National Police chief Gen. Listyo Sigit Prabowo and five other current and former senior officers as suspects in an alleged treason plot against President Prabowo Subianto’s government.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/indonesia-names-6-current-former-police-officials-suspects-138378719",
+    "publishedAt": "2026-11-23T17:02:04.000Z"
+  },
+  {
+    "id": "77e1baae0fa77bb4",
+    "title": "WHO director-general visits Cuba as healthcare system breaks down",
+    "summary": "The World Health Organization's top official is visiting Cuba as the island’s healthcare system crumbles under a spiraling economic crisis and worsening power outages.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/director-general-visits-cuba-healthcare-system-breaks-138379754",
+    "publishedAt": "2026-11-23T17:01:42.000Z"
+  },
+  {
+    "id": "5c038d6495a53e97",
+    "title": "Did you solve it? How Super Mario explains Renaissance art",
+    "summary": "Earlier today I set you the following puzzle. Here it is again with the solution.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/23/did-you-solve-it-how-super-mario-explains-renaissance-art",
+    "publishedAt": "2026-11-23T17:00:52.000Z"
+  },
+  {
+    "id": "f748ddfc92521a62",
+    "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
+    "summary": "Island’s labour minister, Tony Dyer, says agreement acknowledges links between Speightstown and UK city are rooted in slave trade.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
+    "publishedAt": "2026-11-23T16:53:13.000Z"
+  },
+  {
+    "id": "2aa9fd24f84b5e13",
+    "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+    "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
+    "publishedAt": "2026-11-23T16:49:51.000Z"
+  },
+  {
+    "id": "540d07d0d8688243",
+    "title": "Florida city cancels Christmas parade after tax amendment forces budget cuts",
+    "summary": "Deltona officials say parade is getting cancelled due to the state’s voter-approved Amendment 3 property tax overhaul.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/23/deltona-florida-christmas-parade-amendment-3",
+    "publishedAt": "2026-11-23T16:48:11.000Z"
+  },
+  {
+    "id": "f7f45b0454353983",
+    "title": "Lucy Powell to visit China to promote UK education weeks after MI5 warning",
+    "summary": "Delegation of 50 to accompany minister, with trip criticised after universities were warned about Chinese interference.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
+    "publishedAt": "2026-11-23T16:42:09.000Z"
+  },
+  {
+    "id": "00ee9db08ed19d5a",
+    "title": "Burnham: I won’t listen to ex-Tory PMs who left UK with ‘bad Brexit deal’",
+    "summary": "PM says closer ties with EU will lower cost of living, with ‘brainstorming’ sessions being mooted to discuss shape of future relationship.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
+    "publishedAt": "2026-11-23T16:40:47.000Z"
+  },
+  {
+    "id": "6c8e8f63ded135d0",
+    "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
+    "summary": "Israel continues to launch attacks across the enclave, despite an October 2025 'ceasefire' deal.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-23T16:36:22.000Z"
+  },
+  {
+    "id": "76e72c51b82b643a",
+    "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+    "summary": "Russia has reacted with fury to Ukraine's continued campaign targeting its naval and merchant shipping.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+    "publishedAt": "2026-11-23T16:23:33.000Z"
+  },
+  {
+    "id": "4578896294e6351b",
+    "title": "Trump says he ‘convinced’ Nvidia board to reinstate Jensen Huang",
+    "summary": "President says he spoke with board ‘directly and indirectly’ and assured them on national security risks.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
+    "publishedAt": "2026-11-23T16:19:22.000Z"
+  },
+  {
+    "id": "275d08c0c9d43589",
+    "title": "Teenage boy stabbed 14-year-old girl 55 times in park in south Wales, jury told",
+    "summary": "Defendant and Lilly Jones had been messaging for months and arranged to meet on evening she was killed, court hears.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/23/lilly-jones-stabbing-park-south-wales-trial",
+    "publishedAt": "2026-11-23T16:19:06.000Z"
+  },
+  {
     "id": "539bc3fb2c36b747",
     "title": "NVIDIA reinstates Jensen Huang as CEO",
     "summary": "Nvidia has reinstated Jensen Huang as CEO.",
@@ -279,6 +432,15 @@
     "publishedAt": "2026-11-23T13:03:14.000Z"
   },
   {
+    "id": "58ba47aabdb3efc8",
+    "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+    "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno",
+    "publishedAt": "2026-11-23T13:02:05.000Z"
+  },
+  {
     "id": "a44d3770aa7f06b4",
     "title": "AI conquered chess. What happened next should give us hope",
     "summary": "As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicate.",
@@ -295,6 +457,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/23/concert-shooting-california-strathmore",
     "publishedAt": "2026-11-23T13:00:05.000Z"
+  },
+  {
+    "id": "a643e877c3bf15fd",
+    "title": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
+    "summary": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq7820xjm49po",
+    "publishedAt": "2026-11-23T12:43:40.000Z"
   },
   {
     "id": "97e4769547f8d05e",
@@ -1177,176 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
     "publishedAt": "2026-11-23T00:31:31.000Z"
-  },
-  {
-    "id": "05aab9fe7b4acaa6",
-    "title": "What is going on with Poundland?",
-    "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
-    "publishedAt": "2026-11-23T00:22:27.000Z"
-  },
-  {
-    "id": "ffa15ae5b9f3a113",
-    "title": "Climate talks crash a sign of anger with oil lobby, scientist says",
-    "summary": "Countries have rejected a climate deal that ignores fossil fuels, but experts say that reflects anger rather than indifference.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-23/cop-climate-change-negotiation-failure-a-sign-of-anger/107415518",
-    "publishedAt": "2026-11-23T00:18:49.000Z"
-  },
-  {
-    "id": "397cb06d90e67591",
-    "title": "South Korea’s stock market tumbles as AI bubble fears mount",
-    "summary": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
-    "publishedAt": "2026-11-23T00:18:03.000Z"
-  },
-  {
-    "id": "626e59734f22865e",
-    "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-    "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
-    "publishedAt": "2026-11-23T00:08:00.000Z"
-  },
-  {
-    "id": "6ee0a647046083b6",
-    "title": "Energy bills will soar - here's how you can ease the pain",
-    "summary": "Household energy bills are about to soar but there are ways to keep a lid on your expenditure.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
-    "publishedAt": "2026-11-23T00:05:29.000Z"
-  },
-  {
-    "id": "c85ec2c28cfaa458",
-    "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
-    "summary": "Cameroon’s former rebels face arrest fears and failed reintegration.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
-    "publishedAt": "2026-11-23T00:03:30.000Z"
-  },
-  {
-    "id": "722eda40d616853f",
-    "title": "Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great",
-    "summary": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique character’ and ‘the fan all artists wish to have’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
-    "publishedAt": "2026-11-23T00:03:15.000Z"
-  },
-  {
-    "id": "04809b1f5e93f82f",
-    "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
-    "summary": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drug.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
-    "publishedAt": "2026-11-23T00:01:40.000Z"
-  },
-  {
-    "id": "288e6af64e1e0cfd",
-    "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
-    "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
-    "publishedAt": "2026-11-22T23:22:59.000Z"
-  },
-  {
-    "id": "1db6c2307217f7b3",
-    "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-    "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo",
-    "publishedAt": "2026-11-22T22:49:10.000Z"
-  },
-  {
-    "id": "cc6d817be8060122",
-    "title": "Hydrogen energy company cuts staff two months after $49m federal grant",
-    "summary": "Two months after receiving a grant to expand into commercial manufacturing, a move expected to create 40 new jobs, Port Kembla company Hysata cuts 17 staff.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-23/hydrogen-company-hysata-cuts-jobs-after-49m-grant/107410440",
-    "publishedAt": "2026-11-22T22:43:15.000Z"
-  },
-  {
-    "id": "4e7af9af598a2a32",
-    "title": "Ukraine war spilling into NATO territory",
-    "summary": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
-    "publishedAt": "2026-11-22T22:40:22.000Z"
-  },
-  {
-    "id": "897a7c844452ff84",
-    "title": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
-    "summary": "A company working for President Trump's son-in-law Jared Kushner purchased 300 acres of Albanian land for more than $130 million in April. But Albanians in the area tell NPR this is not Kushner's land -- it's theirs.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
-    "publishedAt": "2026-11-22T22:39:47.000Z"
-  },
-  {
-    "id": "c36cd7f669a1d161",
-    "title": "Trump to host private dinner for largest owners of his meme coin",
-    "summary": "Sunday's dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
-    "publishedAt": "2026-11-22T22:37:38.000Z"
-  },
-  {
-    "id": "7e276867e62f67c5",
-    "title": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
-    "summary": "Much-loved broadcaster played a critical role in exposing rest of the world to Australian music – and vice versa.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83",
-    "publishedAt": "2026-11-22T22:24:56.000Z"
-  },
-  {
-    "id": "109f006a5b07536e",
-    "title": "Democrats win largest House majority since 1992 with North Carolina seat",
-    "summary": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
-    "publishedAt": "2026-11-22T22:19:47.000Z"
-  },
-  {
-    "id": "6d237cbadb79f401",
-    "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ US healthcare proposal",
-    "summary": "Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to pass.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
-    "publishedAt": "2026-11-22T22:01:17.000Z"
-  },
-  {
-    "id": "9e0e59e94b700d88",
-    "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-    "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-    "publishedAt": "2026-11-22T22:00:58.000Z"
-  },
-  {
-    "id": "5ef7582c1147383f",
-    "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the failure to say the f-word is not his alone",
-    "summary": "Australia’s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking point.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
-    "publishedAt": "2026-11-22T21:46:40.000Z"
   }
 ]
