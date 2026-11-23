@@ -1,5 +1,59 @@
 [
   {
+    "id": "ec55d8f5986d9974",
+    "title": "Can you solve it? How Super Mario explains Renaissance art",
+    "summary": "Today’s puzzle is about the hidden mathematical pattern behind a much-loved video game.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/23/can-you-solve-it-how-super-mario-explains-renaissance-art",
+    "publishedAt": "2026-11-23T07:10:49.000Z"
+  },
+  {
+    "id": "b51b3d885cdf52a1",
+    "title": "Grieving families getting into debt and doing without memorials due to benefit freezes",
+    "summary": "MPs to discuss bereavement support as financial help for funeral expenses and bereaved families fails to keep pace with costs.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/23/grieving-families-getting-into-debt-and-doing-without-memorials-due-to-benefit-freezes",
+    "publishedAt": "2026-11-23T07:00:50.000Z"
+  },
+  {
+    "id": "5249720e433467d4",
+    "title": "Drivers trapped in limbo due to DVLA licence delays",
+    "summary": "It had been revoked on medical grounds but after 12 months I was invited to restore it. Nine months later my application was untouched.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/23/drivers-dvla-driving-licence-delays-revoked-medical",
+    "publishedAt": "2026-11-23T07:00:50.000Z"
+  },
+  {
+    "id": "af75c65b14939e5d",
+    "title": "Monday briefing: What could Andy Burnham’s reset mean for the UK?",
+    "summary": "In today’s newsletter: The prime minister has reopened the debate over a future relationship with a changed EU – as the bloc faces the rise of the far right, a protectionist economic agenda and growing defence ambitions.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
+    "publishedAt": "2026-11-23T06:46:49.000Z"
+  },
+  {
+    "id": "cf4e15eabbe8e79f",
+    "title": "Five takeaways from the failed climate talks COP31",
+    "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo",
+    "publishedAt": "2026-11-23T06:33:50.000Z"
+  },
+  {
+    "id": "c0578df5807fed39",
+    "title": "Alcaraz storms past world number one Zverev to win maiden ATP Finals title",
+    "summary": "Alcaraz joins an exclusive list, becoming one of only four men to have won all four majors and the ATP Finals.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/23/carlos-alcaraz-atp-finals-2026-title-alexander-zverev-tennis?traffic_source=rss",
+    "publishedAt": "2026-11-23T06:15:40.000Z"
+  },
+  {
     "id": "4e35994a4a3156f7",
     "title": "As Syria-EU talks progress, diplomats fear focus will be on repatriation",
     "summary": "Syria and the EU are in talks on trade and political ties, but migration will likely be the key issue for discussion.",
@@ -70,6 +124,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/23/who-is-alberto-feijoo-the-conservative-seeking-to-become-spains-new-pm?traffic_source=rss",
     "publishedAt": "2026-11-23T05:51:00.000Z"
+  },
+  {
+    "id": "3684e9678abe9669",
+    "title": "At least 24 killed and dozens missing in confectionery factory fire in Indonesia",
+    "summary": "Rescuers brave unstable structures in search for missing as DNA needed to identify victims.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+    "publishedAt": "2026-11-23T05:45:12.000Z"
   },
   {
     "id": "42f3dcde7248d8f1",
@@ -250,6 +313,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
     "publishedAt": "2026-11-23T00:39:51.000Z"
+  },
+  {
+    "id": "2c8bfaa220e8f4fe",
+    "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+    "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
+    "publishedAt": "2026-11-23T00:33:36.000Z"
   },
   {
     "id": "e2be825e0d55bb5f",
@@ -1276,77 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cw8r7kmgd8dxo",
     "publishedAt": "2026-11-22T09:28:24.000Z"
-  },
-  {
-    "id": "ca3a5efb2b0087cb",
-    "title": "Bodies found, 29 workers missing after Indonesian factory fire",
-    "summary": "A fire has swept through a confectionary factory in Indonesia's Banten province, killing at least three workers and leaving 29 others unaccounted-for, officials say.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-22/bodies-recovered-after-indonesian-factory-fire/107414720",
-    "publishedAt": "2026-11-22T09:23:41.000Z"
-  },
-  {
-    "id": "f30828084c8adf40",
-    "title": "South Korea education minister resigns over exam cheating scandal",
-    "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no",
-    "publishedAt": "2026-11-22T09:20:45.000Z"
-  },
-  {
-    "id": "0eff314b5c196522",
-    "title": "Indian opposition party’s youth wing warns of more Meta protests after police clashes",
-    "summary": "Members of Congress party clashed with police outside tech company’s offices on Friday.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad",
-    "publishedAt": "2026-11-22T09:14:27.000Z"
-  },
-  {
-    "id": "7751ababced90d74",
-    "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
-    "summary": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
-    "publishedAt": "2026-11-22T09:00:22.000Z"
-  },
-  {
-    "id": "d7fd540855b100c5",
-    "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-    "summary": "The couple have been together for four years and were engaged in 2025.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo",
-    "publishedAt": "2026-11-22T08:46:28.000Z"
-  },
-  {
-    "id": "2c6a6ddb3592049f",
-    "title": "Gukesh vs Sindarov: The youngest World Chess Championship in history",
-    "summary": "India's Gukesh defends his title against Uzbekistan’s Sindarov in up to 14 games in Geneva from November 22.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss",
-    "publishedAt": "2026-11-22T08:11:40.000Z"
-  },
-  {
-    "id": "a0dc0301adf16799",
-    "title": "Highly lucrative: Bank of England directors illegally profited from post-abolition enslavement in Cuba",
-    "summary": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
-    "publishedAt": "2026-11-22T08:00:22.000Z"
-  },
-  {
-    "id": "74fe5146dfbb469e",
-    "title": "profiles of UK experts on gambling harm being hijacked to push illegal online casinos",
-    "summary": "Findings highlight unscrupulous tactics used by operators in multibillion pound illicit market and challenges facing authorities.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos",
-    "publishedAt": "2026-11-22T08:00:21.000Z"
   }
 ]
