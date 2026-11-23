@@ -1,5 +1,86 @@
 [
   {
+    "id": "4e35994a4a3156f7",
+    "title": "As Syria-EU talks progress, diplomats fear focus will be on repatriation",
+    "summary": "Syria and the EU are in talks on trade and political ties, but migration will likely be the key issue for discussion.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss",
+    "publishedAt": "2026-11-23T06:08:13.000Z"
+  },
+  {
+    "id": "b7bb23c43b1e2953",
+    "title": "I moved from Australia to the Welsh valleys because the houses are so cheap",
+    "summary": "The area has attracted investors and even a buyer from Australia, but locals struggle to afford homes.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cjkgkdppk1nwo",
+    "publishedAt": "2026-11-23T06:03:32.000Z"
+  },
+  {
+    "id": "cb372748e574f8a4",
+    "title": "Burnham not ‘backtracking’ on creating closer links with EU, officials say",
+    "summary": "Government wants to let trade deal ‘breathe a bit’, insiders say, after speculation No 10 is dialling back ambitions.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
+    "publishedAt": "2026-11-23T06:00:50.000Z"
+  },
+  {
+    "id": "d3f8c37f5972ad74",
+    "title": "Cost of renting in Britain to rise twice as fast as buying amid shortage of properties",
+    "summary": "Rents to rise by 14% until at least 2029, Hamptons predicts, as high demand for properties and low supply push up costs for tenants.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/23/cost-of-renting-in-britain-to-rise-twice-as-fast-as-buying-amid-shortage-of-properties",
+    "publishedAt": "2026-11-23T06:00:50.000Z"
+  },
+  {
+    "id": "196b740cd1396f3d",
+    "title": "Starwatch: a rare chance to observe elusive Mercury",
+    "summary": "Being so close to the sun, the smallest planet in the solar system is also one of the most difficult to spot.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/23/starwatch-a-rare-chance-to-observe-elusive-mercury",
+    "publishedAt": "2026-11-23T06:00:49.000Z"
+  },
+  {
+    "id": "6f7a0144c5b4b067",
+    "title": "MPs urge Miliband to force UK overseas territories to publish public company registers",
+    "summary": "Improvements in corporate transparency ‘essential’ amid ‘outright disregard for the will of parliament’, says cross-party group.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/23/mps-urge-miliband-force-uk-overseas-territories-publish-public-company-registers",
+    "publishedAt": "2026-11-23T06:00:47.000Z"
+  },
+  {
+    "id": "a517e10e5abddcef",
+    "title": "New Zealand’s Mitchell, Phillips frustrate India as first Test ends in draw",
+    "summary": "New Zealand rescued a draw on the final day, surviving 120 overs in a fighting display to finish on 239-5 at the close.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/23/new-zealand-india-first-test-cricket-wtc-phillips-mitchell-nicholls?traffic_source=rss",
+    "publishedAt": "2026-11-23T05:58:36.000Z"
+  },
+  {
+    "id": "e9bf189fbe3e109d",
+    "title": "Who is Alberto Feijoo, the conservative seeking to become Spain’s new PM?",
+    "summary": "The former career civil servant hopes to lead his Popular Party to victory in November 29 elections.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/who-is-alberto-feijoo-the-conservative-seeking-to-become-spains-new-pm?traffic_source=rss",
+    "publishedAt": "2026-11-23T05:51:00.000Z"
+  },
+  {
+    "id": "42f3dcde7248d8f1",
+    "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
+    "summary": "Physicians for Human Rights Israel says medics face 'dangerous escalation' in violence from soldiers and settlers.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
+    "publishedAt": "2026-11-23T05:38:01.000Z"
+  },
+  {
     "id": "a3d6e17b844c421d",
     "title": "Fewer than half in UK will pay TV licence fee within a decade, report warns",
     "summary": "Analysis for thinktank points to cycle of falling income leading to lower spending on content in ‘spiral of decline’",
@@ -187,6 +268,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
     "publishedAt": "2026-11-23T00:22:27.000Z"
+  },
+  {
+    "id": "ffa15ae5b9f3a113",
+    "title": "Climate talks crash a sign of anger with oil lobby, scientist says",
+    "summary": "Countries have rejected a climate deal that ignores fossil fuels, but experts say that reflects anger rather than indifference.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-23/cop-climate-change-negotiation-failure-a-sign-of-anger/107415518",
+    "publishedAt": "2026-11-23T00:18:49.000Z"
   },
   {
     "id": "397cb06d90e67591",
@@ -765,6 +855,15 @@
     "publishedAt": "2026-11-22T14:20:41.000Z"
   },
   {
+    "id": "cd3f9ca39c7787eb",
+    "title": "Three killed and dozens missing after fire at Indonesian factory",
+    "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
+    "publishedAt": "2026-11-22T14:05:20.000Z"
+  },
+  {
     "id": "f7ac6af79b5200dc",
     "title": "Experts say ‘trusted messengers’ critical as Amish grapple with measles outbreak",
     "summary": "Unfolding crisis shows importance of ‘human connections’ over the long term – especially in under-vaccinated areas.",
@@ -1249,104 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos",
     "publishedAt": "2026-11-22T08:00:21.000Z"
-  },
-  {
-    "id": "3d8d91e95743101e",
-    "title": "Max Verstappen wins F1 Las Vegas Grand Prix for third time in four years",
-    "summary": "Red Bull's Verstappen dug deep to fend off Antonelli and Russell in a race that saw a jaw-dropping 35 lead changes.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
-    "publishedAt": "2026-11-22T07:48:28.000Z"
-  },
-  {
-    "id": "ed7511bdf5f5b434",
-    "title": "Indonesia factory fire kills three, 36 missing",
-    "summary": "At least 15 people rescued, including four taken to hospital, as authorities say it is unclear what caused the blaze.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss",
-    "publishedAt": "2026-11-22T07:46:35.000Z"
-  },
-  {
-    "id": "c7a127b3b6fda3f9",
-    "title": "Midwives told to expect fewer jobs as recruitment drive is paused",
-    "summary": "One graduate said she would take minimum wage to get her first job in widwifery.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck24e1j762y6o",
-    "publishedAt": "2026-11-22T07:46:28.000Z"
-  },
-  {
-    "id": "624fc5d1f4a5e62d",
-    "title": "Wembanyama scores 50 points, bags 19 rebounds in Spurs’ 14th win of season",
-    "summary": "Wembanyama was just shy of his career-high score of 52 points, set in a victory over Dallas on November 4.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/22/wembanyama-scores-50-points-bags-19-rebounds-in-spurs-14th-win-of-season?traffic_source=rss",
-    "publishedAt": "2026-11-22T07:44:37.000Z"
-  },
-  {
-    "id": "c96c1ed2d4eb4dc8",
-    "title": "MP criticises Guernsey and Jersey company ownership register plans",
-    "summary": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo",
-    "publishedAt": "2026-11-22T07:22:05.000Z"
-  },
-  {
-    "id": "2c8bfaa220e8f4fe",
-    "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-    "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
-    "publishedAt": "2026-11-22T07:12:41.000Z"
-  },
-  {
-    "id": "3684e9678abe9669",
-    "title": "Fire at confectionary factory in Indonesia leaves at least three dead and dozens missing",
-    "summary": "Relatives of the missing victims flocked to the factory’s entrance, seeking updates about their loved ones.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
-    "publishedAt": "2026-11-22T07:11:17.000Z"
-  },
-  {
-    "id": "5c32e616b4802ccd",
-    "title": "‘A Nintendo Switch – yes, I know I’m 67’: the best gifts for every generation, picked by real people aged 2 to 103",
-    "summary": "We asked everyone from gen Alpha preschoolers to retired boomers, celebs and Guardian writers what’s on their gift list this year – here’s what they said.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2026/nov/22/best-christmas-gifts-every-generation-uk",
-    "publishedAt": "2026-11-22T07:00:21.000Z"
-  },
-  {
-    "id": "634423e927703cea",
-    "title": "Unreal deals: the scam websites targeting Black Friday bargain hunters",
-    "summary": "AI is being used to clone retailers’ sites and ‘poison’ chatbots into recommending them, experts say.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/22/black-friday-scam-deals--ai-fake-storefront",
-    "publishedAt": "2026-11-22T07:00:20.000Z"
-  },
-  {
-    "id": "bd0c1f68734ffe4a",
-    "title": "Why Somalia’s president turned against his former ally, the UAE",
-    "summary": "Behind Somalia's break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
-    "publishedAt": "2026-11-22T06:59:59.000Z"
-  },
-  {
-    "id": "b562b9609d14edbc",
-    "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-    "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
-    "publishedAt": "2026-11-22T06:54:06.000Z"
   }
 ]
