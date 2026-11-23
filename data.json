@@ -1,5 +1,59 @@
 [
   {
+    "id": "729ee0028e4e790c",
+    "title": "Students from Gaza win visa battle to study in Ireland",
+    "summary": "Decision to deny visas to more than 60 students overturned after high court orders justice department to reconsider.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/23/students-from-gaza-win-visa-battle-to-study-in-ireland",
+    "publishedAt": "2026-11-23T13:03:14.000Z"
+  },
+  {
+    "id": "9ef6302e722db8b7",
+    "title": "Nine people shot at central California concert with one in critical condition",
+    "summary": "Authorities say they believe the Saturday night shooting at a concert in Strathmore ‘may be gang-related’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/23/concert-shooting-california-strathmore",
+    "publishedAt": "2026-11-23T13:00:05.000Z"
+  },
+  {
+    "id": "97e4769547f8d05e",
+    "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+    "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+    "publishedAt": "2026-11-23T12:42:03.000Z"
+  },
+  {
+    "id": "6f1a59687aaa0501",
+    "title": "How the US, China and Russia are competing for Africa’s mineral wealth",
+    "summary": "The US, China and Russia are vying for Africa’s mineral wealth, raising questions about who stands to benefit.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/how-the-us-china-and-russia-are-competing-for-africas-mineral-wealth?traffic_source=rss",
+    "publishedAt": "2026-11-23T12:34:54.000Z"
+  },
+  {
+    "id": "569801afeac4183e",
+    "title": "Asylum seekers removed from UK subjected to ‘unnecessary and intimidating’ force",
+    "summary": "Incidents include suicidal man being carried on to plane in waist, leg and ankle restraints, official report says.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/23/asylum-seekers-removed-from-uk-unnecessary-and-intimidating-force",
+    "publishedAt": "2026-11-23T12:23:06.000Z"
+  },
+  {
+    "id": "5b99461c51325257",
+    "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
+    "summary": "Former US vice-president Al Gore among climate leaders demanding change to consensus rule after Antalya summit.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits",
+    "publishedAt": "2026-11-23T12:21:23.000Z"
+  },
+  {
     "id": "3fdf0a68287ccaad",
     "title": "Arctic air brings colder temperatures to Europe this week",
     "summary": "After a warmer-than-average November so far globally, a cold snap is on the horizon in parts of Europe.",
@@ -7,6 +61,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/environment/2026/nov/23/arctic-air-colder-temperatures-europe-this-week",
     "publishedAt": "2026-11-23T11:59:03.000Z"
+  },
+  {
+    "id": "90b7ea8f82efe7a7",
+    "title": "Inside the talks between student protest leaders and Macron’s government",
+    "summary": "Al Jazeera interviews two French student leaders who have met with top government officials as protests continue.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/they-smile-but-do-nothing-students-on-meeting-macron-and-other-leaders?traffic_source=rss",
+    "publishedAt": "2026-11-23T11:58:09.000Z"
   },
   {
     "id": "1e07638aee77020f",
@@ -1044,6 +1107,15 @@
     "publishedAt": "2026-11-22T20:04:12.000Z"
   },
   {
+    "id": "231f1049fd5702a6",
+    "title": "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say",
+    "summary": "The sea drone strike triggered an explosion and fire in Benghazi.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/suspected-drone-strike-hits-russian-vessel-libya-138359178",
+    "publishedAt": "2026-11-22T19:38:18.000Z"
+  },
+  {
     "id": "e3b790d982203eb7",
     "title": "What to know about tear gas and reproductive health, as concerns are raised in France",
     "summary": "French activists and lawmakers are demanding after recent protests that police stop using tear gas because of rising concerns about menstrual changes and reproductive health issues.",
@@ -1276,77 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
     "publishedAt": "2026-11-22T17:18:26.000Z"
-  },
-  {
-    "id": "5dc8b441a877238e",
-    "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
-    "summary": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
-    "publishedAt": "2026-11-22T17:12:48.000Z"
-  },
-  {
-    "id": "969b3e367a9a8e12",
-    "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
-    "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-    "publishedAt": "2026-11-22T16:55:49.000Z"
-  },
-  {
-    "id": "e0aab1d66fdb83b1",
-    "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
-    "summary": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term 'fossil fuels'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
-    "publishedAt": "2026-11-22T16:33:26.000Z"
-  },
-  {
-    "id": "4fa2e6869078e762",
-    "title": "International climate talks end in disappointment",
-    "summary": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement after conflict over fossil fuels - the primary driver of fossil fuels.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
-    "publishedAt": "2026-11-22T16:33:22.000Z"
-  },
-  {
-    "id": "9e0e59e94b700d88",
-    "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-    "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-    "publishedAt": "2026-11-22T16:12:54.000Z"
-  },
-  {
-    "id": "e2830407b36aa712",
-    "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
-    "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
-    "publishedAt": "2026-11-22T16:05:25.000Z"
-  },
-  {
-    "id": "a9b90e3e08ebf8b4",
-    "title": "US releases files on suspected Bigfoot sightings in Montana and Oregon",
-    "summary": "Forest Service releases files months after residents in rural Ontario reported encounters with massive figures.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
-    "publishedAt": "2026-11-22T15:53:24.000Z"
-  },
-  {
-    "id": "12e4cbe57aec9277",
-    "title": "Court bans China’s BYD from selling ‘Defender clone’ SUV in EU",
-    "summary": "District court in the Hague finds Chinese carmaker infringed on intellectual property of Jaguar Land Rover.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/22/court-bans-china-byd-selling-defender-clone-suv-in-eu",
-    "publishedAt": "2026-11-22T15:43:47.000Z"
   }
 ]
