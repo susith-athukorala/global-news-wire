@@ -1,5 +1,50 @@
 [
   {
+    "id": "6144b94b70afb55b",
+    "title": "Amtrak train derails after colliding with tractor-trailer in Louisiana",
+    "summary": "Five passengers were reported to have non-life-threatening injuries after crash at railroad crossing near Lafayette.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/23/amtrak-derailment-louisiana",
+    "publishedAt": "2026-11-23T14:32:40.000Z"
+  },
+  {
+    "id": "2fcd746ebef6a67c",
+    "title": "Nvidia board Reinstates Jensen Huang as CEO",
+    "summary": "Jensen Huang’s swift return to Nvidia coincides with a sharp 31 percent premarket spike in the tech giant’s stock.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss",
+    "publishedAt": "2026-11-23T14:24:38.000Z"
+  },
+  {
+    "id": "af40cfcedb999bf8",
+    "title": "Ian Huntley killed by inmate in ‘cold-blooded murder’ planned weeks in advance, court told",
+    "summary": "Jurors hear Anthony Russell killed Soham murderer by hitting him repeatedly over head with metal bar.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/23/ian-huntley-killed-by-inmate-court-trial",
+    "publishedAt": "2026-11-23T14:19:44.000Z"
+  },
+  {
+    "id": "fd0f48e8fd6df022",
+    "title": "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space",
+    "summary": "Move would be breach of Outer Space treaty and Partial Nuclear Test Ban treaty, which prohibit placing of nuclear weapons in orbit.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/23/russia-nuclear-weapons-space-german-intelligence",
+    "publishedAt": "2026-11-23T14:18:33.000Z"
+  },
+  {
+    "id": "f2286b4f32edfc60",
+    "title": "Jensen Huang reinstated as Nvidia CEO",
+    "summary": "Chipmaker reverses decision it made to remove chief executive after reports of affairs including with alleged Chinese spy.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+    "publishedAt": "2026-11-23T14:15:27.000Z"
+  },
+  {
     "id": "89f46f6bc2614d82",
     "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
     "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
@@ -7,6 +52,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro",
     "publishedAt": "2026-11-23T14:08:50.000Z"
+  },
+  {
+    "id": "c81f91b7bf257e7b",
+    "title": "‘It’s an embarrassment’: how LA’s desperately needed airport tram went off the rails",
+    "summary": "The SkyLink people mover is less than 2.5 miles long but it’s $1bn over budget and has been delayed by four years.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/23/lax-skylink-people-mover-los-angeles",
+    "publishedAt": "2026-11-23T14:00:49.000Z"
   },
   {
     "id": "c71a8c468226058e",
@@ -801,6 +855,15 @@
     "publishedAt": "2026-11-23T05:38:01.000Z"
   },
   {
+    "id": "233527ac46cd3e5c",
+    "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+    "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+    "publishedAt": "2026-11-23T05:15:06.000Z"
+  },
+  {
     "id": "a3d6e17b844c421d",
     "title": "Fewer than half in UK will pay TV licence fee within a decade, report warns",
     "summary": "Analysis for thinktank points to cycle of falling income leading to lower spending on content in ‘spiral of decline’",
@@ -1285,68 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
     "publishedAt": "2026-11-22T19:34:59.000Z"
-  },
-  {
-    "id": "b98ee1a31e91df4f",
-    "title": "Concerns about data centres go from 'zero to 100' ahead of Vic election",
-    "summary": "Community backlash against the explosion of data centre applications in Victoria has become a hot election issue, with locals saying they're being ignored.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-23/victorian-election-data-centre-backlash/107414574",
-    "publishedAt": "2026-11-22T19:19:13.000Z"
-  },
-  {
-    "id": "a1dae3ea8c6aace5",
-    "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
-    "summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
-    "publishedAt": "2026-11-22T19:18:29.000Z"
-  },
-  {
-    "id": "e1de8a9341eea70a",
-    "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
-    "summary": "Milestone reached Sunday, after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
-    "publishedAt": "2026-11-22T19:17:56.000Z"
-  },
-  {
-    "id": "6fb0beae30a85cd2",
-    "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
-    "summary": "Video shows masked immigration agents forcibly detaining two people at Seattle airport, raising concerns over tactics.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
-    "publishedAt": "2026-11-22T19:10:00.000Z"
-  },
-  {
-    "id": "37422c4f4594c3ef",
-    "title": "Poland says Russia twice tried to kill a Ukrainian American rapper",
-    "summary": "Denmark expelled a Russian official after it said it thwarted an alleged plot.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/poland-russia-allegedly-kill-ukrainian-american-rapper-138362108",
-    "publishedAt": "2026-11-22T19:03:29.000Z"
-  },
-  {
-    "id": "9d3b1b4e1aa5d2ff",
-    "title": "I covered myself in sleep trackers to find the very best",
-    "summary": "Get a better night’s sleep with monitoring and guidance from smartwatches, smart rings, smart bands and sleep earbuds.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter-us/2026/nov/22/best-sleep-trackers",
-    "publishedAt": "2026-11-22T19:00:35.000Z"
-  },
-  {
-    "id": "adb0aabaaa02f91c",
-    "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
-    "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
-    "publishedAt": "2026-11-22T19:00:34.000Z"
   }
 ]
