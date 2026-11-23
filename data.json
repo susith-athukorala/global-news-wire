@@ -1,5 +1,59 @@
 [
   {
+    "id": "e027852317727e56",
+    "title": "Former Bachelor star Sam Wood seeking mediation amid DV charges for allegedly strangling wife",
+    "summary": "Lawyer Brad Hill seeks two-week adjournment on Monday for mediation, which can only occur if alleged victim consents.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/23/bachelor-sam-wood-domestic-violence-charges-mediation-ntwnfb",
+    "publishedAt": "2026-11-23T02:40:33.000Z"
+  },
+  {
+    "id": "192a1f729607a357",
+    "title": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
+    "summary": "Footage of Saturday incident, filmed by fellow passengers, quickly went viral on social media as mayor calls tactics ‘un-American’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport",
+    "publishedAt": "2026-11-23T02:38:16.000Z"
+  },
+  {
+    "id": "3254ef278d69e73b",
+    "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+    "summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
+    "publishedAt": "2026-11-23T02:37:02.000Z"
+  },
+  {
+    "id": "7d922153a22f315a",
+    "title": "Indonesian police remove 24 body bags from factory fire site",
+    "summary": "Authorities in Java are searching for dozens of missing workers as they continue to battle remaining hotspots.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss",
+    "publishedAt": "2026-11-23T02:35:42.000Z"
+  },
+  {
+    "id": "5491c763e7540eae",
+    "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
+    "summary": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
+    "publishedAt": "2026-11-23T02:23:13.000Z"
+  },
+  {
+    "id": "3d18a2b584fd777f",
+    "title": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
+    "summary": "Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an Iowa town, despite a court-ordered stay.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
+    "publishedAt": "2026-11-23T02:09:15.000Z"
+  },
+  {
     "id": "40291a0c260ae4f2",
     "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
     "summary": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
@@ -124,6 +178,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
     "publishedAt": "2026-11-22T23:22:59.000Z"
+  },
+  {
+    "id": "1db6c2307217f7b3",
+    "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+    "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo",
+    "publishedAt": "2026-11-22T22:49:10.000Z"
   },
   {
     "id": "cc6d817be8060122",
@@ -277,6 +340,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
     "publishedAt": "2026-11-22T19:34:59.000Z"
+  },
+  {
+    "id": "b98ee1a31e91df4f",
+    "title": "Concerns about data centres go from 'zero to 100' ahead of Vic election",
+    "summary": "Community backlash against the explosion of data centre applications in Victoria has become a hot election issue, with locals saying they're being ignored.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-23/victorian-election-data-centre-backlash/107414574",
+    "publishedAt": "2026-11-22T19:19:13.000Z"
   },
   {
     "id": "a1dae3ea8c6aace5",
@@ -1276,77 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
     "publishedAt": "2026-11-22T05:38:52.000Z"
-  },
-  {
-    "id": "5796c184441cce78",
-    "title": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
-    "summary": "Sudan's displacement crisis could worsen with winter approaching.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
-    "publishedAt": "2026-11-22T05:21:46.000Z"
-  },
-  {
-    "id": "dc4db2d331645011",
-    "title": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
-    "summary": "Joshua Howard, 31, is believed to have been struck by a car and thrown over the guardrail as he was walking home from a party in Rouse Hill.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
-    "publishedAt": "2026-11-22T05:21:01.000Z"
-  },
-  {
-    "id": "8a6fc7fa9552937d",
-    "title": "COP31 struggles to reach deal with parties at odds over fossil fuels",
-    "summary": "The language around fossil fuels remains a flashpoint at UN climate talks in Türkiye, where negotiations have gone into a second day past the deadline.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-22/cop31-at-odds-over-fossil-fuels/107414330",
-    "publishedAt": "2026-11-22T05:04:51.000Z"
-  },
-  {
-    "id": "f908da6e29c938c7",
-    "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
-    "summary": "Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
-    "publishedAt": "2026-11-22T05:04:39.000Z"
-  },
-  {
-    "id": "d667cad85cdb2211",
-    "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
-    "summary": "COP31 President ​Murat Kurum asks negotiators to consider a last-minute proposal in attempt to reach an agreement.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
-    "publishedAt": "2026-11-22T04:51:35.000Z"
-  },
-  {
-    "id": "4aca8d2eb9183dcb",
-    "title": "Fire at Indonesian candy factory leaves 3 dead and dozens of workers unaccounted for",
-    "summary": "A fire has swept through a candy factory in Indonesia’s Banten province, leaving three people dead and rescue teams searching for 36 workers who remained unaccounted for.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/fire-indonesian-candy-factory-leaves-3-dead-dozens-138354030",
-    "publishedAt": "2026-11-22T04:19:45.000Z"
-  },
-  {
-    "id": "b562b9609d14edbc",
-    "title": "Fossil fuel dispute threatens to derail COP31 climate deal",
-    "summary": "The UN summit in Turkey enters second day of overtime as countries struggle to reach an agreement.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
-    "publishedAt": "2026-11-22T03:58:31.000Z"
-  },
-  {
-    "id": "0335f411a7a318e0",
-    "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
-    "summary": "Seven alleged cartel gunmen and four soldiers were killed in operation to arrest cartel boss Fausto Isidro Meza Flores.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
-    "publishedAt": "2026-11-22T03:34:02.000Z"
   }
 ]
