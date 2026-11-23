@@ -1,5 +1,59 @@
 [
   {
+    "id": "f2df81fbedc27577",
+    "title": "Doctors begin fresh strike over pay dispute",
+    "summary": "It follows a separate 24-hour strike on Friday in which resident doctors took industrial action as part of the same dispute.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr3eg5vzn875o",
+    "publishedAt": "2026-11-23T09:06:02.000Z"
+  },
+  {
+    "id": "7023c3c17e05ffa7",
+    "title": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
+    "summary": "War widows in Sudan face growing challenges supporting their children as the cost of living increases.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss",
+    "publishedAt": "2026-11-23T08:53:10.000Z"
+  },
+  {
+    "id": "d79fc45a2714faaf",
+    "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+    "summary": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro",
+    "publishedAt": "2026-11-23T08:53:01.000Z"
+  },
+  {
+    "id": "2316ea321be05be8",
+    "title": "Gas prices in Europe surge as forecast cold snap feeds supply shortage fears",
+    "summary": "Jump in price follows slowdown in Qatar supplies and depleted summer stocks due to heatwaves.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears",
+    "publishedAt": "2026-11-23T08:45:13.000Z"
+  },
+  {
+    "id": "1bad8faa352c36a4",
+    "title": "Up to 1.1m people eligible to join class action against Jetstar over alleged failure to refund Covid flights",
+    "summary": "Jetstar accused of issuing customers credits instead of cash refunds for flights cancelled between 2020 and late 2022.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/23/up-to-11m-people-eligible-to-join-class-action-against-jetstar-over-alleged-failure-to-refund-covid-flights-ntwnfb",
+    "publishedAt": "2026-11-23T08:24:12.000Z"
+  },
+  {
+    "id": "e7e69ac7ea24c607",
+    "title": "Constitutional law expert brands defence bill allowing secret security rules ‘lazy and irresponsible’",
+    "summary": "Anne Twomey says lack of proper debate around bill is ‘flabbergasting’ amid concerns over extension of ministerial powers.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/23/constitutional-law-expert-brands-defence-bill-allowing-secret-security-rules-lazy-and-irresponsible",
+    "publishedAt": "2026-11-23T08:23:55.000Z"
+  },
+  {
     "id": "c8f40f6d3f92a08e",
     "title": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
     "summary": "President Zelenskyy hails \"an exemplary Ukrainian operation\" as UN calls for investigation.",
@@ -1294,59 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/22/memphis-tn-ice-detained",
     "publishedAt": "2026-11-22T12:00:28.000Z"
-  },
-  {
-    "id": "cb7ae8930c6499f7",
-    "title": "Cloned number plate victims in England and Wales to get new reporting tool",
-    "summary": "Police launch initiative after steep rise in criminals using method to evade detection and avoid paying penalties.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/22/cloned-number-plate-victims-england-and-wales-new-reporting-tool",
-    "publishedAt": "2026-11-22T11:59:28.000Z"
-  },
-  {
-    "id": "4153672099ea83b5",
-    "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-    "summary": "Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
-    "publishedAt": "2026-11-22T11:46:42.000Z"
-  },
-  {
-    "id": "7c0492a47a9d0163",
-    "title": "Why have UN efforts to regulate ‘killer robots’ stalled?",
-    "summary": "CWC countries agree to 'elaborate' on potential accord regulating autonomous weapons in two years, prompting criticism.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss",
-    "publishedAt": "2026-11-22T11:44:50.000Z"
-  },
-  {
-    "id": "6ea93ef6abc3e932",
-    "title": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
-    "summary": "Foreign secretary says there is clear case to integrate more closely but does not say if he backs talks on possibly rejoining.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/22/closer-eu-ties-uk-ed-miliband-brexit",
-    "publishedAt": "2026-11-22T11:41:49.000Z"
-  },
-  {
-    "id": "b50fe2c3326321a9",
-    "title": "Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU",
-    "summary": "Former PM who opted for minimal ties with bloc says moves towards membership would dominate government’s time.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-aghast-andy-burnham-talk-about-rejoining-eu",
-    "publishedAt": "2026-11-22T11:37:52.000Z"
-  },
-  {
-    "id": "e201a12a5d699bde",
-    "title": "US 'missteps' cost them power and influence in Asia, report finds",
-    "summary": "The gap between US and Chinese military capabilities in Asia is now the narrowest on record, though this reflects a decline in US power rather than a rise in China's.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-22/us-loses-influence-in-asia-as-china-gains-in-lowy-power-index/107411514",
-    "publishedAt": "2026-11-22T11:32:15.000Z"
   }
 ]
