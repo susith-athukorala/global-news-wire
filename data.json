@@ -1,5 +1,113 @@
 [
   {
+    "id": "89f46f6bc2614d82",
+    "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+    "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro",
+    "publishedAt": "2026-11-23T14:08:50.000Z"
+  },
+  {
+    "id": "c71a8c468226058e",
+    "title": "Plant-based lunches could cut Australia’s emissions by 15m tonnes, new research shows",
+    "summary": "Nationwide change in lunch habits could cut more climate pollution than grounding every domestic flight.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/23/plant-based-lunches-could-cut-australia-emissions-by-15m-tonnes-new-research-shows",
+    "publishedAt": "2026-11-23T13:58:01.000Z"
+  },
+  {
+    "id": "ecc5392a4e016486",
+    "title": "Domestic violence perpetrators are misusing smart car features to abuse, researchers warn",
+    "summary": "Exclusive: Alarming report reveals how tracking and monitoring functions and digital key access have been used to facilitate abuse.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/23/smart-car-tracking-control-features-domestic-violence-warning-ntwnfb",
+    "publishedAt": "2026-11-23T13:57:45.000Z"
+  },
+  {
+    "id": "4b0f943fb6fa9d05",
+    "title": "Over 100 writers from PEN America to form splinter group over Gaza tensions",
+    "summary": "Members of the free-expression literary and human rights group are forming a new chapter called PEN Writes US.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/books/2026/nov/23/pen-america-gaza-splinter-group",
+    "publishedAt": "2026-11-23T13:56:26.000Z"
+  },
+  {
+    "id": "5a2d505a12c0a4ad",
+    "title": "European Commission warns EU Academy users of data leak after AI-driven cyberattack",
+    "summary": "The European Commission is warning of a data leak from a major AI-generated cyberattack on its EU Academy website.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/european-commission-warns-eu-academy-users-data-leak-138374368",
+    "publishedAt": "2026-11-23T13:56:23.000Z"
+  },
+  {
+    "id": "bab5470813fe16df",
+    "title": "‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’",
+    "summary": "Australian dictionary’s committee of word experts says winning term is ‘a succinct reflection of the state of the world in 2026’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr",
+    "publishedAt": "2026-11-23T13:55:40.000Z"
+  },
+  {
+    "id": "f94ba32c4421a06e",
+    "title": "A silver soup tureen once owned by JP Morgan could fetch $8M at a Christie's auction",
+    "summary": "A massive silver soup tureen once owned by financier J.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/silver-soup-tureen-owned-jp-morgan-fetch-8-138374364",
+    "publishedAt": "2026-11-23T13:54:28.000Z"
+  },
+  {
+    "id": "489d32c407e49a2e",
+    "title": "Welfare cuts: What's been happening with Pip and universal credit?",
+    "summary": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o",
+    "publishedAt": "2026-11-23T13:52:40.000Z"
+  },
+  {
+    "id": "cc3bc93318bc86e1",
+    "title": "Anti-austerity strike spurs transport chaos across Belgium",
+    "summary": "National strike against planned austerity causes widespread disruption, with government's fate hanging in the balance.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/anti-austerity-strike-spurs-transport-chaos-across-belgium?traffic_source=rss",
+    "publishedAt": "2026-11-23T13:45:16.000Z"
+  },
+  {
+    "id": "a5104180c52d00ea",
+    "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+    "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o",
+    "publishedAt": "2026-11-23T13:26:36.000Z"
+  },
+  {
+    "id": "46132fec3248b895",
+    "title": "Falling markets: will I lose money, and is there anything I can do?",
+    "summary": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+    "publishedAt": "2026-11-23T13:08:46.000Z"
+  },
+  {
+    "id": "ba920d31a5e096e1",
+    "title": "Iran says it will use ‘all available means’ to counter US blockade",
+    "summary": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+    "publishedAt": "2026-11-23T13:04:11.000Z"
+  },
+  {
     "id": "729ee0028e4e790c",
     "title": "Students from Gaza win visa battle to study in Ireland",
     "summary": "Decision to deny visas to more than 60 students overturned after high court orders justice department to reconsider.",
@@ -34,6 +142,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/23/how-the-us-china-and-russia-are-competing-for-africas-mineral-wealth?traffic_source=rss",
     "publishedAt": "2026-11-23T12:34:54.000Z"
+  },
+  {
+    "id": "6360118ef85dafc3",
+    "title": "Next data accessed in cyber breach",
+    "summary": "The fashion retailer says there is no evidence customers' personal data was compromised.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo",
+    "publishedAt": "2026-11-23T12:34:07.000Z"
   },
   {
     "id": "569801afeac4183e",
@@ -97,6 +214,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
     "publishedAt": "2026-11-23T11:42:51.000Z"
+  },
+  {
+    "id": "e2830407b36aa712",
+    "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+    "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
+    "publishedAt": "2026-11-23T11:40:01.000Z"
   },
   {
     "id": "48677261880da449",
@@ -1026,6 +1152,15 @@
     "publishedAt": "2026-11-22T22:01:17.000Z"
   },
   {
+    "id": "9e0e59e94b700d88",
+    "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+    "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+    "publishedAt": "2026-11-22T22:00:58.000Z"
+  },
+  {
     "id": "5ef7582c1147383f",
     "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the failure to say the f-word is not his alone",
     "summary": "Australia’s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking point.",
@@ -1042,6 +1177,15 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-23/democrats-house-majority-midterm-elections/107415390",
     "publishedAt": "2026-11-22T21:41:34.000Z"
+  },
+  {
+    "id": "969b3e367a9a8e12",
+    "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+    "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+    "publishedAt": "2026-11-22T21:33:44.000Z"
   },
   {
     "id": "365b4c7077e607d8",
@@ -1204,149 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
     "publishedAt": "2026-11-22T19:00:34.000Z"
-  },
-  {
-    "id": "bbda56ca67938c35",
-    "title": "Australia's neighbour 'heading towards disaster' with oil and gas project, experts say",
-    "summary": "Timor-Leste says Russian and Chinese companies have expressed an interest in the country's multi-billion-dollar Greater Sunrise project, despite a leading analyst saying it will \"bankrupt\" the country. Is oil and gas project on Australia's doorstep heading for 'disaster'?",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-23/greater-sunrise-timor-leste-russia-china-oil-gas/107383394",
-    "publishedAt": "2026-11-22T18:47:12.000Z"
-  },
-  {
-    "id": "445b003be1d25975",
-    "title": "NHS savings drive leaves hospitals in England facing ‘unpalatable’ cuts",
-    "summary": "Exclusive: Thirty-one trusts issue stark warning that cost-cutting demands threaten their ability to function normally.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
-    "publishedAt": "2026-11-22T18:45:30.000Z"
-  },
-  {
-    "id": "926986a6893bb915",
-    "title": "Struggling to afford your mortgage? You are not alone",
-    "summary": "Knowing your options when it comes to managing your mortgage can be a great stress reliever, even if you never need to use them.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-23/can-not-pay-your-mortgage-what-to-do/107413984",
-    "publishedAt": "2026-11-22T18:45:00.000Z"
-  },
-  {
-    "id": "ee99e3bdcaf063a4",
-    "title": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
-    "summary": "Leny Yoro's red card for Manchester United after just eight minutes paved the way for a 4-0 football defeat at Anfield.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
-    "publishedAt": "2026-11-22T18:44:24.000Z"
-  },
-  {
-    "id": "19ca54e98ff7caf7",
-    "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
-    "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo",
-    "publishedAt": "2026-11-22T18:29:46.000Z"
-  },
-  {
-    "id": "9262e5fe5f547f12",
-    "title": "Hakeem Jeffries willing to cross political aisle to work on Democrats’ agenda",
-    "summary": "Incoming House speaker says party focused on affordability and fixing ‘broken’ healthcare and immigration systems.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
-    "publishedAt": "2026-11-22T18:25:42.000Z"
-  },
-  {
-    "id": "6249533009fcbdd6",
-    "title": "Some river hatcheries are having discharge limits set for the first time",
-    "summary": "Tasmania is dotted with salmon hatcheries that have river water flowing through them, emitting nutrients back into waterways. Some are having firm limits set for the first time, but data shows it could be a challenge to meet them.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-23/tasmania-salmon-hatcheries-discharge-limits/107408108",
-    "publishedAt": "2026-11-22T18:20:01.000Z"
-  },
-  {
-    "id": "233527ac46cd3e5c",
-    "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-    "summary": "The talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
-    "publishedAt": "2026-11-22T18:17:59.000Z"
-  },
-  {
-    "id": "3c23d936bea258c7",
-    "title": "Recession could hit Australia by next month on one closely-watched indicator",
-    "summary": "The economist behind a famous recession indicator says Australia should be wary of rising unemployment.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-23/sahm-rule-recession-indicator-australia-november-2026/107408750",
-    "publishedAt": "2026-11-22T18:00:00.000Z"
-  },
-  {
-    "id": "af467a0a4d9d5dda",
-    "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
-    "summary": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
-    "publishedAt": "2026-11-22T18:00:00.000Z"
-  },
-  {
-    "id": "3500af305ed03afd",
-    "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-    "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-    "publishedAt": "2026-11-22T17:55:27.000Z"
-  },
-  {
-    "id": "1ca6ca53f137554d",
-    "title": "Russell Brand’s wife vows to abide by prison rules after video controversy",
-    "summary": "Laura Gallacher says in new video on YouTube she will continue Sunday Service series she started with Brand.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2026/nov/22/russell-brand-wife-laura-gallacher-youtube-video",
-    "publishedAt": "2026-11-22T17:49:12.000Z"
-  },
-  {
-    "id": "6a1969ce9110a7af",
-    "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
-    "summary": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
-    "publishedAt": "2026-11-22T17:44:52.000Z"
-  },
-  {
-    "id": "aa9df4dbf1583e48",
-    "title": "Meet the young authors A literacy program inspires kids in South Africa",
-    "summary": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
-    "publishedAt": "2026-11-22T17:34:20.000Z"
-  },
-  {
-    "id": "4d48a33f8141fe61",
-    "title": "Pip review will call for overhaul rather than scrapping benefit for under-25s",
-    "summary": "Recommendations overseen by Stephen Timms would retain system for all ages, unlike last week’s Milburn review.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
-    "publishedAt": "2026-11-22T17:32:14.000Z"
-  },
-  {
-    "id": "4c9d70de279cb63c",
-    "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-    "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
-    "publishedAt": "2026-11-22T17:18:26.000Z"
   }
 ]
