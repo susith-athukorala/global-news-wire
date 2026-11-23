@@ -1,5 +1,50 @@
 [
   {
+    "id": "626e59734f22865e",
+    "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+    "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
+    "publishedAt": "2026-11-23T00:08:00.000Z"
+  },
+  {
+    "id": "6ee0a647046083b6",
+    "title": "Energy bills will soar - here's how you can ease the pain",
+    "summary": "Household energy bills are about to soar but there are ways to keep a lid on your expenditure.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
+    "publishedAt": "2026-11-23T00:05:29.000Z"
+  },
+  {
+    "id": "722eda40d616853f",
+    "title": "Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great",
+    "summary": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique character’ and ‘the fan all artists wish to have’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
+    "publishedAt": "2026-11-23T00:03:15.000Z"
+  },
+  {
+    "id": "04809b1f5e93f82f",
+    "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
+    "summary": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drug.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
+    "publishedAt": "2026-11-23T00:01:40.000Z"
+  },
+  {
+    "id": "288e6af64e1e0cfd",
+    "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+    "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
+    "publishedAt": "2026-11-22T23:22:59.000Z"
+  },
+  {
     "id": "cc6d817be8060122",
     "title": "Hydrogen energy company cuts staff two months after $49m federal grant",
     "summary": "Two months after receiving a grant to expand into commercial manufacturing, a move expected to create 40 new jobs, Port Kembla company Hysata cuts 17 staff.",
@@ -873,6 +918,15 @@
     "publishedAt": "2026-11-22T09:28:24.000Z"
   },
   {
+    "id": "ca3a5efb2b0087cb",
+    "title": "Bodies found, 29 workers missing after Indonesian factory fire",
+    "summary": "A fire has swept through a confectionary factory in Indonesia's Banten province, killing at least three workers and leaving 29 others unaccounted-for, officials say.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-22/bodies-recovered-after-indonesian-factory-fire/107414720",
+    "publishedAt": "2026-11-22T09:23:41.000Z"
+  },
+  {
     "id": "f30828084c8adf40",
     "title": "South Korea education minister resigns over exam cheating scandal",
     "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
@@ -1294,59 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo",
     "publishedAt": "2026-11-22T00:04:07.000Z"
-  },
-  {
-    "id": "0cdc2ecf2eb91d84",
-    "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-    "summary": "Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
-    "publishedAt": "2026-11-21T23:44:00.000Z"
-  },
-  {
-    "id": "8dbb5efc4b25ef21",
-    "title": "At least 24 dead in Nigeria when boat going to funeral capsizes",
-    "summary": "Authorities haven't said how many passengers were believed to be on board.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/24-dead-nigeria-boat-capsizes-carrying-people-funeral-138348287",
-    "publishedAt": "2026-11-21T23:06:21.000Z"
-  },
-  {
-    "id": "325f1a2a1c9a284c",
-    "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
-    "summary": "Body of a man in his 20s discovered by police who were sent to investigate the shooting of an officer, who is in a serious but stable condition.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
-    "publishedAt": "2026-11-21T22:41:36.000Z"
-  },
-  {
-    "id": "299849b262daed6b",
-    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
-    "publishedAt": "2026-11-21T22:19:43.000Z"
-  },
-  {
-    "id": "2fd34a5eec662c0b",
-    "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
-    "summary": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
-    "publishedAt": "2026-11-21T22:01:42.000Z"
-  },
-  {
-    "id": "1add95be92a81fc8",
-    "title": "Google employees protest AI in schools policy",
-    "summary": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
-    "publishedAt": "2026-11-21T22:01:40.000Z"
   }
 ]
