@@ -1,5 +1,77 @@
 [
   {
+    "id": "539bc3fb2c36b747",
+    "title": "NVIDIA reinstates Jensen Huang as CEO",
+    "summary": "Nvidia has reinstated Jensen Huang as CEO.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6050911/nvidia-reinstates-jensen-huang-as-ceo",
+    "publishedAt": "2026-11-23T16:12:00.000Z"
+  },
+  {
+    "id": "6a16b32fcddcb446",
+    "title": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war",
+    "summary": "Exclusive: Figures from cache of 11m death certificates reveal suicides account for about a regiment of Russia’s war dead.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war",
+    "publishedAt": "2026-11-23T16:00:51.000Z"
+  },
+  {
+    "id": "5566b456d1b7c569",
+    "title": "Russia’s war dead: the hidden toll of the Ukraine conflict",
+    "summary": "Exclusive: Analysis gives most detailed picture yet of the nearly 500,000 Russian losses in Ukraine since 2022.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/23/russia-war-dead-hidden-toll-ukraine-conflict",
+    "publishedAt": "2026-11-23T16:00:50.000Z"
+  },
+  {
+    "id": "7d782712108c7ed2",
+    "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
+    "summary": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
+    "publishedAt": "2026-11-23T16:00:49.000Z"
+  },
+  {
+    "id": "5f3c1e3047578b5e",
+    "title": "Seventh man pleads guilty in case of woman drugged by husband and raped in Stockport",
+    "summary": "Husband, who is not being named in order to protect identity of his victim, has pleaded guilty to more than 60 offences over more than 20 years.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/23/man-pleads-guilty-case-woman-drugged-husband-raped-stockport",
+    "publishedAt": "2026-11-23T15:58:41.000Z"
+  },
+  {
+    "id": "7ee65d1ae7eb3dea",
+    "title": "The rise and fall and rise again of Jensen Huang",
+    "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo",
+    "publishedAt": "2026-11-23T15:49:52.000Z"
+  },
+  {
+    "id": "2d882f0bc8f54668",
+    "title": "Village's concern over sewage discharge in dry river",
+    "summary": "Campaigners call for restrictions on sewage treatment plant discharging effluent during drought.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c60rkq78g05vo",
+    "publishedAt": "2026-11-23T15:48:07.000Z"
+  },
+  {
+    "id": "512453057e1c88c5",
+    "title": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
+    "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5% in early trading.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko",
+    "publishedAt": "2026-11-23T15:39:41.000Z"
+  },
+  {
     "id": "941d9d7c875e4ee0",
     "title": "How important are Nvidia and Jensen Huang to the US economy?",
     "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
@@ -7,6 +79,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo",
     "publishedAt": "2026-11-23T15:15:48.000Z"
+  },
+  {
+    "id": "0e298c8adc313973",
+    "title": "Police investigating bomb threats against schools in Germany and Denmark",
+    "summary": "Bomb threats follow hoax emails sent to schools across Europe earlier in November.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/police-investigating-bomb-threats-against-schools-in-germany-and-denmark?traffic_source=rss",
+    "publishedAt": "2026-11-23T15:07:59.000Z"
   },
   {
     "id": "30f657ecf295887e",
@@ -1267,86 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
     "publishedAt": "2026-11-22T21:46:40.000Z"
-  },
-  {
-    "id": "323f288d07a24432",
-    "title": "Democrats clinch their largest House majority since 1992",
-    "summary": "The milestone sets up a divided government, with the Senate also in Democratic hands and a Republican president in the White House.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-23/democrats-house-majority-midterm-elections/107415390",
-    "publishedAt": "2026-11-22T21:41:34.000Z"
-  },
-  {
-    "id": "969b3e367a9a8e12",
-    "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
-    "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-    "publishedAt": "2026-11-22T21:33:44.000Z"
-  },
-  {
-    "id": "365b4c7077e607d8",
-    "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
-    "summary": "Parties remain split over who will lead the next government and whether far-right minister Itamar Ben-Gvir will join.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
-    "publishedAt": "2026-11-22T21:33:11.000Z"
-  },
-  {
-    "id": "3797ce7f617bdf99",
-    "title": "Heartbreak in US capital as Washington Spirit lose women’s football final",
-    "summary": "KC Current win NWSL championship as Spirit lose third consecutive final despite playing in front of rowdy home crowd.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
-    "publishedAt": "2026-11-22T21:26:12.000Z"
-  },
-  {
-    "id": "d7fd540855b100c5",
-    "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-    "summary": "The couple have been together for four years and were engaged in 2025.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo",
-    "publishedAt": "2026-11-22T21:22:40.000Z"
-  },
-  {
-    "id": "16bb4b229baf69d1",
-    "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
-    "summary": "Jay Clayton was pressed on Trump’s characterization of Putin during media appearances on Sunday.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
-    "publishedAt": "2026-11-22T20:55:33.000Z"
-  },
-  {
-    "id": "87d801d4ae59b938",
-    "title": "Gadi Eisenkot calls West Bank arson attacks 'Jewish terrorism'",
-    "summary": "Settlers set fire to vehicles and homes in several Palestinian villages overnight, drawing one of the sharpest condemnations yet from the politician charged with forming Israel's next government.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-23/israel-gadi-eisenkot-west-bank-arson-attacks/107415280",
-    "publishedAt": "2026-11-22T20:37:28.000Z"
-  },
-  {
-    "id": "58ba47aabdb3efc8",
-    "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-    "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno",
-    "publishedAt": "2026-11-22T20:26:24.000Z"
-  },
-  {
-    "id": "a8188fc285368e32",
-    "title": "Liverpool 4-0 Manchester United: Five key takeaways for Pochettino",
-    "summary": "United suffer their worst result under a new manager in 100 years as Liverpool cruise past Mauricio Pochettino's side.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/22/liverpool-4-0-manchester-united-the-key-takeaways-for-pochettino?traffic_source=rss",
-    "publishedAt": "2026-11-22T20:04:12.000Z"
   }
 ]
