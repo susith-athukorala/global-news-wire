@@ -1,5 +1,122 @@
 [
   {
+    "id": "0361d5737063ee43",
+    "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
+    "summary": "Brian Morales García of Texas seeks damages after he was wrongly identified as undocumented in case White House wants dropped.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
+    "publishedAt": "2026-11-23T11:00:56.000Z"
+  },
+  {
+    "id": "aca70cb6e9d5adc8",
+    "title": "Tourists evacuated after fire destroys 6 hotels in Zanzibar's Nungwi Beach area",
+    "summary": "A fire engulfed six hotels along a popular beach in Tanzania’s Zanzibar archipelago over the weekend, causing widespread damage but no deaths.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/tourists-evacuated-after-fire-destroys-6-hotels-zanzibars-138370519",
+    "publishedAt": "2026-11-23T10:56:41.000Z"
+  },
+  {
+    "id": "ff4859a231b053c4",
+    "title": "Capita shares plunge and boss steps down as civil service pensions saga drags on",
+    "summary": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo",
+    "publishedAt": "2026-11-23T10:55:35.000Z"
+  },
+  {
+    "id": "b76c58c648d001e8",
+    "title": "India announces a $1.6 billion aid package for Nepal’s flood recovery",
+    "summary": "India has announced a $1.62 billion aid package to help Nepal rebuild after devastating floods.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/india-announces-16-billion-aid-package-nepals-flood-138369908",
+    "publishedAt": "2026-11-23T10:54:53.000Z"
+  },
+  {
+    "id": "e3cd39164b722b4a",
+    "title": "Chamonix mayor plans tourist limits for Alpine beauty spot",
+    "summary": "Rising numbers around Lac Blanc are having big impact on environment and on visitors’ enjoyment, mayor says.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/23/chamonix-mayor-tourist-limits-lac-blanc",
+    "publishedAt": "2026-11-23T10:52:53.000Z"
+  },
+  {
+    "id": "108921d16660ed82",
+    "title": "NHS caterer Compass ‘plans stock market switch’ in blow to London",
+    "summary": "Surrey-based firm’s decision to move primary listing to New York would mark latest loss for FTSE 100.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/23/nhs-caterer-compass-plans-stock-market-switch-in-blow-to-london",
+    "publishedAt": "2026-11-23T10:51:40.000Z"
+  },
+  {
+    "id": "4aca8d2eb9183dcb",
+    "title": "More remains recovered in the search for 34 workers missing after an Indonesian candy factory fire",
+    "summary": "Rescue teams searching for 34 missing workers after a candy factory fire in Indonesia have recovered remains in 24 body bags.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/fire-indonesian-candy-factory-leaves-3-dead-dozens-138354030",
+    "publishedAt": "2026-11-23T10:50:14.000Z"
+  },
+  {
+    "id": "887ee480762b0c4b",
+    "title": "From mocked to mainstream: how Spain’s far-right Vox transformed its fortunes",
+    "summary": "Party that won just 0.2% of the vote in 2016 is on course for almost 20% this time and could be part of next government.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/23/vox-party-spain-far-right-mocked-to-mainstream",
+    "publishedAt": "2026-11-23T10:37:48.000Z"
+  },
+  {
+    "id": "6afcce281eb7fde7",
+    "title": "Antibiotics saved my life - then nearly killed me",
+    "summary": "Harriet Davies was given the drugs after falling ill while skiing in France.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckvg2elqy5g2o",
+    "publishedAt": "2026-11-23T10:33:34.000Z"
+  },
+  {
+    "id": "c631048a44eb7126",
+    "title": "Why is Bangladesh’s Grameen Bank under attack?",
+    "summary": "Leading financial institution has found itself at centre of tensions amid violence by Sheikh Hasina supporters.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/why-is-bangladeshs-grameen-bank-under-attack?traffic_source=rss",
+    "publishedAt": "2026-11-23T10:22:34.000Z"
+  },
+  {
+    "id": "464e67cf4a1869c6",
+    "title": "Occupied West Bank ‘military zones’ become de facto Israeli settler land",
+    "summary": "Closed military zones in the occupied West Bank are being seized by settlers as staging posts for pogroms.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/23/military-zones-in-occupied-west-bank-become-israeli-settler-outpost-lands?traffic_source=rss",
+    "publishedAt": "2026-11-23T10:20:58.000Z"
+  },
+  {
+    "id": "202f9d858fcaf044",
+    "title": "South East Water reports loss after supply issues",
+    "summary": "South East Water records a pre-tax loss of £22.9m in the six months to 30 September.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o",
+    "publishedAt": "2026-11-23T10:19:46.000Z"
+  },
+  {
+    "id": "a133c870a360647d",
+    "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
+    "summary": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+    "publishedAt": "2026-11-23T10:16:33.000Z"
+  },
+  {
     "id": "bc3461a0e3cb1667",
     "title": "Capita boss exits and shares crash after civil service pensions failures",
     "summary": "Price plunges 67% as Adolfo Hernandez leaves with ‘immediate effect’ amid continued fallout from pension payment problems.",
@@ -540,6 +657,15 @@
     "publishedAt": "2026-11-23T00:50:39.000Z"
   },
   {
+    "id": "16f9f4caac2a34ca",
+    "title": "Okinawa celebrates restored Shuri Castle hall 7 years after fire",
+    "summary": "Officials and residents in Okinawa have celebrated the restoration of Shuri Castle's main hall, marking a significant return of the island's cultural symbol.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/okinawa-celebrates-restored-shuri-castle-hall-7-years-138356880",
+    "publishedAt": "2026-11-23T00:50:14.000Z"
+  },
+  {
     "id": "22a1a8e21c76de2a",
     "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
     "summary": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
@@ -808,6 +934,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/22/liverpool-4-0-manchester-united-the-key-takeaways-for-pochettino?traffic_source=rss",
     "publishedAt": "2026-11-22T20:04:12.000Z"
+  },
+  {
+    "id": "e3b790d982203eb7",
+    "title": "What to know about tear gas and reproductive health, as concerns are raised in France",
+    "summary": "French activists and lawmakers are demanding after recent protests that police stop using tear gas because of rising concerns about menstrual changes and reproductive health issues.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/tear-gas-reproductive-health-people-raise-concerns-france-138356698",
+    "publishedAt": "2026-11-22T19:38:14.000Z"
   },
   {
     "id": "37779a806d9c66e4",
@@ -1213,140 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record",
     "publishedAt": "2026-11-22T14:00:32.000Z"
-  },
-  {
-    "id": "d86a001024eacb6a",
-    "title": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
-    "summary": "Baghdad's deal with Kataib Hezbollah may not end the Iran-backed militia's influence over the town.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
-    "publishedAt": "2026-11-22T14:00:31.000Z"
-  },
-  {
-    "id": "b94f6078b77402b0",
-    "title": "Australia urged to wean off imported fossil fuels amid global supply shocks",
-    "summary": "Grattan Institute report calls on government to ‘seize’ opportunity to cap diesel tax credits, introduce EV subsidies for less wealthy’ and build ‘clean’ refineries.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks",
-    "publishedAt": "2026-11-22T14:00:29.000Z"
-  },
-  {
-    "id": "4e724c4997d2944c",
-    "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-    "summary": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o",
-    "publishedAt": "2026-11-22T13:50:21.000Z"
-  },
-  {
-    "id": "f4543ac04875c745",
-    "title": "Miley Cyrus weds drummer Maxx Morando in California – reports",
-    "summary": "Grammy-winning pop star and Morando reportedly tied the knot ⁠at a private ceremony in Palm ​Springs.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/22/miley-cyrus-maxx-morando-wedding",
-    "publishedAt": "2026-11-22T13:49:58.000Z"
-  },
-  {
-    "id": "2cf5165df7a3aa08",
-    "title": "NFL’s Jaylen Harrell hospitalised and investigated for assault in car crash",
-    "summary": "Police in US investigating whether Tennessee Titans defensive end assaulted rideshare driver before collision.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/22/jaylen-harrell-car-accident-nfl-tennessee-titans-american-football?traffic_source=rss",
-    "publishedAt": "2026-11-22T13:46:45.000Z"
-  },
-  {
-    "id": "0ce79e9e9d880d64",
-    "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
-    "summary": "UN patron Lewis Pugh saw ships ablaze and fighter jets overhead during three-day swim as Iran conflict continues.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
-    "publishedAt": "2026-11-22T13:36:01.000Z"
-  },
-  {
-    "id": "99f0b4beb09e00eb",
-    "title": "NFL’s Jaylen Harrell reportedly assaulted driver before crash that left player seriously injured",
-    "summary": "Tampa police are investigating whether Tennessee Titans linebacker Jaylen Harrell assaulted a rideshare driver before a crash that left the NFL player in hospital.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/sport/2026/nov/22/titans-jaylen-harrell-reportedly-assaulted-driver-before-crash-that-left-player-seriously-injured",
-    "publishedAt": "2026-11-22T13:25:37.000Z"
-  },
-  {
-    "id": "768fba82c8c9d7b5",
-    "title": "Man who killed three during psychotic episode ‘had been released after catalogue of failures’",
-    "summary": "Alexander Lewis-Ranwell was arrested and let go twice by police in the 48 hours before he killed three men in their 80s in Exeter.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/22/man-who-killed-three-during-psychotic-episode-had-been-released-after-catalogue-of-failures-investigation-finds-alexander-lewis-ranwell",
-    "publishedAt": "2026-11-22T13:24:10.000Z"
-  },
-  {
-    "id": "3deb0be04b21bed7",
-    "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-    "summary": "Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
-    "publishedAt": "2026-11-22T13:16:45.000Z"
-  },
-  {
-    "id": "fe31e32e43a91805",
-    "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
-    "summary": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
-    "publishedAt": "2026-11-22T13:15:40.000Z"
-  },
-  {
-    "id": "7b306ae35bb3ca96",
-    "title": "It's Medicare open enrollment time. Here's what you need to know",
-    "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
-    "publishedAt": "2026-11-22T13:11:04.000Z"
-  },
-  {
-    "id": "100db31f629448b3",
-    "title": "The life, death and improbable rebirth of LA’s most beloved diner",
-    "summary": "For decades, it served pancakes, hash browns and steaks to hungry Angelenos. Then came closure, and a city mourned – but now the Original Pantry is back.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles",
-    "publishedAt": "2026-11-22T13:00:27.000Z"
-  },
-  {
-    "id": "a13ce2be8e707384",
-    "title": "Cop31 climate talks break down as key deal rejected",
-    "summary": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ after two weeks of fierce negotiations.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
-    "publishedAt": "2026-11-22T12:54:41.000Z"
-  },
-  {
-    "id": "39b72b03f73897dd",
-    "title": "Air alert sounds hours after attack on Russia-bound ship in the Gulf of Finland",
-    "summary": "The governor of Kaliningrad says a rare air alert sounded in the Russian exclave near Poland and Lithuania.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/air-alert-sounds-kaliningrad-hours-after-attack-russia-138356879",
-    "publishedAt": "2026-11-22T12:50:47.000Z"
-  },
-  {
-    "id": "9537481dc5fc6afc",
-    "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post",
-    "summary": "Reform deputy leader calls Russian leader ‘a murderous dictator’ after US president appears to endorse him.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/22/british-right-reform-tory-party-distances-itself-from-trump-putin-friend-post",
-    "publishedAt": "2026-11-22T12:36:58.000Z"
   }
 ]
