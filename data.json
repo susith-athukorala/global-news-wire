@@ -1,5 +1,86 @@
 [
   {
+    "id": "bc3461a0e3cb1667",
+    "title": "Capita boss exits and shares crash after civil service pensions failures",
+    "summary": "Price plunges 67% as Adolfo Hernandez leaves with ‘immediate effect’ amid continued fallout from pension payment problems.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures",
+    "publishedAt": "2026-11-23T10:01:00.000Z"
+  },
+  {
+    "id": "0badd57cc861e1c1",
+    "title": "Fears for school crossing patrols as councils struggle to recruit lollipop people",
+    "summary": "Future of familiar school-run figures uncertain as vacancies surge and town halls consider alternatives.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/education/2026/nov/23/school-crossing-patrols-councils-struggle-recruit-lollipop-people",
+    "publishedAt": "2026-11-23T10:00:53.000Z"
+  },
+  {
+    "id": "3da8649f1efa3579",
+    "title": "Mushroom supplements promise health benefits. What does the science say?",
+    "summary": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
+    "publishedAt": "2026-11-23T10:00:00.000Z"
+  },
+  {
+    "id": "7f3845c3cd12040c",
+    "title": "Catering giant to switch stock market listing to US in further blow to UK",
+    "summary": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckz74098jq5po",
+    "publishedAt": "2026-11-23T09:54:04.000Z"
+  },
+  {
+    "id": "4f76f259dc591f95",
+    "title": "Audience evacuated from Don Toliver concert after substance released in the crowd",
+    "summary": "British police have evacuated over 12,000 fans from a Don Tolliver concert after an unknown substance was released in the crowd.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/audience-evacuated-don-toliver-concert-after-unknown-substance-138369818",
+    "publishedAt": "2026-11-23T09:38:18.000Z"
+  },
+  {
+    "id": "26c5f99c7077d77e",
+    "title": "Death toll rises after Russian attacks on Ukraine",
+    "summary": "At least 15 people are killed in multiple attacks, days after Putin promises a ‘painful’ response to Ukrainian attacks.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
+    "publishedAt": "2026-11-23T09:34:25.000Z"
+  },
+  {
+    "id": "51efa1a754cc9c67",
+    "title": "‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza",
+    "summary": "A new report by UK-based charity Oxfam shows how Israel’s destruction of Gaza has created a ‘toxic wasteland'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-23T09:30:16.000Z"
+  },
+  {
+    "id": "c95e4e2d87a843da",
+    "title": "Natural England could be abolished as part of quango cull, says Louise Haigh",
+    "summary": "First secretary of state says proliferation of arm’s length government bodies is hampering decision-making.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
+    "publishedAt": "2026-11-23T09:19:34.000Z"
+  },
+  {
+    "id": "881c358463d51753",
+    "title": "AI superintelligence ‘arriving’, warns top Meta executive",
+    "summary": "Meta Chief AI Officer Alexandr Wang says humankind's actions over next year will have 'great consequence' for the world.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive?traffic_source=rss",
+    "publishedAt": "2026-11-23T09:08:07.000Z"
+  },
+  {
     "id": "f2df81fbedc27577",
     "title": "Doctors begin fresh strike over pay dispute",
     "summary": "It follows a separate 24-hour strike on Friday in which resident doctors took industrial action as part of the same dispute.",
@@ -882,6 +963,15 @@
     "publishedAt": "2026-11-22T18:17:59.000Z"
   },
   {
+    "id": "3c23d936bea258c7",
+    "title": "Recession could hit Australia by next month on one closely-watched indicator",
+    "summary": "The economist behind a famous recession indicator says Australia should be wary of rising unemployment.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-23/sahm-rule-recession-indicator-australia-november-2026/107408750",
+    "publishedAt": "2026-11-22T18:00:00.000Z"
+  },
+  {
     "id": "af467a0a4d9d5dda",
     "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
     "summary": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases.",
@@ -1258,95 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/22/british-right-reform-tory-party-distances-itself-from-trump-putin-friend-post",
     "publishedAt": "2026-11-22T12:36:58.000Z"
-  },
-  {
-    "id": "16f9f4caac2a34ca",
-    "title": "Okinawa celebrates restored Shuri Castle hall 7 years after fire",
-    "summary": "Officials and residents in Okinawa have celebrated the restoration of Shuri Castle's main hall, marking a significant return of the island's cultural symbol.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/okinawa-celebrates-restored-shuri-castle-hall-7-years-138356880",
-    "publishedAt": "2026-11-22T12:33:55.000Z"
-  },
-  {
-    "id": "e3b790d982203eb7",
-    "title": "What to know about tear gas and reproductive health, as concerns are raised in France",
-    "summary": "French activists and lawmakers are demanding after recent protests that police stop using tear gas because of rising concerns about menstrual changes and reproductive health issues.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/tear-gas-reproductive-health-people-raise-concerns-france-138356698",
-    "publishedAt": "2026-11-22T12:33:10.000Z"
-  },
-  {
-    "id": "ce5ab375d97782b4",
-    "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
-    "summary": "Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
-    "publishedAt": "2026-11-22T12:31:30.000Z"
-  },
-  {
-    "id": "60110fcfbf3151ce",
-    "title": "Bruno Fernandes says contract talks on hold as Man United battle poor start",
-    "summary": "The Manchester United captain's current deal expires at the end of the season, though the club has an option to extend.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss",
-    "publishedAt": "2026-11-22T12:22:43.000Z"
-  },
-  {
-    "id": "05c5626ea5c46aae",
-    "title": "Israeli settlers attack several Palestinian villages in occupied West Bank",
-    "summary": "Attacks in Ramallah, el-Bireh provinces included the burning of 12 vehicles and spray-painting racist slogans on homes.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
-    "publishedAt": "2026-11-22T12:19:42.000Z"
-  },
-  {
-    "id": "f908da6e29c938c7",
-    "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
-    "summary": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
-    "publishedAt": "2026-11-22T12:12:07.000Z"
-  },
-  {
-    "id": "bc8c4fe7111210ba",
-    "title": "School wins mental health and wellbeing award",
-    "summary": "The opening of a wellbeing room for students at Blanchelande College is recognised by judges.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5n4eyv9wv7zo",
-    "publishedAt": "2026-11-22T12:10:39.000Z"
-  },
-  {
-    "id": "414e7c0b894f99df",
-    "title": "‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause",
-    "summary": "Where women see hot flushes and brain fog, pharmaceutical companies see dollar signs. But are products like lion’s mane mushrooms or even magnets for knickers really helping them?",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women",
-    "publishedAt": "2026-11-22T12:00:29.000Z"
-  },
-  {
-    "id": "cd078dd643252a99",
-    "title": "CEO of funding agency for UK science and research criticised by union over cuts",
-    "summary": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadership.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
-    "publishedAt": "2026-11-22T12:00:28.000Z"
-  },
-  {
-    "id": "217d05cb79f9cd7d",
-    "title": "They went out to celebrate at a Memphis bar. Then, ICE descended",
-    "summary": "More than 120 people in the Tennessee city were detained in one of the largest single-day ICE raids in the US in 2026.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/22/memphis-tn-ice-detained",
-    "publishedAt": "2026-11-22T12:00:28.000Z"
   }
 ]
