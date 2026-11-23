@@ -1,5 +1,104 @@
 [
   {
+    "id": "3fdf0a68287ccaad",
+    "title": "Arctic air brings colder temperatures to Europe this week",
+    "summary": "After a warmer-than-average November so far globally, a cold snap is on the horizon in parts of Europe.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/23/arctic-air-colder-temperatures-europe-this-week",
+    "publishedAt": "2026-11-23T11:59:03.000Z"
+  },
+  {
+    "id": "1e07638aee77020f",
+    "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+    "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o",
+    "publishedAt": "2026-11-23T11:57:33.000Z"
+  },
+  {
+    "id": "4d75135fe66595ee",
+    "title": "Next issues cyber-attack warning after ‘benign’ data accessed by hackers",
+    "summary": "Retailer says it believes no personal data that could lead to fraud was accessed after hack of third-party supplier.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
+    "publishedAt": "2026-11-23T11:53:45.000Z"
+  },
+  {
+    "id": "36e9ed36318426a3",
+    "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+    "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+    "publishedAt": "2026-11-23T11:42:51.000Z"
+  },
+  {
+    "id": "48677261880da449",
+    "title": "Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show",
+    "summary": "Gianni Infantino’s failed Fifa Forward Enterprise plan could have locked football in for up to 96 years while paying its management up to 5% of the scheme’s multibillion-pound value, according to documents seen by the Guardian.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/23/gianni-infantino-world-cup-sell-off-plan-96-years-documents-payouts",
+    "publishedAt": "2026-11-23T11:34:42.000Z"
+  },
+  {
+    "id": "ad1ca624e54d969b",
+    "title": "Flagship UK gigafactory plan in turmoil after it loses second builder in five months",
+    "summary": "Tata-owned Agratas plant to build EV batteries for sister company Jaguar Land Rover seen as crucial for long-term health of British car industry.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/23/flagship-uk-gigafactory-turmoil-loses-second-builder",
+    "publishedAt": "2026-11-23T11:33:44.000Z"
+  },
+  {
+    "id": "8086b43b969c14a3",
+    "title": "First Thing: Cop31 talks collapse without deal in blow to planet’s future climate",
+    "summary": "More than two weeks of talks in Turkey fail to produce a resolution to tackle climate crisis. Plus, a savage review of Melania’s new documentary.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/23/first-thing-cop31-talks-collapse-no-deal-future-global-climate",
+    "publishedAt": "2026-11-23T11:26:45.000Z"
+  },
+  {
+    "id": "7b8bae570643d666",
+    "title": "Flights grounded in Belgium due to strike against austerity measures",
+    "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o",
+    "publishedAt": "2026-11-23T11:26:12.000Z"
+  },
+  {
+    "id": "c3a1045cd8c989d2",
+    "title": "COP31: What next after UN climate talks collapse",
+    "summary": "UN member states fail to agree on how to fast-track action to reverse global warming in a blow to climate agenda.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse?traffic_source=rss",
+    "publishedAt": "2026-11-23T11:19:08.000Z"
+  },
+  {
+    "id": "d4c43e046f97320e",
+    "title": "Presidential villa also hit by water and power cuts, Nigerian leader says",
+    "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o",
+    "publishedAt": "2026-11-23T11:15:16.000Z"
+  },
+  {
+    "id": "49a7e4be6186efab",
+    "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+    "summary": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war's spread.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
+    "publishedAt": "2026-11-23T11:10:12.000Z"
+  },
+  {
     "id": "0361d5737063ee43",
     "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
     "summary": "Brian Morales García of Texas seeks damages after he was wrongly identified as undocumented in case White House wants dropped.",
@@ -25,6 +124,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo",
     "publishedAt": "2026-11-23T10:55:35.000Z"
+  },
+  {
+    "id": "2b877f29ef1de249",
+    "title": "CAS decision on Senegal’s AFCON 2025 title appeal on Tuesday",
+    "summary": "Senegal are contesting CAF's decision to declare Morocco champions, despite Senegal winning the final 1-0 in January.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/23/senegal-africa-cup-of-nations-afcon-morocco-cas-decision-appeal?traffic_source=rss",
+    "publishedAt": "2026-11-23T10:55:05.000Z"
   },
   {
     "id": "b76c58c648d001e8",
@@ -1240,113 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/22/court-bans-china-byd-selling-defender-clone-suv-in-eu",
     "publishedAt": "2026-11-22T15:43:47.000Z"
-  },
-  {
-    "id": "7a9c296a38c7bb9c",
-    "title": "UK taxpayer funds held in offshore tax havens top £1tn, latest HMRC data shows",
-    "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama raising fears over cost to public purse.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
-    "publishedAt": "2026-11-22T15:43:01.000Z"
-  },
-  {
-    "id": "231f1049fd5702a6",
-    "title": "A suspected drone strike hits a Russian vessel in Libya",
-    "summary": "The sea drone strike triggered an explosion and fire in Benghazi.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/suspected-drone-strike-hits-russian-vessel-libya-138359178",
-    "publishedAt": "2026-11-22T15:36:31.000Z"
-  },
-  {
-    "id": "d4bb76db92bf4198",
-    "title": "Netanyahu rival condemns settler arson attacks on Palestinian villages in West Bank",
-    "summary": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
-    "publishedAt": "2026-11-22T15:22:38.000Z"
-  },
-  {
-    "id": "5e3fa98465e66560",
-    "title": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
-    "summary": "Analysis reportedly finds striking similarities in dialogue and narrative structure between late author’s novel, Prudence, and two of her contemporaries.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
-    "publishedAt": "2026-11-22T15:07:42.000Z"
-  },
-  {
-    "id": "250aae444e4bb215",
-    "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
-    "summary": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum's airport.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
-    "publishedAt": "2026-11-22T15:03:38.000Z"
-  },
-  {
-    "id": "7772328af26e6686",
-    "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
-    "summary": "A Russian drone attack kills at least two people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
-    "publishedAt": "2026-11-22T14:48:50.000Z"
-  },
-  {
-    "id": "46289997b5a88111",
-    "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
-    "summary": "Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
-    "publishedAt": "2026-11-22T14:35:55.000Z"
-  },
-  {
-    "id": "756fef08e76041e0",
-    "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
-    "summary": "Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
-    "publishedAt": "2026-11-22T14:33:26.000Z"
-  },
-  {
-    "id": "02b9bd3afcbc9fee",
-    "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-    "summary": "Military officials tour underground facility in show of military capabilities despite US attacks.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-    "publishedAt": "2026-11-22T14:20:41.000Z"
-  },
-  {
-    "id": "cd3f9ca39c7787eb",
-    "title": "Three killed and dozens missing after fire at Indonesian factory",
-    "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
-    "publishedAt": "2026-11-22T14:05:20.000Z"
-  },
-  {
-    "id": "f7ac6af79b5200dc",
-    "title": "Experts say ‘trusted messengers’ critical as Amish grapple with measles outbreak",
-    "summary": "Unfolding crisis shows importance of ‘human connections’ over the long term – especially in under-vaccinated areas.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/22/measles-amish-outbreak",
-    "publishedAt": "2026-11-22T14:00:33.000Z"
-  },
-  {
-    "id": "204648171c6d4881",
-    "title": "Potty-mouthed MPs ranked as Australian parliament sets new swearing record",
-    "summary": "One serial sweary offender, Jacqui Lambie, says it wouldn’t be an Australian parliament ‘without a few swear words thrown in’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record",
-    "publishedAt": "2026-11-22T14:00:32.000Z"
   }
 ]
