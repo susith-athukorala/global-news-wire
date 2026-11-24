@@ -1,5 +1,95 @@
 [
   {
+    "id": "dc55587fc62d967f",
+    "title": "How the Iran war is reshaping the US military presence in the Middle East",
+    "summary": "Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss",
+    "publishedAt": "2026-11-24T15:10:29.000Z"
+  },
+  {
+    "id": "1b62a73c4fb2122e",
+    "title": "How Brazil’s mosquitoes are helping to fight dengue",
+    "summary": "Scientists are increasingly using novel ways to re-engineer mosquitoes and use them to battle the diseases they spread.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/how-brazils-mosquitoes-are-helping-to-fight?traffic_source=rss",
+    "publishedAt": "2026-11-24T15:09:00.000Z"
+  },
+  {
+    "id": "9ef1498e789dea33",
+    "title": "Gaza issues meningitis epidemic alert after steep rise in cases",
+    "summary": "Health ministry records 272 new infections in October, more than eight times the normal monthly rate.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert",
+    "publishedAt": "2026-11-24T14:51:18.000Z"
+  },
+  {
+    "id": "b599839448eec2e7",
+    "title": "The photos from Gaza resonating with the people of Sarajevo",
+    "summary": "From a photography exhibition to a weekly vigil reading out the names of killed children, solidarity grows in Sarajevo.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/24/the-photographs-from-gaza-that-sarajevo-took-home?traffic_source=rss",
+    "publishedAt": "2026-11-24T14:50:02.000Z"
+  },
+  {
+    "id": "deb41e4f828db700",
+    "title": "Chinese media hail Huang’s Nvidia return with warning over ‘witch-hunts’",
+    "summary": "State-run Global Times says reports about CEO’s affair with alleged Chinese spy were ‘malicious’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/china-media-jensen-huang-nvidia-ceo",
+    "publishedAt": "2026-11-24T14:45:03.000Z"
+  },
+  {
+    "id": "f1bdd6576331de19",
+    "title": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco",
+    "summary": "Court of Arbitration for Sport rules in Senegal's favour over the controversial final in January.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss",
+    "publishedAt": "2026-11-24T14:35:56.000Z"
+  },
+  {
+    "id": "d27a91eea3662ad1",
+    "title": "Saudi-led coalition condemns ‘terrorist attack’ on tower in Riyadh",
+    "summary": "The Saudi-led coalition says building in financial district targeted, marking second time in a week.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss",
+    "publishedAt": "2026-11-24T14:27:38.000Z"
+  },
+  {
+    "id": "7b9b3002934afb86",
+    "title": "Who really owns the land in Albania that Jared Kushner wants to develop?",
+    "summary": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+    "publishedAt": "2026-11-24T14:24:04.000Z"
+  },
+  {
+    "id": "17f5857e2ae67ba4",
+    "title": "Mamdani says Nvidia drama shows stock market is overly dependent on AI",
+    "summary": "New York City mayor notes ‘massive impact’ on working Americans’ lives when Jensen Huang stepped down as CEO.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/mamdani-nvidia-stock-market-ai",
+    "publishedAt": "2026-11-24T14:22:17.000Z"
+  },
+  {
+    "id": "eebc94c3a468d254",
+    "title": "Could Russia-Ukraine war threaten Libya’s fragile reunification process?",
+    "summary": "Ukraine's involvement in Libya raises concerns as Zelenskyy admits targeting Russian vessels in a key port city.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss",
+    "publishedAt": "2026-11-24T14:16:33.000Z"
+  },
+  {
     "id": "62ccafc81f825953",
     "title": "Nigel Farage rules out deal with Restore Britain unless it disavows controversial backers",
     "summary": "Reform UK leader says he is ‘very worried’ about ethnonationalism and he does not trust Tories over Brexit.",
@@ -52,6 +142,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/24/outcry-uk-plans-to-exempt-brownfield-sites-nature-protection-rules",
     "publishedAt": "2026-11-24T14:00:47.000Z"
+  },
+  {
+    "id": "7dfd72916188539b",
+    "title": "Israeli air strike kills senior Hamas security official in Gaza",
+    "summary": "Abu Nahl, 50, was killed in a crowded area leaving four others, including a Palestinian woman, wounded.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
+    "publishedAt": "2026-11-24T13:55:11.000Z"
+  },
+  {
+    "id": "6db0ae904a2b0f4f",
+    "title": "Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE",
+    "summary": "The 15-year-old Sooryavanshi struck a staggering 28 sixes, the most ever in a senior men's innings.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/24/records-tumble-as-indian-teen-sooryavanshi-smashes-53-ball-204-against-uae?traffic_source=rss",
+    "publishedAt": "2026-11-24T13:52:45.000Z"
   },
   {
     "id": "46ec94ddc620f8b4",
@@ -1240,113 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo",
     "publishedAt": "2026-11-24T00:02:15.000Z"
-  },
-  {
-    "id": "cef482f3944581e3",
-    "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
-    "summary": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno",
-    "publishedAt": "2026-11-24T00:01:04.000Z"
-  },
-  {
-    "id": "d13c6314b7c26464",
-    "title": "Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons",
-    "summary": "Position contrasts with Green party’s policies before 2024 election, as polls show just 17% of voters trust them on defence.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/24/zack-polanski-backs-report-endorsing-nato-membership-maintaining-nuclear-weapons",
-    "publishedAt": "2026-11-24T00:01:01.000Z"
-  },
-  {
-    "id": "0022730fbc13a916",
-    "title": "Robert Macfarlane says trust in Cop to deliver change on climate is ‘misplaced’",
-    "summary": "Nature writer reveals in his first Reith lecture that he finds ‘much more hope’ in emerging alliances.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced",
-    "publishedAt": "2026-11-24T00:01:00.000Z"
-  },
-  {
-    "id": "aec25a1381edc0c4",
-    "title": "Why I don't always tell potential employers I'm dyslexic",
-    "summary": "Many dyslexic people say it harms their confidence, a report about experiences in the workplace suggests.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6rmgjynynero",
-    "publishedAt": "2026-11-24T00:00:47.000Z"
-  },
-  {
-    "id": "951b78ea51b57618",
-    "title": "Drone attack on Colombia police base injures civilians, including infant",
-    "summary": "Far-right President De la Espriella steps up offensive as rebel groups strike back with drone strikes, roadside bombs.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
-    "publishedAt": "2026-11-23T23:49:37.000Z"
-  },
-  {
-    "id": "50fa856b3dad32d6",
-    "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
-    "summary": "Proposed sanctions aim to curb Russian crypto financing and 'propaganda' in sports.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
-    "publishedAt": "2026-11-23T23:26:16.000Z"
-  },
-  {
-    "id": "911926641a98d187",
-    "title": "Invading armies, subterfuge and conquest: How fire ant wars affect ecosystems",
-    "summary": "Ants disperse seeds, scavenge, turn soil and serve as a food source in their ecosystems. If local ants are displaced by invasive ants from elsewhere, the effects are widely felt.",
-    "category": "Science",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/23/nx-s1-6037814/invading-armies-subterfuge-and-conquest-how-fire-ant-wars-affect-ecosystems",
-    "publishedAt": "2026-11-23T23:12:05.000Z"
-  },
-  {
-    "id": "60825bb1955b7e71",
-    "title": "Russian incursions into NATO territory are increasing",
-    "summary": "NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
-    "publishedAt": "2026-11-23T23:08:51.000Z"
-  },
-  {
-    "id": "50ad97a8b3bf3fbc",
-    "title": "Israel's bombardment has turned Gaza into 'toxic wasteland'",
-    "summary": "New research suggests more than 99 per cent of the Gaza Strip shows signs of contamination from Israeli attacks.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-24/israel-s-bombardment-turns-gaza-into-toxic-wasteland/107419898",
-    "publishedAt": "2026-11-23T23:06:22.000Z"
-  },
-  {
-    "id": "a4dc0379d2f60a2b",
-    "title": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street?",
-    "summary": "Trump claims credit for Huang's return, raising concerns over federal government meddling in corporate board decisions.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss",
-    "publishedAt": "2026-11-23T23:06:03.000Z"
-  },
-  {
-    "id": "cfc232b21505c09a",
-    "title": "'A nightmare I'd like to forget' - patients of failing health board say it's beyond redemption",
-    "summary": "Patients describe days waiting in A&E at a health board in special measures for almost a decade.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmde19r99w9go",
-    "publishedAt": "2026-11-23T22:55:38.000Z"
-  },
-  {
-    "id": "f251d809d996cc13",
-    "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
-    "summary": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
-    "publishedAt": "2026-11-23T22:41:48.000Z"
   }
 ]
