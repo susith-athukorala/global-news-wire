@@ -1,5 +1,50 @@
 [
   {
+    "id": "4001d0e7d9acba02",
+    "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
+    "summary": "Open letter warns Baaja, intended to expedite energy and infrastructure projects, will cause irreversible climate harm.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
+    "publishedAt": "2026-11-24T22:09:57.000Z"
+  },
+  {
+    "id": "d35e1972c1d20aee",
+    "title": "As US gears up for Thanksgiving, Iowa braces for controlled bomb blast",
+    "summary": "Detonation of 68 barrels of lead azide scheduled for Wednesday after several delays amid public outcry.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving",
+    "publishedAt": "2026-11-24T21:49:07.000Z"
+  },
+  {
+    "id": "97b4be0a9bb6b143",
+    "title": "Chinese tech giant Huawei found guilty of conspiracy to steal trade secrets",
+    "summary": "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
+    "publishedAt": "2026-11-24T21:43:34.000Z"
+  },
+  {
+    "id": "b5da8c2ab15046ff",
+    "title": "This group of seamstresses mends shirts to make chemo easier for cancer patients",
+    "summary": "Seamstresses in Ohio and other states are making zippered shirts for cancer patients so they can more comfortably undergo chemotherapy treatments.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/24/nx-s1-6044239-e1/this-group-of-seamstresses-mends-shirts-to-make-chemo-easier-for-cancer-patients",
+    "publishedAt": "2026-11-24T21:19:27.000Z"
+  },
+  {
+    "id": "d05f2d172e600dd2",
+    "title": "Here's the public health guidance for possible lead exposure in Iowa",
+    "summary": "NPR's Juana Summers talks with Dr. Dan McCabe, medical director of the Iowa Poison Control Center, about how people can protect themselves after the Army detonates degraded lead azide.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/24/nx-s1-6052351/heres-the-public-health-guidance-for-possible-lead-exposure-in-iowa",
+    "publishedAt": "2026-11-24T21:16:46.000Z"
+  },
+  {
     "id": "48847b981ae5ac7b",
     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
@@ -144,6 +189,15 @@
     "publishedAt": "2026-11-24T19:15:25.000Z"
   },
   {
+    "id": "18f576d3e6843e5e",
+    "title": "Republican China hawks challenge Trump over Huang's Nvidia return",
+    "summary": "Donald Trump claims credit for Jensen Huang's return to the AI giant, but the controversy sees Republicans join forces with Democrats to demand an investigation into the administration's ties to the company.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-25/republicans-challenge-trump-over-huang-nvidia-return/107423590",
+    "publishedAt": "2026-11-24T19:14:55.000Z"
+  },
+  {
     "id": "d3b6773067faaec4",
     "title": "Georgia Tech couple clears up viral televised argument during football game",
     "summary": "Tallulah Wall and Braden Flournoy says their discussion that riveted viewers ‘was completely insignificant’",
@@ -241,6 +295,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/houthi-rebels-close-aden-yemeni-forces-dig-fortified-138404636",
     "publishedAt": "2026-11-24T18:15:23.000Z"
+  },
+  {
+    "id": "2bfe168014b9db1c",
+    "title": "GP surgery suspends routine appointments due to 'tsunami' of demand",
+    "summary": "Aberfoyle Medical Practice in Derry says its doctors are treating 60 patients each every day.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm62pze6xn37o",
+    "publishedAt": "2026-11-24T18:12:52.000Z"
   },
   {
     "id": "0ec8be562169494d",
@@ -385,6 +448,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o",
     "publishedAt": "2026-11-24T17:04:00.000Z"
+  },
+  {
+    "id": "2616edcea4156ee8",
+    "title": "Top Chinese official under investigation as Xi's anti-corruption probe widens",
+    "summary": "The probe against Chen Jining is a sign that President Xi Jinping's sweeping 14-year anti-corruption campaign is expanding ahead of the key party congress next year.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-25/chinese-communist-party-leader-under-corruption-investigation/107423468",
+    "publishedAt": "2026-11-24T17:02:20.000Z"
   },
   {
     "id": "232c4ba6bb6eae03",
@@ -1276,77 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
     "publishedAt": "2026-11-24T10:53:37.000Z"
-  },
-  {
-    "id": "8cc866ad40002013",
-    "title": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
-    "summary": "Nvidia chief's 'mistakes' had consequences far beyond Silicon Valley. He is back nonetheless, in less than two weeks.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
-    "publishedAt": "2026-11-24T10:48:38.000Z"
-  },
-  {
-    "id": "df46e48721f5fc06",
-    "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
-    "summary": "Gaza health officials say meningitis cases rose to 272 in October, more than eight times the typical monthly rate.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
-    "publishedAt": "2026-11-24T10:47:41.000Z"
-  },
-  {
-    "id": "e7c664a0b7ba3edf",
-    "title": "Serbian police arrest a 17-year-old after shots fired at a high school",
-    "summary": "Police in central Serbia have arrested a teenager after he fired a small-caliber rifle in a high school hallway.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/serbian-police-arrest-17-year-after-shots-fired-138403980",
-    "publishedAt": "2026-11-24T10:42:25.000Z"
-  },
-  {
-    "id": "312f5150b86d32c5",
-    "title": "Hanoi eatery blast kills 6 and injures more than a dozen",
-    "summary": "An explosion suspected to be from a gas leak at a hot pot eatery in Hanoi has six people and injured more than a dozen others.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/hanoi-eatery-blast-kills-3-injures-dozen-138402807",
-    "publishedAt": "2026-11-24T10:42:24.000Z"
-  },
-  {
-    "id": "2ce4619c942c3f66",
-    "title": "Officials backtrack after 24-hour hunt for Istanbul lioness, saying she never existed",
-    "summary": "Turkish officials say a lioness that was subject to a 24-hour search and sparked panic among Istanbul residents does not actually exist.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/turkish-officials-backtrack-after-24-hour-hunt-istanbul-138404359",
-    "publishedAt": "2026-11-24T10:42:24.000Z"
-  },
-  {
-    "id": "b13b75689b5b9343",
-    "title": "Bangladesh's ousted leader Hasina plans to return home from exile on Dec 16",
-    "summary": "Ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from exile in India on Dec. 16.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/spokesperson-ousted-bangladeshi-prime-minister-sheikh-hasina-plans-138398785",
-    "publishedAt": "2026-11-24T10:42:14.000Z"
-  },
-  {
-    "id": "5063ade9eb198cbf",
-    "title": "It's a race to find Cyprus' disappeared, hindered by a construction boom and fading memories",
-    "summary": "A group of dedicated Greek Cypriot and Turkish Cypriot experts have for two decades worked hard to unearth and identify the remains of ethnically split Cyprus' missing persons.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/race-find-cyprus-disappeared-hindered-construction-boom-fading-138400956",
-    "publishedAt": "2026-11-24T10:26:20.000Z"
-  },
-  {
-    "id": "cb9e163709e56bba",
-    "title": "Under-16s social media ban could disrupt sites that pose no risk, says UK tech industry",
-    "summary": "Trade body techUK says regulations are causing frustration with chaotic process of ‘chasing children around the internet’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/24/under-16s-social-media-ban-disrupt-sites-no-risk-uk-tech-industry",
-    "publishedAt": "2026-11-24T10:18:39.000Z"
   }
 ]
