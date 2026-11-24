@@ -1,5 +1,86 @@
 [
   {
+    "id": "7748b52c7319b706",
+    "title": "Justice system failing crime victims ‘at every point’, UK ministers told",
+    "summary": "Without reform there will soon be ‘no point’ in the public reporting crimes to the police, says victims’ commissioner for England and Wales.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/law/2026/nov/24/justice-system-failing-victims-at-every-point-uk-ministers-told",
+    "publishedAt": "2026-11-24T13:02:12.000Z"
+  },
+  {
+    "id": "cd351f3a4c7ea6ff",
+    "title": "BBC’s preschool shows to be made available in CBeebies hub on Netflix",
+    "summary": "Teletubbies, Numberblocks and Hey Duggee among 24 shows to be trialled on world’s biggest streaming service.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/24/bbc-preschool-shows-cbeebies-hub-netflix",
+    "publishedAt": "2026-11-24T13:00:47.000Z"
+  },
+  {
+    "id": "e106444c633e75e0",
+    "title": "GTA VI’s jaw-dropping success: in figures",
+    "summary": "Content creators have produced hundreds of millions of hours of video game since its launch.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/24/gta-vi-streaming-numbers-charts",
+    "publishedAt": "2026-11-24T13:00:46.000Z"
+  },
+  {
+    "id": "a9daeee7fdc1d0e6",
+    "title": "Nurses vote for industrial action over pay",
+    "summary": "Nurses will take continuous action short of strike from 3 December - such action includes working to rule and a ban on overtime.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crn4kqk07d9ko",
+    "publishedAt": "2026-11-24T12:58:28.000Z"
+  },
+  {
+    "id": "59835988688e844d",
+    "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+    "summary": "The Chinese Communist Party is investigating Chen Jining, the CCP's secretary in Shanghai, in connection with violating party discipline, state broadcaster CCTV reported.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/china-investigates-politburo-member-shanghai-party-chief-chen-138407145",
+    "publishedAt": "2026-11-24T12:53:11.000Z"
+  },
+  {
+    "id": "96c43c3af6aee827",
+    "title": "‘We’ll keep sinking Russian ships’: Ukraine challenges Putin’s global reach",
+    "summary": "Ukraine's strike off Libya signals Kyiv's ability to challenge Russian influence beyond the front lines, analysts say.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/can-ukraine-disrupt-russias-operations-in-africa?traffic_source=rss",
+    "publishedAt": "2026-11-24T12:47:23.000Z"
+  },
+  {
+    "id": "cd565fb56edad974",
+    "title": "Russian governor detained in rare criminal case against regional leader",
+    "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo",
+    "publishedAt": "2026-11-24T12:45:43.000Z"
+  },
+  {
+    "id": "90c76328a75001b9",
+    "title": "Summer heat deaths in 2026 reached record high of 5,258 in England",
+    "summary": "Figure for May to September is far higher than previous peak of 2,985 since records began a decade ago.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/24/summer-heat-deaths-record-high-england",
+    "publishedAt": "2026-11-24T12:39:50.000Z"
+  },
+  {
+    "id": "4c704aa4a688ac4a",
+    "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+    "summary": "Exclusive: Ada Colau hopes public anger over housing will transfer into support for her Broad Front coalition in Sunday’s vote.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/24/spain-election-ada-colau-broad-front-far-right",
+    "publishedAt": "2026-11-24T12:22:04.000Z"
+  },
+  {
     "id": "1b64d8db79098f9b",
     "title": "First Thing: Trump appears to make millions from Nvidia intervention over Huang",
     "summary": "US president holds significant stock in AI company whose value soared after Jensen Huang was reinstated as CEO. Plus, why GTA shouldn’t, and won’t be adapted for streaming.",
@@ -7,6 +88,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/24/first-thing-trump-appears-to-make-millions-from-nvidia-intervention-over-huang",
     "publishedAt": "2026-11-24T12:14:52.000Z"
+  },
+  {
+    "id": "6b3185ece1ce07f9",
+    "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+    "summary": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o",
+    "publishedAt": "2026-11-24T12:12:48.000Z"
   },
   {
     "id": "a64217797322f4ae",
@@ -1258,95 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/23/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst?traffic_source=rss",
     "publishedAt": "2026-11-23T19:43:45.000Z"
-  },
-  {
-    "id": "5cf4131f85f66c67",
-    "title": "Trump defers to appeals court over army plan to detonate bomb-making material in Iowa",
-    "summary": "Environmentalists sued last week to stop detonation of 68 barrels of lead azide over health and pollution concerns.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
-    "publishedAt": "2026-11-23T19:42:40.000Z"
-  },
-  {
-    "id": "64986287f9f43a84",
-    "title": "Bus driver's 1,000km journey to find affordable home to rent",
-    "summary": "A 69-year-old Newcastle bus driver is planning to move more than 1,000 kilometres away — and keep working — in a bid to afford somewhere to rent.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-24/regional-renting-unaffordable-data-shows/107416472",
-    "publishedAt": "2026-11-23T19:34:29.000Z"
-  },
-  {
-    "id": "00ee9db08ed19d5a",
-    "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
-    "summary": "Prime minister also says former Tory premiers who have criticised revival of Brexit debate are ‘stuck in the past’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
-    "publishedAt": "2026-11-23T19:26:01.000Z"
-  },
-  {
-    "id": "f57582a725cbf577",
-    "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
-    "summary": "Moscow accuses Tallinn of 'hostile actions' citing border closure and claiming it is allowing Ukraine to launch attacks.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
-    "publishedAt": "2026-11-23T19:20:30.000Z"
-  },
-  {
-    "id": "aca70cb6e9d5adc8",
-    "title": "Tourists evacuated after fire destroys 6 hotels in Zanzibar's Nungwi Beach area",
-    "summary": "A fire engulfed six hotels along a popular beach in Tanzania’s Zanzibar archipelago over the weekend.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/tourists-evacuated-after-fire-destroys-6-hotels-zanzibars-138370519",
-    "publishedAt": "2026-11-23T18:48:10.000Z"
-  },
-  {
-    "id": "a23b3821460267bd",
-    "title": "Woman faces hour-long drive to give birth as hospital suspends maternity services",
-    "summary": "From Monday, maternity services at Daisy Hill Hospital will move to Craigavon Area Hospital.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cv5y10xn90y3o",
-    "publishedAt": "2026-11-23T18:34:09.000Z"
-  },
-  {
-    "id": "ef0d9c4c3ddbc24a",
-    "title": "Former prince Andrew was paid £750,000 in hope of helping Turkish woman with passport, high court told",
-    "summary": "Nebahat Isbilen claims her former adviser paid bribe in return for help with passport, but money was returned.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/23/former-prince-andrew-was-paid-bribe-to-help-turkish-woman-with-passport-high-court-told",
-    "publishedAt": "2026-11-23T18:20:03.000Z"
-  },
-  {
-    "id": "59a966b49afd1bb9",
-    "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
-    "summary": "Nepal's Prime Minister Balendra Shah is in New Delhi for a two-day visit — his first since coming to power in March.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss",
-    "publishedAt": "2026-11-23T18:12:55.000Z"
-  },
-  {
-    "id": "0774ef478ccb361f",
-    "title": "Gisèle Pelicot ‘deeply shocked’ after nude images used to promote book",
-    "summary": "French woman says she will pursue legal action against publisher over use of photos taken by convicted husband.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france",
-    "publishedAt": "2026-11-23T18:12:48.000Z"
-  },
-  {
-    "id": "4a0d90f871ba8cfa",
-    "title": "Steven Spielberg to make a western written by Paul Thomas Anderson",
-    "summary": "Film will reportedly assemble a cast including Jessie Buckley, Cillian Murphy and Mark Rylance for adaptation of The Heart in Winter.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/23/spielberg-western-paul-thomas-anderson-heart-in-winter",
-    "publishedAt": "2026-11-23T18:10:31.000Z"
   }
 ]
