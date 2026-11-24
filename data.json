@@ -1,5 +1,50 @@
 [
   {
+    "id": "48847b981ae5ac7b",
+    "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+    "summary": "The verdict follows a months-long trial in New York.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
+    "publishedAt": "2026-11-24T21:16:41.000Z"
+  },
+  {
+    "id": "28ea865f0ac56e4c",
+    "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
+    "summary": "President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+    "publishedAt": "2026-11-24T21:04:46.000Z"
+  },
+  {
+    "id": "45e5917092cd490f",
+    "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+    "summary": "Ahead of Erdogan’s Libya trip, Haftar’s visit suggests Turkiye seeks another way to bring the country's rivals together.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
+    "publishedAt": "2026-11-24T20:35:03.000Z"
+  },
+  {
+    "id": "d99a7ab7f67de2c4",
+    "title": "US Army to detonate more than 4 tonnes of lead azide in Iowa on Wednesday",
+    "summary": "Despite alarm about toxic lead, federal officials say destroying the unstable explosives is the safest course of action.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday?traffic_source=rss",
+    "publishedAt": "2026-11-24T20:28:40.000Z"
+  },
+  {
+    "id": "e7dc1b8d905ad325",
+    "title": "Democrat Victoria Broderick unseats eight-term Republican incumbent in Tennessee to win election",
+    "summary": "Victory expands Democrats’ House majority, its largest advantage in three decades.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/democrat-victoria-broderick-election-win-tennesee-midterms",
+    "publishedAt": "2026-11-24T20:20:24.000Z"
+  },
+  {
     "id": "811af2b79d22167f",
     "title": "Will I get the £100 energy payment and when will I receive it?",
     "summary": "Here is what you need to know about the payment that millions will receive from January.",
@@ -7,6 +52,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o",
     "publishedAt": "2026-11-24T20:16:24.000Z"
+  },
+  {
+    "id": "dbc2d0b7784f5010",
+    "title": "Hundreds of thousands could lose disability benefits under Timms plans for Pip shake-up",
+    "summary": "Minister’s review says Pip system no longer fit for purpose and recommends new test for who is allowed to claim.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/24/disability-benefits-timms-review-pip-personal-independence-payments",
+    "publishedAt": "2026-11-24T20:00:31.000Z"
   },
   {
     "id": "9c887b791c3744d6",
@@ -52,6 +106,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/artanddesign/2026/nov/24/alia-syed-wins-10000-jarman-award-for-depth-and-maturity-of-her-experimental-films",
     "publishedAt": "2026-11-24T19:30:54.000Z"
+  },
+  {
+    "id": "b335207f99b64e53",
+    "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+    "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o",
+    "publishedAt": "2026-11-24T19:27:23.000Z"
   },
   {
     "id": "61a985d0c2e87d76",
@@ -223,6 +286,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
     "publishedAt": "2026-11-24T18:00:24.000Z"
+  },
+  {
+    "id": "3136d25333402d9e",
+    "title": "Rise of the celebrity CEO raises questions about corporate governance",
+    "summary": "Jensen Huang received a hero's welcome back at Nvidia. But what happens when one of the world's most valuable companies becomes too reliant on one person?",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-25/the-rise-of-the-celebrity-ceo/107420760",
+    "publishedAt": "2026-11-24T18:00:00.000Z"
   },
   {
     "id": "5475ad27c2a9ba6b",
@@ -522,6 +594,15 @@
     "publishedAt": "2026-11-24T15:26:50.000Z"
   },
   {
+    "id": "ae2e8e2caf29fdfa",
+    "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
+    "summary": "US president says he ‘convinced’ chipmaker’s board to reinstate CEO, as Nvidia shares fall after previous day’s rally.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+    "publishedAt": "2026-11-24T15:23:20.000Z"
+  },
+  {
     "id": "71b08d8a9cc79d6c",
     "title": "UK police arrest two after break-in at Prince William’s country residence",
     "summary": "The arrests were made at a property on ⁠⁠⁠⁠the royal family's Sandringham estate in Norfolk, eastern England.",
@@ -628,6 +709,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss",
     "publishedAt": "2026-11-24T14:27:38.000Z"
+  },
+  {
+    "id": "197eb37be8e92288",
+    "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to war",
+    "summary": "North Korea has threatened to close a Swiss diplomatic office that opened in Pyongyang last month.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/north-korea-reviews-switzerland-relations-after-sanctions-youth-138402640",
+    "publishedAt": "2026-11-24T14:26:24.000Z"
   },
   {
     "id": "7b9b3002934afb86",
@@ -808,6 +898,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/24/nhs-caterer-compass-london-listing-new-york-us-ftse-100",
     "publishedAt": "2026-11-24T13:30:22.000Z"
+  },
+  {
+    "id": "8c9c1f9f67fc72ba",
+    "title": "Two arrested after break-in at Kate and William's estate",
+    "summary": "British police say two are arrested on suspicion of burglary after an incident at the Sandringham Estate.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-25/kate-william-prince-of-wales-break-in-anmer-hall/107423242",
+    "publishedAt": "2026-11-24T13:23:57.000Z"
   },
   {
     "id": "328a5745d169baef",
@@ -1206,6 +1305,15 @@
     "publishedAt": "2026-11-24T10:42:25.000Z"
   },
   {
+    "id": "312f5150b86d32c5",
+    "title": "Hanoi eatery blast kills 6 and injures more than a dozen",
+    "summary": "An explosion suspected to be from a gas leak at a hot pot eatery in Hanoi has six people and injured more than a dozen others.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/hanoi-eatery-blast-kills-3-injures-dozen-138402807",
+    "publishedAt": "2026-11-24T10:42:24.000Z"
+  },
+  {
     "id": "2ce4619c942c3f66",
     "title": "Officials backtrack after 24-hour hunt for Istanbul lioness, saying she never existed",
     "summary": "Turkish officials say a lioness that was subject to a 24-hour search and sparked panic among Istanbul residents does not actually exist.",
@@ -1240,113 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/24/under-16s-social-media-ban-disrupt-sites-no-risk-uk-tech-industry",
     "publishedAt": "2026-11-24T10:18:39.000Z"
-  },
-  {
-    "id": "2bfe168014b9db1c",
-    "title": "GP surgery suspends routine appointments due to 'tsunami' of demand",
-    "summary": "Aberfoyle Medical Practice in Derry says its doctors are treating 60 patients each every day.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm62pze6xn37o",
-    "publishedAt": "2026-11-24T10:17:57.000Z"
-  },
-  {
-    "id": "bba4c0d44abe72e5",
-    "title": "Congress to grill Jensen Huang over ties with China and Trump’s intervention",
-    "summary": "Lawmakers from both parties are demanding answers about the Nvidia CEO’s reinstatement and the administration’s handling of national security risks.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress",
-    "publishedAt": "2026-11-24T10:00:14.000Z"
-  },
-  {
-    "id": "83b0b4e2c32cf329",
-    "title": "Tale of Thanksgiving grandma and accidental guest to receive Lifetime movie treatment",
-    "summary": "Wanda Dench texted stranger Jamal Hinton by mistake in 2016 – and pair have shared holiday together ever since.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/24/thanksgiving-grandmother-text-lifetime",
-    "publishedAt": "2026-11-24T10:00:13.000Z"
-  },
-  {
-    "id": "2256b381d147e89d",
-    "title": "Bleeding, birth defects: Congo residents sue over alleged mining pollution",
-    "summary": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
-    "publishedAt": "2026-11-24T10:00:00.000Z"
-  },
-  {
-    "id": "b0b220d96156a6b6",
-    "title": "Meet Colombia's fuzzy 'water guardians'",
-    "summary": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
-    "publishedAt": "2026-11-24T10:00:00.000Z"
-  },
-  {
-    "id": "56b318040a52f9c8",
-    "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
-    "summary": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
-    "publishedAt": "2026-11-24T10:00:00.000Z"
-  },
-  {
-    "id": "8478daece731c9d3",
-    "title": "Doctors struggle to save babies after parents refuse vitamin K",
-    "summary": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
-    "publishedAt": "2026-11-24T10:00:00.000Z"
-  },
-  {
-    "id": "3e3d8c66fac3dd63",
-    "title": "Why S Korea issued air raid alert after Russian jets flew near its airspace",
-    "summary": "South Korean authorities issue air raid warnings after several Russian jets were on verge of entering its airspace.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/why-s-korea-issued-air-raid-alert-after-russian-jets-flew-near-its-airspace?traffic_source=rss",
-    "publishedAt": "2026-11-24T09:53:55.000Z"
-  },
-  {
-    "id": "a7dfb64f150cc36b",
-    "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
-    "summary": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
-    "publishedAt": "2026-11-24T09:52:03.000Z"
-  },
-  {
-    "id": "9c08e39e71cb21a5",
-    "title": "Russian attack kills two people in Ukraine’s Zaporizhzhia",
-    "summary": "Attack on city in southeastern Ukraine destroyed a house and damaged a five-storey apartment building, officials said.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
-    "publishedAt": "2026-11-24T09:51:26.000Z"
-  },
-  {
-    "id": "f9dd9e07bbfbfb33",
-    "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
-    "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o",
-    "publishedAt": "2026-11-24T09:33:00.000Z"
-  },
-  {
-    "id": "7d1eb19f9d4e517d",
-    "title": "Global land mine casualties hit a 5-year high, driven by Myanmar’s brutal civil war and Syria",
-    "summary": "Casualties from land mines and unexploded ordnance reached a five-year high in 2025, with Southeast Asia seeing a significant number of those killed or wounded.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/global-land-mine-casualties-hit-5-year-high-138403128",
-    "publishedAt": "2026-11-24T09:13:37.000Z"
   }
 ]
