@@ -1,5 +1,32 @@
 [
   {
+    "id": "d03c9347c8a2e9ed",
+    "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+    "summary": "The order was issued after aircraft entered the country’s air defence identification zone over the island of Ulleungdo.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
+    "publishedAt": "2026-11-24T04:14:43.000Z"
+  },
+  {
+    "id": "b13b75689b5b9343",
+    "title": "A spokesperson says ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from exile in India on Dec. 16",
+    "summary": "",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/spokesperson-ousted-bangladeshi-prime-minister-sheikh-hasina-plans-138398785",
+    "publishedAt": "2026-11-24T03:50:32.000Z"
+  },
+  {
+    "id": "9948283abb1f1584",
+    "title": "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
+    "summary": "Fausto Meza Flores faces drug trafficking and weapons charges after his capture in a violent Sinaloa operation.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss",
+    "publishedAt": "2026-11-24T03:20:55.000Z"
+  },
+  {
     "id": "efba8ca8339e8325",
     "title": "Taliban forest patrols crack down on illegal logging to protect against flooding in Afghanistan",
     "summary": "A police unit in eastern Afghanistan is patrolling to protect the country's last remaining forests.",
@@ -34,6 +61,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
     "publishedAt": "2026-11-24T02:27:19.000Z"
+  },
+  {
+    "id": "bc330a5f29595397",
+    "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+    "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
+    "publishedAt": "2026-11-24T02:15:59.000Z"
   },
   {
     "id": "af8301566e5ddb52",
@@ -529,6 +565,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss",
     "publishedAt": "2026-11-23T18:00:23.000Z"
+  },
+  {
+    "id": "e144ec2108e97dad",
+    "title": "China's tourists are coming back to Australia next year",
+    "summary": "While the world was watching the trilateral summit, Anthony Albanese was busy behind the scenes, locking in 2027 as the China-Australia Year of Tourism. It's hoped to bring billions into the economy.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-24/year-of-tourism-australia-china/107417630",
+    "publishedAt": "2026-11-23T18:00:00.000Z"
   },
   {
     "id": "1e3834cb7a60b497",
@@ -1303,50 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o",
     "publishedAt": "2026-11-23T11:15:16.000Z"
-  },
-  {
-    "id": "49a7e4be6186efab",
-    "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
-    "summary": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war's spread.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
-    "publishedAt": "2026-11-23T11:10:12.000Z"
-  },
-  {
-    "id": "0361d5737063ee43",
-    "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
-    "summary": "Brian Morales García of Texas seeks damages after he was wrongly identified as undocumented in case White House wants dropped.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
-    "publishedAt": "2026-11-23T11:00:56.000Z"
-  },
-  {
-    "id": "aca70cb6e9d5adc8",
-    "title": "Tourists evacuated after fire destroys 6 hotels in Zanzibar's Nungwi Beach area",
-    "summary": "A fire engulfed six hotels along a popular beach in Tanzania’s Zanzibar archipelago over the weekend, causing widespread damage but no deaths.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/tourists-evacuated-after-fire-destroys-6-hotels-zanzibars-138370519",
-    "publishedAt": "2026-11-23T10:56:41.000Z"
-  },
-  {
-    "id": "ff4859a231b053c4",
-    "title": "Capita shares plunge and boss steps down as civil service pensions saga drags on",
-    "summary": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo",
-    "publishedAt": "2026-11-23T10:55:35.000Z"
-  },
-  {
-    "id": "2b877f29ef1de249",
-    "title": "CAS decision on Senegal’s AFCON 2025 title appeal on Tuesday",
-    "summary": "Senegal are contesting CAF's decision to declare Morocco champions, despite Senegal winning the final 1-0 in January.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/23/senegal-africa-cup-of-nations-afcon-morocco-cas-decision-appeal?traffic_source=rss",
-    "publishedAt": "2026-11-23T10:55:05.000Z"
   }
 ]
