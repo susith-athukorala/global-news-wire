@@ -1,5 +1,41 @@
 [
   {
+    "id": "3d13677d42e96ea8",
+    "title": "Ebikes, screens and failing manners pose challenge for Dutch cycling culture",
+    "summary": "Awareness campaign reminds public ‘traffic is a team sport’ amid less civility and more collisions on roads.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/24/ebikes-screens-and-failing-manners-pose-challenge-for-dutch-cycling-culture",
+    "publishedAt": "2026-11-24T05:00:07.000Z"
+  },
+  {
+    "id": "379006704c7d6f64",
+    "title": "Channel 4 hit as Unilever switches from TV to influencer marketing",
+    "summary": "Exclusive: Gogglebox broadcaster is bigger loser than its rivals after Dove owner’s strategy shift, analysis shows.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing",
+    "publishedAt": "2026-11-24T05:00:07.000Z"
+  },
+  {
+    "id": "fb28bab6d6fb9c7b",
+    "title": "Pennsylvania reports ninth measles death in ongoing state outbreak",
+    "summary": "CDC and state figures on measles deaths differ as Pennsylvania faces an escalating health crisis in 46 counties.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
+    "publishedAt": "2026-11-24T04:59:13.000Z"
+  },
+  {
+    "id": "377bb95d9bb07ae1",
+    "title": "WHO chief visits Cuba as healthcare system deteriorates",
+    "summary": "Analysts say fuel shortages blamed on US sanctions are worsening the crisis.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/who-chief-visits-cuba-as-healthcare-system-deteriorates?traffic_source=rss",
+    "publishedAt": "2026-11-24T04:35:37.000Z"
+  },
+  {
     "id": "d03c9347c8a2e9ed",
     "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
     "summary": "The order was issued after aircraft entered the country’s air defence identification zone over the island of Ulleungdo.",
@@ -7,6 +43,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
     "publishedAt": "2026-11-24T04:14:43.000Z"
+  },
+  {
+    "id": "1ec1d555d8613c28",
+    "title": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
+    "summary": "Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws",
+    "publishedAt": "2026-11-24T04:03:16.000Z"
   },
   {
     "id": "b13b75689b5b9343",
@@ -493,6 +538,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
     "publishedAt": "2026-11-23T19:20:30.000Z"
+  },
+  {
+    "id": "aca70cb6e9d5adc8",
+    "title": "Tourists evacuated after fire destroys 6 hotels in Zanzibar's Nungwi Beach area",
+    "summary": "A fire engulfed six hotels along a popular beach in Tanzania’s Zanzibar archipelago over the weekend.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/tourists-evacuated-after-fire-destroys-6-hotels-zanzibars-138370519",
+    "publishedAt": "2026-11-23T18:48:10.000Z"
   },
   {
     "id": "a23b3821460267bd",
@@ -1294,59 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
     "publishedAt": "2026-11-23T11:40:01.000Z"
-  },
-  {
-    "id": "48677261880da449",
-    "title": "Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show",
-    "summary": "Gianni Infantino’s failed Fifa Forward Enterprise plan could have locked football in for up to 96 years while paying its management up to 5% of the scheme’s multibillion-pound value, according to documents seen by the Guardian.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/football/2026/nov/23/gianni-infantino-world-cup-sell-off-plan-96-years-documents-payouts",
-    "publishedAt": "2026-11-23T11:34:42.000Z"
-  },
-  {
-    "id": "ad1ca624e54d969b",
-    "title": "Flagship UK gigafactory plan in turmoil after it loses second builder in five months",
-    "summary": "Tata-owned Agratas plant to build EV batteries for sister company Jaguar Land Rover seen as crucial for long-term health of British car industry.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/23/flagship-uk-gigafactory-turmoil-loses-second-builder",
-    "publishedAt": "2026-11-23T11:33:44.000Z"
-  },
-  {
-    "id": "8086b43b969c14a3",
-    "title": "First Thing: Cop31 talks collapse without deal in blow to planet’s future climate",
-    "summary": "More than two weeks of talks in Turkey fail to produce a resolution to tackle climate crisis. Plus, a savage review of Melania’s new documentary.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/23/first-thing-cop31-talks-collapse-no-deal-future-global-climate",
-    "publishedAt": "2026-11-23T11:26:45.000Z"
-  },
-  {
-    "id": "7b8bae570643d666",
-    "title": "Flights grounded in Belgium due to strike against austerity measures",
-    "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o",
-    "publishedAt": "2026-11-23T11:26:12.000Z"
-  },
-  {
-    "id": "c3a1045cd8c989d2",
-    "title": "COP31: What next after UN climate talks collapse",
-    "summary": "UN member states fail to agree on how to fast-track action to reverse global warming in a blow to climate agenda.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse?traffic_source=rss",
-    "publishedAt": "2026-11-23T11:19:08.000Z"
-  },
-  {
-    "id": "d4c43e046f97320e",
-    "title": "Presidential villa also hit by water and power cuts, Nigerian leader says",
-    "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o",
-    "publishedAt": "2026-11-23T11:15:16.000Z"
   }
 ]
