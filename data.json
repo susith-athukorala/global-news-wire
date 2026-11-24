@@ -1,5 +1,86 @@
 [
   {
+    "id": "e9128ac72409362f",
+    "title": "Proposed Beatles attraction on Savile Row faces rooftop gigs ban",
+    "summary": "Westminster council to vote on restrictions at planned tourist venue and site of band’s final public concert.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/24/beatles-attraction-savile-row-live-music-ban-westminster-council",
+    "publishedAt": "2026-11-24T08:00:11.000Z"
+  },
+  {
+    "id": "530eaa08afbc98c4",
+    "title": "Trump, Nvidia and power: could we be nearing the end of tech’s Gilded Age?",
+    "summary": "Oligarchs believe they’re untouchable – the blue wave offers hope that the rampant corruption of the Trump era may soon be over.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
+    "publishedAt": "2026-11-24T08:00:11.000Z"
+  },
+  {
+    "id": "b9b8d84b5905e8a8",
+    "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
+    "summary": "The Pakistan Air Force pilot will spend about a week on board the Tiangong, conducting experiments with China’s crew.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+    "publishedAt": "2026-11-24T07:55:18.000Z"
+  },
+  {
+    "id": "f3d06eaf3dc32c4d",
+    "title": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
+    "summary": "WFP Executive Director Luke Lindberg decries ‘political problem’ as grain is 'not reaching the people who need it'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+    "publishedAt": "2026-11-24T07:52:44.000Z"
+  },
+  {
+    "id": "e7530cf187b6c43b",
+    "title": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
+    "summary": "Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burned.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
+    "publishedAt": "2026-11-24T07:42:57.000Z"
+  },
+  {
+    "id": "80b91b29fb8c313c",
+    "title": "Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
+    "summary": "Government forces made early gains in September, but Houthi fighting on multiple fronts has slowed the offensive.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/why-has-yemens-offensive-against-the-houthis-in-al-bayda-stalled?traffic_source=rss",
+    "publishedAt": "2026-11-24T07:36:07.000Z"
+  },
+  {
+    "id": "2a207faf690f81e6",
+    "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16",
+    "summary": "Hasina urges Dhaka to arrange her return on the national airline, as government says she can only be extradited.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss",
+    "publishedAt": "2026-11-24T07:35:02.000Z"
+  },
+  {
+    "id": "9323339cb00d29d3",
+    "title": "After 80 years in Oxford, Naga ancestors are finally going home",
+    "summary": "A campaign securing the landmark return to India of ancestral remains taken during British colonial rule has opened a wider conversation about restitution.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/23/this-is-india-pitt-rivers-museum-oxford-human-remains-repatriation",
+    "publishedAt": "2026-11-24T07:30:10.000Z"
+  },
+  {
+    "id": "d75d8440881e8ee9",
+    "title": "What China's Xi could take away from Jensen Huang's return to Nvidia",
+    "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o",
+    "publishedAt": "2026-11-24T07:26:27.000Z"
+  },
+  {
     "id": "e0dfb34915001ed0",
     "title": "Australia warns tech giants of multibillion-dollar fines for online ‘harm’",
     "summary": "New internet safety bill expected to pass this week could impose fines of up to 5 percent of firms' global revenue.",
@@ -7,6 +88,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
     "publishedAt": "2026-11-24T07:02:52.000Z"
+  },
+  {
+    "id": "42fa90756b089da2",
+    "title": "Children of the revolution: how the north of England is defining modern men’s fashion",
+    "summary": "Once the historic centre of the textile industry, the north is now home to a host of a provenance-driven labels. But is there a specific northern menswear look?",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/fashion/2026/nov/24/children-of-the-revolution-how-the-north-of-england-is-defining-modern-mens-fashion",
+    "publishedAt": "2026-11-24T07:00:10.000Z"
   },
   {
     "id": "f41feeddd1fe5ae4",
@@ -475,6 +565,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
     "publishedAt": "2026-11-23T23:08:51.000Z"
+  },
+  {
+    "id": "50ad97a8b3bf3fbc",
+    "title": "Israel's bombardment has turned Gaza into 'toxic wasteland'",
+    "summary": "New research suggests more than 99 per cent of the Gaza Strip shows signs of contamination from Israeli attacks.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-24/israel-s-bombardment-turns-gaza-into-toxic-wasteland/107419898",
+    "publishedAt": "2026-11-23T23:06:22.000Z"
   },
   {
     "id": "a4dc0379d2f60a2b",
@@ -1179,6 +1278,15 @@
     "publishedAt": "2026-11-23T14:53:41.000Z"
   },
   {
+    "id": "46132fec3248b895",
+    "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
+    "summary": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+    "publishedAt": "2026-11-23T14:51:44.000Z"
+  },
+  {
     "id": "4d75135fe66595ee",
     "title": "Next issues cyber-attack warning after ‘benign’ data accessed by hackers",
     "summary": "Retailer says it believes no personal data that could lead to fraud was accessed after hack of third-party supplier.",
@@ -1240,113 +1348,5 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-24/nvidia-ceo-jensen-huang-reinstated/107419102",
     "publishedAt": "2026-11-23T14:12:51.000Z"
-  },
-  {
-    "id": "89f46f6bc2614d82",
-    "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
-    "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro",
-    "publishedAt": "2026-11-23T14:08:50.000Z"
-  },
-  {
-    "id": "c81f91b7bf257e7b",
-    "title": "‘It’s an embarrassment’: how LA’s desperately needed airport tram went off the rails",
-    "summary": "The SkyLink people mover is less than 2.5 miles long but it’s $1bn over budget and has been delayed by four years.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/23/lax-skylink-people-mover-los-angeles",
-    "publishedAt": "2026-11-23T14:00:49.000Z"
-  },
-  {
-    "id": "c71a8c468226058e",
-    "title": "Plant-based lunches could cut Australia’s emissions by 15m tonnes, new research shows",
-    "summary": "Nationwide change in lunch habits could cut more climate pollution than grounding every domestic flight.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/23/plant-based-lunches-could-cut-australia-emissions-by-15m-tonnes-new-research-shows",
-    "publishedAt": "2026-11-23T13:58:01.000Z"
-  },
-  {
-    "id": "ecc5392a4e016486",
-    "title": "Domestic violence perpetrators are misusing smart car features to abuse, researchers warn",
-    "summary": "Exclusive: Alarming report reveals how tracking and monitoring functions and digital key access have been used to facilitate abuse.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/23/smart-car-tracking-control-features-domestic-violence-warning-ntwnfb",
-    "publishedAt": "2026-11-23T13:57:45.000Z"
-  },
-  {
-    "id": "4b0f943fb6fa9d05",
-    "title": "Over 100 writers from PEN America to form splinter group over Gaza tensions",
-    "summary": "Members of the free-expression literary and human rights group are forming a new chapter called PEN Writes US.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/books/2026/nov/23/pen-america-gaza-splinter-group",
-    "publishedAt": "2026-11-23T13:56:26.000Z"
-  },
-  {
-    "id": "5a2d505a12c0a4ad",
-    "title": "European Commission warns EU Academy users of data leak after AI-driven cyberattack",
-    "summary": "The European Commission is warning of a data leak from a major AI-generated cyberattack on its EU Academy website.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/european-commission-warns-eu-academy-users-data-leak-138374368",
-    "publishedAt": "2026-11-23T13:56:23.000Z"
-  },
-  {
-    "id": "bab5470813fe16df",
-    "title": "‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’",
-    "summary": "Australian dictionary’s committee of word experts says winning term is ‘a succinct reflection of the state of the world in 2026’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr",
-    "publishedAt": "2026-11-23T13:55:40.000Z"
-  },
-  {
-    "id": "f94ba32c4421a06e",
-    "title": "A silver soup tureen once owned by JP Morgan could fetch $8M at a Christie's auction",
-    "summary": "A massive silver soup tureen once owned by financier J.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/silver-soup-tureen-owned-jp-morgan-fetch-8-138374364",
-    "publishedAt": "2026-11-23T13:54:28.000Z"
-  },
-  {
-    "id": "4f76f259dc591f95",
-    "title": "Police evacuate 12,000 from rapper Don Toliver concert after substance release",
-    "summary": "British police have evacuated over 12,000 fans from a Don Toliver concert after an unknown substance was released in the crowd.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/audience-evacuated-don-toliver-concert-after-unknown-substance-138369818",
-    "publishedAt": "2026-11-23T13:54:17.000Z"
-  },
-  {
-    "id": "489d32c407e49a2e",
-    "title": "Welfare cuts: What's been happening with Pip and universal credit?",
-    "summary": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o",
-    "publishedAt": "2026-11-23T13:52:40.000Z"
-  },
-  {
-    "id": "cc3bc93318bc86e1",
-    "title": "Anti-austerity strike spurs transport chaos across Belgium",
-    "summary": "National strike against planned austerity causes widespread disruption, with government's fate hanging in the balance.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/anti-austerity-strike-spurs-transport-chaos-across-belgium?traffic_source=rss",
-    "publishedAt": "2026-11-23T13:45:16.000Z"
-  },
-  {
-    "id": "33fc5939f65f224f",
-    "title": "India pledges $1.6bn to Nepal in reset of ties",
-    "summary": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko",
-    "publishedAt": "2026-11-23T13:39:30.000Z"
   }
 ]
