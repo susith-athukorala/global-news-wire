@@ -1,5 +1,77 @@
 [
   {
+    "id": "96bc43410782dee4",
+    "title": "Armed men take hostages at supermarket in one of Colombia’s top tourist destinations",
+    "summary": "Police say group seized store in city of Cartagena and local media showed footage of snipers on nearby buildings.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+    "publishedAt": "2026-11-24T18:08:04.000Z"
+  },
+  {
+    "id": "822010554ec367e8",
+    "title": "Israel attempts to jail Palestinian student at Hebrew University without trial",
+    "summary": "Mahdi Tounsi appeared to have suffered maltreatment at hearing where he was not allowed to hear prosecution case against him.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/24/israel-jail-palestinian-student-mahdi-tounsi-hebrew-university-without-trial",
+    "publishedAt": "2026-11-24T18:02:53.000Z"
+  },
+  {
+    "id": "5475ad27c2a9ba6b",
+    "title": "Where $24k can buy you a new home",
+    "summary": "Property hunters went well off the beaten track, to a small town in Western Australia's Wheatbelt, to snap up a bargain.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-25/cheap-housing-in-dalwallinu-buntine-wa/107412468",
+    "publishedAt": "2026-11-24T18:00:00.000Z"
+  },
+  {
+    "id": "14815130be7ddd28",
+    "title": "Democrats demand records as investigation into Trump Jr’s investment firm widens",
+    "summary": "Four firms linked to 1789 Capital asked to cooperate as Jamie Raskin leads inquiry into possible insider dealing.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-jr-investigations-investments",
+    "publishedAt": "2026-11-24T17:45:36.000Z"
+  },
+  {
+    "id": "97c45c771c65cc65",
+    "title": "Cameroon separatist leader pleads not guilty at war crimes trial in Norway",
+    "summary": "Lucas Cho Ayaba is accused of remotely planning attacks that killed and injured dozens of civilians.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/cameroon-separatist-leader-pleads-not-guilty-in-war-crimes-trial?traffic_source=rss",
+    "publishedAt": "2026-11-24T17:39:18.000Z"
+  },
+  {
+    "id": "4615c8c5c51d94da",
+    "title": "US sanctions on Lebanon’s Hezbollah-affiliates may have limited impact",
+    "summary": "Analysts say US sanctions unlikely to weaken Hezbollah significantly, but risk hurting everyday Lebanese.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/us-sanctions-on-lebanons-hezbollah-affiliates-may-have-limited-impact?traffic_source=rss",
+    "publishedAt": "2026-11-24T17:25:57.000Z"
+  },
+  {
+    "id": "5a7f4096127d26e1",
+    "title": "Standard owner Lord Lebedev cuts £5m off price of London mansion",
+    "summary": "Son of a Russian billionaire cuts cost of Stud House in Hampton Court estate from £25m to £19.85m.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/24/lord-lebedev-cuts-price-london-mansion-cost",
+    "publishedAt": "2026-11-24T17:21:23.000Z"
+  },
+  {
+    "id": "85992c25e4541c6a",
+    "title": "Compass’s logic for US listing is flimsy but UK ministers need to wake up to Footsie flight risk | Nils Pratley",
+    "summary": "The contract caterer switching to New York is a big hit to the London Stock Exchange but what is being done to discourage others from delisting?",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/24/compass-logic-new-york-listing-flimsy",
+    "publishedAt": "2026-11-24T17:15:19.000Z"
+  },
+  {
     "id": "6e662a54e2f93638",
     "title": "Storms and flooding in US could disrupt Thanksgiving travel for tens of millions",
     "summary": "Storm systems across the country are expected to produce periods of heavy rain and strong winds before the holiday.",
@@ -34,6 +106,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o",
     "publishedAt": "2026-11-24T17:04:00.000Z"
+  },
+  {
+    "id": "232c4ba6bb6eae03",
+    "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+    "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o",
+    "publishedAt": "2026-11-24T16:49:07.000Z"
   },
   {
     "id": "3a32bad200767873",
@@ -846,6 +927,15 @@
     "publishedAt": "2026-11-24T10:59:40.000Z"
   },
   {
+    "id": "bc330a5f29595397",
+    "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+    "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
+    "publishedAt": "2026-11-24T10:58:51.000Z"
+  },
+  {
     "id": "2aa9fd24f84b5e13",
     "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
     "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
@@ -889,6 +979,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/turkish-officials-backtrack-after-24-hour-hunt-istanbul-138404359",
     "publishedAt": "2026-11-24T10:42:24.000Z"
+  },
+  {
+    "id": "b13b75689b5b9343",
+    "title": "Bangladesh's ousted leader Hasina plans to return home from exile on Dec 16",
+    "summary": "Ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from exile in India on Dec. 16.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/spokesperson-ousted-bangladeshi-prime-minister-sheikh-hasina-plans-138398785",
+    "publishedAt": "2026-11-24T10:42:14.000Z"
   },
   {
     "id": "cb9e163709e56bba",
@@ -1042,6 +1141,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/hanoi-eatery-blast-kills-3-injures-dozen-138402807",
     "publishedAt": "2026-11-24T09:06:17.000Z"
+  },
+  {
+    "id": "1ec1d555d8613c28",
+    "title": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
+    "summary": "Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws",
+    "publishedAt": "2026-11-24T08:47:59.000Z"
   },
   {
     "id": "b335207f99b64e53",
@@ -1240,113 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo",
     "publishedAt": "2026-11-24T06:23:01.000Z"
-  },
-  {
-    "id": "80f8e45ea9824da1",
-    "title": "US flew drone over Mexican territory to help capture drug lord in Sinaloa",
-    "summary": "Mexican security officials say the United States flew a surveillance drone over Mexican territory to help the government track down and capture a top drug lord over the weekend in Sinaloa.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/us-flew-drone-mexican-territory-capture-drug-lord-138385870",
-    "publishedAt": "2026-11-24T06:21:58.000Z"
-  },
-  {
-    "id": "273aeb465a044904",
-    "title": "Meet the major players in Spain's general election",
-    "summary": "Spaniards will vote in a general election Sunday, when Prime Minister Pedro S&aacute;nchez will try to defy the polls that point to a combined victory for conservative and far-right challengers.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/meet-major-players-spains-general-election-138400692",
-    "publishedAt": "2026-11-24T06:20:52.000Z"
-  },
-  {
-    "id": "5063ade9eb198cbf",
-    "title": "It's a race to find Cyprus' disappeared, hindered by a construction boom and fading memories",
-    "summary": "A group of dedicated Greek Cypriot and Turkish Cypriot experts have for two decades worked hard to unearth and identify the remains of ethnically split Cyprus' missing persons.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/race-find-cyprus-disappeared-hindered-construction-boom-fading-138400956",
-    "publishedAt": "2026-11-24T06:20:17.000Z"
-  },
-  {
-    "id": "453558042ad68717",
-    "title": "Sports whistleblowers protected under proposed laws amid Australian cricket ball tampering saga",
-    "summary": "Amendments to government bill by Coalition and Greens would establish protections for those reporting wrongdoing in sport.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/24/sports-whistleblowers-protected-proposed-laws-australian-cricket-ball-tampering-sandpapergate-ntwnfb",
-    "publishedAt": "2026-11-24T06:20:10.000Z"
-  },
-  {
-    "id": "9e295ddc8b75a13c",
-    "title": "Goats drafted in to tame Greenwich Park slope",
-    "summary": "Bagot goats are used to keep vegetation in check and help preserve the view from the Royal Observatory.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o",
-    "publishedAt": "2026-11-24T06:16:51.000Z"
-  },
-  {
-    "id": "d173b9cf66d14568",
-    "title": "Massive illegal fishing bust in northern waters alarms industry",
-    "summary": "Australian Border Force has seized a foreign fishing vessel north of Darwin allegedly carrying more than 25 tonnes of frozen fish.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-24/illegal-fisherman-nt-arafura-sea/107420362",
-    "publishedAt": "2026-11-24T06:11:18.000Z"
-  },
-  {
-    "id": "24384649709a5f8a",
-    "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
-    "summary": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reported.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
-    "publishedAt": "2026-11-24T06:00:07.000Z"
-  },
-  {
-    "id": "c945b3d23771c690",
-    "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’",
-    "summary": "Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companies.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
-    "publishedAt": "2026-11-24T05:58:15.000Z"
-  },
-  {
-    "id": "6f12b6f290b08bff",
-    "title": "Arsenal vs Dortmund: Champions League – Predictions, how to watch, lineups",
-    "summary": "Europe's premier club competition pits English champions Arsenal against German league leaders Dortmund on Tuesday.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-borussia-dortmund-champions-league-predictions-lineups-streaming?traffic_source=rss",
-    "publishedAt": "2026-11-24T05:56:41.000Z"
-  },
-  {
-    "id": "21d99b6d7920fcf8",
-    "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
-    "summary": "Prime minister Anwar Ibrahim’s announcement comes days after the ICJ found Myanmar had committed genocide against the Rohingya minority.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
-    "publishedAt": "2026-11-24T05:54:14.000Z"
-  },
-  {
-    "id": "cc716434d1ad9859",
-    "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
-    "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo",
-    "publishedAt": "2026-11-24T05:33:07.000Z"
-  },
-  {
-    "id": "3d13677d42e96ea8",
-    "title": "Ebikes, screens and failing manners pose challenge for Dutch cycling culture",
-    "summary": "Awareness campaign reminds public ‘traffic is a team sport’ amid less civility and more collisions on roads.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/24/ebikes-screens-and-failing-manners-pose-challenge-for-dutch-cycling-culture",
-    "publishedAt": "2026-11-24T05:00:07.000Z"
   }
 ]
