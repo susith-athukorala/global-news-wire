@@ -1,5 +1,41 @@
 [
   {
+    "id": "efba8ca8339e8325",
+    "title": "Taliban forest patrols crack down on illegal logging to protect against flooding in Afghanistan",
+    "summary": "A police unit in eastern Afghanistan is patrolling to protect the country's last remaining forests.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/taliban-forest-patrols-crack-illegal-logging-protect-flooding-138375793",
+    "publishedAt": "2026-11-24T03:09:21.000Z"
+  },
+  {
+    "id": "35b18dadfdd33690",
+    "title": "Indonesia’s Prabowo nominates 2 candidates to replace Raka as vice president",
+    "summary": "President Prabowo Subianto has nominated Agriculture Minister Andi Amran Sulaiman and former Foreign Minister Sugiono to replace Vice President Gibran Rakabuming Raka, who resigned on Nov. 12 over questions about his eligibility for office.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/indonesias-prabowo-nominates-2-candidates-replace-raka-vice-138372008",
+    "publishedAt": "2026-11-24T02:38:51.000Z"
+  },
+  {
+    "id": "7aebfbd15f7539fa",
+    "title": "China sentences official to death for spying for foreign country",
+    "summary": "Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher says.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
+    "publishedAt": "2026-11-24T02:37:36.000Z"
+  },
+  {
+    "id": "ab85d65627fc6674",
+    "title": "UN chief calls for world to agree on AI oversight within a year",
+    "summary": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+    "publishedAt": "2026-11-24T02:27:19.000Z"
+  },
+  {
     "id": "af8301566e5ddb52",
     "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
     "summary": "Singapore-based company entangled in scandal over alleged spy Alice Huang’s affair with Jensen Huang.",
@@ -7,6 +43,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
     "publishedAt": "2026-11-24T01:47:15.000Z"
+  },
+  {
+    "id": "9b0b258cccd78480",
+    "title": "Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap",
+    "summary": "Huang receives hero’s welcome at firm’s Silicon Valley headquarters as return cements role as key AI figure.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo",
+    "publishedAt": "2026-11-24T01:34:39.000Z"
   },
   {
     "id": "fc1566bf887e1ab4",
@@ -81,6 +126,15 @@
     "publishedAt": "2026-11-24T00:39:22.000Z"
   },
   {
+    "id": "ad58da60214cb9dd",
+    "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+    "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o",
+    "publishedAt": "2026-11-24T00:23:25.000Z"
+  },
+  {
     "id": "ae2afc4943e3f8d7",
     "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
     "summary": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
@@ -97,6 +151,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/24/borno-school-enrolment-nearly-doubles-after-years-of-conflict?traffic_source=rss",
     "publishedAt": "2026-11-24T00:02:16.000Z"
+  },
+  {
+    "id": "182b6213b22b35bc",
+    "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
+    "summary": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo",
+    "publishedAt": "2026-11-24T00:02:15.000Z"
   },
   {
     "id": "cef482f3944581e3",
@@ -225,6 +288,15 @@
     "publishedAt": "2026-11-23T21:30:40.000Z"
   },
   {
+    "id": "f5c16c2ef8e3ef17",
+    "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+    "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o",
+    "publishedAt": "2026-11-23T21:24:47.000Z"
+  },
+  {
     "id": "8acddeed4a257c6c",
     "title": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material",
     "summary": "Virginia and Oregon filed separate lawsuits on Monday, accusing the company of promoting Grok's 'spicy mode'.",
@@ -250,6 +322,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/23/sheriff-chad-bianco-security-spending-california-governor-candidate",
     "publishedAt": "2026-11-23T21:04:31.000Z"
+  },
+  {
+    "id": "392068d7b47efe77",
+    "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+    "summary": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo",
+    "publishedAt": "2026-11-23T21:03:34.000Z"
   },
   {
     "id": "c033e5c7ef7e5caf",
@@ -864,6 +945,15 @@
     "publishedAt": "2026-11-23T14:15:27.000Z"
   },
   {
+    "id": "f0d0d0cff377796c",
+    "title": "Nvidia says 'no national security risk' reinstating Jensen Huang as CEO",
+    "summary": "Reinstated Nvidia chief executive Jensen Huang says he \"can't wait to get back to work\", just days after the chip maker's board ruled out the co-founder's return.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-24/nvidia-ceo-jensen-huang-reinstated/107419102",
+    "publishedAt": "2026-11-23T14:12:51.000Z"
+  },
+  {
     "id": "89f46f6bc2614d82",
     "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
     "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
@@ -1258,95 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/23/senegal-africa-cup-of-nations-afcon-morocco-cas-decision-appeal?traffic_source=rss",
     "publishedAt": "2026-11-23T10:55:05.000Z"
-  },
-  {
-    "id": "b76c58c648d001e8",
-    "title": "India announces a $1.6 billion aid package for Nepal’s flood recovery",
-    "summary": "India has announced a $1.62 billion aid package to help Nepal rebuild after devastating floods.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/india-announces-16-billion-aid-package-nepals-flood-138369908",
-    "publishedAt": "2026-11-23T10:54:53.000Z"
-  },
-  {
-    "id": "e3cd39164b722b4a",
-    "title": "Chamonix mayor plans tourist limits for Alpine beauty spot",
-    "summary": "Rising numbers around Lac Blanc are having big impact on environment and on visitors’ enjoyment, mayor says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/23/chamonix-mayor-tourist-limits-lac-blanc",
-    "publishedAt": "2026-11-23T10:52:53.000Z"
-  },
-  {
-    "id": "108921d16660ed82",
-    "title": "NHS caterer Compass ‘plans stock market switch’ in blow to London",
-    "summary": "Surrey-based firm’s decision to move primary listing to New York would mark latest loss for FTSE 100.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/23/nhs-caterer-compass-plans-stock-market-switch-in-blow-to-london",
-    "publishedAt": "2026-11-23T10:51:40.000Z"
-  },
-  {
-    "id": "4aca8d2eb9183dcb",
-    "title": "More remains recovered in the search for 34 workers missing after an Indonesian candy factory fire",
-    "summary": "Rescue teams searching for 34 missing workers after a candy factory fire in Indonesia have recovered remains in 24 body bags.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/fire-indonesian-candy-factory-leaves-3-dead-dozens-138354030",
-    "publishedAt": "2026-11-23T10:50:14.000Z"
-  },
-  {
-    "id": "887ee480762b0c4b",
-    "title": "From mocked to mainstream: how Spain’s far-right Vox transformed its fortunes",
-    "summary": "Party that won just 0.2% of the vote in 2016 is on course for almost 20% this time and could be part of next government.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/23/vox-party-spain-far-right-mocked-to-mainstream",
-    "publishedAt": "2026-11-23T10:37:48.000Z"
-  },
-  {
-    "id": "6afcce281eb7fde7",
-    "title": "Antibiotics saved my life - then nearly killed me",
-    "summary": "Harriet Davies was given the drugs after falling ill while skiing in France.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckvg2elqy5g2o",
-    "publishedAt": "2026-11-23T10:33:34.000Z"
-  },
-  {
-    "id": "c631048a44eb7126",
-    "title": "Why is Bangladesh’s Grameen Bank under attack?",
-    "summary": "Leading financial institution has found itself at centre of tensions amid violence by Sheikh Hasina supporters.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/why-is-bangladeshs-grameen-bank-under-attack?traffic_source=rss",
-    "publishedAt": "2026-11-23T10:22:34.000Z"
-  },
-  {
-    "id": "cb54e6dd0647d56e",
-    "title": "Ukraine strikes two Russian vessels off Libyan coast",
-    "summary": "The Ukrainian president claims responsibility for a series of drone strikes which sunk one Russian vessel and severely damaged another.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-23/zelensky-says-ukraine-struck-russian-ship-near-libya/107418718",
-    "publishedAt": "2026-11-23T10:21:12.000Z"
-  },
-  {
-    "id": "464e67cf4a1869c6",
-    "title": "Occupied West Bank ‘military zones’ become de facto Israeli settler land",
-    "summary": "Closed military zones in the occupied West Bank are being seized by settlers as staging posts for pogroms.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/23/military-zones-in-occupied-west-bank-become-israeli-settler-outpost-lands?traffic_source=rss",
-    "publishedAt": "2026-11-23T10:20:58.000Z"
-  },
-  {
-    "id": "202f9d858fcaf044",
-    "title": "South East Water reports loss after supply issues",
-    "summary": "South East Water records a pre-tax loss of £22.9m in the six months to 30 September.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o",
-    "publishedAt": "2026-11-23T10:19:46.000Z"
   }
 ]
