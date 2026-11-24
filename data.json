@@ -1,5 +1,50 @@
 [
   {
+    "id": "af8301566e5ddb52",
+    "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+    "summary": "Singapore-based company entangled in scandal over alleged spy Alice Huang’s affair with Jensen Huang.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+    "publishedAt": "2026-11-24T01:47:15.000Z"
+  },
+  {
+    "id": "fc1566bf887e1ab4",
+    "title": "Beau Lamarre-Condon chose ‘long walk’ to witness box rather than silence, his barrister tells court",
+    "summary": "Former police officer has pleaded not guilty to murders of Jesse Baird and Luke Davies in Baird’s Paddington home in February 2024.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
+    "publishedAt": "2026-11-24T01:25:20.000Z"
+  },
+  {
+    "id": "92cd2eba0141fd62",
+    "title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
+    "summary": "The ruling could clear the way for Trump to argue prosecutors relied on evidence protected by presidential immunity.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
+    "publishedAt": "2026-11-24T01:17:48.000Z"
+  },
+  {
+    "id": "13e5f39baaa6d3bb",
+    "title": "Israeli minister approves return of Flydubai flights",
+    "summary": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
+    "publishedAt": "2026-11-24T01:09:51.000Z"
+  },
+  {
+    "id": "35db16ff21a22e7f",
+    "title": "Bukele shares details on deaths of Salvadoran troops in Haiti intervention",
+    "summary": "Bukele's military intervention in Haiti comes after four Salvadoran technicians were kidnapped by gangs in October.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
+    "publishedAt": "2026-11-24T01:06:00.000Z"
+  },
+  {
     "id": "8e3f5c03c4858029",
     "title": "South Korea says several Russian aircraft flew into its air defense zone",
     "summary": "South Korea’s military says several Russian aircraft flew inside the country’s air defense identification zone over waters between the Korean Peninsula and Japan.",
@@ -990,6 +1035,15 @@
     "publishedAt": "2026-11-23T13:00:05.000Z"
   },
   {
+    "id": "f2df81fbedc27577",
+    "title": "Striking doctor says they are advocating for the health service",
+    "summary": "It follows a separate 24-hour strike on Friday in which resident doctors took industrial action as part of the same dispute.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr3eg5vzn875o",
+    "publishedAt": "2026-11-23T12:46:55.000Z"
+  },
+  {
     "id": "a643e877c3bf15fd",
     "title": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
     "summary": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
@@ -1294,59 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
     "publishedAt": "2026-11-23T10:09:25.000Z"
-  },
-  {
-    "id": "bc3461a0e3cb1667",
-    "title": "Capita boss exits and shares crash after civil service pensions failures",
-    "summary": "Price plunges 67% as Adolfo Hernandez leaves with ‘immediate effect’ amid continued fallout from pension payment problems.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures",
-    "publishedAt": "2026-11-23T10:01:00.000Z"
-  },
-  {
-    "id": "0badd57cc861e1c1",
-    "title": "Fears for school crossing patrols as councils struggle to recruit lollipop people",
-    "summary": "Future of familiar school-run figures uncertain as vacancies surge and town halls consider alternatives.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/education/2026/nov/23/school-crossing-patrols-councils-struggle-recruit-lollipop-people",
-    "publishedAt": "2026-11-23T10:00:53.000Z"
-  },
-  {
-    "id": "3da8649f1efa3579",
-    "title": "Mushroom supplements promise health benefits. What does the science say?",
-    "summary": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
-    "publishedAt": "2026-11-23T10:00:00.000Z"
-  },
-  {
-    "id": "7f3845c3cd12040c",
-    "title": "Catering giant to switch stock market listing to US in further blow to UK",
-    "summary": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckz74098jq5po",
-    "publishedAt": "2026-11-23T09:54:04.000Z"
-  },
-  {
-    "id": "438677fa752fb716",
-    "title": "Thai court upholds royal defamation conviction for opposition lawmaker and cuts sentence to 3 years",
-    "summary": "An appeals court has upheld the conviction of an opposition lawmaker for defaming Thailand’s monarchy in social media posts but reduced her prison sentence from six years to three.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/thai-court-upholds-royal-defamation-conviction-opposition-lawmaker-138369625",
-    "publishedAt": "2026-11-23T09:46:27.000Z"
-  },
-  {
-    "id": "4f76f259dc591f95",
-    "title": "Audience evacuated from Don Toliver concert after substance released in the crowd",
-    "summary": "British police have evacuated over 12,000 fans from a Don Tolliver concert after an unknown substance was released in the crowd.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/audience-evacuated-don-toliver-concert-after-unknown-substance-138369818",
-    "publishedAt": "2026-11-23T09:38:18.000Z"
   }
 ]
