@@ -1,5 +1,95 @@
 [
   {
+    "id": "e0dfb34915001ed0",
+    "title": "Australia warns tech giants of multibillion-dollar fines for online ‘harm’",
+    "summary": "New internet safety bill expected to pass this week could impose fines of up to 5 percent of firms' global revenue.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
+    "publishedAt": "2026-11-24T07:02:52.000Z"
+  },
+  {
+    "id": "f41feeddd1fe5ae4",
+    "title": "UK disability benefit cuts risk worsening youth destitution, research warns",
+    "summary": "Joseph Rowntree Foundation report says millions could be left unable to regularly afford everyday basics.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/24/cuts-uk-disability-benefit-risk-worsening-youth-destitution-research-warns",
+    "publishedAt": "2026-11-24T07:00:10.000Z"
+  },
+  {
+    "id": "4204207efbec098f",
+    "title": "Morrisons trip cost me £100 in parking charges",
+    "summary": "Euro Car Parks insists my vehicle was there for more than 13 hours because its ANPR cameras missed my exit.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/24/morrisons-trip-parking-charges-euro-car-parks-pcn-anpr",
+    "publishedAt": "2026-11-24T07:00:09.000Z"
+  },
+  {
+    "id": "ff3625fb9b19337a",
+    "title": "Delia Smith joins opponents of £1.2bn data centre",
+    "summary": "The TV cook and author is worried about the proposed Keswick facility's environmental impact.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c678200xklgzo",
+    "publishedAt": "2026-11-24T06:36:26.000Z"
+  },
+  {
+    "id": "069bc99dc3aa13e3",
+    "title": "Pope Francis' diary details profound spiritual crisis and encounters with the devil",
+    "summary": "The Vatican is releasing excerpts of Pope Francis' private diary.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-francis-private-diary-details-profound-spiritual-crisis-138401988",
+    "publishedAt": "2026-11-24T06:26:22.000Z"
+  },
+  {
+    "id": "751937f73fbd1d1a",
+    "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+    "summary": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo",
+    "publishedAt": "2026-11-24T06:23:01.000Z"
+  },
+  {
+    "id": "80f8e45ea9824da1",
+    "title": "US flew drone over Mexican territory to help capture drug lord in Sinaloa",
+    "summary": "Mexican security officials say the United States flew a surveillance drone over Mexican territory to help the government track down and capture a top drug lord over the weekend in Sinaloa.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/us-flew-drone-mexican-territory-capture-drug-lord-138385870",
+    "publishedAt": "2026-11-24T06:21:58.000Z"
+  },
+  {
+    "id": "273aeb465a044904",
+    "title": "Meet the major players in Spain's general election",
+    "summary": "Spaniards will vote in a general election Sunday, when Prime Minister Pedro S&aacute;nchez will try to defy the polls that point to a combined victory for conservative and far-right challengers.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/meet-major-players-spains-general-election-138400692",
+    "publishedAt": "2026-11-24T06:20:52.000Z"
+  },
+  {
+    "id": "5063ade9eb198cbf",
+    "title": "It's a race to find Cyprus' disappeared, hindered by a construction boom and fading memories",
+    "summary": "A group of dedicated Greek Cypriot and Turkish Cypriot experts have for two decades worked hard to unearth and identify the remains of ethnically split Cyprus' missing persons.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/race-find-cyprus-disappeared-hindered-construction-boom-fading-138400956",
+    "publishedAt": "2026-11-24T06:20:17.000Z"
+  },
+  {
+    "id": "453558042ad68717",
+    "title": "Sports whistleblowers protected under proposed laws amid Australian cricket ball tampering saga",
+    "summary": "Amendments to government bill by Coalition and Greens would establish protections for those reporting wrongdoing in sport.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/24/sports-whistleblowers-protected-proposed-laws-australian-cricket-ball-tampering-sandpapergate-ntwnfb",
+    "publishedAt": "2026-11-24T06:20:10.000Z"
+  },
+  {
     "id": "9e295ddc8b75a13c",
     "title": "Goats drafted in to tame Greenwich Park slope",
     "summary": "Bagot goats are used to keep vegetation in check and help preserve the view from the Royal Observatory.",
@@ -34,6 +124,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
     "publishedAt": "2026-11-24T05:58:15.000Z"
+  },
+  {
+    "id": "6f12b6f290b08bff",
+    "title": "Arsenal vs Dortmund: Champions League – Predictions, how to watch, lineups",
+    "summary": "Europe's premier club competition pits English champions Arsenal against German league leaders Dortmund on Tuesday.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-borussia-dortmund-champions-league-predictions-lineups-streaming?traffic_source=rss",
+    "publishedAt": "2026-11-24T05:56:41.000Z"
   },
   {
     "id": "21d99b6d7920fcf8",
@@ -261,6 +360,15 @@
     "publishedAt": "2026-11-24T00:39:22.000Z"
   },
   {
+    "id": "37cae4b73bcdf83a",
+    "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
+    "summary": "Increasing numbers of corporate landlords could usher in big changes for renters.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o",
+    "publishedAt": "2026-11-24T00:28:48.000Z"
+  },
+  {
     "id": "ad58da60214cb9dd",
     "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
     "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
@@ -394,6 +502,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
     "publishedAt": "2026-11-23T22:41:48.000Z"
+  },
+  {
+    "id": "d9bc803d5d1e08f1",
+    "title": "Australians face Thai court over $1.9m investment scam",
+    "summary": "Five Australians return to a Bangkok court, on trial for allegedly running an investment scam that duped at least 14,000 Australians out of $1.9 million.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-24/trial-of-australians-charged-over-thai-scam-continues/107417146",
+    "publishedAt": "2026-11-23T22:20:32.000Z"
   },
   {
     "id": "3c7214ece71fcc2e",
@@ -792,6 +909,15 @@
     "publishedAt": "2026-11-23T17:07:55.000Z"
   },
   {
+    "id": "1e07638aee77020f",
+    "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+    "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o",
+    "publishedAt": "2026-11-23T17:07:25.000Z"
+  },
+  {
     "id": "0d242859bfc8fb24",
     "title": "Greece’s oldest modern-era museum reopens on the Acropolis after major restoration",
     "summary": "Greece’s oldest modern-era museum has reopened on the Acropolis in Athens after a seven-year, 6.2 million-euro ($6.8 million) restoration.",
@@ -1053,6 +1179,15 @@
     "publishedAt": "2026-11-23T14:53:41.000Z"
   },
   {
+    "id": "4d75135fe66595ee",
+    "title": "Next issues cyber-attack warning after ‘benign’ data accessed by hackers",
+    "summary": "Retailer says it believes no personal data that could lead to fraud was accessed after hack of third-party supplier.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
+    "publishedAt": "2026-11-23T14:50:31.000Z"
+  },
+  {
     "id": "6144b94b70afb55b",
     "title": "Amtrak train derails after colliding with tractor-trailer in Louisiana",
     "summary": "Five passengers were reported to have non-life-threatening injuries after crash at railroad crossing near Lafayette.",
@@ -1213,140 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko",
     "publishedAt": "2026-11-23T13:39:30.000Z"
-  },
-  {
-    "id": "7b8bae570643d666",
-    "title": "Flights cancelled in Belgium due to cost-of-living strike",
-    "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o",
-    "publishedAt": "2026-11-23T13:34:02.000Z"
-  },
-  {
-    "id": "a5104180c52d00ea",
-    "title": "Mexican soldiers attacked in wake of drug lord's arrest",
-    "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o",
-    "publishedAt": "2026-11-23T13:26:36.000Z"
-  },
-  {
-    "id": "f3a1a57bc1b67585",
-    "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
-    "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw074km48myeo",
-    "publishedAt": "2026-11-23T13:09:52.000Z"
-  },
-  {
-    "id": "46132fec3248b895",
-    "title": "Falling markets: will I lose money, and is there anything I can do?",
-    "summary": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
-    "publishedAt": "2026-11-23T13:08:46.000Z"
-  },
-  {
-    "id": "ba920d31a5e096e1",
-    "title": "Iran says it will use ‘all available means’ to counter US blockade",
-    "summary": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
-    "publishedAt": "2026-11-23T13:04:11.000Z"
-  },
-  {
-    "id": "729ee0028e4e790c",
-    "title": "Students from Gaza win visa battle to study in Ireland",
-    "summary": "Decision to deny visas to more than 60 students overturned after high court orders justice department to reconsider.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/23/students-from-gaza-win-visa-battle-to-study-in-ireland",
-    "publishedAt": "2026-11-23T13:03:14.000Z"
-  },
-  {
-    "id": "58ba47aabdb3efc8",
-    "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-    "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno",
-    "publishedAt": "2026-11-23T13:02:05.000Z"
-  },
-  {
-    "id": "a44d3770aa7f06b4",
-    "title": "AI conquered chess. What happened next should give us hope",
-    "summary": "As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicate.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
-    "publishedAt": "2026-11-23T13:00:31.000Z"
-  },
-  {
-    "id": "9ef6302e722db8b7",
-    "title": "Nine people shot at central California concert with one in critical condition",
-    "summary": "Authorities say they believe the Saturday night shooting at a concert in Strathmore ‘may be gang-related’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/23/concert-shooting-california-strathmore",
-    "publishedAt": "2026-11-23T13:00:05.000Z"
-  },
-  {
-    "id": "f2df81fbedc27577",
-    "title": "Striking doctor says they are advocating for the health service",
-    "summary": "It follows a separate 24-hour strike on Friday in which resident doctors took industrial action as part of the same dispute.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr3eg5vzn875o",
-    "publishedAt": "2026-11-23T12:46:55.000Z"
-  },
-  {
-    "id": "a643e877c3bf15fd",
-    "title": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
-    "summary": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq7820xjm49po",
-    "publishedAt": "2026-11-23T12:43:40.000Z"
-  },
-  {
-    "id": "97e4769547f8d05e",
-    "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-    "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
-    "publishedAt": "2026-11-23T12:42:03.000Z"
-  },
-  {
-    "id": "6f1a59687aaa0501",
-    "title": "How the US, China and Russia are competing for Africa’s mineral wealth",
-    "summary": "The US, China and Russia are vying for Africa’s mineral wealth, raising questions about who stands to benefit.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/how-the-us-china-and-russia-are-competing-for-africas-mineral-wealth?traffic_source=rss",
-    "publishedAt": "2026-11-23T12:34:54.000Z"
-  },
-  {
-    "id": "6360118ef85dafc3",
-    "title": "Next data accessed in cyber breach",
-    "summary": "The fashion retailer says there is no evidence customers' personal data was compromised.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo",
-    "publishedAt": "2026-11-23T12:34:07.000Z"
-  },
-  {
-    "id": "ad1ca624e54d969b",
-    "title": "Flagship UK gigafactory plan in turmoil after it loses second builder in five months",
-    "summary": "Tata-owned Agratas plant to build EV batteries for sister company Jaguar Land Rover seen as crucial for long-term health of British car industry.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/23/flagship-uk-gigafactory-turmoil-loses-second-builder",
-    "publishedAt": "2026-11-23T12:26:51.000Z"
   }
 ]
