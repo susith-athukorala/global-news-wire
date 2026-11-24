@@ -1,5 +1,131 @@
 [
   {
+    "id": "6e662a54e2f93638",
+    "title": "Storms and flooding in US could disrupt Thanksgiving travel for tens of millions",
+    "summary": "Storm systems across the country are expected to produce periods of heavy rain and strong winds before the holiday.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/thanksgiving-travel-storms-weather",
+    "publishedAt": "2026-11-24T17:11:31.000Z"
+  },
+  {
+    "id": "e12a925cb2dd4ab6",
+    "title": "Trump expected to award Giuliani Presidential Medal of Freedom",
+    "summary": "Trump’s former lawyer was disbarred for his efforts to help the US president overturn 2020 election results.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/trump-giuliani-presidential-medal-of-freedom",
+    "publishedAt": "2026-11-24T17:09:34.000Z"
+  },
+  {
+    "id": "75a2a86afd27d1c4",
+    "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+    "summary": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
+    "publishedAt": "2026-11-24T17:04:20.000Z"
+  },
+  {
+    "id": "295ca193a63e37e2",
+    "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+    "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o",
+    "publishedAt": "2026-11-24T17:04:00.000Z"
+  },
+  {
+    "id": "3a32bad200767873",
+    "title": "You Can See Everything’s chaotic battle for the narrative about Elizabeth Holmes",
+    "summary": "In Nathan Fielder’s new documentary, the protagonists and film-makers battle over who is the hero and who is the villain. It’s a fascinating insight into modern celebrity promotion.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/nov/23/you-can-see-everythings-chaotic-battle-for-the-narrative-about-elizabeth-holmes",
+    "publishedAt": "2026-11-24T16:37:54.000Z"
+  },
+  {
+    "id": "826bdc20f8539776",
+    "title": "Southport attack families’ fury after 13 survivors miss out on school funding",
+    "summary": "Six schools attended by girls injured in mass stabbing miss out on £1m allocated for staff, counselling and specialist support.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/24/southport-attack-survivors-miss-out-on-school-funding",
+    "publishedAt": "2026-11-24T16:37:27.000Z"
+  },
+  {
+    "id": "cb955dee6e0c6d8a",
+    "title": "Who needs perfume? The incredible link between body odour and relationships that last",
+    "summary": "The longer you have been with your partner, the more likely you are to find their natural scent arousing, according to a study from Radboud University in the Netherlands.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/24/who-needs-perfume-the-incredible-link-between-body-odour-and-relationships-that-last",
+    "publishedAt": "2026-11-24T16:32:08.000Z"
+  },
+  {
+    "id": "1e00e661d5e0d2c5",
+    "title": "African rivals fret over Morocco’s growing football dominance",
+    "summary": "As Morocco enjoys success on and off the pitch, is it benefitting from preferential treatment, or setting an example?",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/24/african-rivals-fret-over-moroccos-growing-football-dominance?traffic_source=rss",
+    "publishedAt": "2026-11-24T16:31:48.000Z"
+  },
+  {
+    "id": "a80b129c68390b76",
+    "title": "‘The mistake has been corrected’: end of Jensen Huang’s brief walk in the wilderness",
+    "summary": "Tech sector’s campaign to reinstate Nvidia boss began soon after ousting over affair with alleged Chinese spy.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/mistake-corrected-jensen-huang-resinstated-nvidia-analysis",
+    "publishedAt": "2026-11-24T16:27:41.000Z"
+  },
+  {
+    "id": "2cdc90255f4dc21a",
+    "title": "DEA allowed 1.4m fentanyl pills to be ‘walked’ into US during sting operation, report alleges",
+    "summary": "Investigation finds DEA permitted the pills to be trafficked during a New Mexico sting operation.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/24/dea-fentanyl-new-mexico-sting",
+    "publishedAt": "2026-11-24T16:26:47.000Z"
+  },
+  {
+    "id": "2e7b4648ab5e481d",
+    "title": "Russia backs tax rises as 2027 budget sees military spending soar",
+    "summary": "Russia’s lower house of parliament has approved a 2027-2029 state budget and passed tax increases to fund the war in Ukraine.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/russia-backs-tax-rises-2027-budget-sees-military-138414749",
+    "publishedAt": "2026-11-24T16:22:05.000Z"
+  },
+  {
+    "id": "32d0007cf07cf495",
+    "title": "Car bomb in central Colombian city injures 23 as violence spreads to urban areas",
+    "summary": "A bomb exploded outside regional government offices in Villavicencio, Colombia, injuring 23 people.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/car-bomb-central-colombian-city-injures-23-violence-138412492",
+    "publishedAt": "2026-11-24T16:16:58.000Z"
+  },
+  {
+    "id": "8084f28b1bffc11d",
+    "title": "South Africa convicts Zimbabwean who tried to travel to Russia to fight against Ukraine",
+    "summary": "A Zimbabwean man has been convicted in South Africa of trying to travel to Russia to fight in its war against Ukraine.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/south-africa-convicts-zimbabwean-travel-russia-fight-ukraine-138414152",
+    "publishedAt": "2026-11-24T16:16:53.000Z"
+  },
+  {
+    "id": "ba2d4c1894136464",
+    "title": "Gisèle Pelicot condemns publisher for using nude images from her rape case in book promo",
+    "summary": "Gis&egrave;le Pelicot says she is shocked that a Paris publisher used nude images taken by her rapist ex-husband to promote a book about her case.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/gisle-pelicot-condemns-publisher-nude-images-rape-case-138414559",
+    "publishedAt": "2026-11-24T16:16:52.000Z"
+  },
+  {
     "id": "8d9ce56e9ffc34ae",
     "title": "Record 5,200 heat-linked deaths estimated in England this year",
     "summary": "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year.",
@@ -34,6 +160,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqdr151xj5ego",
     "publishedAt": "2026-11-24T16:02:20.000Z"
+  },
+  {
+    "id": "cf7c1eb3cd6e9d0c",
+    "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
+    "summary": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
+    "publishedAt": "2026-11-24T16:00:50.000Z"
   },
   {
     "id": "36ee0b35fe5c2025",
@@ -142,6 +277,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert",
     "publishedAt": "2026-11-24T14:51:18.000Z"
+  },
+  {
+    "id": "e808ef7447e7c869",
+    "title": "Pentagon sharply rebukes Canada over defense spending and the F-35 fighter jet review",
+    "summary": "The Pentagon has accused Canada of falling short as a credible partner in defending North America, delivering a sharp rebuke to its longtime ally over military spending and its reconsideration of American-made F-35 fighter jets.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pentagon-sharply-rebukes-canada-defense-spending-35-fighter-138393777",
+    "publishedAt": "2026-11-24T14:50:15.000Z"
   },
   {
     "id": "b599839448eec2e7",
@@ -1204,149 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/24/ebikes-screens-and-failing-manners-pose-challenge-for-dutch-cycling-culture",
     "publishedAt": "2026-11-24T05:00:07.000Z"
-  },
-  {
-    "id": "379006704c7d6f64",
-    "title": "Channel 4 hit as Unilever switches from TV to influencer marketing",
-    "summary": "Exclusive: Gogglebox broadcaster is bigger loser than its rivals after Dove owner’s strategy shift, analysis shows.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing",
-    "publishedAt": "2026-11-24T05:00:07.000Z"
-  },
-  {
-    "id": "fb28bab6d6fb9c7b",
-    "title": "Pennsylvania reports ninth measles death in ongoing state outbreak",
-    "summary": "CDC and state figures on measles deaths differ as Pennsylvania faces an escalating health crisis in 46 counties.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
-    "publishedAt": "2026-11-24T04:59:13.000Z"
-  },
-  {
-    "id": "377bb95d9bb07ae1",
-    "title": "WHO chief visits Cuba as healthcare system deteriorates",
-    "summary": "Analysts say fuel shortages blamed on US sanctions are worsening the crisis.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/who-chief-visits-cuba-as-healthcare-system-deteriorates?traffic_source=rss",
-    "publishedAt": "2026-11-24T04:35:37.000Z"
-  },
-  {
-    "id": "d03c9347c8a2e9ed",
-    "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
-    "summary": "The order was issued after aircraft entered the country’s air defence identification zone over the island of Ulleungdo.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
-    "publishedAt": "2026-11-24T04:14:43.000Z"
-  },
-  {
-    "id": "1ec1d555d8613c28",
-    "title": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
-    "summary": "Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws",
-    "publishedAt": "2026-11-24T04:03:16.000Z"
-  },
-  {
-    "id": "b13b75689b5b9343",
-    "title": "A spokesperson says ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from exile in India on Dec. 16",
-    "summary": "",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/spokesperson-ousted-bangladeshi-prime-minister-sheikh-hasina-plans-138398785",
-    "publishedAt": "2026-11-24T03:50:32.000Z"
-  },
-  {
-    "id": "9948283abb1f1584",
-    "title": "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
-    "summary": "Fausto Meza Flores faces drug trafficking and weapons charges after his capture in a violent Sinaloa operation.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss",
-    "publishedAt": "2026-11-24T03:20:55.000Z"
-  },
-  {
-    "id": "0d242859bfc8fb24",
-    "title": "Greece’s oldest modern-era museum reopens on the Acropolis after major restoration",
-    "summary": "Greece’s oldest modern-era museum has reopened on the Acropolis in Athens after a $6.8 million restoration.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/greeces-oldest-modern-era-museum-reopens-acropolis-after-138377839",
-    "publishedAt": "2026-11-24T03:14:12.000Z"
-  },
-  {
-    "id": "efba8ca8339e8325",
-    "title": "Taliban forest patrols crack down on illegal logging to protect against flooding in Afghanistan",
-    "summary": "A police unit in eastern Afghanistan is patrolling to protect the country's last remaining forests.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/taliban-forest-patrols-crack-illegal-logging-protect-flooding-138375793",
-    "publishedAt": "2026-11-24T03:09:21.000Z"
-  },
-  {
-    "id": "35b18dadfdd33690",
-    "title": "Indonesia’s Prabowo nominates 2 candidates to replace Raka as vice president",
-    "summary": "President Prabowo Subianto has nominated Agriculture Minister Andi Amran Sulaiman and former Foreign Minister Sugiono to replace Vice President Gibran Rakabuming Raka, who resigned on Nov. 12 over questions about his eligibility for office.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/indonesias-prabowo-nominates-2-candidates-replace-raka-vice-138372008",
-    "publishedAt": "2026-11-24T02:38:51.000Z"
-  },
-  {
-    "id": "7aebfbd15f7539fa",
-    "title": "China sentences official to death for spying for foreign country",
-    "summary": "Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
-    "publishedAt": "2026-11-24T02:37:36.000Z"
-  },
-  {
-    "id": "ab85d65627fc6674",
-    "title": "UN chief calls for world to agree on AI oversight within a year",
-    "summary": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
-    "publishedAt": "2026-11-24T02:27:19.000Z"
-  },
-  {
-    "id": "bc330a5f29595397",
-    "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-    "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
-    "publishedAt": "2026-11-24T02:15:59.000Z"
-  },
-  {
-    "id": "af8301566e5ddb52",
-    "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
-    "summary": "Singapore-based company entangled in scandal over alleged spy Alice Huang’s affair with Jensen Huang.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
-    "publishedAt": "2026-11-24T01:47:15.000Z"
-  },
-  {
-    "id": "9b0b258cccd78480",
-    "title": "Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap",
-    "summary": "Huang receives hero’s welcome at firm’s Silicon Valley headquarters as return cements role as key AI figure.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo",
-    "publishedAt": "2026-11-24T01:34:39.000Z"
-  },
-  {
-    "id": "fc1566bf887e1ab4",
-    "title": "Beau Lamarre-Condon chose ‘long walk’ to witness box rather than silence, his barrister tells court",
-    "summary": "Former police officer has pleaded not guilty to murders of Jesse Baird and Luke Davies in Baird’s Paddington home in February 2024.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
-    "publishedAt": "2026-11-24T01:25:20.000Z"
   }
 ]
