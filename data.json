@@ -1,5 +1,104 @@
 [
   {
+    "id": "bba4c0d44abe72e5",
+    "title": "Congress to grill Jensen Huang over ties with China and Trump’s intervention",
+    "summary": "Lawmakers from both parties are demanding answers about the Nvidia CEO’s reinstatement and the administration’s handling of national security risks.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress",
+    "publishedAt": "2026-11-24T10:00:14.000Z"
+  },
+  {
+    "id": "83b0b4e2c32cf329",
+    "title": "Tale of Thanksgiving grandma and accidental guest to receive Lifetime movie treatment",
+    "summary": "Wanda Dench texted stranger Jamal Hinton by mistake in 2016 – and pair have shared holiday together ever since.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/24/thanksgiving-grandmother-text-lifetime",
+    "publishedAt": "2026-11-24T10:00:13.000Z"
+  },
+  {
+    "id": "2256b381d147e89d",
+    "title": "Bleeding, birth defects: Congo residents sue over alleged mining pollution",
+    "summary": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
+    "publishedAt": "2026-11-24T10:00:00.000Z"
+  },
+  {
+    "id": "b0b220d96156a6b6",
+    "title": "Meet Colombia's fuzzy 'water guardians'",
+    "summary": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
+    "publishedAt": "2026-11-24T10:00:00.000Z"
+  },
+  {
+    "id": "56b318040a52f9c8",
+    "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
+    "summary": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
+    "publishedAt": "2026-11-24T10:00:00.000Z"
+  },
+  {
+    "id": "8478daece731c9d3",
+    "title": "Doctors struggle to save babies after parents refuse vitamin K",
+    "summary": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
+    "publishedAt": "2026-11-24T10:00:00.000Z"
+  },
+  {
+    "id": "3e3d8c66fac3dd63",
+    "title": "Why S Korea issued air raid alert after Russian jets flew near its airspace",
+    "summary": "South Korean authorities issue air raid warnings after several Russian jets were on verge of entering its airspace.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/why-s-korea-issued-air-raid-alert-after-russian-jets-flew-near-its-airspace?traffic_source=rss",
+    "publishedAt": "2026-11-24T09:53:55.000Z"
+  },
+  {
+    "id": "a7dfb64f150cc36b",
+    "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
+    "summary": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
+    "publishedAt": "2026-11-24T09:52:03.000Z"
+  },
+  {
+    "id": "9c08e39e71cb21a5",
+    "title": "Russian attack kills two people in Ukraine’s Zaporizhzhia",
+    "summary": "Attack on city in southeastern Ukraine destroyed a house and damaged a five-storey apartment building, officials said.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
+    "publishedAt": "2026-11-24T09:51:26.000Z"
+  },
+  {
+    "id": "f9dd9e07bbfbfb33",
+    "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+    "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o",
+    "publishedAt": "2026-11-24T09:33:00.000Z"
+  },
+  {
+    "id": "7d1eb19f9d4e517d",
+    "title": "Global land mine casualties hit a 5-year high, driven by Myanmar’s brutal civil war and Syria",
+    "summary": "Casualties from land mines and unexploded ordnance reached a five-year high in 2025, with Southeast Asia seeing a significant number of those killed or wounded.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/global-land-mine-casualties-hit-5-year-high-138403128",
+    "publishedAt": "2026-11-24T09:13:37.000Z"
+  },
+  {
     "id": "9deb969d2bb28ac5",
     "title": "'Urgent action' needed to protect lake",
     "summary": "Tourism and outdated septic tanks are said to be adding to the ecological decline of Buttermere.",
@@ -52,6 +151,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
     "publishedAt": "2026-11-24T08:28:00.000Z"
+  },
+  {
+    "id": "a8806135a47fa698",
+    "title": "Leader of India’s Cockroach movement says he was stopped from boarding flight to UK",
+    "summary": "Saurav Das was due to give talks at UK universities on protest movement but says ‘coward government’ prevented him flying.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/24/leader-india-coackroach-movement-says-stopped-from-boarding-flight-to-uk",
+    "publishedAt": "2026-11-24T08:24:26.000Z"
   },
   {
     "id": "d6d2affe39b7cd00",
@@ -187,6 +295,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/money/2026/nov/24/morrisons-trip-parking-charges-euro-car-parks-pcn-anpr",
     "publishedAt": "2026-11-24T07:00:09.000Z"
+  },
+  {
+    "id": "441590d444328316",
+    "title": "Business owner banned from employing migrants",
+    "summary": "An Adelaide restaurant operator has been banned from employing migrant workers until 2029.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-24/sa-business-owner-banned-from-employing-migrants/107422342",
+    "publishedAt": "2026-11-24T06:37:21.000Z"
   },
   {
     "id": "ff3625fb9b19337a",
@@ -1231,122 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
     "publishedAt": "2026-11-23T16:19:22.000Z"
-  },
-  {
-    "id": "275d08c0c9d43589",
-    "title": "Teenage boy stabbed 14-year-old girl 55 times in park in south Wales, jury told",
-    "summary": "Defendant and Lilly Jones had been messaging for months and arranged to meet on evening she was killed, court hears.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/23/lilly-jones-stabbing-park-south-wales-trial",
-    "publishedAt": "2026-11-23T16:19:06.000Z"
-  },
-  {
-    "id": "539bc3fb2c36b747",
-    "title": "NVIDIA reinstates Jensen Huang as CEO",
-    "summary": "Nvidia has reinstated Jensen Huang as CEO.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/23/nx-s1-6050911/nvidia-reinstates-jensen-huang-as-ceo",
-    "publishedAt": "2026-11-23T16:12:00.000Z"
-  },
-  {
-    "id": "6a16b32fcddcb446",
-    "title": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war",
-    "summary": "Exclusive: Figures from cache of 11m death certificates reveal suicides account for about a regiment of Russia’s war dead.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war",
-    "publishedAt": "2026-11-23T16:00:51.000Z"
-  },
-  {
-    "id": "5566b456d1b7c569",
-    "title": "Russia’s war dead: the hidden toll of the Ukraine conflict",
-    "summary": "Exclusive: Analysis gives most detailed picture yet of the nearly 500,000 Russian losses in Ukraine since 2022.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/23/russia-war-dead-hidden-toll-ukraine-conflict",
-    "publishedAt": "2026-11-23T16:00:50.000Z"
-  },
-  {
-    "id": "7d782712108c7ed2",
-    "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
-    "summary": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?",
-    "category": "Science",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
-    "publishedAt": "2026-11-23T16:00:49.000Z"
-  },
-  {
-    "id": "5f3c1e3047578b5e",
-    "title": "Seventh man pleads guilty in case of woman drugged by husband and raped in Stockport",
-    "summary": "Husband, who is not being named in order to protect identity of his victim, has pleaded guilty to more than 60 offences over more than 20 years.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/23/man-pleads-guilty-case-woman-drugged-husband-raped-stockport",
-    "publishedAt": "2026-11-23T15:58:41.000Z"
-  },
-  {
-    "id": "7ee65d1ae7eb3dea",
-    "title": "The rise and fall and rise again of Jensen Huang",
-    "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo",
-    "publishedAt": "2026-11-23T15:49:52.000Z"
-  },
-  {
-    "id": "2d882f0bc8f54668",
-    "title": "Village's concern over sewage discharge in dry river",
-    "summary": "Campaigners call for restrictions on sewage treatment plant discharging effluent during drought.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c60rkq78g05vo",
-    "publishedAt": "2026-11-23T15:48:07.000Z"
-  },
-  {
-    "id": "512453057e1c88c5",
-    "title": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
-    "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5% in early trading.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko",
-    "publishedAt": "2026-11-23T15:39:41.000Z"
-  },
-  {
-    "id": "941d9d7c875e4ee0",
-    "title": "How important are Nvidia and Jensen Huang to the US economy?",
-    "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo",
-    "publishedAt": "2026-11-23T15:15:48.000Z"
-  },
-  {
-    "id": "0e298c8adc313973",
-    "title": "Police investigating bomb threats against schools in Germany and Denmark",
-    "summary": "Bomb threats follow hoax emails sent to schools across Europe earlier in November.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/police-investigating-bomb-threats-against-schools-in-germany-and-denmark?traffic_source=rss",
-    "publishedAt": "2026-11-23T15:07:59.000Z"
-  },
-  {
-    "id": "30f657ecf295887e",
-    "title": "Cranberry jam: warming winters and extreme weather threaten an iconic holiday fruit",
-    "summary": "Scientists are racing to identify and breed new berry varieties that can thrive on an increasingly warmer planet.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/23/cranberry-growing-climate-crisis",
-    "publishedAt": "2026-11-23T15:00:49.000Z"
-  },
-  {
-    "id": "a730558efd432e65",
-    "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
-    "summary": "Uebert Angel, a British-Zimbabwean national, leads a charismatic church with branches in several countries.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo",
-    "publishedAt": "2026-11-23T14:55:14.000Z"
   }
 ]
