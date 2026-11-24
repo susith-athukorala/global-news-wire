@@ -1,5 +1,140 @@
 [
   {
+    "id": "1b64d8db79098f9b",
+    "title": "First Thing: Trump appears to make millions from Nvidia intervention over Huang",
+    "summary": "US president holds significant stock in AI company whose value soared after Jensen Huang was reinstated as CEO. Plus, why GTA shouldn’t, and won’t be adapted for streaming.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/first-thing-trump-appears-to-make-millions-from-nvidia-intervention-over-huang",
+    "publishedAt": "2026-11-24T12:14:52.000Z"
+  },
+  {
+    "id": "a64217797322f4ae",
+    "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+    "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+    "publishedAt": "2026-11-24T12:12:25.000Z"
+  },
+  {
+    "id": "41ad518298fa2de9",
+    "title": "Badger cull ruled out by Welsh government after speculation",
+    "summary": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo",
+    "publishedAt": "2026-11-24T12:01:32.000Z"
+  },
+  {
+    "id": "b8fed400bc9e8359",
+    "title": "California king tides threaten Thanksgiving travel as coastal flooding looms",
+    "summary": "Seasonal high tides and rising ocean levels can disrupt flights and flood roads, with the San Francisco Bay Area facing some of the greatest risks.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
+    "publishedAt": "2026-11-24T12:00:46.000Z"
+  },
+  {
+    "id": "ff5d3f981c6bf900",
+    "title": "History-making Democratic senator backs filibuster reform to make good on midterm pledges",
+    "summary": "Juliana Stratton eager to work with Republicans who ‘have a real spine’ to stand up to Trump and deliver for voters.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/democrats-senate-juliana-stratton",
+    "publishedAt": "2026-11-24T12:00:46.000Z"
+  },
+  {
+    "id": "520e7005bc640698",
+    "title": "‘It was a cover-up’: HarperCollins accused of using lawyers to shut down concerns about David Walliams",
+    "summary": "Women who spoke to internal investigation about inappropriate behaviour by Walliams still too scared to speak out.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/24/it-was-a-cover-up-harpercollins-accused-of-using-lawyers-to-shut-down-concerns-about-david-walliams",
+    "publishedAt": "2026-11-24T12:00:45.000Z"
+  },
+  {
+    "id": "54854de9beb8e75e",
+    "title": "Their loss changed Appalachian forests for ever. Now the American chestnut is back",
+    "summary": "The trees have been functionally extinct in the US for nearly a century. But new techniques are creating plants resistant to the parasitic blight that almost wiped them out.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/24/american-chestnut-tree-restored-science-persistence-aoe",
+    "publishedAt": "2026-11-24T12:00:44.000Z"
+  },
+  {
+    "id": "199393440e274bc9",
+    "title": "Car bomb tears through Colombian city wounding more than 20",
+    "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do",
+    "publishedAt": "2026-11-24T11:45:52.000Z"
+  },
+  {
+    "id": "6abac7fc26e28ea5",
+    "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
+    "summary": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/weather/articles/c5742nplemnno",
+    "publishedAt": "2026-11-24T11:40:46.000Z"
+  },
+  {
+    "id": "1a38dc4ef5717d7f",
+    "title": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
+    "summary": "Despite quadrupling its hasbara budget, Israel is losing American hearts and minds, and its PR may be making it worse.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/the-eighth-front-why-israels-influence-war-in-the-us-is-failing?traffic_source=rss",
+    "publishedAt": "2026-11-24T11:30:07.000Z"
+  },
+  {
+    "id": "390d4216fb74f172",
+    "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
+    "summary": "Ukraine is stepping up 'long-range sanctions' attacks on Russian vessels far beyond the battlefield.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss",
+    "publishedAt": "2026-11-24T11:27:35.000Z"
+  },
+  {
+    "id": "681b84d50669ac4b",
+    "title": "Man admits murdering Soham killer Ian Huntley at high-security jail",
+    "summary": "Anthony Russell attacked Huntley with a metal bar while they were in a recycling workshop at HMP Frankland.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/24/man-admits-murdering-soham-killer-ian-huntley-jail",
+    "publishedAt": "2026-11-24T11:24:31.000Z"
+  },
+  {
+    "id": "d1bd34df38647130",
+    "title": "Iraq orders takeover of oilfields in areas under Kurdish control",
+    "summary": "PM Ali al-Zaidi also orders his government to seize all crossings in the Kurdish region after an oil smuggling inquiry.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss",
+    "publishedAt": "2026-11-24T11:19:04.000Z"
+  },
+  {
+    "id": "e6abb8c6f12ef0de",
+    "title": "Vietnam restaurant blast kills at least six",
+    "summary": "At least 10 wounded after blast at restaurant in the Dong Da district in Hanoi as rescue operations under way.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six?traffic_source=rss",
+    "publishedAt": "2026-11-24T11:17:20.000Z"
+  },
+  {
+    "id": "034750cc4ab741bd",
+    "title": "Malaysia to repatriate another 6,803 Myanmar nationals despite ICJ genocide ruling",
+    "summary": "Malaysia's Prime Minister Anwar Ibrahim says the country plans to repatriate another 6,803 Myanmar nationals next month.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/malaysia-repatriate-6803-myanmar-nationals-despite-icj-genocide-138404157",
+    "publishedAt": "2026-11-24T11:15:19.000Z"
+  },
+  {
     "id": "37a651f121ef860c",
     "title": "Does Scotland's NHS have a revolving door problem with senior managers?",
     "summary": "The situation has been compared to \"shuffling of deckchairs on the sinking Titanic\" by the lawyer for an NHS whistleblower.",
@@ -9,6 +144,15 @@
     "publishedAt": "2026-11-24T11:14:25.000Z"
   },
   {
+    "id": "411067d06703d6af",
+    "title": "Pope Francis' diary reveals claims he saw the devil three times",
+    "summary": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no",
+    "publishedAt": "2026-11-24T11:10:57.000Z"
+  },
+  {
     "id": "d7190b810a689c43",
     "title": "Weak and immature management putting patients at risk at failing health board, review finds",
     "summary": "A review finds targets and money being prioritised over patient care at Betsi Cadwaladr health board.",
@@ -16,6 +160,24 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo",
     "publishedAt": "2026-11-24T11:05:17.000Z"
+  },
+  {
+    "id": "20f63212e50a047a",
+    "title": "Barnet footballer Isiah Noel-Williams charged with three counts of rape",
+    "summary": "A League Two footballer has been charged with three counts of rape and remanded in custody by Hertfordshire police.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/24/isiah-noel-williams-barnet-footballer-charged-with-rape",
+    "publishedAt": "2026-11-24T11:03:14.000Z"
+  },
+  {
+    "id": "684c649ba380052b",
+    "title": "US school bus drivers decline amid low pay and poor work conditions",
+    "summary": "Total number of drivers dropped 5% over the last year and fell 15% compared with 2019 levels, new report finds.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
+    "publishedAt": "2026-11-24T11:00:45.000Z"
   },
   {
     "id": "d1c6006da6c60361",
@@ -43,6 +205,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
     "publishedAt": "2026-11-24T10:59:40.000Z"
+  },
+  {
+    "id": "2aa9fd24f84b5e13",
+    "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+    "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
+    "publishedAt": "2026-11-24T10:53:37.000Z"
   },
   {
     "id": "8cc866ad40002013",
@@ -1107,6 +1278,15 @@
     "publishedAt": "2026-11-23T19:34:29.000Z"
   },
   {
+    "id": "00ee9db08ed19d5a",
+    "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
+    "summary": "Prime minister also says former Tory premiers who have criticised revival of Brexit debate are ‘stuck in the past’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
+    "publishedAt": "2026-11-23T19:26:01.000Z"
+  },
+  {
     "id": "f57582a725cbf577",
     "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
     "summary": "Moscow accuses Tallinn of 'hostile actions' citing border closure and claiming it is allowing Ukraine to launch attacks.",
@@ -1168,185 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/film/2026/nov/23/spielberg-western-paul-thomas-anderson-heart-in-winter",
     "publishedAt": "2026-11-23T18:10:31.000Z"
-  },
-  {
-    "id": "9b7b304f4756020a",
-    "title": "Only six beds for trans victims of domestic abuse in UK, report finds",
-    "summary": "Exclusive: Services say the supreme court ruling on single-sex spaces has made it ‘almost impossible’ to find refuges for trans people.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/23/only-six-beds-for-trans-victims-of-domestic-abuse-in-uk-report-finds",
-    "publishedAt": "2026-11-23T18:07:04.000Z"
-  },
-  {
-    "id": "7dd76bee80dace19",
-    "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-    "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o",
-    "publishedAt": "2026-11-23T18:04:20.000Z"
-  },
-  {
-    "id": "b18c74686dbe06b3",
-    "title": "Danish top court’s ‘ghetto law’ ruling supports hardline immigration policy",
-    "summary": "The country's top court said eviction of 'non-Western' families did not constitute discrimination.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss",
-    "publishedAt": "2026-11-23T18:00:23.000Z"
-  },
-  {
-    "id": "e144ec2108e97dad",
-    "title": "China's tourists are coming back to Australia next year",
-    "summary": "While the world was watching the trilateral summit, Anthony Albanese was busy behind the scenes, locking in 2027 as the China-Australia Year of Tourism. It's hoped to bring billions into the economy.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-24/year-of-tourism-australia-china/107417630",
-    "publishedAt": "2026-11-23T18:00:00.000Z"
-  },
-  {
-    "id": "1e3834cb7a60b497",
-    "title": "Pip assessments need 'fundamental overhaul', report to say",
-    "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo",
-    "publishedAt": "2026-11-23T17:59:55.000Z"
-  },
-  {
-    "id": "68325e9c18ef882c",
-    "title": "Drone attack on Colombian police base injures civilians and damages homes",
-    "summary": "Explosive-laden drones have struck a police base in C&uacute;cuta, Colombia, injuring two civilians and damaging 60 homes.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/drone-attack-colombian-police-base-injures-civilians-damages-138381975",
-    "publishedAt": "2026-11-23T17:47:53.000Z"
-  },
-  {
-    "id": "e3f7755fc86c806c",
-    "title": "EU proposes sweeping new Russia sanctions targeting banks, crypto and sports events",
-    "summary": "The European Commission has proposed new sanctions against Russia, targeting banks, crypto platforms, and sporting teams competing under the Russian flag.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/eu-proposes-sweeping-new-russia-sanctions-targeting-banks-138382150",
-    "publishedAt": "2026-11-23T17:47:03.000Z"
-  },
-  {
-    "id": "52c0662f82f87b02",
-    "title": "Nvidia’s humiliated board should resign out of embarrassment | Nils Pratley",
-    "summary": "Jensen Huang’s return as CEO comes despite fact board hasn’t completed investigation into reports of affair with alleged Chinese spy.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/23/nvidia-board-jensen-huang-return",
-    "publishedAt": "2026-11-23T17:37:10.000Z"
-  },
-  {
-    "id": "205809fc507f53ba",
-    "title": "Tajikistan moves to leave ICC amid US push against court",
-    "summary": "The ICC found that Tajikistan failed to comply with its request to arrest Russian President Vladimir Putin.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss",
-    "publishedAt": "2026-11-23T17:36:17.000Z"
-  },
-  {
-    "id": "9a40d573fbf7ebd9",
-    "title": "Abolishing Natural England would be travesty, say campaigners",
-    "summary": "Environmentalists say abolishing independent body will make it easier for landowners and developers ‘to trash nature’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/23/abolishing-natural-england-would-be-travesty-say-campaigners",
-    "publishedAt": "2026-11-23T17:27:51.000Z"
-  },
-  {
-    "id": "ea3dbf01cc50acc5",
-    "title": "What failure of COP31 reveals about a divided world",
-    "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo",
-    "publishedAt": "2026-11-23T17:24:25.000Z"
-  },
-  {
-    "id": "34bce4e3bcb7caaa",
-    "title": "Mamdani says New York will cap ebike fares to ‘significantly’ cut cost of rides",
-    "summary": "City reaches deal with Lyft, parent company of Citi Bike, in effort to ‘make biking affordable for every New Yorker’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/23/nyc-ebike-cost-capped-mamdani",
-    "publishedAt": "2026-11-23T17:22:05.000Z"
-  },
-  {
-    "id": "2d44b1976e564c94",
-    "title": "Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe",
-    "summary": "Advocates from across the world voice concern over privacy issues and inappropriate communication to children.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/23/child-safety-groups-urge-amazon-ebay-stop-selling-ai-toys-until-proved-safe",
-    "publishedAt": "2026-11-23T17:18:06.000Z"
-  },
-  {
-    "id": "356c846027652ad0",
-    "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
-    "summary": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o",
-    "publishedAt": "2026-11-23T17:14:50.000Z"
-  },
-  {
-    "id": "a25d3e2dc07765f1",
-    "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
-    "summary": "",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo",
-    "publishedAt": "2026-11-23T17:11:58.000Z"
-  },
-  {
-    "id": "9d50e4f5338758f0",
-    "title": "Democrats to hold a dozen 2028 presidential primary debates starting in June",
-    "summary": "DNC unveils plans to hold 12 primary debates over 10 months, allowing up to 20 candidates to participate.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/23/dnc-democrats-presidential-primary-debates",
-    "publishedAt": "2026-11-23T17:07:55.000Z"
-  },
-  {
-    "id": "1e07638aee77020f",
-    "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-    "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o",
-    "publishedAt": "2026-11-23T17:07:25.000Z"
-  },
-  {
-    "id": "0d242859bfc8fb24",
-    "title": "Greece’s oldest modern-era museum reopens on the Acropolis after major restoration",
-    "summary": "Greece’s oldest modern-era museum has reopened on the Acropolis in Athens after a seven-year, 6.2 million-euro ($6.8 million) restoration.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/greeces-oldest-modern-era-museum-reopens-acropolis-after-138377839",
-    "publishedAt": "2026-11-23T17:02:53.000Z"
-  },
-  {
-    "id": "a024af7babbaa994",
-    "title": "Hungary’s Magyar says he will visit Ukraine in a sign of mending relations",
-    "summary": "Hungarian Prime Minister P&eacute;ter Magyar plans to visit Ukraine soon, signaling improved relations between the two countries.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/hungarys-magyar-visit-ukraine-sign-mending-relations-138377958",
-    "publishedAt": "2026-11-23T17:02:18.000Z"
-  },
-  {
-    "id": "7cb5a964ccec2301",
-    "title": "Bukele reveals circumstances in which 3 Salvadoran soldiers died fighting gangs in Haiti",
-    "summary": "El Salvador’s president has identified the soldiers from the Central American country who recently died in Haiti as they fight violent gangs.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/bukele-reveals-circumstances-3-salvadoran-soldiers-died-fighting-138378203",
-    "publishedAt": "2026-11-23T17:02:13.000Z"
   }
 ]
