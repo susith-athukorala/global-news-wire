@@ -1,5 +1,95 @@
 [
   {
+    "id": "d3b6773067faaec4",
+    "title": "Georgia Tech couple clears up viral televised argument during football game",
+    "summary": "Tallulah Wall and Braden Flournoy says their discussion that riveted viewers ‘was completely insignificant’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/georgia-tech-football-couple-arguing-espn",
+    "publishedAt": "2026-11-24T19:11:46.000Z"
+  },
+  {
+    "id": "6f6874e5642cd01b",
+    "title": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
+    "summary": "WHO chief says life expectancy has fallen from 78.8 years in 2020 to 74.4 in 2025, figures that predate US fuel blockade.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline",
+    "publishedAt": "2026-11-24T19:07:26.000Z"
+  },
+  {
+    "id": "25b3b5999c9d9dcc",
+    "title": "Chicken Shop Date host says she ended YouTube show … to find a real date",
+    "summary": "Amelia Dimoldenberg described two panic attacks and said she wanted to end the hit series ‘before I start resenting it’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/nov/24/chicken-shop-date-youtube-amelia-dimoldenberg",
+    "publishedAt": "2026-11-24T19:02:15.000Z"
+  },
+  {
+    "id": "e2b64f48c0d6169a",
+    "title": "Burnham under fire over influencers’ No 10 reception after TikTok video row",
+    "summary": "Tories accuse PM of ‘degrading’ Downing Street as Max Balegde takes down clip of himself miming explicit lyrics.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/24/andy-burnham-influencers-no-10-reception-max-balegde-tiktok-explicit-lyrics",
+    "publishedAt": "2026-11-24T18:47:48.000Z"
+  },
+  {
+    "id": "86c16ebeda96e9df",
+    "title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+    "summary": "Landmine monitor found 84 percent of deaths caused by landmines were in Southeast Asia.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
+    "publishedAt": "2026-11-24T18:47:05.000Z"
+  },
+  {
+    "id": "0901ee1d38b34bd0",
+    "title": "Ex-boss of Pride in London given suspended sentence for ‘harvesting’ documents",
+    "summary": "Christopher Joell-Deshields accessed internal records after organisation sacked him in ‘flagrant flouting’ of court order.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/24/ex-boss-christopher-joell-deshields-pride-in-london-suspended-sentence",
+    "publishedAt": "2026-11-24T18:39:52.000Z"
+  },
+  {
+    "id": "d744c4655e9a16f3",
+    "title": "Canada's defense minister says his country answers to no one in Washington",
+    "summary": "Canada’s defense minister says that his country answers to no one in Washington, asserting Canadian sovereignty after the Pentagon accused Ottawa of failing to meet its military commitments.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/canadas-defense-minister-country-answers-washington-after-pentagon-138417114",
+    "publishedAt": "2026-11-24T18:28:56.000Z"
+  },
+  {
+    "id": "e93ae2e9b169bd71",
+    "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+    "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o",
+    "publishedAt": "2026-11-24T18:21:43.000Z"
+  },
+  {
+    "id": "63d9648d7c5b308f",
+    "title": "Houthi rebels close in on Aden as Yemeni forces dig in behind a fortified line",
+    "summary": "Iran-backed Houthi rebels have advanced close to Yemen's government seat in Aden.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/houthi-rebels-close-aden-yemeni-forces-dig-fortified-138404636",
+    "publishedAt": "2026-11-24T18:15:23.000Z"
+  },
+  {
+    "id": "0ec8be562169494d",
+    "title": "Armed men take hostages in Cartagena, one of Colombia's top tourist destinations",
+    "summary": "Colombian police say that a group of armed men have seized a super market in the city of Cartagena and taken an unknown number of people hostage.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/armed-men-hostages-cartagena-colombias-top-tourist-destinations-138416557",
+    "publishedAt": "2026-11-24T18:08:41.000Z"
+  },
+  {
     "id": "96bc43410782dee4",
     "title": "Armed men take hostages at supermarket in one of Colombia’s top tourist destinations",
     "summary": "Police say group seized store in city of Cartagena and local media showed footage of snipers on nearby buildings.",
@@ -9,6 +99,15 @@
     "publishedAt": "2026-11-24T18:08:04.000Z"
   },
   {
+    "id": "cc716434d1ad9859",
+    "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+    "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo",
+    "publishedAt": "2026-11-24T18:07:46.000Z"
+  },
+  {
     "id": "822010554ec367e8",
     "title": "Israel attempts to jail Palestinian student at Hebrew University without trial",
     "summary": "Mahdi Tounsi appeared to have suffered maltreatment at hearing where he was not allowed to hear prosecution case against him.",
@@ -16,6 +115,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/24/israel-jail-palestinian-student-mahdi-tounsi-hebrew-university-without-trial",
     "publishedAt": "2026-11-24T18:02:53.000Z"
+  },
+  {
+    "id": "e298585cdf4bbaf9",
+    "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+    "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+    "publishedAt": "2026-11-24T18:00:24.000Z"
   },
   {
     "id": "5475ad27c2a9ba6b",
@@ -385,6 +493,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/24/china-media-jensen-huang-nvidia-ceo",
     "publishedAt": "2026-11-24T14:45:03.000Z"
+  },
+  {
+    "id": "24384649709a5f8a",
+    "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+    "summary": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reported.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+    "publishedAt": "2026-11-24T14:36:32.000Z"
   },
   {
     "id": "f1bdd6576331de19",
@@ -990,6 +1107,15 @@
     "publishedAt": "2026-11-24T10:42:14.000Z"
   },
   {
+    "id": "5063ade9eb198cbf",
+    "title": "It's a race to find Cyprus' disappeared, hindered by a construction boom and fading memories",
+    "summary": "A group of dedicated Greek Cypriot and Turkish Cypriot experts have for two decades worked hard to unearth and identify the remains of ethnically split Cyprus' missing persons.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/race-find-cyprus-disappeared-hindered-construction-boom-fading-138400956",
+    "publishedAt": "2026-11-24T10:26:20.000Z"
+  },
+  {
     "id": "cb9e163709e56bba",
     "title": "Under-16s social media ban could disrupt sites that pose no risk, says UK tech industry",
     "summary": "Trade body techUK says regulations are causing frustration with chaotic process of ‘chasing children around the internet’",
@@ -1197,6 +1323,15 @@
     "publishedAt": "2026-11-24T08:21:41.000Z"
   },
   {
+    "id": "2a92fcf471842cf7",
+    "title": "Fears of Russian attack drive Poland and Baltic states back to landmines",
+    "summary": "A report has found the number of people being killed by landmines has increased. Production has expanded for the first time in decades, with multiple EU nations withdrawing from a treaty designed to contain the threat.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-24/europe-restarts-production-of-landmines-amid-russia-threat/107418962",
+    "publishedAt": "2026-11-24T08:04:26.000Z"
+  },
+  {
     "id": "e9128ac72409362f",
     "title": "Proposed Beatles attraction on Savile Row faces rooftop gigs ban",
     "summary": "Westminster council to vote on restrictions at planned tourist venue and site of band’s final public concert.",
@@ -1213,140 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
     "publishedAt": "2026-11-24T08:00:11.000Z"
-  },
-  {
-    "id": "b9b8d84b5905e8a8",
-    "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
-    "summary": "The Pakistan Air Force pilot will spend about a week on board the Tiangong, conducting experiments with China’s crew.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
-    "publishedAt": "2026-11-24T07:55:18.000Z"
-  },
-  {
-    "id": "f3d06eaf3dc32c4d",
-    "title": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
-    "summary": "WFP Executive Director Luke Lindberg decries ‘political problem’ as grain is 'not reaching the people who need it'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
-    "publishedAt": "2026-11-24T07:52:44.000Z"
-  },
-  {
-    "id": "e7530cf187b6c43b",
-    "title": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
-    "summary": "Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burned.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
-    "publishedAt": "2026-11-24T07:42:57.000Z"
-  },
-  {
-    "id": "80b91b29fb8c313c",
-    "title": "Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
-    "summary": "Government forces made early gains in September, but Houthi fighting on multiple fronts has slowed the offensive.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/why-has-yemens-offensive-against-the-houthis-in-al-bayda-stalled?traffic_source=rss",
-    "publishedAt": "2026-11-24T07:36:07.000Z"
-  },
-  {
-    "id": "2a207faf690f81e6",
-    "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16",
-    "summary": "Hasina urges Dhaka to arrange her return on the national airline, as government says she can only be extradited.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss",
-    "publishedAt": "2026-11-24T07:35:02.000Z"
-  },
-  {
-    "id": "9323339cb00d29d3",
-    "title": "After 80 years in Oxford, Naga ancestors are finally going home",
-    "summary": "A campaign securing the landmark return to India of ancestral remains taken during British colonial rule has opened a wider conversation about restitution.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/23/this-is-india-pitt-rivers-museum-oxford-human-remains-repatriation",
-    "publishedAt": "2026-11-24T07:30:10.000Z"
-  },
-  {
-    "id": "d75d8440881e8ee9",
-    "title": "What China's Xi could take away from Jensen Huang's return to Nvidia",
-    "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o",
-    "publishedAt": "2026-11-24T07:26:27.000Z"
-  },
-  {
-    "id": "e0dfb34915001ed0",
-    "title": "Australia warns tech giants of multibillion-dollar fines for online ‘harm’",
-    "summary": "New internet safety bill expected to pass this week could impose fines of up to 5 percent of firms' global revenue.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
-    "publishedAt": "2026-11-24T07:02:52.000Z"
-  },
-  {
-    "id": "42fa90756b089da2",
-    "title": "Children of the revolution: how the north of England is defining modern men’s fashion",
-    "summary": "Once the historic centre of the textile industry, the north is now home to a host of a provenance-driven labels. But is there a specific northern menswear look?",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/fashion/2026/nov/24/children-of-the-revolution-how-the-north-of-england-is-defining-modern-mens-fashion",
-    "publishedAt": "2026-11-24T07:00:10.000Z"
-  },
-  {
-    "id": "f41feeddd1fe5ae4",
-    "title": "UK disability benefit cuts risk worsening youth destitution, research warns",
-    "summary": "Joseph Rowntree Foundation report says millions could be left unable to regularly afford everyday basics.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/24/cuts-uk-disability-benefit-risk-worsening-youth-destitution-research-warns",
-    "publishedAt": "2026-11-24T07:00:10.000Z"
-  },
-  {
-    "id": "4204207efbec098f",
-    "title": "Morrisons trip cost me £100 in parking charges",
-    "summary": "Euro Car Parks insists my vehicle was there for more than 13 hours because its ANPR cameras missed my exit.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/24/morrisons-trip-parking-charges-euro-car-parks-pcn-anpr",
-    "publishedAt": "2026-11-24T07:00:09.000Z"
-  },
-  {
-    "id": "441590d444328316",
-    "title": "Business owner banned from employing migrants",
-    "summary": "An Adelaide restaurant operator has been banned from employing migrant workers until 2029.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-24/sa-business-owner-banned-from-employing-migrants/107422342",
-    "publishedAt": "2026-11-24T06:37:21.000Z"
-  },
-  {
-    "id": "ff3625fb9b19337a",
-    "title": "Delia Smith joins opponents of £1.2bn data centre",
-    "summary": "The TV cook and author is worried about the proposed Keswick facility's environmental impact.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c678200xklgzo",
-    "publishedAt": "2026-11-24T06:36:26.000Z"
-  },
-  {
-    "id": "069bc99dc3aa13e3",
-    "title": "Pope Francis' diary details profound spiritual crisis and encounters with the devil",
-    "summary": "The Vatican is releasing excerpts of Pope Francis' private diary.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-francis-private-diary-details-profound-spiritual-crisis-138401988",
-    "publishedAt": "2026-11-24T06:26:22.000Z"
-  },
-  {
-    "id": "751937f73fbd1d1a",
-    "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
-    "summary": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo",
-    "publishedAt": "2026-11-24T06:23:01.000Z"
   }
 ]
