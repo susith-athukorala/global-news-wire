@@ -936,6 +936,15 @@
     "publishedAt": "2026-11-23T13:54:28.000Z"
   },
   {
+    "id": "4f76f259dc591f95",
+    "title": "Police evacuate 12,000 from rapper Don Toliver concert after substance release",
+    "summary": "British police have evacuated over 12,000 fans from a Don Toliver concert after an unknown substance was released in the crowd.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/audience-evacuated-don-toliver-concert-after-unknown-substance-138369818",
+    "publishedAt": "2026-11-23T13:54:17.000Z"
+  },
+  {
     "id": "489d32c407e49a2e",
     "title": "Welfare cuts: What's been happening with Pip and universal credit?",
     "summary": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
@@ -1314,6 +1323,15 @@
     "publishedAt": "2026-11-23T10:22:34.000Z"
   },
   {
+    "id": "cb54e6dd0647d56e",
+    "title": "Ukraine strikes two Russian vessels off Libyan coast",
+    "summary": "The Ukrainian president claims responsibility for a series of drone strikes which sunk one Russian vessel and severely damaged another.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-23/zelensky-says-ukraine-struck-russian-ship-near-libya/107418718",
+    "publishedAt": "2026-11-23T10:21:12.000Z"
+  },
+  {
     "id": "464e67cf4a1869c6",
     "title": "Occupied West Bank ‘military zones’ become de facto Israeli settler land",
     "summary": "Closed military zones in the occupied West Bank are being seized by settlers as staging posts for pogroms.",
@@ -1330,23 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o",
     "publishedAt": "2026-11-23T10:19:46.000Z"
-  },
-  {
-    "id": "a133c870a360647d",
-    "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
-    "summary": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
-    "publishedAt": "2026-11-23T10:16:33.000Z"
-  },
-  {
-    "id": "05aab9fe7b4acaa6",
-    "title": "Poundland is facing collapse - what's gone wrong?",
-    "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
-    "publishedAt": "2026-11-23T10:09:25.000Z"
   }
 ]
