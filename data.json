@@ -1,5 +1,86 @@
 [
   {
+    "id": "811af2b79d22167f",
+    "title": "Will I get the £100 energy payment and when will I receive it?",
+    "summary": "Here is what you need to know about the payment that millions will receive from January.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o",
+    "publishedAt": "2026-11-24T20:16:24.000Z"
+  },
+  {
+    "id": "9c887b791c3744d6",
+    "title": "Turkish military helicopter crash kills five in western Turkiye",
+    "summary": "The Defence Ministry did not elaborate on the cause of the crash, days after another deadly army helicopter accident.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
+    "publishedAt": "2026-11-24T19:52:21.000Z"
+  },
+  {
+    "id": "2cb7a4b8fd45d7d3",
+    "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
+    "summary": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
+    "publishedAt": "2026-11-24T19:41:16.000Z"
+  },
+  {
+    "id": "0a0f3bf5b617476f",
+    "title": "NHS trusts to be investigated over ‘repeated failures’ to admit treatment errors",
+    "summary": "Failing in their legal duty of candour adds to the distress of patients and families and damages trust, says England’s public service ombudsman.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/24/nhs-trusts-to-be-investigated-over-repeated-failures-to-admit-treatment-errors",
+    "publishedAt": "2026-11-24T19:35:30.000Z"
+  },
+  {
+    "id": "ca95e967b79f7970",
+    "title": "US army maps show projected path of toxic dust from Iowa detonation",
+    "summary": "Detonation of bomb-making chemicals set for Wednesday as residents warned to stay indoors with windows closed.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation",
+    "publishedAt": "2026-11-24T19:35:02.000Z"
+  },
+  {
+    "id": "343e99f387876202",
+    "title": "Alia Syed wins £10,000 Jarman award for ‘depth and maturity’ of her experimental films",
+    "summary": "The Welsh-Indian artist takes this year’s award, an established bellwether for future stars, for work focused on memory, migration and hidden histories.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/artanddesign/2026/nov/24/alia-syed-wins-10000-jarman-award-for-depth-and-maturity-of-her-experimental-films",
+    "publishedAt": "2026-11-24T19:30:54.000Z"
+  },
+  {
+    "id": "61a985d0c2e87d76",
+    "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
+    "summary": "Ukrainian attacks subsided after Trump's mid-October declaration of an energy ceasefire, but picked up again afterwards.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
+    "publishedAt": "2026-11-24T19:22:44.000Z"
+  },
+  {
+    "id": "dbb94134964567f4",
+    "title": "China Southern Airlines unit to buy 50 Boeing 737-8 planes",
+    "summary": "The agreement marks the US planemaker's first major order from China in almost a decade.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/24/china-southern-airlines-unit-to-buy-50-boeing-737-8-planes?traffic_source=rss",
+    "publishedAt": "2026-11-24T19:19:50.000Z"
+  },
+  {
+    "id": "4e594291598c919a",
+    "title": "US House counsel denies backing controversial raid on Ilhan Omar’s home",
+    "summary": "Legal counsel challenges DOJ's assertion of House's involvement in controversial raid on Ilhan Omar's home.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/us-house-counsel-denies-backing-controversial-raid-on-ilhan-omars-home?traffic_source=rss",
+    "publishedAt": "2026-11-24T19:15:25.000Z"
+  },
+  {
     "id": "d3b6773067faaec4",
     "title": "Georgia Tech couple clears up viral televised argument during football game",
     "summary": "Tallulah Wall and Braden Flournoy says their discussion that riveted viewers ‘was completely insignificant’",
@@ -9,6 +90,15 @@
     "publishedAt": "2026-11-24T19:11:46.000Z"
   },
   {
+    "id": "f45034e9d36f21f4",
+    "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+    "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o",
+    "publishedAt": "2026-11-24T19:10:31.000Z"
+  },
+  {
     "id": "6f6874e5642cd01b",
     "title": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
     "summary": "WHO chief says life expectancy has fallen from 78.8 years in 2020 to 74.4 in 2025, figures that predate US fuel blockade.",
@@ -16,6 +106,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline",
     "publishedAt": "2026-11-24T19:07:26.000Z"
+  },
+  {
+    "id": "73a1466aac5eed93",
+    "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
+    "summary": "Israeli police have confiscated mosque loudspeakers as far-right lawmakers push legislation to restrict call to prayer.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
+    "publishedAt": "2026-11-24T19:02:49.000Z"
   },
   {
     "id": "25b3b5999c9d9dcc",
@@ -457,6 +556,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/24/how-brazils-mosquitoes-are-helping-to-fight?traffic_source=rss",
     "publishedAt": "2026-11-24T15:09:00.000Z"
+  },
+  {
+    "id": "069bc99dc3aa13e3",
+    "title": "Pope Francis' diary details profound spiritual crisis and encounters with the devil",
+    "summary": "The Vatican has released excerpts of Pope Francis' private diary.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-francis-private-diary-details-profound-spiritual-crisis-138401988",
+    "publishedAt": "2026-11-24T15:05:22.000Z"
   },
   {
     "id": "9ef1498e789dea33",
@@ -999,6 +1107,15 @@
     "publishedAt": "2026-11-24T11:05:17.000Z"
   },
   {
+    "id": "ff3625fb9b19337a",
+    "title": "Delia Smith joins opponents of £1.2bn data centre",
+    "summary": "The TV cook and author is worried about the environmental impact of the proposed Keswick facility.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c678200xklgzo",
+    "publishedAt": "2026-11-24T11:04:36.000Z"
+  },
+  {
     "id": "20f63212e50a047a",
     "title": "Barnet footballer Isiah Noel-Williams charged with three counts of rape",
     "summary": "A League Two footballer has been charged with three counts of rape and remanded in custody by Hertfordshire police.",
@@ -1231,122 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/global-land-mine-casualties-hit-5-year-high-138403128",
     "publishedAt": "2026-11-24T09:13:37.000Z"
-  },
-  {
-    "id": "9deb969d2bb28ac5",
-    "title": "'Urgent action' needed to protect lake",
-    "summary": "Tourism and outdated septic tanks are said to be adding to the ecological decline of Buttermere.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr78271e5j91o",
-    "publishedAt": "2026-11-24T09:10:43.000Z"
-  },
-  {
-    "id": "97f3f6d624905d9f",
-    "title": "Most victims of factory fire died trying to reach emergency exit, rescuers say",
-    "summary": "Indonesian authorities have confirmed 26 workers were killed in a fire three days ago at a candy factory where rescuers said most victims died on the second floor trying to reach the emergency exit.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/victims-indonesia-factory-fire-died-reach-emergency-exit-138402804",
-    "publishedAt": "2026-11-24T09:06:21.000Z"
-  },
-  {
-    "id": "197eb37be8e92288",
-    "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to war",
-    "summary": "North Korea has threatened to close a Swiss diplomatic office that opened in Pyongyang last month.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/north-korea-reviews-switzerland-relations-after-sanctions-youth-138402640",
-    "publishedAt": "2026-11-24T09:06:20.000Z"
-  },
-  {
-    "id": "312f5150b86d32c5",
-    "title": "Hanoi eatery blast kills 3 and injures more than a dozen",
-    "summary": "An explosion suspected to be from a gas leak at a hotpot eatery in Hanoi has killed three people and injured more than a dozen others.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/hanoi-eatery-blast-kills-3-injures-dozen-138402807",
-    "publishedAt": "2026-11-24T09:06:17.000Z"
-  },
-  {
-    "id": "1ec1d555d8613c28",
-    "title": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
-    "summary": "Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws",
-    "publishedAt": "2026-11-24T08:47:59.000Z"
-  },
-  {
-    "id": "b335207f99b64e53",
-    "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
-    "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o",
-    "publishedAt": "2026-11-24T08:35:41.000Z"
-  },
-  {
-    "id": "ae2e8e2caf29fdfa",
-    "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
-    "summary": "Asia-Pacific stock markets rise after US president says he ‘convinced’ chipmaker’s board to reinstate CEO.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
-    "publishedAt": "2026-11-24T08:28:00.000Z"
-  },
-  {
-    "id": "a8806135a47fa698",
-    "title": "Leader of India’s Cockroach movement says he was stopped from boarding flight to UK",
-    "summary": "Saurav Das was due to give talks at UK universities on protest movement but says ‘coward government’ prevented him flying.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/24/leader-india-coackroach-movement-says-stopped-from-boarding-flight-to-uk",
-    "publishedAt": "2026-11-24T08:24:26.000Z"
-  },
-  {
-    "id": "d6d2affe39b7cd00",
-    "title": "US army says detonation of lead explosives in Iowa will proceed",
-    "summary": "Public outcry led to a legal battle when details of the plans to conduct two controlled detonations surfaced.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/us-army-says-detonation-of-lead-explosives-in-iowa-will-proceed?traffic_source=rss",
-    "publishedAt": "2026-11-24T08:24:08.000Z"
-  },
-  {
-    "id": "86a39034e80d0790",
-    "title": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
-    "summary": "The announcement comes five days after the ICJ ruled that Myanmar committed genocide against its Rohingya minority.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2?traffic_source=rss",
-    "publishedAt": "2026-11-24T08:21:41.000Z"
-  },
-  {
-    "id": "2a92fcf471842cf7",
-    "title": "Fears of Russian attack drive Poland and Baltic states back to landmines",
-    "summary": "A report has found the number of people being killed by landmines has increased. Production has expanded for the first time in decades, with multiple EU nations withdrawing from a treaty designed to contain the threat.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-24/europe-restarts-production-of-landmines-amid-russia-threat/107418962",
-    "publishedAt": "2026-11-24T08:04:26.000Z"
-  },
-  {
-    "id": "e9128ac72409362f",
-    "title": "Proposed Beatles attraction on Savile Row faces rooftop gigs ban",
-    "summary": "Westminster council to vote on restrictions at planned tourist venue and site of band’s final public concert.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/24/beatles-attraction-savile-row-live-music-ban-westminster-council",
-    "publishedAt": "2026-11-24T08:00:11.000Z"
-  },
-  {
-    "id": "530eaa08afbc98c4",
-    "title": "Trump, Nvidia and power: could we be nearing the end of tech’s Gilded Age?",
-    "summary": "Oligarchs believe they’re untouchable – the blue wave offers hope that the rampant corruption of the Trump era may soon be over.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
-    "publishedAt": "2026-11-24T08:00:11.000Z"
   }
 ]
