@@ -1,5 +1,77 @@
 [
   {
+    "id": "9deb969d2bb28ac5",
+    "title": "'Urgent action' needed to protect lake",
+    "summary": "Tourism and outdated septic tanks are said to be adding to the ecological decline of Buttermere.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr78271e5j91o",
+    "publishedAt": "2026-11-24T09:10:43.000Z"
+  },
+  {
+    "id": "97f3f6d624905d9f",
+    "title": "Most victims of factory fire died trying to reach emergency exit, rescuers say",
+    "summary": "Indonesian authorities have confirmed 26 workers were killed in a fire three days ago at a candy factory where rescuers said most victims died on the second floor trying to reach the emergency exit.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/victims-indonesia-factory-fire-died-reach-emergency-exit-138402804",
+    "publishedAt": "2026-11-24T09:06:21.000Z"
+  },
+  {
+    "id": "197eb37be8e92288",
+    "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to war",
+    "summary": "North Korea has threatened to close a Swiss diplomatic office that opened in Pyongyang last month.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/north-korea-reviews-switzerland-relations-after-sanctions-youth-138402640",
+    "publishedAt": "2026-11-24T09:06:20.000Z"
+  },
+  {
+    "id": "312f5150b86d32c5",
+    "title": "Hanoi eatery blast kills 3 and injures more than a dozen",
+    "summary": "An explosion suspected to be from a gas leak at a hotpot eatery in Hanoi has killed three people and injured more than a dozen others.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/hanoi-eatery-blast-kills-3-injures-dozen-138402807",
+    "publishedAt": "2026-11-24T09:06:17.000Z"
+  },
+  {
+    "id": "b335207f99b64e53",
+    "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
+    "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o",
+    "publishedAt": "2026-11-24T08:35:41.000Z"
+  },
+  {
+    "id": "ae2e8e2caf29fdfa",
+    "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
+    "summary": "Asia-Pacific stock markets rise after US president says he ‘convinced’ chipmaker’s board to reinstate CEO.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+    "publishedAt": "2026-11-24T08:28:00.000Z"
+  },
+  {
+    "id": "d6d2affe39b7cd00",
+    "title": "US army says detonation of lead explosives in Iowa will proceed",
+    "summary": "Public outcry led to a legal battle when details of the plans to conduct two controlled detonations surfaced.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/us-army-says-detonation-of-lead-explosives-in-iowa-will-proceed?traffic_source=rss",
+    "publishedAt": "2026-11-24T08:24:08.000Z"
+  },
+  {
+    "id": "86a39034e80d0790",
+    "title": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
+    "summary": "The announcement comes five days after the ICJ ruled that Myanmar committed genocide against its Rohingya minority.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2?traffic_source=rss",
+    "publishedAt": "2026-11-24T08:21:41.000Z"
+  },
+  {
     "id": "e9128ac72409362f",
     "title": "Proposed Beatles attraction on Savile Row faces rooftop gigs ban",
     "summary": "Westminster council to vote on restrictions at planned tourist venue and site of band’s final public concert.",
@@ -466,6 +538,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o",
     "publishedAt": "2026-11-24T00:23:25.000Z"
+  },
+  {
+    "id": "63c39b84f6e4708b",
+    "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+    "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po",
+    "publishedAt": "2026-11-24T00:11:08.000Z"
   },
   {
     "id": "ae2afc4943e3f8d7",
@@ -1267,86 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo",
     "publishedAt": "2026-11-23T14:55:14.000Z"
-  },
-  {
-    "id": "1785416a2ab8e040",
-    "title": "Nvidia's board of directors brings Jensen Huang back as CEO",
-    "summary": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Jensen's return as a national security risk.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
-    "publishedAt": "2026-11-23T14:53:41.000Z"
-  },
-  {
-    "id": "46132fec3248b895",
-    "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
-    "summary": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
-    "publishedAt": "2026-11-23T14:51:44.000Z"
-  },
-  {
-    "id": "4d75135fe66595ee",
-    "title": "Next issues cyber-attack warning after ‘benign’ data accessed by hackers",
-    "summary": "Retailer says it believes no personal data that could lead to fraud was accessed after hack of third-party supplier.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
-    "publishedAt": "2026-11-23T14:50:31.000Z"
-  },
-  {
-    "id": "6144b94b70afb55b",
-    "title": "Amtrak train derails after colliding with tractor-trailer in Louisiana",
-    "summary": "Five passengers were reported to have non-life-threatening injuries after crash at railroad crossing near Lafayette.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/23/amtrak-derailment-louisiana",
-    "publishedAt": "2026-11-23T14:32:40.000Z"
-  },
-  {
-    "id": "2fcd746ebef6a67c",
-    "title": "Nvidia board Reinstates Jensen Huang as CEO",
-    "summary": "Jensen Huang’s swift return to Nvidia coincides with a sharp 31 percent premarket spike in the tech giant’s stock.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss",
-    "publishedAt": "2026-11-23T14:24:38.000Z"
-  },
-  {
-    "id": "af40cfcedb999bf8",
-    "title": "Ian Huntley killed by inmate in ‘cold-blooded murder’ planned weeks in advance, court told",
-    "summary": "Jurors hear Anthony Russell killed Soham murderer by hitting him repeatedly over head with metal bar.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/23/ian-huntley-killed-by-inmate-court-trial",
-    "publishedAt": "2026-11-23T14:19:44.000Z"
-  },
-  {
-    "id": "fd0f48e8fd6df022",
-    "title": "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space",
-    "summary": "Move would be breach of Outer Space treaty and Partial Nuclear Test Ban treaty, which prohibit placing of nuclear weapons in orbit.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/23/russia-nuclear-weapons-space-german-intelligence",
-    "publishedAt": "2026-11-23T14:18:33.000Z"
-  },
-  {
-    "id": "f2286b4f32edfc60",
-    "title": "Jensen Huang reinstated as Nvidia CEO",
-    "summary": "Chipmaker reverses decision it made to remove chief executive after reports of affairs including with alleged Chinese spy.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-    "publishedAt": "2026-11-23T14:15:27.000Z"
-  },
-  {
-    "id": "f0d0d0cff377796c",
-    "title": "Nvidia says 'no national security risk' reinstating Jensen Huang as CEO",
-    "summary": "Reinstated Nvidia chief executive Jensen Huang says he \"can't wait to get back to work\", just days after the chip maker's board ruled out the co-founder's return.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-24/nvidia-ceo-jensen-huang-reinstated/107419102",
-    "publishedAt": "2026-11-23T14:12:51.000Z"
   }
 ]
