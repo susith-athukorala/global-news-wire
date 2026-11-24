@@ -1,5 +1,59 @@
 [
   {
+    "id": "9e295ddc8b75a13c",
+    "title": "Goats drafted in to tame Greenwich Park slope",
+    "summary": "Bagot goats are used to keep vegetation in check and help preserve the view from the Royal Observatory.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o",
+    "publishedAt": "2026-11-24T06:16:51.000Z"
+  },
+  {
+    "id": "d173b9cf66d14568",
+    "title": "Massive illegal fishing bust in northern waters alarms industry",
+    "summary": "Australian Border Force has seized a foreign fishing vessel north of Darwin allegedly carrying more than 25 tonnes of frozen fish.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-24/illegal-fisherman-nt-arafura-sea/107420362",
+    "publishedAt": "2026-11-24T06:11:18.000Z"
+  },
+  {
+    "id": "24384649709a5f8a",
+    "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+    "summary": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reported.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+    "publishedAt": "2026-11-24T06:00:07.000Z"
+  },
+  {
+    "id": "c945b3d23771c690",
+    "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’",
+    "summary": "Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companies.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
+    "publishedAt": "2026-11-24T05:58:15.000Z"
+  },
+  {
+    "id": "21d99b6d7920fcf8",
+    "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
+    "summary": "Prime minister Anwar Ibrahim’s announcement comes days after the ICJ found Myanmar had committed genocide against the Rohingya minority.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
+    "publishedAt": "2026-11-24T05:54:14.000Z"
+  },
+  {
+    "id": "cc716434d1ad9859",
+    "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+    "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo",
+    "publishedAt": "2026-11-24T05:33:07.000Z"
+  },
+  {
     "id": "3d13677d42e96ea8",
     "title": "Ebikes, screens and failing manners pose challenge for Dutch cycling culture",
     "summary": "Awareness campaign reminds public ‘traffic is a team sport’ amid less civility and more collisions on roads.",
@@ -1161,6 +1215,15 @@
     "publishedAt": "2026-11-23T13:39:30.000Z"
   },
   {
+    "id": "7b8bae570643d666",
+    "title": "Flights cancelled in Belgium due to cost-of-living strike",
+    "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o",
+    "publishedAt": "2026-11-23T13:34:02.000Z"
+  },
+  {
     "id": "a5104180c52d00ea",
     "title": "Mexican soldiers attacked in wake of drug lord's arrest",
     "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
@@ -1278,75 +1341,12 @@
     "publishedAt": "2026-11-23T12:34:07.000Z"
   },
   {
-    "id": "569801afeac4183e",
-    "title": "Asylum seekers removed from UK subjected to ‘unnecessary and intimidating’ force",
-    "summary": "Incidents include suicidal man being carried on to plane in waist, leg and ankle restraints, official report says.",
-    "category": "World",
+    "id": "ad1ca624e54d969b",
+    "title": "Flagship UK gigafactory plan in turmoil after it loses second builder in five months",
+    "summary": "Tata-owned Agratas plant to build EV batteries for sister company Jaguar Land Rover seen as crucial for long-term health of British car industry.",
+    "category": "Economy",
     "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/23/asylum-seekers-removed-from-uk-unnecessary-and-intimidating-force",
-    "publishedAt": "2026-11-23T12:23:06.000Z"
-  },
-  {
-    "id": "5b99461c51325257",
-    "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
-    "summary": "Former US vice-president Al Gore among climate leaders demanding change to consensus rule after Antalya summit.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits",
-    "publishedAt": "2026-11-23T12:21:23.000Z"
-  },
-  {
-    "id": "3fdf0a68287ccaad",
-    "title": "Arctic air brings colder temperatures to Europe this week",
-    "summary": "After a warmer-than-average November so far globally, a cold snap is on the horizon in parts of Europe.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/23/arctic-air-colder-temperatures-europe-this-week",
-    "publishedAt": "2026-11-23T11:59:03.000Z"
-  },
-  {
-    "id": "90b7ea8f82efe7a7",
-    "title": "Inside the talks between student protest leaders and Macron’s government",
-    "summary": "Al Jazeera interviews two French student leaders who have met with top government officials as protests continue.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/they-smile-but-do-nothing-students-on-meeting-macron-and-other-leaders?traffic_source=rss",
-    "publishedAt": "2026-11-23T11:58:09.000Z"
-  },
-  {
-    "id": "1e07638aee77020f",
-    "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-    "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o",
-    "publishedAt": "2026-11-23T11:57:33.000Z"
-  },
-  {
-    "id": "4d75135fe66595ee",
-    "title": "Next issues cyber-attack warning after ‘benign’ data accessed by hackers",
-    "summary": "Retailer says it believes no personal data that could lead to fraud was accessed after hack of third-party supplier.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
-    "publishedAt": "2026-11-23T11:53:45.000Z"
-  },
-  {
-    "id": "36e9ed36318426a3",
-    "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-    "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
-    "publishedAt": "2026-11-23T11:42:51.000Z"
-  },
-  {
-    "id": "e2830407b36aa712",
-    "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-    "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
-    "publishedAt": "2026-11-23T11:40:01.000Z"
+    "link": "https://www.theguardian.com/business/2026/nov/23/flagship-uk-gigafactory-turmoil-loses-second-builder",
+    "publishedAt": "2026-11-23T12:26:51.000Z"
   }
 ]
