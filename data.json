@@ -1,5 +1,68 @@
 [
   {
+    "id": "cef482f3944581e3",
+    "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+    "summary": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno",
+    "publishedAt": "2026-11-24T00:01:04.000Z"
+  },
+  {
+    "id": "d13c6314b7c26464",
+    "title": "Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons",
+    "summary": "Position contrasts with Green party’s policies before 2024 election, as polls show just 17% of voters trust them on defence.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/24/zack-polanski-backs-report-endorsing-nato-membership-maintaining-nuclear-weapons",
+    "publishedAt": "2026-11-24T00:01:01.000Z"
+  },
+  {
+    "id": "0022730fbc13a916",
+    "title": "Robert Macfarlane says trust in Cop to deliver change on climate is ‘misplaced’",
+    "summary": "Nature writer reveals in his first Reith lecture that he finds ‘much more hope’ in emerging alliances.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced",
+    "publishedAt": "2026-11-24T00:01:00.000Z"
+  },
+  {
+    "id": "aec25a1381edc0c4",
+    "title": "Why I don't always tell potential employers I'm dyslexic",
+    "summary": "Many dyslexic people say it harms their confidence, a report about experiences in the workplace suggests.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6rmgjynynero",
+    "publishedAt": "2026-11-24T00:00:47.000Z"
+  },
+  {
+    "id": "951b78ea51b57618",
+    "title": "Drone attack on Colombia police base injures civilians, including infant",
+    "summary": "Far-right President De la Espriella steps up offensive as rebel groups strike back with drone strikes, roadside bombs.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
+    "publishedAt": "2026-11-23T23:49:37.000Z"
+  },
+  {
+    "id": "50fa856b3dad32d6",
+    "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
+    "summary": "Proposed sanctions aim to curb Russian crypto financing and 'propaganda' in sports.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
+    "publishedAt": "2026-11-23T23:26:16.000Z"
+  },
+  {
+    "id": "911926641a98d187",
+    "title": "Invading armies, subterfuge and conquest: How fire ant wars affect ecosystems",
+    "summary": "Ants disperse seeds, scavenge, turn soil and serve as a food source in their ecosystems. If local ants are displaced by invasive ants from elsewhere, the effects are widely felt.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6037814/invading-armies-subterfuge-and-conquest-how-fire-ant-wars-affect-ecosystems",
+    "publishedAt": "2026-11-23T23:12:05.000Z"
+  },
+  {
     "id": "60825bb1955b7e71",
     "title": "Russian incursions into NATO territory are increasing",
     "summary": "NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday.",
@@ -70,6 +133,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss",
     "publishedAt": "2026-11-23T21:15:33.000Z"
+  },
+  {
+    "id": "b5f3c8c31ce0dd78",
+    "title": "Turkish authorities search for lioness spotted on outskirts of Istanbul",
+    "summary": "Police and animal welfare teams in Istanbul are searching for a lioness seen prowling the city’s outskirts.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/turkish-authorities-search-lion-spotted-outskirts-istanbul-138369535",
+    "publishedAt": "2026-11-23T21:06:15.000Z"
   },
   {
     "id": "54218a61834f0012",
@@ -1206,6 +1278,15 @@
     "publishedAt": "2026-11-23T09:54:04.000Z"
   },
   {
+    "id": "438677fa752fb716",
+    "title": "Thai court upholds royal defamation conviction for opposition lawmaker and cuts sentence to 3 years",
+    "summary": "An appeals court has upheld the conviction of an opposition lawmaker for defaming Thailand’s monarchy in social media posts but reduced her prison sentence from six years to three.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/thai-court-upholds-royal-defamation-conviction-opposition-lawmaker-138369625",
+    "publishedAt": "2026-11-23T09:46:27.000Z"
+  },
+  {
     "id": "4f76f259dc591f95",
     "title": "Audience evacuated from Don Toliver concert after substance released in the crowd",
     "summary": "British police have evacuated over 12,000 fans from a Don Tolliver concert after an unknown substance was released in the crowd.",
@@ -1267,86 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss",
     "publishedAt": "2026-11-23T08:53:10.000Z"
-  },
-  {
-    "id": "d79fc45a2714faaf",
-    "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
-    "summary": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro",
-    "publishedAt": "2026-11-23T08:53:01.000Z"
-  },
-  {
-    "id": "2316ea321be05be8",
-    "title": "Gas prices in Europe surge as forecast cold snap feeds supply shortage fears",
-    "summary": "Jump in price follows slowdown in Qatar supplies and depleted summer stocks due to heatwaves.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears",
-    "publishedAt": "2026-11-23T08:45:13.000Z"
-  },
-  {
-    "id": "1bad8faa352c36a4",
-    "title": "Up to 1.1m people eligible to join class action against Jetstar over alleged failure to refund Covid flights",
-    "summary": "Jetstar accused of issuing customers credits instead of cash refunds for flights cancelled between 2020 and late 2022.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/23/up-to-11m-people-eligible-to-join-class-action-against-jetstar-over-alleged-failure-to-refund-covid-flights-ntwnfb",
-    "publishedAt": "2026-11-23T08:24:12.000Z"
-  },
-  {
-    "id": "e7e69ac7ea24c607",
-    "title": "Constitutional law expert brands defence bill allowing secret security rules ‘lazy and irresponsible’",
-    "summary": "Anne Twomey says lack of proper debate around bill is ‘flabbergasting’ amid concerns over extension of ministerial powers.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/23/constitutional-law-expert-brands-defence-bill-allowing-secret-security-rules-lazy-and-irresponsible",
-    "publishedAt": "2026-11-23T08:23:55.000Z"
-  },
-  {
-    "id": "c8f40f6d3f92a08e",
-    "title": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
-    "summary": "President Zelenskyy hails \"an exemplary Ukrainian operation\" as UN calls for investigation.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/ukraine-claims-responsiblity-for-drone-attacks-on-russian-ships-off-libya?traffic_source=rss",
-    "publishedAt": "2026-11-23T08:12:29.000Z"
-  },
-  {
-    "id": "373c1cc837029028",
-    "title": "Is it true that … we only use 10% of our brains?",
-    "summary": "The idea that we access a fraction of our cognitive potential goes back decades, but does medical science agree?",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/23/is-it-true-we-only-use-10-per-cent-brain",
-    "publishedAt": "2026-11-23T08:00:51.000Z"
-  },
-  {
-    "id": "5deb76a86bdb12dd",
-    "title": "Carney enlists fake Trump for laughs at Canada's annual press gallery dinner",
-    "summary": "Canadian Prime Minister Mark Carney shared the stage with a fake Donald Trump and two versions of himself Saturday, enlisting comedians to help roast the U.S. president and Canadian politicians at an annual dinner with journalists.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/carney-enlists-fake-trump-laughs-canadas-annual-press-138366618",
-    "publishedAt": "2026-11-23T08:00:41.000Z"
-  },
-  {
-    "id": "aff9948775419467",
-    "title": "Indonesian rescuers race to find 34 missing workers after a deadly candy factory fire",
-    "summary": "Indonesian rescuers are searching for 34 missing workers after a deadly fire swept through a candy factory west of Jakarta.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/indonesian-rescuers-race-find-34-missing-workers-after-138369526",
-    "publishedAt": "2026-11-23T07:52:44.000Z"
-  },
-  {
-    "id": "20e9d0df2d4836e5",
-    "title": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
-    "summary": "President Zelenskyy hails \"an exemplary Ukrainian operation\" as UN calls for investigation.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
-    "publishedAt": "2026-11-23T07:37:09.000Z"
   }
 ]
