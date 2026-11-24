@@ -1,5 +1,59 @@
 [
   {
+    "id": "62ccafc81f825953",
+    "title": "Nigel Farage rules out deal with Restore Britain unless it disavows controversial backers",
+    "summary": "Reform UK leader says he is ‘very worried’ about ethnonationalism and he does not trust Tories over Brexit.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/24/nigel-farage-rules-out-reform-uk-deal-restore-britain",
+    "publishedAt": "2026-11-24T14:13:38.000Z"
+  },
+  {
+    "id": "1993a5bb2fd48ebb",
+    "title": "Chinese police contacted members of WeChat group after they discussed Melbourne vigil for HungryPanda rider",
+    "summary": "Several members of the group chat set up after the alleged murder of Feng Jianming say they or their parents were called by police from their home towns in China.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/25/chinese-police-wechat-group-hungrypanda-delivery-rider-alleged-murder-melbourne-ntwnfb",
+    "publishedAt": "2026-11-24T14:00:50.000Z"
+  },
+  {
+    "id": "edb09034b1bfd203",
+    "title": "Guardian Essential poll: Albanese’s disapproval rating hits highest level as problems mount for Labor",
+    "summary": "Australians also turn against AI datacentres, with nearly half saying they don’t want one near their home.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/25/guardian-essential-poll-anthony-albaneses-ai-datacentres-labor-one-nation-coalition",
+    "publishedAt": "2026-11-24T14:00:49.000Z"
+  },
+  {
+    "id": "83c9219e60cb42fb",
+    "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
+    "summary": "Trump’s reaction to sensitive information that contradicts his worldview mirrors his conduct towards war with Iran.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
+    "publishedAt": "2026-11-24T14:00:48.000Z"
+  },
+  {
+    "id": "a5c3c1aa9c574547",
+    "title": "Days out from the Victorian election, nine datacentre projects await approval. What will their fate be?",
+    "summary": "While parties have come out with policies on where datacentres can be built, not all are clear on whether they apply retrospectively.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
+    "publishedAt": "2026-11-24T14:00:48.000Z"
+  },
+  {
+    "id": "6f9db94297a966d5",
+    "title": "Outcry grows over UK plan to exempt most brownfield sites from nature protection rules",
+    "summary": "Decision to exempt plots up to 1.5 hectares from biodiversity net gain laws allows developers to dodge rules designed to reverse wildlife declines.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/24/outcry-uk-plans-to-exempt-brownfield-sites-nature-protection-rules",
+    "publishedAt": "2026-11-24T14:00:47.000Z"
+  },
+  {
     "id": "46ec94ddc620f8b4",
     "title": "Dozens killed in latest land dispute attacks in Nigeria's Niger state",
     "summary": "Dozens of people were killed in attacks in north-central Nigeria, advocacy groups and local authorities said.",
@@ -7,6 +61,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/dozens-killed-latest-land-dispute-attacks-nigerias-niger-138408925",
     "publishedAt": "2026-11-24T13:44:46.000Z"
+  },
+  {
+    "id": "7e3e7ace66f48e5e",
+    "title": "Jensen Huang’s Nvidia return: Who are the big winners and losers?",
+    "summary": "Jensen Huang returns to lead the most consequential company powering the AI revolution. But who wins, who loses?",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/24/jensen-huangs-nvidia-return-who-are-the-big-winners-and-losers?traffic_source=rss",
+    "publishedAt": "2026-11-24T13:39:22.000Z"
   },
   {
     "id": "8d443f8208eb6325",
@@ -1285,68 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
     "publishedAt": "2026-11-23T22:41:48.000Z"
-  },
-  {
-    "id": "d9bc803d5d1e08f1",
-    "title": "Australians face Thai court over $1.9m investment scam",
-    "summary": "Five Australians return to a Bangkok court, on trial for allegedly running an investment scam that duped at least 14,000 Australians out of $1.9 million.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-24/trial-of-australians-charged-over-thai-scam-continues/107417146",
-    "publishedAt": "2026-11-23T22:20:32.000Z"
-  },
-  {
-    "id": "3c7214ece71fcc2e",
-    "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-    "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
-    "publishedAt": "2026-11-23T22:15:26.000Z"
-  },
-  {
-    "id": "95f79e5818c90801",
-    "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
-    "summary": "Democrat, who lost re-election bid, found to have made ‘unwelcome sexual advances’ towards House staffer.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
-    "publishedAt": "2026-11-23T21:53:33.000Z"
-  },
-  {
-    "id": "4e527fd4a33b32aa",
-    "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
-    "summary": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
-    "publishedAt": "2026-11-23T21:30:40.000Z"
-  },
-  {
-    "id": "f5c16c2ef8e3ef17",
-    "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
-    "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o",
-    "publishedAt": "2026-11-23T21:24:47.000Z"
-  },
-  {
-    "id": "512453057e1c88c5",
-    "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-    "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko",
-    "publishedAt": "2026-11-23T21:23:42.000Z"
-  },
-  {
-    "id": "8acddeed4a257c6c",
-    "title": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material",
-    "summary": "Virginia and Oregon filed separate lawsuits on Monday, accusing the company of promoting Grok's 'spicy mode'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss",
-    "publishedAt": "2026-11-23T21:15:33.000Z"
   }
 ]
