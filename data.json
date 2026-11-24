@@ -1,5 +1,104 @@
 [
   {
+    "id": "37a651f121ef860c",
+    "title": "Does Scotland's NHS have a revolving door problem with senior managers?",
+    "summary": "The situation has been compared to \"shuffling of deckchairs on the sinking Titanic\" by the lawyer for an NHS whistleblower.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr868183e3njo",
+    "publishedAt": "2026-11-24T11:14:25.000Z"
+  },
+  {
+    "id": "d7190b810a689c43",
+    "title": "Weak and immature management putting patients at risk at failing health board, review finds",
+    "summary": "A review finds targets and money being prioritised over patient care at Betsi Cadwaladr health board.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo",
+    "publishedAt": "2026-11-24T11:05:17.000Z"
+  },
+  {
+    "id": "d1c6006da6c60361",
+    "title": "Researcher who helped improve melanoma survival rates among winners of top Australian science prize",
+    "summary": "Georgina Long and subatomic physicist Anthony Thomas recognised in Prime Minister’s Prizes for Science.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/24/georgina-long-melanoma-anthony-thomas-2026-prime-ministers-prizes-for-science",
+    "publishedAt": "2026-11-24T11:00:45.000Z"
+  },
+  {
+    "id": "cc80af5e393658ea",
+    "title": "Man Theft Auto – why did so few women review GTA VI, the biggest video game of the decade?",
+    "summary": "Given that this is the first Grand Theft Auto in 30 years with a female protagonist, you might have expected to hear from female critics. But you would have expected mostly in vain.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/24/man-theft-auto-why-did-so-few-women-review-gta-vi-the-biggest-video-game-of-the-decade",
+    "publishedAt": "2026-11-24T11:00:43.000Z"
+  },
+  {
+    "id": "094d704d9aa5409c",
+    "title": "EU to impose cap on Chinese hybrid EV imports next month",
+    "summary": "Temporary quotas on vehicles entering the bloc tariff-free will also apply to cars from the UK, Japan and Turkey.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
+    "publishedAt": "2026-11-24T10:59:40.000Z"
+  },
+  {
+    "id": "8cc866ad40002013",
+    "title": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
+    "summary": "Nvidia chief's 'mistakes' had consequences far beyond Silicon Valley. He is back nonetheless, in less than two weeks.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
+    "publishedAt": "2026-11-24T10:48:38.000Z"
+  },
+  {
+    "id": "df46e48721f5fc06",
+    "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
+    "summary": "Gaza health officials say meningitis cases rose to 272 in October, more than eight times the typical monthly rate.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
+    "publishedAt": "2026-11-24T10:47:41.000Z"
+  },
+  {
+    "id": "e7c664a0b7ba3edf",
+    "title": "Serbian police arrest a 17-year-old after shots fired at a high school",
+    "summary": "Police in central Serbia have arrested a teenager after he fired a small-caliber rifle in a high school hallway.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/serbian-police-arrest-17-year-after-shots-fired-138403980",
+    "publishedAt": "2026-11-24T10:42:25.000Z"
+  },
+  {
+    "id": "2ce4619c942c3f66",
+    "title": "Officials backtrack after 24-hour hunt for Istanbul lioness, saying she never existed",
+    "summary": "Turkish officials say a lioness that was subject to a 24-hour search and sparked panic among Istanbul residents does not actually exist.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/turkish-officials-backtrack-after-24-hour-hunt-istanbul-138404359",
+    "publishedAt": "2026-11-24T10:42:24.000Z"
+  },
+  {
+    "id": "cb9e163709e56bba",
+    "title": "Under-16s social media ban could disrupt sites that pose no risk, says UK tech industry",
+    "summary": "Trade body techUK says regulations are causing frustration with chaotic process of ‘chasing children around the internet’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/24/under-16s-social-media-ban-disrupt-sites-no-risk-uk-tech-industry",
+    "publishedAt": "2026-11-24T10:18:39.000Z"
+  },
+  {
+    "id": "2bfe168014b9db1c",
+    "title": "GP surgery suspends routine appointments due to 'tsunami' of demand",
+    "summary": "Aberfoyle Medical Practice in Derry says its doctors are treating 60 patients each every day.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm62pze6xn37o",
+    "publishedAt": "2026-11-24T10:17:57.000Z"
+  },
+  {
     "id": "bba4c0d44abe72e5",
     "title": "Congress to grill Jensen Huang over ties with China and Trump’s intervention",
     "summary": "Lawmakers from both parties are demanding answers about the Nvidia CEO’s reinstatement and the administration’s handling of national security risks.",
@@ -846,6 +945,15 @@
     "publishedAt": "2026-11-23T21:24:47.000Z"
   },
   {
+    "id": "512453057e1c88c5",
+    "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+    "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko",
+    "publishedAt": "2026-11-23T21:23:42.000Z"
+  },
+  {
     "id": "8acddeed4a257c6c",
     "title": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material",
     "summary": "Virginia and Oregon filed separate lawsuits on Monday, accusing the company of promoting Grok's 'spicy mode'.",
@@ -1240,113 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/bukele-reveals-circumstances-3-salvadoran-soldiers-died-fighting-138378203",
     "publishedAt": "2026-11-23T17:02:13.000Z"
-  },
-  {
-    "id": "d9d944320bc41f99",
-    "title": "Indonesia names 6 current and former police officials as suspects in an alleged treason plot",
-    "summary": "Indonesian authorities have named former National Police chief Gen. Listyo Sigit Prabowo and five other current and former senior officers as suspects in an alleged treason plot against President Prabowo Subianto’s government.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/indonesia-names-6-current-former-police-officials-suspects-138378719",
-    "publishedAt": "2026-11-23T17:02:04.000Z"
-  },
-  {
-    "id": "77e1baae0fa77bb4",
-    "title": "WHO director-general visits Cuba as healthcare system breaks down",
-    "summary": "The World Health Organization's top official is visiting Cuba as the island’s healthcare system crumbles under a spiraling economic crisis and worsening power outages.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/director-general-visits-cuba-healthcare-system-breaks-138379754",
-    "publishedAt": "2026-11-23T17:01:42.000Z"
-  },
-  {
-    "id": "5c038d6495a53e97",
-    "title": "Did you solve it? How Super Mario explains Renaissance art",
-    "summary": "Earlier today I set you the following puzzle. Here it is again with the solution.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/23/did-you-solve-it-how-super-mario-explains-renaissance-art",
-    "publishedAt": "2026-11-23T17:00:52.000Z"
-  },
-  {
-    "id": "501b182045a21148",
-    "title": "How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’",
-    "summary": "As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts",
-    "publishedAt": "2026-11-23T16:58:17.000Z"
-  },
-  {
-    "id": "f748ddfc92521a62",
-    "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
-    "summary": "Island’s labour minister, Tony Dyer, says agreement acknowledges links between Speightstown and UK city are rooted in slave trade.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
-    "publishedAt": "2026-11-23T16:53:13.000Z"
-  },
-  {
-    "id": "2aa9fd24f84b5e13",
-    "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
-    "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
-    "publishedAt": "2026-11-23T16:49:51.000Z"
-  },
-  {
-    "id": "540d07d0d8688243",
-    "title": "Florida city cancels Christmas parade after tax amendment forces budget cuts",
-    "summary": "Deltona officials say parade is getting cancelled due to the state’s voter-approved Amendment 3 property tax overhaul.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/23/deltona-florida-christmas-parade-amendment-3",
-    "publishedAt": "2026-11-23T16:48:11.000Z"
-  },
-  {
-    "id": "f7f45b0454353983",
-    "title": "Lucy Powell to visit China to promote UK education weeks after MI5 warning",
-    "summary": "Delegation of 50 to accompany minister, with trip criticised after universities were warned about Chinese interference.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
-    "publishedAt": "2026-11-23T16:42:09.000Z"
-  },
-  {
-    "id": "00ee9db08ed19d5a",
-    "title": "Burnham: I won’t listen to ex-Tory PMs who left UK with ‘bad Brexit deal’",
-    "summary": "PM says closer ties with EU will lower cost of living, with ‘brainstorming’ sessions being mooted to discuss shape of future relationship.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
-    "publishedAt": "2026-11-23T16:40:47.000Z"
-  },
-  {
-    "id": "6c8e8f63ded135d0",
-    "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
-    "summary": "Israel continues to launch attacks across the enclave, despite an October 2025 'ceasefire' deal.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss",
-    "publishedAt": "2026-11-23T16:36:22.000Z"
-  },
-  {
-    "id": "76e72c51b82b643a",
-    "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
-    "summary": "Russia has reacted with fury to Ukraine's continued campaign targeting its naval and merchant shipping.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
-    "publishedAt": "2026-11-23T16:23:33.000Z"
-  },
-  {
-    "id": "4578896294e6351b",
-    "title": "Trump says he ‘convinced’ Nvidia board to reinstate Jensen Huang",
-    "summary": "President says he spoke with board ‘directly and indirectly’ and assured them on national security risks.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
-    "publishedAt": "2026-11-23T16:19:22.000Z"
   }
 ]
