@@ -1,5 +1,77 @@
 [
   {
+    "id": "bc06a2c33a25deb5",
+    "title": "A question of trust in the NHS could be Swinney's most dangerous political moment",
+    "summary": "The Scottish government has to convince the public and political rivals that it has a grip on the problems at NHS Grampian.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c65y12kg8711o",
+    "publishedAt": "2026-11-24T23:00:13.000Z"
+  },
+  {
+    "id": "2c8aeaed6ceaa68d",
+    "title": "Jury considers verdicts in Beau Lamarre-Condon double-murder trial",
+    "summary": "After 10-week trial, 12 jurors will decide whether former police officer murdered Jesse Baird and Luke Davies.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-jury-considers-verdict-ntwnfb",
+    "publishedAt": "2026-11-24T22:57:35.000Z"
+  },
+  {
+    "id": "53ec01b5619b1137",
+    "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
+    "summary": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
+    "publishedAt": "2026-11-24T22:50:16.000Z"
+  },
+  {
+    "id": "80ed5c51b636686b",
+    "title": "How high technology is changing cargo crime",
+    "summary": "Truckloads of turkey and bourbon are getting stolen in transit. Cargo theft of food and beverages are on the rise in part because the goods are hard to trace.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/24/nx-s1-6051029/how-high-technology-is-changing-cargo-crime",
+    "publishedAt": "2026-11-24T22:49:10.000Z"
+  },
+  {
+    "id": "e0a72d230636d7e5",
+    "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
+    "summary": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
+    "publishedAt": "2026-11-24T22:37:20.000Z"
+  },
+  {
+    "id": "4c2d46714fabe3e9",
+    "title": "Burnham opens door to wider NDAs ban at ‘watershed moment’ on abuse",
+    "summary": "PM brings forward changes to non-disclosure agreements and promises consultation on staggered age of consent.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/24/burnham-non-disclosure-agreements-staggered-age-consent",
+    "publishedAt": "2026-11-24T22:30:58.000Z"
+  },
+  {
+    "id": "1adbb69f8b11435e",
+    "title": "Burnham launches inquiry into nuclear bomb test veterans’ records",
+    "summary": "Hillsborough panel chair to lead investigation into programme of blood tests during nuclear weapons trials.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/24/burnham-inquiry-nuclear-bomb-test-veterans",
+    "publishedAt": "2026-11-24T22:30:57.000Z"
+  },
+  {
+    "id": "a8ba60ba5ccdbdec",
+    "title": "Meta and other social media firms are not liable for Buffalo mass shooting, court rules",
+    "summary": "New York’s top court upholds lower court decision to dismiss claims against tech firms in lawsuit over 2022 shooting.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/social-media-not-liable-2022-buffalo-mass-shooting",
+    "publishedAt": "2026-11-24T22:30:01.000Z"
+  },
+  {
     "id": "4001d0e7d9acba02",
     "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
     "summary": "Open letter warns Baaja, intended to expedite energy and infrastructure projects, will cause irreversible climate harm.",
@@ -9,6 +81,15 @@
     "publishedAt": "2026-11-24T22:09:57.000Z"
   },
   {
+    "id": "f0614611501e45ff",
+    "title": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
+    "summary": "The US attorney general refused to discuss claims by Donald Trump that his administration conducted a 'thorough' probe.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
+    "publishedAt": "2026-11-24T22:01:26.000Z"
+  },
+  {
     "id": "d35e1972c1d20aee",
     "title": "As US gears up for Thanksgiving, Iowa braces for controlled bomb blast",
     "summary": "Detonation of 68 barrels of lead azide scheduled for Wednesday after several delays amid public outcry.",
@@ -16,6 +97,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving",
     "publishedAt": "2026-11-24T21:49:07.000Z"
+  },
+  {
+    "id": "c3c3df9289a3173b",
+    "title": "Colombian president blames ex-FARC rebels for car bomb blast",
+    "summary": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
+    "publishedAt": "2026-11-24T21:45:42.000Z"
   },
   {
     "id": "97b4be0a9bb6b143",
@@ -729,6 +819,15 @@
     "publishedAt": "2026-11-24T14:51:18.000Z"
   },
   {
+    "id": "e7c664a0b7ba3edf",
+    "title": "Serbian police arrest a 17-year-old after shots fired at a high school",
+    "summary": "Police in central Serbia have arrested a teenager after he fired a small-caliber rifle in a high school hallway.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/serbian-police-arrest-17-year-after-shots-fired-138403980",
+    "publishedAt": "2026-11-24T14:50:24.000Z"
+  },
+  {
     "id": "e808ef7447e7c869",
     "title": "Pentagon sharply rebukes Canada over defense spending and the F-35 fighter jet review",
     "summary": "The Pentagon has accused Canada of falling short as a credible partner in defending North America, delivering a sharp rebuke to its longtime ally over military spending and its reconsideration of American-made F-35 fighter jets.",
@@ -990,6 +1089,15 @@
     "publishedAt": "2026-11-24T13:11:25.000Z"
   },
   {
+    "id": "c7afb1d0c1834fb6",
+    "title": "Adelaide overtakes Sydney as least affordable capital city for housing",
+    "summary": "First home buyers may be cheering property price falls, but higher borrowing costs are crimping their purchasing power.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-25/housing-market-downturn-fails-to-deliver-relief-for-buyers/107422726",
+    "publishedAt": "2026-11-24T13:08:42.000Z"
+  },
+  {
     "id": "193311ccb0ab957c",
     "title": "World Cup drove profits surge, says Marston's",
     "summary": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
@@ -1240,113 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six?traffic_source=rss",
     "publishedAt": "2026-11-24T11:17:20.000Z"
-  },
-  {
-    "id": "034750cc4ab741bd",
-    "title": "Malaysia to repatriate another 6,803 Myanmar nationals despite ICJ genocide ruling",
-    "summary": "Malaysia's Prime Minister Anwar Ibrahim says the country plans to repatriate another 6,803 Myanmar nationals next month.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/malaysia-repatriate-6803-myanmar-nationals-despite-icj-genocide-138404157",
-    "publishedAt": "2026-11-24T11:15:19.000Z"
-  },
-  {
-    "id": "37a651f121ef860c",
-    "title": "Does Scotland's NHS have a revolving door problem with senior managers?",
-    "summary": "The situation has been compared to \"shuffling of deckchairs on the sinking Titanic\" by the lawyer for an NHS whistleblower.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr868183e3njo",
-    "publishedAt": "2026-11-24T11:14:25.000Z"
-  },
-  {
-    "id": "411067d06703d6af",
-    "title": "Pope Francis' diary reveals claims he saw the devil three times",
-    "summary": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no",
-    "publishedAt": "2026-11-24T11:10:57.000Z"
-  },
-  {
-    "id": "d7190b810a689c43",
-    "title": "Weak and immature management putting patients at risk at failing health board, review finds",
-    "summary": "A review finds targets and money being prioritised over patient care at Betsi Cadwaladr health board.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo",
-    "publishedAt": "2026-11-24T11:05:17.000Z"
-  },
-  {
-    "id": "ff3625fb9b19337a",
-    "title": "Delia Smith joins opponents of £1.2bn data centre",
-    "summary": "The TV cook and author is worried about the environmental impact of the proposed Keswick facility.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c678200xklgzo",
-    "publishedAt": "2026-11-24T11:04:36.000Z"
-  },
-  {
-    "id": "20f63212e50a047a",
-    "title": "Barnet footballer Isiah Noel-Williams charged with three counts of rape",
-    "summary": "A League Two footballer has been charged with three counts of rape and remanded in custody by Hertfordshire police.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/24/isiah-noel-williams-barnet-footballer-charged-with-rape",
-    "publishedAt": "2026-11-24T11:03:14.000Z"
-  },
-  {
-    "id": "684c649ba380052b",
-    "title": "US school bus drivers decline amid low pay and poor work conditions",
-    "summary": "Total number of drivers dropped 5% over the last year and fell 15% compared with 2019 levels, new report finds.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
-    "publishedAt": "2026-11-24T11:00:45.000Z"
-  },
-  {
-    "id": "d1c6006da6c60361",
-    "title": "Researcher who helped improve melanoma survival rates among winners of top Australian science prize",
-    "summary": "Georgina Long and subatomic physicist Anthony Thomas recognised in Prime Minister’s Prizes for Science.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/24/georgina-long-melanoma-anthony-thomas-2026-prime-ministers-prizes-for-science",
-    "publishedAt": "2026-11-24T11:00:45.000Z"
-  },
-  {
-    "id": "cc80af5e393658ea",
-    "title": "Man Theft Auto – why did so few women review GTA VI, the biggest video game of the decade?",
-    "summary": "Given that this is the first Grand Theft Auto in 30 years with a female protagonist, you might have expected to hear from female critics. But you would have expected mostly in vain.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/24/man-theft-auto-why-did-so-few-women-review-gta-vi-the-biggest-video-game-of-the-decade",
-    "publishedAt": "2026-11-24T11:00:43.000Z"
-  },
-  {
-    "id": "094d704d9aa5409c",
-    "title": "EU to impose cap on Chinese hybrid EV imports next month",
-    "summary": "Temporary quotas on vehicles entering the bloc tariff-free will also apply to cars from the UK, Japan and Turkey.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
-    "publishedAt": "2026-11-24T10:59:40.000Z"
-  },
-  {
-    "id": "bc330a5f29595397",
-    "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-    "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
-    "publishedAt": "2026-11-24T10:58:51.000Z"
-  },
-  {
-    "id": "2aa9fd24f84b5e13",
-    "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-    "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
-    "publishedAt": "2026-11-24T10:53:37.000Z"
   }
 ]
