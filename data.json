@@ -1,5 +1,122 @@
 [
   {
+    "id": "8d9ce56e9ffc34ae",
+    "title": "Record 5,200 heat-linked deaths estimated in England this year",
+    "summary": "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o",
+    "publishedAt": "2026-11-24T16:16:16.000Z"
+  },
+  {
+    "id": "9f976c330c9ca685",
+    "title": "Irish plan offers Burnham breakthrough on Made in Europe",
+    "summary": "Irish presidency of EU proposes giving UK ‘partner’ status on assembly of cars in possible boost to reset of relations.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/24/uk-eu-made-in-europe-trade-cars-tariffs",
+    "publishedAt": "2026-11-24T16:09:12.000Z"
+  },
+  {
+    "id": "057270e0f8104115",
+    "title": "Dad calls for 'crisis' education to reduce suicide",
+    "summary": "Seamus Waites says there was \"no warning\" before his 22-year-old son died by suicide 10 years ago.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmz9dyd4eegeo",
+    "publishedAt": "2026-11-24T16:03:03.000Z"
+  },
+  {
+    "id": "3f4d13678811da6a",
+    "title": "Catherine's cancer documentary makes me feel less alone, says Strictly's Amy Dowden",
+    "summary": "The dancer says Catherine's documentary about her cancer journey is \"so important\" to raise awareness.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqdr151xj5ego",
+    "publishedAt": "2026-11-24T16:02:20.000Z"
+  },
+  {
+    "id": "36ee0b35fe5c2025",
+    "title": "Palestine Weekly: A night of arson sees Israel ‘Jewish terrorism’ reckoning",
+    "summary": "Israeli settler pogroms have continued in the occupied West Bank.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/palestine-weekly-a-night-of-arson-sees-israel-jewish-terrorism-reckoning?traffic_source=rss",
+    "publishedAt": "2026-11-24T15:56:07.000Z"
+  },
+  {
+    "id": "f7b024931ecb4a4c",
+    "title": "Five women killed every hour globally by partner, relative last year: UN",
+    "summary": "Home remains the most dangerous place for a woman or girl, 'a pattern that has barely shifted in years', UN Women says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/five-women-killed-every-hour-globally-by-partner-relative-in-2025-un?traffic_source=rss",
+    "publishedAt": "2026-11-24T15:55:36.000Z"
+  },
+  {
+    "id": "650a4c88248107fc",
+    "title": "Jimmy Kimmel on Jensen Huang’s return to Nvidia: ‘What a profoundly stupid time to be alive’",
+    "summary": "Late-night hosts discussed disgraced Nvidia CEO’s quick return to his role after pressure from shareholder Trump.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/nov/24/jimmy-kimmel-jensen-huang-nvidia-trump",
+    "publishedAt": "2026-11-24T15:51:00.000Z"
+  },
+  {
+    "id": "f5453e81f49d6e7d",
+    "title": "Nvidia stock cools after Huang’s return-driven surge",
+    "summary": "Nvidia regains $952bn in market value after Jensen Huang reinstated as CEO after resignation less than two weeks ago.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss",
+    "publishedAt": "2026-11-24T15:47:16.000Z"
+  },
+  {
+    "id": "9f9d1e4b7c2cc447",
+    "title": "Two arrested after suspected burglary at home of Prince and Princess of Wales",
+    "summary": "Incident took place at the royals’ Sandringham estate country retreat in Norfolk on Monday evening.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/24/two-arrested-after-suspected-burglary-prince-princess-of-wales-sandringham",
+    "publishedAt": "2026-11-24T15:43:25.000Z"
+  },
+  {
+    "id": "76df5800ff14055a",
+    "title": "The Royal Court’s new mission? To boldly go back to the 60s space race with The Afronauts",
+    "summary": "Ryan Calais Cameron’s ‘true(ish)’ account of a charismatic freedom fighter’s plan to take a Zambian crew to the moon never quite lifts off.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/stage/2026/nov/24/the-afronauts-royal-court-theatre-london-ryan-calais-cameron-",
+    "publishedAt": "2026-11-24T15:29:09.000Z"
+  },
+  {
+    "id": "a5f0501335b1b036",
+    "title": "China’s probes Shanghai party chief Chen Jining over corruption",
+    "summary": "Chen is the fourth Politburo member to be probed since last year in a campaign that has targeted top Chinese leaders.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss",
+    "publishedAt": "2026-11-24T15:26:50.000Z"
+  },
+  {
+    "id": "71b08d8a9cc79d6c",
+    "title": "UK police arrest two after break-in at Prince William’s country residence",
+    "summary": "The arrests were made at a property on ⁠⁠⁠⁠the royal family's Sandringham estate in Norfolk, eastern England.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/police-arrest-two-after-break-in-at-prince-william-and-kates-country-home?traffic_source=rss",
+    "publishedAt": "2026-11-24T15:19:47.000Z"
+  },
+  {
+    "id": "e27d2ae923bb584a",
+    "title": "Land mine casualties soar in Syria, two years after war",
+    "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo",
+    "publishedAt": "2026-11-24T15:17:28.000Z"
+  },
+  {
     "id": "dc55587fc62d967f",
     "title": "How the Iran war is reshaping the US military presence in the Middle East",
     "summary": "Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.",
@@ -1231,122 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
     "publishedAt": "2026-11-24T01:25:20.000Z"
-  },
-  {
-    "id": "92cd2eba0141fd62",
-    "title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
-    "summary": "The ruling could clear the way for Trump to argue prosecutors relied on evidence protected by presidential immunity.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
-    "publishedAt": "2026-11-24T01:17:48.000Z"
-  },
-  {
-    "id": "13e5f39baaa6d3bb",
-    "title": "Israeli minister approves return of Flydubai flights",
-    "summary": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
-    "publishedAt": "2026-11-24T01:09:51.000Z"
-  },
-  {
-    "id": "35db16ff21a22e7f",
-    "title": "Bukele shares details on deaths of Salvadoran troops in Haiti intervention",
-    "summary": "Bukele's military intervention in Haiti comes after four Salvadoran technicians were kidnapped by gangs in October.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
-    "publishedAt": "2026-11-24T01:06:00.000Z"
-  },
-  {
-    "id": "8e3f5c03c4858029",
-    "title": "South Korea says several Russian aircraft flew into its air defense zone",
-    "summary": "South Korea’s military says several Russian aircraft flew inside the country’s air defense identification zone over waters between the Korean Peninsula and Japan.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/south-korea-russian-aircraft-flew-air-defense-zone-138393128",
-    "publishedAt": "2026-11-24T01:04:11.000Z"
-  },
-  {
-    "id": "e808ef7447e7c869",
-    "title": "Pentagon sharply rebukes Canada over defense spending and the F-35 fighter jet review",
-    "summary": "The Pentagon has accused Canada of falling short as a credible partner in defending North America, delivering a sharp rebuke to its longtime ally over military spending and its reconsideration of American-made F-35 fighter jets.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pentagon-sharply-rebukes-canada-defense-spending-35-fighter-138393777",
-    "publishedAt": "2026-11-24T01:03:57.000Z"
-  },
-  {
-    "id": "e9a9b972632b4353",
-    "title": "US adds Megaspeed, firm at centre of Nvidia scandal, to export control list",
-    "summary": "Bureau of Security and Industry adds Singapore-based firm and six other entities to export control list.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
-    "publishedAt": "2026-11-24T00:52:47.000Z"
-  },
-  {
-    "id": "5100dddc4021a953",
-    "title": "What could Democrats do with their expanding congressional majority?",
-    "summary": "The Democratic Party is debating how best to use its large margin of victory in the US midterm elections.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss",
-    "publishedAt": "2026-11-24T00:39:22.000Z"
-  },
-  {
-    "id": "37cae4b73bcdf83a",
-    "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
-    "summary": "Increasing numbers of corporate landlords could usher in big changes for renters.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o",
-    "publishedAt": "2026-11-24T00:28:48.000Z"
-  },
-  {
-    "id": "ad58da60214cb9dd",
-    "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-    "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o",
-    "publishedAt": "2026-11-24T00:23:25.000Z"
-  },
-  {
-    "id": "63c39b84f6e4708b",
-    "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-    "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po",
-    "publishedAt": "2026-11-24T00:11:08.000Z"
-  },
-  {
-    "id": "ae2afc4943e3f8d7",
-    "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
-    "summary": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
-    "publishedAt": "2026-11-24T00:04:15.000Z"
-  },
-  {
-    "id": "aa688580b0d1bdfa",
-    "title": "Borno school enrolment nearly doubles after years of conflict",
-    "summary": "Despite rising enrolment, violence, displacement and poverty keep children out of school in northeastern state.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/borno-school-enrolment-nearly-doubles-after-years-of-conflict?traffic_source=rss",
-    "publishedAt": "2026-11-24T00:02:16.000Z"
-  },
-  {
-    "id": "182b6213b22b35bc",
-    "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
-    "summary": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo",
-    "publishedAt": "2026-11-24T00:02:15.000Z"
   }
 ]
