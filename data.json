@@ -1,5 +1,59 @@
 [
   {
+    "id": "8e3f5c03c4858029",
+    "title": "South Korea says several Russian aircraft flew into its air defense zone",
+    "summary": "South Korea’s military says several Russian aircraft flew inside the country’s air defense identification zone over waters between the Korean Peninsula and Japan.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/south-korea-russian-aircraft-flew-air-defense-zone-138393128",
+    "publishedAt": "2026-11-24T01:04:11.000Z"
+  },
+  {
+    "id": "e808ef7447e7c869",
+    "title": "Pentagon sharply rebukes Canada over defense spending and the F-35 fighter jet review",
+    "summary": "The Pentagon has accused Canada of falling short as a credible partner in defending North America, delivering a sharp rebuke to its longtime ally over military spending and its reconsideration of American-made F-35 fighter jets.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pentagon-sharply-rebukes-canada-defense-spending-35-fighter-138393777",
+    "publishedAt": "2026-11-24T01:03:57.000Z"
+  },
+  {
+    "id": "e9a9b972632b4353",
+    "title": "US adds Megaspeed, firm at centre of Nvidia scandal, to export control list",
+    "summary": "Bureau of Security and Industry adds Singapore-based firm and six other entities to export control list.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
+    "publishedAt": "2026-11-24T00:52:47.000Z"
+  },
+  {
+    "id": "5100dddc4021a953",
+    "title": "What could Democrats do with their expanding congressional majority?",
+    "summary": "The Democratic Party is debating how best to use its large margin of victory in the US midterm elections.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss",
+    "publishedAt": "2026-11-24T00:39:22.000Z"
+  },
+  {
+    "id": "ae2afc4943e3f8d7",
+    "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
+    "summary": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
+    "publishedAt": "2026-11-24T00:04:15.000Z"
+  },
+  {
+    "id": "aa688580b0d1bdfa",
+    "title": "Borno school enrolment nearly doubles after years of conflict",
+    "summary": "Despite rising enrolment, violence, displacement and poverty keep children out of school in northeastern state.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/borno-school-enrolment-nearly-doubles-after-years-of-conflict?traffic_source=rss",
+    "publishedAt": "2026-11-24T00:02:16.000Z"
+  },
+  {
     "id": "cef482f3944581e3",
     "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
     "summary": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
@@ -1294,59 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/audience-evacuated-don-toliver-concert-after-unknown-substance-138369818",
     "publishedAt": "2026-11-23T09:38:18.000Z"
-  },
-  {
-    "id": "26c5f99c7077d77e",
-    "title": "Death toll rises after Russian attacks on Ukraine",
-    "summary": "At least 15 people are killed in multiple attacks, days after Putin promises a ‘painful’ response to Ukrainian attacks.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
-    "publishedAt": "2026-11-23T09:34:25.000Z"
-  },
-  {
-    "id": "51efa1a754cc9c67",
-    "title": "‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza",
-    "summary": "A new report by UK-based charity Oxfam shows how Israel’s destruction of Gaza has created a ‘toxic wasteland'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss",
-    "publishedAt": "2026-11-23T09:30:16.000Z"
-  },
-  {
-    "id": "c95e4e2d87a843da",
-    "title": "Natural England could be abolished as part of quango cull, says Louise Haigh",
-    "summary": "First secretary of state says proliferation of arm’s length government bodies is hampering decision-making.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
-    "publishedAt": "2026-11-23T09:19:34.000Z"
-  },
-  {
-    "id": "881c358463d51753",
-    "title": "AI superintelligence ‘arriving’, warns top Meta executive",
-    "summary": "Meta Chief AI Officer Alexandr Wang says humankind's actions over next year will have 'great consequence' for the world.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive?traffic_source=rss",
-    "publishedAt": "2026-11-23T09:08:07.000Z"
-  },
-  {
-    "id": "f2df81fbedc27577",
-    "title": "Doctors begin fresh strike over pay dispute",
-    "summary": "It follows a separate 24-hour strike on Friday in which resident doctors took industrial action as part of the same dispute.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cr3eg5vzn875o",
-    "publishedAt": "2026-11-23T09:06:02.000Z"
-  },
-  {
-    "id": "7023c3c17e05ffa7",
-    "title": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
-    "summary": "War widows in Sudan face growing challenges supporting their children as the cost of living increases.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss",
-    "publishedAt": "2026-11-23T08:53:10.000Z"
   }
 ]
