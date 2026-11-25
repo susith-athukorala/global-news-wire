@@ -1,5 +1,212 @@
 [
   {
+    "id": "62d977b7d482ee4b",
+    "title": "Poundland collapses putting 11,000 jobs at risk",
+    "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
+    "publishedAt": "2026-11-25T17:11:09.000Z"
+  },
+  {
+    "id": "41e0cf4defa47277",
+    "title": "Switzerland forced to close office in North Korea over sanctions feud",
+    "summary": "The closure came after North Korea condemned Switzerland for adding a children’s camp to its sanctions list.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud?traffic_source=rss",
+    "publishedAt": "2026-11-25T16:58:49.000Z"
+  },
+  {
+    "id": "df4413dcc95ba0ca",
+    "title": "Nasa knocked an asteroid off course. New closeup photos may shed light on aftermath",
+    "summary": "Images of Dimorphos four years on from crash should give clues for design of potential planetary defence system.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/25/dimorphos-asteroid-spacecraft-crash-closeup-images",
+    "publishedAt": "2026-11-25T16:49:33.000Z"
+  },
+  {
+    "id": "ff16e47c0dbb0f2a",
+    "title": "Poundland collapses into administration, putting 12,000 jobs at risk",
+    "summary": "US owner Gordon Brothers rejected at least two last-ditch bids for UK budget retailer.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers",
+    "publishedAt": "2026-11-25T16:41:08.000Z"
+  },
+  {
+    "id": "02cfbd21c433fc57",
+    "title": "Why are school shootings continuing to shake the Balkans?",
+    "summary": "A shooting in Serbia has renewed concerns over firearm access, online warning signs and failures to prevent violence.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/kragujevac-school-shooting-what-we-know-so-far?traffic_source=rss",
+    "publishedAt": "2026-11-25T16:36:57.000Z"
+  },
+  {
+    "id": "738443e67a1f4864",
+    "title": "US announces new tariffs on host of countries including China",
+    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+    "publishedAt": "2026-11-25T16:21:34.000Z"
+  },
+  {
+    "id": "78d97024b0707c09",
+    "title": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
+    "summary": "Ábrego García chose to depart from US after previously being deported to El Salvador due to ‘administrative error’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
+    "publishedAt": "2026-11-25T16:16:25.000Z"
+  },
+  {
+    "id": "ca992e99b4352600",
+    "title": "Energy price increase 'could put me in hospital'",
+    "summary": "People on Teesside share their views on the news energy bills are expected to increase by 26%.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo",
+    "publishedAt": "2026-11-25T16:06:25.000Z"
+  },
+  {
+    "id": "091d93568ed5ff54",
+    "title": "Share your most outrageous experience when trying to rent a room in the UK?",
+    "summary": "We’d like to hear your stories of trying to find flatmates in the private rental market in the UK. Have you had to audition?",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/25/share-your-most-outrageous-experience-when-trying-to-rent-a-room-in-the-uk",
+    "publishedAt": "2026-11-25T16:01:47.000Z"
+  },
+  {
+    "id": "8b43ea52ebbd5cab",
+    "title": "Hundreds complain after Mariella Frostrup calls AJ Odudu ‘aggressive’ on I’m a Celebrity",
+    "summary": "Ofcom receives 887 complaints, while media figures accuse Frostrup of using ‘microaggression’ against Odudu.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/25/hundreds-complain-ofcom-mariella-frostrup-aj-odudu-im-a-celebrity",
+    "publishedAt": "2026-11-25T16:00:19.000Z"
+  },
+  {
+    "id": "3691a9be18102e4d",
+    "title": "New Miss Universe's Puerto Rican hometown celebrates her historic win",
+    "summary": "The new Miss Universe hails from a Puerto Rican town whose people have long been known as “the cucumbers.”",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/new-miss-universes-puerto-rican-hometown-celebrates-historic-138441440",
+    "publishedAt": "2026-11-25T15:54:21.000Z"
+  },
+  {
+    "id": "3b9d02b7167f02c4",
+    "title": "Senegal deny Morocco’s allegations of ‘contact’ with CAS amid AFCON row",
+    "summary": "The Court of Arbitration for Sport ruled that Senegal were the rightful winners of the 2025 African Cup of Nations.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss",
+    "publishedAt": "2026-11-25T15:51:58.000Z"
+  },
+  {
+    "id": "7ef2efee33970dcc",
+    "title": "53 incoming House Democrats to boycott Harvard orientation in support of graduate students’ strike",
+    "summary": "‘We have been informed that to attend your event we would be required to cross a union picket line,’ the Democrats say.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/education/2026/nov/25/house-democrats-harvard-boycott-strike",
+    "publishedAt": "2026-11-25T15:47:25.000Z"
+  },
+  {
+    "id": "8590d07b78e289bd",
+    "title": "Canadian astronaut welcomes baby girl from space station",
+    "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo",
+    "publishedAt": "2026-11-25T15:41:39.000Z"
+  },
+  {
+    "id": "36b4838f9c206214",
+    "title": "Brussels on split-screen: where it flexes – and where it bends",
+    "summary": "From a choreographed summit that dominated Westminster but barely registered in Brussels to a climate showdown in Turkey, last week revealed the EU’s priorities – and the limits of its collective power.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/25/this-is-europe-brussels-eu-uk-summit",
+    "publishedAt": "2026-11-25T15:39:54.000Z"
+  },
+  {
+    "id": "a53ebf0226a3510d",
+    "title": "Beatles attraction at 3 Savile Row approved – with ban on rooftop gigs",
+    "summary": "Westminster council signs off on ‘cultural experience and exhibition’ at site where band last performed in public.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/25/beatles-attraction-savile-row-approved-ban-rooftop-gigs",
+    "publishedAt": "2026-11-25T15:38:11.000Z"
+  },
+  {
+    "id": "d8038c6f4eae9184",
+    "title": "Saudi Arabia’s PIF looking to sell 25% of Newcastle through share issue",
+    "summary": "Newcastle United’s owner, Saudi Arabia’s Public Investment Fund (PIF), is looking to sell up to 25% of the club by issuing new shares.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/25/saudi-arabia-pif-newcastle-share-issue",
+    "publishedAt": "2026-11-25T15:36:32.000Z"
+  },
+  {
+    "id": "6830edc4b6a9a25c",
+    "title": "South Africa court repeals ‘farmgate’ impeachment threat against Ramaphosa",
+    "summary": "The ruling hands the president ​a political reprieve by removing a finding that had exposed him to possible impeachment.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa?traffic_source=rss",
+    "publishedAt": "2026-11-25T15:35:33.000Z"
+  },
+  {
+    "id": "d249329dafbf6032",
+    "title": "Kilmar Abrego Garcia, wrongfully deported from US, arrives in Spain",
+    "summary": "The Salvadoran national's lawyer said in a statement that it was 'a temporary departure'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain?traffic_source=rss",
+    "publishedAt": "2026-11-25T15:34:59.000Z"
+  },
+  {
+    "id": "16e4a7d7fbb202a3",
+    "title": "New York bans AI toys, including those using internet to talk to children",
+    "summary": "The state attorney general says she would ‘not hesitate to enforce’ the five-year ban signed by Governor Kathy Hochul.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+    "publishedAt": "2026-11-25T15:29:21.000Z"
+  },
+  {
+    "id": "029faa3c4b98dcea",
+    "title": "‘Sesame Street for people paying rent’: the viral Instagram series teaching us how to be better adults",
+    "summary": "Life100 has racked up hundreds of thousands of followers and millions of views on Instagram by exploring important life lessons.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/wellness/2026/nov/25/life100-viral-instagram-series-susan-thau-sondra-goldstein",
+    "publishedAt": "2026-11-25T15:21:38.000Z"
+  },
+  {
+    "id": "86884f7c0f596c60",
+    "title": "US Army detonates toxic lead explosives in Iowa amid health concerns",
+    "summary": "The US Army destroys nearly 4,500kg of lead azide amid fears of toxic fallout affecting residents, farms and livestock.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/us-army-detonates-toxic-lead-stockpile-in-iowa-amid-backlash?traffic_source=rss",
+    "publishedAt": "2026-11-25T15:14:08.000Z"
+  },
+  {
+    "id": "132a1c505ee0ddee",
+    "title": "Botty? AI helps resurrect voice of John Motson for football video game",
+    "summary": "Late broadcaster’s family allows EA Sports to create digital version of ‘Motty’ to commentate on popular FC27.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
+    "publishedAt": "2026-11-25T15:13:10.000Z"
+  },
+  {
     "id": "cffc2f91e377f589",
     "title": "US stocks fall further as fears over AI intensify",
     "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
@@ -169,6 +376,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
     "publishedAt": "2026-11-25T13:51:56.000Z"
+  },
+  {
+    "id": "b9a6c473148d4607",
+    "title": "Energy bills to rise by 26% from January after gas prices surge",
+    "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
+    "publishedAt": "2026-11-25T13:42:08.000Z"
   },
   {
     "id": "63336486a4013a58",
@@ -378,6 +594,15 @@
     "publishedAt": "2026-11-25T12:14:52.000Z"
   },
   {
+    "id": "6b56e7b683ad6a86",
+    "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+    "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o",
+    "publishedAt": "2026-11-25T12:12:11.000Z"
+  },
+  {
     "id": "e660fb54fcc7259b",
     "title": "'I use a bowl to wash myself and I'm £400 in debt - energy price rise scares me'",
     "summary": "A woman already in energy debt says her anxiety is \"through the roof\" over further cost increases.",
@@ -421,6 +646,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/25/ex-england-star-sterling-given-suspended-sentence-for-dangerous-driving?traffic_source=rss",
     "publishedAt": "2026-11-25T11:50:52.000Z"
+  },
+  {
+    "id": "c1e6355cdda9d0de",
+    "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+    "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+    "publishedAt": "2026-11-25T11:50:05.000Z"
   },
   {
     "id": "deb1e2e2b6780c17",
@@ -700,6 +934,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo",
     "publishedAt": "2026-11-25T09:56:19.000Z"
+  },
+  {
+    "id": "2ac0110630ec60f5",
+    "title": "What will the energy cap changes mean for my bills?",
+    "summary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo",
+    "publishedAt": "2026-11-25T09:54:32.000Z"
   },
   {
     "id": "4e85b765ac0b2509",
@@ -1105,248 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
     "publishedAt": "2026-11-25T03:57:11.000Z"
-  },
-  {
-    "id": "a87455069b89efa4",
-    "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-    "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
-    "publishedAt": "2026-11-25T03:54:43.000Z"
-  },
-  {
-    "id": "75a2a86afd27d1c4",
-    "title": "US attorney general dodges questions about Nvidia investigation",
-    "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
-    "publishedAt": "2026-11-25T03:44:07.000Z"
-  },
-  {
-    "id": "eb05735b76769cca",
-    "title": "Asia’s stock markets dive as doubts swirl over AI boom",
-    "summary": "Markets fall sharply in Japan, South Korea and Taiwan in latest tech-led sell-off.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
-    "publishedAt": "2026-11-25T03:31:59.000Z"
-  },
-  {
-    "id": "a27486344dcf34a6",
-    "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
-    "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno",
-    "publishedAt": "2026-11-25T03:15:12.000Z"
-  },
-  {
-    "id": "0336fab4a0ca11e3",
-    "title": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
-    "summary": "US Senator Chris Van Hollen hails Kilmar Abrego Garcia's safe departure to Spain as a 'free man'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss",
-    "publishedAt": "2026-11-25T02:40:59.000Z"
-  },
-  {
-    "id": "a0100f439664a5cb",
-    "title": "Al Gore buys local, family-owned newspaper in central Tennessee",
-    "summary": "Former vice-president, who started his career as a journalist, purchases Carthage Courier in Smith county.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee",
-    "publishedAt": "2026-11-25T02:31:42.000Z"
-  },
-  {
-    "id": "3a2ad3b38e7f94ff",
-    "title": "Palestinian student’s detention without charge prompts Jerusalem protests",
-    "summary": "Mahdi Tounsi, a university student from East Jerusalem, has been held without charge since he was taken from his dorm room by Israeli police earlier this month.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-25/protesters-demand-release-of-palestinian-student-activist/107424896",
-    "publishedAt": "2026-11-25T02:26:04.000Z"
-  },
-  {
-    "id": "61ab9a2065f57fd3",
-    "title": "WHO chief urges end to US fuel blockade on Cuba",
-    "summary": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
-    "publishedAt": "2026-11-25T02:23:19.000Z"
-  },
-  {
-    "id": "ec560d1e5b632f7a",
-    "title": "Rescue crews search for six people after plane crash off Mississippi coast",
-    "summary": "US Coast Guard said crews had so far found the cabin of the plane, a life raft and three life jackets.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash",
-    "publishedAt": "2026-11-25T02:17:25.000Z"
-  },
-  {
-    "id": "e1ad855d0eab4e39",
-    "title": "Tidal bans 100% AI-generated music with plans to delete more than 27m tracks",
-    "summary": "Streaming service says 43% of uploads to platform in past 90 days were made entirely by artificial intelligence.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music",
-    "publishedAt": "2026-11-25T02:12:22.000Z"
-  },
-  {
-    "id": "75f2d53965930ccf",
-    "title": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
-    "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmrrg749d02do",
-    "publishedAt": "2026-11-25T01:51:43.000Z"
-  },
-  {
-    "id": "6e5ef958a13f4c18",
-    "title": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
-    "summary": "Anthony Albanese and Matthew Wale sign new treaty as Solomon Islands PM states his country no longer ‘a source of uncertainty and doubt in the region’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
-    "publishedAt": "2026-11-25T01:51:02.000Z"
-  },
-  {
-    "id": "e4e42d7bcfd4a5c2",
-    "title": "Thomas Markle indicted in US for possessing child sex abuse images",
-    "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o",
-    "publishedAt": "2026-11-25T01:40:42.000Z"
-  },
-  {
-    "id": "b7d838463719ca53",
-    "title": "China investigates politburo star in Xi Jinping’s latest purge",
-    "summary": "Chen Jining, regarded as a contender for higher office, becomes the fourth member of China’s elite politburo to be investigated since 2025.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
-    "publishedAt": "2026-11-25T01:31:46.000Z"
-  },
-  {
-    "id": "ecc097be75c1f97d",
-    "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
-    "summary": "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
-    "publishedAt": "2026-11-25T01:30:44.000Z"
-  },
-  {
-    "id": "75d4a6c12ba2cfe3",
-    "title": "Poll finds US voters want government to end Iran war regardless of terms",
-    "summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
-    "publishedAt": "2026-11-25T01:14:22.000Z"
-  },
-  {
-    "id": "315b93a1c0d26a5a",
-    "title": "Man who US mistakenly deported to home country to self-deport to Spain",
-    "summary": "Kilmar Abrego Garcia's self-deportation to Spain ends a lengthy battle for the 31-year-old whose case became a focal point in the US's immigration debate.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-25/kilmar-abrego-garcia-self-deporting-from-us-to-spain/107424634",
-    "publishedAt": "2026-11-25T01:13:51.000Z"
-  },
-  {
-    "id": "4bd932e8b57a5b83",
-    "title": "Will there be a White Christmas this year?",
-    "summary": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo",
-    "publishedAt": "2026-11-25T01:03:24.000Z"
-  },
-  {
-    "id": "f4857084d228e708",
-    "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
-    "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo",
-    "publishedAt": "2026-11-25T01:03:05.000Z"
-  },
-  {
-    "id": "4544e3a26ae51dfd",
-    "title": "The rising cost of putting food on the table in India",
-    "summary": "India's food inflation is broadening, squeezing household budgets.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o",
-    "publishedAt": "2026-11-25T01:02:13.000Z"
-  },
-  {
-    "id": "381ac6ba3a8c5660",
-    "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
-    "summary": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
-    "publishedAt": "2026-11-25T01:01:19.000Z"
-  },
-  {
-    "id": "bc9ebca37813f4c1",
-    "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
-    "summary": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o",
-    "publishedAt": "2026-11-25T01:00:36.000Z"
-  },
-  {
-    "id": "494939b7d9505bf7",
-    "title": "Middle-aged women in England least likely to successfully quit smoking, study finds",
-    "summary": "Of nearly 8,000 women who tried to stop, only 18% of those aged 45 to 60 managed to give up.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/25/middle-aged-women-quit-smoking-england-study",
-    "publishedAt": "2026-11-25T01:00:01.000Z"
-  },
-  {
-    "id": "ee33f0089d1182d3",
-    "title": "Clashing political visions reflect a divided Spain ahead of election",
-    "summary": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo",
-    "publishedAt": "2026-11-25T00:58:34.000Z"
-  },
-  {
-    "id": "3cc4786f8522ae83",
-    "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
-    "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo",
-    "publishedAt": "2026-11-25T00:56:51.000Z"
-  },
-  {
-    "id": "dad1a10a86cc9ab4",
-    "title": "One lame duck and two turkeys as Trump plays the hits at pardon ceremony",
-    "summary": "Levity was in short supply as president, reeling from midterms rout, talked up his achievements – and fixated on White House vanity project.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon",
-    "publishedAt": "2026-11-25T00:56:48.000Z"
-  },
-  {
-    "id": "b74d337193cece0a",
-    "title": "Inflation rate jumps to 4.9% as Australia’s cost-of-living crisis intensifies",
-    "summary": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5%.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
-    "publishedAt": "2026-11-25T00:56:44.000Z"
   }
 ]
