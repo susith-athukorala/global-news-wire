@@ -1,5 +1,113 @@
 [
   {
+    "id": "cffc2f91e377f589",
+    "title": "US stocks fall further as fears over AI intensify",
+    "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
+    "publishedAt": "2026-11-25T15:05:38.000Z"
+  },
+  {
+    "id": "d5072efa6e3dbd21",
+    "title": "Stick or switch? UK billpayers weigh up how to beat January energy jump",
+    "summary": "Despite dozens of fixed deals lower than next Ofgem price cap, many customers argue savings do not justify the risk.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/25/heating-uk-householders-grapple-with-energy-bills",
+    "publishedAt": "2026-11-25T15:02:41.000Z"
+  },
+  {
+    "id": "2b2d0872452cac9f",
+    "title": "The unexpected joy hiding in Grand Theft Auto VI’s chaos? A little routine",
+    "summary": "Rockstar’s latest blockbuster makes the everyday business of shopping, working out and taking care of a pet snake as compelling as its shootouts and car chases.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/25/the-secret-to-grand-theft-auto-vi-routine-rockstar-games",
+    "publishedAt": "2026-11-25T15:00:28.000Z"
+  },
+  {
+    "id": "004d71e16a52d591",
+    "title": "Trump proposing new tariffs on 14 partners including China and European Union",
+    "summary": "The administration is suggesting an added 20% tax on Chinese imports, which would bring the total to about 40%.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
+    "publishedAt": "2026-11-25T14:59:44.000Z"
+  },
+  {
+    "id": "f4f6ae13c8c05cd8",
+    "title": "Trump announces new trade tariffs: Which countries will they target?",
+    "summary": "The US is planning tariffs on 14 economies it accuses of using subsidies to help their industries overproduce.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
+    "publishedAt": "2026-11-25T14:54:44.000Z"
+  },
+  {
+    "id": "91182b12aeac28fc",
+    "title": "Nationwide unveils 1% deposit mortgage deal for first-time buyers",
+    "summary": "People can borrow up to six times their income, but brokers sound alarm over risks of negative equity if house prices fall.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/25/nationwide-unveils-1-deposit-mortgage-deal-first-time-buyers-in-uk",
+    "publishedAt": "2026-11-25T14:54:17.000Z"
+  },
+  {
+    "id": "8e86483e0ecf55b8",
+    "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+    "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo",
+    "publishedAt": "2026-11-25T14:46:41.000Z"
+  },
+  {
+    "id": "3ebce094cd254053",
+    "title": "High prices force many across the US to scale back for Thanksgiving: ‘We can’t afford the food’",
+    "summary": "Americans are opting for smaller gatherings, reconsidering travel or swapping expensive ingredients for cheaper alternatives.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/25/thanksgiving-food-costs-prices",
+    "publishedAt": "2026-11-25T14:43:16.000Z"
+  },
+  {
+    "id": "5446f69921bc9ed4",
+    "title": "New York's annual Thanksgiving Parade threatened by approaching storm",
+    "summary": "Strong winds and heavy rain are expected to impact celebrations across the USA, with the risk that the famous Macy's Thanksgiving Day parade could be impacted.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo",
+    "publishedAt": "2026-11-25T14:41:42.000Z"
+  },
+  {
+    "id": "088fd2c2592aa02c",
+    "title": "Heavy rain and high winds on east coast threaten to disrupt Thanksgiving plans",
+    "summary": "Macy’s parade of balloons under threat in New York City as flights face delays or cancellations.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/25/heavy-rain-high-winds-thanksgiving-east-coast",
+    "publishedAt": "2026-11-25T14:41:00.000Z"
+  },
+  {
+    "id": "f697f6ff0c5a14da",
+    "title": "Fuel price hike will make life 'almost impossible'",
+    "summary": "The Fuel Bank Foundation says many homes are already cutting back and struggling with bills.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrgqknw0jlo",
+    "publishedAt": "2026-11-25T14:37:44.000Z"
+  },
+  {
+    "id": "e8c9089f722d8a95",
+    "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
+    "summary": "Muhammad Zeeshan Ali – the first Pakistani to reach orbit – greeted with Chinese ‘space handshake’ at Tiangong station.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
+    "publishedAt": "2026-11-25T14:18:29.000Z"
+  },
+  {
     "id": "316b1b2ff5f655df",
     "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
     "summary": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
@@ -837,6 +945,15 @@
     "publishedAt": "2026-11-25T06:38:51.000Z"
   },
   {
+    "id": "bc06a2c33a25deb5",
+    "title": "A question of trust in the NHS could be Swinney's most dangerous political moment",
+    "summary": "The Scottish government has to convince the public and political rivals that it has a grip on the problems at NHS Grampian.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c65y12kg8711o",
+    "publishedAt": "2026-11-25T06:17:47.000Z"
+  },
+  {
     "id": "c144904d52077fde",
     "title": "Huge fly-tip grew undetected over several months",
     "summary": "The council says the 20-tonne pile of rubbish was dumped over garden fences.",
@@ -1231,122 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
     "publishedAt": "2026-11-25T00:56:44.000Z"
-  },
-  {
-    "id": "f40719ae1d01b597",
-    "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-    "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o",
-    "publishedAt": "2026-11-25T00:54:13.000Z"
-  },
-  {
-    "id": "16ca106309111db4",
-    "title": "Inflation rises more than expected to 4.9pc in year to October",
-    "summary": "The consumer price index has come in hotter than expected and underlying inflation has also risen.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-25/abs-october-cpi-inflation-rises-year-/107424668",
-    "publishedAt": "2026-11-25T00:42:21.000Z"
-  },
-  {
-    "id": "738443e67a1f4864",
-    "title": "US preparing to unveil new tariffs on global trading partners",
-    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
-    "publishedAt": "2026-11-25T00:38:01.000Z"
-  },
-  {
-    "id": "d9b574b1060964c7",
-    "title": "Why tiny cars are taking off across Europe",
-    "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo",
-    "publishedAt": "2026-11-25T00:34:05.000Z"
-  },
-  {
-    "id": "2ac0110630ec60f5",
-    "title": "What will the energy cap changes mean for my bills?",
-    "summary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo",
-    "publishedAt": "2026-11-25T00:33:25.000Z"
-  },
-  {
-    "id": "6b56e7b683ad6a86",
-    "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-    "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o",
-    "publishedAt": "2026-11-25T00:30:52.000Z"
-  },
-  {
-    "id": "824425c6be8cf40f",
-    "title": "Alaska ends deal to give voter records to US Justice Department",
-    "summary": "The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
-    "publishedAt": "2026-11-25T00:28:28.000Z"
-  },
-  {
-    "id": "df4d9ed149870c0f",
-    "title": "Catholic takeover of 14 hospitals approved as IVF workaround announced",
-    "summary": "The NSW government will support surgical theatre access for Hunter IVF patients to fill the threatened gap ahead of a proposed Catholic hospital takeover.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-25/continued-access-for-hunter-ivf-services/107423658",
-    "publishedAt": "2026-11-25T00:10:02.000Z"
-  },
-  {
-    "id": "b9a6c473148d4607",
-    "title": "Households braced for soaring energy bills with new price cap to be announced",
-    "summary": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
-    "publishedAt": "2026-11-25T00:03:37.000Z"
-  },
-  {
-    "id": "e34c172951d9f674",
-    "title": "Latest review of Met police culture finds little has changed since last one",
-    "summary": "Failure to implement previous reports means institutional racism, misogyny and homophobia still present in force.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/25/latest-review-of-met-police-culture-finds-little-has-changed-since-last-one",
-    "publishedAt": "2026-11-25T00:01:02.000Z"
-  },
-  {
-    "id": "b319a6cc7b567d33",
-    "title": "UK to launch world’s first licensing scheme for knife sales",
-    "summary": "Exclusive: Measures aimed at tackling grey market sellers known to sell dangerous knives to children.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme",
-    "publishedAt": "2026-11-25T00:01:01.000Z"
-  },
-  {
-    "id": "075b5e76de36e985",
-    "title": "England has largest frailty gap out of 31 countries, study finds",
-    "summary": "People from lowest socioeconomic group in all countries studied had higher frailty scores than those in highest socioeconomic group.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/25/england-has-largest-frailty-gap-out-of-31-countries-study-finds",
-    "publishedAt": "2026-11-25T00:01:01.000Z"
-  },
-  {
-    "id": "c02cbb723302ec0a",
-    "title": "Coastal areas in England at risk of erosion to receive £11m in new funding",
-    "summary": "Exclusive: Laser-equipped drone surveys and road relocations among schemes to get government support.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/25/coastal-areas-england-at-risk-erosion-11m-funding-drones-ea",
-    "publishedAt": "2026-11-25T00:01:01.000Z"
   }
 ]
