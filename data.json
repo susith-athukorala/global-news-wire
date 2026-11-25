@@ -1,5 +1,95 @@
 [
   {
+    "id": "b9a6c473148d4607",
+    "title": "Households braced for soaring energy bills with new price cap to be announced",
+    "summary": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
+    "publishedAt": "2026-11-25T00:03:37.000Z"
+  },
+  {
+    "id": "e34c172951d9f674",
+    "title": "Latest review of Met police culture finds little has changed since last one",
+    "summary": "Failure to implement previous reports means institutional racism, misogyny and homophobia still present in force.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/25/latest-review-of-met-police-culture-finds-little-has-changed-since-last-one",
+    "publishedAt": "2026-11-25T00:01:02.000Z"
+  },
+  {
+    "id": "b319a6cc7b567d33",
+    "title": "UK to launch world’s first licensing scheme for knife sales",
+    "summary": "Exclusive: Measures aimed at tackling grey market sellers known to sell dangerous knives to children.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme",
+    "publishedAt": "2026-11-25T00:01:01.000Z"
+  },
+  {
+    "id": "075b5e76de36e985",
+    "title": "England has largest frailty gap out of 31 countries, study finds",
+    "summary": "People from lowest socioeconomic group in all countries studied had higher frailty scores than those in highest socioeconomic group.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/25/england-has-largest-frailty-gap-out-of-31-countries-study-finds",
+    "publishedAt": "2026-11-25T00:01:01.000Z"
+  },
+  {
+    "id": "c02cbb723302ec0a",
+    "title": "Coastal areas in England at risk of erosion to receive £11m in new funding",
+    "summary": "Exclusive: Laser-equipped drone surveys and road relocations among schemes to get government support.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/25/coastal-areas-england-at-risk-erosion-11m-funding-drones-ea",
+    "publishedAt": "2026-11-25T00:01:01.000Z"
+  },
+  {
+    "id": "10e235271d91c07c",
+    "title": "Metropolitan police still institutionally racist and misogynist, says report",
+    "summary": "Independent review finds force has ‘fundamental systemic issues’ three years after damning report on Sarah Everard murder.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/25/metropolitan-police-institutionally-racist-misogynist-fairfield-report",
+    "publishedAt": "2026-11-25T00:01:01.000Z"
+  },
+  {
+    "id": "ed632e0b8edc4da1",
+    "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
+    "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
+    "publishedAt": "2026-11-24T23:50:31.000Z"
+  },
+  {
+    "id": "ffd99e93193af240",
+    "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+    "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+    "publishedAt": "2026-11-24T23:39:13.000Z"
+  },
+  {
+    "id": "4927bc37e55462b1",
+    "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
+    "summary": "More young people in Britain have never had sex, but many are sexting and watching porn.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo",
+    "publishedAt": "2026-11-24T23:38:39.000Z"
+  },
+  {
+    "id": "bfafb17d5c854a91",
+    "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+    "summary": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+    "publishedAt": "2026-11-24T23:29:40.000Z"
+  },
+  {
     "id": "823956b5b8723ce7",
     "title": "Fort Hood survivors denied bid to witness shooter’s firing-squad execution",
     "summary": "Army says trio injured in 2009 attack were not direct victims of Nidal Hasan’s and thus cannot attend event.",
@@ -457,6 +547,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
     "publishedAt": "2026-11-24T18:00:24.000Z"
+  },
+  {
+    "id": "9eb0da403ba4492d",
+    "title": "Land values are often overlooked, but experts now want that data back",
+    "summary": "The ABS has stopped publishing land values, but the cancellation may be short-lived after a pushback from policy experts.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-25/abs-stops-publishing-land-values-receives-pushback/107417134",
+    "publishedAt": "2026-11-24T18:00:00.000Z"
   },
   {
     "id": "3136d25333402d9e",
@@ -1249,104 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/24/first-thing-trump-appears-to-make-millions-from-nvidia-intervention-over-huang",
     "publishedAt": "2026-11-24T12:14:52.000Z"
-  },
-  {
-    "id": "6b3185ece1ce07f9",
-    "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-    "summary": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o",
-    "publishedAt": "2026-11-24T12:12:48.000Z"
-  },
-  {
-    "id": "a64217797322f4ae",
-    "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
-    "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
-    "publishedAt": "2026-11-24T12:12:25.000Z"
-  },
-  {
-    "id": "41ad518298fa2de9",
-    "title": "Badger cull ruled out by Welsh government after speculation",
-    "summary": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo",
-    "publishedAt": "2026-11-24T12:01:32.000Z"
-  },
-  {
-    "id": "b8fed400bc9e8359",
-    "title": "California king tides threaten Thanksgiving travel as coastal flooding looms",
-    "summary": "Seasonal high tides and rising ocean levels can disrupt flights and flood roads, with the San Francisco Bay Area facing some of the greatest risks.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
-    "publishedAt": "2026-11-24T12:00:46.000Z"
-  },
-  {
-    "id": "ff5d3f981c6bf900",
-    "title": "History-making Democratic senator backs filibuster reform to make good on midterm pledges",
-    "summary": "Juliana Stratton eager to work with Republicans who ‘have a real spine’ to stand up to Trump and deliver for voters.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/24/democrats-senate-juliana-stratton",
-    "publishedAt": "2026-11-24T12:00:46.000Z"
-  },
-  {
-    "id": "520e7005bc640698",
-    "title": "‘It was a cover-up’: HarperCollins accused of using lawyers to shut down concerns about David Walliams",
-    "summary": "Women who spoke to internal investigation about inappropriate behaviour by Walliams still too scared to speak out.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/24/it-was-a-cover-up-harpercollins-accused-of-using-lawyers-to-shut-down-concerns-about-david-walliams",
-    "publishedAt": "2026-11-24T12:00:45.000Z"
-  },
-  {
-    "id": "54854de9beb8e75e",
-    "title": "Their loss changed Appalachian forests for ever. Now the American chestnut is back",
-    "summary": "The trees have been functionally extinct in the US for nearly a century. But new techniques are creating plants resistant to the parasitic blight that almost wiped them out.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/24/american-chestnut-tree-restored-science-persistence-aoe",
-    "publishedAt": "2026-11-24T12:00:44.000Z"
-  },
-  {
-    "id": "199393440e274bc9",
-    "title": "Car bomb tears through Colombian city wounding more than 20",
-    "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do",
-    "publishedAt": "2026-11-24T11:45:52.000Z"
-  },
-  {
-    "id": "6abac7fc26e28ea5",
-    "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
-    "summary": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/weather/articles/c5742nplemnno",
-    "publishedAt": "2026-11-24T11:40:46.000Z"
-  },
-  {
-    "id": "1a38dc4ef5717d7f",
-    "title": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
-    "summary": "Despite quadrupling its hasbara budget, Israel is losing American hearts and minds, and its PR may be making it worse.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/the-eighth-front-why-israels-influence-war-in-the-us-is-failing?traffic_source=rss",
-    "publishedAt": "2026-11-24T11:30:07.000Z"
-  },
-  {
-    "id": "390d4216fb74f172",
-    "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
-    "summary": "Ukraine is stepping up 'long-range sanctions' attacks on Russian vessels far beyond the battlefield.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss",
-    "publishedAt": "2026-11-24T11:27:35.000Z"
   }
 ]
