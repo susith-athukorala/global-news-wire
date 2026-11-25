@@ -1,5 +1,77 @@
 [
   {
+    "id": "3779a723457afd5c",
+    "title": "Mushroom supplements promise health benefits. What does the science say?",
+    "summary": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Research suggests there are some links.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/25/nx-s1-6047791-e1/mushroom-supplements-promise-health-benefits-what-does-the-science-say",
+    "publishedAt": "2026-11-25T21:11:21.000Z"
+  },
+  {
+    "id": "3ce30d6978490601",
+    "title": "US Education Department probes Virginia schools after sexual abuse scandal",
+    "summary": "Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
+    "publishedAt": "2026-11-25T20:52:32.000Z"
+  },
+  {
+    "id": "acaedfcf25bdc422",
+    "title": "Liberal senator Leah Blyth announces defection to One Nation",
+    "summary": "South Australian senator labels One Nation the ‘only party with the bold ideas needed to turn this country around’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
+    "publishedAt": "2026-11-25T20:50:15.000Z"
+  },
+  {
+    "id": "54114c7954a85937",
+    "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
+    "summary": "The judges' recommendations came as Israel's longest-serving prime minister fights for his political survival.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
+    "publishedAt": "2026-11-25T20:29:22.000Z"
+  },
+  {
+    "id": "f6feaf7d8936210f",
+    "title": "Judge orders transfer of Thomas Markle to face formal charges in California",
+    "summary": "Father of the Duchess of Sussex currently being held in Florida is charged with possession of child pornography.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/25/thomas-markle-transfer-charges-california",
+    "publishedAt": "2026-11-25T20:06:57.000Z"
+  },
+  {
+    "id": "c7ef44b23ded65e0",
+    "title": "Oregon man and dog narrowly escape being swept away by high tides as officials urge caution at beaches",
+    "summary": "Record-breaking king tides have prompted west coast authorities to warn residents to stay away from beaches.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/25/oregon-man-dog-escape-waves-king-tides",
+    "publishedAt": "2026-11-25T20:03:53.000Z"
+  },
+  {
+    "id": "1702a56181d8a296",
+    "title": "Which gaming headsets are worth the cost? I put 20 to the test – here are the best for 2026",
+    "summary": "Wired, wireless, noise cancelling and budget … here are the headphones to level up your PC and console gaming.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2026/nov/25/best-gaming-headsets-tested-uk",
+    "publishedAt": "2026-11-25T20:00:35.000Z"
+  },
+  {
+    "id": "97f9ecae41cf6c80",
+    "title": "High levels of salmonella found in some products from nation’s biggest turkey producer",
+    "summary": "Two years of inspections at four Butterball plants show rates far exceeding US averages in ground or chopped meat.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/25/turkey-salmonella-butterball",
+    "publishedAt": "2026-11-25T20:00:34.000Z"
+  },
+  {
     "id": "f990c346c428e4fb",
     "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
     "summary": "Chip Wilson said men importing brides from Thailand was due to women waiting too long to have children.",
@@ -657,6 +729,15 @@
     "publishedAt": "2026-11-25T14:00:28.000Z"
   },
   {
+    "id": "b65adb33db6dd899",
+    "title": "Trump unveils suite of new tariffs on major trading partners",
+    "summary": "Goods from China, Brazil, the EU and Vietnam are all set to be taxed higher as Donald Trump doubles down on his tariff policies after a midterms drubbing.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-26/trump-new-tariffs-major-trading-partners/107425504",
+    "publishedAt": "2026-11-25T13:59:09.000Z"
+  },
+  {
     "id": "a61ab511a42dd98e",
     "title": "Annual US consumer price inflation hits 3.8% – highest level since May",
     "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting.",
@@ -1062,6 +1143,15 @@
     "publishedAt": "2026-11-25T11:08:32.000Z"
   },
   {
+    "id": "ddfbbda4992cc7d7",
+    "title": "29 miners believed trapped by flooding in an unauthorized gold mine in Indonesia",
+    "summary": "Rescuers recovered three bodies Wednesday and searched for 23 other miners believed trapped in a flooded illegal gold mine in Indonesia’s West Java province.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/29-miners-believed-trapped-flooding-unauthorized-gold-mine-138433064",
+    "publishedAt": "2026-11-25T11:06:14.000Z"
+  },
+  {
     "id": "8cfe7c56b51275df",
     "title": "Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list",
     "summary": "Eleven Bangladeshi players have entered their names for the auction, a year after Mustafiz's expulsion from the league.",
@@ -1258,95 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo",
     "publishedAt": "2026-11-25T09:54:32.000Z"
-  },
-  {
-    "id": "fa0d316e6b397a99",
-    "title": "Spain's economy has grown under Sánchez, but many voters aren't feeling it. 5 charts explain why",
-    "summary": "Spain's economy is growing faster than most of Europe, but many Spaniards are struggling with high living costs.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/spains-economy-grown-snchez-voters-feeling-5-charts-138431840",
-    "publishedAt": "2026-11-25T09:54:21.000Z"
-  },
-  {
-    "id": "4e85b765ac0b2509",
-    "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
-    "summary": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-    "publishedAt": "2026-11-25T09:44:13.000Z"
-  },
-  {
-    "id": "fec089386af65c2b",
-    "title": "M&G boss urges UK to stem flood of firms leaving London Stock Exchange after Compass exit",
-    "summary": "Warning comes after £46bn school and NHS caterer decides to moves main listing to New York, the latest in a long line of departures.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/25/m-and-g-boss-urges-uk-stem-firms-leaving-lse-compass-exit",
-    "publishedAt": "2026-11-25T09:25:12.000Z"
-  },
-  {
-    "id": "0f7af8237d936828",
-    "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-    "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o",
-    "publishedAt": "2026-11-25T09:06:02.000Z"
-  },
-  {
-    "id": "6ee0a647046083b6",
-    "title": "Energy bills will soar - here's how you can ease the pain",
-    "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
-    "publishedAt": "2026-11-25T09:05:41.000Z"
-  },
-  {
-    "id": "a8a8b7584b71967e",
-    "title": "Large bushfire threatens homes and properties on remote island off Tasmania",
-    "summary": "Blaze spreads significantly across the north of Flinders Island after being started by lightning strikes.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
-    "publishedAt": "2026-11-25T09:04:13.000Z"
-  },
-  {
-    "id": "3a7c30387a783375",
-    "title": "Sporting Lisbon vs Manchester United: Champions League – teams, prediction",
-    "summary": "Man United look to bounce back from defeat in Mauricio Pochettino's first game in charge, as they travel to Lisbon.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/25/sporting-lisbon-vs-manchester-united-champions-league-teams-prediction?traffic_source=rss",
-    "publishedAt": "2026-11-25T09:04:03.000Z"
-  },
-  {
-    "id": "ea9ec3a9a243f3b9",
-    "title": "Rising prices push families to the brink in Yemen’s Hodeidah",
-    "summary": "Renewed fighting, rising fuel costs and shrinking incomes deepen the struggle to survive in the Houthi-controlled city.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss",
-    "publishedAt": "2026-11-25T09:00:53.000Z"
-  },
-  {
-    "id": "fa5bfa10240bf71e",
-    "title": "Galatasaray defy Israel’s complaint to UEFA over pro-Palestine banners",
-    "summary": "The football club’s president said UEFA had made them aware of a complaint by Israel regarding pro-Palestinian banners.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/25/galatasaray-defy-israels-complaint-to-uefa-over-pro-palestine-banners?traffic_source=rss",
-    "publishedAt": "2026-11-25T08:53:30.000Z"
-  },
-  {
-    "id": "51474f06b50acc6b",
-    "title": "All hostages freed after Colombian security forces storm supermarket, says president",
-    "summary": "Operation in which one captor was killed brings to an end day-long siege in which 30 hostages were initially held.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
-    "publishedAt": "2026-11-25T08:31:48.000Z"
   }
 ]
