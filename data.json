@@ -1,5 +1,68 @@
 [
   {
+    "id": "481281d72147e636",
+    "title": "EA adds AI-generated John Motson to FC 27 video game",
+    "summary": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c65y10j841jpo",
+    "publishedAt": "2026-11-25T10:11:34.000Z"
+  },
+  {
+    "id": "24a8fc92f62bf60f",
+    "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+    "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo",
+    "publishedAt": "2026-11-25T10:03:12.000Z"
+  },
+  {
+    "id": "cfe6bd3f241705da",
+    "title": "Buying new things feels wonderful. But it can also be a trap",
+    "summary": "Constantly buying new things can be problematic, says journalist Eric Athas, author of the new book \"Saying No to New.\" Here's how to break the cycle and find joy in what you already have.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle",
+    "publishedAt": "2026-11-25T10:02:00.000Z"
+  },
+  {
+    "id": "8191a7916953d3db",
+    "title": "Iowa town shelters in place as army prepares to detonate entire US stockpile of lead azide",
+    "summary": "Controlled blast to proceed after multiple delays and outpouring of concern about potential health and environmental effects.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
+    "publishedAt": "2026-11-25T10:00:12.000Z"
+  },
+  {
+    "id": "d2926690090ae3cc",
+    "title": "‘A godsend’: the best hair straighteners in the UK for foolproof styling",
+    "summary": "Whether you want cordless designs or a budget buy, we’ve tested the top hair straighteners for every hair type.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2025/mar/18/best-hair-straighteners",
+    "publishedAt": "2026-11-25T10:00:03.000Z"
+  },
+  {
+    "id": "4e85b765ac0b2509",
+    "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+    "summary": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
+    "publishedAt": "2026-11-25T09:44:13.000Z"
+  },
+  {
+    "id": "fec089386af65c2b",
+    "title": "M&G boss urges UK to stem flood of firms leaving London Stock Exchange after Compass exit",
+    "summary": "Warning comes after £46bn school and NHS caterer decides to moves main listing to New York, the latest in a long line of departures.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/25/m-and-g-boss-urges-uk-stem-firms-leaving-lse-compass-exit",
+    "publishedAt": "2026-11-25T09:25:12.000Z"
+  },
+  {
     "id": "6ee0a647046083b6",
     "title": "Energy bills will soar - here's how you can ease the pain",
     "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
@@ -234,6 +297,15 @@
     "publishedAt": "2026-11-25T06:05:11.000Z"
   },
   {
+    "id": "b85262f13ae75d6d",
+    "title": "Dolphins with active social lives and big friendship groups live longer, Australian researchers discover",
+    "summary": "Decades of data collected at WA’s Shark Bay shows level of socialising may affect longevity for Indo-Pacific bottlenose dolphins.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer",
+    "publishedAt": "2026-11-25T06:02:05.000Z"
+  },
+  {
     "id": "9bbbfbfffe6f3728",
     "title": "Bangladesh raises minimum wage for garment workers after weeks of protests",
     "summary": "A government-formed wage board in Bangladesh has raised the minimum monthly wage for entry-level garment workers by 36% to 17,000 takas, or $136, from 12,500 takas after weeks of violent protests.",
@@ -349,6 +421,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
     "publishedAt": "2026-11-25T03:54:43.000Z"
+  },
+  {
+    "id": "75a2a86afd27d1c4",
+    "title": "US attorney general dodges questions about Nvidia investigation",
+    "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
+    "publishedAt": "2026-11-25T03:44:07.000Z"
   },
   {
     "id": "eb05735b76769cca",
@@ -1008,6 +1089,15 @@
     "publishedAt": "2026-11-24T20:05:09.000Z"
   },
   {
+    "id": "11c408099a56a27a",
+    "title": "Looking for a new laptop? The best Black Friday laptop deals in the UK, from Macbooks to budget Windows",
+    "summary": "With RAM prices climbing, now is the perfect time to nab a discount. Here are the best so far on Acer, Chromebooks, gaming laptops and more.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2026/nov/24/best-black-friday-laptop-deals-uk",
+    "publishedAt": "2026-11-24T20:00:54.000Z"
+  },
+  {
     "id": "dbc2d0b7784f5010",
     "title": "Hundreds of thousands could lose disability benefits under Timms plans for Pip shake-up",
     "summary": "Minister’s review says Pip system no longer fit for purpose and recommends new test for who is allowed to claim.",
@@ -1258,95 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo",
     "publishedAt": "2026-11-24T18:07:46.000Z"
-  },
-  {
-    "id": "822010554ec367e8",
-    "title": "Israel attempts to jail Palestinian student at Hebrew University without trial",
-    "summary": "Mahdi Tounsi appeared to have suffered maltreatment at hearing where he was not allowed to hear prosecution case against him.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/24/israel-jail-palestinian-student-mahdi-tounsi-hebrew-university-without-trial",
-    "publishedAt": "2026-11-24T18:02:53.000Z"
-  },
-  {
-    "id": "e298585cdf4bbaf9",
-    "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
-    "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
-    "publishedAt": "2026-11-24T18:00:24.000Z"
-  },
-  {
-    "id": "9eb0da403ba4492d",
-    "title": "Land values are often overlooked, but experts now want that data back",
-    "summary": "The ABS has stopped publishing land values, but the cancellation may be short-lived after a pushback from policy experts.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-25/abs-stops-publishing-land-values-receives-pushback/107417134",
-    "publishedAt": "2026-11-24T18:00:00.000Z"
-  },
-  {
-    "id": "3136d25333402d9e",
-    "title": "Rise of the celebrity CEO raises questions about corporate governance",
-    "summary": "Jensen Huang received a hero's welcome back at Nvidia. But what happens when one of the world's most valuable companies becomes too reliant on one person?",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-25/the-rise-of-the-celebrity-ceo/107420760",
-    "publishedAt": "2026-11-24T18:00:00.000Z"
-  },
-  {
-    "id": "5475ad27c2a9ba6b",
-    "title": "Where $24k can buy you a new home",
-    "summary": "Property hunters went well off the beaten track, to a small town in Western Australia's Wheatbelt, to snap up a bargain.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-25/cheap-housing-in-dalwallinu-buntine-wa/107412468",
-    "publishedAt": "2026-11-24T18:00:00.000Z"
-  },
-  {
-    "id": "14815130be7ddd28",
-    "title": "Democrats demand records as investigation into Trump Jr’s investment firm widens",
-    "summary": "Four firms linked to 1789 Capital asked to cooperate as Jamie Raskin leads inquiry into possible insider dealing.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-jr-investigations-investments",
-    "publishedAt": "2026-11-24T17:45:36.000Z"
-  },
-  {
-    "id": "97c45c771c65cc65",
-    "title": "Cameroon separatist leader pleads not guilty at war crimes trial in Norway",
-    "summary": "Lucas Cho Ayaba is accused of remotely planning attacks that killed and injured dozens of civilians.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/cameroon-separatist-leader-pleads-not-guilty-in-war-crimes-trial?traffic_source=rss",
-    "publishedAt": "2026-11-24T17:39:18.000Z"
-  },
-  {
-    "id": "4615c8c5c51d94da",
-    "title": "US sanctions on Lebanon’s Hezbollah-affiliates may have limited impact",
-    "summary": "Analysts say US sanctions unlikely to weaken Hezbollah significantly, but risk hurting everyday Lebanese.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/us-sanctions-on-lebanons-hezbollah-affiliates-may-have-limited-impact?traffic_source=rss",
-    "publishedAt": "2026-11-24T17:25:57.000Z"
-  },
-  {
-    "id": "5a7f4096127d26e1",
-    "title": "Standard owner Lord Lebedev cuts £5m off price of London mansion",
-    "summary": "Son of a Russian billionaire cuts cost of Stud House in Hampton Court estate from £25m to £19.85m.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/24/lord-lebedev-cuts-price-london-mansion-cost",
-    "publishedAt": "2026-11-24T17:21:23.000Z"
-  },
-  {
-    "id": "85992c25e4541c6a",
-    "title": "Compass’s logic for US listing is flimsy but UK ministers need to wake up to Footsie flight risk | Nils Pratley",
-    "summary": "The contract caterer switching to New York is a big hit to the London Stock Exchange but what is being done to discourage others from delisting?",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/24/compass-logic-new-york-listing-flimsy",
-    "publishedAt": "2026-11-24T17:15:19.000Z"
   }
 ]
