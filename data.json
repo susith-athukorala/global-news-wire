@@ -1,5 +1,113 @@
 [
   {
+    "id": "4bd932e8b57a5b83",
+    "title": "Will there be a White Christmas this year?",
+    "summary": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo",
+    "publishedAt": "2026-11-25T01:03:24.000Z"
+  },
+  {
+    "id": "4544e3a26ae51dfd",
+    "title": "The rising cost of putting food on the table in India",
+    "summary": "India's food inflation is broadening, squeezing household budgets.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o",
+    "publishedAt": "2026-11-25T01:02:13.000Z"
+  },
+  {
+    "id": "381ac6ba3a8c5660",
+    "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
+    "summary": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
+    "publishedAt": "2026-11-25T01:01:19.000Z"
+  },
+  {
+    "id": "494939b7d9505bf7",
+    "title": "Middle-aged women in England least likely to successfully quit smoking, study finds",
+    "summary": "Of nearly 8,000 women who tried to stop, only 18% of those aged 45 to 60 managed to give up.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/25/middle-aged-women-quit-smoking-england-study",
+    "publishedAt": "2026-11-25T01:00:01.000Z"
+  },
+  {
+    "id": "dad1a10a86cc9ab4",
+    "title": "One lame duck and two turkeys as Trump plays the hits at pardon ceremony",
+    "summary": "Levity was in short supply as president, reeling from midterms rout, talked up his achievements – and fixated on White House vanity project.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon",
+    "publishedAt": "2026-11-25T00:56:48.000Z"
+  },
+  {
+    "id": "b74d337193cece0a",
+    "title": "Inflation rate jumps to 4.9% as Australia’s cost-of-living crisis intensifies",
+    "summary": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5%.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
+    "publishedAt": "2026-11-25T00:56:44.000Z"
+  },
+  {
+    "id": "16ca106309111db4",
+    "title": "Inflation rises more than expected to 4.9pc in year to October",
+    "summary": "The consumer price index has come in hotter than expected and underlying inflation has also risen.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-25/abs-october-cpi-inflation-rises-year-/107424668",
+    "publishedAt": "2026-11-25T00:42:21.000Z"
+  },
+  {
+    "id": "738443e67a1f4864",
+    "title": "US preparing to unveil new tariffs on global trading partners",
+    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+    "publishedAt": "2026-11-25T00:38:01.000Z"
+  },
+  {
+    "id": "d9b574b1060964c7",
+    "title": "Why tiny cars are taking off across Europe",
+    "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo",
+    "publishedAt": "2026-11-25T00:34:05.000Z"
+  },
+  {
+    "id": "2ac0110630ec60f5",
+    "title": "What will the energy cap changes mean for my bills?",
+    "summary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo",
+    "publishedAt": "2026-11-25T00:33:25.000Z"
+  },
+  {
+    "id": "6b56e7b683ad6a86",
+    "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+    "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o",
+    "publishedAt": "2026-11-25T00:30:52.000Z"
+  },
+  {
+    "id": "824425c6be8cf40f",
+    "title": "Alaska ends deal to give voter records to US Justice Department",
+    "summary": "The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
+    "publishedAt": "2026-11-25T00:28:28.000Z"
+  },
+  {
     "id": "b9a6c473148d4607",
     "title": "Households braced for soaring energy bills with new price cap to be announced",
     "summary": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
@@ -88,6 +196,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
     "publishedAt": "2026-11-24T23:29:40.000Z"
+  },
+  {
+    "id": "b8fed400bc9e8359",
+    "title": "California ‘king tides’ stress test San Francisco as low-lying areas flood",
+    "summary": "Monthly tide records were set across the city, with some expected to hit even higher tomorrow.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
+    "publishedAt": "2026-11-24T23:20:24.000Z"
   },
   {
     "id": "823956b5b8723ce7",
@@ -675,6 +792,15 @@
     "publishedAt": "2026-11-24T16:49:07.000Z"
   },
   {
+    "id": "41ad518298fa2de9",
+    "title": "Badger cull ruled out by Welsh government after speculation",
+    "summary": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo",
+    "publishedAt": "2026-11-24T16:47:05.000Z"
+  },
+  {
     "id": "3a32bad200767873",
     "title": "You Can See Everything’s chaotic battle for the narrative about Elizabeth Holmes",
     "summary": "In Nathan Fielder’s new documentary, the protagonists and film-makers battle over who is the hero and who is the villain. It’s a fascinating insight into modern celebrity promotion.",
@@ -853,6 +979,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/24/two-arrested-after-suspected-burglary-prince-princess-of-wales-sandringham",
     "publishedAt": "2026-11-24T15:43:25.000Z"
+  },
+  {
+    "id": "6b3185ece1ce07f9",
+    "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+    "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o",
+    "publishedAt": "2026-11-24T15:35:53.000Z"
   },
   {
     "id": "76df5800ff14055a",
@@ -1213,140 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/24/heat-deaths-reach-record-high-in-uk-in-2026?traffic_source=rss",
     "publishedAt": "2026-11-24T13:11:25.000Z"
-  },
-  {
-    "id": "c7afb1d0c1834fb6",
-    "title": "Adelaide overtakes Sydney as least affordable capital city for housing",
-    "summary": "First home buyers may be cheering property price falls, but higher borrowing costs are crimping their purchasing power.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-25/housing-market-downturn-fails-to-deliver-relief-for-buyers/107422726",
-    "publishedAt": "2026-11-24T13:08:42.000Z"
-  },
-  {
-    "id": "193311ccb0ab957c",
-    "title": "World Cup drove profits surge, says Marston's",
-    "summary": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo",
-    "publishedAt": "2026-11-24T13:03:20.000Z"
-  },
-  {
-    "id": "7748b52c7319b706",
-    "title": "Justice system failing crime victims ‘at every point’, UK ministers told",
-    "summary": "Without reform there will soon be ‘no point’ in the public reporting crimes to the police, says victims’ commissioner for England and Wales.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/law/2026/nov/24/justice-system-failing-victims-at-every-point-uk-ministers-told",
-    "publishedAt": "2026-11-24T13:02:12.000Z"
-  },
-  {
-    "id": "cd351f3a4c7ea6ff",
-    "title": "BBC’s preschool shows to be made available in CBeebies hub on Netflix",
-    "summary": "Teletubbies, Numberblocks and Hey Duggee among 24 shows to be trialled on world’s biggest streaming service.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/24/bbc-preschool-shows-cbeebies-hub-netflix",
-    "publishedAt": "2026-11-24T13:00:47.000Z"
-  },
-  {
-    "id": "e106444c633e75e0",
-    "title": "GTA VI’s jaw-dropping success: in figures",
-    "summary": "Content creators have produced hundreds of millions of hours of video game since its launch.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/24/gta-vi-streaming-numbers-charts",
-    "publishedAt": "2026-11-24T13:00:46.000Z"
-  },
-  {
-    "id": "a9daeee7fdc1d0e6",
-    "title": "Nurses vote for industrial action over pay",
-    "summary": "Nurses will take continuous action short of strike from 3 December - such action includes working to rule and a ban on overtime.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crn4kqk07d9ko",
-    "publishedAt": "2026-11-24T12:58:28.000Z"
-  },
-  {
-    "id": "7492408df9a25918",
-    "title": "Iran files lawsuits in US, EU courts: Will it get justice for ‘war crimes’?",
-    "summary": "As Iran seeks accountability and compensation for alleged war crimes, experts say legal proceedings face steep hurdles.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/24/irans-fight-for-wartime-redress-moves-from-battlefield-to-us-eu-courts?traffic_source=rss",
-    "publishedAt": "2026-11-24T12:56:29.000Z"
-  },
-  {
-    "id": "b699081c766eea05",
-    "title": "UK sanctions Yemen’s Houthi group and four of its top officials",
-    "summary": "Group must be held accountable for 'targeting our partners and innocent civilians', says Foreign Secretary Ed Miliband.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/uk-sanctions-yemens-houthi-group-four-senior-officials?traffic_source=rss",
-    "publishedAt": "2026-11-24T12:55:55.000Z"
-  },
-  {
-    "id": "59835988688e844d",
-    "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
-    "summary": "The Chinese Communist Party is investigating Chen Jining, the CCP's secretary in Shanghai, in connection with violating party discipline, state broadcaster CCTV reported.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/china-investigates-politburo-member-shanghai-party-chief-chen-138407145",
-    "publishedAt": "2026-11-24T12:53:11.000Z"
-  },
-  {
-    "id": "96c43c3af6aee827",
-    "title": "‘We’ll keep sinking Russian ships’: Ukraine challenges Putin’s global reach",
-    "summary": "Ukraine's strike off Libya signals Kyiv's ability to challenge Russian influence beyond the front lines, analysts say.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/can-ukraine-disrupt-russias-operations-in-africa?traffic_source=rss",
-    "publishedAt": "2026-11-24T12:47:23.000Z"
-  },
-  {
-    "id": "cd565fb56edad974",
-    "title": "Russian governor detained in rare criminal case against regional leader",
-    "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo",
-    "publishedAt": "2026-11-24T12:45:43.000Z"
-  },
-  {
-    "id": "90c76328a75001b9",
-    "title": "Summer heat deaths in 2026 reached record high of 5,258 in England",
-    "summary": "Figure for May to September is far higher than previous peak of 2,985 since records began a decade ago.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/24/summer-heat-deaths-record-high-england",
-    "publishedAt": "2026-11-24T12:39:50.000Z"
-  },
-  {
-    "id": "4c704aa4a688ac4a",
-    "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
-    "summary": "Exclusive: Ada Colau hopes public anger over housing will transfer into support for her Broad Front coalition in Sunday’s vote.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/24/spain-election-ada-colau-broad-front-far-right",
-    "publishedAt": "2026-11-24T12:22:04.000Z"
-  },
-  {
-    "id": "09df1e659c85e5e7",
-    "title": "China walks ‘thin line’ in push to prevent another Horn of Africa war",
-    "summary": "Beijing has escalated diplomatic efforts to ease tensions involving Egypt, Ethiopia, Eritrea and Djibouti.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/china-walks-thin-line-in-push-to-prevent-another-horn-of-africa-war?traffic_source=rss",
-    "publishedAt": "2026-11-24T12:18:44.000Z"
-  },
-  {
-    "id": "1b64d8db79098f9b",
-    "title": "First Thing: Trump appears to make millions from Nvidia intervention over Huang",
-    "summary": "US president holds significant stock in AI company whose value soared after Jensen Huang was reinstated as CEO. Plus, why GTA shouldn’t, and won’t be adapted for streaming.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/24/first-thing-trump-appears-to-make-millions-from-nvidia-intervention-over-huang",
-    "publishedAt": "2026-11-24T12:14:52.000Z"
   }
 ]
