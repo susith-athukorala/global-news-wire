@@ -1,5 +1,104 @@
 [
   {
+    "id": "e660fb54fcc7259b",
+    "title": "'I use a bowl to wash myself and I'm £400 in debt - energy price rise scares me'",
+    "summary": "A woman already in energy debt says her anxiety is \"through the roof\" over further cost increases.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmly7q7zk77po",
+    "publishedAt": "2026-11-25T12:05:29.000Z"
+  },
+  {
+    "id": "81d34006bcd54736",
+    "title": "UK embassy in Japan warns of rise in drink spiking and credit card fraud at Tokyo bars",
+    "summary": "Social media campaign fronted by British rapper Shao Dow advises tourists not to let their guard down.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/25/british-embassy-tokyo-warning-tourists-drink-spiking-credit-card-fraud",
+    "publishedAt": "2026-11-25T11:59:22.000Z"
+  },
+  {
+    "id": "c316a2a9b7360218",
+    "title": "Overnight RSF drone attacks kill 19 in Sudan",
+    "summary": "The attacks also injured at least 20 people – the latest casualties in a drone war that is quickly escalating.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
+    "publishedAt": "2026-11-25T11:58:15.000Z"
+  },
+  {
+    "id": "e2df78af3b24f9a6",
+    "title": "Ex England star Sterling given suspended sentence for dangerous driving",
+    "summary": "Raheem Sterling admitted inhaling 'laughing ⁠gas' and driving erratically before ​crashing his car.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/25/ex-england-star-sterling-given-suspended-sentence-for-dangerous-driving?traffic_source=rss",
+    "publishedAt": "2026-11-25T11:50:52.000Z"
+  },
+  {
+    "id": "deb1e2e2b6780c17",
+    "title": "Energy bills jump: how to switch providers and is it worth it?",
+    "summary": "It is possible to switch to a better tariff and save money despite the 26% price rise in January.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/18/energy-price-cap-rise-how-to-beat-the-january-hike",
+    "publishedAt": "2026-11-25T11:48:01.000Z"
+  },
+  {
+    "id": "17f4f2706334140f",
+    "title": "Sinner uncertain for Australian Open after undergoing knee surgery",
+    "summary": "The five-time Grand Slam champion has not played a match since winning Wimbledon in July.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/25/sinner-uncertain-for-australian-open-after-undergoing-knee-surgery?traffic_source=rss",
+    "publishedAt": "2026-11-25T11:42:02.000Z"
+  },
+  {
+    "id": "8ace7448fb5e1af9",
+    "title": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide",
+    "summary": "Raheem Sterling has avoided jail for dangerous driving while inhaling nitrous oxide, receiving a 12-month sentence suspended for 18 months at Basingstoke magistrates court on Wednesday.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
+    "publishedAt": "2026-11-25T11:34:10.000Z"
+  },
+  {
+    "id": "6662d8c355ee3f07",
+    "title": "Zidane was much better than me: Bellingham after Real Madrid wonder goal",
+    "summary": "Jude Bellingham admits he had 'no idea' what he'd done after scoring a goal that drew comparisons with Zinedine Zidane.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss",
+    "publishedAt": "2026-11-25T11:29:38.000Z"
+  },
+  {
+    "id": "ef4e7886f52fc2f4",
+    "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
+    "summary": "Kishanth Peramalya was denied entry due to sexual assault convictions and sent to Africa where he had no connections.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
+    "publishedAt": "2026-11-25T11:28:05.000Z"
+  },
+  {
+    "id": "0a71ace042b3668c",
+    "title": "Israeli strike kills Hamas official, his wife and children",
+    "summary": "The air strike hit their Gaza apartment amid escalating Israeli attacks, the Interior Ministry says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
+    "publishedAt": "2026-11-25T11:24:37.000Z"
+  },
+  {
+    "id": "a829fd4dd1875e9e",
+    "title": "Indian Cockroach movement leader asks court for permission to fly to UK",
+    "summary": "Officials at Delhi airport stopped Saurav Das from boarding flight to Britain, where students have invited him to speak.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/25/indian-cockroach-movement-leader-asks-court-for-permission-to-fly-to-uk",
+    "publishedAt": "2026-11-25T11:15:35.000Z"
+  },
+  {
     "id": "70ba594d24e0d820",
     "title": "Amnesty calls for independent war crimes probe into Ethiopian shelling in Tigray",
     "summary": "Amnesty International called for a war crimes investigation into shelling by Ethiopian troops and an allied militia in Tigray, saying it verified 14 civilian deaths in four attacks.",
@@ -592,6 +691,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
     "publishedAt": "2026-11-25T04:29:29.000Z"
+  },
+  {
+    "id": "96bc43410782dee4",
+    "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+    "summary": "Abelardo de la Espriella to take control of an operation involving scores of security personnel trying to free at least 20 hostages.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+    "publishedAt": "2026-11-25T03:57:11.000Z"
   },
   {
     "id": "a87455069b89efa4",
@@ -1240,113 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/pope-francis-private-diary-details-profound-spiritual-crisis-138401988",
     "publishedAt": "2026-11-24T20:37:53.000Z"
-  },
-  {
-    "id": "45e5917092cd490f",
-    "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
-    "summary": "Ahead of Erdogan’s Libya trip, Haftar’s visit suggests Turkiye seeks another way to bring the country's rivals together.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
-    "publishedAt": "2026-11-24T20:35:03.000Z"
-  },
-  {
-    "id": "d99a7ab7f67de2c4",
-    "title": "US Army to detonate more than 4 tonnes of lead azide in Iowa on Wednesday",
-    "summary": "Despite alarm about toxic lead, federal officials say destroying the unstable explosives is the safest course of action.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday?traffic_source=rss",
-    "publishedAt": "2026-11-24T20:28:40.000Z"
-  },
-  {
-    "id": "e7dc1b8d905ad325",
-    "title": "Democrat Victoria Broderick unseats eight-term Republican incumbent in Tennessee to win election",
-    "summary": "Victory expands Democrats’ House majority, its largest advantage in three decades.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/24/democrat-victoria-broderick-election-win-tennesee-midterms",
-    "publishedAt": "2026-11-24T20:20:24.000Z"
-  },
-  {
-    "id": "811af2b79d22167f",
-    "title": "Will I get the £100 energy payment and when will I receive it?",
-    "summary": "Here is what you need to know about the payment that millions will receive from January.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o",
-    "publishedAt": "2026-11-24T20:16:24.000Z"
-  },
-  {
-    "id": "bba4c0d44abe72e5",
-    "title": "Schumer accuses Huang of violating US export control laws amid shipments of chips to China",
-    "summary": "Senate minority leader joins lawmakers from both parties outraged over Nvidia CEO’s reinstatement.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress",
-    "publishedAt": "2026-11-24T20:05:09.000Z"
-  },
-  {
-    "id": "11c408099a56a27a",
-    "title": "Looking for a new laptop? The best Black Friday laptop deals in the UK, from Macbooks to budget Windows",
-    "summary": "With RAM prices climbing, now is the perfect time to nab a discount. Here are the best so far on Acer, Chromebooks, gaming laptops and more.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2026/nov/24/best-black-friday-laptop-deals-uk",
-    "publishedAt": "2026-11-24T20:00:54.000Z"
-  },
-  {
-    "id": "dbc2d0b7784f5010",
-    "title": "Hundreds of thousands could lose disability benefits under Timms plans for Pip shake-up",
-    "summary": "Minister’s review says Pip system no longer fit for purpose and recommends new test for who is allowed to claim.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/24/disability-benefits-timms-review-pip-personal-independence-payments",
-    "publishedAt": "2026-11-24T20:00:31.000Z"
-  },
-  {
-    "id": "9c887b791c3744d6",
-    "title": "Turkish military helicopter crash kills five in western Turkiye",
-    "summary": "The Defence Ministry did not elaborate on the cause of the crash, days after another deadly army helicopter accident.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
-    "publishedAt": "2026-11-24T19:52:21.000Z"
-  },
-  {
-    "id": "2cb7a4b8fd45d7d3",
-    "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
-    "summary": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
-    "publishedAt": "2026-11-24T19:41:16.000Z"
-  },
-  {
-    "id": "0a0f3bf5b617476f",
-    "title": "NHS trusts to be investigated over ‘repeated failures’ to admit treatment errors",
-    "summary": "Failing in their legal duty of candour adds to the distress of patients and families and damages trust, says England’s public service ombudsman.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/24/nhs-trusts-to-be-investigated-over-repeated-failures-to-admit-treatment-errors",
-    "publishedAt": "2026-11-24T19:35:30.000Z"
-  },
-  {
-    "id": "ca95e967b79f7970",
-    "title": "US army maps show projected path of toxic dust from Iowa detonation",
-    "summary": "Detonation of bomb-making chemicals set for Wednesday as residents warned to stay indoors with windows closed.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation",
-    "publishedAt": "2026-11-24T19:35:02.000Z"
-  },
-  {
-    "id": "343e99f387876202",
-    "title": "Alia Syed wins £10,000 Jarman award for ‘depth and maturity’ of her experimental films",
-    "summary": "The Welsh-Indian artist takes this year’s award, an established bellwether for future stars, for work focused on memory, migration and hidden histories.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/artanddesign/2026/nov/24/alia-syed-wins-10000-jarman-award-for-depth-and-maturity-of-her-experimental-films",
-    "publishedAt": "2026-11-24T19:30:54.000Z"
   }
 ]
