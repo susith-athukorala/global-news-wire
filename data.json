@@ -1,5 +1,122 @@
 [
   {
+    "id": "70ba594d24e0d820",
+    "title": "Amnesty calls for independent war crimes probe into Ethiopian shelling in Tigray",
+    "summary": "Amnesty International called for a war crimes investigation into shelling by Ethiopian troops and an allied militia in Tigray, saying it verified 14 civilian deaths in four attacks.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/amnesty-calls-independent-war-crimes-probe-ethiopian-shelling-138434543",
+    "publishedAt": "2026-11-25T11:08:40.000Z"
+  },
+  {
+    "id": "9e6b2c339364259b",
+    "title": "Migration to Spain's Canary Islands breaks single-day record with nearly 2,000 arrivals",
+    "summary": "Spanish authorities report nearly 2,000 migrants arrived at the Canary Islands on Tuesday, setting a record for a single day.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/migration-spains-canary-islands-breaks-single-day-record-138434894",
+    "publishedAt": "2026-11-25T11:08:35.000Z"
+  },
+  {
+    "id": "b88f594b57525e2e",
+    "title": "Pope Leo laments lack of climate commitments after UN talks end without agreement",
+    "summary": "Pope Leo XIV has expressed concern over the failure of United Nations climate talks to reach an agreement.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-leo-laments-lack-climate-commitments-after-talks-138434984",
+    "publishedAt": "2026-11-25T11:08:34.000Z"
+  },
+  {
+    "id": "f7524360c5552546",
+    "title": "Cambodia hosts Chinese military for largest Golden Dragon joint exercise yet",
+    "summary": "Cambodia and China have started joint military exercises aimed at strengthening cooperation between Beijing and its closest political partner in Southeast Asia.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/cambodia-hosts-chinese-military-largest-golden-dragon-joint-138435076",
+    "publishedAt": "2026-11-25T11:08:32.000Z"
+  },
+  {
+    "id": "8cfe7c56b51275df",
+    "title": "Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list",
+    "summary": "Eleven Bangladeshi players have entered their names for the auction, a year after Mustafiz's expulsion from the league.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/25/shakib-mustafizur-not-among-bangladeshi-players-on-2027-ipl-auction-list?traffic_source=rss",
+    "publishedAt": "2026-11-25T11:02:03.000Z"
+  },
+  {
+    "id": "cb0006e547f946c4",
+    "title": "Midterm gains by US gun control activists’ signals decline of gun lobby",
+    "summary": "More than 200 people endorsed by Everytown for Gun Safety won state and federal races in loss of dominance for NRA.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/25/midterms-democrats-gun-control-violence-prevention-movement",
+    "publishedAt": "2026-11-25T11:00:47.000Z"
+  },
+  {
+    "id": "ef344891300181ff",
+    "title": "China misusing Interpol to target dissidents, says leading UK lawyer",
+    "summary": "Concerns over Beijing’s use of ‘red notices’ as Hong Kong prepares to host police organisation’s general assembly.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/25/china-misusing-interpol-target-dissidents-uk-lawyer",
+    "publishedAt": "2026-11-25T11:00:46.000Z"
+  },
+  {
+    "id": "788faf87017693ff",
+    "title": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
+    "summary": "James ‘Fergie’ Chambers, at center of legal fight, says he ‘should not be unjustly accused’ because of leftwing views.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview",
+    "publishedAt": "2026-11-25T11:00:46.000Z"
+  },
+  {
+    "id": "6e318103f04cef64",
+    "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+    "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+    "publishedAt": "2026-11-25T11:00:00.000Z"
+  },
+  {
+    "id": "b60f8073cee75f30",
+    "title": "Two charged with burglary and trespass at Prince and Princess of Wales’s home",
+    "summary": "Mirgen Doku and Arilen Ndoci to appear before magistrates over suspected break-in at Anmer Hall in Norfolk.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/25/two-charged-burglary-trespass-prince-princess-wales-home-norfolk",
+    "publishedAt": "2026-11-25T10:51:50.000Z"
+  },
+  {
+    "id": "5dfa604e0ad6bf05",
+    "title": "Who is Chen Jining, China’s latest Politburo member under investigation?",
+    "summary": "Chen is the fourth high-ranking Politburo member to be pushed out in two years.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss",
+    "publishedAt": "2026-11-25T10:50:26.000Z"
+  },
+  {
+    "id": "7044fe44c18fed42",
+    "title": "General Synod could vote to ban C of E clergy from supporting Restore Britain",
+    "summary": "Private members’ motion comes amid concern about Christian symbols being appropriated by the far right.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/25/general-synod-ban-church-of-england-clergy-support-restore-britain",
+    "publishedAt": "2026-11-25T10:40:38.000Z"
+  },
+  {
+    "id": "ec1374253bc8a66b",
+    "title": "Could Netanyahu take Israel into another war with Iran to cling to power?",
+    "summary": "As Israeli opposition leader Eisenkot moves to form a government, could war with Iran derail talks and save Netanyahu?",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
+    "publishedAt": "2026-11-25T10:27:53.000Z"
+  },
+  {
     "id": "481281d72147e636",
     "title": "EA adds AI-generated John Motson to FC 27 video game",
     "summary": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
@@ -7,6 +124,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c65y10j841jpo",
     "publishedAt": "2026-11-25T10:11:34.000Z"
+  },
+  {
+    "id": "364e6cf11fd8e128",
+    "title": "‘We need to be seen’: Over a third of UK Muslim students face Islamophobia",
+    "summary": "From being spat on and assaulted to suffering humiliation, Muslims on campus are increasingly vulnerable, report says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/we-need-to-be-seen-over-a-third-of-uk-muslim-students-face-islamophobia?traffic_source=rss",
+    "publishedAt": "2026-11-25T10:05:24.000Z"
   },
   {
     "id": "24a8fc92f62bf60f",
@@ -27,6 +153,15 @@
     "publishedAt": "2026-11-25T10:02:00.000Z"
   },
   {
+    "id": "e47b502692a45d1b",
+    "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
+    "summary": "Iran, a major oil producer, is facing a worsening energy crisis as winter looms.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/25/iran-rations-electricity-how-deeply-are-us-sanctions-blockade-biting?traffic_source=rss",
+    "publishedAt": "2026-11-25T10:01:08.000Z"
+  },
+  {
     "id": "8191a7916953d3db",
     "title": "Iowa town shelters in place as army prepares to detonate entire US stockpile of lead azide",
     "summary": "Controlled blast to proceed after multiple delays and outpouring of concern about potential health and environmental effects.",
@@ -36,6 +171,15 @@
     "publishedAt": "2026-11-25T10:00:12.000Z"
   },
   {
+    "id": "7aac1f4843a2c40a",
+    "title": "‘Half price’ ‘Only two left’ How to resist the bargains you just don’t need – this Black Friday and beyond",
+    "summary": "Everywhere you look, there’s another unrepeatable deal at an unmissable price. What’s on offer will make you happier, smarter and sexier.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/25/half-price-only-two-left-how-to-resist-the-bargains-you-just-dont-need-this-black-friday-and-beyond",
+    "publishedAt": "2026-11-25T10:00:11.000Z"
+  },
+  {
     "id": "d2926690090ae3cc",
     "title": "‘A godsend’: the best hair straighteners in the UK for foolproof styling",
     "summary": "Whether you want cordless designs or a budget buy, we’ve tested the top hair straighteners for every hair type.",
@@ -43,6 +187,24 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/thefilter/2025/mar/18/best-hair-straighteners",
     "publishedAt": "2026-11-25T10:00:03.000Z"
+  },
+  {
+    "id": "f4b82c67ab117cdb",
+    "title": "Two Libyan soldiers die after Ukraine attack on Russian vessel",
+    "summary": "Khalifa Haftar’s Libyan National Army, which Russia backs, vowed retaliation for the death of its soldiers.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/two-libyan-soldiers-die-after-ukraine-attack-on-russian-vessel?traffic_source=rss",
+    "publishedAt": "2026-11-25T09:58:02.000Z"
+  },
+  {
+    "id": "510234d634caf753",
+    "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+    "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo",
+    "publishedAt": "2026-11-25T09:56:19.000Z"
   },
   {
     "id": "4e85b765ac0b2509",
@@ -61,6 +223,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/25/m-and-g-boss-urges-uk-stem-firms-leaving-lse-compass-exit",
     "publishedAt": "2026-11-25T09:25:12.000Z"
+  },
+  {
+    "id": "0f7af8237d936828",
+    "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+    "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o",
+    "publishedAt": "2026-11-25T09:06:02.000Z"
   },
   {
     "id": "6ee0a647046083b6",
@@ -205,6 +376,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/25/labor-greens-deal-discretionary-trust-changes-jet-fuel-subsidies-scrapped-for-private-jet-owners",
     "publishedAt": "2026-11-25T07:16:33.000Z"
+  },
+  {
+    "id": "a1fc994ab172507b",
+    "title": "Two children among six dead after plane crash off Mississippi coast",
+    "summary": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo",
+    "publishedAt": "2026-11-25T07:08:22.000Z"
   },
   {
     "id": "023af77a5953debf",
@@ -439,6 +619,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
     "publishedAt": "2026-11-25T03:31:59.000Z"
+  },
+  {
+    "id": "a27486344dcf34a6",
+    "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
+    "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno",
+    "publishedAt": "2026-11-25T03:15:12.000Z"
   },
   {
     "id": "0336fab4a0ca11e3",
@@ -945,6 +1134,15 @@
     "publishedAt": "2026-11-24T22:05:55.000Z"
   },
   {
+    "id": "e298585cdf4bbaf9",
+    "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+    "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+    "publishedAt": "2026-11-24T22:05:21.000Z"
+  },
+  {
     "id": "f0614611501e45ff",
     "title": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
     "summary": "The US attorney general refused to discuss claims by Donald Trump that his administration conducted a 'thorough' probe.",
@@ -1150,203 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/artanddesign/2026/nov/24/alia-syed-wins-10000-jarman-award-for-depth-and-maturity-of-her-experimental-films",
     "publishedAt": "2026-11-24T19:30:54.000Z"
-  },
-  {
-    "id": "b335207f99b64e53",
-    "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-    "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o",
-    "publishedAt": "2026-11-24T19:27:23.000Z"
-  },
-  {
-    "id": "7845c08131cff894",
-    "title": "Big four employees directed to 'disregard' issues identified during audit",
-    "summary": "More than 3,000 complaints were made about conduct at the big four accounting firms, including serious allegations of bullying and sexual harassment, according to a report by the corporate regulator.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-25/allegations-bullying-sexual-harassment-big-four-firms-complaints/107422694",
-    "publishedAt": "2026-11-24T19:24:07.000Z"
-  },
-  {
-    "id": "61a985d0c2e87d76",
-    "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
-    "summary": "Ukrainian attacks subsided after Trump's mid-October declaration of an energy ceasefire, but picked up again afterwards.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
-    "publishedAt": "2026-11-24T19:22:44.000Z"
-  },
-  {
-    "id": "dbb94134964567f4",
-    "title": "China Southern Airlines unit to buy 50 Boeing 737-8 planes",
-    "summary": "The agreement marks the US planemaker's first major order from China in almost a decade.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/24/china-southern-airlines-unit-to-buy-50-boeing-737-8-planes?traffic_source=rss",
-    "publishedAt": "2026-11-24T19:19:50.000Z"
-  },
-  {
-    "id": "4e594291598c919a",
-    "title": "US House counsel denies backing controversial raid on Ilhan Omar’s home",
-    "summary": "Legal counsel challenges DOJ's assertion of House's involvement in controversial raid on Ilhan Omar's home.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/us-house-counsel-denies-backing-controversial-raid-on-ilhan-omars-home?traffic_source=rss",
-    "publishedAt": "2026-11-24T19:15:25.000Z"
-  },
-  {
-    "id": "18f576d3e6843e5e",
-    "title": "Republican China hawks challenge Trump over Huang's Nvidia return",
-    "summary": "Donald Trump claims credit for Jensen Huang's return to the AI giant, but the controversy sees Republicans join forces with Democrats to demand an investigation into the administration's ties to the company.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-25/republicans-challenge-trump-over-huang-nvidia-return/107423590",
-    "publishedAt": "2026-11-24T19:14:55.000Z"
-  },
-  {
-    "id": "d3b6773067faaec4",
-    "title": "Georgia Tech couple clears up viral televised argument during football game",
-    "summary": "Tallulah Wall and Braden Flournoy says their discussion that riveted viewers ‘was completely insignificant’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/24/georgia-tech-football-couple-arguing-espn",
-    "publishedAt": "2026-11-24T19:11:46.000Z"
-  },
-  {
-    "id": "f45034e9d36f21f4",
-    "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-    "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o",
-    "publishedAt": "2026-11-24T19:10:31.000Z"
-  },
-  {
-    "id": "6f6874e5642cd01b",
-    "title": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
-    "summary": "WHO chief says life expectancy has fallen from 78.8 years in 2020 to 74.4 in 2025, figures that predate US fuel blockade.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline",
-    "publishedAt": "2026-11-24T19:07:26.000Z"
-  },
-  {
-    "id": "d7190b810a689c43",
-    "title": "Weak and immature management putting patients at risk at failing health board, review finds",
-    "summary": "A review finds targets and money being prioritised over patient care at Betsi Cadwaladr health board.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo",
-    "publishedAt": "2026-11-24T19:03:09.000Z"
-  },
-  {
-    "id": "73a1466aac5eed93",
-    "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
-    "summary": "Israeli police have confiscated mosque loudspeakers as far-right lawmakers push legislation to restrict call to prayer.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
-    "publishedAt": "2026-11-24T19:02:49.000Z"
-  },
-  {
-    "id": "25b3b5999c9d9dcc",
-    "title": "Chicken Shop Date host says she ended YouTube show … to find a real date",
-    "summary": "Amelia Dimoldenberg described two panic attacks and said she wanted to end the hit series ‘before I start resenting it’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/nov/24/chicken-shop-date-youtube-amelia-dimoldenberg",
-    "publishedAt": "2026-11-24T19:02:15.000Z"
-  },
-  {
-    "id": "e2b64f48c0d6169a",
-    "title": "Burnham under fire over influencers’ No 10 reception after TikTok video row",
-    "summary": "Tories accuse PM of ‘degrading’ Downing Street as Max Balegde takes down clip of himself miming explicit lyrics.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/24/andy-burnham-influencers-no-10-reception-max-balegde-tiktok-explicit-lyrics",
-    "publishedAt": "2026-11-24T18:47:48.000Z"
-  },
-  {
-    "id": "86c16ebeda96e9df",
-    "title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
-    "summary": "Landmine monitor found 84 percent of deaths caused by landmines were in Southeast Asia.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
-    "publishedAt": "2026-11-24T18:47:05.000Z"
-  },
-  {
-    "id": "0901ee1d38b34bd0",
-    "title": "Ex-boss of Pride in London given suspended sentence for ‘harvesting’ documents",
-    "summary": "Christopher Joell-Deshields accessed internal records after organisation sacked him in ‘flagrant flouting’ of court order.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/24/ex-boss-christopher-joell-deshields-pride-in-london-suspended-sentence",
-    "publishedAt": "2026-11-24T18:39:52.000Z"
-  },
-  {
-    "id": "d744c4655e9a16f3",
-    "title": "Canada's defense minister says his country answers to no one in Washington",
-    "summary": "Canada’s defense minister says that his country answers to no one in Washington, asserting Canadian sovereignty after the Pentagon accused Ottawa of failing to meet its military commitments.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/canadas-defense-minister-country-answers-washington-after-pentagon-138417114",
-    "publishedAt": "2026-11-24T18:28:56.000Z"
-  },
-  {
-    "id": "e93ae2e9b169bd71",
-    "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-    "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o",
-    "publishedAt": "2026-11-24T18:21:43.000Z"
-  },
-  {
-    "id": "63d9648d7c5b308f",
-    "title": "Houthi rebels close in on Aden as Yemeni forces dig in behind a fortified line",
-    "summary": "Iran-backed Houthi rebels have advanced close to Yemen's government seat in Aden.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/houthi-rebels-close-aden-yemeni-forces-dig-fortified-138404636",
-    "publishedAt": "2026-11-24T18:15:23.000Z"
-  },
-  {
-    "id": "2bfe168014b9db1c",
-    "title": "GP surgery suspends routine appointments due to 'tsunami' of demand",
-    "summary": "Aberfoyle Medical Practice in Derry says its doctors are treating 60 patients each every day.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm62pze6xn37o",
-    "publishedAt": "2026-11-24T18:12:52.000Z"
-  },
-  {
-    "id": "0ec8be562169494d",
-    "title": "Armed men take hostages in Cartagena, one of Colombia's top tourist destinations",
-    "summary": "Colombian police say that a group of armed men have seized a super market in the city of Cartagena and taken an unknown number of people hostage.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/armed-men-hostages-cartagena-colombias-top-tourist-destinations-138416557",
-    "publishedAt": "2026-11-24T18:08:41.000Z"
-  },
-  {
-    "id": "96bc43410782dee4",
-    "title": "Armed men take hostages at supermarket in one of Colombia’s top tourist destinations",
-    "summary": "Police say group seized store in city of Cartagena and local media showed footage of snipers on nearby buildings.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-    "publishedAt": "2026-11-24T18:08:04.000Z"
-  },
-  {
-    "id": "cc716434d1ad9859",
-    "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-    "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo",
-    "publishedAt": "2026-11-24T18:07:46.000Z"
   }
 ]
