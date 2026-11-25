@@ -1,5 +1,41 @@
 [
   {
+    "id": "692fc913fc414be5",
+    "title": "Sentences served, but Gaza prisoners remain behind Israeli bars",
+    "summary": "Palestinian families in Gaza wait for loved ones who remain in Israeli prisons despite completing their sentences.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars?traffic_source=rss",
+    "publishedAt": "2026-11-25T07:31:44.000Z"
+  },
+  {
+    "id": "4f8adef9ea64bd34",
+    "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+    "summary": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o",
+    "publishedAt": "2026-11-25T07:26:54.000Z"
+  },
+  {
+    "id": "b2a2533d1a8f0a9d",
+    "title": "Labor wins Greens support for trust changes in exchange for scrapping jet fuel subsidies for the wealthy",
+    "summary": "Government also agrees to carve out pensioners from cuts to private health insurance rebates in return for minor party’s support in Senate.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/25/labor-greens-deal-discretionary-trust-changes-jet-fuel-subsidies-scrapped-for-private-jet-owners",
+    "publishedAt": "2026-11-25T07:16:33.000Z"
+  },
+  {
+    "id": "023af77a5953debf",
+    "title": "Pakistan rejoices as country’s first astronaut enters orbit",
+    "summary": "Zeeshan Ali makes history as the first foreign national to board China's space station.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit?traffic_source=rss",
+    "publishedAt": "2026-11-25T07:05:59.000Z"
+  },
+  {
     "id": "1949ee2987b0360b",
     "title": "Energy bills in Great Britain to rise 26% in January, lifting annual bills over £2,000",
     "summary": "Ofgem’s price cap will increase for third quarter in a row after rise in wholesale cost of gas.",
@@ -27,6 +63,15 @@
     "publishedAt": "2026-11-25T07:00:08.000Z"
   },
   {
+    "id": "0d8e97f1e9e1020a",
+    "title": "Bangladesh garment workers win 36% pay rise after weeks of protest",
+    "summary": "The protests have cost Bangladesh hundreds of millions, but workers are yet to accept the offer.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest?traffic_source=rss",
+    "publishedAt": "2026-11-25T06:58:02.000Z"
+  },
+  {
     "id": "a2acf5847ee54023",
     "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
     "summary": "Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage time.",
@@ -34,6 +79,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
     "publishedAt": "2026-11-25T06:43:23.000Z"
+  },
+  {
+    "id": "9f810bbff9738758",
+    "title": "Books, wisdom keepers and psychic abilities among sources of birth keeper’s knowledge, inquest hears",
+    "summary": "Sita Kali tells NSW coroner ‘there’s a lot of mystery’ around pregnancies involving twins.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/25/books-wisdom-keepers-and-psychic-abilities-among-sources-of-birth-keepers-knowledge-inquest-hears-ntwnfb",
+    "publishedAt": "2026-11-25T06:38:51.000Z"
   },
   {
     "id": "c144904d52077fde",
@@ -196,6 +250,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee",
     "publishedAt": "2026-11-25T02:31:42.000Z"
+  },
+  {
+    "id": "3a2ad3b38e7f94ff",
+    "title": "Palestinian student’s detention without charge prompts Jerusalem protests",
+    "summary": "Mahdi Tounsi, a university student from East Jerusalem, has been held without charge since he was taken from his dorm room by Israeli police earlier this month.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-25/protesters-demand-release-of-palestinian-student-activist/107424896",
+    "publishedAt": "2026-11-25T02:26:04.000Z"
   },
   {
     "id": "61ab9a2065f57fd3",
@@ -439,6 +502,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
     "publishedAt": "2026-11-25T00:28:28.000Z"
+  },
+  {
+    "id": "df4d9ed149870c0f",
+    "title": "Catholic takeover of 14 hospitals approved as IVF workaround announced",
+    "summary": "The NSW government will support surgical theatre access for Hunter IVF patients to fill the threatened gap ahead of a proposed Catholic hospital takeover.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-25/continued-access-for-hunter-ivf-services/107423658",
+    "publishedAt": "2026-11-25T00:10:02.000Z"
   },
   {
     "id": "b9a6c473148d4607",
@@ -790,6 +862,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o",
     "publishedAt": "2026-11-24T20:16:24.000Z"
+  },
+  {
+    "id": "bba4c0d44abe72e5",
+    "title": "Schumer accuses Huang of violating US export control laws amid shipments of chips to China",
+    "summary": "Senate minority leader joins lawmakers from both parties outraged over Nvidia CEO’s reinstatement.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress",
+    "publishedAt": "2026-11-24T20:05:09.000Z"
   },
   {
     "id": "dbc2d0b7784f5010",
@@ -1267,86 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/russia-backs-tax-rises-2027-budget-sees-military-138414749",
     "publishedAt": "2026-11-24T16:22:05.000Z"
-  },
-  {
-    "id": "32d0007cf07cf495",
-    "title": "Car bomb in central Colombian city injures 23 as violence spreads to urban areas",
-    "summary": "A bomb exploded outside regional government offices in Villavicencio, Colombia, injuring 23 people.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/car-bomb-central-colombian-city-injures-23-violence-138412492",
-    "publishedAt": "2026-11-24T16:16:58.000Z"
-  },
-  {
-    "id": "8084f28b1bffc11d",
-    "title": "South Africa convicts Zimbabwean who tried to travel to Russia to fight against Ukraine",
-    "summary": "A Zimbabwean man has been convicted in South Africa of trying to travel to Russia to fight in its war against Ukraine.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/south-africa-convicts-zimbabwean-travel-russia-fight-ukraine-138414152",
-    "publishedAt": "2026-11-24T16:16:53.000Z"
-  },
-  {
-    "id": "ba2d4c1894136464",
-    "title": "Gisèle Pelicot condemns publisher for using nude images from her rape case in book promo",
-    "summary": "Gis&egrave;le Pelicot says she is shocked that a Paris publisher used nude images taken by her rapist ex-husband to promote a book about her case.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/gisle-pelicot-condemns-publisher-nude-images-rape-case-138414559",
-    "publishedAt": "2026-11-24T16:16:52.000Z"
-  },
-  {
-    "id": "8d9ce56e9ffc34ae",
-    "title": "Record 5,200 heat-linked deaths estimated in England this year",
-    "summary": "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o",
-    "publishedAt": "2026-11-24T16:16:16.000Z"
-  },
-  {
-    "id": "9f976c330c9ca685",
-    "title": "Irish plan offers Burnham breakthrough on Made in Europe",
-    "summary": "Irish presidency of EU proposes giving UK ‘partner’ status on assembly of cars in possible boost to reset of relations.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/24/uk-eu-made-in-europe-trade-cars-tariffs",
-    "publishedAt": "2026-11-24T16:09:12.000Z"
-  },
-  {
-    "id": "057270e0f8104115",
-    "title": "Dad calls for 'crisis' education to reduce suicide",
-    "summary": "Seamus Waites says there was \"no warning\" before his 22-year-old son died by suicide 10 years ago.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmz9dyd4eegeo",
-    "publishedAt": "2026-11-24T16:03:03.000Z"
-  },
-  {
-    "id": "3f4d13678811da6a",
-    "title": "Catherine's cancer documentary makes me feel less alone, says Strictly's Amy Dowden",
-    "summary": "The dancer says Catherine's documentary about her cancer journey is \"so important\" to raise awareness.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqdr151xj5ego",
-    "publishedAt": "2026-11-24T16:02:20.000Z"
-  },
-  {
-    "id": "cf7c1eb3cd6e9d0c",
-    "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-    "summary": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
-    "publishedAt": "2026-11-24T16:00:50.000Z"
-  },
-  {
-    "id": "36ee0b35fe5c2025",
-    "title": "Palestine Weekly: A night of arson sees Israel ‘Jewish terrorism’ reckoning",
-    "summary": "Israeli settler pogroms have continued in the occupied West Bank.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/palestine-weekly-a-night-of-arson-sees-israel-jewish-terrorism-reckoning?traffic_source=rss",
-    "publishedAt": "2026-11-24T15:56:07.000Z"
   }
 ]
