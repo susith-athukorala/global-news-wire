@@ -1,5 +1,41 @@
 [
   {
+    "id": "1949ee2987b0360b",
+    "title": "Energy bills in Great Britain to rise 26% in January, lifting annual bills over £2,000",
+    "summary": "Ofgem’s price cap will increase for third quarter in a row after rise in wholesale cost of gas.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap",
+    "publishedAt": "2026-11-25T07:03:21.000Z"
+  },
+  {
+    "id": "0cd7868fa52029ef",
+    "title": "‘Nature’s Ozempic’: oat sales soar as shoppers seek out foods that mimic effect of GLP-1s",
+    "summary": "Porridge emerges as trend’s poster child with consumers looking to foods that help them feel full for longer, says Waitrose.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s",
+    "publishedAt": "2026-11-25T07:00:10.000Z"
+  },
+  {
+    "id": "bede548f512c8e9f",
+    "title": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
+    "summary": "Several employees say rapid speed at which algorithms work means mistakes can happen at greater scale.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation",
+    "publishedAt": "2026-11-25T07:00:08.000Z"
+  },
+  {
+    "id": "a2acf5847ee54023",
+    "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
+    "summary": "Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage time.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
+    "publishedAt": "2026-11-25T06:43:23.000Z"
+  },
+  {
     "id": "c144904d52077fde",
     "title": "Huge fly-tip grew undetected over several months",
     "summary": "The council says the 20-tonne pile of rubbish was dumped over garden fences.",
@@ -241,6 +277,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
     "publishedAt": "2026-11-25T01:14:22.000Z"
+  },
+  {
+    "id": "315b93a1c0d26a5a",
+    "title": "Man who US mistakenly deported to home country to self-deport to Spain",
+    "summary": "Kilmar Abrego Garcia's self-deportation to Spain ends a lengthy battle for the 31-year-old whose case became a focal point in the US's immigration debate.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-25/kilmar-abrego-garcia-self-deporting-from-us-to-spain/107424634",
+    "publishedAt": "2026-11-25T01:13:51.000Z"
   },
   {
     "id": "4bd932e8b57a5b83",
@@ -700,6 +745,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
     "publishedAt": "2026-11-24T21:04:46.000Z"
+  },
+  {
+    "id": "069bc99dc3aa13e3",
+    "title": "Pope Francis' diary details profound spiritual crisis and encounters with the devil",
+    "summary": "The Vatican has released excerpts of Pope Francis' private diary.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-francis-private-diary-details-profound-spiritual-crisis-138401988",
+    "publishedAt": "2026-11-24T20:37:53.000Z"
   },
   {
     "id": "45e5917092cd490f",
@@ -1294,59 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/24/palestine-weekly-a-night-of-arson-sees-israel-jewish-terrorism-reckoning?traffic_source=rss",
     "publishedAt": "2026-11-24T15:56:07.000Z"
-  },
-  {
-    "id": "f7b024931ecb4a4c",
-    "title": "Five women killed every hour globally by partner, relative last year: UN",
-    "summary": "Home remains the most dangerous place for a woman or girl, 'a pattern that has barely shifted in years', UN Women says.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/five-women-killed-every-hour-globally-by-partner-relative-in-2025-un?traffic_source=rss",
-    "publishedAt": "2026-11-24T15:55:36.000Z"
-  },
-  {
-    "id": "650a4c88248107fc",
-    "title": "Jimmy Kimmel on Jensen Huang’s return to Nvidia: ‘What a profoundly stupid time to be alive’",
-    "summary": "Late-night hosts discussed disgraced Nvidia CEO’s quick return to his role after pressure from shareholder Trump.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/nov/24/jimmy-kimmel-jensen-huang-nvidia-trump",
-    "publishedAt": "2026-11-24T15:51:00.000Z"
-  },
-  {
-    "id": "f5453e81f49d6e7d",
-    "title": "Nvidia stock cools after Huang’s return-driven surge",
-    "summary": "Nvidia regains $952bn in market value after Jensen Huang reinstated as CEO after resignation less than two weeks ago.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss",
-    "publishedAt": "2026-11-24T15:47:16.000Z"
-  },
-  {
-    "id": "9f9d1e4b7c2cc447",
-    "title": "Two arrested after suspected burglary at home of Prince and Princess of Wales",
-    "summary": "Incident took place at the royals’ Sandringham estate country retreat in Norfolk on Monday evening.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/24/two-arrested-after-suspected-burglary-prince-princess-of-wales-sandringham",
-    "publishedAt": "2026-11-24T15:43:25.000Z"
-  },
-  {
-    "id": "6b3185ece1ce07f9",
-    "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-    "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o",
-    "publishedAt": "2026-11-24T15:35:53.000Z"
-  },
-  {
-    "id": "76df5800ff14055a",
-    "title": "The Royal Court’s new mission? To boldly go back to the 60s space race with The Afronauts",
-    "summary": "Ryan Calais Cameron’s ‘true(ish)’ account of a charismatic freedom fighter’s plan to take a Zambian crew to the moon never quite lifts off.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/stage/2026/nov/24/the-afronauts-royal-court-theatre-london-ryan-calais-cameron-",
-    "publishedAt": "2026-11-24T15:29:09.000Z"
   }
 ]
