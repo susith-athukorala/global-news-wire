@@ -1,5 +1,77 @@
 [
   {
+    "id": "6540b381f7ac6ccd",
+    "title": "World reacts to Trump’s new tariffs as US stocks tumble",
+    "summary": "The new levies come after an eight-month investigation launched by the United States Trade Representative.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble?traffic_source=rss",
+    "publishedAt": "2026-11-25T18:59:26.000Z"
+  },
+  {
+    "id": "3319d4804b8839aa",
+    "title": "At least 30 killed in Egypt vehicle fire, health ministry says",
+    "summary": "An additional 15 were injured in blaze of fire after vehicle carrying petroleum products flipped on a major road.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss",
+    "publishedAt": "2026-11-25T18:55:23.000Z"
+  },
+  {
+    "id": "d55f2bd937d7f8cb",
+    "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+    "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
+    "publishedAt": "2026-11-25T18:48:48.000Z"
+  },
+  {
+    "id": "6c13b0e94b54c72c",
+    "title": "Nigeria seizes $220 million worth of meth, arrests 5 Mexican suspects in major bust",
+    "summary": "Nigeria’s anti-drug agency says it seized at least $220 million worth of methamphetamine and arrested five Mexican suspects in a major operation in the African country's southeast.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/nigeria-seizes-220-million-worth-meth-arrests-5-138448484",
+    "publishedAt": "2026-11-25T18:42:24.000Z"
+  },
+  {
+    "id": "475d39a5aa6b36c5",
+    "title": "Trump administration approves Elon Musk’s plan for datacenters in space",
+    "summary": "The FCC approved 1m Starmind satellites, with the deployment of 100,000 no later than November 2035.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/25/spacex-datacenter-satellites-approval",
+    "publishedAt": "2026-11-25T18:21:47.000Z"
+  },
+  {
+    "id": "9865d5c20da15fd9",
+    "title": "EU nationals will pay higher tuition fees than UK students, Burnham indicates",
+    "summary": "Asked by Kemi Badenoch to rule out equal rate for UK and EU students, PM says proposal ‘will not be put on the table’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/25/eu-nationals-will-pay-higher-tuition-fees-than-uk-students-burnham-indicates",
+    "publishedAt": "2026-11-25T18:19:19.000Z"
+  },
+  {
+    "id": "25bebad9ce276286",
+    "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
+    "summary": "Tinubu is under pressure to convince voters that military operations in the country's northeast will deliver security.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
+    "publishedAt": "2026-11-25T18:14:44.000Z"
+  },
+  {
+    "id": "25e0b737ebd943c1",
+    "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
+    "summary": "Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damaged.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
+    "publishedAt": "2026-11-25T18:14:27.000Z"
+  },
+  {
     "id": "0a59d67b072958e3",
     "title": "Even buttons on clothes are suspect after Asia's exam cheating scandals",
     "summary": "Wearable devices have emerged as aids to cheaters across Asia, where exams can determine people's life trajectories.",
@@ -7,6 +79,15 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-26/asia-exams-and-ai-smart-glasses-cheating/107419882",
     "publishedAt": "2026-11-25T18:00:00.000Z"
+  },
+  {
+    "id": "7cd4ff25e7d06fbc",
+    "title": "Ecuador and US review joint military operations, official says",
+    "summary": "Joint military efforts have been paused as the US investigates a lethal operation carried out by Ecuador.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss",
+    "publishedAt": "2026-11-25T17:50:41.000Z"
   },
   {
     "id": "e96af791de45868f",
@@ -1206,6 +1287,15 @@
     "publishedAt": "2026-11-25T07:26:54.000Z"
   },
   {
+    "id": "dd1aa6a3f6ec648b",
+    "title": "Malaysia Airlines’ parent to buy 10 Boeing Dreamliners, with options for 6 more",
+    "summary": "Malaysia Airlines' parent company has announced plans to buy 10 Boeing 787 Dreamliners, with options for six more, as part of its fleet modernization strategy.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/malaysia-airlines-parent-buy-10-boeing-dreamliners-options-138432544",
+    "publishedAt": "2026-11-25T07:22:25.000Z"
+  },
+  {
     "id": "b2a2533d1a8f0a9d",
     "title": "Labor wins Greens support for trust changes in exchange for scrapping jet fuel subsidies for the wealthy",
     "summary": "Government also agrees to carve out pensioners from cuts to private health insurance rebates in return for minor party’s support in Senate.",
@@ -1258,95 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation",
     "publishedAt": "2026-11-25T07:00:08.000Z"
-  },
-  {
-    "id": "0d8e97f1e9e1020a",
-    "title": "Bangladesh garment workers win 36% pay rise after weeks of protest",
-    "summary": "The protests have cost Bangladesh hundreds of millions, but workers are yet to accept the offer.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest?traffic_source=rss",
-    "publishedAt": "2026-11-25T06:58:02.000Z"
-  },
-  {
-    "id": "a2acf5847ee54023",
-    "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
-    "summary": "Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage time.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
-    "publishedAt": "2026-11-25T06:43:23.000Z"
-  },
-  {
-    "id": "9f810bbff9738758",
-    "title": "Books, wisdom keepers and psychic abilities among sources of birth keeper’s knowledge, inquest hears",
-    "summary": "Sita Kali tells NSW coroner ‘there’s a lot of mystery’ around pregnancies involving twins.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/25/books-wisdom-keepers-and-psychic-abilities-among-sources-of-birth-keepers-knowledge-inquest-hears-ntwnfb",
-    "publishedAt": "2026-11-25T06:38:51.000Z"
-  },
-  {
-    "id": "bc06a2c33a25deb5",
-    "title": "A question of trust in the NHS could be Swinney's most dangerous political moment",
-    "summary": "The Scottish government has to convince the public and political rivals that it has a grip on the problems at NHS Grampian.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c65y12kg8711o",
-    "publishedAt": "2026-11-25T06:17:47.000Z"
-  },
-  {
-    "id": "c144904d52077fde",
-    "title": "Huge fly-tip grew undetected over several months",
-    "summary": "The council says the 20-tonne pile of rubbish was dumped over garden fences.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqzjr4m9ljzxo",
-    "publishedAt": "2026-11-25T06:14:26.000Z"
-  },
-  {
-    "id": "410beb9a9e254c92",
-    "title": "Asian women 'never heard' on health, says director",
-    "summary": "Women react to a report saying poor female health in Luton develops five years earlier than average.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq1j6gn6lj43o",
-    "publishedAt": "2026-11-25T06:08:39.000Z"
-  },
-  {
-    "id": "fa0d316e6b397a99",
-    "title": "Spain's economy has grown under Sánchez, but many voters aren't feeling it. 5 charts explain why",
-    "summary": "Spain's economy is growing faster than most of Europe, but many Spaniards are struggling with high living costs.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/spains-economy-grown-snchez-voters-feeling-5-charts-138431840",
-    "publishedAt": "2026-11-25T06:05:11.000Z"
-  },
-  {
-    "id": "b85262f13ae75d6d",
-    "title": "Dolphins with active social lives and big friendship groups live longer, Australian researchers discover",
-    "summary": "Decades of data collected at WA’s Shark Bay shows level of socialising may affect longevity for Indo-Pacific bottlenose dolphins.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer",
-    "publishedAt": "2026-11-25T06:02:05.000Z"
-  },
-  {
-    "id": "9bbbfbfffe6f3728",
-    "title": "Bangladesh raises minimum wage for garment workers after weeks of protests",
-    "summary": "A government-formed wage board in Bangladesh has raised the minimum monthly wage for entry-level garment workers by 36% to 17,000 takas, or $136, from 12,500 takas after weeks of violent protests.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/bangladesh-raises-minimum-wage-garment-workers-after-weeks-138432725",
-    "publishedAt": "2026-11-25T06:01:56.000Z"
-  },
-  {
-    "id": "adb576a60fd0efa6",
-    "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
-    "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
-    "publishedAt": "2026-11-25T06:00:36.000Z"
   }
 ]
