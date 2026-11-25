@@ -1,5 +1,59 @@
 [
   {
+    "id": "021f42eb5fd1e854",
+    "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
+    "summary": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
+    "publishedAt": "2026-11-25T21:41:34.000Z"
+  },
+  {
+    "id": "c863f4e9c4742d72",
+    "title": "How to talk AI around the Thanksgiving table",
+    "summary": "You're gathered with family this Thanksgiving when the topic of AI comes up. How can you have a productive, fact-based conversation?",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table",
+    "publishedAt": "2026-11-25T21:33:59.000Z"
+  },
+  {
+    "id": "a8a8b7584b71967e",
+    "title": "Flinders Island bushfire grows to 13,000 hectares with Tasmanian homes and properties at risk",
+    "summary": "Fire making a ‘significant run’ towards the southwest of the island on Thursday, Tasmania Fire Service says.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
+    "publishedAt": "2026-11-25T21:32:12.000Z"
+  },
+  {
+    "id": "7b95ff80698c2ff6",
+    "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
+    "summary": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o",
+    "publishedAt": "2026-11-25T21:25:14.000Z"
+  },
+  {
+    "id": "d1fd89246805c37e",
+    "title": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan",
+    "summary": "South African pharmaceutical company Biovac says it aims to dramatically increase its vaccine production by the end of 2028 with help from a 75-million euro loan from the European Union's investment bank.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/south-africas-biovac-aims-dramatically-increase-vaccine-production-138451657",
+    "publishedAt": "2026-11-25T21:18:47.000Z"
+  },
+  {
+    "id": "35aefc1c88363f2f",
+    "title": "2 baby meerkats make their debut at Peruvian zoo, spotlighting conservation",
+    "summary": "A private zoo in Peru has introduced two baby meerkats born in Lima to raise awareness about wildlife conservation.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/2-baby-meerkats-make-debut-peruvian-zoo-spotlighting-138452825",
+    "publishedAt": "2026-11-25T21:18:38.000Z"
+  },
+  {
     "id": "3779a723457afd5c",
     "title": "Mushroom supplements promise health benefits. What does the science say?",
     "summary": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Research suggests there are some links.",
@@ -7,6 +61,24 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/25/nx-s1-6047791-e1/mushroom-supplements-promise-health-benefits-what-does-the-science-say",
     "publishedAt": "2026-11-25T21:11:21.000Z"
+  },
+  {
+    "id": "726c661848985c98",
+    "title": "New York City’s Macy’s Thanksgiving Day parade postponed due to weather",
+    "summary": "Forecasters say high winds on Thursday may spoil the annual march of huge balloons and have moved the parade to Saturday.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather",
+    "publishedAt": "2026-11-25T21:08:45.000Z"
+  },
+  {
+    "id": "21cb030d8b530e7f",
+    "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+    "summary": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+    "publishedAt": "2026-11-25T21:03:51.000Z"
   },
   {
     "id": "3ce30d6978490601",
@@ -34,6 +106,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
     "publishedAt": "2026-11-25T20:29:22.000Z"
+  },
+  {
+    "id": "51474f06b50acc6b",
+    "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
+    "summary": "Unclear if ‘hostage-taker’ who was killed may have been a hostage as daylong siege in Cartagena shopping centre ends.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+    "publishedAt": "2026-11-25T20:20:23.000Z"
   },
   {
     "id": "f6feaf7d8936210f",
@@ -97,6 +178,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o",
     "publishedAt": "2026-11-25T19:47:39.000Z"
+  },
+  {
+    "id": "86ed84505bb04eeb",
+    "title": "A fire on a major highway surrounding Cairo kills at least 30 people, Egypt’s Health Ministry says",
+    "summary": "Egypt’s Health Ministry says a fire broke out on a major highway surrounding Cairo, leaving at least 30 people dead.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/fire-major-highway-surrounding-cairo-kills-30-people-138450467",
+    "publishedAt": "2026-11-25T19:47:38.000Z"
   },
   {
     "id": "cf1ea908a0bd356a",
@@ -475,6 +565,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/pope-creates-new-vatican-initiative-coordinate-churchs-prison-138441517",
     "publishedAt": "2026-11-25T15:43:16.000Z"
+  },
+  {
+    "id": "0f7af8237d936828",
+    "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+    "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o",
+    "publishedAt": "2026-11-25T15:42:50.000Z"
   },
   {
     "id": "8590d07b78e289bd",
@@ -1224,6 +1323,15 @@
     "publishedAt": "2026-11-25T10:50:26.000Z"
   },
   {
+    "id": "6ee0a647046083b6",
+    "title": "Energy bills will soar - here's how you can ease the pain",
+    "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
+    "publishedAt": "2026-11-25T10:42:20.000Z"
+  },
+  {
     "id": "7044fe44c18fed42",
     "title": "General Synod could vote to ban C of E clergy from supporting Restore Britain",
     "summary": "Private members’ motion comes amid concern about Christian symbols being appropriated by the far right.",
@@ -1240,113 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
     "publishedAt": "2026-11-25T10:27:53.000Z"
-  },
-  {
-    "id": "481281d72147e636",
-    "title": "EA adds AI-generated John Motson to FC 27 video game",
-    "summary": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c65y10j841jpo",
-    "publishedAt": "2026-11-25T10:11:34.000Z"
-  },
-  {
-    "id": "364e6cf11fd8e128",
-    "title": "‘We need to be seen’: Over a third of UK Muslim students face Islamophobia",
-    "summary": "From being spat on and assaulted to suffering humiliation, Muslims on campus are increasingly vulnerable, report says.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/we-need-to-be-seen-over-a-third-of-uk-muslim-students-face-islamophobia?traffic_source=rss",
-    "publishedAt": "2026-11-25T10:05:24.000Z"
-  },
-  {
-    "id": "29e6b3862545037a",
-    "title": "Protesters call on Israel to free Palestinian student held without charge",
-    "summary": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo",
-    "publishedAt": "2026-11-25T10:03:42.000Z"
-  },
-  {
-    "id": "24a8fc92f62bf60f",
-    "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
-    "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo",
-    "publishedAt": "2026-11-25T10:03:12.000Z"
-  },
-  {
-    "id": "cfe6bd3f241705da",
-    "title": "Buying new things feels wonderful. But it can also be a trap",
-    "summary": "Constantly buying new things can be problematic, says journalist Eric Athas, author of the new book \"Saying No to New.\" Here's how to break the cycle and find joy in what you already have.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle",
-    "publishedAt": "2026-11-25T10:02:00.000Z"
-  },
-  {
-    "id": "e47b502692a45d1b",
-    "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
-    "summary": "Iran, a major oil producer, is facing a worsening energy crisis as winter looms.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/25/iran-rations-electricity-how-deeply-are-us-sanctions-blockade-biting?traffic_source=rss",
-    "publishedAt": "2026-11-25T10:01:08.000Z"
-  },
-  {
-    "id": "8191a7916953d3db",
-    "title": "Iowa town shelters in place as army prepares to detonate entire US stockpile of lead azide",
-    "summary": "Controlled blast to proceed after multiple delays and outpouring of concern about potential health and environmental effects.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
-    "publishedAt": "2026-11-25T10:00:12.000Z"
-  },
-  {
-    "id": "7aac1f4843a2c40a",
-    "title": "‘Half price’ ‘Only two left’ How to resist the bargains you just don’t need – this Black Friday and beyond",
-    "summary": "Everywhere you look, there’s another unrepeatable deal at an unmissable price. What’s on offer will make you happier, smarter and sexier.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/25/half-price-only-two-left-how-to-resist-the-bargains-you-just-dont-need-this-black-friday-and-beyond",
-    "publishedAt": "2026-11-25T10:00:11.000Z"
-  },
-  {
-    "id": "d2926690090ae3cc",
-    "title": "‘A godsend’: the best hair straighteners in the UK for foolproof styling",
-    "summary": "Whether you want cordless designs or a budget buy, we’ve tested the top hair straighteners for every hair type.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2025/mar/18/best-hair-straighteners",
-    "publishedAt": "2026-11-25T10:00:03.000Z"
-  },
-  {
-    "id": "f4b82c67ab117cdb",
-    "title": "Two Libyan soldiers die after Ukraine attack on Russian vessel",
-    "summary": "Khalifa Haftar’s Libyan National Army, which Russia backs, vowed retaliation for the death of its soldiers.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/two-libyan-soldiers-die-after-ukraine-attack-on-russian-vessel?traffic_source=rss",
-    "publishedAt": "2026-11-25T09:58:02.000Z"
-  },
-  {
-    "id": "510234d634caf753",
-    "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-    "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo",
-    "publishedAt": "2026-11-25T09:56:19.000Z"
-  },
-  {
-    "id": "2ac0110630ec60f5",
-    "title": "What will the energy cap changes mean for my bills?",
-    "summary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo",
-    "publishedAt": "2026-11-25T09:54:32.000Z"
   }
 ]
