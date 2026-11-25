@@ -1,5 +1,50 @@
 [
   {
+    "id": "5f66c2a33ccbf025",
+    "title": "Long waits 'a tragedy' as thousands seek ADHD and autism assessments",
+    "summary": "A GP warns that long waits for ADHD and autism assessments mean those most in need are not being seen.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo",
+    "publishedAt": "2026-11-25T23:01:45.000Z"
+  },
+  {
+    "id": "5d39a6b3e37df186",
+    "title": "Brad Pitt and Angelina Jolie settle years-long legal battle over joint French winery",
+    "summary": "Pitt filed the lawsuit against Jolie in 2022 after she sold her stake in Château Miraval, saying she broke their agreement not to sell their interests.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/film/2026/nov/25/brad-pitt-angelina-jolie-settle-french-winery-lawsuit",
+    "publishedAt": "2026-11-25T22:44:39.000Z"
+  },
+  {
+    "id": "9756dbf2f8d728b0",
+    "title": "Malen and Roma deny injury-hit PSG in Champions League draw",
+    "summary": "Champions League holders Paris Saint-Germain held to 2-2 draw by Roma as injury-ravaged squad struggle.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
+    "publishedAt": "2026-11-25T22:41:46.000Z"
+  },
+  {
+    "id": "0ab592523eb18bc5",
+    "title": "Man United denied at Sporting as referee overshadows Fernandes double",
+    "summary": "Bruno Fernandes nets twice in Lisbon, but referee's decisions in spotlight as Mauricio Pochettino denied first win.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/25/man-united-denied-at-sporting-as-referee-overshadows-fernandes-double?traffic_source=rss",
+    "publishedAt": "2026-11-25T22:15:59.000Z"
+  },
+  {
+    "id": "4ea9865f2a2635b4",
+    "title": "At least 30 killed as fuel tanker crash ignites large fire on Cairo highway",
+    "summary": "Blaze on ring road surrounding Egyptian capital injures at least 25 people and leaves cars and motorcycles charred.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+    "publishedAt": "2026-11-25T22:10:12.000Z"
+  },
+  {
     "id": "021f42eb5fd1e854",
     "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
     "summary": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018.",
@@ -324,6 +369,15 @@
     "publishedAt": "2026-11-25T18:42:24.000Z"
   },
   {
+    "id": "510234d634caf753",
+    "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+    "summary": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo",
+    "publishedAt": "2026-11-25T18:41:33.000Z"
+  },
+  {
     "id": "475d39a5aa6b36c5",
     "title": "Trump administration approves Elon Musk’s plan for datacenters in space",
     "summary": "The FCC approved 1m Starmind satellites, with the deployment of 100,000 no later than November 2035.",
@@ -547,6 +601,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss",
     "publishedAt": "2026-11-25T15:51:58.000Z"
+  },
+  {
+    "id": "f551073a9a5b4c1a",
+    "title": "The world’s coolest street? Is Heol Maengwyn in Machynlleth finally getting the recognition it deserves?",
+    "summary": "A Michelin-listed restaurant, designer boutiques, art spaces: this little corner of Powys has it all, according to Time Out.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/25/the-worlds-coolest-street-heol-maengwyn-machynlleth-powys-wales",
+    "publishedAt": "2026-11-25T15:50:11.000Z"
   },
   {
     "id": "7ef2efee33970dcc",
@@ -1285,68 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview",
     "publishedAt": "2026-11-25T11:00:46.000Z"
-  },
-  {
-    "id": "6e318103f04cef64",
-    "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
-    "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
-    "publishedAt": "2026-11-25T11:00:00.000Z"
-  },
-  {
-    "id": "48847b981ae5ac7b",
-    "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-    "summary": "The verdict follows a months-long trial in New York.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
-    "publishedAt": "2026-11-25T10:52:09.000Z"
-  },
-  {
-    "id": "b60f8073cee75f30",
-    "title": "Two charged with burglary and trespass at Prince and Princess of Wales’s home",
-    "summary": "Mirgen Doku and Arilen Ndoci to appear before magistrates over suspected break-in at Anmer Hall in Norfolk.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/25/two-charged-burglary-trespass-prince-princess-wales-home-norfolk",
-    "publishedAt": "2026-11-25T10:51:50.000Z"
-  },
-  {
-    "id": "5dfa604e0ad6bf05",
-    "title": "Who is Chen Jining, China’s latest Politburo member under investigation?",
-    "summary": "Chen is the fourth high-ranking Politburo member to be pushed out in two years.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss",
-    "publishedAt": "2026-11-25T10:50:26.000Z"
-  },
-  {
-    "id": "6ee0a647046083b6",
-    "title": "Energy bills will soar - here's how you can ease the pain",
-    "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
-    "publishedAt": "2026-11-25T10:42:20.000Z"
-  },
-  {
-    "id": "7044fe44c18fed42",
-    "title": "General Synod could vote to ban C of E clergy from supporting Restore Britain",
-    "summary": "Private members’ motion comes amid concern about Christian symbols being appropriated by the far right.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/25/general-synod-ban-church-of-england-clergy-support-restore-britain",
-    "publishedAt": "2026-11-25T10:40:38.000Z"
-  },
-  {
-    "id": "ec1374253bc8a66b",
-    "title": "Could Netanyahu take Israel into another war with Iran to cling to power?",
-    "summary": "As Israeli opposition leader Eisenkot moves to form a government, could war with Iran derail talks and save Netanyahu?",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
-    "publishedAt": "2026-11-25T10:27:53.000Z"
   }
 ]
