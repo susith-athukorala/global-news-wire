@@ -1,5 +1,68 @@
 [
   {
+    "id": "f990c346c428e4fb",
+    "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
+    "summary": "Chip Wilson said men importing brides from Thailand was due to women waiting too long to have children.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference",
+    "publishedAt": "2026-11-25T19:57:49.000Z"
+  },
+  {
+    "id": "c64a1ebf2dbfb8fa",
+    "title": "Fighting in eastern Congo forces Ebola workers to evacuate, threatening outbreak response",
+    "summary": "Escalating fighting in eastern Congo has forced health workers to evacuate and blocked roads needed to reach Ebola patients.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/fighting-eastern-congo-forces-ebola-workers-evacuate-threatening-138449760",
+    "publishedAt": "2026-11-25T19:47:44.000Z"
+  },
+  {
+    "id": "ae7661cc4991b512",
+    "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+    "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o",
+    "publishedAt": "2026-11-25T19:47:39.000Z"
+  },
+  {
+    "id": "cf1ea908a0bd356a",
+    "title": "US stocks tumble as AI rout and Trump tariffs rattle markets",
+    "summary": "Chip makers led the declines, with Nvidia falling 8.7 per cent and the broader Philadelphia Semiconductor Index losing 7.3 per cent.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-26/nasdaq-ai-tariffs-rattle-markets/107428016",
+    "publishedAt": "2026-11-25T19:44:30.000Z"
+  },
+  {
+    "id": "266eaffb494bf78b",
+    "title": "US Army declares Iowa lead azide detonation ‘tremendously successful’",
+    "summary": "Army hails Iowa's lead azide disposal operation as some experts warn of potentially hidden toxins.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful?traffic_source=rss",
+    "publishedAt": "2026-11-25T19:41:49.000Z"
+  },
+  {
+    "id": "a1fc994ab172507b",
+    "title": "Two children among six dead after plane crash off Mississippi coast",
+    "summary": "Divers found the bodies of three adult, one teenager aged 16, and two boys, aged 12 and 10, in the wreckage.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo",
+    "publishedAt": "2026-11-25T19:26:44.000Z"
+  },
+  {
+    "id": "a4dbfff65fa9e515",
+    "title": "Ministers can’t control gas prices, but they can attack other energy costs more ruthlessly",
+    "summary": "Louise Haigh talked the right talk at the CBI this week, but greater ambition and tighter timelines are needed.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/25/energy-bills-gas-prices-electricity-costs",
+    "publishedAt": "2026-11-25T19:21:16.000Z"
+  },
+  {
     "id": "ba9ffe98f19defb0",
     "title": "North Korea expels Swiss diplomat in sanctions row",
     "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
@@ -7,6 +70,24 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o",
     "publishedAt": "2026-11-25T19:19:06.000Z"
+  },
+  {
+    "id": "e4fc52f7f3dbd05d",
+    "title": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
+    "summary": "Disruptions at Yemen's largest seaport could exacerbate hardships for millions of Yemenis, aid experts warn.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
+    "publishedAt": "2026-11-25T19:15:52.000Z"
+  },
+  {
+    "id": "370d605f27fcec7a",
+    "title": "UK military ‘moving aircraft to hangars in case of drone attacks’",
+    "summary": "Experts say the move is a 'logical response' if there is intelligence suggesting a likely drone threat.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss",
+    "publishedAt": "2026-11-25T19:15:01.000Z"
   },
   {
     "id": "1c6ddf2dce25ed3e",
@@ -25,6 +106,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
     "publishedAt": "2026-11-25T19:13:42.000Z"
+  },
+  {
+    "id": "bec7dd5d69bed934",
+    "title": "US grants SpaceX approval for 1 million space data centres",
+    "summary": "Elon Musk hails FCC's approval of SpaceX's Starmind project as 'a great asset to America and the world.'",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres?traffic_source=rss",
+    "publishedAt": "2026-11-25T19:13:02.000Z"
   },
   {
     "id": "6540b381f7ac6ccd",
@@ -52,6 +142,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
     "publishedAt": "2026-11-25T18:48:48.000Z"
+  },
+  {
+    "id": "4702e50b73cdb998",
+    "title": "How anger at data centres is boiling over at Victoria's ballot box",
+    "summary": "Data centres have become a piping hot political issue in a seemingly short length of time. Will they be a factor in this weekend's Victorian election?",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-26/data-centre-anger-vic-election-political-issue/107425482",
+    "publishedAt": "2026-11-25T18:45:45.000Z"
   },
   {
     "id": "6c13b0e94b54c72c",
@@ -1249,104 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
     "publishedAt": "2026-11-25T08:31:48.000Z"
-  },
-  {
-    "id": "ddfbbda4992cc7d7",
-    "title": "29 miners believed trapped by flooding in an unauthorized gold mine in Indonesia",
-    "summary": "Rescuers are searching for 29 miners believed trapped by flooding in an unauthorized gold mine in Indonesia.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/29-miners-believed-trapped-flooding-unauthorized-gold-mine-138433064",
-    "publishedAt": "2026-11-25T08:26:31.000Z"
-  },
-  {
-    "id": "87ff37ca3986b4ff",
-    "title": "Saudi-led coalition intercepts Houthi attacks after Hodeidah strike",
-    "summary": "The escalation comes after the Yemeni rebel group threatened to attack the kingdom's Red Sea ports in retaliation.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike?traffic_source=rss",
-    "publishedAt": "2026-11-25T08:23:35.000Z"
-  },
-  {
-    "id": "44f6804c123a6920",
-    "title": "North Korea demands closure of Switzerland's new diplomatic office and orders diplomat to leave",
-    "summary": "North Korea has demanded the closure of Switzerland’s new diplomatic office in Pyongyang and ordered the senior diplomat heading it to leave the country.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/north-korea-demands-closure-switzerlands-new-diplomatic-office-138430806",
-    "publishedAt": "2026-11-25T08:19:30.000Z"
-  },
-  {
-    "id": "a4afcc907623a31e",
-    "title": "Solomon Islands signs treaty with Australia that checks China's influence in the South Pacific",
-    "summary": "The Solomon Islands is declaring it will never allow a foreign military base on its soil and rejecting a secretive 4-year-old defense deal with China that raised fears of a Chinese naval foothold in the South Pacific country.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/solomon-islands-signs-treaty-australia-checks-chinas-influence-138430195",
-    "publishedAt": "2026-11-25T08:17:44.000Z"
-  },
-  {
-    "id": "7b7b14ca4da365a0",
-    "title": "From stargazing to space: Pakistan watches its first astronaut take flight",
-    "summary": "Students and stargazers packed SUPARCO's auditorium before dawn to watch Zeeshan Ali reach orbit on a Chinese rocket.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/25/from-stargazing-to-space-pakistan-watches-its-first-astronaut-take-flight?traffic_source=rss",
-    "publishedAt": "2026-11-25T08:11:19.000Z"
-  },
-  {
-    "id": "9de9288a9713f786",
-    "title": "Rescuers search for dozens trapped in flooded Indonesia gold mine",
-    "summary": "Police say 26 workers are yet to be rescued from a mine that flooded when a nearby river overflowed after heavy rain.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine?traffic_source=rss",
-    "publishedAt": "2026-11-25T08:08:57.000Z"
-  },
-  {
-    "id": "13710e66680280d0",
-    "title": "IVF, elective abortion, gender-affirming care and VAD to cease under Catholic ownership of private hospitals",
-    "summary": "ACCC approves Calvary’s takeover of 14 hospitals around Australia, with critics concerned move will add to pressures on public health system.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/25/ivf-elective-abortion-assisted-dying-calvary-catholic-ownership-private-hospitals-ntwnfb",
-    "publishedAt": "2026-11-25T08:05:27.000Z"
-  },
-  {
-    "id": "692fc913fc414be5",
-    "title": "Sentences served, but Gaza prisoners remain behind Israeli bars",
-    "summary": "Palestinian families in Gaza wait for loved ones who remain in Israeli prisons despite completing their sentences.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars?traffic_source=rss",
-    "publishedAt": "2026-11-25T07:31:44.000Z"
-  },
-  {
-    "id": "4f8adef9ea64bd34",
-    "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
-    "summary": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o",
-    "publishedAt": "2026-11-25T07:26:54.000Z"
-  },
-  {
-    "id": "dd1aa6a3f6ec648b",
-    "title": "Malaysia Airlines’ parent to buy 10 Boeing Dreamliners, with options for 6 more",
-    "summary": "Malaysia Airlines' parent company has announced plans to buy 10 Boeing 787 Dreamliners, with options for six more, as part of its fleet modernization strategy.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/malaysia-airlines-parent-buy-10-boeing-dreamliners-options-138432544",
-    "publishedAt": "2026-11-25T07:22:25.000Z"
-  },
-  {
-    "id": "b2a2533d1a8f0a9d",
-    "title": "Labor wins Greens support for trust changes in exchange for scrapping jet fuel subsidies for the wealthy",
-    "summary": "Government also agrees to carve out pensioners from cuts to private health insurance rebates in return for minor party’s support in Senate.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/25/labor-greens-deal-discretionary-trust-changes-jet-fuel-subsidies-scrapped-for-private-jet-owners",
-    "publishedAt": "2026-11-25T07:16:33.000Z"
   }
 ]
