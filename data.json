@@ -1,5 +1,122 @@
 [
   {
+    "id": "316b1b2ff5f655df",
+    "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+    "summary": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+    "publishedAt": "2026-11-25T14:14:34.000Z"
+  },
+  {
+    "id": "9d648dc5468e2268",
+    "title": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
+    "summary": "Alain Throo, insurance executive based in London, reportedly gored and later died on hike near Mount Cameroon national park.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
+    "publishedAt": "2026-11-25T14:03:18.000Z"
+  },
+  {
+    "id": "576ece26031d029f",
+    "title": "Aidan is one of thousands of students forced to verbally defend his honours thesis as universities take on AI",
+    "summary": "Honours students are increasingly being asked to sit oral assessments – but at the University of Sydney it’s become a requirement for all.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/25/australian-universities-tackle-ai-plagiarism-oral-assessment-honours-masters-phd",
+    "publishedAt": "2026-11-25T14:00:29.000Z"
+  },
+  {
+    "id": "90c045ac12084ae1",
+    "title": "‘Nobody showed up but me’: will Friendsgiving survive gen Z?",
+    "summary": "A generation known for loneliness is putting their own spin on a millennial-made tradition that requires socializing.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/25/friendsgiving-gen-z",
+    "publishedAt": "2026-11-25T14:00:29.000Z"
+  },
+  {
+    "id": "2154cef2957fddac",
+    "title": "Labour ‘committed’ to ban on conversion practices despite calls for proposed law to be scrapped",
+    "summary": "Exclusive: Campaigners say new legislation in England and Wales could infringe on free speech, parenting and religious freedom.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/25/labour-committed-ban-conversion-practices-despite-proposed-law-scrapped",
+    "publishedAt": "2026-11-25T14:00:28.000Z"
+  },
+  {
+    "id": "a61ab511a42dd98e",
+    "title": "Annual US consumer price inflation hits 3.8% – highest level since May",
+    "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+    "publishedAt": "2026-11-25T13:54:06.000Z"
+  },
+  {
+    "id": "de478ea7a63aa850",
+    "title": "What to know before using AI agents for Black Friday shopping",
+    "summary": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+    "publishedAt": "2026-11-25T13:51:56.000Z"
+  },
+  {
+    "id": "63336486a4013a58",
+    "title": "US court convicts Huawei of theft: A history of Chinese firm’s global woes",
+    "summary": "Chinese tech giant has faced legal problems from Europe to Asia, and its products have been banned in trade war with US.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss",
+    "publishedAt": "2026-11-25T13:37:51.000Z"
+  },
+  {
+    "id": "379c8f7a1212b3a3",
+    "title": "UK nuclear test veterans win 40-year battle for inquiry into Cold War tests",
+    "summary": "Britain’s prime minister has authorized an inquiry into the impact of nuclear weapons tests on military veterans after a 40-year campaign by survivors who say they were used as guinea pigs for tests that damaged their health and that of their children.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/uk-nuclear-test-veterans-win-40-year-battle-138436079",
+    "publishedAt": "2026-11-25T13:29:05.000Z"
+  },
+  {
+    "id": "97ac4fc02b847e8d",
+    "title": "Number of women killed by men in Ireland almost doubles in a year",
+    "summary": "Figures from past 30 years show more than half of victims killed by current or ex-partner.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/25/number-of-women-killed-by-men-in-ireland-almost-doubles-in-a-year",
+    "publishedAt": "2026-11-25T13:28:39.000Z"
+  },
+  {
+    "id": "cb7efad2424b29a1",
+    "title": "NHS Grampian surgeon operated on patient while recovering from endoscopy",
+    "summary": "The doctor had to be driven to Dr Gray's hospital in Elgin because he felt unable to drive himself.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx30g76yvl1zo",
+    "publishedAt": "2026-11-25T13:26:47.000Z"
+  },
+  {
+    "id": "2a7a6d54e9abce15",
+    "title": "BBC lodges urgent appeal against Trump’s $10bn defamation lawsuit",
+    "summary": "Corporation asks US court of appeals for the 11th circuit to throw out case brought over Panorama documentary.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/25/bbc-trump-defamation-case-10bn-urgent-appeal",
+    "publishedAt": "2026-11-25T13:24:55.000Z"
+  },
+  {
+    "id": "ae5493d15244c05b",
+    "title": "Amazon to start selling cars in the UK next year",
+    "summary": "US retail giant links up with Hyundai in attempt to crack £200bn British market.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
+    "publishedAt": "2026-11-25T13:17:21.000Z"
+  },
+  {
     "id": "b9c571e609483ece",
     "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
     "summary": "Israel's tech sector and economy have strong ties to chip giant Nvidia, which invests billions of dollars.",
@@ -34,6 +151,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/25/mississippi-plane-crash-gulf-mexico",
     "publishedAt": "2026-11-25T13:02:24.000Z"
+  },
+  {
+    "id": "96a8d0142e2ce8f8",
+    "title": "How datacentres are driving an illegal mining rush in the Amazon ‘more devastating than gold’",
+    "summary": "As demand for tin ores pushes up prices, criminal gangs are exploiting Indigenous lands and weak regulation to profit from Brazil’s abundant cassiterite.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/global-development/2026/nov/25/tin-cassiterite-brazil-amazon-illegal-mining-datacentres-evs",
+    "publishedAt": "2026-11-25T13:00:27.000Z"
   },
   {
     "id": "d4344fa853688a0c",
@@ -331,6 +457,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
     "publishedAt": "2026-11-25T11:00:00.000Z"
+  },
+  {
+    "id": "48847b981ae5ac7b",
+    "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+    "summary": "The verdict follows a months-long trial in New York.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
+    "publishedAt": "2026-11-25T10:52:09.000Z"
   },
   {
     "id": "b60f8073cee75f30",
@@ -1213,140 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/environment/2026/nov/25/coastal-areas-england-at-risk-erosion-11m-funding-drones-ea",
     "publishedAt": "2026-11-25T00:01:01.000Z"
-  },
-  {
-    "id": "10e235271d91c07c",
-    "title": "Metropolitan police still institutionally racist and misogynist, says report",
-    "summary": "Independent review finds force has ‘fundamental systemic issues’ three years after damning report on Sarah Everard murder.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/25/metropolitan-police-institutionally-racist-misogynist-fairfield-report",
-    "publishedAt": "2026-11-25T00:01:01.000Z"
-  },
-  {
-    "id": "ed632e0b8edc4da1",
-    "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
-    "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
-    "publishedAt": "2026-11-24T23:50:31.000Z"
-  },
-  {
-    "id": "ffd99e93193af240",
-    "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
-    "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
-    "publishedAt": "2026-11-24T23:39:13.000Z"
-  },
-  {
-    "id": "4927bc37e55462b1",
-    "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
-    "summary": "More young people in Britain have never had sex, but many are sexting and watching porn.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo",
-    "publishedAt": "2026-11-24T23:38:39.000Z"
-  },
-  {
-    "id": "1cda3bfd154d0d4e",
-    "title": "Thomas Markle indicted on possessing child sexual abuse material charges",
-    "summary": "Thomas Markle, the father of Meghan, Duchess of Sussex and father-in-law to Prince Harry, has been indicted in a US court.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-25/thomas-markle-father-in-law-of-prince-harry-indicted/107424340",
-    "publishedAt": "2026-11-24T23:36:50.000Z"
-  },
-  {
-    "id": "bfafb17d5c854a91",
-    "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
-    "summary": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
-    "publishedAt": "2026-11-24T23:29:40.000Z"
-  },
-  {
-    "id": "b8fed400bc9e8359",
-    "title": "California ‘king tides’ stress test San Francisco as low-lying areas flood",
-    "summary": "Monthly tide records were set across the city, with some expected to hit even higher tomorrow.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
-    "publishedAt": "2026-11-24T23:20:24.000Z"
-  },
-  {
-    "id": "823956b5b8723ce7",
-    "title": "Fort Hood survivors denied bid to witness shooter’s firing-squad execution",
-    "summary": "Army says trio injured in 2009 attack were not direct victims of Nidal Hasan’s and thus cannot attend event.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/24/fort-hood-shooting-survivors-execution",
-    "publishedAt": "2026-11-24T23:06:43.000Z"
-  },
-  {
-    "id": "175f51401eeef70b",
-    "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
-    "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o",
-    "publishedAt": "2026-11-24T23:05:11.000Z"
-  },
-  {
-    "id": "f162654c36c421e1",
-    "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
-    "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o",
-    "publishedAt": "2026-11-24T23:03:59.000Z"
-  },
-  {
-    "id": "bc06a2c33a25deb5",
-    "title": "A question of trust in the NHS could be Swinney's most dangerous political moment",
-    "summary": "The Scottish government has to convince the public and political rivals that it has a grip on the problems at NHS Grampian.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c65y12kg8711o",
-    "publishedAt": "2026-11-24T23:00:13.000Z"
-  },
-  {
-    "id": "2c8aeaed6ceaa68d",
-    "title": "Jury considers verdicts in Beau Lamarre-Condon double-murder trial",
-    "summary": "After 10-week trial, 12 jurors will decide whether former police officer murdered Jesse Baird and Luke Davies.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-jury-considers-verdict-ntwnfb",
-    "publishedAt": "2026-11-24T22:57:35.000Z"
-  },
-  {
-    "id": "53ec01b5619b1137",
-    "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
-    "summary": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
-    "publishedAt": "2026-11-24T22:50:16.000Z"
-  },
-  {
-    "id": "80ed5c51b636686b",
-    "title": "How high technology is changing cargo crime",
-    "summary": "Truckloads of turkey and bourbon are getting stolen in transit. Cargo theft of food and beverages are on the rise in part because the goods are hard to trace.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/24/nx-s1-6051029/how-high-technology-is-changing-cargo-crime",
-    "publishedAt": "2026-11-24T22:49:10.000Z"
-  },
-  {
-    "id": "e0a72d230636d7e5",
-    "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
-    "summary": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
-    "publishedAt": "2026-11-24T22:37:20.000Z"
   }
 ]
