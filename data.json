@@ -1,5 +1,50 @@
 [
   {
+    "id": "6ee0a647046083b6",
+    "title": "Energy bills will soar - here's how you can ease the pain",
+    "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
+    "publishedAt": "2026-11-25T09:05:41.000Z"
+  },
+  {
+    "id": "a8a8b7584b71967e",
+    "title": "Large bushfire threatens homes and properties on remote island off Tasmania",
+    "summary": "Blaze spreads significantly across the north of Flinders Island after being started by lightning strikes.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
+    "publishedAt": "2026-11-25T09:04:13.000Z"
+  },
+  {
+    "id": "3a7c30387a783375",
+    "title": "Sporting Lisbon vs Manchester United: Champions League – teams, prediction",
+    "summary": "Man United look to bounce back from defeat in Mauricio Pochettino's first game in charge, as they travel to Lisbon.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/25/sporting-lisbon-vs-manchester-united-champions-league-teams-prediction?traffic_source=rss",
+    "publishedAt": "2026-11-25T09:04:03.000Z"
+  },
+  {
+    "id": "ea9ec3a9a243f3b9",
+    "title": "Rising prices push families to the brink in Yemen’s Hodeidah",
+    "summary": "Renewed fighting, rising fuel costs and shrinking incomes deepen the struggle to survive in the Houthi-controlled city.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss",
+    "publishedAt": "2026-11-25T09:00:53.000Z"
+  },
+  {
+    "id": "fa5bfa10240bf71e",
+    "title": "Galatasaray defy Israel’s complaint to UEFA over pro-Palestine banners",
+    "summary": "The football club’s president said UEFA had made them aware of a complaint by Israel regarding pro-Palestinian banners.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/25/galatasaray-defy-israels-complaint-to-uefa-over-pro-palestine-banners?traffic_source=rss",
+    "publishedAt": "2026-11-25T08:53:30.000Z"
+  },
+  {
     "id": "51474f06b50acc6b",
     "title": "All hostages freed after Colombian security forces storm supermarket, says president",
     "summary": "Operation in which one captor was killed brings to an end day-long siege in which 30 hostages were initially held.",
@@ -205,6 +250,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
     "publishedAt": "2026-11-25T06:00:36.000Z"
+  },
+  {
+    "id": "0d1f87326e9a8b49",
+    "title": "How a new way of measuring tides could make flood forecasts more accurate",
+    "summary": "Analysis of differences in tidal height across beaches could lead to more localised tide and flood forecasts.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/25/new-way-of-measuring-tides-flood-forecasts-accurate",
+    "publishedAt": "2026-11-25T06:00:08.000Z"
   },
   {
     "id": "16004642bbb565ec",
@@ -873,6 +927,15 @@
     "publishedAt": "2026-11-24T21:16:41.000Z"
   },
   {
+    "id": "09ef7d778b8b8e18",
+    "title": "China’s Huawei convicted of stealing US trade secrets",
+    "summary": "US attorney general Todd Blanche says ‘No person or company is above the law’ after tech giant found guilty on 10 of 12 criminal counts.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/huawei-china-convicted-deceiving-banks-stealing-us-trade-secrets",
+    "publishedAt": "2026-11-24T21:11:44.000Z"
+  },
+  {
     "id": "efb457c96b7aee63",
     "title": "US court convicts Huawei for deceiving banks about Iran dealings",
     "summary": "US authorities have long claimed the Chinese tech giant poses national security risks.",
@@ -1285,68 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/24/compass-logic-new-york-listing-flimsy",
     "publishedAt": "2026-11-24T17:15:19.000Z"
-  },
-  {
-    "id": "6e662a54e2f93638",
-    "title": "Storms and flooding in US could disrupt Thanksgiving travel for tens of millions",
-    "summary": "Storm systems across the country are expected to produce periods of heavy rain and strong winds before the holiday.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/24/thanksgiving-travel-storms-weather",
-    "publishedAt": "2026-11-24T17:11:31.000Z"
-  },
-  {
-    "id": "e12a925cb2dd4ab6",
-    "title": "Trump expected to award Giuliani Presidential Medal of Freedom",
-    "summary": "Trump’s former lawyer was disbarred for his efforts to help the US president overturn 2020 election results.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/24/trump-giuliani-presidential-medal-of-freedom",
-    "publishedAt": "2026-11-24T17:09:34.000Z"
-  },
-  {
-    "id": "75a2a86afd27d1c4",
-    "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-    "summary": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
-    "category": "Technology",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
-    "publishedAt": "2026-11-24T17:04:20.000Z"
-  },
-  {
-    "id": "295ca193a63e37e2",
-    "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-    "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o",
-    "publishedAt": "2026-11-24T17:04:00.000Z"
-  },
-  {
-    "id": "2616edcea4156ee8",
-    "title": "Top Chinese official under investigation as Xi's anti-corruption probe widens",
-    "summary": "The probe against Chen Jining is a sign that President Xi Jinping's sweeping 14-year anti-corruption campaign is expanding ahead of the key party congress next year.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-25/chinese-communist-party-leader-under-corruption-investigation/107423468",
-    "publishedAt": "2026-11-24T17:02:20.000Z"
-  },
-  {
-    "id": "232c4ba6bb6eae03",
-    "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-    "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o",
-    "publishedAt": "2026-11-24T16:49:07.000Z"
-  },
-  {
-    "id": "41ad518298fa2de9",
-    "title": "Badger cull ruled out by Welsh government after speculation",
-    "summary": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo",
-    "publishedAt": "2026-11-24T16:47:05.000Z"
   }
 ]
