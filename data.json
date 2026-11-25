@@ -1,5 +1,50 @@
 [
   {
+    "id": "0336fab4a0ca11e3",
+    "title": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
+    "summary": "US Senator Chris Van Hollen hails Kilmar Abrego Garcia's safe departure to Spain as a 'free man'.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss",
+    "publishedAt": "2026-11-25T02:40:59.000Z"
+  },
+  {
+    "id": "a0100f439664a5cb",
+    "title": "Al Gore buys local, family-owned newspaper in central Tennessee",
+    "summary": "Former vice-president, who started his career as a journalist, purchases Carthage Courier in Smith county.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee",
+    "publishedAt": "2026-11-25T02:31:42.000Z"
+  },
+  {
+    "id": "61ab9a2065f57fd3",
+    "title": "WHO chief urges end to US fuel blockade on Cuba",
+    "summary": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
+    "publishedAt": "2026-11-25T02:23:19.000Z"
+  },
+  {
+    "id": "ec560d1e5b632f7a",
+    "title": "Rescue crews search for six people after plane crash off Mississippi coast",
+    "summary": "US Coast Guard said crews had so far found the cabin of the plane, a life raft and three life jackets.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash",
+    "publishedAt": "2026-11-25T02:17:25.000Z"
+  },
+  {
+    "id": "e1ad855d0eab4e39",
+    "title": "Tidal bans 100% AI-generated music with plans to delete more than 27m tracks",
+    "summary": "Streaming service says 43% of uploads to platform in past 90 days were made entirely by artificial intelligence.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music",
+    "publishedAt": "2026-11-25T02:12:22.000Z"
+  },
+  {
     "id": "6e5ef958a13f4c18",
     "title": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
     "summary": "Anthony Albanese and Matthew Wale sign new treaty as Solomon Islands PM states his country no longer ‘a source of uncertainty and doubt in the region’",
@@ -340,6 +385,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
     "publishedAt": "2026-11-24T22:09:57.000Z"
+  },
+  {
+    "id": "be8dcf778eec5738",
+    "title": "Is your superannuation protected from a Wall Street crash?",
+    "summary": "As global financial markets swing wildly, it can be tempting to make changes to your super. But knee-jerk reactions are likely to make things worse in the long term.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-25/australian-superannuation-caught-in-finance-market-storm/107422362",
+    "publishedAt": "2026-11-24T22:05:55.000Z"
   },
   {
     "id": "f0614611501e45ff",
@@ -1134,6 +1188,15 @@
     "publishedAt": "2026-11-24T14:51:18.000Z"
   },
   {
+    "id": "bb84d462bbf5ea68",
+    "title": "British officials warn UK firms aiding Ukraine to brace for Russian sabotage threats",
+    "summary": "British security officials have warned U.K. companies supporting Ukraine's military to brace for potential sabotage attempts by Russia.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/british-officials-warn-uk-firms-aiding-ukraine-brace-138406967",
+    "publishedAt": "2026-11-24T14:50:28.000Z"
+  },
+  {
     "id": "e7c664a0b7ba3edf",
     "title": "Serbian police arrest a 17-year-old after shots fired at a high school",
     "summary": "Police in central Serbia have arrested a teenager after he fired a small-caliber rifle in a high school hallway.",
@@ -1285,68 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/24/outcry-uk-plans-to-exempt-brownfield-sites-nature-protection-rules",
     "publishedAt": "2026-11-24T14:00:47.000Z"
-  },
-  {
-    "id": "7dfd72916188539b",
-    "title": "Israeli air strike kills senior Hamas security official in Gaza",
-    "summary": "Abu Nahl, 50, was killed in a crowded area leaving four others, including a Palestinian woman, wounded.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
-    "publishedAt": "2026-11-24T13:55:11.000Z"
-  },
-  {
-    "id": "6db0ae904a2b0f4f",
-    "title": "Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE",
-    "summary": "The 15-year-old Sooryavanshi struck a staggering 28 sixes, the most ever in a senior men's innings.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/24/records-tumble-as-indian-teen-sooryavanshi-smashes-53-ball-204-against-uae?traffic_source=rss",
-    "publishedAt": "2026-11-24T13:52:45.000Z"
-  },
-  {
-    "id": "46ec94ddc620f8b4",
-    "title": "Dozens killed in latest land dispute attacks in Nigeria's Niger state",
-    "summary": "Dozens of people were killed in attacks in north-central Nigeria, advocacy groups and local authorities said.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/dozens-killed-latest-land-dispute-attacks-nigerias-niger-138408925",
-    "publishedAt": "2026-11-24T13:44:46.000Z"
-  },
-  {
-    "id": "7e3e7ace66f48e5e",
-    "title": "Jensen Huang’s Nvidia return: Who are the big winners and losers?",
-    "summary": "Jensen Huang returns to lead the most consequential company powering the AI revolution. But who wins, who loses?",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/24/jensen-huangs-nvidia-return-who-are-the-big-winners-and-losers?traffic_source=rss",
-    "publishedAt": "2026-11-24T13:39:22.000Z"
-  },
-  {
-    "id": "8d443f8208eb6325",
-    "title": "Ten years after its 2016 peace deal, Colombia faces a return to conflict",
-    "summary": "Critics fear that a security crackdown under Abelardo de la Espriella could unravel gains made under the 2016 deal.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/longform/2026/11/24/ten-years-after-its-2016-peace-deal-colombia-faces-a-return-to-conflict?traffic_source=rss",
-    "publishedAt": "2026-11-24T13:35:51.000Z"
-  },
-  {
-    "id": "85871887b59d0f7e",
-    "title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
-    "summary": "Attacks on tankers have increased, impacting the flow of oil through the Strait of Hormuz.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss",
-    "publishedAt": "2026-11-24T13:32:24.000Z"
-  },
-  {
-    "id": "06398dba1fb38649",
-    "title": "Once ‘capital of the Confederacy’, Virginia enshrines rights to voting, abortion and gay marriage",
-    "summary": "Organizers won key civil liberties protections on election day – and women and Black advocates were at the forefront.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/24/virginia-voting-rights-abortion-gay-marriage",
-    "publishedAt": "2026-11-24T13:30:47.000Z"
   }
 ]
