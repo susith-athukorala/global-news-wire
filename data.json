@@ -1,5 +1,32 @@
 [
   {
+    "id": "ba9ffe98f19defb0",
+    "title": "North Korea expels Swiss diplomat in sanctions row",
+    "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o",
+    "publishedAt": "2026-11-25T19:19:06.000Z"
+  },
+  {
+    "id": "1c6ddf2dce25ed3e",
+    "title": "Treasury raises spending concerns in proposed support for youth unemployment",
+    "summary": "Chancellor wants system laid out in Alan Milburn’s review to break even at an earlier date, sources say.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/25/treasury-spending-concerns-proposed-support-youth-unemployment-milburn-review",
+    "publishedAt": "2026-11-25T19:15:00.000Z"
+  },
+  {
+    "id": "882812167e628a89",
+    "title": "UK food inflation could hit 5% next year, Bank of England says",
+    "summary": "Sharp rise expected as cost pressures mount, with experts factoring in coming energy price cap hike and potential impact of El Niño.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+    "publishedAt": "2026-11-25T19:13:42.000Z"
+  },
+  {
     "id": "6540b381f7ac6ccd",
     "title": "World reacts to Trump’s new tariffs as US stocks tumble",
     "summary": "The new levies come after an eight-month investigation launched by the United States Trade Representative.",
@@ -106,6 +133,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/25/woman-did-not-believe-husband-drugged-her-for-rape-by-strangers-manchester-trial",
     "publishedAt": "2026-11-25T17:36:42.000Z"
+  },
+  {
+    "id": "adb576a60fd0efa6",
+    "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+    "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
+    "publishedAt": "2026-11-25T17:30:16.000Z"
   },
   {
     "id": "315f4c45ce6f325e",
@@ -1125,6 +1161,15 @@
     "publishedAt": "2026-11-25T09:54:32.000Z"
   },
   {
+    "id": "fa0d316e6b397a99",
+    "title": "Spain's economy has grown under Sánchez, but many voters aren't feeling it. 5 charts explain why",
+    "summary": "Spain's economy is growing faster than most of Europe, but many Spaniards are struggling with high living costs.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/spains-economy-grown-snchez-voters-feeling-5-charts-138431840",
+    "publishedAt": "2026-11-25T09:54:21.000Z"
+  },
+  {
     "id": "4e85b765ac0b2509",
     "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
     "summary": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
@@ -1303,50 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/25/labor-greens-deal-discretionary-trust-changes-jet-fuel-subsidies-scrapped-for-private-jet-owners",
     "publishedAt": "2026-11-25T07:16:33.000Z"
-  },
-  {
-    "id": "a1fc994ab172507b",
-    "title": "Two children among six dead after plane crash off Mississippi coast",
-    "summary": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo",
-    "publishedAt": "2026-11-25T07:08:22.000Z"
-  },
-  {
-    "id": "023af77a5953debf",
-    "title": "Pakistan rejoices as country’s first astronaut enters orbit",
-    "summary": "Zeeshan Ali makes history as the first foreign national to board China's space station.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit?traffic_source=rss",
-    "publishedAt": "2026-11-25T07:05:59.000Z"
-  },
-  {
-    "id": "1949ee2987b0360b",
-    "title": "Energy bills in Great Britain to rise 26% in January, lifting annual bills over £2,000",
-    "summary": "Ofgem’s price cap will increase for third quarter in a row after rise in wholesale cost of gas.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap",
-    "publishedAt": "2026-11-25T07:03:21.000Z"
-  },
-  {
-    "id": "0cd7868fa52029ef",
-    "title": "‘Nature’s Ozempic’: oat sales soar as shoppers seek out foods that mimic effect of GLP-1s",
-    "summary": "Porridge emerges as trend’s poster child with consumers looking to foods that help them feel full for longer, says Waitrose.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s",
-    "publishedAt": "2026-11-25T07:00:10.000Z"
-  },
-  {
-    "id": "bede548f512c8e9f",
-    "title": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
-    "summary": "Several employees say rapid speed at which algorithms work means mistakes can happen at greater scale.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation",
-    "publishedAt": "2026-11-25T07:00:08.000Z"
   }
 ]
