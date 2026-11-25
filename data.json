@@ -1,5 +1,50 @@
 [
   {
+    "id": "0a59d67b072958e3",
+    "title": "Even buttons on clothes are suspect after Asia's exam cheating scandals",
+    "summary": "Wearable devices have emerged as aids to cheaters across Asia, where exams can determine people's life trajectories.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-26/asia-exams-and-ai-smart-glasses-cheating/107419882",
+    "publishedAt": "2026-11-25T18:00:00.000Z"
+  },
+  {
+    "id": "e96af791de45868f",
+    "title": "Kenya cult leader found guilty of new assault and cruelty charges",
+    "summary": "Jailed Kenyan cult leader Paul Mackenzie has been found guilty of assault and cruelty to children in a new case.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/kenya-cult-leader-found-guilty-new-assault-cruelty-138447436",
+    "publishedAt": "2026-11-25T17:47:30.000Z"
+  },
+  {
+    "id": "cf8b1c1e7185c34c",
+    "title": "Woman did not believe husband had drugged her for rape by strangers, Manchester trial told",
+    "summary": "Wife said to detectives: ‘I had no knowledge of what you told me had happened and I still can’t believe it’s true’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/25/woman-did-not-believe-husband-drugged-her-for-rape-by-strangers-manchester-trial",
+    "publishedAt": "2026-11-25T17:36:42.000Z"
+  },
+  {
+    "id": "315f4c45ce6f325e",
+    "title": "Iraq’s top court rules government can take over Kurdish borders, oil fields",
+    "summary": "The ruling comes a day after Kurdish authorities accused Baghdad of an 'assault' on the region's constitutional rights.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
+    "publishedAt": "2026-11-25T17:29:51.000Z"
+  },
+  {
+    "id": "faa895b828bba219",
+    "title": "Trump open to pardoning Jensen Huang if needed: ‘It’s always an option’",
+    "summary": "The president’s comments came after pressuring Nvidia’s board to reinstall Huang as CEO despite lawmakers’ concerns over national security.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
+    "publishedAt": "2026-11-25T17:21:10.000Z"
+  },
+  {
     "id": "62d977b7d482ee4b",
     "title": "Poundland collapses putting 11,000 jobs at risk",
     "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
@@ -7,6 +52,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
     "publishedAt": "2026-11-25T17:11:09.000Z"
+  },
+  {
+    "id": "05aab9fe7b4acaa6",
+    "title": "What's gone wrong at Poundland?",
+    "summary": "Poundland has collapse into administration. Why?",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
+    "publishedAt": "2026-11-25T17:00:32.000Z"
   },
   {
     "id": "41e0cf4defa47277",
@@ -25,6 +79,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/science/2026/nov/25/dimorphos-asteroid-spacecraft-crash-closeup-images",
     "publishedAt": "2026-11-25T16:49:33.000Z"
+  },
+  {
+    "id": "70258c90a4104149",
+    "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+    "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo",
+    "publishedAt": "2026-11-25T16:42:11.000Z"
   },
   {
     "id": "ff16e47c0dbb0f2a",
@@ -115,6 +178,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/education/2026/nov/25/house-democrats-harvard-boycott-strike",
     "publishedAt": "2026-11-25T15:47:25.000Z"
+  },
+  {
+    "id": "7a10a5eb4832f866",
+    "title": "Pope creates new Vatican initiative to coordinate church's prison ministry in sign it's a priority",
+    "summary": "Pope Leo XIV has launched a new global initiative to coordinate the Catholic Church’s spiritual care for inmates.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/pope-creates-new-vatican-initiative-coordinate-churchs-prison-138441517",
+    "publishedAt": "2026-11-25T15:43:16.000Z"
   },
   {
     "id": "8590d07b78e289bd",
@@ -322,6 +394,15 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
     "publishedAt": "2026-11-25T14:14:34.000Z"
+  },
+  {
+    "id": "19957e2dee610c9b",
+    "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+    "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo",
+    "publishedAt": "2026-11-25T14:06:13.000Z"
   },
   {
     "id": "9d648dc5468e2268",
@@ -565,6 +646,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/law/2026/nov/25/hillsborough-law-families-funding-deaths-legal-aid",
     "publishedAt": "2026-11-25T12:22:02.000Z"
+  },
+  {
+    "id": "3cc4786f8522ae83",
+    "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+    "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo",
+    "publishedAt": "2026-11-25T12:21:49.000Z"
   },
   {
     "id": "82c96fcfe95c9483",
@@ -862,6 +952,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/25/we-need-to-be-seen-over-a-third-of-uk-muslim-students-face-islamophobia?traffic_source=rss",
     "publishedAt": "2026-11-25T10:05:24.000Z"
+  },
+  {
+    "id": "29e6b3862545037a",
+    "title": "Protesters call on Israel to free Palestinian student held without charge",
+    "summary": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo",
+    "publishedAt": "2026-11-25T10:03:42.000Z"
   },
   {
     "id": "24a8fc92f62bf60f",
@@ -1249,104 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
     "publishedAt": "2026-11-25T06:00:36.000Z"
-  },
-  {
-    "id": "0d1f87326e9a8b49",
-    "title": "How a new way of measuring tides could make flood forecasts more accurate",
-    "summary": "Analysis of differences in tidal height across beaches could lead to more localised tide and flood forecasts.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/25/new-way-of-measuring-tides-flood-forecasts-accurate",
-    "publishedAt": "2026-11-25T06:00:08.000Z"
-  },
-  {
-    "id": "16004642bbb565ec",
-    "title": "China-linked battery projects could receive UK funding despite security warnings",
-    "summary": "China-made lithium-ion batteries, which are relatively low-cost, dominate Ofgem project shortlist.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/25/china-battery-projects-uk-funding-security-warnings",
-    "publishedAt": "2026-11-25T06:00:07.000Z"
-  },
-  {
-    "id": "dd1aa6a3f6ec648b",
-    "title": "Malaysia Airlines’ parent to buy 10 Boeing Dreamliners, with options for 6 more",
-    "summary": "Malaysia Airlines' parent company has announced plans to buy 10 Boeing 787 Dreamliners, with options for six more, as part of its fleet modernization strategy.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/malaysia-airlines-parent-buy-10-boeing-dreamliners-options-138432544",
-    "publishedAt": "2026-11-25T05:59:11.000Z"
-  },
-  {
-    "id": "0d5bcc1027728734",
-    "title": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
-    "summary": "The opposition Congress party calls Israel’s war on Gaza a genocide, but its leader still wants strong ties with Israel.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi?traffic_source=rss",
-    "publishedAt": "2026-11-25T05:27:32.000Z"
-  },
-  {
-    "id": "8c9fabb419ae423f",
-    "title": "The Gambia election: Can the next president deliver on a decade of promise",
-    "summary": "Gambians head to the polls amid economic hardship and unfulfilled promises of reform and justice.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
-    "publishedAt": "2026-11-25T05:03:04.000Z"
-  },
-  {
-    "id": "9df6a7e0d70d208c",
-    "title": "In charts: how power could shift in Europe’s big year of elections",
-    "summary": "More than half of EU voters will go to the polls in the next 12 months, with the far right targeting significant gains. We set out the political landscape and trends.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right",
-    "publishedAt": "2026-11-25T05:00:06.000Z"
-  },
-  {
-    "id": "52b867026bfc0ee0",
-    "title": "‘They don’t believe in freedom’: Yemenis plan their escape as Houthis advance on Aden",
-    "summary": "With Iran’s proxy fighters encircling the temporary capital, residents and NGOs prepare to evacuate.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
-    "publishedAt": "2026-11-25T05:00:06.000Z"
-  },
-  {
-    "id": "b6cf518c4b9f22f1",
-    "title": "UK warns companies of potential Russian sabotage threat",
-    "summary": "Britain's Defence Ministry and security service warn of the threat in unusual public announcement.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
-    "publishedAt": "2026-11-25T04:48:57.000Z"
-  },
-  {
-    "id": "e6a1d6f65a88b464",
-    "title": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
-    "summary": "Muhammad Zeeshan Ali, a former fighter pilot, is the first foreigner to join a Chinese crewed space mission.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o",
-    "publishedAt": "2026-11-25T04:46:23.000Z"
-  },
-  {
-    "id": "304b3ff6de3dd120",
-    "title": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
-    "summary": "Clubs fail to.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
-    "publishedAt": "2026-11-25T04:29:29.000Z"
-  },
-  {
-    "id": "96bc43410782dee4",
-    "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
-    "summary": "Abelardo de la Espriella to take control of an operation involving scores of security personnel trying to free at least 20 hostages.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-    "publishedAt": "2026-11-25T03:57:11.000Z"
   }
 ]
