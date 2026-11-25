@@ -1,5 +1,41 @@
 [
   {
+    "id": "6e5ef958a13f4c18",
+    "title": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
+    "summary": "Anthony Albanese and Matthew Wale sign new treaty as Solomon Islands PM states his country no longer ‘a source of uncertainty and doubt in the region’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
+    "publishedAt": "2026-11-25T01:51:02.000Z"
+  },
+  {
+    "id": "b7d838463719ca53",
+    "title": "China investigates politburo star in Xi Jinping’s latest purge",
+    "summary": "Chen Jining, regarded as a contender for higher office, becomes the fourth member of China’s elite politburo to be investigated since 2025.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
+    "publishedAt": "2026-11-25T01:31:46.000Z"
+  },
+  {
+    "id": "ecc097be75c1f97d",
+    "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+    "summary": "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+    "publishedAt": "2026-11-25T01:30:44.000Z"
+  },
+  {
+    "id": "75d4a6c12ba2cfe3",
+    "title": "Poll finds US voters want government to end Iran war regardless of terms",
+    "summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+    "publishedAt": "2026-11-25T01:14:22.000Z"
+  },
+  {
     "id": "4bd932e8b57a5b83",
     "title": "Will there be a White Christmas this year?",
     "summary": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?",
@@ -7,6 +43,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo",
     "publishedAt": "2026-11-25T01:03:24.000Z"
+  },
+  {
+    "id": "f4857084d228e708",
+    "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+    "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo",
+    "publishedAt": "2026-11-25T01:03:05.000Z"
   },
   {
     "id": "4544e3a26ae51dfd",
@@ -358,6 +403,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
     "publishedAt": "2026-11-24T21:16:41.000Z"
+  },
+  {
+    "id": "efb457c96b7aee63",
+    "title": "US court convicts Huawei for deceiving banks about Iran dealings",
+    "summary": "US authorities have long claimed the Chinese tech giant poses national security risks.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-25/huawei-convicted-us-trial-deception-trade-secrets/107423640",
+    "publishedAt": "2026-11-24T21:09:13.000Z"
   },
   {
     "id": "28ea865f0ac56e4c",
@@ -837,6 +891,15 @@
     "publishedAt": "2026-11-24T16:31:48.000Z"
   },
   {
+    "id": "a9daeee7fdc1d0e6",
+    "title": "Nurses vote for industrial action over pay",
+    "summary": "Nurses will take continuous action short of strike from 3 December - such action includes working to rule and a ban on overtime.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crn4kqk07d9ko",
+    "publishedAt": "2026-11-24T16:31:10.000Z"
+  },
+  {
     "id": "a80b129c68390b76",
     "title": "‘The mistake has been corrected’: end of Jensen Huang’s brief walk in the wilderness",
     "summary": "Tech sector’s campaign to reinstate Nvidia boss began soon after ousting over affair with alleged Chinese spy.",
@@ -1285,68 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/24/virginia-voting-rights-abortion-gay-marriage",
     "publishedAt": "2026-11-24T13:30:47.000Z"
-  },
-  {
-    "id": "6f5903af2627a15e",
-    "title": "Ministers approve fast-track disability payments in England and Wales",
-    "summary": "Benefit claims made easier in first stage of shake-up of welfare system.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/24/ministers-approve-fast-track-disability-payments-in-england-and-wales",
-    "publishedAt": "2026-11-24T13:30:46.000Z"
-  },
-  {
-    "id": "bb84d462bbf5ea68",
-    "title": "British officials warn UK firms aiding Ukraine to brace for Russian sabotage threats",
-    "summary": "British security officials have warned U.K. companies supporting Ukraine's military to brace for potential sabotage attempts by Russia.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/british-officials-warn-uk-firms-aiding-ukraine-brace-138406967",
-    "publishedAt": "2026-11-24T13:30:28.000Z"
-  },
-  {
-    "id": "fda6ed70eb4a531b",
-    "title": "Thousands of Sikh pilgrims flood Pakistan shrine for founder of Sikhism's birthday",
-    "summary": "Thousands of Sikh pilgrims from India have gathered in eastern Pakistan to celebrate the 557th birthday of Guru Nanak, the founder of Sikhism.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/thousands-sikh-pilgrims-india-flood-pakistan-shrine-founder-138408035",
-    "publishedAt": "2026-11-24T13:30:24.000Z"
-  },
-  {
-    "id": "2202abb8057eb73c",
-    "title": "NHS caterer Compass confirms plan to ditch main London listing for New York",
-    "summary": "World’s largest catering group supplies big tech firms such as Microsoft, Google and Amazon in the US.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/24/nhs-caterer-compass-london-listing-new-york-us-ftse-100",
-    "publishedAt": "2026-11-24T13:30:22.000Z"
-  },
-  {
-    "id": "034750cc4ab741bd",
-    "title": "Malaysia to repatriate another 6,803 Myanmar nationals despite ICJ genocide ruling",
-    "summary": "Malaysia's Prime Minister Anwar Ibrahim says the country plans to repatriate another 6,803 Myanmar nationals next month.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/malaysia-repatriate-6803-myanmar-nationals-despite-icj-genocide-138404157",
-    "publishedAt": "2026-11-24T13:26:38.000Z"
-  },
-  {
-    "id": "8c9c1f9f67fc72ba",
-    "title": "Two arrested after break-in at Kate and William's estate",
-    "summary": "British police say two are arrested on suspicion of burglary after an incident at the Sandringham Estate.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-25/kate-william-prince-of-wales-break-in-anmer-hall/107423242",
-    "publishedAt": "2026-11-24T13:23:57.000Z"
-  },
-  {
-    "id": "328a5745d169baef",
-    "title": "Heat deaths reach record high in UK in 2026",
-    "summary": "The UK Health Security Agency estimates that the total number of deaths has reached 5,258 for the summer of 2026.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/24/heat-deaths-reach-record-high-in-uk-in-2026?traffic_source=rss",
-    "publishedAt": "2026-11-24T13:11:25.000Z"
   }
 ]
