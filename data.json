@@ -1,5 +1,50 @@
 [
   {
+    "id": "d192dc670f522310",
+    "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+    "summary": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o",
+    "publishedAt": "2026-11-26T00:08:07.000Z"
+  },
+  {
+    "id": "1266bb9606f65a2a",
+    "title": "US approves SpaceX plan to send a million data satellites to space",
+    "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+    "publishedAt": "2026-11-26T00:07:51.000Z"
+  },
+  {
+    "id": "3adf937ffac870a6",
+    "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+    "summary": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o",
+    "publishedAt": "2026-11-26T00:01:37.000Z"
+  },
+  {
+    "id": "6770f64a8825cc50",
+    "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+    "summary": "Explosion reported in Sanaa after Saudi air defenses intercept ballistic missiles targeting Riyadh.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
+    "publishedAt": "2026-11-25T23:33:39.000Z"
+  },
+  {
+    "id": "1363111d6b48873a",
+    "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
+    "summary": "Mariam Dagga shares award with two of her colleagues from AP for ‘powerful coverage’ of human cost of war.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
+    "publishedAt": "2026-11-25T23:06:06.000Z"
+  },
+  {
     "id": "5f66c2a33ccbf025",
     "title": "Long waits 'a tragedy' as thousands seek ADHD and autism assessments",
     "summary": "A GP warns that long waits for ADHD and autism assessments mean those most in need are not being seen.",
@@ -448,6 +493,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/25/woman-did-not-believe-husband-drugged-her-for-rape-by-strangers-manchester-trial",
     "publishedAt": "2026-11-25T17:36:42.000Z"
+  },
+  {
+    "id": "76095f385ae50194",
+    "title": "US Army detonates country's entire stockpile of lead azide explosives",
+    "summary": "Residents in the area are being urged to take precautions due to concerns the explosion may throw lead particles into the air.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-26/iowa-us-army-lead-azide/107427996",
+    "publishedAt": "2026-11-25T17:32:01.000Z"
   },
   {
     "id": "adb576a60fd0efa6",
@@ -1294,59 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/pope-leo-laments-lack-climate-commitments-after-talks-138434984",
     "publishedAt": "2026-11-25T11:08:34.000Z"
-  },
-  {
-    "id": "f7524360c5552546",
-    "title": "Cambodia hosts Chinese military for largest Golden Dragon joint exercise yet",
-    "summary": "Cambodia and China have started joint military exercises aimed at strengthening cooperation between Beijing and its closest political partner in Southeast Asia.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/cambodia-hosts-chinese-military-largest-golden-dragon-joint-138435076",
-    "publishedAt": "2026-11-25T11:08:32.000Z"
-  },
-  {
-    "id": "ddfbbda4992cc7d7",
-    "title": "29 miners believed trapped by flooding in an unauthorized gold mine in Indonesia",
-    "summary": "Rescuers recovered three bodies Wednesday and searched for 23 other miners believed trapped in a flooded illegal gold mine in Indonesia’s West Java province.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/29-miners-believed-trapped-flooding-unauthorized-gold-mine-138433064",
-    "publishedAt": "2026-11-25T11:06:14.000Z"
-  },
-  {
-    "id": "8cfe7c56b51275df",
-    "title": "Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list",
-    "summary": "Eleven Bangladeshi players have entered their names for the auction, a year after Mustafiz's expulsion from the league.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/25/shakib-mustafizur-not-among-bangladeshi-players-on-2027-ipl-auction-list?traffic_source=rss",
-    "publishedAt": "2026-11-25T11:02:03.000Z"
-  },
-  {
-    "id": "cb0006e547f946c4",
-    "title": "Midterm gains by US gun control activists’ signals decline of gun lobby",
-    "summary": "More than 200 people endorsed by Everytown for Gun Safety won state and federal races in loss of dominance for NRA.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/midterms-democrats-gun-control-violence-prevention-movement",
-    "publishedAt": "2026-11-25T11:00:47.000Z"
-  },
-  {
-    "id": "ef344891300181ff",
-    "title": "China misusing Interpol to target dissidents, says leading UK lawyer",
-    "summary": "Concerns over Beijing’s use of ‘red notices’ as Hong Kong prepares to host police organisation’s general assembly.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/25/china-misusing-interpol-target-dissidents-uk-lawyer",
-    "publishedAt": "2026-11-25T11:00:46.000Z"
-  },
-  {
-    "id": "788faf87017693ff",
-    "title": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
-    "summary": "James ‘Fergie’ Chambers, at center of legal fight, says he ‘should not be unjustly accused’ because of leftwing views.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview",
-    "publishedAt": "2026-11-25T11:00:46.000Z"
   }
 ]
