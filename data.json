@@ -1,5 +1,41 @@
 [
   {
+    "id": "dbbcf3c29e2dde77",
+    "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
+    "summary": "A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+    "publishedAt": "2026-11-26T22:06:54.000Z"
+  },
+  {
+    "id": "b4489b3ebb719177",
+    "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+    "summary": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o",
+    "publishedAt": "2026-11-26T22:06:24.000Z"
+  },
+  {
+    "id": "452003268bcdba9c",
+    "title": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
+    "summary": "Fire chiefs say large swathes of the country are at risk from fires driven by high fuel loads, dry soil and hot weather.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
+    "publishedAt": "2026-11-26T21:33:36.000Z"
+  },
+  {
+    "id": "a310de02a1917f42",
+    "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+    "summary": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
+    "publishedAt": "2026-11-26T21:08:44.000Z"
+  },
+  {
     "id": "9e6c4c989ed54b01",
     "title": "Coalition team up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
     "summary": "Coalition voted in Senate to pass government’s final major piece of legislation for 2026, denying Greens’ bid for 25% tax on exports.",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
     "publishedAt": "2026-11-26T09:27:44.000Z"
-  },
-  {
-    "id": "1493566516b56d87",
-    "title": "UK signs £8bn deal to ensure submarines are 'warfighting ready'",
-    "summary": "The deal will allow \"work around the clock to get our submarines back out to sea\" , Wes Streeting says.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo",
-    "publishedAt": "2026-11-26T09:23:46.000Z"
-  },
-  {
-    "id": "dd80b4feed2dc6b2",
-    "title": "Seven beautiful places to visit in GTA VI, from mountains trails to an afternoon at the zoo",
-    "summary": "Need a break from all the crime and violence? There are plenty of places to get away from it all in Leonida.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/26/seven-beautiful-places-to-visit-in-gta-vi-from-mountains-trails-to-an-afternoon-at-the-zoo",
-    "publishedAt": "2026-11-26T09:20:50.000Z"
-  },
-  {
-    "id": "c37b18886859e7b8",
-    "title": "New defence laws could have ‘significant’ implications for human rights, Labor-led inquiry finds",
-    "summary": "Anthony Albanese defends laws and calls criticism ‘nonsense’ and ‘conspiracy theories’ from far left and far right.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/26/new-defence-laws-could-have-significant-implications-for-human-rights-labor-led-inquiry-finds",
-    "publishedAt": "2026-11-26T09:20:16.000Z"
-  },
-  {
-    "id": "a2164f3991fca894",
-    "title": "UK regulator admits error in calculating car finance compensation payments",
-    "summary": "FCA also tells Barclays to stop making settlement offers while it works through data problems.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/26/uk-regulator-admits-error-in-calculating-car-finance-compensation-payments",
-    "publishedAt": "2026-11-26T09:18:11.000Z"
   }
 ]
