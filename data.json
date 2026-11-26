@@ -1,5 +1,140 @@
 [
   {
+    "id": "0b5ec3a067b69679",
+    "title": "When will Poundland close? Five questions about its future",
+    "summary": "Why is Poundland closing down, and what will hapen to staff and suppliers?",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo",
+    "publishedAt": "2026-11-26T14:05:27.000Z"
+  },
+  {
+    "id": "117726bfa8f299a6",
+    "title": "Donations to One Nation from two Gina Rinehart associates to be probed by electoral authorities",
+    "summary": "Exclusive : Australian Electoral Commission to review $1m in donations to Pauline Hanson-led party from Adam Giles and Ian Plimer.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/27/one-nation-pauline-hanson-gina-rinehart-aec-donations-ntwnfb",
+    "publishedAt": "2026-11-26T14:00:40.000Z"
+  },
+  {
+    "id": "1323066cd0a8fc1d",
+    "title": "Beau Lamarre-Condon used his service weapon to murder two men. Did NSW police recruiters miss any red flags?",
+    "summary": "Video of convicted double murderer shows him in 2020 deploying a Taser at close range to an Indigenous man’s face, chest and neck.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/27/beau-lamarre-condon-service-weapon-murder-police-recruiters-ntwnfb",
+    "publishedAt": "2026-11-26T14:00:39.000Z"
+  },
+  {
+    "id": "c6adc1595901df8b",
+    "title": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
+    "summary": "Farmers’ federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
+    "publishedAt": "2026-11-26T14:00:39.000Z"
+  },
+  {
+    "id": "e21503701a8b1438",
+    "title": "Hugh Jackman not wrong to be ‘concerned’ about Woodside gas project near WA reef, Murray Watt says",
+    "summary": "Environment minister says he understands concerns about potential impact after 150 scientists and celebrities urged the government to block the project.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/27/hugh-jackman-woodside-gas-project-wa-reef-murray-watt",
+    "publishedAt": "2026-11-26T14:00:35.000Z"
+  },
+  {
+    "id": "4609220b8d829a01",
+    "title": "Millions of people to see average monthly mortgage payments rise by £100",
+    "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo",
+    "publishedAt": "2026-11-26T14:00:20.000Z"
+  },
+  {
+    "id": "f70baf0ffc8a31b9",
+    "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+    "summary": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+    "publishedAt": "2026-11-26T13:47:09.000Z"
+  },
+  {
+    "id": "f0b4016d08c78df0",
+    "title": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
+    "summary": "Latest figure of young people not in education, employment or training remains close to highest level in a decade.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+    "publishedAt": "2026-11-26T13:43:51.000Z"
+  },
+  {
+    "id": "edfe5ac33705107d",
+    "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+    "summary": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo",
+    "publishedAt": "2026-11-26T13:40:46.000Z"
+  },
+  {
+    "id": "a71f06ace79d8bbd",
+    "title": "Haftar meets Erdogan: Can Turkiye reunify Libya as it courts rival sides?",
+    "summary": "Maritime agreement pivotal for Turkiye's Eastern Mediterranean gas claims as Libya's unification process faces hurdles.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/haftar-meets-erdogan-can-turkiye-reunify-libya-as-it-courts-rival-sides?traffic_source=rss",
+    "publishedAt": "2026-11-26T13:34:21.000Z"
+  },
+  {
+    "id": "afd70fe24e551d9f",
+    "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+    "summary": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+    "publishedAt": "2026-11-26T13:31:28.000Z"
+  },
+  {
+    "id": "37a959a07906488d",
+    "title": "Jordan Parliament debates ‘antiterror’ law after deadly Karak church attack",
+    "summary": "House votes to refer draft amendments to the 2006 Anti-Terrorism Law to its Legal Committee for review.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss",
+    "publishedAt": "2026-11-26T13:23:46.000Z"
+  },
+  {
+    "id": "ef8c61463466ed5a",
+    "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
+    "summary": "Then ambassador to US wanted to discuss alternatives to World Trade Organisation in ‘under the radar’ meeting, documents reveal.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
+    "publishedAt": "2026-11-26T13:11:39.000Z"
+  },
+  {
+    "id": "856d3d9b30c21bc1",
+    "title": "Is UBI the solution to mass unemployment in an AI economy?",
+    "summary": "AI's rapid advance has led to calls for universal payments to prevent poverty and wealth inequality.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/26/is-ubi-the-solution-to-mass-unemployment-in-an-ai-economy?traffic_source=rss",
+    "publishedAt": "2026-11-26T13:04:51.000Z"
+  },
+  {
+    "id": "155c774d1f68d6ce",
+    "title": "Contraceptive pill usage in Great Britain fell drastically in last decade, research finds",
+    "summary": "Survey published in Lancet reveals ‘hormonal hesitancy’ on the rise – with implants and injections also increasingly spurned.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/26/contraceptive-pill-usage-in-great-britain-fell-drastically-in-last-decade-research-finds",
+    "publishedAt": "2026-11-26T13:00:51.000Z"
+  },
+  {
     "id": "4741ec0258e5be6b",
     "title": "Rescuers blocked from a fire. A child killed on the way to school. Miles-long trains are upending US lives",
     "summary": "Communities say big railroad companies won’t act and that lawmakers moving too slowly to address a major problem.",
@@ -414,6 +549,15 @@
     "publishedAt": "2026-11-26T10:02:09.000Z"
   },
   {
+    "id": "95ba70ff21874fdf",
+    "title": "The dhow builders crafting giant historic ships in India – in pictures",
+    "summary": "It takes three years for shipbuilders in the 16th-century port of Mandvi to complete a commission, in a trade that is as cultural as it is technical.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/26/tradition-giant-ships-india-shipbuilders-mandvi",
+    "publishedAt": "2026-11-26T10:00:52.000Z"
+  },
+  {
     "id": "140a281c412e2a05",
     "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
     "summary": "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh in.",
@@ -592,6 +736,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cky97x7delz9o",
     "publishedAt": "2026-11-26T08:30:12.000Z"
+  },
+  {
+    "id": "379c8f7a1212b3a3",
+    "title": "UK nuclear test veterans win 40-year battle for inquiry into Cold War tests",
+    "summary": "Britain’s prime minister has authorized an inquiry into the impact of nuclear weapons tests on military veterans after a 40-year campaign by survivors who say they were used as guinea pigs for tests that damaged their health and that of their children.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/uk-nuclear-test-veterans-win-40-year-battle-138436079",
+    "publishedAt": "2026-11-26T08:26:13.000Z"
   },
   {
     "id": "62d977b7d482ee4b",
@@ -1195,158 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/education/2026/nov/26/children-overcrowded-homes-gcse-results-study",
     "publishedAt": "2026-11-26T00:01:39.000Z"
-  },
-  {
-    "id": "42104a1f18a99845",
-    "title": "Patrick Radden Keefe’s London Falling named Waterstones book of the year",
-    "summary": "The word-of-mouth success of the journalist’s investigation into the death of a London teenager is ‘one of the defining features of the literary year’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/books/2026/nov/26/patrick-radden-keefes-london-falling-named-waterstones-book-of-the-year",
-    "publishedAt": "2026-11-26T00:01:39.000Z"
-  },
-  {
-    "id": "3adf937ffac870a6",
-    "title": "Guitar wars - the transatlantic battle over the Stratocaster",
-    "summary": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o",
-    "publishedAt": "2026-11-26T00:01:37.000Z"
-  },
-  {
-    "id": "e3f7fcad0ff4e129",
-    "title": "Macy's postpones Thanksgiving parade due to weather",
-    "summary": "The was the first time ever that the iconic celebration - known for its massive balloons floating past the city's skyscrapers - was delayed because of storms.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo",
-    "publishedAt": "2026-11-25T23:57:03.000Z"
-  },
-  {
-    "id": "86ed84505bb04eeb",
-    "title": "Fuel tanker crash ignites a massive fire on a highway surrounding Cairo, killing at least 31 people",
-    "summary": "A crash involving a fuel tanker has ignited a massive fire on a major highway surrounding Cairo, killing at least 31 people.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/fire-major-highway-surrounding-cairo-kills-30-people-138450467",
-    "publishedAt": "2026-11-25T23:46:17.000Z"
-  },
-  {
-    "id": "6770f64a8825cc50",
-    "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
-    "summary": "Explosion reported in Sanaa after Saudi air defenses intercept ballistic missiles targeting Riyadh.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
-    "publishedAt": "2026-11-25T23:33:39.000Z"
-  },
-  {
-    "id": "f16feb96f60a3dd4",
-    "title": "A renovation to upgrade these Hong Kong homes ended in an inferno that killed 168",
-    "summary": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o",
-    "publishedAt": "2026-11-25T23:26:50.000Z"
-  },
-  {
-    "id": "6851856bcb177a05",
-    "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
-    "summary": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o",
-    "publishedAt": "2026-11-25T23:18:27.000Z"
-  },
-  {
-    "id": "1363111d6b48873a",
-    "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
-    "summary": "Mariam Dagga shares award with two of her colleagues from AP for ‘powerful coverage’ of human cost of war.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
-    "publishedAt": "2026-11-25T23:06:06.000Z"
-  },
-  {
-    "id": "5f66c2a33ccbf025",
-    "title": "Long waits 'a tragedy' as thousands seek ADHD and autism assessments",
-    "summary": "A GP warns that long waits for ADHD and autism assessments mean those most in need are not being seen.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo",
-    "publishedAt": "2026-11-25T23:01:45.000Z"
-  },
-  {
-    "id": "a319fdc375aacdb3",
-    "title": "Record-breaking California tides cause major flooding of roads and businesses",
-    "summary": "Beaches close as Los Angeles and La Jolla see all-time high tides and big waves batter landmark pier in Pacifica.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
-    "publishedAt": "2026-11-25T22:56:36.000Z"
-  },
-  {
-    "id": "5d39a6b3e37df186",
-    "title": "Brad Pitt and Angelina Jolie settle years-long legal battle over joint French winery",
-    "summary": "Pitt filed the lawsuit against Jolie in 2022 after she sold her stake in Château Miraval, saying she broke their agreement not to sell their interests.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/film/2026/nov/25/brad-pitt-angelina-jolie-settle-french-winery-lawsuit",
-    "publishedAt": "2026-11-25T22:44:39.000Z"
-  },
-  {
-    "id": "9756dbf2f8d728b0",
-    "title": "Malen and Roma deny injury-hit PSG in Champions League draw",
-    "summary": "Champions League holders Paris Saint-Germain held to 2-2 draw by Roma as injury-ravaged squad struggle.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
-    "publishedAt": "2026-11-25T22:41:46.000Z"
-  },
-  {
-    "id": "0ab592523eb18bc5",
-    "title": "Man United denied at Sporting as referee overshadows Fernandes double",
-    "summary": "Bruno Fernandes nets twice in Lisbon, but referee's decisions in spotlight as Mauricio Pochettino denied first win.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/25/man-united-denied-at-sporting-as-referee-overshadows-fernandes-double?traffic_source=rss",
-    "publishedAt": "2026-11-25T22:15:59.000Z"
-  },
-  {
-    "id": "4ea9865f2a2635b4",
-    "title": "At least 30 killed as fuel tanker crash ignites large fire on Cairo highway",
-    "summary": "Blaze on ring road surrounding Egyptian capital injures at least 25 people and leaves cars and motorcycles charred.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
-    "publishedAt": "2026-11-25T22:10:12.000Z"
-  },
-  {
-    "id": "ba9ffe98f19defb0",
-    "title": "North Korea expels Swiss diplomat in sanctions row",
-    "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o",
-    "publishedAt": "2026-11-25T21:51:17.000Z"
-  },
-  {
-    "id": "cffc2f91e377f589",
-    "title": "US stocks fall further as fears over AI intensify",
-    "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
-    "publishedAt": "2026-11-25T21:43:18.000Z"
-  },
-  {
-    "id": "021f42eb5fd1e854",
-    "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
-    "summary": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
-    "publishedAt": "2026-11-25T21:41:34.000Z"
   }
 ]
