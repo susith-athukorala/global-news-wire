@@ -1,5 +1,32 @@
 [
   {
+    "id": "27d0f525dd6c195a",
+    "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+    "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+    "publishedAt": "2026-11-26T03:54:24.000Z"
+  },
+  {
+    "id": "52588aea239ae6af",
+    "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+    "summary": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
+    "publishedAt": "2026-11-26T03:27:33.000Z"
+  },
+  {
+    "id": "5cec0d1747ac3814",
+    "title": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
+    "summary": "Dario Amodei's remarks come amid predictions that AI may soon match or surpass human intelligence.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
+    "publishedAt": "2026-11-26T03:20:23.000Z"
+  },
+  {
     "id": "3b9953572b833136",
     "title": "Coalition would privatise Melbourne’s sewage treatment while selling state-owned land and renewables to fund Victorian election promises",
     "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold.",
@@ -7,6 +34,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
     "publishedAt": "2026-11-26T02:35:09.000Z"
+  },
+  {
+    "id": "55b98d429e96ead1",
+    "title": "Australia projected to completely miss 2035 emissions target without new climate policies",
+    "summary": "New official projections show country nearly on track for 2030 goal but Chris Bowen warns of ‘undeniable headwinds’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies",
+    "publishedAt": "2026-11-26T02:26:10.000Z"
   },
   {
     "id": "64ca7df9242cf6d3",
@@ -259,6 +295,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo",
     "publishedAt": "2026-11-25T23:01:45.000Z"
+  },
+  {
+    "id": "a319fdc375aacdb3",
+    "title": "Record-breaking California tides cause major flooding of roads and businesses",
+    "summary": "Beaches close as Los Angeles and La Jolla see all-time high tides and big waves batter landmark pier in Pacifica.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
+    "publishedAt": "2026-11-25T22:56:36.000Z"
   },
   {
     "id": "5d39a6b3e37df186",
@@ -1303,50 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/global-development/2026/nov/25/tin-cassiterite-brazil-amazon-illegal-mining-datacentres-evs",
     "publishedAt": "2026-11-25T13:00:27.000Z"
-  },
-  {
-    "id": "d4344fa853688a0c",
-    "title": "‘This is political oppression’: Native Americans accuse Massachusetts town in Thanksgiving dispute",
-    "summary": "Plymouth, where Pilgrims settled, accused of breaking 28-year old agreement over National Day of Mourning protest.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/native-americans-national-day-of-mourning-thanksgiving",
-    "publishedAt": "2026-11-25T13:00:26.000Z"
-  },
-  {
-    "id": "ecccfdef4e57d838",
-    "title": "Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all?",
-    "summary": "Weeks after a bitter Senate race in Michigan, US president calls Democratic victor ‘a smart guy’.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss",
-    "publishedAt": "2026-11-25T12:45:16.000Z"
-  },
-  {
-    "id": "f41cbcdc20ed399c",
-    "title": "Trinity Rodman out of USWNT’s World Cup qualifier due to shoulder injury",
-    "summary": "Star forward Trinity Rodman sustained a minor shoulder injury during Washington Spirit's 2-1 loss to Kansas City.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/25/trinity-rodman-out-of-uswnts-world-cup-qualifier-due-to-shoulder-injury?traffic_source=rss",
-    "publishedAt": "2026-11-25T12:43:25.000Z"
-  },
-  {
-    "id": "b47458e2e36167e0",
-    "title": "Bayern Munich’s Musiala checked for neurological symptoms in April 2025",
-    "summary": "Musiala was examined by the German club for neurological dysfunction after the initial onset of symptoms in 2025.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/25/bayern-munichs-musiala-checked-for-neurological-symptoms-in-april-2025?traffic_source=rss",
-    "publishedAt": "2026-11-25T12:42:56.000Z"
-  },
-  {
-    "id": "283a7d7cc0399cc0",
-    "title": "Boy, three, died from choking on food at Greater Manchester nursery, inquest hears",
-    "summary": "Thiago Wall was found to have unsurvivable hypoxic brain injury and died three days after incident, coroner says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/25/three-year-old-thiago-wall-choking-death-middleton-nursery",
-    "publishedAt": "2026-11-25T12:38:58.000Z"
   }
 ]
