@@ -1,5 +1,68 @@
 [
   {
+    "id": "4741ec0258e5be6b",
+    "title": "Rescuers blocked from a fire. A child killed on the way to school. Miles-long trains are upending US lives",
+    "summary": "Communities say big railroad companies won’t act and that lawmakers moving too slowly to address a major problem.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/26/freight-trains-blocking-streets-disrupting-life",
+    "publishedAt": "2026-11-26T13:00:35.000Z"
+  },
+  {
+    "id": "8d162dcba12149c6",
+    "title": "Cost of living roadshow highlights support on offer",
+    "summary": "This event in Sheerness is funded by the Crisis and Resilience Fund for those facing cash issues.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqz0ky4204jlo",
+    "publishedAt": "2026-11-26T12:49:07.000Z"
+  },
+  {
+    "id": "d7e75c6069b3e6f5",
+    "title": "430,000 UK homeowners face £500-plus jump in monthly mortgage payments",
+    "summary": "Bank of England warns of increases for millions coming off fixed deals over next three years as interest rates rise.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/26/430000-uk-homeowners-500-jump-monthly-mortgage-payments-bank-of-england-interest-rates",
+    "publishedAt": "2026-11-26T12:44:46.000Z"
+  },
+  {
+    "id": "c00b18ff3f3b67b6",
+    "title": "MP hosts 400,000 guests at daughter’s wedding in India’s poorest state",
+    "summary": "Five helipads built to ferry in VIP guests to wedding hosted by MP Anant Singh, with spectators climbing electricity pylons to catch glimpse of celebrations.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/26/india-anant-singh-hosts-400000-guests-wedding-guests-daughter",
+    "publishedAt": "2026-11-26T12:43:10.000Z"
+  },
+  {
+    "id": "fbd503684f002e14",
+    "title": "Huw Edwards to speak about his crimes and fall from grace in Channel 4 documentary",
+    "summary": "It will be the first time the disgraced former BBC presenter has spoken about his 2024 conviction for making indecent images of children.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/26/huw-edwards-documentary-channel-4-crimes-conviction",
+    "publishedAt": "2026-11-26T12:38:40.000Z"
+  },
+  {
+    "id": "5164d19f2cb8827a",
+    "title": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
+    "summary": "The US and Russia’s candidate for secretary general is on a charm offensive. Can she overcome London’s resistance to her bid?",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general",
+    "publishedAt": "2026-11-26T12:37:42.000Z"
+  },
+  {
+    "id": "bdba40fd8070d21a",
+    "title": "FIFA says personal and business information stolen in cyberattack",
+    "summary": "FIFA sources say no files from the abandoned FIFA Forward Enterprise project were accessed.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss",
+    "publishedAt": "2026-11-26T12:31:46.000Z"
+  },
+  {
     "id": "ab6e2293f47c7129",
     "title": "US-backed Ebola quarantine center violated constitution, Kenyan court rules",
     "summary": "Kenya's government violated the constitution by allowing the construction of a U.S.-backed Ebola quarantine facility without public participation, the High Court has ruled.",
@@ -639,6 +702,15 @@
     "publishedAt": "2026-11-26T06:56:24.000Z"
   },
   {
+    "id": "acaedfcf25bdc422",
+    "title": "‘Are they all turncoats?’: Barnaby Joyce says voters are turning to One Nation – and Liberals like Blyth can too",
+    "summary": "South Australian senator Leah Blyth labels One Nation the ‘only party with the bold ideas needed to turn this country around’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
+    "publishedAt": "2026-11-26T06:55:35.000Z"
+  },
+  {
     "id": "936733cfe64855c4",
     "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
     "summary": "The Trump administration gave Elon Musk's SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a move that has raised skepticism among scientists.",
@@ -1152,6 +1224,15 @@
     "publishedAt": "2026-11-25T23:57:03.000Z"
   },
   {
+    "id": "86ed84505bb04eeb",
+    "title": "Fuel tanker crash ignites a massive fire on a highway surrounding Cairo, killing at least 31 people",
+    "summary": "A crash involving a fuel tanker has ignited a massive fire on a major highway surrounding Cairo, killing at least 31 people.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/fire-major-highway-surrounding-cairo-kills-30-people-138450467",
+    "publishedAt": "2026-11-25T23:46:17.000Z"
+  },
+  {
     "id": "6770f64a8825cc50",
     "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
     "summary": "Explosion reported in Sanaa after Saudi air defenses intercept ballistic missiles targeting Riyadh.",
@@ -1267,86 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
     "publishedAt": "2026-11-25T21:41:34.000Z"
-  },
-  {
-    "id": "c863f4e9c4742d72",
-    "title": "How to talk AI around the Thanksgiving table",
-    "summary": "You're gathered with family this Thanksgiving when the topic of AI comes up. How can you have a productive, fact-based conversation?",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table",
-    "publishedAt": "2026-11-25T21:33:59.000Z"
-  },
-  {
-    "id": "a8a8b7584b71967e",
-    "title": "Flinders Island bushfire grows to 13,000 hectares with Tasmanian homes and properties at risk",
-    "summary": "Fire making a ‘significant run’ towards the southwest of the island on Thursday, Tasmania Fire Service says.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
-    "publishedAt": "2026-11-25T21:32:12.000Z"
-  },
-  {
-    "id": "7b95ff80698c2ff6",
-    "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
-    "summary": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o",
-    "publishedAt": "2026-11-25T21:25:14.000Z"
-  },
-  {
-    "id": "d1fd89246805c37e",
-    "title": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan",
-    "summary": "South African pharmaceutical company Biovac says it aims to dramatically increase its vaccine production by the end of 2028 with help from a 75-million euro loan from the European Union's investment bank.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/south-africas-biovac-aims-dramatically-increase-vaccine-production-138451657",
-    "publishedAt": "2026-11-25T21:18:47.000Z"
-  },
-  {
-    "id": "35aefc1c88363f2f",
-    "title": "2 baby meerkats make their debut at Peruvian zoo, spotlighting conservation",
-    "summary": "A private zoo in Peru has introduced two baby meerkats born in Lima to raise awareness about wildlife conservation.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/2-baby-meerkats-make-debut-peruvian-zoo-spotlighting-138452825",
-    "publishedAt": "2026-11-25T21:18:38.000Z"
-  },
-  {
-    "id": "3779a723457afd5c",
-    "title": "Mushroom supplements promise health benefits. What does the science say?",
-    "summary": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Research suggests there are some links.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6047791-e1/mushroom-supplements-promise-health-benefits-what-does-the-science-say",
-    "publishedAt": "2026-11-25T21:11:21.000Z"
-  },
-  {
-    "id": "726c661848985c98",
-    "title": "New York City’s Macy’s Thanksgiving Day parade postponed due to weather",
-    "summary": "Forecasters say high winds on Thursday may spoil the annual march of huge balloons and have moved the parade to Saturday.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather",
-    "publishedAt": "2026-11-25T21:08:45.000Z"
-  },
-  {
-    "id": "21cb030d8b530e7f",
-    "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
-    "summary": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
-    "publishedAt": "2026-11-25T21:03:51.000Z"
-  },
-  {
-    "id": "3ce30d6978490601",
-    "title": "US Education Department probes Virginia schools after sexual abuse scandal",
-    "summary": "Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
-    "publishedAt": "2026-11-25T20:52:32.000Z"
   }
 ]
