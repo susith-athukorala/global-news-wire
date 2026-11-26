@@ -1,5 +1,86 @@
 [
   {
+    "id": "4046fd63851c9d45",
+    "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+    "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o",
+    "publishedAt": "2026-11-26T11:00:39.000Z"
+  },
+  {
+    "id": "7a24f698eb938355",
+    "title": "Kilmar Ábrego García leaves for Spain. But the Trump administration got what it wanted",
+    "summary": "His departure ends a high-profile legal battle over due process and deportation, but leaves the Trump administration facing little accountability for its actions.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/26/kilmar-abrego-garcia-spain-departure-trump",
+    "publishedAt": "2026-11-26T11:00:33.000Z"
+  },
+  {
+    "id": "66f84d71ac4745f1",
+    "title": "Ministers ‘fail to make case’ for Heathrow third runway, MPs report says",
+    "summary": "Transport committee says policy papers show expanding airport would fall short of pledges on economy and climate.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
+    "publishedAt": "2026-11-26T11:00:32.000Z"
+  },
+  {
+    "id": "864fb771cfdb87e7",
+    "title": "Thanksgiving dinner costs rise, putting pressure on US households",
+    "summary": "Turkeys see a 26-percent price rise, forcing families to reconsider hosting and opt for potluck-style celebrations.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/26/thanksgiving-dinner-costs-rise-putting-pressure-on-us-households?traffic_source=rss",
+    "publishedAt": "2026-11-26T10:30:00.000Z"
+  },
+  {
+    "id": "dd9d7811d80ed709",
+    "title": "Palestine coach says team represents suffering but also offers hope",
+    "summary": "Despite navigating personal hardships, Ihab Abu Jazar calls it a 'badge of honour' to coach the Palestine football team.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/26/palestine-national-football-team-coach-suffering-hope?traffic_source=rss",
+    "publishedAt": "2026-11-26T10:28:51.000Z"
+  },
+  {
+    "id": "7435a17464db2156",
+    "title": "Paul Whitehouse urges PM to act over ‘imminent extinction’ of Windermere’s ice-age fish",
+    "summary": "Experts say arctic char threatened by pollution in England’s biggest lake as comedian unveils sculpture.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/26/burnham-urged-to-act-extinction-windemere-arctic-char-paul-whitehouse",
+    "publishedAt": "2026-11-26T10:25:12.000Z"
+  },
+  {
+    "id": "1c9a3da20bea4ccf",
+    "title": "Kenya gov’t violated constitution with Ebola quarantine site, court says",
+    "summary": "Kenya's High Court orders halt to ⁠further works at quarantine facility until details of deal with US are disclosed.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/kenya-govt-violated-constitution-with-ebola-quarantine-site-court-says?traffic_source=rss",
+    "publishedAt": "2026-11-26T10:20:05.000Z"
+  },
+  {
+    "id": "e0b865fa26c8eba8",
+    "title": "Norse Atlantic Airways suspends all flights as it makes urgent funding plea",
+    "summary": "Norwegian airline says its finances are ‘critical’ and it will file for bankruptcy if it cannot secure short-term backing.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea",
+    "publishedAt": "2026-11-26T10:15:18.000Z"
+  },
+  {
+    "id": "aeadbb081ac99591",
+    "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+    "summary": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+    "publishedAt": "2026-11-26T10:10:03.000Z"
+  },
+  {
     "id": "1e9fdcc28c489be1",
     "title": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84",
     "summary": "The British musician brought deft playing to prog masterpiece In the Court of the Crimson King, then worked as a session musician with the likes of Bryan Ferry.",
@@ -18,6 +99,15 @@
     "publishedAt": "2026-11-26T10:02:09.000Z"
   },
   {
+    "id": "140a281c412e2a05",
+    "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
+    "summary": "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh in.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
+    "publishedAt": "2026-11-26T10:00:52.000Z"
+  },
+  {
     "id": "061fa5db564434f2",
     "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
     "summary": "Public Committee Against Torture in Israel examined 42 complaints against Shin Bet interrogators over past decade.",
@@ -25,6 +115,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
     "publishedAt": "2026-11-26T10:00:52.000Z"
+  },
+  {
+    "id": "4a218a47efce6d99",
+    "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
+    "summary": "Exclusive: Investigation finds at least 25 cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
+    "publishedAt": "2026-11-26T10:00:51.000Z"
   },
   {
     "id": "ca11bccd6cf04b63",
@@ -511,6 +610,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/26/teens-homicidal-thoughts-dismissed-as-crap-before-killed-10-year-old-inquest-ntwnfb",
     "publishedAt": "2026-11-26T04:11:34.000Z"
+  },
+  {
+    "id": "738443e67a1f4864",
+    "title": "US announces new tariffs on host of countries including China",
+    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+    "publishedAt": "2026-11-26T04:10:58.000Z"
   },
   {
     "id": "27d0f525dd6c195a",
@@ -1179,6 +1287,15 @@
     "publishedAt": "2026-11-25T18:55:23.000Z"
   },
   {
+    "id": "ff16e47c0dbb0f2a",
+    "title": "Poundland collapses, putting more than 10,000 jobs at risk",
+    "summary": "Budget retail chain expected to be broken up, with store closures, after US owner rejected at least two last-ditch bids.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers",
+    "publishedAt": "2026-11-25T18:50:54.000Z"
+  },
+  {
     "id": "d55f2bd937d7f8cb",
     "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
     "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
@@ -1186,6 +1303,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
     "publishedAt": "2026-11-25T18:48:48.000Z"
+  },
+  {
+    "id": "df4413dcc95ba0ca",
+    "title": "Nasa knocked an asteroid off course. New closeup photos shed light on aftermath",
+    "summary": "Images of Dimorphos four years on from crash could help scientists design potential planetary defence system.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/25/dimorphos-asteroid-spacecraft-crash-closeup-images",
+    "publishedAt": "2026-11-25T18:48:33.000Z"
   },
   {
     "id": "4702e50b73cdb998",
@@ -1222,131 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/25/spacex-datacenter-satellites-approval",
     "publishedAt": "2026-11-25T18:21:47.000Z"
-  },
-  {
-    "id": "9865d5c20da15fd9",
-    "title": "EU nationals will pay higher tuition fees than UK students, Burnham indicates",
-    "summary": "Asked by Kemi Badenoch to rule out equal rate for UK and EU students, PM says proposal ‘will not be put on the table’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/25/eu-nationals-will-pay-higher-tuition-fees-than-uk-students-burnham-indicates",
-    "publishedAt": "2026-11-25T18:19:19.000Z"
-  },
-  {
-    "id": "25bebad9ce276286",
-    "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
-    "summary": "Tinubu is under pressure to convince voters that military operations in the country's northeast will deliver security.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
-    "publishedAt": "2026-11-25T18:14:44.000Z"
-  },
-  {
-    "id": "25e0b737ebd943c1",
-    "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
-    "summary": "Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damaged.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
-    "publishedAt": "2026-11-25T18:14:27.000Z"
-  },
-  {
-    "id": "b9fd628e912ecbfe",
-    "title": "Kmart sued over 'dupes' three times in 18 months",
-    "summary": "Kmart has been sued three times in the past 18 months for its \"dupes\", but as demand grows, can the law protect creators?",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-26/kmart-sued-three-times-for-dupes/107296574",
-    "publishedAt": "2026-11-25T18:00:00.000Z"
-  },
-  {
-    "id": "0a59d67b072958e3",
-    "title": "Even buttons on clothes are suspect after Asia's exam cheating scandals",
-    "summary": "Wearable devices have emerged as aids to cheaters across Asia, where exams can determine people's life trajectories.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-26/asia-exams-and-ai-smart-glasses-cheating/107419882",
-    "publishedAt": "2026-11-25T18:00:00.000Z"
-  },
-  {
-    "id": "7cd4ff25e7d06fbc",
-    "title": "Ecuador and US review joint military operations, official says",
-    "summary": "Joint military efforts have been paused as the US investigates a lethal operation carried out by Ecuador.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss",
-    "publishedAt": "2026-11-25T17:50:41.000Z"
-  },
-  {
-    "id": "e96af791de45868f",
-    "title": "Kenya cult leader found guilty of new assault and cruelty charges",
-    "summary": "Jailed Kenyan cult leader Paul Mackenzie has been found guilty of assault and cruelty to children in a new case.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/kenya-cult-leader-found-guilty-new-assault-cruelty-138447436",
-    "publishedAt": "2026-11-25T17:47:30.000Z"
-  },
-  {
-    "id": "cf8b1c1e7185c34c",
-    "title": "Woman did not believe husband had drugged her for rape by strangers, Manchester trial told",
-    "summary": "Wife said to detectives: ‘I had no knowledge of what you told me had happened and I still can’t believe it’s true’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/25/woman-did-not-believe-husband-drugged-her-for-rape-by-strangers-manchester-trial",
-    "publishedAt": "2026-11-25T17:36:42.000Z"
-  },
-  {
-    "id": "76095f385ae50194",
-    "title": "US Army detonates country's entire stockpile of lead azide explosives",
-    "summary": "Residents in the area are being urged to take precautions due to concerns the explosion may throw lead particles into the air.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-26/iowa-us-army-lead-azide/107427996",
-    "publishedAt": "2026-11-25T17:32:01.000Z"
-  },
-  {
-    "id": "adb576a60fd0efa6",
-    "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-    "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
-    "publishedAt": "2026-11-25T17:30:16.000Z"
-  },
-  {
-    "id": "315f4c45ce6f325e",
-    "title": "Iraq’s top court rules government can take over Kurdish borders, oil fields",
-    "summary": "The ruling comes a day after Kurdish authorities accused Baghdad of an 'assault' on the region's constitutional rights.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
-    "publishedAt": "2026-11-25T17:29:51.000Z"
-  },
-  {
-    "id": "faa895b828bba219",
-    "title": "Trump open to pardoning Jensen Huang if needed: ‘It’s always an option’",
-    "summary": "The president’s comments came after pressuring Nvidia’s board to reinstall Huang as CEO despite lawmakers’ concerns over national security.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
-    "publishedAt": "2026-11-25T17:21:10.000Z"
-  },
-  {
-    "id": "62d977b7d482ee4b",
-    "title": "Poundland collapses putting 11,000 jobs at risk",
-    "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
-    "publishedAt": "2026-11-25T17:11:09.000Z"
-  },
-  {
-    "id": "05aab9fe7b4acaa6",
-    "title": "What's gone wrong at Poundland?",
-    "summary": "Poundland has collapse into administration. Why?",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
-    "publishedAt": "2026-11-25T17:00:32.000Z"
   }
 ]
