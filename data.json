@@ -1,5 +1,41 @@
 [
   {
+    "id": "fbef423370c9ab50",
+    "title": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
+    "summary": "Project capable of powering 300,000 homes, with Britain having offered more than £770m to rebuild energy sector.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
+    "publishedAt": "2026-11-26T05:00:46.000Z"
+  },
+  {
+    "id": "ac923b06e75d7950",
+    "title": "Six killed, including children, in plane crash off Mississippi coast",
+    "summary": "US authorities are investigating the reason behind the crash that killed members of the Stokes and Knox families.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
+    "publishedAt": "2026-11-26T04:48:42.000Z"
+  },
+  {
+    "id": "11839d5f522f2dce",
+    "title": "Brazil blasts ‘unacceptable’ new US tariff proposals",
+    "summary": "President Lula’s office says Brazil will not yield to threats and aims for a negotiated resolution.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss",
+    "publishedAt": "2026-11-26T04:47:47.000Z"
+  },
+  {
+    "id": "6dded9cc66e38f2a",
+    "title": "Teen’s homicidal thoughts dismissed as ‘crap’ days before she killed 10-year-old, inquest hears",
+    "summary": "Circumstances surrounding Bridgette ‘Biddy’ Porter’s death on rural NSW property being examined by coroner’s court.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/26/teens-homicidal-thoughts-dismissed-as-crap-before-killed-10-year-old-inquest-ntwnfb",
+    "publishedAt": "2026-11-26T04:11:34.000Z"
+  },
+  {
     "id": "27d0f525dd6c195a",
     "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
     "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’",
@@ -1312,41 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
     "publishedAt": "2026-11-25T13:04:17.000Z"
-  },
-  {
-    "id": "48031186a289396f",
-    "title": "Salon owner's chore woes prompt idea for new app",
-    "summary": "A salon owner sets up a skill-swapping app after she and clients were \"moaning\" about chores and admin.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6jren0308xzo",
-    "publishedAt": "2026-11-25T13:04:13.000Z"
-  },
-  {
-    "id": "11c5983683302ff2",
-    "title": "Solomon Islands signs security deal with Australia",
-    "summary": "Solomon Islands will have to consult Canberra before making new security or infrastructure deals under new pact.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
-    "publishedAt": "2026-11-25T13:02:45.000Z"
-  },
-  {
-    "id": "a727f1f3d5bf67b4",
-    "title": "Plane crash off coast of Mississippi kills six, including two children",
-    "summary": "Divers recover bodies after Cessna 210 went down in Gulf of Mexico on Tuesday afternoon killing all onboard.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/mississippi-plane-crash-gulf-mexico",
-    "publishedAt": "2026-11-25T13:02:24.000Z"
-  },
-  {
-    "id": "96a8d0142e2ce8f8",
-    "title": "How datacentres are driving an illegal mining rush in the Amazon ‘more devastating than gold’",
-    "summary": "As demand for tin ores pushes up prices, criminal gangs are exploiting Indigenous lands and weak regulation to profit from Brazil’s abundant cassiterite.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/nov/25/tin-cassiterite-brazil-amazon-illegal-mining-datacentres-evs",
-    "publishedAt": "2026-11-25T13:00:27.000Z"
   }
 ]
