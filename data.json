@@ -1,5 +1,95 @@
 [
   {
+    "id": "953dab5abe48008a",
+    "title": "Oxford museum displays seized belongings of Naga freedom fighter Gaidinliu for first time",
+    "summary": "Notebooks, clothes and ritual objects taken by British forces in the 1930s go on show at the Pitt Rivers Museum.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/culture/2026/nov/26/oxford-pitt-rivers-museum-naga-gaidinliu",
+    "publishedAt": "2026-11-26T19:03:47.000Z"
+  },
+  {
+    "id": "b8af6f3188e632fa",
+    "title": "Major East Midlands road projects shelved to divert funding to defence",
+    "summary": "Regional mayor says cancelling works on A38 at Derby and Newark bypass on A46 ‘disappointing and short-sighted’",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/26/major-east-midlands-road-projects-shelved-to-divert-funding-to-defence",
+    "publishedAt": "2026-11-26T18:47:24.000Z"
+  },
+  {
+    "id": "8e894356da0319bc",
+    "title": "Fifa confirms cyber-attack exposed ‘personal and business information’",
+    "summary": "Football’s governing body says hackers accessed a limited set of personal and business data.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information",
+    "publishedAt": "2026-11-26T18:45:44.000Z"
+  },
+  {
+    "id": "d7835cf83da1f98e",
+    "title": "Schizophrenic man found guilty of attempted murders of 14 people, including 10 on London-bound train",
+    "summary": "A schizophrenic man has been found guilty of the attempted murders of 14 people over three separate incidents over a 24-hour period that culminated with the stabbing of 10 people on a high-speed London-bound train.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/schizophrenic-man-found-guilty-attempted-murders-14-people-138470756",
+    "publishedAt": "2026-11-26T18:32:49.000Z"
+  },
+  {
+    "id": "e246140fd761a97b",
+    "title": "Guinea-Bissau’s military junta postpones elections until 2028, extending its rule by two years",
+    "summary": "Guinea-Bissau’s military government has postponed presidential and legislative elections until November 2028, extending its promised yearlong transition to civilian rule by roughly two years.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/guinea-bissaus-military-junta-postpones-elections-2028-extending-138470757",
+    "publishedAt": "2026-11-26T18:32:43.000Z"
+  },
+  {
+    "id": "bd0aa0117ec4b75d",
+    "title": "Hospitals in England brace for flu spike with admissions highest since pre-Covid",
+    "summary": "NHS chief says hospital bosses should consider asking staff and visitors to wear masks as winter pressures build.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
+    "publishedAt": "2026-11-26T18:27:49.000Z"
+  },
+  {
+    "id": "1e98c764a73ebd09",
+    "title": "Trump calls GDP data released before midterms ‘fake’, demands investigation",
+    "summary": "President says it was a deliberate decision to release 'fake' growth numbers before US midterm elections.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss",
+    "publishedAt": "2026-11-26T18:27:27.000Z"
+  },
+  {
+    "id": "2df7fe034588c1cf",
+    "title": "Second court defeat for Trump's deep-sea mining ambitions",
+    "summary": "Second judge rules against Trump administration's plans to lease areas of ocean floor and survey for mining.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o",
+    "publishedAt": "2026-11-26T18:22:28.000Z"
+  },
+  {
+    "id": "4a0c4639a1cda7df",
+    "title": "Some old-school advice for Burnham: boost competition if you want growth | Nils Pratley",
+    "summary": "Two former Treasury officials say the value of competition and disruption has become ‘the blind spot of UK economic policy’",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/26/old-school-advice-burnham-boost-competition-if-you-want-growth",
+    "publishedAt": "2026-11-26T18:19:14.000Z"
+  },
+  {
+    "id": "b661f1d123969c24",
+    "title": "What would happen if Russia detonated a nuclear weapon in space?",
+    "summary": "⁠Sputnik-S, a nuclear-enabled satellite, has been assembled by Russia and could be launched in 60 days, reports say.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space",
+    "publishedAt": "2026-11-26T18:13:33.000Z"
+  },
+  {
     "id": "ddd9768f2614e272",
     "title": "Guinea-Bissau presidential election delayed by two years",
     "summary": "Military leaders say presidential and legislative poll scheduled for December 6 will now take place in November 2028.",
@@ -556,6 +646,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general",
     "publishedAt": "2026-11-26T12:37:42.000Z"
+  },
+  {
+    "id": "44f16f836512c697",
+    "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+    "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po",
+    "publishedAt": "2026-11-26T12:33:23.000Z"
   },
   {
     "id": "bdba40fd8070d21a",
@@ -1134,6 +1233,15 @@
     "publishedAt": "2026-11-26T08:49:20.000Z"
   },
   {
+    "id": "52e2aa296598083c",
+    "title": "Sierra Leone sees steep decline in maternal mortality, but barriers to care persist",
+    "summary": "Fatmata Kamara's experience in Sierra Leone highlights both progress and challenges in maternal healthcare.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/sierra-leone-sees-steep-decline-maternal-mortality-barriers-138462429",
+    "publishedAt": "2026-11-26T08:34:21.000Z"
+  },
+  {
     "id": "de72f66d75907428",
     "title": "Thanksgiving and National Day of Mourning: What is the history?",
     "summary": "Indigenous activists challenge Thanksgiving narratives and highlight ongoing struggles for sovereignty and recognition.",
@@ -1240,113 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us",
     "publishedAt": "2026-11-26T07:02:37.000Z"
-  },
-  {
-    "id": "e8a459f161ad2841",
-    "title": "‘It’s in quite a dark place’: why UK housebuilding is struggling",
-    "summary": "The sector is in retreat across parts of the county, with developments paused. Despite a grim outlook for 2027 there is some cause for hope.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/26/why-uk-housebuilding-is-struggling",
-    "publishedAt": "2026-11-26T07:00:48.000Z"
-  },
-  {
-    "id": "d5ff5e043710bf9e",
-    "title": "War and drought threaten livelihoods of Sudan’s farmers",
-    "summary": "Attacks on electricity infrastructure and drought are threatening Sudan's harvests and leaving millions without water.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/26/war-and-drought-threaten-livelihoods-of-sudans-farmers?traffic_source=rss",
-    "publishedAt": "2026-11-26T06:56:34.000Z"
-  },
-  {
-    "id": "7f7a1feffeb2a5cc",
-    "title": "London commuters braced for disruption as tube strike begins",
-    "summary": "Industrial action by RMT drivers expected to cause severe disruption on Thursday and Friday.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/26/tube-drivers-strike-will-cause-severe-disruption-to-network-on-thursday-and-friday",
-    "publishedAt": "2026-11-26T06:56:24.000Z"
-  },
-  {
-    "id": "acaedfcf25bdc422",
-    "title": "‘Are they all turncoats?’: Barnaby Joyce says voters are turning to One Nation – and Liberals like Blyth can too",
-    "summary": "South Australian senator Leah Blyth labels One Nation the ‘only party with the bold ideas needed to turn this country around’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
-    "publishedAt": "2026-11-26T06:55:35.000Z"
-  },
-  {
-    "id": "936733cfe64855c4",
-    "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
-    "summary": "The Trump administration gave Elon Musk's SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a move that has raised skepticism among scientists.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
-    "publishedAt": "2026-11-26T06:53:09.000Z"
-  },
-  {
-    "id": "457e7f40942d6875",
-    "title": "Thursday briefing: Why young people are having less sex than ever",
-    "summary": "In today’s newsletter: A new study of sexual trends in Britain has found that one in three under-25s have never had sex, a flashy headline that obscures the real reasons behind a ‘sex recession’ among young people.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/26/thursday-briefing-why-young-people-are-having-less-sex-than-ever",
-    "publishedAt": "2026-11-26T06:45:01.000Z"
-  },
-  {
-    "id": "6ebfaed19192151c",
-    "title": "EU leaders seek to agree on a budget deal and a new loan for Ukraine",
-    "summary": "European Union leaders are seeking to resolve major differences over the bloc’s future budget and agree on a new loan to support Ukraine.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/eu-leaders-seek-bridge-differences-agree-budget-deal-138463077",
-    "publishedAt": "2026-11-26T06:43:27.000Z"
-  },
-  {
-    "id": "f4e3adc50a3d78c8",
-    "title": "Hong Kong marks deadly fire anniversary with flowers and tears following gov warning",
-    "summary": "Hong Kong residents have remembered the victims of the city's deadliest fire in decades by offering flowers and prayers.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/hong-kong-marks-deadly-fire-anniversary-flowers-prayers-138463173",
-    "publishedAt": "2026-11-26T06:41:41.000Z"
-  },
-  {
-    "id": "442f6b51bc7d9d87",
-    "title": "Jannik Sinner ruled out of 2027 Australian Open after knee surgery",
-    "summary": "Sinner, a two-time champion at Melbourne Park, has not played a match since winning the 2026 Wimbledon title in July.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/26/jannik-sinner-australian-open-2027-knee-injury-surgery-tennis?traffic_source=rss",
-    "publishedAt": "2026-11-26T06:32:48.000Z"
-  },
-  {
-    "id": "56886736679e9336",
-    "title": "Gaza meningitis cases surge as collapsing infrastructure fuels health fears",
-    "summary": "Meningitis is raising alarm in Gaza, where overcrowding, damaged sanitation are putting children at risk.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/gaza-meningitis-cases-surge-as-collapsing-infrastructure-fuels-health-fears?traffic_source=rss",
-    "publishedAt": "2026-11-26T06:14:15.000Z"
-  },
-  {
-    "id": "3f145ed93b275eff",
-    "title": "Parents cutting basics at Christmas, charity warns",
-    "summary": "The chief executive of Worthing Soup Kitchen says some families choose between food and presents.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq1k98gpzmy4o",
-    "publishedAt": "2026-11-26T06:13:47.000Z"
-  },
-  {
-    "id": "1bf6a24dcdc67f32",
-    "title": "How Silicon Valley became central to Israel’s war on Palestinians",
-    "summary": "From surveillance systems to AI targeting, US tech giants are deeply embedded in Israel's war machine.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
-    "publishedAt": "2026-11-26T06:12:53.000Z"
   }
 ]
