@@ -1,5 +1,95 @@
 [
   {
+    "id": "bd0fd61a14eafeba",
+    "title": "California braces for potential Thanksgiving flooding as storms threaten US coasts",
+    "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po",
+    "publishedAt": "2026-11-26T01:05:47.000Z"
+  },
+  {
+    "id": "1ece6666f7fa6856",
+    "title": "Puerto Rico's Supreme Court cancels a key power contract and many wonder what's next",
+    "summary": "Puerto Rico’s Supreme Court has narrowly ruled in favor of canceling the government’s contract with Luma Energy, following a contentious legal fight with the private power company.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/puerto-ricos-supreme-court-cancels-key-power-contract-138448039",
+    "publishedAt": "2026-11-26T01:00:10.000Z"
+  },
+  {
+    "id": "7aca862b6295dbc6",
+    "title": "Storms push Macy’s Thanksgiving Day Parade in New York City to Saturday",
+    "summary": "The parade, which marks its 100th edition, got a last-minute rain check ahead of heavy gusts on Thursday.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday?traffic_source=rss",
+    "publishedAt": "2026-11-26T00:52:56.000Z"
+  },
+  {
+    "id": "f4b2e4965e7a657f",
+    "title": "Two Syrian security personnel killed in ISIL suicide attack",
+    "summary": "Syrian forces say the attack in northeastern Syria's city of Hasakah involved four assailants who were all killed.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss",
+    "publishedAt": "2026-11-26T00:41:49.000Z"
+  },
+  {
+    "id": "aa825ed82d4a490a",
+    "title": "The US pastor who wants to see women's right to vote overturned",
+    "summary": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o",
+    "publishedAt": "2026-11-26T00:24:25.000Z"
+  },
+  {
+    "id": "1fc29e75de5b1e86",
+    "title": "Spanish elections: What you need to know and what's at stake",
+    "summary": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo",
+    "publishedAt": "2026-11-26T00:23:49.000Z"
+  },
+  {
+    "id": "39e47ef1c7cda736",
+    "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+    "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro",
+    "publishedAt": "2026-11-26T00:23:27.000Z"
+  },
+  {
+    "id": "7228030765882362",
+    "title": "Has global jihadism failed, or is it simply changing shape?",
+    "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro",
+    "publishedAt": "2026-11-26T00:22:18.000Z"
+  },
+  {
+    "id": "f55d55e52a9e0111",
+    "title": "Zambia bans protest against push to remove presidential term limits",
+    "summary": "Critics fear the campaign could undermine democratic safeguards as senior opposition figures remain behind bars.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss",
+    "publishedAt": "2026-11-26T00:22:15.000Z"
+  },
+  {
+    "id": "a3d6d0398ac43b8b",
+    "title": "A meeting with Democrats over healthcare? Trump says he’s open to it",
+    "summary": "Experts tell Al Jazeera they are sceptical that Trump would back Medicare for All, a proposal for national healthcare.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/a-meeting-with-democrats-over-healthcare-trump-says-hes-open-to-it?traffic_source=rss",
+    "publishedAt": "2026-11-26T00:18:49.000Z"
+  },
+  {
     "id": "d192dc670f522310",
     "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
     "summary": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
@@ -18,6 +108,42 @@
     "publishedAt": "2026-11-26T00:07:51.000Z"
   },
   {
+    "id": "572c760cb5662b31",
+    "title": "Ministers to create new stalking offence and scrap need for proof of fear or distress",
+    "summary": "Victims’ commissioner welcomes strengthening of law in England and Wales but calls for measures to tackle convicted stalkers.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/26/ministers-create-new-stalking-offence-scrap-need-for-proof-victims-fear-distress",
+    "publishedAt": "2026-11-26T00:01:40.000Z"
+  },
+  {
+    "id": "3565b82d1458eda0",
+    "title": "Social media making it harder for UK parents to raise families, survey finds",
+    "summary": "Poll of parents of young children finds three-quarters think pressure from influencers has increased their anxiety.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/26/social-media-making-it-harder-for-uk-parents-to-raise-families-survey-finds",
+    "publishedAt": "2026-11-26T00:01:40.000Z"
+  },
+  {
+    "id": "3cb5a3aec88018d6",
+    "title": "Children in overcrowded homes get poorer GCSE results, study finds",
+    "summary": "Researchers urge ministers to ensure young people in rented homes have space for a desk in their bedroom.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/education/2026/nov/26/children-overcrowded-homes-gcse-results-study",
+    "publishedAt": "2026-11-26T00:01:39.000Z"
+  },
+  {
+    "id": "42104a1f18a99845",
+    "title": "Patrick Radden Keefe’s London Falling named Waterstones book of the year",
+    "summary": "The word-of-mouth success of the journalist’s investigation into the death of a London teenager is ‘one of the defining features of the literary year’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/books/2026/nov/26/patrick-radden-keefes-london-falling-named-waterstones-book-of-the-year",
+    "publishedAt": "2026-11-26T00:01:39.000Z"
+  },
+  {
     "id": "3adf937ffac870a6",
     "title": "Guitar wars - the transatlantic battle over the Stratocaster",
     "summary": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
@@ -27,6 +153,15 @@
     "publishedAt": "2026-11-26T00:01:37.000Z"
   },
   {
+    "id": "e3f7fcad0ff4e129",
+    "title": "Macy's postpones Thanksgiving parade due to weather",
+    "summary": "The was the first time ever that the iconic celebration - known for its massive balloons floating past the city's skyscrapers - was delayed because of storms.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo",
+    "publishedAt": "2026-11-25T23:57:03.000Z"
+  },
+  {
     "id": "6770f64a8825cc50",
     "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
     "summary": "Explosion reported in Sanaa after Saudi air defenses intercept ballistic missiles targeting Riyadh.",
@@ -34,6 +169,24 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
     "publishedAt": "2026-11-25T23:33:39.000Z"
+  },
+  {
+    "id": "f16feb96f60a3dd4",
+    "title": "A renovation to upgrade these Hong Kong homes ended in an inferno that killed 168",
+    "summary": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o",
+    "publishedAt": "2026-11-25T23:26:50.000Z"
+  },
+  {
+    "id": "6851856bcb177a05",
+    "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+    "summary": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o",
+    "publishedAt": "2026-11-25T23:18:27.000Z"
   },
   {
     "id": "1363111d6b48873a",
@@ -1195,158 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/25/first-thing-democrats-trump-risked-us-security-nvidia-huang-apologises",
     "publishedAt": "2026-11-25T12:14:52.000Z"
-  },
-  {
-    "id": "6b56e7b683ad6a86",
-    "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-    "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o",
-    "publishedAt": "2026-11-25T12:12:11.000Z"
-  },
-  {
-    "id": "e660fb54fcc7259b",
-    "title": "'I use a bowl to wash myself and I'm £400 in debt - energy price rise scares me'",
-    "summary": "A woman already in energy debt says her anxiety is \"through the roof\" over further cost increases.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmly7q7zk77po",
-    "publishedAt": "2026-11-25T12:05:29.000Z"
-  },
-  {
-    "id": "81d34006bcd54736",
-    "title": "UK embassy in Japan warns of rise in drink spiking and credit card fraud at Tokyo bars",
-    "summary": "Social media campaign fronted by British rapper Shao Dow advises tourists not to let their guard down.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/25/british-embassy-tokyo-warning-tourists-drink-spiking-credit-card-fraud",
-    "publishedAt": "2026-11-25T11:59:22.000Z"
-  },
-  {
-    "id": "c316a2a9b7360218",
-    "title": "Overnight RSF drone attacks kill 19 in Sudan",
-    "summary": "The attacks also injured at least 20 people – the latest casualties in a drone war that is quickly escalating.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
-    "publishedAt": "2026-11-25T11:58:15.000Z"
-  },
-  {
-    "id": "f2bfc76dd0cd7c96",
-    "title": "EasyJet boss unable to rule out further job losses after profits collapse by 96%",
-    "summary": "Kenton Jarvis says rival airlines could go bust after Iran war drives sharp rises in fuel prices and hits travel demand.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/25/easyjet-unable-to-rule-out-further-jobs-losses-profits-collapse-fuel-prices-iran-war",
-    "publishedAt": "2026-11-25T11:53:45.000Z"
-  },
-  {
-    "id": "e2df78af3b24f9a6",
-    "title": "Ex England star Sterling given suspended sentence for dangerous driving",
-    "summary": "Raheem Sterling admitted inhaling 'laughing ⁠gas' and driving erratically before ​crashing his car.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/25/ex-england-star-sterling-given-suspended-sentence-for-dangerous-driving?traffic_source=rss",
-    "publishedAt": "2026-11-25T11:50:52.000Z"
-  },
-  {
-    "id": "c1e6355cdda9d0de",
-    "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
-    "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
-    "publishedAt": "2026-11-25T11:50:05.000Z"
-  },
-  {
-    "id": "deb1e2e2b6780c17",
-    "title": "Energy bills jump: how to switch providers and is it worth it?",
-    "summary": "It is possible to switch to a better tariff and save money despite the 26% price rise in January.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/18/energy-price-cap-rise-how-to-beat-the-january-hike",
-    "publishedAt": "2026-11-25T11:48:01.000Z"
-  },
-  {
-    "id": "17f4f2706334140f",
-    "title": "Sinner uncertain for Australian Open after undergoing knee surgery",
-    "summary": "The five-time Grand Slam champion has not played a match since winning Wimbledon in July.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/25/sinner-uncertain-for-australian-open-after-undergoing-knee-surgery?traffic_source=rss",
-    "publishedAt": "2026-11-25T11:42:02.000Z"
-  },
-  {
-    "id": "8ace7448fb5e1af9",
-    "title": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide",
-    "summary": "Raheem Sterling has avoided jail for dangerous driving while inhaling nitrous oxide, receiving a 12-month sentence suspended for 18 months at Basingstoke magistrates court on Wednesday.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
-    "publishedAt": "2026-11-25T11:34:10.000Z"
-  },
-  {
-    "id": "6662d8c355ee3f07",
-    "title": "Zidane was much better than me: Bellingham after Real Madrid wonder goal",
-    "summary": "Jude Bellingham admits he had 'no idea' what he'd done after scoring a goal that drew comparisons with Zinedine Zidane.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss",
-    "publishedAt": "2026-11-25T11:29:38.000Z"
-  },
-  {
-    "id": "ef4e7886f52fc2f4",
-    "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
-    "summary": "Kishanth Peramalya was denied entry due to sexual assault convictions and sent to Africa where he had no connections.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
-    "publishedAt": "2026-11-25T11:28:05.000Z"
-  },
-  {
-    "id": "0a71ace042b3668c",
-    "title": "Israeli strike kills Hamas official, his wife and children",
-    "summary": "The air strike hit their Gaza apartment amid escalating Israeli attacks, the Interior Ministry says.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
-    "publishedAt": "2026-11-25T11:24:37.000Z"
-  },
-  {
-    "id": "a829fd4dd1875e9e",
-    "title": "Indian Cockroach movement leader asks court for permission to fly to UK",
-    "summary": "Officials at Delhi airport stopped Saurav Das from boarding flight to Britain, where students have invited him to speak.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/25/indian-cockroach-movement-leader-asks-court-for-permission-to-fly-to-uk",
-    "publishedAt": "2026-11-25T11:15:35.000Z"
-  },
-  {
-    "id": "70ba594d24e0d820",
-    "title": "Amnesty calls for independent war crimes probe into Ethiopian shelling in Tigray",
-    "summary": "Amnesty International called for a war crimes investigation into shelling by Ethiopian troops and an allied militia in Tigray, saying it verified 14 civilian deaths in four attacks.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/amnesty-calls-independent-war-crimes-probe-ethiopian-shelling-138434543",
-    "publishedAt": "2026-11-25T11:08:40.000Z"
-  },
-  {
-    "id": "9e6b2c339364259b",
-    "title": "Migration to Spain's Canary Islands breaks single-day record with nearly 2,000 arrivals",
-    "summary": "Spanish authorities report nearly 2,000 migrants arrived at the Canary Islands on Tuesday, setting a record for a single day.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/migration-spains-canary-islands-breaks-single-day-record-138434894",
-    "publishedAt": "2026-11-25T11:08:35.000Z"
-  },
-  {
-    "id": "b88f594b57525e2e",
-    "title": "Pope Leo laments lack of climate commitments after UN talks end without agreement",
-    "summary": "Pope Leo XIV has expressed concern over the failure of United Nations climate talks to reach an agreement.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-leo-laments-lack-climate-commitments-after-talks-138434984",
-    "publishedAt": "2026-11-25T11:08:34.000Z"
   }
 ]
