@@ -18,6 +18,15 @@
     "publishedAt": "2026-11-26T02:13:00.000Z"
   },
   {
+    "id": "599290582adcabac",
+    "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+    "summary": "Somalia relies heavily on foreign funding and military support for its very survival.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo",
+    "publishedAt": "2026-11-26T02:06:10.000Z"
+  },
+  {
     "id": "4b4af1f4284c9fdf",
     "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
     "summary": "North Korean leader warns attempts to deny country's nuclear status will be seen as \"an open declaration of war\".",
@@ -1339,14 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/25/three-year-old-thiago-wall-choking-death-middleton-nursery",
     "publishedAt": "2026-11-25T12:38:58.000Z"
-  },
-  {
-    "id": "a319fdc375aacdb3",
-    "title": "California beaches close as record-breaking tides and major flooding loom",
-    "summary": "Most of state likely to avoid worst-case scenario of coastal flooding amplified by intense winter rainstorms.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
-    "publishedAt": "2026-11-25T12:30:25.000Z"
   }
 ]
