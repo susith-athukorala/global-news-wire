@@ -1,5 +1,32 @@
 [
   {
+    "id": "4b4af1f4284c9fdf",
+    "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+    "summary": "North Korean leader warns attempts to deny country's nuclear status will be seen as \"an open declaration of war\".",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+    "publishedAt": "2026-11-26T02:03:03.000Z"
+  },
+  {
+    "id": "6cc600fdef4989c3",
+    "title": "Ukraine attacks Russian military base, says five planes struck",
+    "summary": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
+    "publishedAt": "2026-11-26T01:39:46.000Z"
+  },
+  {
+    "id": "b34497f99afde0bd",
+    "title": "Australia's only TV shopping network goes into liquidation",
+    "summary": "The 31-year-old TVSN's final show was broadcast earlier this month after its owners failed to secure new investment or a buyer for the network.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-26/tvsn-shopping-network-channel-liquidation/107428726",
+    "publishedAt": "2026-11-26T01:21:01.000Z"
+  },
+  {
     "id": "bd0fd61a14eafeba",
     "title": "California braces for potential Thanksgiving flooding as storms threaten US coasts",
     "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
@@ -612,6 +639,15 @@
     "publishedAt": "2026-11-25T18:14:27.000Z"
   },
   {
+    "id": "b9fd628e912ecbfe",
+    "title": "Kmart sued over 'dupes' three times in 18 months",
+    "summary": "Kmart has been sued three times in the past 18 months for its \"dupes\", but as demand grows, can the law protect creators?",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-26/kmart-sued-three-times-for-dupes/107296574",
+    "publishedAt": "2026-11-25T18:00:00.000Z"
+  },
+  {
     "id": "0a59d67b072958e3",
     "title": "Even buttons on clothes are suspect after Asia's exam cheating scandals",
     "summary": "Wearable devices have emerged as aids to cheaters across Asia, where exams can determine people's life trajectories.",
@@ -1053,6 +1089,15 @@
     "publishedAt": "2026-11-25T14:14:34.000Z"
   },
   {
+    "id": "fc1f64a21e996476",
+    "title": "Two men face court over break-in at Kate and William's estate",
+    "summary": "Two men who allegedly broke into the country residence of the Prince and Princess of Wales stole six pairs of cufflinks and a clock, a UK court has heard.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-26/sandringham-estate-breakin-court-appearance/107427840",
+    "publishedAt": "2026-11-25T14:07:37.000Z"
+  },
+  {
     "id": "19957e2dee610c9b",
     "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
     "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
@@ -1303,50 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo",
     "publishedAt": "2026-11-25T12:24:12.000Z"
-  },
-  {
-    "id": "a7bccb235d3fe55c",
-    "title": "Hillsborough law ‘could leave families without vital legal funding after a death’",
-    "summary": "Campaigners say current draft of public office bill would deny bereaved families early access to representation.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/law/2026/nov/25/hillsborough-law-families-funding-deaths-legal-aid",
-    "publishedAt": "2026-11-25T12:22:02.000Z"
-  },
-  {
-    "id": "3cc4786f8522ae83",
-    "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-    "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo",
-    "publishedAt": "2026-11-25T12:21:49.000Z"
-  },
-  {
-    "id": "82c96fcfe95c9483",
-    "title": "Russian strikes on Ukraine cause power outages in five regions",
-    "summary": "A Ukrainian official says attacks on Zaporizhia and Dnipropetrovsk regions damaged a number of energy sites.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
-    "publishedAt": "2026-11-25T12:19:17.000Z"
-  },
-  {
-    "id": "e8287116189543cc",
-    "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
-    "summary": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
-    "publishedAt": "2026-11-25T12:18:09.000Z"
-  },
-  {
-    "id": "17167cee091869d7",
-    "title": "Democrats say Trump risked US security over Nvidia as Huang apologises | First Thing",
-    "summary": "Reinstated CEO tells staff ‘I made some terrible mistakes’, as questions remain over chips-to-China accusations. Plus, a woman has an untimely encounter with some turkeys before Thanksgiving.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/first-thing-democrats-trump-risked-us-security-nvidia-huang-apologises",
-    "publishedAt": "2026-11-25T12:14:52.000Z"
   }
 ]
