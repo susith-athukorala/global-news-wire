@@ -1,5 +1,86 @@
 [
   {
+    "id": "f1f5d0dd1d416a57",
+    "title": "US army calls detonation of bomb chemicals in Iowa a success after fears of toxic plume",
+    "summary": "The army blows up US stockpile of lead azide, a chemical used for explosives, to avoid uncontrollable explosion.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/26/iowa-chemical-lead-bomb-detonation-toxic-dust-fears",
+    "publishedAt": "2026-11-26T17:05:02.000Z"
+  },
+  {
+    "id": "6c6e2b62768821c7",
+    "title": "UK bill to implement EU deal will allow ministers to enact closer ties in future",
+    "summary": "Further deals can be enacted via same legislation, though it excludes rejoining single market, customs union or bloc as a whole.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/26/uk-bill-to-implement-eu-deal-closer-future-ties",
+    "publishedAt": "2026-11-26T17:00:52.000Z"
+  },
+  {
+    "id": "49e7127f5414f858",
+    "title": "How a teen’s death raises questions about Colombia’s security crackdown",
+    "summary": "President Abelardo de la Espriella's campaign against armed groups has resulted in accusations of extrajudicial killing.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
+    "publishedAt": "2026-11-26T16:49:59.000Z"
+  },
+  {
+    "id": "7dba987dbfb59263",
+    "title": "Spain's former central bank head chosen as next European Central Bank president",
+    "summary": "Eurozone leaders have chosen a new president of the European Central Bank.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/leaders-choose-spains-former-central-bank-head-european-138468703",
+    "publishedAt": "2026-11-26T16:48:04.000Z"
+  },
+  {
+    "id": "e4b88749f11b56b0",
+    "title": "Building collapse in Pakistan kills 4, with 17 still missing",
+    "summary": "A six-story building under construction collapsed in Karachi on Wednesday, killing at least four people.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/building-collapse-pakistan-kills-4-17-missing-138463814",
+    "publishedAt": "2026-11-26T16:47:13.000Z"
+  },
+  {
+    "id": "3db0b7c1c9b46114",
+    "title": "Emirati curator Hoor Al Qasimi becomes first Arab woman to lead Venice Biennale art show",
+    "summary": "Hoor Al Qasimi has been named as the first Arab and seventh woman to lead the Venice Biennale contemporary art exhibition, set for 2028.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/emirati-curator-hoor-al-qasimi-arab-woman-lead-138467614",
+    "publishedAt": "2026-11-26T16:45:48.000Z"
+  },
+  {
+    "id": "ad5279f11e867c3a",
+    "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+    "summary": "The Italians were technicians working at an air-defence surveillance station.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
+    "publishedAt": "2026-11-26T16:32:31.000Z"
+  },
+  {
+    "id": "96ef845be4b07adc",
+    "title": "Spanish economist to become new European Central Bank chief",
+    "summary": "French President Emmanuel Macron announces on X that EU leaders have agreed on the appointment of Pablo Hernandez de Cos.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
+    "publishedAt": "2026-11-26T16:20:54.000Z"
+  },
+  {
+    "id": "11e0cf03506c5776",
+    "title": "Georgia judge blocks own order to turn over US election ballot copies to state board",
+    "summary": "Superior court judge Kelly Lee Ellerbe paused the order after county election officials filed a notice of appeal.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/26/georgia-election-ballots-seized",
+    "publishedAt": "2026-11-26T16:08:04.000Z"
+  },
+  {
     "id": "32e556af0718b258",
     "title": "Pep Guardiola calls on world to ‘disobey horror’ over Gaza and praises BDS",
     "summary": "Football icon says it is more urgent than ever to demand an end to Israel's 'apartheid, colonialism and occupation'.",
@@ -52,6 +133,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss",
     "publishedAt": "2026-11-26T15:29:03.000Z"
+  },
+  {
+    "id": "64ca7df9242cf6d3",
+    "title": "New UK-EU treaty has 10-year termination clause",
+    "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
+    "publishedAt": "2026-11-26T15:23:17.000Z"
   },
   {
     "id": "9c13ceef6c44cd3c",
@@ -151,6 +241,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo",
     "publishedAt": "2026-11-26T14:35:22.000Z"
+  },
+  {
+    "id": "6839050e6cd64f45",
+    "title": "Spain’s far right hasn’t governed since Franco. Immigration fears could change that",
+    "summary": "Spain's far-right Vox party has pledged to crack down on immigration if it earns enough votes in Sunday's national election to enter into government.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/spains-hasnt-governed-franco-immigration-fears-change-138466653",
+    "publishedAt": "2026-11-26T14:34:30.000Z"
   },
   {
     "id": "6a21ed65195ff815",
@@ -1249,104 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po",
     "publishedAt": "2026-11-26T05:19:35.000Z"
-  },
-  {
-    "id": "9a38e3655c5dfd20",
-    "title": "‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release",
-    "summary": "Yuki Imai being held in Moscow on allegations he conducted ‘espionage’ while working for a newspaper in Sakhalin island in Russia’s far east.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
-    "publishedAt": "2026-11-26T05:16:17.000Z"
-  },
-  {
-    "id": "6cd000eb5d493bfb",
-    "title": "Puerto Rico’s Supreme Court cancels major power contract",
-    "summary": "The court's five-to-four ruling ends Luma Energy's operations after a contentious legal battle.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
-    "publishedAt": "2026-11-26T05:09:55.000Z"
-  },
-  {
-    "id": "fbef423370c9ab50",
-    "title": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
-    "summary": "Project capable of powering 300,000 homes, with Britain having offered more than £770m to rebuild energy sector.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
-    "publishedAt": "2026-11-26T05:00:46.000Z"
-  },
-  {
-    "id": "5291d8822318d479",
-    "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-    "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo",
-    "publishedAt": "2026-11-26T05:00:24.000Z"
-  },
-  {
-    "id": "ac923b06e75d7950",
-    "title": "Six killed, including children, in plane crash off Mississippi coast",
-    "summary": "US authorities are investigating the reason behind the crash that killed members of the Stokes and Knox families.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
-    "publishedAt": "2026-11-26T04:48:42.000Z"
-  },
-  {
-    "id": "11839d5f522f2dce",
-    "title": "Brazil blasts ‘unacceptable’ new US tariff proposals",
-    "summary": "President Lula’s office says Brazil will not yield to threats and aims for a negotiated resolution.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss",
-    "publishedAt": "2026-11-26T04:47:47.000Z"
-  },
-  {
-    "id": "6dded9cc66e38f2a",
-    "title": "Teen’s homicidal thoughts dismissed as ‘crap’ days before she killed 10-year-old, inquest hears",
-    "summary": "Circumstances surrounding Bridgette ‘Biddy’ Porter’s death on rural NSW property being examined by coroner’s court.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/26/teens-homicidal-thoughts-dismissed-as-crap-before-killed-10-year-old-inquest-ntwnfb",
-    "publishedAt": "2026-11-26T04:11:34.000Z"
-  },
-  {
-    "id": "738443e67a1f4864",
-    "title": "US announces new tariffs on host of countries including China",
-    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
-    "publishedAt": "2026-11-26T04:10:58.000Z"
-  },
-  {
-    "id": "e3f7fcad0ff4e129",
-    "title": "Macy's postpones Thanksgiving parade due to severe weather",
-    "summary": "The move represents the first postponement of the iconic event, and comes after a forecast of strong winds and heavy rain.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo",
-    "publishedAt": "2026-11-26T04:04:14.000Z"
-  },
-  {
-    "id": "27d0f525dd6c195a",
-    "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
-    "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-    "publishedAt": "2026-11-26T03:54:24.000Z"
-  },
-  {
-    "id": "52588aea239ae6af",
-    "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
-    "summary": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
-    "publishedAt": "2026-11-26T03:27:33.000Z"
   }
 ]
