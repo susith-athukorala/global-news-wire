@@ -1,5 +1,77 @@
 [
   {
+    "id": "080aefe5a3f9f4af",
+    "title": "Asia made a big AI bet on Nvidia. What happens now?",
+    "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo",
+    "publishedAt": "2026-11-26T23:08:12.000Z"
+  },
+  {
+    "id": "097b5ecca7df662b",
+    "title": "Chance of snow forecast for northern England and Scotland in next few days",
+    "summary": "Met Office warns of icy roads and risk of freezing rain on higher ground as weather turns cold and unsettled.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/26/chance-of-snow-forecast-northern-england-scotland",
+    "publishedAt": "2026-11-26T23:01:40.000Z"
+  },
+  {
+    "id": "2bb6fb569f60960a",
+    "title": "'We feed and wash her': Severe ME leaves woman bedbound for five years",
+    "summary": "Shauna Chambers said her partner Row was “full of energy” but now cannot tolerate light or noise.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg2d9dxdjdo",
+    "publishedAt": "2026-11-26T22:56:41.000Z"
+  },
+  {
+    "id": "63705c1f28f704db",
+    "title": "This week in science: anxiety in college students, potatoes on the moon and whale snot",
+    "summary": "Science reporters Nate Rott and Sanden Totten talk about the growing risk of anxiety among college students, a simulation of growing potatoes on the Moon, and the genetic secrets in whale snot.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/26/nx-s1-6044622/this-week-in-science-anxiety-in-college-students-potatoes-on-the-moon-and-whale-snot",
+    "publishedAt": "2026-11-26T22:55:53.000Z"
+  },
+  {
+    "id": "7c1276f2b258cfe6",
+    "title": "Floating nature islands installed in parks as Glasgow Games legacy",
+    "summary": "The islands, being planted in five Glasgow parks, are designed to encourage wildlife and help clean the water.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo",
+    "publishedAt": "2026-11-26T22:54:18.000Z"
+  },
+  {
+    "id": "c1a57e7fbfc1be65",
+    "title": "Argentina bans its central bank from printing money for the government",
+    "summary": "Argentina’s Congress has approved a law that bans the central bank from printing money to cover government spending.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/argentina-bans-central-bank-printing-money-government-138472438",
+    "publishedAt": "2026-11-26T22:53:24.000Z"
+  },
+  {
+    "id": "bda168cf233b296b",
+    "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+    "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
+    "publishedAt": "2026-11-26T22:49:27.000Z"
+  },
+  {
+    "id": "f4a8b8da97b396d5",
+    "title": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
+    "summary": "After 21 years at Time, Talbott joined the Clinton administration and later headed the Brookings Institution.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead",
+    "publishedAt": "2026-11-26T22:36:55.000Z"
+  },
+  {
     "id": "dbbcf3c29e2dde77",
     "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
     "summary": "A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.",
@@ -1276,77 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
     "publishedAt": "2026-11-26T10:00:51.000Z"
-  },
-  {
-    "id": "ca11bccd6cf04b63",
-    "title": "Ex-Cricket Australia boss James Sutherland defends ‘Sandpapergate’ probe",
-    "summary": "Meanwhile, David Warner denies a broadcaster's claim that he used superglue and grit to tamper with the ball.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/26/sandpapergate-cricket-australia-ceo-sutherland-david-warner-ball-tampering-2018?traffic_source=rss",
-    "publishedAt": "2026-11-26T09:52:36.000Z"
-  },
-  {
-    "id": "8dd40f75030c279a",
-    "title": "Public health specialist discusses the aftermath of the munitions detonation in Iowa",
-    "summary": "NPR's A Martinez speaks with public health specialist Will Sander of the University of Illinois Urbana-Champaign about the aftermath of the Iowa munitions detonation.",
-    "category": "Health",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/26/nx-s1-6053950/public-health-specialist-discusses-the-aftermath-of-the-munitions-detonation-in-iowa",
-    "publishedAt": "2026-11-26T09:42:38.000Z"
-  },
-  {
-    "id": "f342551cd92c6cf3",
-    "title": "Watchdog warns of several concerns in private dentistry market",
-    "summary": "The Competitions and Market Authority says reforms are needed to make sure people get a fair deal.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c98r7ydp7v0ko",
-    "publishedAt": "2026-11-26T09:42:29.000Z"
-  },
-  {
-    "id": "b6906def9b2ff8da",
-    "title": "Iqbal in space: Urdu poet’s verses unite India, Pakistan beyond Earth",
-    "summary": "Pakistan's first astronaut recited Iqbal on board China's space station, echoing two earlier encounters in orbit.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/iqbal-in-space-urdu-poets-verses-unite-india-pakistan-beyond-earth?traffic_source=rss",
-    "publishedAt": "2026-11-26T09:40:59.000Z"
-  },
-  {
-    "id": "54446b7a07d13d52",
-    "title": "Car finance compensation payments explained",
-    "summary": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo",
-    "publishedAt": "2026-11-26T09:39:50.000Z"
-  },
-  {
-    "id": "989923b5ddec9873",
-    "title": "Rescuers battle tough conditions in flooded Indonesian mine",
-    "summary": "Rescuers are battling high water, darkness and slippery, narrow terrain while searching for miners believed trapped by flooding in an illegal gold mine.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/rescuers-battle-wet-dark-conditions-flooded-indonesian-mine-138461363",
-    "publishedAt": "2026-11-26T09:39:22.000Z"
-  },
-  {
-    "id": "37061c5977c4adf3",
-    "title": "Older Australians suffering under Labor’s ‘botched’ aged care at home program, inquiry finds",
-    "summary": "The Support at Home system has ‘baffling’ bureaucracy and ‘rations and denies care’, says Greens chair of Senate inquiry.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/26/aged-care-home-support-program-algorithm-tool-inquiry-report",
-    "publishedAt": "2026-11-26T09:37:47.000Z"
-  },
-  {
-    "id": "1266bb9606f65a2a",
-    "title": "Musk's plan to send a million SpaceX data satellites into space approved",
-    "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
-    "publishedAt": "2026-11-26T09:27:44.000Z"
   }
 ]
