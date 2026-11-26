@@ -1,5 +1,158 @@
 [
   {
+    "id": "1e9fdcc28c489be1",
+    "title": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84",
+    "summary": "The British musician brought deft playing to prog masterpiece In the Court of the Crimson King, then worked as a session musician with the likes of Bryan Ferry.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84",
+    "publishedAt": "2026-11-26T10:02:17.000Z"
+  },
+  {
+    "id": "8c9e3c49e146b34e",
+    "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
+    "summary": "Russian forces launch ballistic missile attack on Ukrainian capital Kyiv, hitting a shopping centre and other buildings.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
+    "publishedAt": "2026-11-26T10:02:09.000Z"
+  },
+  {
+    "id": "061fa5db564434f2",
+    "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
+    "summary": "Public Committee Against Torture in Israel examined 42 complaints against Shin Bet interrogators over past decade.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
+    "publishedAt": "2026-11-26T10:00:52.000Z"
+  },
+  {
+    "id": "ca11bccd6cf04b63",
+    "title": "Ex-Cricket Australia boss James Sutherland defends ‘Sandpapergate’ probe",
+    "summary": "Meanwhile, David Warner denies a broadcaster's claim that he used superglue and grit to tamper with the ball.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/26/sandpapergate-cricket-australia-ceo-sutherland-david-warner-ball-tampering-2018?traffic_source=rss",
+    "publishedAt": "2026-11-26T09:52:36.000Z"
+  },
+  {
+    "id": "8dd40f75030c279a",
+    "title": "Public health specialist discusses the aftermath of the munitions detonation in Iowa",
+    "summary": "NPR's A Martinez speaks with public health specialist Will Sander of the University of Illinois Urbana-Champaign about the aftermath of the Iowa munitions detonation.",
+    "category": "Health",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/26/nx-s1-6053950/public-health-specialist-discusses-the-aftermath-of-the-munitions-detonation-in-iowa",
+    "publishedAt": "2026-11-26T09:42:38.000Z"
+  },
+  {
+    "id": "f342551cd92c6cf3",
+    "title": "Watchdog warns of several concerns in private dentistry market",
+    "summary": "The Competitions and Market Authority says reforms are needed to make sure people get a fair deal.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c98r7ydp7v0ko",
+    "publishedAt": "2026-11-26T09:42:29.000Z"
+  },
+  {
+    "id": "b6906def9b2ff8da",
+    "title": "Iqbal in space: Urdu poet’s verses unite India, Pakistan beyond Earth",
+    "summary": "Pakistan's first astronaut recited Iqbal on board China's space station, echoing two earlier encounters in orbit.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/iqbal-in-space-urdu-poets-verses-unite-india-pakistan-beyond-earth?traffic_source=rss",
+    "publishedAt": "2026-11-26T09:40:59.000Z"
+  },
+  {
+    "id": "54446b7a07d13d52",
+    "title": "Car finance compensation payments explained",
+    "summary": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo",
+    "publishedAt": "2026-11-26T09:39:50.000Z"
+  },
+  {
+    "id": "989923b5ddec9873",
+    "title": "Rescuers battle tough conditions in flooded Indonesian mine",
+    "summary": "Rescuers are battling high water, darkness and slippery, narrow terrain while searching for miners believed trapped by flooding in an illegal gold mine.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/rescuers-battle-wet-dark-conditions-flooded-indonesian-mine-138461363",
+    "publishedAt": "2026-11-26T09:39:22.000Z"
+  },
+  {
+    "id": "37061c5977c4adf3",
+    "title": "Older Australians suffering under Labor’s ‘botched’ aged care at home program, inquiry finds",
+    "summary": "The Support at Home system has ‘baffling’ bureaucracy and ‘rations and denies care’, says Greens chair of Senate inquiry.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/26/aged-care-home-support-program-algorithm-tool-inquiry-report",
+    "publishedAt": "2026-11-26T09:37:47.000Z"
+  },
+  {
+    "id": "1493566516b56d87",
+    "title": "UK signs £8bn deal to ensure submarines are 'warfighting ready'",
+    "summary": "The deal will allow \"work around the clock to get our submarines back out to sea\" , Wes Streeting says.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo",
+    "publishedAt": "2026-11-26T09:23:46.000Z"
+  },
+  {
+    "id": "dd80b4feed2dc6b2",
+    "title": "Seven beautiful places to visit in GTA VI, from mountains trails to an afternoon at the zoo",
+    "summary": "Need a break from all the crime and violence? There are plenty of places to get away from it all in Leonida.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/26/seven-beautiful-places-to-visit-in-gta-vi-from-mountains-trails-to-an-afternoon-at-the-zoo",
+    "publishedAt": "2026-11-26T09:20:50.000Z"
+  },
+  {
+    "id": "c37b18886859e7b8",
+    "title": "New defence laws could have ‘significant’ implications for human rights, Labor-led inquiry finds",
+    "summary": "Anthony Albanese defends laws and calls criticism ‘nonsense’ and ‘conspiracy theories’ from far left and far right.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/26/new-defence-laws-could-have-significant-implications-for-human-rights-labor-led-inquiry-finds",
+    "publishedAt": "2026-11-26T09:20:16.000Z"
+  },
+  {
+    "id": "a2164f3991fca894",
+    "title": "UK regulator admits error in calculating car finance compensation payments",
+    "summary": "FCA also tells Barclays to stop making settlement offers while it works through data problems.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/26/uk-regulator-admits-error-in-calculating-car-finance-compensation-payments",
+    "publishedAt": "2026-11-26T09:18:11.000Z"
+  },
+  {
+    "id": "f8da256a6bc9f5d4",
+    "title": "Details of two treaties at heart of Andy Burnham’s EU reset to be published",
+    "summary": "Government also to publish bill that will enact EU deals, as Tories and Reform hit out over 10-year termination clause.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/26/treaties-andy-burnham-eu-reset-published",
+    "publishedAt": "2026-11-26T09:16:19.000Z"
+  },
+  {
+    "id": "1036914e2c4ae6d6",
+    "title": "Israeli attacks on Gaza kill senior education official, seven other people",
+    "summary": "Israeli Prime Minister Benjamin Netanyahu confirms killing of Khaled Abu Nada, undersecretary of Education Ministry.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss",
+    "publishedAt": "2026-11-26T09:00:06.000Z"
+  },
+  {
+    "id": "637f48bd1de776e5",
+    "title": "Why has North Korea expelled a Swiss diplomat from Pyongyang?",
+    "summary": "At the centre of the diplomatic dispute lies the Songdowon International Children’s Camp.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/why-has-north-korea-expelled-a-swiss-diplomat-from-pyongyang?traffic_source=rss",
+    "publishedAt": "2026-11-26T08:54:49.000Z"
+  },
+  {
     "id": "d884ab18e27fb19e",
     "title": "Explosion occurs at oil facility in Thailand’s Bangkok",
     "summary": "Authorities urge residents in area surrounding oil depot in eastern Bangkok to evacuate their homes.",
@@ -711,6 +864,15 @@
     "publishedAt": "2026-11-25T22:10:12.000Z"
   },
   {
+    "id": "cffc2f91e377f589",
+    "title": "US stocks fall further as fears over AI intensify",
+    "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
+    "publishedAt": "2026-11-25T21:43:18.000Z"
+  },
+  {
     "id": "021f42eb5fd1e854",
     "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
     "summary": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018.",
@@ -1186,167 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
     "publishedAt": "2026-11-25T17:00:32.000Z"
-  },
-  {
-    "id": "41e0cf4defa47277",
-    "title": "Switzerland forced to close office in North Korea over sanctions feud",
-    "summary": "The closure came after North Korea condemned Switzerland for adding a children’s camp to its sanctions list.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud?traffic_source=rss",
-    "publishedAt": "2026-11-25T16:58:49.000Z"
-  },
-  {
-    "id": "df4413dcc95ba0ca",
-    "title": "Nasa knocked an asteroid off course. New closeup photos may shed light on aftermath",
-    "summary": "Images of Dimorphos four years on from crash should give clues for design of potential planetary defence system.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/25/dimorphos-asteroid-spacecraft-crash-closeup-images",
-    "publishedAt": "2026-11-25T16:49:33.000Z"
-  },
-  {
-    "id": "70258c90a4104149",
-    "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
-    "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo",
-    "publishedAt": "2026-11-25T16:42:11.000Z"
-  },
-  {
-    "id": "ff16e47c0dbb0f2a",
-    "title": "Poundland collapses into administration, putting 12,000 jobs at risk",
-    "summary": "US owner Gordon Brothers rejected at least two last-ditch bids for UK budget retailer.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers",
-    "publishedAt": "2026-11-25T16:41:08.000Z"
-  },
-  {
-    "id": "02cfbd21c433fc57",
-    "title": "Why are school shootings continuing to shake the Balkans?",
-    "summary": "A shooting in Serbia has renewed concerns over firearm access, online warning signs and failures to prevent violence.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/kragujevac-school-shooting-what-we-know-so-far?traffic_source=rss",
-    "publishedAt": "2026-11-25T16:36:57.000Z"
-  },
-  {
-    "id": "738443e67a1f4864",
-    "title": "US announces new tariffs on host of countries including China",
-    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
-    "publishedAt": "2026-11-25T16:21:34.000Z"
-  },
-  {
-    "id": "78d97024b0707c09",
-    "title": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
-    "summary": "Ábrego García chose to depart from US after previously being deported to El Salvador due to ‘administrative error’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
-    "publishedAt": "2026-11-25T16:16:25.000Z"
-  },
-  {
-    "id": "cb7efad2424b29a1",
-    "title": "NHS Grampian surgeon was ready to operate on patient while recovering from medical procedure",
-    "summary": "The doctor had to be driven to Dr Gray's hospital in Elgin because he felt unable to drive himself.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx30g76yvl1zo",
-    "publishedAt": "2026-11-25T16:13:33.000Z"
-  },
-  {
-    "id": "ca992e99b4352600",
-    "title": "Energy price increase 'could put me in hospital'",
-    "summary": "People on Teesside share their views on the news energy bills are expected to increase by 26%.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo",
-    "publishedAt": "2026-11-25T16:06:25.000Z"
-  },
-  {
-    "id": "091d93568ed5ff54",
-    "title": "Share your most outrageous experience when trying to rent a room in the UK?",
-    "summary": "We’d like to hear your stories of trying to find flatmates in the private rental market in the UK. Have you had to audition?",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/25/share-your-most-outrageous-experience-when-trying-to-rent-a-room-in-the-uk",
-    "publishedAt": "2026-11-25T16:01:47.000Z"
-  },
-  {
-    "id": "8b43ea52ebbd5cab",
-    "title": "Hundreds complain after Mariella Frostrup calls AJ Odudu ‘aggressive’ on I’m a Celebrity",
-    "summary": "Ofcom receives 887 complaints, while media figures accuse Frostrup of using ‘microaggression’ against Odudu.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/25/hundreds-complain-ofcom-mariella-frostrup-aj-odudu-im-a-celebrity",
-    "publishedAt": "2026-11-25T16:00:19.000Z"
-  },
-  {
-    "id": "3691a9be18102e4d",
-    "title": "New Miss Universe's Puerto Rican hometown celebrates her historic win",
-    "summary": "The new Miss Universe hails from a Puerto Rican town whose people have long been known as “the cucumbers.”",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/new-miss-universes-puerto-rican-hometown-celebrates-historic-138441440",
-    "publishedAt": "2026-11-25T15:54:21.000Z"
-  },
-  {
-    "id": "3b9d02b7167f02c4",
-    "title": "Senegal deny Morocco’s allegations of ‘contact’ with CAS amid AFCON row",
-    "summary": "The Court of Arbitration for Sport ruled that Senegal were the rightful winners of the 2025 African Cup of Nations.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss",
-    "publishedAt": "2026-11-25T15:51:58.000Z"
-  },
-  {
-    "id": "f551073a9a5b4c1a",
-    "title": "The world’s coolest street? Is Heol Maengwyn in Machynlleth finally getting the recognition it deserves?",
-    "summary": "A Michelin-listed restaurant, designer boutiques, art spaces: this little corner of Powys has it all, according to Time Out.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/25/the-worlds-coolest-street-heol-maengwyn-machynlleth-powys-wales",
-    "publishedAt": "2026-11-25T15:50:11.000Z"
-  },
-  {
-    "id": "7ef2efee33970dcc",
-    "title": "53 incoming House Democrats to boycott Harvard orientation in support of graduate students’ strike",
-    "summary": "‘We have been informed that to attend your event we would be required to cross a union picket line,’ the Democrats say.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/education/2026/nov/25/house-democrats-harvard-boycott-strike",
-    "publishedAt": "2026-11-25T15:47:25.000Z"
-  },
-  {
-    "id": "7a10a5eb4832f866",
-    "title": "Pope creates new Vatican initiative to coordinate church's prison ministry in sign it's a priority",
-    "summary": "Pope Leo XIV has launched a new global initiative to coordinate the Catholic Church’s spiritual care for inmates.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pope-creates-new-vatican-initiative-coordinate-churchs-prison-138441517",
-    "publishedAt": "2026-11-25T15:43:16.000Z"
-  },
-  {
-    "id": "0f7af8237d936828",
-    "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-    "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o",
-    "publishedAt": "2026-11-25T15:42:50.000Z"
-  },
-  {
-    "id": "8590d07b78e289bd",
-    "title": "Canadian astronaut welcomes baby girl from space station",
-    "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo",
-    "publishedAt": "2026-11-25T15:41:39.000Z"
   }
 ]
