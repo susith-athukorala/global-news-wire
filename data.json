@@ -1,5 +1,23 @@
 [
   {
+    "id": "3b9953572b833136",
+    "title": "Coalition would privatise Melbourne’s sewage treatment while selling state-owned land and renewables to fund Victorian election promises",
+    "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+    "publishedAt": "2026-11-26T02:35:09.000Z"
+  },
+  {
+    "id": "64ca7df9242cf6d3",
+    "title": "UK government set to publish new treaties agreed with EU",
+    "summary": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
+    "publishedAt": "2026-11-26T02:13:00.000Z"
+  },
+  {
     "id": "4b4af1f4284c9fdf",
     "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
     "summary": "North Korean leader warns attempts to deny country's nuclear status will be seen as \"an open declaration of war\".",
@@ -1330,23 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
     "publishedAt": "2026-11-25T12:30:25.000Z"
-  },
-  {
-    "id": "d156b37e1ab0b9f9",
-    "title": "Catalan separatist Puigdemont to return to Spain on December 12",
-    "summary": "Former regional leader says he will unveil his proposal for a renewed Catalan independence push on December 17.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss",
-    "publishedAt": "2026-11-25T12:25:46.000Z"
-  },
-  {
-    "id": "0ace05fabf656339",
-    "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
-    "summary": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo",
-    "publishedAt": "2026-11-25T12:24:12.000Z"
   }
 ]
