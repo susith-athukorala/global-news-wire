@@ -1,5 +1,77 @@
 [
   {
+    "id": "5cfd9d09f87a1b32",
+    "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
+    "summary": "Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
+    "publishedAt": "2026-11-26T15:00:37.000Z"
+  },
+  {
+    "id": "d28cf49029c5421f",
+    "title": "Father dies while trying to save teen son on icy California mountain hike",
+    "summary": "Guillermo Batres was helping his son, who had slid down a hill and was clinging on to a tree, when he lost his footing.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/california-father-dies-helping-son-mountain-hike",
+    "publishedAt": "2026-11-26T15:00:37.000Z"
+  },
+  {
+    "id": "d908151564505e44",
+    "title": "Amanda Seyfried needed ‘five-factor authentication’ to read You Can See Everything script but still ‘told everyone’",
+    "summary": "Actor who had played fraudster Elizabeth Holmes in TV drama The Dropout reveals how she was drafted in to the hit documentary ‘at the last minute’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/film/2026/nov/26/amanda-seyfried-you-can-see-everything-elizabeth-holmes-the-dropout",
+    "publishedAt": "2026-11-26T14:52:40.000Z"
+  },
+  {
+    "id": "77af3ff41f519e5a",
+    "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+    "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o",
+    "publishedAt": "2026-11-26T14:44:26.000Z"
+  },
+  {
+    "id": "8bcfde33c3dd2848",
+    "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+    "summary": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo",
+    "publishedAt": "2026-11-26T14:35:22.000Z"
+  },
+  {
+    "id": "6a21ed65195ff815",
+    "title": "Spanish opposition criticised for AI video of Pedro Sánchez in Morocco shirt",
+    "summary": "People’s party alters video of PM putting on Lamine Yamal’s Spain shirt in latest contentious use of AI in election race.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt",
+    "publishedAt": "2026-11-26T14:33:00.000Z"
+  },
+  {
+    "id": "46fc496c921151e6",
+    "title": "Can Trump continue with Iran war despite funding restrictions?",
+    "summary": "A Congress budget bill could serve as a pressure tactic on Trump to end the war but could also trigger a shutdown.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
+    "publishedAt": "2026-11-26T14:17:21.000Z"
+  },
+  {
+    "id": "1ab384026462170d",
+    "title": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
+    "summary": "Prime Minister al-Zaidi's move to take control of border crossings and oilfields has drawn a sharp response from Erbil.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
+    "publishedAt": "2026-11-26T14:10:00.000Z"
+  },
+  {
     "id": "0b5ec3a067b69679",
     "title": "When will Poundland close? Five questions about its future",
     "summary": "Why is Poundland closing down, and what will hapen to staff and suppliers?",
@@ -7,6 +79,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo",
     "publishedAt": "2026-11-26T14:05:27.000Z"
+  },
+  {
+    "id": "36f5798f000460a9",
+    "title": "Inside Liberland, the crypto ‘country’ few have heard of",
+    "summary": "Al Jazeera's Antoine Allen reports on a group of people trying to build a tax-free nation.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss",
+    "publishedAt": "2026-11-26T14:02:02.000Z"
   },
   {
     "id": "117726bfa8f299a6",
@@ -340,6 +421,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do",
     "publishedAt": "2026-11-26T11:27:42.000Z"
+  },
+  {
+    "id": "5f66c2a33ccbf025",
+    "title": "Long waits 'a tragedy' as thousands seek ADHD and autism assessments",
+    "summary": "A GP warns that long waits for ADHD and autism assessments mean those most in need are not being seen.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo",
+    "publishedAt": "2026-11-26T11:23:54.000Z"
   },
   {
     "id": "14b311d8c98d5d2c",
@@ -1107,6 +1197,15 @@
     "publishedAt": "2026-11-26T04:10:58.000Z"
   },
   {
+    "id": "e3f7fcad0ff4e129",
+    "title": "Macy's postpones Thanksgiving parade due to severe weather",
+    "summary": "The move represents the first postponement of the iconic event, and comes after a forecast of strong winds and heavy rain.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo",
+    "publishedAt": "2026-11-26T04:04:14.000Z"
+  },
+  {
     "id": "27d0f525dd6c195a",
     "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
     "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’",
@@ -1242,111 +1341,12 @@
     "publishedAt": "2026-11-26T00:41:49.000Z"
   },
   {
-    "id": "aa825ed82d4a490a",
-    "title": "The US pastor who wants to see women's right to vote overturned",
-    "summary": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o",
-    "publishedAt": "2026-11-26T00:24:25.000Z"
-  },
-  {
-    "id": "1fc29e75de5b1e86",
-    "title": "Spanish elections: What you need to know and what's at stake",
-    "summary": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo",
-    "publishedAt": "2026-11-26T00:23:49.000Z"
-  },
-  {
-    "id": "39e47ef1c7cda736",
-    "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
-    "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro",
-    "publishedAt": "2026-11-26T00:23:27.000Z"
-  },
-  {
-    "id": "7228030765882362",
-    "title": "Has global jihadism failed, or is it simply changing shape?",
-    "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro",
-    "publishedAt": "2026-11-26T00:22:18.000Z"
-  },
-  {
-    "id": "f55d55e52a9e0111",
-    "title": "Zambia bans protest against push to remove presidential term limits",
-    "summary": "Critics fear the campaign could undermine democratic safeguards as senior opposition figures remain behind bars.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss",
-    "publishedAt": "2026-11-26T00:22:15.000Z"
-  },
-  {
-    "id": "a3d6d0398ac43b8b",
-    "title": "A meeting with Democrats over healthcare? Trump says he’s open to it",
-    "summary": "Experts tell Al Jazeera they are sceptical that Trump would back Medicare for All, a proposal for national healthcare.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/a-meeting-with-democrats-over-healthcare-trump-says-hes-open-to-it?traffic_source=rss",
-    "publishedAt": "2026-11-26T00:18:49.000Z"
-  },
-  {
-    "id": "d192dc670f522310",
-    "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
-    "summary": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o",
-    "publishedAt": "2026-11-26T00:08:07.000Z"
-  },
-  {
-    "id": "1266bb9606f65a2a",
-    "title": "US approves SpaceX plan to send a million data satellites to space",
-    "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
-    "publishedAt": "2026-11-26T00:07:51.000Z"
-  },
-  {
-    "id": "25e0b737ebd943c1",
-    "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
-    "summary": "Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damaged.",
+    "id": "4ea9865f2a2635b4",
+    "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+    "summary": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred.",
     "category": "World",
     "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
-    "publishedAt": "2026-11-26T00:05:50.000Z"
-  },
-  {
-    "id": "572c760cb5662b31",
-    "title": "Ministers to create new stalking offence and scrap need for proof of fear or distress",
-    "summary": "Victims’ commissioner welcomes strengthening of law in England and Wales but calls for measures to tackle convicted stalkers.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/26/ministers-create-new-stalking-offence-scrap-need-for-proof-victims-fear-distress",
-    "publishedAt": "2026-11-26T00:01:40.000Z"
-  },
-  {
-    "id": "3565b82d1458eda0",
-    "title": "Social media making it harder for UK parents to raise families, survey finds",
-    "summary": "Poll of parents of young children finds three-quarters think pressure from influencers has increased their anxiety.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/26/social-media-making-it-harder-for-uk-parents-to-raise-families-survey-finds",
-    "publishedAt": "2026-11-26T00:01:40.000Z"
-  },
-  {
-    "id": "3cb5a3aec88018d6",
-    "title": "Children in overcrowded homes get poorer GCSE results, study finds",
-    "summary": "Researchers urge ministers to ensure young people in rented homes have space for a desk in their bedroom.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/education/2026/nov/26/children-overcrowded-homes-gcse-results-study",
-    "publishedAt": "2026-11-26T00:01:39.000Z"
+    "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+    "publishedAt": "2026-11-26T00:39:10.000Z"
   }
 ]
