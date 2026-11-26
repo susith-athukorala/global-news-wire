@@ -1,5 +1,86 @@
 [
   {
+    "id": "e8a459f161ad2841",
+    "title": "‘It’s in quite a dark place’: why UK housebuilding is struggling",
+    "summary": "The sector is in retreat across parts of the county, with developments paused. Despite a grim outlook for 2027 there is some cause for hope.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/26/why-uk-housebuilding-is-struggling",
+    "publishedAt": "2026-11-26T07:00:48.000Z"
+  },
+  {
+    "id": "d5ff5e043710bf9e",
+    "title": "War and drought threaten livelihoods of Sudan’s farmers",
+    "summary": "Attacks on electricity infrastructure and drought are threatening Sudan's harvests and leaving millions without water.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/26/war-and-drought-threaten-livelihoods-of-sudans-farmers?traffic_source=rss",
+    "publishedAt": "2026-11-26T06:56:34.000Z"
+  },
+  {
+    "id": "7f7a1feffeb2a5cc",
+    "title": "London commuters braced for disruption as tube strike begins",
+    "summary": "Industrial action by RMT drivers expected to cause severe disruption on Thursday and Friday.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/26/tube-drivers-strike-will-cause-severe-disruption-to-network-on-thursday-and-friday",
+    "publishedAt": "2026-11-26T06:56:24.000Z"
+  },
+  {
+    "id": "936733cfe64855c4",
+    "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+    "summary": "The Trump administration gave Elon Musk's SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a move that has raised skepticism among scientists.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
+    "publishedAt": "2026-11-26T06:53:09.000Z"
+  },
+  {
+    "id": "457e7f40942d6875",
+    "title": "Thursday briefing: Why young people are having less sex than ever",
+    "summary": "In today’s newsletter: A new study of sexual trends in Britain has found that one in three under-25s have never had sex, a flashy headline that obscures the real reasons behind a ‘sex recession’ among young people.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/26/thursday-briefing-why-young-people-are-having-less-sex-than-ever",
+    "publishedAt": "2026-11-26T06:45:01.000Z"
+  },
+  {
+    "id": "6ebfaed19192151c",
+    "title": "EU leaders seek to agree on a budget deal and a new loan for Ukraine",
+    "summary": "European Union leaders are seeking to resolve major differences over the bloc’s future budget and agree on a new loan to support Ukraine.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/eu-leaders-seek-bridge-differences-agree-budget-deal-138463077",
+    "publishedAt": "2026-11-26T06:43:27.000Z"
+  },
+  {
+    "id": "f4e3adc50a3d78c8",
+    "title": "Hong Kong marks deadly fire anniversary with flowers and tears following gov warning",
+    "summary": "Hong Kong residents have remembered the victims of the city's deadliest fire in decades by offering flowers and prayers.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/hong-kong-marks-deadly-fire-anniversary-flowers-prayers-138463173",
+    "publishedAt": "2026-11-26T06:41:41.000Z"
+  },
+  {
+    "id": "442f6b51bc7d9d87",
+    "title": "Jannik Sinner ruled out of 2027 Australian Open after knee surgery",
+    "summary": "Sinner, a two-time champion at Melbourne Park, has not played a match since winning the 2026 Wimbledon title in July.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/26/jannik-sinner-australian-open-2027-knee-injury-surgery-tennis?traffic_source=rss",
+    "publishedAt": "2026-11-26T06:32:48.000Z"
+  },
+  {
+    "id": "56886736679e9336",
+    "title": "Gaza meningitis cases surge as collapsing infrastructure fuels health fears",
+    "summary": "Meningitis is raising alarm in Gaza, where overcrowding, damaged sanitation are putting children at risk.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/gaza-meningitis-cases-surge-as-collapsing-infrastructure-fuels-health-fears?traffic_source=rss",
+    "publishedAt": "2026-11-26T06:14:15.000Z"
+  },
+  {
     "id": "3f145ed93b275eff",
     "title": "Parents cutting basics at Christmas, charity warns",
     "summary": "The chief executive of Worthing Soup Kitchen says some families choose between food and presents.",
@@ -7,6 +88,24 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq1k98gpzmy4o",
     "publishedAt": "2026-11-26T06:13:47.000Z"
+  },
+  {
+    "id": "1bf6a24dcdc67f32",
+    "title": "How Silicon Valley became central to Israel’s war on Palestinians",
+    "summary": "From surveillance systems to AI targeting, US tech giants are deeply embedded in Israel's war machine.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
+    "publishedAt": "2026-11-26T06:12:53.000Z"
+  },
+  {
+    "id": "88717c9322867607",
+    "title": "Sri Lanka mass grave revives quest for answers to forgotten Muslim massacre",
+    "summary": "As Sri Lanka's Tamil separatists fought a deadly war with the army, they also killed hundreds of Muslims.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/sri-lanka-mass-grave-revives-quest-for-answers-to-forgotten-muslim-massacre?traffic_source=rss",
+    "publishedAt": "2026-11-26T06:10:52.000Z"
   },
   {
     "id": "019833ad56a6f9c9",
@@ -250,6 +349,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday?traffic_source=rss",
     "publishedAt": "2026-11-26T00:52:56.000Z"
+  },
+  {
+    "id": "46175d671c8fd398",
+    "title": "Anthropic's first data centre in Australia given environmental approval",
+    "summary": "The National Environmental Protection Agency has determined the $32 billion data centre is unlikely to significantly affect protected animals and plants.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970",
+    "publishedAt": "2026-11-26T00:48:51.000Z"
   },
   {
     "id": "f4b2e4965e7a657f",
@@ -1017,6 +1125,15 @@
     "publishedAt": "2026-11-25T16:16:25.000Z"
   },
   {
+    "id": "cb7efad2424b29a1",
+    "title": "NHS Grampian surgeon was ready to operate on patient while recovering from medical procedure",
+    "summary": "The doctor had to be driven to Dr Gray's hospital in Elgin because he felt unable to drive himself.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx30g76yvl1zo",
+    "publishedAt": "2026-11-25T16:13:33.000Z"
+  },
+  {
     "id": "ca992e99b4352600",
     "title": "Energy price increase 'could put me in hospital'",
     "summary": "People on Teesside share their views on the news energy bills are expected to increase by 26%.",
@@ -1231,122 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
     "publishedAt": "2026-11-25T14:54:44.000Z"
-  },
-  {
-    "id": "91182b12aeac28fc",
-    "title": "Nationwide unveils 1% deposit mortgage deal for first-time buyers",
-    "summary": "People can borrow up to six times their income, but brokers sound alarm over risks of negative equity if house prices fall.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/25/nationwide-unveils-1-deposit-mortgage-deal-first-time-buyers-in-uk",
-    "publishedAt": "2026-11-25T14:54:17.000Z"
-  },
-  {
-    "id": "8e86483e0ecf55b8",
-    "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-    "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo",
-    "publishedAt": "2026-11-25T14:46:41.000Z"
-  },
-  {
-    "id": "3ebce094cd254053",
-    "title": "High prices force many across the US to scale back for Thanksgiving: ‘We can’t afford the food’",
-    "summary": "Americans are opting for smaller gatherings, reconsidering travel or swapping expensive ingredients for cheaper alternatives.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/thanksgiving-food-costs-prices",
-    "publishedAt": "2026-11-25T14:43:16.000Z"
-  },
-  {
-    "id": "5446f69921bc9ed4",
-    "title": "New York's annual Thanksgiving Parade threatened by approaching storm",
-    "summary": "Strong winds and heavy rain are expected to impact celebrations across the USA, with the risk that the famous Macy's Thanksgiving Day parade could be impacted.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo",
-    "publishedAt": "2026-11-25T14:41:42.000Z"
-  },
-  {
-    "id": "088fd2c2592aa02c",
-    "title": "Heavy rain and high winds on east coast threaten to disrupt Thanksgiving plans",
-    "summary": "Macy’s parade of balloons under threat in New York City as flights face delays or cancellations.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/heavy-rain-high-winds-thanksgiving-east-coast",
-    "publishedAt": "2026-11-25T14:41:00.000Z"
-  },
-  {
-    "id": "f697f6ff0c5a14da",
-    "title": "Fuel price hike will make life 'almost impossible'",
-    "summary": "The Fuel Bank Foundation says many homes are already cutting back and struggling with bills.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6rrgqknw0jlo",
-    "publishedAt": "2026-11-25T14:37:44.000Z"
-  },
-  {
-    "id": "e8c9089f722d8a95",
-    "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
-    "summary": "Muhammad Zeeshan Ali – the first Pakistani to reach orbit – greeted with Chinese ‘space handshake’ at Tiangong station.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
-    "publishedAt": "2026-11-25T14:18:29.000Z"
-  },
-  {
-    "id": "316b1b2ff5f655df",
-    "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
-    "summary": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
-    "publishedAt": "2026-11-25T14:14:34.000Z"
-  },
-  {
-    "id": "fc1f64a21e996476",
-    "title": "Two men face court over break-in at Kate and William's estate",
-    "summary": "Two men who allegedly broke into the country residence of the Prince and Princess of Wales stole six pairs of cufflinks and a clock, a UK court has heard.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-26/sandringham-estate-breakin-court-appearance/107427840",
-    "publishedAt": "2026-11-25T14:07:37.000Z"
-  },
-  {
-    "id": "19957e2dee610c9b",
-    "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
-    "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo",
-    "publishedAt": "2026-11-25T14:06:13.000Z"
-  },
-  {
-    "id": "9d648dc5468e2268",
-    "title": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
-    "summary": "Alain Throo, insurance executive based in London, reportedly gored and later died on hike near Mount Cameroon national park.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
-    "publishedAt": "2026-11-25T14:03:18.000Z"
-  },
-  {
-    "id": "576ece26031d029f",
-    "title": "Aidan is one of thousands of students forced to verbally defend his honours thesis as universities take on AI",
-    "summary": "Honours students are increasingly being asked to sit oral assessments – but at the University of Sydney it’s become a requirement for all.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/25/australian-universities-tackle-ai-plagiarism-oral-assessment-honours-masters-phd",
-    "publishedAt": "2026-11-25T14:00:29.000Z"
-  },
-  {
-    "id": "90c045ac12084ae1",
-    "title": "‘Nobody showed up but me’: will Friendsgiving survive gen Z?",
-    "summary": "A generation known for loneliness is putting their own spin on a millennial-made tradition that requires socializing.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/25/friendsgiving-gen-z",
-    "publishedAt": "2026-11-25T14:00:29.000Z"
   }
 ]
