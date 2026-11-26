@@ -1,5 +1,32 @@
 [
   {
+    "id": "b995dc1a4932a792",
+    "title": "DR Congo Ebola cases surpass 12,000 as fighting disrupts response in east",
+    "summary": "Authorities struggle to contain country's worst Ebola outbreak, as fighting in east displaces health workers, civilians.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
+    "publishedAt": "2026-11-26T07:41:30.000Z"
+  },
+  {
+    "id": "a2e6fdd2beca766d",
+    "title": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify",
+    "summary": "Rescue workers facing tough conditions, with narrow, deep and slippery excavation pits and minimal lighting.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
+    "publishedAt": "2026-11-26T07:38:00.000Z"
+  },
+  {
+    "id": "7dc525128d2ba760",
+    "title": "Elon Musk pledges to give two SpaceX shares to every child in the US",
+    "summary": "The total value of the shares could reach almost $18bn and comes as tech companies debate how to share the spoils of the AI boom.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us",
+    "publishedAt": "2026-11-26T07:02:37.000Z"
+  },
+  {
     "id": "e8a459f161ad2841",
     "title": "‘It’s in quite a dark place’: why UK housebuilding is struggling",
     "summary": "The sector is in retreat across parts of the county, with developments paused. Despite a grim outlook for 2027 there is some cause for hope.",
@@ -1321,32 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/money/2026/nov/25/heating-uk-householders-grapple-with-energy-bills",
     "publishedAt": "2026-11-25T15:02:41.000Z"
-  },
-  {
-    "id": "2b2d0872452cac9f",
-    "title": "The unexpected joy hiding in Grand Theft Auto VI’s chaos? A little routine",
-    "summary": "Rockstar’s latest blockbuster makes the everyday business of shopping, working out and taking care of a pet snake as compelling as its shootouts and car chases.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/25/the-secret-to-grand-theft-auto-vi-routine-rockstar-games",
-    "publishedAt": "2026-11-25T15:00:28.000Z"
-  },
-  {
-    "id": "004d71e16a52d591",
-    "title": "Trump proposing new tariffs on 14 partners including China and European Union",
-    "summary": "The administration is suggesting an added 20% tax on Chinese imports, which would bring the total to about 40%.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
-    "publishedAt": "2026-11-25T14:59:44.000Z"
-  },
-  {
-    "id": "f4f6ae13c8c05cd8",
-    "title": "Trump announces new trade tariffs: Which countries will they target?",
-    "summary": "The US is planning tariffs on 14 economies it accuses of using subsidies to help their industries overproduce.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
-    "publishedAt": "2026-11-25T14:54:44.000Z"
   }
 ]
