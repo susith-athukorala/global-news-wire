@@ -1,5 +1,59 @@
 [
   {
+    "id": "d884ab18e27fb19e",
+    "title": "Explosion occurs at oil facility in Thailand’s Bangkok",
+    "summary": "Authorities urge residents in area surrounding oil depot in eastern Bangkok to evacuate their homes.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss",
+    "publishedAt": "2026-11-26T08:49:20.000Z"
+  },
+  {
+    "id": "de72f66d75907428",
+    "title": "Thanksgiving and National Day of Mourning: What is the history?",
+    "summary": "Indigenous activists challenge Thanksgiving narratives and highlight ongoing struggles for sovereignty and recognition.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/thanksgiving-and-national-day-of-mourning-what-is-the-history?traffic_source=rss",
+    "publishedAt": "2026-11-26T08:33:51.000Z"
+  },
+  {
+    "id": "a376c61b2c6466b6",
+    "title": "Two screenings of Pakistani TV show cancelled in India after backlash",
+    "summary": "The show, Dar-e-Nijaat, has become a sensation in India but is now embroiled in a political row.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cky97x7delz9o",
+    "publishedAt": "2026-11-26T08:30:12.000Z"
+  },
+  {
+    "id": "a49950ec32c9b23a",
+    "title": "UK watchdog calls for shake-up of private dentistry market amid ‘catalogue of concerns’",
+    "summary": "CMA report highlights inflation-busting annual rises and practices that ‘may not operate in patients’ best interests’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market",
+    "publishedAt": "2026-11-26T08:13:01.000Z"
+  },
+  {
+    "id": "72987fd13eaa22cf",
+    "title": "Children’s hospitals close beds to comply with NHS cost-cutting targets",
+    "summary": "Sheffield children’s hospital, Liverpool’s Alder Hey and London’s Great Ormond Street make cuts amid efforts to major savings.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/26/childrens-hospitals-close-beds-to-comply-with-nhs-cost-cutting-targets",
+    "publishedAt": "2026-11-26T08:05:47.000Z"
+  },
+  {
+    "id": "e1ed212d7a7e0ee1",
+    "title": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
+    "summary": "The capital's main rubbish dump has been closed since the disaster, leading to rubbish piling up in the streets.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo",
+    "publishedAt": "2026-11-26T07:43:48.000Z"
+  },
+  {
     "id": "b995dc1a4932a792",
     "title": "DR Congo Ebola cases surpass 12,000 as fighting disrupts response in east",
     "summary": "Authorities struggle to contain country's worst Ebola outbreak, as fighting in east displaces health workers, civilians.",
@@ -16,6 +70,24 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
     "publishedAt": "2026-11-26T07:38:00.000Z"
+  },
+  {
+    "id": "47aead23d0cfb490",
+    "title": "Thirteen dead as mine disaster highlights illegal hunt for gold",
+    "summary": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro",
+    "publishedAt": "2026-11-26T07:31:24.000Z"
+  },
+  {
+    "id": "2a5908302fac455f",
+    "title": "DR Congo demands answers over Ugandan general's threats",
+    "summary": "Gen Kainerugaba threatened a rebel takeover of a mineral-rich area in DR Congo in controversial X posts.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o",
+    "publishedAt": "2026-11-26T07:24:39.000Z"
   },
   {
     "id": "7dc525128d2ba760",
@@ -153,6 +225,15 @@
     "publishedAt": "2026-11-26T06:05:36.000Z"
   },
   {
+    "id": "ae167a9fd420996a",
+    "title": "Desperate appeals from women on death row in Iran after protests",
+    "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo",
+    "publishedAt": "2026-11-26T06:01:58.000Z"
+  },
+  {
     "id": "add321208a3e4ca2",
     "title": "Timms review puts rare focus on improving benefits system for disabled claimants",
     "summary": "The review tackles some big questions about a flawed system – but leaves other issues in the ‘maybe later’ drawer.",
@@ -207,6 +288,15 @@
     "publishedAt": "2026-11-26T05:31:38.000Z"
   },
   {
+    "id": "44f16f836512c697",
+    "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+    "summary": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po",
+    "publishedAt": "2026-11-26T05:19:35.000Z"
+  },
+  {
     "id": "9a38e3655c5dfd20",
     "title": "‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release",
     "summary": "Yuki Imai being held in Moscow on allegations he conducted ‘espionage’ while working for a newspaper in Sakhalin island in Russia’s far east.",
@@ -232,6 +322,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
     "publishedAt": "2026-11-26T05:00:46.000Z"
+  },
+  {
+    "id": "5291d8822318d479",
+    "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+    "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo",
+    "publishedAt": "2026-11-26T05:00:24.000Z"
   },
   {
     "id": "ac923b06e75d7950",
@@ -1249,104 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo",
     "publishedAt": "2026-11-25T15:41:39.000Z"
-  },
-  {
-    "id": "36b4838f9c206214",
-    "title": "Brussels on split-screen: where it flexes – and where it bends",
-    "summary": "From a choreographed summit that dominated Westminster but barely registered in Brussels to a climate showdown in Turkey, last week revealed the EU’s priorities – and the limits of its collective power.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/25/this-is-europe-brussels-eu-uk-summit",
-    "publishedAt": "2026-11-25T15:39:54.000Z"
-  },
-  {
-    "id": "a53ebf0226a3510d",
-    "title": "Beatles attraction at 3 Savile Row approved – with ban on rooftop gigs",
-    "summary": "Westminster council signs off on ‘cultural experience and exhibition’ at site where band last performed in public.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/25/beatles-attraction-savile-row-approved-ban-rooftop-gigs",
-    "publishedAt": "2026-11-25T15:38:11.000Z"
-  },
-  {
-    "id": "d8038c6f4eae9184",
-    "title": "Saudi Arabia’s PIF looking to sell 25% of Newcastle through share issue",
-    "summary": "Newcastle United’s owner, Saudi Arabia’s Public Investment Fund (PIF), is looking to sell up to 25% of the club by issuing new shares.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/football/2026/nov/25/saudi-arabia-pif-newcastle-share-issue",
-    "publishedAt": "2026-11-25T15:36:32.000Z"
-  },
-  {
-    "id": "6830edc4b6a9a25c",
-    "title": "South Africa court repeals ‘farmgate’ impeachment threat against Ramaphosa",
-    "summary": "The ruling hands the president ​a political reprieve by removing a finding that had exposed him to possible impeachment.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa?traffic_source=rss",
-    "publishedAt": "2026-11-25T15:35:33.000Z"
-  },
-  {
-    "id": "d249329dafbf6032",
-    "title": "Kilmar Abrego Garcia, wrongfully deported from US, arrives in Spain",
-    "summary": "The Salvadoran national's lawyer said in a statement that it was 'a temporary departure'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain?traffic_source=rss",
-    "publishedAt": "2026-11-25T15:34:59.000Z"
-  },
-  {
-    "id": "16e4a7d7fbb202a3",
-    "title": "New York bans AI toys, including those using internet to talk to children",
-    "summary": "The state attorney general says she would ‘not hesitate to enforce’ the five-year ban signed by Governor Kathy Hochul.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
-    "publishedAt": "2026-11-25T15:29:21.000Z"
-  },
-  {
-    "id": "029faa3c4b98dcea",
-    "title": "‘Sesame Street for people paying rent’: the viral Instagram series teaching us how to be better adults",
-    "summary": "Life100 has racked up hundreds of thousands of followers and millions of views on Instagram by exploring important life lessons.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/wellness/2026/nov/25/life100-viral-instagram-series-susan-thau-sondra-goldstein",
-    "publishedAt": "2026-11-25T15:21:38.000Z"
-  },
-  {
-    "id": "86884f7c0f596c60",
-    "title": "US Army detonates toxic lead explosives in Iowa amid health concerns",
-    "summary": "The US Army destroys nearly 4,500kg of lead azide amid fears of toxic fallout affecting residents, farms and livestock.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/us-army-detonates-toxic-lead-stockpile-in-iowa-amid-backlash?traffic_source=rss",
-    "publishedAt": "2026-11-25T15:14:08.000Z"
-  },
-  {
-    "id": "132a1c505ee0ddee",
-    "title": "Botty? AI helps resurrect voice of John Motson for football video game",
-    "summary": "Late broadcaster’s family allows EA Sports to create digital version of ‘Motty’ to commentate on popular FC27.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
-    "publishedAt": "2026-11-25T15:13:10.000Z"
-  },
-  {
-    "id": "cffc2f91e377f589",
-    "title": "US stocks fall further as fears over AI intensify",
-    "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
-    "publishedAt": "2026-11-25T15:05:38.000Z"
-  },
-  {
-    "id": "d5072efa6e3dbd21",
-    "title": "Stick or switch? UK billpayers weigh up how to beat January energy jump",
-    "summary": "Despite dozens of fixed deals lower than next Ofgem price cap, many customers argue savings do not justify the risk.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/25/heating-uk-householders-grapple-with-energy-bills",
-    "publishedAt": "2026-11-25T15:02:41.000Z"
   }
 ]
