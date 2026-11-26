@@ -1,5 +1,104 @@
 [
   {
+    "id": "3f145ed93b275eff",
+    "title": "Parents cutting basics at Christmas, charity warns",
+    "summary": "The chief executive of Worthing Soup Kitchen says some families choose between food and presents.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq1k98gpzmy4o",
+    "publishedAt": "2026-11-26T06:13:47.000Z"
+  },
+  {
+    "id": "019833ad56a6f9c9",
+    "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
+    "summary": "Apps not working. Bank transfers not going through.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions?traffic_source=rss",
+    "publishedAt": "2026-11-26T06:07:35.000Z"
+  },
+  {
+    "id": "c41cbac4ef3489df",
+    "title": "Whitehouse calls on PM to help save lake fish",
+    "summary": "The comedian warns extinction beckons for Arctic charr in Windermere after thousands of years.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6808pxrzy5po",
+    "publishedAt": "2026-11-26T06:05:36.000Z"
+  },
+  {
+    "id": "add321208a3e4ca2",
+    "title": "Timms review puts rare focus on improving benefits system for disabled claimants",
+    "summary": "The review tackles some big questions about a flawed system – but leaves other issues in the ‘maybe later’ drawer.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/26/timms-review-pip-disability-benefits-claimants",
+    "publishedAt": "2026-11-26T06:00:47.000Z"
+  },
+  {
+    "id": "72182554e9f64016",
+    "title": "South Korea’s central bank hikes interest rates, raises GDP growth forecast",
+    "summary": "Bank of Korea raises key rate by 0.25 percent amid booming exports of AI chips.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
+    "publishedAt": "2026-11-26T05:49:40.000Z"
+  },
+  {
+    "id": "f14ea871dba64cb9",
+    "title": "South Korea's central bank raises key interest rate to fight inflation",
+    "summary": "South Korea’s central bank has raised its benchmark interest rate for the third time since July.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/south-koreas-central-bank-raises-key-interest-rate-138458862",
+    "publishedAt": "2026-11-26T05:32:23.000Z"
+  },
+  {
+    "id": "70f8eb5a7d2533ea",
+    "title": "Mexico’s most powerful cartels adapt as arrests and leadership battles reshape their ranks",
+    "summary": "The recent arrest of another Mexican drug lord adds to a string of actions against cartels as Mexico intensifies its crackdown on organized crime under mounting pressure from U.S. President Donald Trump and with U.S. intelligence support.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/mexicos-powerful-cartels-adapt-arrests-leadership-battles-reshape-138448280",
+    "publishedAt": "2026-11-26T05:32:12.000Z"
+  },
+  {
+    "id": "d532e9d241420e3d",
+    "title": "On Greece's most glamorous island, faith and tradition endure with a celebration of its women",
+    "summary": "The Greek island of Mykonos honored its matriarchal heritage with a celebration of St. Catherine, considered a symbol of courage and wisdom for generations of its women.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/greeces-glamorous-island-faith-tradition-endure-celebration-women-138462333",
+    "publishedAt": "2026-11-26T05:31:49.000Z"
+  },
+  {
+    "id": "52e2aa296598083c",
+    "title": "Sierra Leone sees steep decline in maternal mortality, but barriers to care persist",
+    "summary": "Fatmata Kamara's experience in Sierra Leone highlights both progress and challenges in maternal healthcare.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/sierra-leone-sees-steep-decline-maternal-mortality-barriers-138462429",
+    "publishedAt": "2026-11-26T05:31:38.000Z"
+  },
+  {
+    "id": "9a38e3655c5dfd20",
+    "title": "‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release",
+    "summary": "Yuki Imai being held in Moscow on allegations he conducted ‘espionage’ while working for a newspaper in Sakhalin island in Russia’s far east.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
+    "publishedAt": "2026-11-26T05:16:17.000Z"
+  },
+  {
+    "id": "6cd000eb5d493bfb",
+    "title": "Puerto Rico’s Supreme Court cancels major power contract",
+    "summary": "The court's five-to-four ruling ends Luma Energy's operations after a contentious legal battle.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
+    "publishedAt": "2026-11-26T05:09:55.000Z"
+  },
+  {
     "id": "fbef423370c9ab50",
     "title": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
     "summary": "Project capable of powering 300,000 homes, with Britain having offered more than £770m to rebuild energy sector.",
@@ -601,6 +700,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/25/energy-bills-gas-prices-electricity-costs",
     "publishedAt": "2026-11-25T19:21:16.000Z"
+  },
+  {
+    "id": "d92af8563d39a6ab",
+    "title": "US approves Musk's plan for space-based data centres",
+    "summary": "Elon Musk's company says solar-powered satellites in orbit could help power the next generation of AI.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-26/musk-spacex-datacentres-fcc/107428024",
+    "publishedAt": "2026-11-25T19:21:00.000Z"
   },
   {
     "id": "ba9ffe98f19defb0",
@@ -1240,113 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/lifeandstyle/2026/nov/25/friendsgiving-gen-z",
     "publishedAt": "2026-11-25T14:00:29.000Z"
-  },
-  {
-    "id": "2154cef2957fddac",
-    "title": "Labour ‘committed’ to ban on conversion practices despite calls for proposed law to be scrapped",
-    "summary": "Exclusive: Campaigners say new legislation in England and Wales could infringe on free speech, parenting and religious freedom.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/25/labour-committed-ban-conversion-practices-despite-proposed-law-scrapped",
-    "publishedAt": "2026-11-25T14:00:28.000Z"
-  },
-  {
-    "id": "b65adb33db6dd899",
-    "title": "Trump unveils suite of new tariffs on major trading partners",
-    "summary": "Goods from China, Brazil, the EU and Vietnam are all set to be taxed higher as Donald Trump doubles down on his tariff policies after a midterms drubbing.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-26/trump-new-tariffs-major-trading-partners/107425504",
-    "publishedAt": "2026-11-25T13:59:09.000Z"
-  },
-  {
-    "id": "a61ab511a42dd98e",
-    "title": "Annual US consumer price inflation hits 3.8% – highest level since May",
-    "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
-    "publishedAt": "2026-11-25T13:54:06.000Z"
-  },
-  {
-    "id": "de478ea7a63aa850",
-    "title": "What to know before using AI agents for Black Friday shopping",
-    "summary": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
-    "publishedAt": "2026-11-25T13:51:56.000Z"
-  },
-  {
-    "id": "b9a6c473148d4607",
-    "title": "Energy bills to rise by 26% from January after gas prices surge",
-    "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
-    "publishedAt": "2026-11-25T13:42:08.000Z"
-  },
-  {
-    "id": "63336486a4013a58",
-    "title": "US court convicts Huawei of theft: A history of Chinese firm’s global woes",
-    "summary": "Chinese tech giant has faced legal problems from Europe to Asia, and its products have been banned in trade war with US.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss",
-    "publishedAt": "2026-11-25T13:37:51.000Z"
-  },
-  {
-    "id": "379c8f7a1212b3a3",
-    "title": "UK nuclear test veterans win 40-year battle for inquiry into Cold War tests",
-    "summary": "Britain’s prime minister has authorized an inquiry into the impact of nuclear weapons tests on military veterans after a 40-year campaign by survivors who say they were used as guinea pigs for tests that damaged their health and that of their children.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/uk-nuclear-test-veterans-win-40-year-battle-138436079",
-    "publishedAt": "2026-11-25T13:29:05.000Z"
-  },
-  {
-    "id": "97ac4fc02b847e8d",
-    "title": "Number of women killed by men in Ireland almost doubles in a year",
-    "summary": "Figures from past 30 years show more than half of victims killed by current or ex-partner.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/25/number-of-women-killed-by-men-in-ireland-almost-doubles-in-a-year",
-    "publishedAt": "2026-11-25T13:28:39.000Z"
-  },
-  {
-    "id": "cb7efad2424b29a1",
-    "title": "NHS Grampian surgeon operated on patient while recovering from endoscopy",
-    "summary": "The doctor had to be driven to Dr Gray's hospital in Elgin because he felt unable to drive himself.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx30g76yvl1zo",
-    "publishedAt": "2026-11-25T13:26:47.000Z"
-  },
-  {
-    "id": "2a7a6d54e9abce15",
-    "title": "BBC lodges urgent appeal against Trump’s $10bn defamation lawsuit",
-    "summary": "Corporation asks US court of appeals for the 11th circuit to throw out case brought over Panorama documentary.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/bbc-trump-defamation-case-10bn-urgent-appeal",
-    "publishedAt": "2026-11-25T13:24:55.000Z"
-  },
-  {
-    "id": "ae5493d15244c05b",
-    "title": "Amazon to start selling cars in the UK next year",
-    "summary": "US retail giant links up with Hyundai in attempt to crack £200bn British market.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
-    "publishedAt": "2026-11-25T13:17:21.000Z"
-  },
-  {
-    "id": "b9c571e609483ece",
-    "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
-    "summary": "Israel's tech sector and economy have strong ties to chip giant Nvidia, which invests billions of dollars.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
-    "publishedAt": "2026-11-25T13:04:17.000Z"
   }
 ]
