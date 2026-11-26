@@ -1,5 +1,86 @@
 [
   {
+    "id": "ddd9768f2614e272",
+    "title": "Guinea-Bissau presidential election delayed by two years",
+    "summary": "Military leaders say presidential and legislative poll scheduled for December 6 will now take place in November 2028.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
+    "publishedAt": "2026-11-26T18:07:18.000Z"
+  },
+  {
+    "id": "9fc728089f567d8a",
+    "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+    "summary": "Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza City.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+    "publishedAt": "2026-11-26T17:59:44.000Z"
+  },
+  {
+    "id": "f660e1dfe935c14d",
+    "title": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
+    "summary": "The bloc is holding an extraordinary summit in Brussels to discuss its budget proposal for 2028 to 2034.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
+    "publishedAt": "2026-11-26T17:53:44.000Z"
+  },
+  {
+    "id": "b158ddd83fcdef71",
+    "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+    "summary": "Former Bank of Spain governor chosen to succeed Christine Lagarde after winning support of EU’s biggest countries.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
+    "publishedAt": "2026-11-26T17:50:54.000Z"
+  },
+  {
+    "id": "7a34fc41725242eb",
+    "title": "Did Scotland's departing chief medical officer actually do anything wrong?",
+    "summary": "Sir Gregor Smith has stepped down, citing health reasons, amid a row about failures at NHS Grampian.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq4gnjd5l3k4o",
+    "publishedAt": "2026-11-26T17:45:45.000Z"
+  },
+  {
+    "id": "52588aea239ae6af",
+    "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
+    "summary": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
+    "publishedAt": "2026-11-26T17:38:56.000Z"
+  },
+  {
+    "id": "c48075ad871335b1",
+    "title": "Netanyahu’s corruption trial: Is it really all over?",
+    "summary": "Court recommendations put the Israeli leader's trial, political future and efforts to evade prosecution back in focus.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
+    "publishedAt": "2026-11-26T17:38:02.000Z"
+  },
+  {
+    "id": "98f0fe36a4953c95",
+    "title": "French actor Gerard Depardieu to stand trial for alleged 2018 rape",
+    "summary": "Paris court of appeal dismisses allegations relating to a second incident involving actress Charlotte Arnould.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss",
+    "publishedAt": "2026-11-26T17:18:24.000Z"
+  },
+  {
+    "id": "db3f3469e61a6628",
+    "title": "Public service broadcaster services should be top of TV app menus – Ofcom",
+    "summary": "UK regulator’s code of practice on streaming platforms is intended to give prominence to iPlayer and similar offerings.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom",
+    "publishedAt": "2026-11-26T17:09:14.000Z"
+  },
+  {
     "id": "f1f5d0dd1d416a57",
     "title": "US army calls detonation of bomb chemicals in Iowa a success after fears of toxic plume",
     "summary": "The army blows up US stockpile of lead azide, a chemical used for explosives, to avoid uncontrollable explosion.",
@@ -558,6 +639,15 @@
     "publishedAt": "2026-11-26T12:07:14.000Z"
   },
   {
+    "id": "c398cdb678a19f0f",
+    "title": "New boss appointed to lead Travelodge",
+    "summary": "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo",
+    "publishedAt": "2026-11-26T12:03:49.000Z"
+  },
+  {
     "id": "e1ac73a69ed90a5c",
     "title": "Dressmaker review – delightful business sim is a cut above",
     "summary": "Catering to the exacting whims of a small town preparing for some grand visitors presents absorbing, beautifully designed – and surprisingly thrilling – challenges.",
@@ -592,6 +682,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/26/louisiana-spacex-exxonmobil-land-deal-lawsuit",
     "publishedAt": "2026-11-26T12:00:33.000Z"
+  },
+  {
+    "id": "27d0f525dd6c195a",
+    "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+    "summary": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+    "publishedAt": "2026-11-26T12:00:22.000Z"
   },
   {
     "id": "61461831b970e0c3",
@@ -1249,104 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
     "publishedAt": "2026-11-26T06:12:53.000Z"
-  },
-  {
-    "id": "88717c9322867607",
-    "title": "Sri Lanka mass grave revives quest for answers to forgotten Muslim massacre",
-    "summary": "As Sri Lanka's Tamil separatists fought a deadly war with the army, they also killed hundreds of Muslims.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/sri-lanka-mass-grave-revives-quest-for-answers-to-forgotten-muslim-massacre?traffic_source=rss",
-    "publishedAt": "2026-11-26T06:10:52.000Z"
-  },
-  {
-    "id": "019833ad56a6f9c9",
-    "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
-    "summary": "Apps not working. Bank transfers not going through.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions?traffic_source=rss",
-    "publishedAt": "2026-11-26T06:07:35.000Z"
-  },
-  {
-    "id": "c41cbac4ef3489df",
-    "title": "Whitehouse calls on PM to help save lake fish",
-    "summary": "The comedian warns extinction beckons for Arctic charr in Windermere after thousands of years.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6808pxrzy5po",
-    "publishedAt": "2026-11-26T06:05:36.000Z"
-  },
-  {
-    "id": "ae167a9fd420996a",
-    "title": "Desperate appeals from women on death row in Iran after protests",
-    "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo",
-    "publishedAt": "2026-11-26T06:01:58.000Z"
-  },
-  {
-    "id": "add321208a3e4ca2",
-    "title": "Timms review puts rare focus on improving benefits system for disabled claimants",
-    "summary": "The review tackles some big questions about a flawed system – but leaves other issues in the ‘maybe later’ drawer.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/26/timms-review-pip-disability-benefits-claimants",
-    "publishedAt": "2026-11-26T06:00:47.000Z"
-  },
-  {
-    "id": "72182554e9f64016",
-    "title": "South Korea’s central bank hikes interest rates, raises GDP growth forecast",
-    "summary": "Bank of Korea raises key rate by 0.25 percent amid booming exports of AI chips.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
-    "publishedAt": "2026-11-26T05:49:40.000Z"
-  },
-  {
-    "id": "f14ea871dba64cb9",
-    "title": "South Korea's central bank raises key interest rate to fight inflation",
-    "summary": "South Korea’s central bank has raised its benchmark interest rate for the third time since July.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/south-koreas-central-bank-raises-key-interest-rate-138458862",
-    "publishedAt": "2026-11-26T05:32:23.000Z"
-  },
-  {
-    "id": "70f8eb5a7d2533ea",
-    "title": "Mexico’s most powerful cartels adapt as arrests and leadership battles reshape their ranks",
-    "summary": "The recent arrest of another Mexican drug lord adds to a string of actions against cartels as Mexico intensifies its crackdown on organized crime under mounting pressure from U.S. President Donald Trump and with U.S. intelligence support.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/mexicos-powerful-cartels-adapt-arrests-leadership-battles-reshape-138448280",
-    "publishedAt": "2026-11-26T05:32:12.000Z"
-  },
-  {
-    "id": "d532e9d241420e3d",
-    "title": "On Greece's most glamorous island, faith and tradition endure with a celebration of its women",
-    "summary": "The Greek island of Mykonos honored its matriarchal heritage with a celebration of St. Catherine, considered a symbol of courage and wisdom for generations of its women.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/greeces-glamorous-island-faith-tradition-endure-celebration-women-138462333",
-    "publishedAt": "2026-11-26T05:31:49.000Z"
-  },
-  {
-    "id": "52e2aa296598083c",
-    "title": "Sierra Leone sees steep decline in maternal mortality, but barriers to care persist",
-    "summary": "Fatmata Kamara's experience in Sierra Leone highlights both progress and challenges in maternal healthcare.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/sierra-leone-sees-steep-decline-maternal-mortality-barriers-138462429",
-    "publishedAt": "2026-11-26T05:31:38.000Z"
-  },
-  {
-    "id": "44f16f836512c697",
-    "title": "Duran Duran guitarist Andy Taylor dies aged 65",
-    "summary": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po",
-    "publishedAt": "2026-11-26T05:19:35.000Z"
   }
 ]
