@@ -1,5 +1,23 @@
 [
   {
+    "id": "ab6e2293f47c7129",
+    "title": "US-backed Ebola quarantine center violated constitution, Kenyan court rules",
+    "summary": "Kenya's government violated the constitution by allowing the construction of a U.S.-backed Ebola quarantine facility without public participation, the High Court has ruled.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/us-backed-ebola-quarantine-center-violated-constitution-kenyan-138465843",
+    "publishedAt": "2026-11-26T12:31:13.000Z"
+  },
+  {
+    "id": "71f585ef04a977f5",
+    "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+    "summary": "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+    "publishedAt": "2026-11-26T12:24:29.000Z"
+  },
+  {
     "id": "721232c5c71bd695",
     "title": "Egypt detains a driver suspected of causing Cairo tanker crash that killed 31",
     "summary": "Egyptian authorities have detained a driver suspected of causing a fuel tanker to overturn on a major highway in Cairo.",
@@ -9,6 +27,15 @@
     "publishedAt": "2026-11-26T12:11:00.000Z"
   },
   {
+    "id": "e47d5a36d07a4c0c",
+    "title": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
+    "summary": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
+    "publishedAt": "2026-11-26T12:10:49.000Z"
+  },
+  {
     "id": "14300e214e96cbc2",
     "title": "Serbia sets presidential election for Dec. 27 after students won parliamentary vote",
     "summary": "Serbia's Parliament speaker has set an early presidential election for December 27.",
@@ -16,6 +43,42 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/serbia-sets-presidential-election-dec-27-after-students-138465505",
     "publishedAt": "2026-11-26T12:09:52.000Z"
+  },
+  {
+    "id": "510c635cd6054059",
+    "title": "Ministry of Defence signs £8.7bn deal with Babcock to maintain submarines",
+    "summary": "Wes Streeting says deal will ‘get our subs out of the docks and into the sea faster’ amid scrutiny of nuclear deterrent.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/26/ministry-of-defence-deal-babcock-maintain-submarines",
+    "publishedAt": "2026-11-26T12:07:29.000Z"
+  },
+  {
+    "id": "34ecedf13eaf1daf",
+    "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+    "summary": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan to fill funding black hole caused by Russia’s relentless attacks.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
+    "publishedAt": "2026-11-26T12:07:14.000Z"
+  },
+  {
+    "id": "e1ac73a69ed90a5c",
+    "title": "Dressmaker review – delightful business sim is a cut above",
+    "summary": "Catering to the exacting whims of a small town preparing for some grand visitors presents absorbing, beautifully designed – and surprisingly thrilling – challenges.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/26/dressmaker-review-delightful-business-sim-is-a-cut-above",
+    "publishedAt": "2026-11-26T12:00:34.000Z"
+  },
+  {
+    "id": "fd1738420d67e108",
+    "title": "Manchester United, Liverpool and Spurs using same law firm to set up legal claim against City",
+    "summary": "Manchester United, Liverpool and Tottenham are using the same law firm to prepare a legal claim against Manchester City for breaking the Premier League’s financial rules that could be worth hundreds of millions of pounds.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
+    "publishedAt": "2026-11-26T12:00:34.000Z"
   },
   {
     "id": "273d40f978e767fd",
@@ -178,6 +241,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
     "publishedAt": "2026-11-26T11:00:32.000Z"
+  },
+  {
+    "id": "d55f2bd937d7f8cb",
+    "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+    "summary": "Officials say no lead has been detected in the surrounding area, which continues to be tested following concerns from locals.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
+    "publishedAt": "2026-11-26T10:38:35.000Z"
   },
   {
     "id": "864fb771cfdb87e7",
@@ -1170,6 +1242,15 @@
     "publishedAt": "2026-11-25T22:10:12.000Z"
   },
   {
+    "id": "ba9ffe98f19defb0",
+    "title": "North Korea expels Swiss diplomat in sanctions row",
+    "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o",
+    "publishedAt": "2026-11-25T21:51:17.000Z"
+  },
+  {
     "id": "cffc2f91e377f589",
     "title": "US stocks fall further as fears over AI intensify",
     "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
@@ -1267,86 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
     "publishedAt": "2026-11-25T20:52:32.000Z"
-  },
-  {
-    "id": "acaedfcf25bdc422",
-    "title": "Liberal senator Leah Blyth announces defection to One Nation",
-    "summary": "South Australian senator labels One Nation the ‘only party with the bold ideas needed to turn this country around’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
-    "publishedAt": "2026-11-25T20:50:15.000Z"
-  },
-  {
-    "id": "54114c7954a85937",
-    "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
-    "summary": "The judges' recommendations came as Israel's longest-serving prime minister fights for his political survival.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
-    "publishedAt": "2026-11-25T20:29:22.000Z"
-  },
-  {
-    "id": "51474f06b50acc6b",
-    "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
-    "summary": "Unclear if ‘hostage-taker’ who was killed may have been a hostage as daylong siege in Cartagena shopping centre ends.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
-    "publishedAt": "2026-11-25T20:20:23.000Z"
-  },
-  {
-    "id": "f6feaf7d8936210f",
-    "title": "Judge orders transfer of Thomas Markle to face formal charges in California",
-    "summary": "Father of the Duchess of Sussex currently being held in Florida is charged with possession of child pornography.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/25/thomas-markle-transfer-charges-california",
-    "publishedAt": "2026-11-25T20:06:57.000Z"
-  },
-  {
-    "id": "c7ef44b23ded65e0",
-    "title": "Oregon man and dog narrowly escape being swept away by high tides as officials urge caution at beaches",
-    "summary": "Record-breaking king tides have prompted west coast authorities to warn residents to stay away from beaches.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/oregon-man-dog-escape-waves-king-tides",
-    "publishedAt": "2026-11-25T20:03:53.000Z"
-  },
-  {
-    "id": "1702a56181d8a296",
-    "title": "Which gaming headsets are worth the cost? I put 20 to the test – here are the best for 2026",
-    "summary": "Wired, wireless, noise cancelling and budget … here are the headphones to level up your PC and console gaming.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2026/nov/25/best-gaming-headsets-tested-uk",
-    "publishedAt": "2026-11-25T20:00:35.000Z"
-  },
-  {
-    "id": "97f9ecae41cf6c80",
-    "title": "High levels of salmonella found in some products from nation’s biggest turkey producer",
-    "summary": "Two years of inspections at four Butterball plants show rates far exceeding US averages in ground or chopped meat.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/25/turkey-salmonella-butterball",
-    "publishedAt": "2026-11-25T20:00:34.000Z"
-  },
-  {
-    "id": "f990c346c428e4fb",
-    "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
-    "summary": "Chip Wilson said men importing brides from Thailand was due to women waiting too long to have children.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference",
-    "publishedAt": "2026-11-25T19:57:49.000Z"
-  },
-  {
-    "id": "c64a1ebf2dbfb8fa",
-    "title": "Fighting in eastern Congo forces Ebola workers to evacuate, threatening outbreak response",
-    "summary": "Escalating fighting in eastern Congo has forced health workers to evacuate and blocked roads needed to reach Ebola patients.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/fighting-eastern-congo-forces-ebola-workers-evacuate-threatening-138449760",
-    "publishedAt": "2026-11-25T19:47:44.000Z"
   }
 ]
