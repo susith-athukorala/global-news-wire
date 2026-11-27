@@ -1,5 +1,41 @@
 [
   {
+    "id": "df1a3446c689bb28",
+    "title": "New satellite data shows how fast some African cities are sinking",
+    "summary": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq074p95z4llo",
+    "publishedAt": "2026-11-27T19:03:18.000Z"
+  },
+  {
+    "id": "8131f4a51ae6902c",
+    "title": "Mexico files formal complaint to US over DEA tip line",
+    "summary": "Mexican President Claudia Sheinbaum says the country is filing a formal complaint with the U.S. over a Drug Enforcement Agency tip line for anonymous reports about criminals and corrupt Mexican officials.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/mexico-files-formal-complaint-us-dea-tip-line-138484649",
+    "publishedAt": "2026-11-27T19:00:27.000Z"
+  },
+  {
+    "id": "27249768c23975fa",
+    "title": "UN rapporteur Albanese in limbo at airport after being denied entry to Costa Rica",
+    "summary": "Francesca Albanese, the U.N. special rapporteur on human rights in the occupied Palestinian territories, is stranded at Costa Rica’s main airport awaiting for a court to decide whether she could enter the country after immigration authorities blocked h.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/rapporteur-albanese-limbo-airport-after-denied-entry-costa-138484778",
+    "publishedAt": "2026-11-27T18:58:51.000Z"
+  },
+  {
+    "id": "094da32d37a9624b",
+    "title": "Police suspect criminals robbed fans at Manchester gig disrupted by ‘unknown substance’",
+    "summary": "Police are working with agencies across Europe after similar incidents occurred at two other Don Toliver concerts.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/27/police-believe-criminals-carried-out-robberies-during-don-toliver-manchester-gig-unknown-substance",
+    "publishedAt": "2026-11-27T18:35:45.000Z"
+  },
+  {
     "id": "145e9c36a46af2ef",
     "title": "Mexico files complaint with US over tip line on alleged drug traffickers",
     "summary": "Tensions rise over DEA tip line, with Mexico emphasizing respect for its sovereignty amidst growing bilateral discord.",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo",
     "publishedAt": "2026-11-27T05:35:10.000Z"
-  },
-  {
-    "id": "bb052517ef527867",
-    "title": "Erin Patterson launches high court appeal bid over mushroom murder convictions",
-    "summary": "Patterson, 52, seeks leave to appeal to Australia’s highest court over deaths of estranged family members after fatal beef wellington lunch.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
-    "publishedAt": "2026-11-27T05:31:38.000Z"
-  },
-  {
-    "id": "385770ce776ff8db",
-    "title": "Israel uses south Lebanon Christian villages to try to divide and conquer",
-    "summary": "Israel is trying to fragment Lebanon by separating its Christian residents in south Lebanon from the rest.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/27/israel-uses-christian-villages-in-southern-lebanon-to-divide-and-conquer?traffic_source=rss",
-    "publishedAt": "2026-11-27T05:27:18.000Z"
-  },
-  {
-    "id": "52588aea239ae6af",
-    "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-    "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
-    "publishedAt": "2026-11-27T05:15:26.000Z"
-  },
-  {
-    "id": "0cb7c489176ae533",
-    "title": "Here are the main issues driving Spain's national election and why they matter for Europe",
-    "summary": "Spain is to elect a new government on Sunday in a snap election that could unseat Prime Minister Pedro S&aacute;nchez.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/main-issues-driving-spains-national-election-matter-europe-138476510",
-    "publishedAt": "2026-11-27T05:10:38.000Z"
   }
 ]
