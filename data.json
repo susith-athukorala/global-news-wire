@@ -1,5 +1,113 @@
 [
   {
+    "id": "6ba8cf48dfe14e12",
+    "title": "Zelenskyy urges the US to pressure Putin, calling Trump’s 'my friend' remark strange",
+    "summary": "Ukrainian President Volodymyr Zelenskyy is expressing frustration with the U.S. approach to Russian leader Vladimir Putin.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/zelenskyy-urges-us-pressure-putin-calling-trumps-friend-138478386",
+    "publishedAt": "2026-11-27T11:55:58.000Z"
+  },
+  {
+    "id": "ae655af5ec453dae",
+    "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+    "summary": "Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+    "publishedAt": "2026-11-27T11:51:26.000Z"
+  },
+  {
+    "id": "7207ea4971845376",
+    "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+    "summary": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+    "publishedAt": "2026-11-27T11:49:50.000Z"
+  },
+  {
+    "id": "f960c2889409e4af",
+    "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
+    "summary": "Growing attacks have damaged European infrastructure, but have not reduced support for Ukraine, analysis says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+    "publishedAt": "2026-11-27T11:44:46.000Z"
+  },
+  {
+    "id": "8690dea523caf3a7",
+    "title": "Old wounds reopen as Kyrgyzstan’s Osh embraces a new urban project",
+    "summary": "Redevelopment reshapes the city, but some worry as residents are displaced and cultural heritage appears at risk.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/27/old-wounds-reopen-as-kyrgyzstans-osh-embraces-a-new-urban-project?traffic_source=rss",
+    "publishedAt": "2026-11-27T11:35:34.000Z"
+  },
+  {
+    "id": "7a830a1fea96fa13",
+    "title": "Houthis report 11 killed, including children, in an airstrike, and other Mideast news",
+    "summary": "Houthi rebels say an airstrike in southwestern Yemen has killed at least 11 people, including children.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/houthis-report-11-killed-including-children-airstrike-mideast-138478032",
+    "publishedAt": "2026-11-27T11:26:19.000Z"
+  },
+  {
+    "id": "8ce44785e0dbbb4b",
+    "title": "Armed group kills 13 soldiers in western Niger attack, defense ministry says",
+    "summary": "Armed men killed 13 members of Niger’s National Guard and injured 20 others in an attack on an outpost in western Niger, the country’s defense ministry said.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/armed-group-kills-13-soldiers-western-niger-attack-138477943",
+    "publishedAt": "2026-11-27T11:24:51.000Z"
+  },
+  {
+    "id": "c59a5b232017f58a",
+    "title": "UN warns hunger will deepen in the Middle East",
+    "summary": "Hunger is expected to worsen in 16 countries over the next six months, with Sudan and Yemen among five nations at the highest level of concern, the U.N.’s food agencies warned Friday.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/warns-hunger-deepen-middle-east-war-fuel-costs-138477712",
+    "publishedAt": "2026-11-27T11:24:09.000Z"
+  },
+  {
+    "id": "6fb6bbb7b8e9a7ed",
+    "title": "‘Crisis in empathy’: prison guard was watching TV while Aboriginal man was dying in custody, NSW coroner finds",
+    "summary": "Judge says officers should be banned from screens and phones while on shift after the 33-year-old’s death at Silverwater.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/27/crisis-in-empathy-death-in-custody-of-aboriginal-man-tj-denniss-was-preventable-says-nsw-coroner-ntwnfb",
+    "publishedAt": "2026-11-27T11:18:47.000Z"
+  },
+  {
+    "id": "59205f400da57343",
+    "title": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
+    "summary": "Israel seeking 'to prevent births' and destroy Palestinians in Gaza by targeting women and girls, rights group says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
+    "publishedAt": "2026-11-27T11:15:03.000Z"
+  },
+  {
+    "id": "827e09c0f850db6b",
+    "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
+    "summary": "Department for Work and Pensions officials say welfare payments will continue to be made despite huge outage.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
+    "publishedAt": "2026-11-27T11:14:02.000Z"
+  },
+  {
+    "id": "e590e58c674e327d",
+    "title": "Tyson Fury’s wife backtracks on claim boxer suffers from schizophrenia",
+    "summary": "Paris Fury had claimed mental health diagnosis for Tyson following his 2015 victory over Ukraine's Wladimir Klitschko.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss",
+    "publishedAt": "2026-11-27T11:12:58.000Z"
+  },
+  {
     "id": "059142103be3899f",
     "title": "US shoppers get ready for Black Friday and Cyber Monday",
     "summary": "Cyber Monday and Black Friday compete for shoppers, but discounts on electronics may peak after the weekend frenzy.",
@@ -79,6 +187,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo",
     "publishedAt": "2026-11-27T10:26:28.000Z"
+  },
+  {
+    "id": "580ae072d807870b",
+    "title": "Clashes mar European games as Macron condemns violence",
+    "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo",
+    "publishedAt": "2026-11-27T10:24:24.000Z"
   },
   {
     "id": "d0772a5b79e14123",
@@ -981,6 +1098,15 @@
     "publishedAt": "2026-11-26T21:25:11.000Z"
   },
   {
+    "id": "cb4c4139de5a29d9",
+    "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+    "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o",
+    "publishedAt": "2026-11-26T21:17:53.000Z"
+  },
+  {
     "id": "a310de02a1917f42",
     "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
     "summary": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
@@ -1098,6 +1224,15 @@
     "publishedAt": "2026-11-26T19:38:26.000Z"
   },
   {
+    "id": "7dba987dbfb59263",
+    "title": "Spain's former central bank head chosen as next European Central Bank president",
+    "summary": "Eurozone leaders have chosen a new president of the European Central Bank.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/leaders-choose-spains-former-central-bank-head-european-138468703",
+    "publishedAt": "2026-11-26T19:38:15.000Z"
+  },
+  {
     "id": "da65d8ebd96673bc",
     "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
     "summary": "Israeli restrictions on humanitarian aid, damaged buildings and flooded tents leave displaced Palestinians vulnerable.",
@@ -1213,140 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
     "publishedAt": "2026-11-26T18:27:49.000Z"
-  },
-  {
-    "id": "1e98c764a73ebd09",
-    "title": "Trump calls GDP data released before midterms ‘fake’, demands investigation",
-    "summary": "President says it was a deliberate decision to release 'fake' growth numbers before US midterm elections.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss",
-    "publishedAt": "2026-11-26T18:27:27.000Z"
-  },
-  {
-    "id": "2df7fe034588c1cf",
-    "title": "Second court defeat for Trump's deep-sea mining ambitions",
-    "summary": "Second judge rules against Trump administration's plans to lease areas of ocean floor and survey for mining.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o",
-    "publishedAt": "2026-11-26T18:22:28.000Z"
-  },
-  {
-    "id": "4a0c4639a1cda7df",
-    "title": "Some old-school advice for Burnham: boost competition if you want growth | Nils Pratley",
-    "summary": "Two former Treasury officials say the value of competition and disruption has become ‘the blind spot of UK economic policy’",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/26/old-school-advice-burnham-boost-competition-if-you-want-growth",
-    "publishedAt": "2026-11-26T18:19:14.000Z"
-  },
-  {
-    "id": "b661f1d123969c24",
-    "title": "What would happen if Russia detonated a nuclear weapon in space?",
-    "summary": "⁠Sputnik-S, a nuclear-enabled satellite, has been assembled by Russia and could be launched in 60 days, reports say.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space",
-    "publishedAt": "2026-11-26T18:13:33.000Z"
-  },
-  {
-    "id": "ddd9768f2614e272",
-    "title": "Guinea-Bissau presidential election delayed by two years",
-    "summary": "Military leaders say presidential and legislative poll scheduled for December 6 will now take place in November 2028.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
-    "publishedAt": "2026-11-26T18:07:18.000Z"
-  },
-  {
-    "id": "9d77a24a4ac4676e",
-    "title": "China plans Antarctic runway as Australia signs logistics agreement",
-    "summary": "Australia has signed a new logistics cooperation agreement with China as the country continues to expand its presence in Antarctica, including plans for a new intercontinental ice runway.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-27/china-and-australia-sign-antarctica-agreement-new-runway/107429314",
-    "publishedAt": "2026-11-26T18:00:00.000Z"
-  },
-  {
-    "id": "9fc728089f567d8a",
-    "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
-    "summary": "Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza City.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
-    "publishedAt": "2026-11-26T17:59:44.000Z"
-  },
-  {
-    "id": "6839050e6cd64f45",
-    "title": "Spain’s far right hasn’t governed since Franco. Immigration fears could change that",
-    "summary": "Spain's far-right Vox party has pledged to crack down on immigration if it earns enough votes in Sunday's national election to enter into government.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/spains-hasnt-governed-franco-immigration-fears-change-138466653",
-    "publishedAt": "2026-11-26T17:54:28.000Z"
-  },
-  {
-    "id": "f660e1dfe935c14d",
-    "title": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
-    "summary": "The bloc is holding an extraordinary summit in Brussels to discuss its budget proposal for 2028 to 2034.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
-    "publishedAt": "2026-11-26T17:53:44.000Z"
-  },
-  {
-    "id": "34ecedf13eaf1daf",
-    "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
-    "summary": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan, as Germany tries to protect funding from possible far-right French presidency.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
-    "publishedAt": "2026-11-26T17:51:17.000Z"
-  },
-  {
-    "id": "b158ddd83fcdef71",
-    "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
-    "summary": "Former Bank of Spain governor chosen to succeed Christine Lagarde after winning support of EU’s biggest countries.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
-    "publishedAt": "2026-11-26T17:50:54.000Z"
-  },
-  {
-    "id": "7a34fc41725242eb",
-    "title": "Did Scotland's departing chief medical officer actually do anything wrong?",
-    "summary": "Sir Gregor Smith has stepped down, citing health reasons, amid a row about failures at NHS Grampian.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq4gnjd5l3k4o",
-    "publishedAt": "2026-11-26T17:45:45.000Z"
-  },
-  {
-    "id": "2ce7247b83c05f95",
-    "title": "Marlboro maker Altria considering takeover bid for Imperial Brands",
-    "summary": "Shares in UK tobacco company jump by more than 14% on news US rival is looking into making offer.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands",
-    "publishedAt": "2026-11-26T17:44:56.000Z"
-  },
-  {
-    "id": "52588aea239ae6af",
-    "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
-    "summary": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
-    "publishedAt": "2026-11-26T17:38:56.000Z"
-  },
-  {
-    "id": "c48075ad871335b1",
-    "title": "Netanyahu’s corruption trial: Is it really all over?",
-    "summary": "Court recommendations put the Israeli leader's trial, political future and efforts to evade prosecution back in focus.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
-    "publishedAt": "2026-11-26T17:38:02.000Z"
   }
 ]
