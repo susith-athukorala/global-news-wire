@@ -1,5 +1,32 @@
 [
   {
+    "id": "38f6415aa1a89bab",
+    "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+    "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo",
+    "publishedAt": "2026-11-27T22:03:46.000Z"
+  },
+  {
+    "id": "7c9979bc33201ed2",
+    "title": "Princess of Wales documentary Heal charts ‘pilgrimage’ after cancer treatment",
+    "summary": "BBC film follows Catherine as she undertakes Three Peaks challenge to search for what life can be post-chemotherapy.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/27/catherine-princess-of-wales-heal-documentary-cancer",
+    "publishedAt": "2026-11-27T22:00:21.000Z"
+  },
+  {
+    "id": "e6fbf9a164ed0858",
+    "title": "Elderly ‘Scrooge’ severs neighbour’s Christmas lights in mobility-scooter raid",
+    "summary": "CCTV shows unidentified woman taking scissors to Middlesbrough home’s festive display.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/27/elderly-scrooge-severs-neighbours-christmas-lights-in-mobility-scooter-raid",
+    "publishedAt": "2026-11-27T21:31:40.000Z"
+  },
+  {
     "id": "d2c8e8a9de3d1370",
     "title": "Why are families going hungry in northern Yemen even where food is on sale?",
     "summary": "Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.",
@@ -1321,32 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno",
     "publishedAt": "2026-11-27T06:11:55.000Z"
-  },
-  {
-    "id": "954e1940a384d087",
-    "title": "Council to set London's highest littering fines",
-    "summary": "Fines for littering will rise from £500 to £750 in Harrow, while fly-tipping will see a £5,000 penalty.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckj0590g84nno",
-    "publishedAt": "2026-11-27T06:11:37.000Z"
-  },
-  {
-    "id": "55976a47d7c7e949",
-    "title": "The food bank helping pet owners with rising bills",
-    "summary": "RSPCA hands out food, vet vouchers, cat litter and toys to pet owners struggling with bills.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o",
-    "publishedAt": "2026-11-27T06:11:13.000Z"
-  },
-  {
-    "id": "f7e2dc656649e11d",
-    "title": "Nature walks 'another tool' in mental health fight",
-    "summary": "The Hope Haven hub is encouraging people to step outside in an effort to improve their well-being.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqzr56ny5rkpo",
-    "publishedAt": "2026-11-27T06:07:11.000Z"
   }
 ]
