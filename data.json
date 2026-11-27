@@ -1,5 +1,32 @@
 [
   {
+    "id": "da27f7263691c42d",
+    "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+    "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c670278qk879o",
+    "publishedAt": "2026-11-27T01:45:30.000Z"
+  },
+  {
+    "id": "da0ee2bb9387cfb4",
+    "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
+    "summary": "Incumbent prime minister Christopher Luxon loses majority and needs support of Opportunity party to remain in power, or country faces another election.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+    "publishedAt": "2026-11-27T01:41:50.000Z"
+  },
+  {
+    "id": "79bb921cb738f411",
+    "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+    "summary": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+    "publishedAt": "2026-11-27T01:07:44.000Z"
+  },
+  {
     "id": "666f43bd74281a99",
     "title": "Threat from China looms large over Taiwan’s local elections",
     "summary": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party.",
@@ -945,6 +972,15 @@
     "publishedAt": "2026-11-26T13:43:51.000Z"
   },
   {
+    "id": "66f84d71ac4745f1",
+    "title": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs say",
+    "summary": "Transport committee says policy papers show expanding airport would fall short of pledges on economy and climate.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
+    "publishedAt": "2026-11-26T13:43:36.000Z"
+  },
+  {
     "id": "edfe5ac33705107d",
     "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
     "summary": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
@@ -1312,41 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo",
     "publishedAt": "2026-11-26T11:21:45.000Z"
-  },
-  {
-    "id": "455385f140790146",
-    "title": "‘Proscribing free speech’: Why a Jewish group is challenging UK’s Hamas ban",
-    "summary": "The Jewish Network for Palestine says the complete ban on Hamas was being used to stifle free speech.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/proscribing-free-speech-why-a-jewish-group-is-challenging-uks-hamas-ban?traffic_source=rss",
-    "publishedAt": "2026-11-26T11:16:03.000Z"
-  },
-  {
-    "id": "7b9f8f0914eb35c2",
-    "title": "Welsh first minister accuses Burnham of ‘casually’ rejecting devolution calls",
-    "summary": "Rhun ap Iorwerth says PM is treating Wales with less respect than English regions and has ‘let himself down’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/26/welsh-first-minister-rhun-ap-iorwerth-andy-burnham-devolution-wales",
-    "publishedAt": "2026-11-26T11:09:33.000Z"
-  },
-  {
-    "id": "3a219c6249328102",
-    "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
-    "summary": "New US policy threatens further tariff hikes on China, India, Vietnam if trade negotiations fall through.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss",
-    "publishedAt": "2026-11-26T11:07:30.000Z"
-  },
-  {
-    "id": "4046fd63851c9d45",
-    "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-    "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o",
-    "publishedAt": "2026-11-26T11:00:39.000Z"
   }
 ]
