@@ -1,5 +1,77 @@
 [
   {
+    "id": "5848cd0e3fb32955",
+    "title": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
+    "summary": "Body urged Bristol city council to reject plan because of risk to nearby protected wildlife and habitats.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
+    "publishedAt": "2026-11-27T07:00:57.000Z"
+  },
+  {
+    "id": "14c7502ee30b0cf4",
+    "title": "‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
+    "summary": "Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shop.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse",
+    "publishedAt": "2026-11-27T07:00:56.000Z"
+  },
+  {
+    "id": "965bb61214955726",
+    "title": "Health board chief executive drops new NHS job after critical report",
+    "summary": "Carol Shillabeer had been due to take up a new post at a health board in north west England in 2027.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9zr5681k382o",
+    "publishedAt": "2026-11-27T06:59:28.000Z"
+  },
+  {
+    "id": "bdeb1d8cdbd33cc6",
+    "title": "Grace Tame calls out ex-Murdoch media executive who said she ‘must be looking to be raped again’",
+    "summary": "Matt Handbury, nephew of Rupert Murdoch, admits making offensive remark and says he was referencing assault survivor’s ‘strikingly attractive get-up’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/27/grace-tame-responds-former-murdoch-executive-nephew-rape-comment-ntwnfb",
+    "publishedAt": "2026-11-27T06:54:59.000Z"
+  },
+  {
+    "id": "f01312482bbcc169",
+    "title": "French, Bulgarian presidents slam Marseille violence, five fans in hospital",
+    "summary": "French and Bulgarian presidents slam Marseille fans after violent scenes in UEFA Europa League match with Levski Sofia.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/27/french-bulgarian-presidents-slam-marseille-violence-five-fans-in-hospital?traffic_source=rss",
+    "publishedAt": "2026-11-27T06:37:34.000Z"
+  },
+  {
+    "id": "c3b06fcc89e00168",
+    "title": "‘Absolute jerk’: police investigating after 500-year-old ‘King Jarrah’ tree chainsawed in WA national park",
+    "summary": "Western Australian authorities are scrambling to save the ‘iconic’ 36-metre tree in Wellington national park south of Perth.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2026/nov/27/wa-police-investigating-after-iconic-500-year-old-king-jarrah-tree-chainsawed-in-national-park",
+    "publishedAt": "2026-11-27T06:36:40.000Z"
+  },
+  {
+    "id": "be35e264d6e6e97e",
+    "title": "‘You can’t stop it’: Indians embrace Pakistani dramas, defying bans",
+    "summary": "India has tried to keep Pakistani dramas off its screens since May 2025. But Indians can't get enough of these shows.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/you-cant-stop-it-indians-embrace-pakistani-dramas-defying-bans?traffic_source=rss",
+    "publishedAt": "2026-11-27T06:31:28.000Z"
+  },
+  {
+    "id": "251c853bebc81eff",
+    "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
+    "summary": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit",
+    "publishedAt": "2026-11-27T06:12:45.000Z"
+  },
+  {
     "id": "954e1940a384d087",
     "title": "Council to set London's highest littering fines",
     "summary": "Fines for littering will rise from £500 to £750 in Harrow, while fly-tipping will see a £5,000 penalty.",
@@ -115,6 +187,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe",
     "publishedAt": "2026-11-27T05:00:55.000Z"
+  },
+  {
+    "id": "721232c5c71bd695",
+    "title": "Egypt detains a driver suspected of causing Cairo tanker crash that killed 31",
+    "summary": "Egyptian authorities have detained a driver suspected of causing a fuel tanker to overturn on a major highway in Cairo.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/egypt-detains-driver-suspected-causing-cairo-tanker-crash-138465415",
+    "publishedAt": "2026-11-27T04:59:28.000Z"
   },
   {
     "id": "eb58fc1d09023af2",
@@ -1260,93 +1341,12 @@
     "publishedAt": "2026-11-26T13:40:46.000Z"
   },
   {
-    "id": "a71f06ace79d8bbd",
-    "title": "Haftar meets Erdogan: Can Turkiye reunify Libya as it courts rival sides?",
-    "summary": "Maritime agreement pivotal for Turkiye's Eastern Mediterranean gas claims as Libya's unification process faces hurdles.",
+    "id": "ab6e2293f47c7129",
+    "title": "US-backed Ebola quarantine center violated constitution, Kenyan court rules",
+    "summary": "Kenya's government violated the constitution by allowing the construction of a U.S.-backed Ebola quarantine facility without public participation, the High Court has ruled.",
     "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/haftar-meets-erdogan-can-turkiye-reunify-libya-as-it-courts-rival-sides?traffic_source=rss",
-    "publishedAt": "2026-11-26T13:34:21.000Z"
-  },
-  {
-    "id": "afd70fe24e551d9f",
-    "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-    "summary": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
-    "publishedAt": "2026-11-26T13:31:28.000Z"
-  },
-  {
-    "id": "37a959a07906488d",
-    "title": "Jordan Parliament debates ‘antiterror’ law after deadly Karak church attack",
-    "summary": "House votes to refer draft amendments to the 2006 Anti-Terrorism Law to its Legal Committee for review.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss",
-    "publishedAt": "2026-11-26T13:23:46.000Z"
-  },
-  {
-    "id": "ef8c61463466ed5a",
-    "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
-    "summary": "Then ambassador to US wanted to discuss alternatives to World Trade Organisation in ‘under the radar’ meeting, documents reveal.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
-    "publishedAt": "2026-11-26T13:11:39.000Z"
-  },
-  {
-    "id": "856d3d9b30c21bc1",
-    "title": "Is UBI the solution to mass unemployment in an AI economy?",
-    "summary": "AI's rapid advance has led to calls for universal payments to prevent poverty and wealth inequality.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/26/is-ubi-the-solution-to-mass-unemployment-in-an-ai-economy?traffic_source=rss",
-    "publishedAt": "2026-11-26T13:04:51.000Z"
-  },
-  {
-    "id": "155c774d1f68d6ce",
-    "title": "Contraceptive pill usage in Great Britain fell drastically in last decade, research finds",
-    "summary": "Survey published in Lancet reveals ‘hormonal hesitancy’ on the rise – with implants and injections also increasingly spurned.",
-    "category": "Science",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/26/contraceptive-pill-usage-in-great-britain-fell-drastically-in-last-decade-research-finds",
-    "publishedAt": "2026-11-26T13:00:51.000Z"
-  },
-  {
-    "id": "4741ec0258e5be6b",
-    "title": "Rescuers blocked from a fire. A child killed on the way to school. Miles-long trains are upending US lives",
-    "summary": "Communities say big railroad companies won’t act and that lawmakers moving too slowly to address a major problem.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/26/freight-trains-blocking-streets-disrupting-life",
-    "publishedAt": "2026-11-26T13:00:35.000Z"
-  },
-  {
-    "id": "8d162dcba12149c6",
-    "title": "Cost of living roadshow highlights support on offer",
-    "summary": "This event in Sheerness is funded by the Crisis and Resilience Fund for those facing cash issues.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqz0ky4204jlo",
-    "publishedAt": "2026-11-26T12:49:07.000Z"
-  },
-  {
-    "id": "d7e75c6069b3e6f5",
-    "title": "430,000 UK homeowners face £500-plus jump in monthly mortgage payments",
-    "summary": "Bank of England warns of increases for millions coming off fixed deals over next three years as interest rates rise.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/nov/26/430000-uk-homeowners-500-jump-monthly-mortgage-payments-bank-of-england-interest-rates",
-    "publishedAt": "2026-11-26T12:44:46.000Z"
-  },
-  {
-    "id": "c00b18ff3f3b67b6",
-    "title": "MP hosts 400,000 guests at daughter’s wedding in India’s poorest state",
-    "summary": "Five helipads built to ferry in VIP guests to wedding hosted by MP Anant Singh, with spectators climbing electricity pylons to catch glimpse of celebrations.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/26/india-anant-singh-hosts-400000-guests-wedding-guests-daughter",
-    "publishedAt": "2026-11-26T12:43:10.000Z"
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/us-backed-ebola-quarantine-center-violated-constitution-kenyan-138465843",
+    "publishedAt": "2026-11-26T13:38:30.000Z"
   }
 ]
