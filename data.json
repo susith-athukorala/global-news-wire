@@ -1,5 +1,68 @@
 [
   {
+    "id": "d2c8e8a9de3d1370",
+    "title": "Why are families going hungry in northern Yemen even where food is on sale?",
+    "summary": "Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
+    "publishedAt": "2026-11-27T21:11:27.000Z"
+  },
+  {
+    "id": "c1ddbe7f46b5fe65",
+    "title": "Venezuela to repeal law that bans opposition figures from office",
+    "summary": "It comes a month after opposition leader Maria Corina Machado returned to Venezuela.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
+    "publishedAt": "2026-11-27T20:44:03.000Z"
+  },
+  {
+    "id": "98fbe3ca3c13a20a",
+    "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
+    "summary": "Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
+    "publishedAt": "2026-11-27T20:40:51.000Z"
+  },
+  {
+    "id": "6748f6e760532432",
+    "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+    "summary": "The Kremlin plans to expand its naval fleet with five new nuclear submarines by 2030.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+    "publishedAt": "2026-11-27T20:39:57.000Z"
+  },
+  {
+    "id": "c6edaa4e286d40ce",
+    "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+    "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo",
+    "publishedAt": "2026-11-27T20:34:45.000Z"
+  },
+  {
+    "id": "0310bd7d5f12df77",
+    "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
+    "summary": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+    "publishedAt": "2026-11-27T20:19:04.000Z"
+  },
+  {
+    "id": "c2180b6d61229f1c",
+    "title": "Sales for Biden memoir fall far short of books by Obama and Clinton",
+    "summary": "Promise Me, America, which has lukewarm reviews from critics, sold about 21,000 copies during its first week on sale.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/biden-promise-me-america-memoir-sales-fall-short",
+    "publishedAt": "2026-11-27T20:13:58.000Z"
+  },
+  {
     "id": "1bf661469423d4fe",
     "title": "Spanish PM and rivals rally supporters in final pitch for votes",
     "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
@@ -7,6 +70,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo",
     "publishedAt": "2026-11-27T20:09:09.000Z"
+  },
+  {
+    "id": "f15707cb84bf4438",
+    "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+    "summary": "Four of Khalil al-Hayya's other sons were previously killed by Israeli forces, according to the Palestinian group.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+    "publishedAt": "2026-11-27T19:53:25.000Z"
   },
   {
     "id": "746e9365346309be",
@@ -1276,77 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqzr56ny5rkpo",
     "publishedAt": "2026-11-27T06:07:11.000Z"
-  },
-  {
-    "id": "2bb6fb569f60960a",
-    "title": "'We feed and wash her': Severe ME leaves woman bedbound for five years",
-    "summary": "Shauna Chambers says her partner Row was “full of energy” but now cannot tolerate light or noise.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg2d9dxdjdo",
-    "publishedAt": "2026-11-27T06:06:31.000Z"
-  },
-  {
-    "id": "c49b6779cb751643",
-    "title": "Houthi attacks test Saudi Arabia's image of security",
-    "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo",
-    "publishedAt": "2026-11-27T06:04:51.000Z"
-  },
-  {
-    "id": "675daf3a253b9f88",
-    "title": "Leaders clash in final Spain election debate as housing dominates run-in",
-    "summary": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o",
-    "publishedAt": "2026-11-27T06:03:39.000Z"
-  },
-  {
-    "id": "f03baaa219c7c487",
-    "title": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
-    "summary": "What started as one artist’s response to being cut out of a music video has exploded, becoming a driving force in Nigeria’s cultural landscape.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
-    "publishedAt": "2026-11-27T06:00:56.000Z"
-  },
-  {
-    "id": "61abe77368d23f08",
-    "title": "Up to 1.4m UK workers risk missing out on zero-hours shake-up, say unions",
-    "summary": "Andy Burnham is warned against calls from bosses to water down employment rights legislation.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up",
-    "publishedAt": "2026-11-27T06:00:55.000Z"
-  },
-  {
-    "id": "0dcb7a3b4f830f08",
-    "title": "Reform UK pledges to scrap hospital parking fees in England",
-    "summary": "The party says it would compensate NHS trusts for lost fees by charging foreign nationals more for care.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw62pn8mdn39o",
-    "publishedAt": "2026-11-27T06:00:41.000Z"
-  },
-  {
-    "id": "97bd403ec9eae00f",
-    "title": "India’s Pant plays for New Zealand side under false name ‘Stan Stan’",
-    "summary": "Rishabh Pant plays for Open House Swingers in New Zealand on eve of second Test as India wicketkeeper uses false name.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/27/indias-pant-plays-for-new-zealand-side-under-false-name-stan-stan?traffic_source=rss",
-    "publishedAt": "2026-11-27T06:00:39.000Z"
-  },
-  {
-    "id": "d990381e837ba7b2",
-    "title": "Spain’s 2026 election explained in maps and charts",
-    "summary": "Spaniards vote on November 29 in a snap general election. Here is how the system works, the parties and the key issues.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts?traffic_source=rss",
-    "publishedAt": "2026-11-27T05:57:37.000Z"
   }
 ]
