@@ -1,5 +1,50 @@
 [
   {
+    "id": "ce45c37be9fbbec3",
+    "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+    "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o",
+    "publishedAt": "2026-11-27T23:02:35.000Z"
+  },
+  {
+    "id": "0f70a37bd23c8229",
+    "title": "Charity set up by Captain Tom Moore’s family applies to be struck off",
+    "summary": "Watchdog had found ‘repeated’ misconduct by veteran’s daughter and her husband in running the foundation.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/27/charity-set-up-by-captain-tom-moores-family-applies-to-be-struck-off",
+    "publishedAt": "2026-11-27T23:02:04.000Z"
+  },
+  {
+    "id": "700060f62ce75b38",
+    "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
+    "summary": "Paul Mackenzie, already serving 200 years, is the founder and pastor of the Good News International Church.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
+    "publishedAt": "2026-11-27T22:33:17.000Z"
+  },
+  {
+    "id": "3499cb289cfd16c7",
+    "title": "Prosecutors ask for 25 years for man who sold products used by 93 to kill themselves",
+    "summary": "Prosecutors sought a 25-year prison sentence for a Canadian man who sold products online knowing buyers were likely to use them to kill themselves.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/prosecutors-25-years-canadian-man-sold-products-93-138487262",
+    "publishedAt": "2026-11-27T22:26:26.000Z"
+  },
+  {
+    "id": "3aeba5acc6f23091",
+    "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+    "summary": "The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+    "publishedAt": "2026-11-27T22:22:02.000Z"
+  },
+  {
     "id": "38f6415aa1a89bab",
     "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
     "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
@@ -1107,6 +1152,15 @@
     "publishedAt": "2026-11-27T08:57:37.000Z"
   },
   {
+    "id": "4c3f9c9c105fe0aa",
+    "title": "Sony's 1999 robot dog toys rehomed in Japan hospitals to offer companionship",
+    "summary": "Packed with sensors and digital cameras, this digital puppy has been programmed to remember its name, the owner's face and its surroundings.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-27/sony-s-dog-robot-aibo-gets-rehomed-to-hospitals/107436690",
+    "publishedAt": "2026-11-27T08:50:10.000Z"
+  },
+  {
     "id": "5cfd9d09f87a1b32",
     "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
     "summary": "Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project.",
@@ -1294,59 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/27/messi-confirms-tevez-testimonial-as-ronaldo-showdown-in-offing?traffic_source=rss",
     "publishedAt": "2026-11-27T06:54:12.000Z"
-  },
-  {
-    "id": "f01312482bbcc169",
-    "title": "French, Bulgarian presidents slam Marseille violence, five fans in hospital",
-    "summary": "French and Bulgarian presidents slam Marseille fans after violent scenes in UEFA Europa League match with Levski Sofia.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/27/french-bulgarian-presidents-slam-marseille-violence-five-fans-in-hospital?traffic_source=rss",
-    "publishedAt": "2026-11-27T06:37:34.000Z"
-  },
-  {
-    "id": "c3b06fcc89e00168",
-    "title": "‘Absolute jerk’: police investigating after 500-year-old ‘King Jarrah’ tree chainsawed in WA national park",
-    "summary": "Western Australian authorities are scrambling to save the ‘iconic’ 36-metre tree in Wellington national park south of Perth.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/27/wa-police-investigating-after-iconic-500-year-old-king-jarrah-tree-chainsawed-in-national-park",
-    "publishedAt": "2026-11-27T06:36:40.000Z"
-  },
-  {
-    "id": "be35e264d6e6e97e",
-    "title": "‘You can’t stop it’: Indians embrace Pakistani dramas, defying bans",
-    "summary": "India has tried to keep Pakistani dramas off its screens since May 2025. But Indians can't get enough of these shows.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/you-cant-stop-it-indians-embrace-pakistani-dramas-defying-bans?traffic_source=rss",
-    "publishedAt": "2026-11-27T06:31:28.000Z"
-  },
-  {
-    "id": "7c1276f2b258cfe6",
-    "title": "Floating nature islands installed in parks as Glasgow Games legacy",
-    "summary": "The islands, being planted in five Glasgow parks, are designed to encourage wildlife and help clean the water.",
-    "category": "Science",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo",
-    "publishedAt": "2026-11-27T06:19:13.000Z"
-  },
-  {
-    "id": "251c853bebc81eff",
-    "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
-    "summary": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit",
-    "publishedAt": "2026-11-27T06:12:45.000Z"
-  },
-  {
-    "id": "7cf843e8ef07685c",
-    "title": "EU leaders fail to bridge budget splits as talks stall",
-    "summary": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno",
-    "publishedAt": "2026-11-27T06:11:55.000Z"
   }
 ]
