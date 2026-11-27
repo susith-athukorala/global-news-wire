@@ -1,5 +1,131 @@
 [
   {
+    "id": "059142103be3899f",
+    "title": "US shoppers get ready for Black Friday and Cyber Monday",
+    "summary": "Cyber Monday and Black Friday compete for shoppers, but discounts on electronics may peak after the weekend frenzy.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/27/us-shoppers-get-ready-for-black-friday-and-cyber-monday?traffic_source=rss",
+    "publishedAt": "2026-11-27T10:59:27.000Z"
+  },
+  {
+    "id": "7a834e81d48a39e5",
+    "title": "King tides batter US coasts as storms threaten Thanksgiving celebrations",
+    "summary": "Heavy rain, strong winds and coastal flooding creating hazardous conditions for millions travelling for holiday.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/king-tides-us-coasts-storms-threaten-thanksgiving-celebrations",
+    "publishedAt": "2026-11-27T10:50:48.000Z"
+  },
+  {
+    "id": "82175c9f69e3ecc6",
+    "title": "Man United vs Brentford: Premier League – Pochettino, predictions, lineups",
+    "summary": "Relegation-threatened Manchester United host Brentford in new manager Mauricio Pochettino's first home game in charge.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/27/manchester-united-brentford-pochettino-first-home-game-premier-league-football?traffic_source=rss",
+    "publishedAt": "2026-11-27T10:48:54.000Z"
+  },
+  {
+    "id": "d1c4fb1f29a3fdf6",
+    "title": "Israeli justice system at tipping point as judges call for end to Netanyahu trial",
+    "summary": "Dropping of corruption charges against PM after highly unusual intervention could set damaging precedent.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/27/israeli-justice-system-judges-call-drop-netanyahu-charges",
+    "publishedAt": "2026-11-27T10:48:29.000Z"
+  },
+  {
+    "id": "35d734d346a7a2ae",
+    "title": "For whom the bells troll: French town divided over church’s night-time chimes",
+    "summary": "Long-time residents of La Garnache defeat newer neighbours in latest rural culture clash over ‘sensory heritage’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/27/for-whom-the-bells-troll-french-town-divided-over-churchs-night-time-chimes",
+    "publishedAt": "2026-11-27T10:46:57.000Z"
+  },
+  {
+    "id": "9120d65b28a9dc18",
+    "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+    "summary": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo",
+    "publishedAt": "2026-11-27T10:39:31.000Z"
+  },
+  {
+    "id": "4dc1a8ffe2d44ac6",
+    "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
+    "summary": "Sanctions aim to restrict funds for two men alleged to have planned attacks for IRGC.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
+    "publishedAt": "2026-11-27T10:31:20.000Z"
+  },
+  {
+    "id": "5995c97398e1b30b",
+    "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+    "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o",
+    "publishedAt": "2026-11-27T10:28:35.000Z"
+  },
+  {
+    "id": "522fd4fc26554e58",
+    "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+    "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo",
+    "publishedAt": "2026-11-27T10:26:28.000Z"
+  },
+  {
+    "id": "d0772a5b79e14123",
+    "title": "Why does Elon Musk want to put a million satellite data centres in space?",
+    "summary": "The US FCC authorised the plan on Wednesday, calling it a first in the history of the country.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss",
+    "publishedAt": "2026-11-27T10:20:17.000Z"
+  },
+  {
+    "id": "4e2852ca03ebd5d7",
+    "title": "‘I cannot go to work’: Iranians contend with pollution as well as US war",
+    "summary": "Hospital admissions for respiratory ailments have soared as the winter smog sets in.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/27/i-cannot-go-to-work-iranians-contend-with-pollution-as-well-as-us-war?traffic_source=rss",
+    "publishedAt": "2026-11-27T10:15:44.000Z"
+  },
+  {
+    "id": "a709bb2b251cd816",
+    "title": "GTA in Istanbul? Meet the game developers bringing virtual crime chaos to their home cities",
+    "summary": "From Helsinki to Istanbul, independent developers are putting Grand Theft Auto-style action on their home streets, and without billion-dollar budgets. They tell us how they do it.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/27/gta-grand-theft-auto-clones",
+    "publishedAt": "2026-11-27T10:15:20.000Z"
+  },
+  {
+    "id": "c877411ed27526d9",
+    "title": "Labour backs bill to stop lawsuits used to silence journalists and whistleblowers",
+    "summary": "Anti-Slapps campaigners criticise draft bill, saying process of dismissing claims will be challenging and costly.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/27/labour-backs-bill-lawsuits-journalists-whistleblowers-slapps",
+    "publishedAt": "2026-11-27T10:14:03.000Z"
+  },
+  {
+    "id": "d70d7adebc0b3cff",
+    "title": "India busts cyberfraud and trafficking network rescuing 164 foreigners",
+    "summary": "Lured by IT job promises, the victims were allegedly forced into cybercrime, police say.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo",
+    "publishedAt": "2026-11-27T10:01:07.000Z"
+  },
+  {
     "id": "21800f865bba1aea",
     "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
     "summary": "Labor leaders and advocates urge protections for workers and consumers as AI use becomes more commonplace.",
@@ -45,6 +171,15 @@
     "publishedAt": "2026-11-27T09:45:53.000Z"
   },
   {
+    "id": "9ffd3c982c9bbeff",
+    "title": "Is it a cold, flu or Covid? How to tell the difference",
+    "summary": "How to tell if you have cold, flu or Covid and how to look after yourself.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cly1rryv2ryo",
+    "publishedAt": "2026-11-27T09:43:38.000Z"
+  },
+  {
     "id": "5495dc7c761fcd37",
     "title": "Democrats want to end Trump’s Iran war. But how different are they?",
     "summary": "Decades of bipartisan pressure on Tehran raises questions about how far Democrats are willing to change US policy.",
@@ -88,6 +223,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss",
     "publishedAt": "2026-11-27T08:57:37.000Z"
+  },
+  {
+    "id": "5cfd9d09f87a1b32",
+    "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
+    "summary": "Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
+    "publishedAt": "2026-11-27T08:39:59.000Z"
   },
   {
     "id": "f48d0ef816067cd5",
@@ -160,6 +304,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
     "publishedAt": "2026-11-27T07:53:33.000Z"
+  },
+  {
+    "id": "6895b8965631ea22",
+    "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+    "summary": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po",
+    "publishedAt": "2026-11-27T07:28:10.000Z"
   },
   {
     "id": "c24d45a42f437cc4",
@@ -297,6 +450,15 @@
     "publishedAt": "2026-11-27T06:12:45.000Z"
   },
   {
+    "id": "7cf843e8ef07685c",
+    "title": "EU leaders fail to bridge budget splits as talks stall",
+    "summary": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno",
+    "publishedAt": "2026-11-27T06:11:55.000Z"
+  },
+  {
     "id": "954e1940a384d087",
     "title": "Council to set London's highest littering fines",
     "summary": "Fines for littering will rise from £500 to £750 in Harrow, while fly-tipping will see a £5,000 penalty.",
@@ -331,6 +493,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo",
     "publishedAt": "2026-11-27T06:04:51.000Z"
+  },
+  {
+    "id": "675daf3a253b9f88",
+    "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+    "summary": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o",
+    "publishedAt": "2026-11-27T06:03:39.000Z"
   },
   {
     "id": "f03baaa219c7c487",
@@ -376,6 +547,24 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts?traffic_source=rss",
     "publishedAt": "2026-11-27T05:57:37.000Z"
+  },
+  {
+    "id": "c30e72467c0aab5d",
+    "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
+    "summary": "Erin Patterson is serving life in prison for poisoning her relatives with a toxic mushroom lunch in 2023.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o",
+    "publishedAt": "2026-11-27T05:54:38.000Z"
+  },
+  {
+    "id": "a66cd13cf5eafbdd",
+    "title": "Venezuela to scrap law that bars opposition from public office",
+    "summary": "The legislation has been criticised for enabling political persecution since it was introduced two years ago.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo",
+    "publishedAt": "2026-11-27T05:35:10.000Z"
   },
   {
     "id": "bb052517ef527867",
@@ -1159,194 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
     "publishedAt": "2026-11-26T17:38:02.000Z"
-  },
-  {
-    "id": "0b5ec3a067b69679",
-    "title": "When will Poundland shops close? Five key questions answered",
-    "summary": "Why is Poundland closing down, and what will happen to staff and suppliers?",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo",
-    "publishedAt": "2026-11-26T17:21:21.000Z"
-  },
-  {
-    "id": "98f0fe36a4953c95",
-    "title": "French actor Gerard Depardieu to stand trial for alleged 2018 rape",
-    "summary": "Paris court of appeal dismisses allegations relating to a second incident involving actress Charlotte Arnould.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss",
-    "publishedAt": "2026-11-26T17:18:24.000Z"
-  },
-  {
-    "id": "db3f3469e61a6628",
-    "title": "Public service broadcaster services should be top of TV app menus – Ofcom",
-    "summary": "UK regulator’s code of practice on streaming platforms is intended to give prominence to iPlayer and similar offerings.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom",
-    "publishedAt": "2026-11-26T17:09:14.000Z"
-  },
-  {
-    "id": "f1f5d0dd1d416a57",
-    "title": "US army calls detonation of bomb chemicals in Iowa a success after fears of toxic plume",
-    "summary": "The army blows up US stockpile of lead azide, a chemical used for explosives, to avoid uncontrollable explosion.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/26/iowa-chemical-lead-bomb-detonation-toxic-dust-fears",
-    "publishedAt": "2026-11-26T17:05:02.000Z"
-  },
-  {
-    "id": "a1d4170df996e23f",
-    "title": "Trump urges Putin to end Ukraine 'bloodbath'",
-    "summary": "US President Donald Trump describes the war in Ukraine as a complete bloodbath and urges Vladimir Putin to help end the conflict sooner.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-27/trump-urges-putin-to-pull-back-military-aggression/107433138",
-    "publishedAt": "2026-11-26T17:03:08.000Z"
-  },
-  {
-    "id": "6c6e2b62768821c7",
-    "title": "UK bill to implement EU deal will allow ministers to enact closer ties in future",
-    "summary": "Further deals can be enacted via same legislation, though it excludes rejoining single market, customs union or bloc as a whole.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/26/uk-bill-to-implement-eu-deal-closer-future-ties",
-    "publishedAt": "2026-11-26T17:00:52.000Z"
-  },
-  {
-    "id": "49e7127f5414f858",
-    "title": "How a teen’s death raises questions about Colombia’s security crackdown",
-    "summary": "President Abelardo de la Espriella's campaign against armed groups has resulted in accusations of extrajudicial killing.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
-    "publishedAt": "2026-11-26T16:49:59.000Z"
-  },
-  {
-    "id": "7dba987dbfb59263",
-    "title": "Spain's former central bank head chosen as next European Central Bank president",
-    "summary": "Eurozone leaders have chosen a new president of the European Central Bank.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/leaders-choose-spains-former-central-bank-head-european-138468703",
-    "publishedAt": "2026-11-26T16:48:04.000Z"
-  },
-  {
-    "id": "e4b88749f11b56b0",
-    "title": "Building collapse in Pakistan kills 4, with 17 still missing",
-    "summary": "A six-story building under construction collapsed in Karachi on Wednesday, killing at least four people.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/building-collapse-pakistan-kills-4-17-missing-138463814",
-    "publishedAt": "2026-11-26T16:47:13.000Z"
-  },
-  {
-    "id": "3db0b7c1c9b46114",
-    "title": "Emirati curator Hoor Al Qasimi becomes first Arab woman to lead Venice Biennale art show",
-    "summary": "Hoor Al Qasimi has been named as the first Arab and seventh woman to lead the Venice Biennale contemporary art exhibition, set for 2028.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/emirati-curator-hoor-al-qasimi-arab-woman-lead-138467614",
-    "publishedAt": "2026-11-26T16:45:48.000Z"
-  },
-  {
-    "id": "d532e9d241420e3d",
-    "title": "On Greece's most glamorous island, faith and tradition endure with a celebration of its women",
-    "summary": "The Greek island of Mykonos honored its matriarchal heritage with a celebration of St. Catherine, considered a symbol of courage and wisdom for generations of its women.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/greeces-glamorous-island-faith-tradition-endure-celebration-women-138462333",
-    "publishedAt": "2026-11-26T16:42:22.000Z"
-  },
-  {
-    "id": "ad5279f11e867c3a",
-    "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
-    "summary": "The Italians were technicians working at an air-defence surveillance station.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
-    "publishedAt": "2026-11-26T16:32:31.000Z"
-  },
-  {
-    "id": "7a8247f8440c87a7",
-    "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-    "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo",
-    "publishedAt": "2026-11-26T16:21:19.000Z"
-  },
-  {
-    "id": "96ef845be4b07adc",
-    "title": "Spanish economist to become new European Central Bank chief",
-    "summary": "French President Emmanuel Macron announces on X that EU leaders have agreed on the appointment of Pablo Hernandez de Cos.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
-    "publishedAt": "2026-11-26T16:20:54.000Z"
-  },
-  {
-    "id": "11e0cf03506c5776",
-    "title": "Georgia judge blocks own order to turn over US election ballot copies to state board",
-    "summary": "Superior court judge Kelly Lee Ellerbe paused the order after county election officials filed a notice of appeal.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/26/georgia-election-ballots-seized",
-    "publishedAt": "2026-11-26T16:08:04.000Z"
-  },
-  {
-    "id": "32e556af0718b258",
-    "title": "Pep Guardiola calls on world to ‘disobey horror’ over Gaza and praises BDS",
-    "summary": "Football icon says it is more urgent than ever to demand an end to Israel's 'apartheid, colonialism and occupation'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/26/pep-guardiola-calls-on-world-to-disobey-horror-over-gaza-and-praises-bds?traffic_source=rss",
-    "publishedAt": "2026-11-26T15:53:32.000Z"
-  },
-  {
-    "id": "6bea022519c46aa3",
-    "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
-    "summary": "Sheikh Tamim bin Hamad Al Thani is in Cairo for an official visit aimed at further strengthening bilateral relations.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
-    "publishedAt": "2026-11-26T15:45:59.000Z"
-  },
-  {
-    "id": "c00b18ff3f3b67b6",
-    "title": "Politician hosts 400,000 guests at daughter’s wedding in India’s poorest state",
-    "summary": "Six helipads built and feast prepared by 500 cooks for wedding hosted by Anant Singh, an MP charged with murder.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/26/india-anant-singh-hosts-400000-guests-wedding-guests-daughter",
-    "publishedAt": "2026-11-26T15:41:42.000Z"
-  },
-  {
-    "id": "f0b0388890416d30",
-    "title": "Man found guilty of attempted murder of seven people on LNER train",
-    "summary": "Jury still deliberating on seven other counts against Anthony Williams.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/26/anthony-williams-guilty-attempted-murder-lner-train",
-    "publishedAt": "2026-11-26T15:37:36.000Z"
-  },
-  {
-    "id": "cb4c4139de5a29d9",
-    "title": "Two Italians killed after Iranian strike in Kuwait",
-    "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o",
-    "publishedAt": "2026-11-26T15:36:08.000Z"
-  },
-  {
-    "id": "15f0396d391f3882",
-    "title": "Storms across US disrupt travel and force Thanksgiving parade cancellations",
-    "summary": "The New York governor declares a state of emergency in several parts of the state due to severe weather.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather",
-    "publishedAt": "2026-11-26T15:33:21.000Z"
   }
 ]
