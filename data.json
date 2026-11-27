@@ -1,5 +1,14 @@
 [
   {
+    "id": "d0f1193933c88892",
+    "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+    "summary": "Voters will decide on Saturday whether to scrap the country's 'nuclear-free homeland' policy.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+    "publishedAt": "2026-11-27T23:09:04.000Z"
+  },
+  {
     "id": "ce45c37be9fbbec3",
     "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
     "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
@@ -810,6 +819,15 @@
     "publishedAt": "2026-11-27T11:44:46.000Z"
   },
   {
+    "id": "4eb58e3792453db7",
+    "title": "Zelenskyy says Trump's relationship with Putin like being friends with Hitler",
+    "summary": "Kyiv is becoming increasingly frustrated by US President Donald Trump's relationship with Vladimir Putin as it urges allies to stand up to the Russian president.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-27/zelenskyy-says-trump-putin-relationship-like-being-friend-hitler/107437062",
+    "publishedAt": "2026-11-27T11:41:15.000Z"
+  },
+  {
     "id": "8690dea523caf3a7",
     "title": "Old wounds reopen as Kyrgyzstan’s Osh embraces a new urban project",
     "summary": "Redevelopment reshapes the city, but some worry as residents are displaced and cultural heritage appears at risk.",
@@ -1330,23 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c9zr5681k382o",
     "publishedAt": "2026-11-27T06:59:28.000Z"
-  },
-  {
-    "id": "bdeb1d8cdbd33cc6",
-    "title": "Grace Tame calls out ex-Murdoch media executive who said she ‘must be looking to be raped again’",
-    "summary": "Matt Handbury, nephew of Rupert Murdoch, admits making offensive remark and says he was referencing assault survivor’s ‘strikingly attractive get-up’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/27/grace-tame-responds-former-murdoch-executive-nephew-rape-comment-ntwnfb",
-    "publishedAt": "2026-11-27T06:54:59.000Z"
-  },
-  {
-    "id": "12a7c6353db94795",
-    "title": "Messi confirms Tevez testimonial as Ronaldo showdown in offing",
-    "summary": "Argentina footballer Lionel Messi confirms testimonial game for Carlos Tevez, with Cristiano Ronaldo role also sought.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/27/messi-confirms-tevez-testimonial-as-ronaldo-showdown-in-offing?traffic_source=rss",
-    "publishedAt": "2026-11-27T06:54:12.000Z"
   }
 ]
