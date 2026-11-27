@@ -1,5 +1,50 @@
 [
   {
+    "id": "666f43bd74281a99",
+    "title": "Threat from China looms large over Taiwan’s local elections",
+    "summary": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+    "publishedAt": "2026-11-27T01:00:49.000Z"
+  },
+  {
+    "id": "36a20150712c1008",
+    "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+    "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo",
+    "publishedAt": "2026-11-27T00:54:45.000Z"
+  },
+  {
+    "id": "62f9bd8e4ec56be3",
+    "title": "The young hikers finding friendship and fresh air offline",
+    "summary": "From hiking in the Peak District hills to the city parks of Leicester - we talk to several young people who've embraced walking groups and feel better for it.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o",
+    "publishedAt": "2026-11-27T00:52:34.000Z"
+  },
+  {
+    "id": "1492ded850278a58",
+    "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+    "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o",
+    "publishedAt": "2026-11-27T00:48:11.000Z"
+  },
+  {
+    "id": "0465599bc4f2cbbf",
+    "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+    "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cx30g71rev23o",
+    "publishedAt": "2026-11-27T00:47:43.000Z"
+  },
+  {
     "id": "58f49e9a0ea587d3",
     "title": "Argentina bars Central Bank from printing money to fund government spending",
     "summary": "The South American country's Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
@@ -7,6 +52,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
     "publishedAt": "2026-11-27T00:11:16.000Z"
+  },
+  {
+    "id": "c627f9d2bb3a056e",
+    "title": "Qantas and Air New Zealand planes too close at Sydney airport as ‘mental models’ of flight crews to be investigated",
+    "summary": "Aborted descent on Wednesday morning is latest in a series of landing incidents at Sydney airport.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation",
+    "publishedAt": "2026-11-27T00:10:55.000Z"
   },
   {
     "id": "8b830f37b04abf68",
@@ -34,6 +88,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/27/nearly-half-of-ethnic-minority-people-in-uk-have-faced-racism-at-work-in-last-year-survey-finds",
     "publishedAt": "2026-11-27T00:01:47.000Z"
+  },
+  {
+    "id": "0c4b0e052976bb05",
+    "title": "Sam Wood to spend Christmas in jail after again being denied bail over alleged assault of wife Snezana",
+    "summary": "Former Bachelor star and fitness influencer stands accused of assaulting wife at Noosa in Queensland during family holiday in October.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/27/sam-wood-denied-bail-alleged-assault-queensland-ntwnfb",
+    "publishedAt": "2026-11-26T23:54:28.000Z"
   },
   {
     "id": "92bd584fd1f08f7a",
@@ -223,6 +286,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/mexican-president-blasts-dea-tip-lines-accusing-fighting-138471560",
     "publishedAt": "2026-11-26T20:02:26.000Z"
+  },
+  {
+    "id": "aeadbb081ac99591",
+    "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+    "summary": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+    "publishedAt": "2026-11-26T20:01:47.000Z"
   },
   {
     "id": "78edf621e9cfa0f0",
@@ -1026,6 +1098,15 @@
     "publishedAt": "2026-11-26T12:24:29.000Z"
   },
   {
+    "id": "4a218a47efce6d99",
+    "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
+    "summary": "Exclusive: Investigation finds at least 25 cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
+    "publishedAt": "2026-11-26T12:19:37.000Z"
+  },
+  {
     "id": "e64ba674ef99bce5",
     "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
     "summary": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
@@ -1267,86 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o",
     "publishedAt": "2026-11-26T11:00:39.000Z"
-  },
-  {
-    "id": "7a24f698eb938355",
-    "title": "Kilmar Ábrego García leaves for Spain. But the Trump administration got what it wanted",
-    "summary": "His departure ends a high-profile legal battle over due process and deportation, but leaves the Trump administration facing little accountability for its actions.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/26/kilmar-abrego-garcia-spain-departure-trump",
-    "publishedAt": "2026-11-26T11:00:33.000Z"
-  },
-  {
-    "id": "66f84d71ac4745f1",
-    "title": "Ministers ‘fail to make case’ for Heathrow third runway, MPs report says",
-    "summary": "Transport committee says policy papers show expanding airport would fall short of pledges on economy and climate.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
-    "publishedAt": "2026-11-26T11:00:32.000Z"
-  },
-  {
-    "id": "d55f2bd937d7f8cb",
-    "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-    "summary": "Officials say no lead has been detected in the surrounding area, which continues to be tested following concerns from locals.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
-    "publishedAt": "2026-11-26T10:38:35.000Z"
-  },
-  {
-    "id": "864fb771cfdb87e7",
-    "title": "Thanksgiving dinner costs rise, putting pressure on US households",
-    "summary": "Turkeys see a 26-percent price rise, forcing families to reconsider hosting and opt for potluck-style celebrations.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/26/thanksgiving-dinner-costs-rise-putting-pressure-on-us-households?traffic_source=rss",
-    "publishedAt": "2026-11-26T10:30:00.000Z"
-  },
-  {
-    "id": "dd9d7811d80ed709",
-    "title": "Palestine coach says team represents suffering but also offers hope",
-    "summary": "Despite navigating personal hardships, Ihab Abu Jazar calls it a 'badge of honour' to coach the Palestine football team.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/26/palestine-national-football-team-coach-suffering-hope?traffic_source=rss",
-    "publishedAt": "2026-11-26T10:28:51.000Z"
-  },
-  {
-    "id": "1267cc1bc427f22f",
-    "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-    "summary": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo",
-    "publishedAt": "2026-11-26T10:25:51.000Z"
-  },
-  {
-    "id": "7435a17464db2156",
-    "title": "Paul Whitehouse urges PM to act over ‘imminent extinction’ of Windermere’s ice-age fish",
-    "summary": "Experts say arctic char threatened by pollution in England’s biggest lake as comedian unveils sculpture.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/26/burnham-urged-to-act-extinction-windemere-arctic-char-paul-whitehouse",
-    "publishedAt": "2026-11-26T10:25:12.000Z"
-  },
-  {
-    "id": "1c9a3da20bea4ccf",
-    "title": "Kenya gov’t violated constitution with Ebola quarantine site, court says",
-    "summary": "Kenya's High Court orders halt to ⁠further works at quarantine facility until details of deal with US are disclosed.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/kenya-govt-violated-constitution-with-ebola-quarantine-site-court-says?traffic_source=rss",
-    "publishedAt": "2026-11-26T10:20:05.000Z"
-  },
-  {
-    "id": "05aab9fe7b4acaa6",
-    "title": "What's gone wrong at Poundland?",
-    "summary": "Poundland has collapse into administration. Why?",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
-    "publishedAt": "2026-11-26T10:15:47.000Z"
   }
 ]
