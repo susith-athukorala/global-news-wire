@@ -1,5 +1,41 @@
 [
   {
+    "id": "6fad8c983f1e51a6",
+    "title": "Alan Jones defence opens and closes in space of a few hours as indecent assault trial draws to a close",
+    "summary": "Former broadcaster, 85, has pleaded not guilty to 21 counts of sexual touching and indecent assault.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/27/alan-jones-trial-defence-open-and-close-ntwnfb",
+    "publishedAt": "2026-11-27T05:02:40.000Z"
+  },
+  {
+    "id": "48d240513d08da0d",
+    "title": "Race hate exploded in this Spanish town last year. Now its residents are bracing for more",
+    "summary": "Torre-Pacheco’s diverse communities are fearful that the far-right Vox party will enter government after Sunday’s election.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe",
+    "publishedAt": "2026-11-27T05:00:55.000Z"
+  },
+  {
+    "id": "eb58fc1d09023af2",
+    "title": "Former RAAF pilot convicted of murder after staging wife’s death as lawnmower accident",
+    "summary": "Brisbane supreme court jury finds Robert John Crawford guilty of murder after he stood to lose financially in divorce settlement.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb",
+    "publishedAt": "2026-11-27T04:56:32.000Z"
+  },
+  {
+    "id": "791eae3da18d74eb",
+    "title": "Thanksgiving storms leave nearly a million without power across the US",
+    "summary": "Severe weather across the US causes outages and flight delays as families and friends gather for the annual holiday.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us?traffic_source=rss",
+    "publishedAt": "2026-11-27T04:34:43.000Z"
+  },
+  {
     "id": "8526433dd3f9d8d2",
     "title": "Meet the rising mayoral candidate in Taiwan who's also sanctioned by China",
     "summary": "Puma Shen is gaining unexpected popularity as an opposition candidate in Taiwan's capital.",
@@ -7,6 +43,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/meet-rising-mayoral-candidate-taiwan-sanctioned-china-138473812",
     "publishedAt": "2026-11-27T04:07:06.000Z"
+  },
+  {
+    "id": "d0228671f3c2b32d",
+    "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+    "summary": "It remains unclear who carried out the attack on Niger's National Guard in Tillaberi, near the Mali border.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+    "publishedAt": "2026-11-27T04:06:52.000Z"
   },
   {
     "id": "17c4524e951ae85a",
@@ -297,6 +342,15 @@
     "publishedAt": "2026-11-26T22:06:24.000Z"
   },
   {
+    "id": "52b7a9a7304a9ffa",
+    "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+    "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do",
+    "publishedAt": "2026-11-26T22:01:22.000Z"
+  },
+  {
     "id": "452003268bcdba9c",
     "title": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
     "summary": "Fire chiefs say large swathes of the country are at risk from fires driven by high fuel loads, dry soil and hot weather.",
@@ -304,6 +358,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
     "publishedAt": "2026-11-26T21:33:36.000Z"
+  },
+  {
+    "id": "f446a8ea2d38d78a",
+    "title": "Major Thanksgiving storms inundate US with heavy rain, wind and flooding",
+    "summary": "Nearly 200,000 homes and businesses have lost power in Virginia and another 177,000 in Maryland, with flights also affected.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-27/thanksgiving-floods-storms-across-us/107433308",
+    "publishedAt": "2026-11-26T21:25:11.000Z"
   },
   {
     "id": "a310de02a1917f42",
@@ -1285,68 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/games/2026/nov/26/dressmaker-review-delightful-business-sim-is-a-cut-above",
     "publishedAt": "2026-11-26T12:00:34.000Z"
-  },
-  {
-    "id": "fd1738420d67e108",
-    "title": "Manchester United, Liverpool and Spurs using same law firm to set up legal claim against City",
-    "summary": "Manchester United, Liverpool and Tottenham are using the same law firm to prepare a legal claim against Manchester City for breaking the Premier League’s financial rules that could be worth hundreds of millions of pounds.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
-    "publishedAt": "2026-11-26T12:00:34.000Z"
-  },
-  {
-    "id": "273d40f978e767fd",
-    "title": "Faulty electrical goods returned to UK supermarkets ending up on Ghana ‘megadump’",
-    "summary": "Mountains of household items are burned and stripped down at the tip by workers without protection such as masks, investigation alleges.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/26/ghana-waste-tip-faulty-electrical-goods-uk-supermarkets-returns",
-    "publishedAt": "2026-11-26T12:00:34.000Z"
-  },
-  {
-    "id": "5a1a127b274b4f8b",
-    "title": "Suit alleges Louisiana land deal between SpaceX and ExxonMobil violates open meetings law",
-    "summary": "Suit says parish board was manipulated to allow deal to go through and settlement agreement hidden from public.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/26/louisiana-spacex-exxonmobil-land-deal-lawsuit",
-    "publishedAt": "2026-11-26T12:00:33.000Z"
-  },
-  {
-    "id": "27d0f525dd6c195a",
-    "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
-    "summary": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-    "publishedAt": "2026-11-26T12:00:22.000Z"
-  },
-  {
-    "id": "61461831b970e0c3",
-    "title": "James ‘Fergie’ Chambers: US trying to cast ‘antiwar ideas as extremist’",
-    "summary": "Recently bailed activist denies accusations of supporting Hamas, claiming he is being punished for supporting Palestine.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/james-fergie-chambers-us-trying-to-cast-antiwar-ideas-as-extremist?traffic_source=rss",
-    "publishedAt": "2026-11-26T11:56:53.000Z"
-  },
-  {
-    "id": "15a397eed6b4a336",
-    "title": "Antisemitism adviser to launch inquiry into ‘hostile work environment’ at BBC",
-    "summary": "John Mann says decision comes after hearing ‘disturbing’ accounts by Jewish staff about discrimination against them.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/26/antisemitism-adviser-to-launch-inquiry-into-hostile-work-environment-at-bbc",
-    "publishedAt": "2026-11-26T11:49:59.000Z"
-  },
-  {
-    "id": "c8cf0b07233b3108",
-    "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-    "summary": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo",
-    "publishedAt": "2026-11-26T11:43:38.000Z"
   }
 ]
