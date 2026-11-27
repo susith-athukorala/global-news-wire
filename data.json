@@ -1,5 +1,95 @@
 [
   {
+    "id": "954e1940a384d087",
+    "title": "Council to set London's highest littering fines",
+    "summary": "Fines for littering will rise from £500 to £750 in Harrow, while fly-tipping will see a £5,000 penalty.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckj0590g84nno",
+    "publishedAt": "2026-11-27T06:11:37.000Z"
+  },
+  {
+    "id": "55976a47d7c7e949",
+    "title": "The food bank helping pet owners with rising bills",
+    "summary": "RSPCA hands out food, vet vouchers, cat litter and toys to pet owners struggling with bills.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o",
+    "publishedAt": "2026-11-27T06:11:13.000Z"
+  },
+  {
+    "id": "f7e2dc656649e11d",
+    "title": "Nature walks 'another tool' in mental health fight",
+    "summary": "The Hope Haven hub is encouraging people to step outside in an effort to improve their well-being.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqzr56ny5rkpo",
+    "publishedAt": "2026-11-27T06:07:11.000Z"
+  },
+  {
+    "id": "f03baaa219c7c487",
+    "title": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+    "summary": "What started as one artist’s response to being cut out of a music video has exploded, becoming a driving force in Nigeria’s cultural landscape.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
+    "publishedAt": "2026-11-27T06:00:56.000Z"
+  },
+  {
+    "id": "61abe77368d23f08",
+    "title": "Up to 1.4m UK workers risk missing out on zero-hours shake-up, say unions",
+    "summary": "Andy Burnham is warned against calls from bosses to water down employment rights legislation.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up",
+    "publishedAt": "2026-11-27T06:00:55.000Z"
+  },
+  {
+    "id": "0dcb7a3b4f830f08",
+    "title": "Reform UK pledges to scrap hospital parking fees in England",
+    "summary": "The party says it would compensate NHS trusts for lost fees by charging foreign nationals more for care.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw62pn8mdn39o",
+    "publishedAt": "2026-11-27T06:00:41.000Z"
+  },
+  {
+    "id": "97bd403ec9eae00f",
+    "title": "India’s Pant plays for New Zealand side under false name ‘Stan Stan’",
+    "summary": "Rishabh Pant plays for Open House Swingers in New Zealand on eve of second Test as India wicketkeeper uses false name.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/27/indias-pant-plays-for-new-zealand-side-under-false-name-stan-stan?traffic_source=rss",
+    "publishedAt": "2026-11-27T06:00:39.000Z"
+  },
+  {
+    "id": "d990381e837ba7b2",
+    "title": "Spain’s 2026 election explained in maps and charts",
+    "summary": "Spaniards vote on November 29 in a snap general election. Here is how the system works, the parties and the key issues.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts?traffic_source=rss",
+    "publishedAt": "2026-11-27T05:57:37.000Z"
+  },
+  {
+    "id": "bb052517ef527867",
+    "title": "Erin Patterson launches high court appeal bid over mushroom murder convictions",
+    "summary": "Patterson, 52, seeks leave to appeal to Australia’s highest court over deaths of estranged family members after fatal beef wellington lunch.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
+    "publishedAt": "2026-11-27T05:31:38.000Z"
+  },
+  {
+    "id": "385770ce776ff8db",
+    "title": "Israel uses south Lebanon Christian villages to try to divide and conquer",
+    "summary": "Israel is trying to fragment Lebanon by separating its Christian residents in south Lebanon from the rest.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/27/israel-uses-christian-villages-in-southern-lebanon-to-divide-and-conquer?traffic_source=rss",
+    "publishedAt": "2026-11-27T05:27:18.000Z"
+  },
+  {
     "id": "0cb7c489176ae533",
     "title": "Here are the main issues driving Spain's national election and why they matter for Europe",
     "summary": "Spain is to elect a new government on Sunday in a snap election that could unseat Prime Minister Pedro S&aacute;nchez.",
@@ -414,6 +504,15 @@
     "publishedAt": "2026-11-26T20:31:50.000Z"
   },
   {
+    "id": "56636093a8270c58",
+    "title": "Black Friday AI warning",
+    "summary": "Ahead of Victoria's election tomorrow, we have expert analysis on the economic impacts from Daniel Ziffer and Sequoia gets a grilling from the Senate, as did ASIC on how it handles whistleblower reports into the Big 4.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-27/asx-markets-business-news-live-updates/107430390",
+    "publishedAt": "2026-11-26T20:27:46.000Z"
+  },
+  {
     "id": "7793ab8d120e32ac",
     "title": "Musk pledges two SpaceX shares for every US child",
     "summary": "US children would receive one share from SpaceX and one from him personally, Musk said.",
@@ -646,6 +745,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
     "publishedAt": "2026-11-26T17:53:44.000Z"
+  },
+  {
+    "id": "34ecedf13eaf1daf",
+    "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
+    "summary": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan, as Germany tries to protect funding from possible far-right French presidency.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
+    "publishedAt": "2026-11-26T17:51:17.000Z"
   },
   {
     "id": "b158ddd83fcdef71",
@@ -1240,113 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/26/india-anant-singh-hosts-400000-guests-wedding-guests-daughter",
     "publishedAt": "2026-11-26T12:43:10.000Z"
-  },
-  {
-    "id": "fbd503684f002e14",
-    "title": "Huw Edwards to speak about his crimes and fall from grace in Channel 4 documentary",
-    "summary": "It will be the first time the disgraced former BBC presenter has spoken about his 2024 conviction for making indecent images of children.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/26/huw-edwards-documentary-channel-4-crimes-conviction",
-    "publishedAt": "2026-11-26T12:38:40.000Z"
-  },
-  {
-    "id": "5164d19f2cb8827a",
-    "title": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
-    "summary": "The US and Russia’s candidate for secretary general is on a charm offensive. Can she overcome London’s resistance to her bid?",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general",
-    "publishedAt": "2026-11-26T12:37:42.000Z"
-  },
-  {
-    "id": "44f16f836512c697",
-    "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-    "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po",
-    "publishedAt": "2026-11-26T12:33:23.000Z"
-  },
-  {
-    "id": "bdba40fd8070d21a",
-    "title": "FIFA says personal and business information stolen in cyberattack",
-    "summary": "FIFA sources say no files from the abandoned FIFA Forward Enterprise project were accessed.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss",
-    "publishedAt": "2026-11-26T12:31:46.000Z"
-  },
-  {
-    "id": "ab6e2293f47c7129",
-    "title": "US-backed Ebola quarantine center violated constitution, Kenyan court rules",
-    "summary": "Kenya's government violated the constitution by allowing the construction of a U.S.-backed Ebola quarantine facility without public participation, the High Court has ruled.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/us-backed-ebola-quarantine-center-violated-constitution-kenyan-138465843",
-    "publishedAt": "2026-11-26T12:31:13.000Z"
-  },
-  {
-    "id": "71f585ef04a977f5",
-    "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
-    "summary": "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
-    "publishedAt": "2026-11-26T12:24:29.000Z"
-  },
-  {
-    "id": "4a218a47efce6d99",
-    "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
-    "summary": "Exclusive: Investigation finds at least 25 cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
-    "publishedAt": "2026-11-26T12:19:37.000Z"
-  },
-  {
-    "id": "e64ba674ef99bce5",
-    "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
-    "summary": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o",
-    "publishedAt": "2026-11-26T12:16:06.000Z"
-  },
-  {
-    "id": "721232c5c71bd695",
-    "title": "Egypt detains a driver suspected of causing Cairo tanker crash that killed 31",
-    "summary": "Egyptian authorities have detained a driver suspected of causing a fuel tanker to overturn on a major highway in Cairo.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/egypt-detains-driver-suspected-causing-cairo-tanker-crash-138465415",
-    "publishedAt": "2026-11-26T12:11:00.000Z"
-  },
-  {
-    "id": "e47d5a36d07a4c0c",
-    "title": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
-    "summary": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
-    "publishedAt": "2026-11-26T12:10:49.000Z"
-  },
-  {
-    "id": "14300e214e96cbc2",
-    "title": "Serbia sets presidential election for Dec. 27 after students won parliamentary vote",
-    "summary": "Serbia's Parliament speaker has set an early presidential election for December 27.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/serbia-sets-presidential-election-dec-27-after-students-138465505",
-    "publishedAt": "2026-11-26T12:09:52.000Z"
-  },
-  {
-    "id": "510c635cd6054059",
-    "title": "Ministry of Defence signs £8.7bn deal with Babcock to maintain submarines",
-    "summary": "Wes Streeting says deal will ‘get our subs out of the docks and into the sea faster’ amid scrutiny of nuclear deterrent.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/26/ministry-of-defence-deal-babcock-maintain-submarines",
-    "publishedAt": "2026-11-26T12:07:29.000Z"
   }
 ]
