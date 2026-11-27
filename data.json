@@ -1,5 +1,86 @@
 [
   {
+    "id": "30789ff74b486197",
+    "title": "New Zealand election results set up tricky talks for conservative incumbent",
+    "summary": "Conservative PM Luxon and populist coalition partners face negotiations with centrist kingmaker.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss",
+    "publishedAt": "2026-11-27T07:55:32.000Z"
+  },
+  {
+    "id": "0598032a0d5c20f8",
+    "title": "‘Borrowing to make ends meet’: The rising cost of living in Europe",
+    "summary": "Prices are climbing again across Europe as energy costs surge.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe?traffic_source=rss",
+    "publishedAt": "2026-11-27T07:53:59.000Z"
+  },
+  {
+    "id": "ce395d6dd1546ee2",
+    "title": "Banks may pass on £1.5bn tax rise on to customers, warns Bank of England chief",
+    "summary": "Big lenders will aim to ‘protect their earnings’ amid temporary increase in corporation tax surcharge, says Andrew Bailey.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
+    "publishedAt": "2026-11-27T07:53:33.000Z"
+  },
+  {
+    "id": "c24d45a42f437cc4",
+    "title": "Sandpapergate forum to investigate Australia-England Ashes Tests",
+    "summary": "Sandpapergate forum scope to cover entire 2017-18 season, including Ashes series, in South Africa allegations follow-up.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/27/sandpapergate-forum-to-investigate-australia-england-ashes-tests?traffic_source=rss",
+    "publishedAt": "2026-11-27T07:24:45.000Z"
+  },
+  {
+    "id": "c53d433abcbdc7d2",
+    "title": "What to know about North Korean move to shut down Swiss diplomatic office",
+    "summary": "North Korea has shut down a Swiss diplomatic office in Pyongyang and expelled its head, signaling a more assertive foreign policy.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/north-korean-move-shut-swiss-diplomatic-office-138475957",
+    "publishedAt": "2026-11-27T07:23:27.000Z"
+  },
+  {
+    "id": "06b788fa2d6c45b0",
+    "title": "UN peacekeepers are preparing to leave southern Lebanon. There’s no plan for what comes next",
+    "summary": "The U.N. peacekeeping force in southern Lebanon is preparing to end a 50-year mission as tensions between Israel and Hezbollah remain high.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/peacekeepers-preparing-leave-southern-lebanon-plan-138476701",
+    "publishedAt": "2026-11-27T07:23:18.000Z"
+  },
+  {
+    "id": "e8ba447e61445b2b",
+    "title": "Zelenskyy warns of imminent major Russian attack on Ukraine’s power grid",
+    "summary": "Ukrainian President Volodymyr Zelenskyy says that Russia is preparing a major attack on Ukraine’s energy infrastructure as crews race to repair damage from earlier strikes.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/zelenskyy-warns-imminent-major-russian-attack-ukraines-power-138468250",
+    "publishedAt": "2026-11-27T07:21:00.000Z"
+  },
+  {
+    "id": "01162d44046466b0",
+    "title": "South Korea lets a North Korean fisherman resettle in South and returns six others",
+    "summary": "Seoul says that one of seven North Koreans rescued off a fishing boat drifting near a South Korean island earlier this month chose to resettle in the South.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/south-korea-lets-north-korean-fisherman-resettle-south-138475962",
+    "publishedAt": "2026-11-27T07:20:23.000Z"
+  },
+  {
+    "id": "a8b432a1d879fbe8",
+    "title": "Can the Mecca pact turn its collective defence promise into real support?",
+    "summary": "Pakistan, Saudi Arabia and Turkiye meet in Islamabad as Houthi attacks on the kingdom continue and Iran talks stay open.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss",
+    "publishedAt": "2026-11-27T07:16:30.000Z"
+  },
+  {
     "id": "5848cd0e3fb32955",
     "title": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
     "summary": "Body urged Bristol city council to reject plan because of risk to nearby protected wildlife and habitats.",
@@ -34,6 +115,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/27/grace-tame-responds-former-murdoch-executive-nephew-rape-comment-ntwnfb",
     "publishedAt": "2026-11-27T06:54:59.000Z"
+  },
+  {
+    "id": "12a7c6353db94795",
+    "title": "Messi confirms Tevez testimonial as Ronaldo showdown in offing",
+    "summary": "Argentina footballer Lionel Messi confirms testimonial game for Carlos Tevez, with Cristiano Ronaldo role also sought.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/27/messi-confirms-tevez-testimonial-as-ronaldo-showdown-in-offing?traffic_source=rss",
+    "publishedAt": "2026-11-27T06:54:12.000Z"
   },
   {
     "id": "f01312482bbcc169",
@@ -97,6 +187,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqzr56ny5rkpo",
     "publishedAt": "2026-11-27T06:07:11.000Z"
+  },
+  {
+    "id": "c49b6779cb751643",
+    "title": "Houthi attacks test Saudi Arabia's image of security",
+    "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo",
+    "publishedAt": "2026-11-27T06:04:51.000Z"
   },
   {
     "id": "f03baaa219c7c487",
@@ -304,6 +403,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
     "publishedAt": "2026-11-27T01:00:49.000Z"
+  },
+  {
+    "id": "d2f7709b98ae966b",
+    "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+    "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o",
+    "publishedAt": "2026-11-27T00:58:49.000Z"
   },
   {
     "id": "36a20150712c1008",
@@ -720,6 +828,15 @@
     "publishedAt": "2026-11-26T18:56:00.000Z"
   },
   {
+    "id": "3dd7543973002210",
+    "title": "Doctors report missing out on paid parental leave and job offers while pregnant",
+    "summary": "Several doctors have told Four Corners they believe they have been penalised for having children while pursuing a career in medicine.",
+    "category": "Economy",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-27/doctors-allege-pregnancy-discrimination-in-medicine/107396068",
+    "publishedAt": "2026-11-26T18:55:01.000Z"
+  },
+  {
     "id": "b8af6f3188e632fa",
     "title": "Major East Midlands road projects shelved to divert funding to defence",
     "summary": "Regional mayor says cancelling works on A38 at Derby and Newark bypass on A46 ‘disappointing and short-sighted’",
@@ -808,6 +925,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
     "publishedAt": "2026-11-26T18:07:18.000Z"
+  },
+  {
+    "id": "9d77a24a4ac4676e",
+    "title": "China plans Antarctic runway as Australia signs logistics agreement",
+    "summary": "Australia has signed a new logistics cooperation agreement with China as the country continues to expand its presence in Antarctica, including plans for a new intercontinental ice runway.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-27/china-and-australia-sign-antarctica-agreement-new-runway/107429314",
+    "publishedAt": "2026-11-26T18:00:00.000Z"
   },
   {
     "id": "9fc728089f567d8a",
@@ -1017,6 +1143,15 @@
     "publishedAt": "2026-11-26T15:45:59.000Z"
   },
   {
+    "id": "c00b18ff3f3b67b6",
+    "title": "Politician hosts 400,000 guests at daughter’s wedding in India’s poorest state",
+    "summary": "Six helipads built and feast prepared by 500 cooks for wedding hosted by Anant Singh, an MP charged with murder.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/26/india-anant-singh-hosts-400000-guests-wedding-guests-daughter",
+    "publishedAt": "2026-11-26T15:41:42.000Z"
+  },
+  {
     "id": "f0b0388890416d30",
     "title": "Man found guilty of attempted murder of seven people on LNER train",
     "summary": "Jury still deliberating on seven other counts against Anthony Williams.",
@@ -1096,6 +1231,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/26/reformer-nigel-farage-burnham-eu",
     "publishedAt": "2026-11-26T15:14:17.000Z"
+  },
+  {
+    "id": "ef8c61463466ed5a",
+    "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
+    "summary": "Then ambassador to US wanted to discuss alternatives to World Trade Organization in ‘under the radar’ meeting, documents reveal.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
+    "publishedAt": "2026-11-26T15:12:36.000Z"
   },
   {
     "id": "3fbeae8834caf651",
@@ -1204,149 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo",
     "publishedAt": "2026-11-26T14:28:22.000Z"
-  },
-  {
-    "id": "f342551cd92c6cf3",
-    "title": "Private dentists too expensive for millions, watchdog warns",
-    "summary": "The Competitions and Market Authority says reforms are needed to make sure people get a fair deal.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c98r7ydp7v0ko",
-    "publishedAt": "2026-11-26T14:19:32.000Z"
-  },
-  {
-    "id": "6ebfaed19192151c",
-    "title": "EU leaders seek to agree on a budget deal and a new loan for Ukraine",
-    "summary": "European Union leaders are struggling to agree on a long-term budget and more money for Ukraine in the shape of a new $49 billion loan.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/eu-leaders-seek-bridge-differences-agree-budget-deal-138463077",
-    "publishedAt": "2026-11-26T14:18:21.000Z"
-  },
-  {
-    "id": "46fc496c921151e6",
-    "title": "Can Trump continue with Iran war despite funding restrictions?",
-    "summary": "A Congress budget bill could serve as a pressure tactic on Trump to end the war but could also trigger a shutdown.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
-    "publishedAt": "2026-11-26T14:17:21.000Z"
-  },
-  {
-    "id": "1ab384026462170d",
-    "title": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
-    "summary": "Prime Minister al-Zaidi's move to take control of border crossings and oilfields has drawn a sharp response from Erbil.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
-    "publishedAt": "2026-11-26T14:10:00.000Z"
-  },
-  {
-    "id": "0b5ec3a067b69679",
-    "title": "When will Poundland close? Five questions about its future",
-    "summary": "Why is Poundland closing down, and what will hapen to staff and suppliers?",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo",
-    "publishedAt": "2026-11-26T14:05:27.000Z"
-  },
-  {
-    "id": "36f5798f000460a9",
-    "title": "Inside Liberland, the crypto ‘country’ few have heard of",
-    "summary": "Al Jazeera's Antoine Allen reports on a group of people trying to build a tax-free nation.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss",
-    "publishedAt": "2026-11-26T14:02:02.000Z"
-  },
-  {
-    "id": "117726bfa8f299a6",
-    "title": "Donations to One Nation from two Gina Rinehart associates to be probed by electoral authorities",
-    "summary": "Exclusive : Australian Electoral Commission to review $1m in donations to Pauline Hanson-led party from Adam Giles and Ian Plimer.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/27/one-nation-pauline-hanson-gina-rinehart-aec-donations-ntwnfb",
-    "publishedAt": "2026-11-26T14:00:40.000Z"
-  },
-  {
-    "id": "1323066cd0a8fc1d",
-    "title": "Beau Lamarre-Condon used his service weapon to murder two men. Did NSW police recruiters miss any red flags?",
-    "summary": "Video of convicted double murderer shows him in 2020 deploying a Taser at close range to an Indigenous man’s face, chest and neck.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/27/beau-lamarre-condon-service-weapon-murder-police-recruiters-ntwnfb",
-    "publishedAt": "2026-11-26T14:00:39.000Z"
-  },
-  {
-    "id": "c6adc1595901df8b",
-    "title": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
-    "summary": "Farmers’ federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
-    "publishedAt": "2026-11-26T14:00:39.000Z"
-  },
-  {
-    "id": "e21503701a8b1438",
-    "title": "Hugh Jackman not wrong to be ‘concerned’ about Woodside gas project near WA reef, Murray Watt says",
-    "summary": "Environment minister says he understands concerns about potential impact after 150 scientists and celebrities urged the government to block the project.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/27/hugh-jackman-woodside-gas-project-wa-reef-murray-watt",
-    "publishedAt": "2026-11-26T14:00:35.000Z"
-  },
-  {
-    "id": "4609220b8d829a01",
-    "title": "Millions of people to see average monthly mortgage payments rise by £100",
-    "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo",
-    "publishedAt": "2026-11-26T14:00:20.000Z"
-  },
-  {
-    "id": "f70baf0ffc8a31b9",
-    "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-    "summary": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
-    "publishedAt": "2026-11-26T13:47:09.000Z"
-  },
-  {
-    "id": "f0b4016d08c78df0",
-    "title": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
-    "summary": "Latest figure of young people not in education, employment or training remains close to highest level in a decade.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
-    "publishedAt": "2026-11-26T13:43:51.000Z"
-  },
-  {
-    "id": "66f84d71ac4745f1",
-    "title": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs say",
-    "summary": "Transport committee says policy papers show expanding airport would fall short of pledges on economy and climate.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
-    "publishedAt": "2026-11-26T13:43:36.000Z"
-  },
-  {
-    "id": "edfe5ac33705107d",
-    "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
-    "summary": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo",
-    "publishedAt": "2026-11-26T13:40:46.000Z"
-  },
-  {
-    "id": "ab6e2293f47c7129",
-    "title": "US-backed Ebola quarantine center violated constitution, Kenyan court rules",
-    "summary": "Kenya's government violated the constitution by allowing the construction of a U.S.-backed Ebola quarantine facility without public participation, the High Court has ruled.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/us-backed-ebola-quarantine-center-violated-constitution-kenyan-138465843",
-    "publishedAt": "2026-11-26T13:38:30.000Z"
   }
 ]
