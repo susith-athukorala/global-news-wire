@@ -1,5 +1,68 @@
 [
   {
+    "id": "bd41f92fb86a9652",
+    "title": "Three studies link glyphosate to cancer, contradicting claims of Trump EPA",
+    "summary": "Experts say NIH research raises concerns about chemical companies’ influence on US agency’s pesticide division.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa",
+    "publishedAt": "2026-11-27T15:00:13.000Z"
+  },
+  {
+    "id": "fb5f9bdee6e55177",
+    "title": "British Gas owner seeks urgent government talks over future of storage faciity",
+    "summary": "Centrica boss memo to 400 workers at key gas plant off Yorkshire coast says utility doing all it can ‘to save your jobs’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
+    "publishedAt": "2026-11-27T14:58:39.000Z"
+  },
+  {
+    "id": "52fed062ded63d7b",
+    "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+    "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o",
+    "publishedAt": "2026-11-27T14:55:15.000Z"
+  },
+  {
+    "id": "19008dfb0da368ac",
+    "title": "Hackers reportedly breach US Air Force’s flagship cloud computing platform",
+    "summary": "Intrusion into Cloud One platform could jeopardize security of sensitive tactical, personnel and logistics data.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
+    "publishedAt": "2026-11-27T14:50:15.000Z"
+  },
+  {
+    "id": "465cb715ff30ec25",
+    "title": "‘Mass-casualty event’ in Europe possible amid rise in Russian sabotage, says thinktank",
+    "summary": "Report warns attacks on critical infrastructure could lead to demand for retaliation and expose EU divisions.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/27/mass-casualty-event-europe-possible-russian-sabotage-says-thinktank",
+    "publishedAt": "2026-11-27T14:46:27.000Z"
+  },
+  {
+    "id": "97eaa9f7762ecb5b",
+    "title": "Death toll in Pakistan building collapse rises to 8 with about 10 missing",
+    "summary": "The death toll from the collapse of a six-story building under construction in southern Pakistan has risen to eight.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/death-toll-pakistan-building-collapse-rises-8-10-138480840",
+    "publishedAt": "2026-11-27T14:19:50.000Z"
+  },
+  {
+    "id": "6130e75798de8e75",
+    "title": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
+    "summary": "Costa Rica is under pressure over its decision to bar the UN expert who has documented Israel's genocidal war on Gaza.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss",
+    "publishedAt": "2026-11-27T14:17:25.000Z"
+  },
+  {
     "id": "1ed071b8dcbafa18",
     "title": "Jess Wilson’s plan for Melbourne sewage plants risks water and wetlands without bringing debt down, experts say",
     "summary": "Academic says Victorian Liberal proposal to lease treatment plants and generate profit with no compromise of services ‘a total furphy’",
@@ -1285,68 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o",
     "publishedAt": "2026-11-26T22:06:24.000Z"
-  },
-  {
-    "id": "52b7a9a7304a9ffa",
-    "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-    "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do",
-    "publishedAt": "2026-11-26T22:01:22.000Z"
-  },
-  {
-    "id": "452003268bcdba9c",
-    "title": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
-    "summary": "Fire chiefs say large swathes of the country are at risk from fires driven by high fuel loads, dry soil and hot weather.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
-    "publishedAt": "2026-11-26T21:33:36.000Z"
-  },
-  {
-    "id": "d7835cf83da1f98e",
-    "title": "Schizophrenic man found guilty of attempted murders of 14, including 10 on train",
-    "summary": "A schizophrenic man has been found guilty of the attempted murders of 14 people over three separate incidents over a 24-hour period that culminated with the stabbing of 10 people on a high-speed London-bound train.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/schizophrenic-man-found-guilty-attempted-murders-14-people-138470756",
-    "publishedAt": "2026-11-26T21:30:30.000Z"
-  },
-  {
-    "id": "f446a8ea2d38d78a",
-    "title": "Major Thanksgiving storms inundate US with heavy rain, wind and flooding",
-    "summary": "Nearly 200,000 homes and businesses have lost power in Virginia and another 177,000 in Maryland, with flights also affected.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-27/thanksgiving-floods-storms-across-us/107433308",
-    "publishedAt": "2026-11-26T21:25:11.000Z"
-  },
-  {
-    "id": "cb4c4139de5a29d9",
-    "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-    "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o",
-    "publishedAt": "2026-11-26T21:17:53.000Z"
-  },
-  {
-    "id": "a310de02a1917f42",
-    "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
-    "summary": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
-    "publishedAt": "2026-11-26T21:08:44.000Z"
-  },
-  {
-    "id": "9e6c4c989ed54b01",
-    "title": "Coalition team up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
-    "summary": "Coalition voted in Senate to pass government’s final major piece of legislation for 2026, denying Greens’ bid for 25% tax on exports.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
-    "publishedAt": "2026-11-26T20:58:12.000Z"
   }
 ]
