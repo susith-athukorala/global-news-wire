@@ -1,5 +1,59 @@
 [
   {
+    "id": "21800f865bba1aea",
+    "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
+    "summary": "Labor leaders and advocates urge protections for workers and consumers as AI use becomes more commonplace.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
+    "publishedAt": "2026-11-27T10:00:02.000Z"
+  },
+  {
+    "id": "19a69e3caaa5d3ca",
+    "title": "Screen free tweens try their hand at Dungeons & Dragons",
+    "summary": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
+    "category": "Technology",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
+    "publishedAt": "2026-11-27T10:00:00.000Z"
+  },
+  {
+    "id": "dec6987784f252fd",
+    "title": "Pizza history: AI agent’s cardless purchase is a first for UK",
+    "summary": "Papa John’s order was made without sharing bank security details – tech that could revolutionise shopping.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+    "publishedAt": "2026-11-27T09:53:11.000Z"
+  },
+  {
+    "id": "55988b2f5deec506",
+    "title": "As UN Secretary General's last day approaches, search for his replacement continues",
+    "summary": "The UN Secretary General's term ends this year, but the big powers at the UN have been unable to agree on a replacement. UN watchers worry that there will be little time to get up to speed.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6050907/as-un-secretary-generals-last-day-approaches-search-for-his-replacement-continues",
+    "publishedAt": "2026-11-27T09:46:13.000Z"
+  },
+  {
+    "id": "5386d6b8ccd71fd8",
+    "title": "California voters pass billionaire's measure to bankroll his own medical lab",
+    "summary": "California voters passed a ballot measure backed by a billionaire to fund $8.4 billion in immunology research. Half the funding will go to the research group funded by the same billionaire.",
+    "category": "Science",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6052399/california-voters-pass-billionaires-measure-to-bankroll-his-own-medical-lab",
+    "publishedAt": "2026-11-27T09:45:53.000Z"
+  },
+  {
+    "id": "5495dc7c761fcd37",
+    "title": "Democrats want to end Trump’s Iran war. But how different are they?",
+    "summary": "Decades of bipartisan pressure on Tehran raises questions about how far Democrats are willing to change US policy.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
+    "publishedAt": "2026-11-27T09:43:01.000Z"
+  },
+  {
     "id": "be09a372c110354b",
     "title": "Pakistan set to host talks with Saudi Arabia and Turkey under trilateral defense pact",
     "summary": "Officials say Pakistan is set to host talks with Saudi Arabia and Turkey under a trilateral defense pact that treats an attack on any member as an attack on all three.",
@@ -7,6 +61,33 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/pakistan-set-host-talks-saudi-arabia-turkey-trilateral-138477505",
     "publishedAt": "2026-11-27T09:06:58.000Z"
+  },
+  {
+    "id": "53b1d6252503dde7",
+    "title": "South Korea sends rescued fishermen back to North",
+    "summary": "Pyongyang has not commented on a seventh fisherman who chose to remain in the South.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss",
+    "publishedAt": "2026-11-27T09:02:20.000Z"
+  },
+  {
+    "id": "d6b109fd04ca95b6",
+    "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
+    "summary": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o",
+    "publishedAt": "2026-11-27T08:58:08.000Z"
+  },
+  {
+    "id": "0d3aa66da5117d98",
+    "title": "India upbeat about first Olympics after ‘very good’ 2036 presentation",
+    "summary": "India makes Ahmedabad pitch for 2036 Games as it bids to host first Olympics, but Qatar and South Africa strong rivals.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss",
+    "publishedAt": "2026-11-27T08:57:37.000Z"
   },
   {
     "id": "f48d0ef816067cd5",
@@ -1008,6 +1089,15 @@
     "publishedAt": "2026-11-26T17:59:44.000Z"
   },
   {
+    "id": "6839050e6cd64f45",
+    "title": "Spain’s far right hasn’t governed since Franco. Immigration fears could change that",
+    "summary": "Spain's far-right Vox party has pledged to crack down on immigration if it earns enough votes in Sunday's national election to enter into government.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/spains-hasnt-governed-franco-immigration-fears-change-138466653",
+    "publishedAt": "2026-11-26T17:54:28.000Z"
+  },
+  {
     "id": "f660e1dfe935c14d",
     "title": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
     "summary": "The bloc is holding an extraordinary summit in Brussels to discuss its budget proposal for 2028 to 2034.",
@@ -1042,6 +1132,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cq4gnjd5l3k4o",
     "publishedAt": "2026-11-26T17:45:45.000Z"
+  },
+  {
+    "id": "2ce7247b83c05f95",
+    "title": "Marlboro maker Altria considering takeover bid for Imperial Brands",
+    "summary": "Shares in UK tobacco company jump by more than 14% on news US rival is looking into making offer.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands",
+    "publishedAt": "2026-11-26T17:44:56.000Z"
   },
   {
     "id": "52588aea239ae6af",
@@ -1249,104 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather",
     "publishedAt": "2026-11-26T15:33:21.000Z"
-  },
-  {
-    "id": "0c3fa3f5ac405256",
-    "title": "US judge blocks Trump’s FCC attempt to target Disney’s ABC stations",
-    "summary": "The judge said the FCC chair has taken US President Donald Trump's rhetoric ‌‌as his 'marching orders'.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss",
-    "publishedAt": "2026-11-26T15:29:03.000Z"
-  },
-  {
-    "id": "64ca7df9242cf6d3",
-    "title": "New UK-EU treaty has 10-year termination clause",
-    "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
-    "publishedAt": "2026-11-26T15:23:17.000Z"
-  },
-  {
-    "id": "9c13ceef6c44cd3c",
-    "title": "Man who drugged wife for rape by strangers in Stockport tells court of ‘guilt and shame’",
-    "summary": "Woman watches her sobbing husband speak about ‘the pain I’ve caused’, as nine men accused of roles in her abuse.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/26/man-drugged-wife-rape-strangers-stockport-guilt-shame",
-    "publishedAt": "2026-11-26T15:22:11.000Z"
-  },
-  {
-    "id": "996a90f52c5d300e",
-    "title": "Two Italians killed in drone strike on Kuwait, Iran denies involvement",
-    "summary": "The attack was one of several reported across the region over 24 hours, including two targeting ships transiting through the Strait of Hormuz.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-27/italians-killed-in-kuwait-attack-iran/107432996",
-    "publishedAt": "2026-11-26T15:19:02.000Z"
-  },
-  {
-    "id": "f4e3adc50a3d78c8",
-    "title": "Hong Kong marks deadly fire anniversary with flowers and tears following gov warning",
-    "summary": "Hong Kong residents are remembering the victims of the city's deadliest fire in decades by offering flowers and prayers.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/hong-kong-marks-deadly-fire-anniversary-flowers-prayers-138463173",
-    "publishedAt": "2026-11-26T15:14:21.000Z"
-  },
-  {
-    "id": "087a8628ea95cf80",
-    "title": "Do you want to waste 15 minutes of your life reading the Reformer by Nigel Farage? | John Crace",
-    "summary": "Or maybe just throw it in the recycling – every future issue could be written in German anyway if Burnham gets his way.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/26/reformer-nigel-farage-burnham-eu",
-    "publishedAt": "2026-11-26T15:14:17.000Z"
-  },
-  {
-    "id": "ef8c61463466ed5a",
-    "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
-    "summary": "Then ambassador to US wanted to discuss alternatives to World Trade Organization in ‘under the radar’ meeting, documents reveal.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
-    "publishedAt": "2026-11-26T15:12:36.000Z"
-  },
-  {
-    "id": "3fbeae8834caf651",
-    "title": "Andalusia offers a glimpse of Spain’s future as the far right gains ground",
-    "summary": "Ahead of Sunday's election, Andalusia signals Vox’s rise as immigration and right-wing alliances reshape politics.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground?traffic_source=rss",
-    "publishedAt": "2026-11-26T15:11:30.000Z"
-  },
-  {
-    "id": "4135bb6f0fc9cf48",
-    "title": "Why is Italy angry with Ukraine for striking Russian ships off Libya?",
-    "summary": "Analysts say Rome fears instability in Libya could hurt its energy interests and efforts to curb irregular migration.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya?traffic_source=rss",
-    "publishedAt": "2026-11-26T15:02:50.000Z"
-  },
-  {
-    "id": "7a297b76128c550d",
-    "title": "UN ruling disputes Israeli allegations used to dismiss UNRWA Gaza staff",
-    "summary": "Tribunal raises questions about the credibility of UNRWA's decision to dismiss its staff without substantiated evidence.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff?traffic_source=rss",
-    "publishedAt": "2026-11-26T15:00:47.000Z"
-  },
-  {
-    "id": "5cfd9d09f87a1b32",
-    "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
-    "summary": "Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
-    "publishedAt": "2026-11-26T15:00:37.000Z"
   }
 ]
