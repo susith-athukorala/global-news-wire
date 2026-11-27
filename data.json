@@ -1,5 +1,113 @@
 [
   {
+    "id": "1ed071b8dcbafa18",
+    "title": "Jess Wilson’s plan for Melbourne sewage plants risks water and wetlands without bringing debt down, experts say",
+    "summary": "Academic says Victorian Liberal proposal to lease treatment plants and generate profit with no compromise of services ‘a total furphy’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-melbourne-sewage-plants-privatisation-risks-water-and-wetlands",
+    "publishedAt": "2026-11-27T14:00:14.000Z"
+  },
+  {
+    "id": "2e918376b1adb1bb",
+    "title": "Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation",
+    "summary": "Former ALP strategist says Ben Carroll government at risk of losing more than 30 seats in Saturday’s election, to fall behind Pauline Hanson’s party.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/28/vic-election-labor-faces-electoral-wipeout-as-voters-turn-to-liberals-and-one-nation-ntwnfb",
+    "publishedAt": "2026-11-27T14:00:13.000Z"
+  },
+  {
+    "id": "2f3fd9bbeae26b78",
+    "title": "It’s the biggest ever month for video games – so why am I playing a title from 2006? | Dominik Diamond",
+    "summary": "While everyone else is giddy over Zelda and GTA, Dominik Diamond finds himself behind the times on a Nintendo Wii.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/games/2026/nov/27/legend-zelda-ocarina-of-time-grand-theft-auto-vi-six-dominik-diamond",
+    "publishedAt": "2026-11-27T14:00:13.000Z"
+  },
+  {
+    "id": "4b30812af725f9ae",
+    "title": "NSW Labor is ‘trampling over party principles’ with preselections by captain’s call, members say",
+    "summary": "Exclusive: Ryde councillor Penny Pedersen was asked by Labor head office not to nominate for Lane Cove in March state election.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/28/nsw-labor-is-trampling-over-party-principles-with-preselections-by-captains-call-members-say",
+    "publishedAt": "2026-11-27T14:00:12.000Z"
+  },
+  {
+    "id": "512889c856328798",
+    "title": "Concern over maternity unit move prompts extra paramedic funding",
+    "summary": "Ambulance chief concerned by extra pressure on area that already has \"poor ambulance performance\"'.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq5y12vgkxyxo",
+    "publishedAt": "2026-11-27T13:53:16.000Z"
+  },
+  {
+    "id": "5f521763a83253d7",
+    "title": "Thanksgiving meal in Florida leads to ‘mass casualty’ food poisoning incident",
+    "summary": "Local media reported that 18 people fell ill after attending a Thanksgiving lunch at a medical center headquarters.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning",
+    "publishedAt": "2026-11-27T13:41:23.000Z"
+  },
+  {
+    "id": "186f83ddb4262f56",
+    "title": "Rare turtles found inside baggage at Amsterdam airport",
+    "summary": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo",
+    "publishedAt": "2026-11-27T13:38:07.000Z"
+  },
+  {
+    "id": "9119870f8b9e0d2b",
+    "title": "Why did Georgian police clash with Turkish football fans over Palestine?",
+    "summary": "Georgia's Interior Ministry says 16 people were detained and three employees injured during clashes.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss",
+    "publishedAt": "2026-11-27T13:32:55.000Z"
+  },
+  {
+    "id": "108060cc5eaa8bba",
+    "title": "Britain’s taste for cow’s milk fades as sales hit record low",
+    "summary": "Environmental and animal welfare concerns, and taste preferences, are behind rising popularity of vegan alternatives.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/food/2026/nov/27/britain-cows-milk-sales-record-low-oat-almond",
+    "publishedAt": "2026-11-27T13:32:07.000Z"
+  },
+  {
+    "id": "0b7015f8fc170e69",
+    "title": "Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu",
+    "summary": "Some of his allies are calling for such an arrangement, but it would represent a betrayal of his pre-election promise.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss",
+    "publishedAt": "2026-11-27T13:28:55.000Z"
+  },
+  {
+    "id": "b176ea1cd4471584",
+    "title": "A Ukraine loan is in limbo after EU budget talks stall. Leaders will try again in 3 weeks",
+    "summary": "European Council President Ant&oacute;nio Costa says European Union leaders have failed to agree on the 2028-2034 budget.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/ukraine-loan-limbo-after-eu-budget-talks-stall-138478913",
+    "publishedAt": "2026-11-27T13:22:27.000Z"
+  },
+  {
+    "id": "f94903c06971d592",
+    "title": "Famine expect to rise due to global conflict, El Nino, warns UN",
+    "summary": "El Nino is a major driver behind three of the four newly identified hotspots, mainly in different parts of Africa.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss",
+    "publishedAt": "2026-11-27T13:16:28.000Z"
+  },
+  {
     "id": "d76db20a5e11f66f",
     "title": "England’s Overton takes 5-12 as Australia bowled out for record low in T20",
     "summary": "Australia are bowled out for 108 as Jamie Overton claims career-best figures in England's seven-wicket win in Brisbane.",
@@ -1197,6 +1305,15 @@
     "publishedAt": "2026-11-26T21:33:36.000Z"
   },
   {
+    "id": "d7835cf83da1f98e",
+    "title": "Schizophrenic man found guilty of attempted murders of 14, including 10 on train",
+    "summary": "A schizophrenic man has been found guilty of the attempted murders of 14 people over three separate incidents over a 24-hour period that culminated with the stabbing of 10 people on a high-speed London-bound train.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/schizophrenic-man-found-guilty-attempted-murders-14-people-138470756",
+    "publishedAt": "2026-11-26T21:30:30.000Z"
+  },
+  {
     "id": "f446a8ea2d38d78a",
     "title": "Major Thanksgiving storms inundate US with heavy rain, wind and flooding",
     "summary": "Nearly 200,000 homes and businesses have lost power in Virginia and another 177,000 in Maryland, with flights also affected.",
@@ -1231,122 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
     "publishedAt": "2026-11-26T20:58:12.000Z"
-  },
-  {
-    "id": "dd9232b4eb99452c",
-    "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
-    "summary": "The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
-    "publishedAt": "2026-11-26T20:34:34.000Z"
-  },
-  {
-    "id": "9fc728089f567d8a",
-    "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
-    "summary": "Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza City.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
-    "publishedAt": "2026-11-26T20:33:07.000Z"
-  },
-  {
-    "id": "719787b0c6986f82",
-    "title": "Mexico seeks US talks about suspected SpaceX debris",
-    "summary": "Mexico concerned as SpaceX ramps up rocket launches from Starbase near border in Texas.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
-    "publishedAt": "2026-11-26T20:31:50.000Z"
-  },
-  {
-    "id": "56636093a8270c58",
-    "title": "Black Friday AI warning",
-    "summary": "Ahead of Victoria's election tomorrow, we have expert analysis on the economic impacts from Daniel Ziffer and Sequoia gets a grilling from the Senate, as did ASIC on how it handles whistleblower reports into the Big 4.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-27/asx-markets-business-news-live-updates/107430390",
-    "publishedAt": "2026-11-26T20:27:46.000Z"
-  },
-  {
-    "id": "7793ab8d120e32ac",
-    "title": "Musk pledges two SpaceX shares for every US child",
-    "summary": "US children would receive one share from SpaceX and one from him personally, Musk said.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss",
-    "publishedAt": "2026-11-26T20:19:22.000Z"
-  },
-  {
-    "id": "75fd61d5370d4c75",
-    "title": "Mexican president blasts DEA over tip lines",
-    "summary": "Mexico's president has criticized the U.S. Drug Enforcement Administration for setting up anonymous tip lines in the country.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/mexican-president-blasts-dea-tip-lines-accusing-fighting-138471560",
-    "publishedAt": "2026-11-26T20:02:26.000Z"
-  },
-  {
-    "id": "aeadbb081ac99591",
-    "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
-    "summary": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
-    "publishedAt": "2026-11-26T20:01:47.000Z"
-  },
-  {
-    "id": "78edf621e9cfa0f0",
-    "title": "Slow internet? The best wifi extenders and mesh systems to boost your home network – tested",
-    "summary": "We put 11 range extenders and mesh systems to the test to find the fastest and most reliable for streaming, gaming and working from home.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2026/nov/26/best-wifi-extender-repeater-uk",
-    "publishedAt": "2026-11-26T20:00:43.000Z"
-  },
-  {
-    "id": "a1e1f2b8b6064b73",
-    "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
-    "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o",
-    "publishedAt": "2026-11-26T19:55:58.000Z"
-  },
-  {
-    "id": "501faf74d232ecbb",
-    "title": "Nottingham man jailed for 12 years for drugging and sexually assaulting partner",
-    "summary": "‘Depraved’ predator attacked victim while she was under the influence of sleeping tablets he had given her.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/26/nottingham-man-jailed-for-12-years-for-drugging-and-sexually-assaulting-partner",
-    "publishedAt": "2026-11-26T19:54:05.000Z"
-  },
-  {
-    "id": "ff7155d1aaa93df3",
-    "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
-    "summary": "In a Thanksgiving post, the US president seeks investigation after blue wave of Democrats unseat Republicans.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
-    "publishedAt": "2026-11-26T19:41:37.000Z"
-  },
-  {
-    "id": "e89a795d7f48af73",
-    "title": "How much of the sharp fall in UK immigration is due to Labour’s policies?",
-    "summary": "Labour is jubilant it has got numbers down to levels the Tories could not but it was helped by factors beyond its control.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/26/how-much-sharp-fall-uk-immigration-labour-policies",
-    "publishedAt": "2026-11-26T19:38:26.000Z"
-  },
-  {
-    "id": "7dba987dbfb59263",
-    "title": "Spain's former central bank head chosen as next European Central Bank president",
-    "summary": "Eurozone leaders have chosen a new president of the European Central Bank.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/leaders-choose-spains-former-central-bank-head-european-138468703",
-    "publishedAt": "2026-11-26T19:38:15.000Z"
   }
 ]
