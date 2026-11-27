@@ -1,5 +1,95 @@
 [
   {
+    "id": "145e9c36a46af2ef",
+    "title": "Mexico files complaint with US over tip line on alleged drug traffickers",
+    "summary": "Tensions rise over DEA tip line, with Mexico emphasizing respect for its sovereignty amidst growing bilateral discord.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
+    "publishedAt": "2026-11-27T17:58:36.000Z"
+  },
+  {
+    "id": "53354c5781eebf96",
+    "title": "The Com: the global cybercrime network posing a ‘chilling threat’ to children",
+    "summary": "FBI estimates thousands of people identify as members, or recent members, of group linked to indecent images of girls and blackmail.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/27/the-com-global-cybercrime-network-posing-chilling-threat-to-children",
+    "publishedAt": "2026-11-27T17:53:30.000Z"
+  },
+  {
+    "id": "dcf7b64d29fc65f9",
+    "title": "Kyiv offers Black Sea ceasefire, as Putin expands Russia’s navy",
+    "summary": "Ukraine awaits Moscow’s response to Black Sea ceasefire proposal as Zelenskyy criticises Trump’s Putin ‘friendship’",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+    "publishedAt": "2026-11-27T17:44:33.000Z"
+  },
+  {
+    "id": "7c2d9ec0f388e8e8",
+    "title": "Astronomers ‘disheartened’ by decision allowing SpaceX to deploy satellites for space datacenters",
+    "summary": "American Astronomical Society warned that satellites could disrupt research, while others raised concerns about orbital debris and environmental risks.",
+    "category": "Science",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/science/2026/nov/27/astronomer-decision-spacex-datacenters",
+    "publishedAt": "2026-11-27T17:43:40.000Z"
+  },
+  {
+    "id": "1ec37a1640c8c583",
+    "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
+    "summary": "Officials from Pakistan, Saudi Arabia and Turkiye pledge to protect the kingdom's security during talks in Islamabad.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+    "publishedAt": "2026-11-27T17:41:24.000Z"
+  },
+  {
+    "id": "8080b58cb941eeb4",
+    "title": "Labour row over Rosebank deepens as dozens of MPs warn PM not to block oilfield",
+    "summary": "After nearly 100 colleagues called on Andy Burnham to block the oilfield, as many as 80 Labour MPs are planning to urge the opposite.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland",
+    "publishedAt": "2026-11-27T17:39:10.000Z"
+  },
+  {
+    "id": "d00616698c471ac8",
+    "title": "The best cordless vacuum cleaners for a spotless home: 10 tried and tested favourites",
+    "summary": "Stick vacuums are a convenient alternative to corded designs, but which model wins for overall cleaning prowess? Our expert reveals all.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2025/mar/28/best-cordless-vacuum-cleaners-uk",
+    "publishedAt": "2026-11-27T17:27:25.000Z"
+  },
+  {
+    "id": "e310842c86980e59",
+    "title": "UK man jailed for online blackmail of vulnerable girls around the world",
+    "summary": "Beau-Jack Mensforth, 20, part of a group known as the Com, coerced girls into self-harm, making indecent images of themselves and physically harming pets.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/27/man-jailed-in-newcastle-for-blackmailing-vulnerable-girls-online",
+    "publishedAt": "2026-11-27T17:27:03.000Z"
+  },
+  {
+    "id": "d247045e2e0b3b8a",
+    "title": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
+    "summary": "Prime Minister Pedro Sanchez makes last bid to beat right-wing parties before Spanish vote on Sunday.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
+    "publishedAt": "2026-11-27T17:15:35.000Z"
+  },
+  {
+    "id": "4f350440cb774a99",
+    "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
+    "summary": "Russian assaults met with stout defence along the front as Western powers discuss ceasefire proposals.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
+    "publishedAt": "2026-11-27T17:13:46.000Z"
+  },
+  {
     "id": "dd9cc9909f74175b",
     "title": "Belgian authorities order Google to halt datacentre construction over lack of permits",
     "summary": "Greenpeace had published report showing tech firm was carrying on building despite ruling on its planning appeal still unresolved.",
@@ -729,6 +819,15 @@
     "publishedAt": "2026-11-27T10:14:03.000Z"
   },
   {
+    "id": "36a20150712c1008",
+    "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
+    "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo",
+    "publishedAt": "2026-11-27T10:10:36.000Z"
+  },
+  {
     "id": "d70d7adebc0b3cff",
     "title": "India busts cyberfraud and trafficking network rescuing 164 foreigners",
     "summary": "Lured by IT job promises, the victims were allegedly forced into cybercrime, police say.",
@@ -1249,104 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/main-issues-driving-spains-national-election-matter-europe-138476510",
     "publishedAt": "2026-11-27T05:10:38.000Z"
-  },
-  {
-    "id": "6fad8c983f1e51a6",
-    "title": "Alan Jones defence opens and closes in space of a few hours as indecent assault trial draws to a close",
-    "summary": "Former broadcaster, 85, has pleaded not guilty to 21 counts of sexual touching and indecent assault.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/27/alan-jones-trial-defence-open-and-close-ntwnfb",
-    "publishedAt": "2026-11-27T05:02:40.000Z"
-  },
-  {
-    "id": "48d240513d08da0d",
-    "title": "Race hate exploded in this Spanish town last year. Now its residents are bracing for more",
-    "summary": "Torre-Pacheco’s diverse communities are fearful that the far-right Vox party will enter government after Sunday’s election.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe",
-    "publishedAt": "2026-11-27T05:00:55.000Z"
-  },
-  {
-    "id": "721232c5c71bd695",
-    "title": "Egypt detains a driver suspected of causing Cairo tanker crash that killed 31",
-    "summary": "Egyptian authorities have detained a driver suspected of causing a fuel tanker to overturn on a major highway in Cairo.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/egypt-detains-driver-suspected-causing-cairo-tanker-crash-138465415",
-    "publishedAt": "2026-11-27T04:59:28.000Z"
-  },
-  {
-    "id": "eb58fc1d09023af2",
-    "title": "Former RAAF pilot convicted of murder after staging wife’s death as lawnmower accident",
-    "summary": "Brisbane supreme court jury finds Robert John Crawford guilty of murder after he stood to lose financially in divorce settlement.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb",
-    "publishedAt": "2026-11-27T04:56:32.000Z"
-  },
-  {
-    "id": "791eae3da18d74eb",
-    "title": "Thanksgiving storms leave nearly a million without power across the US",
-    "summary": "Severe weather across the US causes outages and flight delays as families and friends gather for the annual holiday.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us?traffic_source=rss",
-    "publishedAt": "2026-11-27T04:34:43.000Z"
-  },
-  {
-    "id": "8526433dd3f9d8d2",
-    "title": "Meet the rising mayoral candidate in Taiwan who's also sanctioned by China",
-    "summary": "Puma Shen is gaining unexpected popularity as an opposition candidate in Taiwan's capital.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/meet-rising-mayoral-candidate-taiwan-sanctioned-china-138473812",
-    "publishedAt": "2026-11-27T04:07:06.000Z"
-  },
-  {
-    "id": "d0228671f3c2b32d",
-    "title": "At least 13 Niger soldiers killed in Sanam armed attack",
-    "summary": "It remains unclear who carried out the attack on Niger's National Guard in Tillaberi, near the Mali border.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
-    "publishedAt": "2026-11-27T04:06:52.000Z"
-  },
-  {
-    "id": "17c4524e951ae85a",
-    "title": "Trump downplays Russia, China support for Iran during talks with US troops",
-    "summary": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
-    "publishedAt": "2026-11-27T03:49:08.000Z"
-  },
-  {
-    "id": "fa68dcac011e7eba",
-    "title": "Asian stock markets rise after earlier tech rout",
-    "summary": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
-    "publishedAt": "2026-11-27T03:42:16.000Z"
-  },
-  {
-    "id": "fd3cb60b627f4b45",
-    "title": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
-    "summary": "As bushfires ravage Flinders Island, Victorians can expect a wet and windy election day as storms forecast on east coast.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
-    "publishedAt": "2026-11-27T03:14:10.000Z"
-  },
-  {
-    "id": "1cf14ec2e93b81ea",
-    "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
-    "summary": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
-    "publishedAt": "2026-11-27T02:14:25.000Z"
   }
 ]
