@@ -1,5 +1,23 @@
 [
   {
+    "id": "1bf661469423d4fe",
+    "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+    "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo",
+    "publishedAt": "2026-11-27T20:09:09.000Z"
+  },
+  {
+    "id": "746e9365346309be",
+    "title": "Graham Thorpe’s widow takes legal action against NHS trust after inquest",
+    "summary": "Former England Test cricketer was diagnosed with anxiety and depression before he took his own life in 2024.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/27/graham-thorpe-widow-legal-action-against-nhs-trust-after-inquest",
+    "publishedAt": "2026-11-27T19:52:30.000Z"
+  },
+  {
     "id": "df1a3446c689bb28",
     "title": "New satellite data shows how fast some African cities are sinking",
     "summary": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
@@ -1330,23 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts?traffic_source=rss",
     "publishedAt": "2026-11-27T05:57:37.000Z"
-  },
-  {
-    "id": "c30e72467c0aab5d",
-    "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
-    "summary": "Erin Patterson is serving life in prison for poisoning her relatives with a toxic mushroom lunch in 2023.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o",
-    "publishedAt": "2026-11-27T05:54:38.000Z"
-  },
-  {
-    "id": "a66cd13cf5eafbdd",
-    "title": "Venezuela to scrap law that bars opposition from public office",
-    "summary": "The legislation has been criticised for enabling political persecution since it was introduced two years ago.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo",
-    "publishedAt": "2026-11-27T05:35:10.000Z"
   }
 ]
