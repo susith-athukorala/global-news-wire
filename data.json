@@ -1,5 +1,59 @@
 [
   {
+    "id": "58f49e9a0ea587d3",
+    "title": "Argentina bars Central Bank from printing money to fund government spending",
+    "summary": "The South American country's Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+    "publishedAt": "2026-11-27T00:11:16.000Z"
+  },
+  {
+    "id": "8b830f37b04abf68",
+    "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+    "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo",
+    "publishedAt": "2026-11-27T00:02:19.000Z"
+  },
+  {
+    "id": "033ee748aec9fe8c",
+    "title": "Water firms to identify 250,000 vulnerable households in England eligible for discounts",
+    "summary": "Department for Work and Pensions to provide data about households missing out on WaterSure support scheme.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/27/water-firms-to-identify-250000-vulnerable-households-in-england-eligible-for-discounts",
+    "publishedAt": "2026-11-27T00:01:48.000Z"
+  },
+  {
+    "id": "9be1622edfc3a6ce",
+    "title": "Nearly half of ethnic minority people in UK have faced racism at work in last year, survey finds",
+    "summary": "Figures show impact on mental health, with majority having no confidence HR will take their concerns seriously.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/27/nearly-half-of-ethnic-minority-people-in-uk-have-faced-racism-at-work-in-last-year-survey-finds",
+    "publishedAt": "2026-11-27T00:01:47.000Z"
+  },
+  {
+    "id": "92bd584fd1f08f7a",
+    "title": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag",
+    "summary": "Match between Besiktas and Hapoel Beer-Sheva suspended for 30 minutes after confrontation between fans and police.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
+    "publishedAt": "2026-11-26T23:37:17.000Z"
+  },
+  {
+    "id": "4cbfeaa90bf58d8a",
+    "title": "UK to pay 'participation' fee to deliver EU deals",
+    "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego",
+    "publishedAt": "2026-11-26T23:17:12.000Z"
+  },
+  {
     "id": "080aefe5a3f9f4af",
     "title": "Asia made a big AI bet on Nvidia. What happens now?",
     "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
@@ -7,6 +61,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo",
     "publishedAt": "2026-11-26T23:08:12.000Z"
+  },
+  {
+    "id": "aa11c033bf20b2a7",
+    "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+    "summary": "The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+    "publishedAt": "2026-11-26T23:07:36.000Z"
   },
   {
     "id": "097b5ecca7df662b",
@@ -52,6 +115,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/argentina-bans-central-bank-printing-money-government-138472438",
     "publishedAt": "2026-11-26T22:53:24.000Z"
+  },
+  {
+    "id": "82289bc9c723768b",
+    "title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
+    "summary": "Canada’s top court weighs Bill 21, the Quebec law that shapes where Muslim women can work and where they feel welcome.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
+    "publishedAt": "2026-11-26T22:51:55.000Z"
   },
   {
     "id": "bda168cf233b296b",
@@ -684,6 +756,15 @@
     "publishedAt": "2026-11-26T14:33:00.000Z"
   },
   {
+    "id": "f342551cd92c6cf3",
+    "title": "Private dentists too expensive for millions, watchdog warns",
+    "summary": "The Competitions and Market Authority says reforms are needed to make sure people get a fair deal.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c98r7ydp7v0ko",
+    "publishedAt": "2026-11-26T14:19:32.000Z"
+  },
+  {
     "id": "6ebfaed19192151c",
     "title": "EU leaders seek to agree on a budget deal and a new loan for Ukraine",
     "summary": "European Union leaders are struggling to agree on a long-term budget and more money for Ukraine in the shape of a new $49 billion loan.",
@@ -1267,86 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
     "publishedAt": "2026-11-26T10:15:47.000Z"
-  },
-  {
-    "id": "e0b865fa26c8eba8",
-    "title": "Norse Atlantic Airways suspends all flights as it makes urgent funding plea",
-    "summary": "Norwegian airline says its finances are ‘critical’ and it will file for bankruptcy if it cannot secure short-term backing.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea",
-    "publishedAt": "2026-11-26T10:15:18.000Z"
-  },
-  {
-    "id": "582991476abc9748",
-    "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
-    "summary": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo",
-    "publishedAt": "2026-11-26T10:14:08.000Z"
-  },
-  {
-    "id": "aeadbb081ac99591",
-    "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
-    "summary": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
-    "publishedAt": "2026-11-26T10:10:03.000Z"
-  },
-  {
-    "id": "1e9fdcc28c489be1",
-    "title": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84",
-    "summary": "The British musician brought deft playing to prog masterpiece In the Court of the Crimson King, then worked as a session musician with the likes of Bryan Ferry.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84",
-    "publishedAt": "2026-11-26T10:02:17.000Z"
-  },
-  {
-    "id": "8c9e3c49e146b34e",
-    "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
-    "summary": "Russian forces launch ballistic missile attack on Ukrainian capital Kyiv, hitting a shopping centre and other buildings.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
-    "publishedAt": "2026-11-26T10:02:09.000Z"
-  },
-  {
-    "id": "95ba70ff21874fdf",
-    "title": "The dhow builders crafting giant historic ships in India – in pictures",
-    "summary": "It takes three years for shipbuilders in the 16th-century port of Mandvi to complete a commission, in a trade that is as cultural as it is technical.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/26/tradition-giant-ships-india-shipbuilders-mandvi",
-    "publishedAt": "2026-11-26T10:00:52.000Z"
-  },
-  {
-    "id": "140a281c412e2a05",
-    "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
-    "summary": "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh in.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
-    "publishedAt": "2026-11-26T10:00:52.000Z"
-  },
-  {
-    "id": "061fa5db564434f2",
-    "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
-    "summary": "Public Committee Against Torture in Israel examined 42 complaints against Shin Bet interrogators over past decade.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
-    "publishedAt": "2026-11-26T10:00:52.000Z"
-  },
-  {
-    "id": "4a218a47efce6d99",
-    "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
-    "summary": "Exclusive: Investigation finds at least 25 cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
-    "publishedAt": "2026-11-26T10:00:51.000Z"
   }
 ]
