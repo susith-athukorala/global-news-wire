@@ -1,5 +1,14 @@
 [
   {
+    "id": "1cf14ec2e93b81ea",
+    "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+    "summary": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+    "publishedAt": "2026-11-27T02:14:25.000Z"
+  },
+  {
     "id": "da27f7263691c42d",
     "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
     "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
@@ -585,6 +594,15 @@
     "publishedAt": "2026-11-26T17:05:02.000Z"
   },
   {
+    "id": "a1d4170df996e23f",
+    "title": "Trump urges Putin to end Ukraine 'bloodbath'",
+    "summary": "US President Donald Trump describes the war in Ukraine as a complete bloodbath and urges Vladimir Putin to help end the conflict sooner.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-27/trump-urges-putin-to-pull-back-military-aggression/107433138",
+    "publishedAt": "2026-11-26T17:03:08.000Z"
+  },
+  {
     "id": "6c6e2b62768821c7",
     "title": "UK bill to implement EU deal will allow ministers to enact closer ties in future",
     "summary": "Further deals can be enacted via same legislation, though it excludes rejoining single market, customs union or bloc as a whole.",
@@ -736,6 +754,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/26/man-drugged-wife-rape-strangers-stockport-guilt-shame",
     "publishedAt": "2026-11-26T15:22:11.000Z"
+  },
+  {
+    "id": "996a90f52c5d300e",
+    "title": "Two Italians killed in drone strike on Kuwait, Iran denies involvement",
+    "summary": "The attack was one of several reported across the region over 24 hours, including two targeting ships transiting through the Strait of Hormuz.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-27/italians-killed-in-kuwait-attack-iran/107432996",
+    "publishedAt": "2026-11-26T15:19:02.000Z"
   },
   {
     "id": "f4e3adc50a3d78c8",
@@ -1321,32 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss",
     "publishedAt": "2026-11-26T11:23:29.000Z"
-  },
-  {
-    "id": "df39911bb60106c9",
-    "title": "Highway explosion in Giza: How deadly are Egypt’s roads and railways?",
-    "summary": "Egypt has suffered another tragedy as a deadly road explosion kills 31 and injures dozens.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss",
-    "publishedAt": "2026-11-26T11:22:59.000Z"
-  },
-  {
-    "id": "7a8247f8440c87a7",
-    "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
-    "summary": "Black smoke could be seen across Bangkok's skyline after the blast, while officials urged residents to leave the area.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo",
-    "publishedAt": "2026-11-26T11:21:50.000Z"
-  },
-  {
-    "id": "009d0f3a340093cb",
-    "title": "Drivers over 70 face eye tests every three years under new plans",
-    "summary": "The changes could see drivers over 70 stripped of licences if they do not meet standards.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo",
-    "publishedAt": "2026-11-26T11:21:45.000Z"
   }
 ]
