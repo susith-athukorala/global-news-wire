@@ -1,5 +1,14 @@
 [
   {
+    "id": "0cb7c489176ae533",
+    "title": "Here are the main issues driving Spain's national election and why they matter for Europe",
+    "summary": "Spain is to elect a new government on Sunday in a snap election that could unseat Prime Minister Pedro S&aacute;nchez.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/main-issues-driving-spains-national-election-matter-europe-138476510",
+    "publishedAt": "2026-11-27T05:10:38.000Z"
+  },
+  {
     "id": "6fad8c983f1e51a6",
     "title": "Alan Jones defence opens and closes in space of a few hours as indecent assault trial draws to a close",
     "summary": "Former broadcaster, 85, has pleaded not guilty to 21 counts of sexual touching and indecent assault.",
@@ -522,6 +531,15 @@
     "publishedAt": "2026-11-26T19:03:47.000Z"
   },
   {
+    "id": "d9ba262507980baf",
+    "title": "A stroll to the Chinese embassy ended Australia's great anxiety in the Pacific",
+    "summary": "Having signed a treaty with Australia this week, Solomon Islands's controversial deal with China is officially over. But is this the end of the tug of war over the Pacific?",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-27/china-solomon-islands-security-pact-ends/107429200",
+    "publishedAt": "2026-11-26T18:56:00.000Z"
+  },
+  {
     "id": "b8af6f3188e632fa",
     "title": "Major East Midlands road projects shelved to divert funding to defence",
     "summary": "Regional mayor says cancelling works on A38 at Derby and Newark bypass on A46 ‘disappointing and short-sighted’",
@@ -990,6 +1008,15 @@
     "publishedAt": "2026-11-26T14:33:00.000Z"
   },
   {
+    "id": "c8cf0b07233b3108",
+    "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+    "summary": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo",
+    "publishedAt": "2026-11-26T14:28:22.000Z"
+  },
+  {
     "id": "f342551cd92c6cf3",
     "title": "Private dentists too expensive for millions, watchdog warns",
     "summary": "The Competitions and Market Authority says reforms are needed to make sure people get a fair deal.",
@@ -1321,32 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/26/ministry-of-defence-deal-babcock-maintain-submarines",
     "publishedAt": "2026-11-26T12:07:29.000Z"
-  },
-  {
-    "id": "34ecedf13eaf1daf",
-    "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
-    "summary": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan to fill funding black hole caused by Russia’s relentless attacks.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
-    "publishedAt": "2026-11-26T12:07:14.000Z"
-  },
-  {
-    "id": "c398cdb678a19f0f",
-    "title": "New boss appointed to lead Travelodge",
-    "summary": "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo",
-    "publishedAt": "2026-11-26T12:03:49.000Z"
-  },
-  {
-    "id": "e1ac73a69ed90a5c",
-    "title": "Dressmaker review – delightful business sim is a cut above",
-    "summary": "Catering to the exacting whims of a small town preparing for some grand visitors presents absorbing, beautifully designed – and surprisingly thrilling – challenges.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/26/dressmaker-review-delightful-business-sim-is-a-cut-above",
-    "publishedAt": "2026-11-26T12:00:34.000Z"
   }
 ]
