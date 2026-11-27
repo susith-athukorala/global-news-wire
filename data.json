@@ -1,5 +1,77 @@
 [
   {
+    "id": "dd9cc9909f74175b",
+    "title": "Belgian authorities order Google to halt datacentre construction over lack of permits",
+    "summary": "Greenpeace had published report showing tech firm was carrying on building despite ruling on its planning appeal still unresolved.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+    "publishedAt": "2026-11-27T17:03:09.000Z"
+  },
+  {
+    "id": "e5e6ff6ee2ee1246",
+    "title": "Jared Kushner’s 70-minute interview shows the peril of treating Putin like a corporate rival",
+    "summary": "Trump’s son-in-law and top negotiator paints Russian invasion of Ukraine as a misunderstanding to be resolved.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival",
+    "publishedAt": "2026-11-27T16:49:59.000Z"
+  },
+  {
+    "id": "a4f28ede952dc8c8",
+    "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
+    "summary": "Yashar party chief says Likud wants to drag Israel into another election under the outgoing government.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
+    "publishedAt": "2026-11-27T16:33:21.000Z"
+  },
+  {
+    "id": "6f3e25d5818e90ad",
+    "title": "Norse Atlantic files for bankruptcy, halts flights and ticket sales",
+    "summary": "Passengers advised to seek refunds via bankruptcy process, though guarantees are not assured, warns Norse Atlantic.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales?traffic_source=rss",
+    "publishedAt": "2026-11-27T16:31:20.000Z"
+  },
+  {
+    "id": "cc69c7b3fec16153",
+    "title": "Lula’s choice of Bradesco banker as Brazil’s finance minister lifts markets",
+    "summary": "Brazilian markets have rallied after President Luiz In&aacute;cio Lula da Silva confirmed that veteran banker Luiz Carlos Trabuco would lead his finance ministry in 2027, a move seen as a commitment to fiscal discipline.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/lulas-choice-bradesco-banker-brazils-finance-minister-lifts-138482032",
+    "publishedAt": "2026-11-27T16:18:32.000Z"
+  },
+  {
+    "id": "2ead764ea8814a94",
+    "title": "Canada’s Supreme Court largely upholds Quebec ban on religious symbols for public servants",
+    "summary": "Canada’s Supreme Court upheld most of a Quebec law banning public school teachers, police officers and other public employees in positions of authority from wearing religious symbols at work, affirming the province’s use of a constitutional power to ov.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/canadas-supreme-court-largely-upholds-quebec-ban-religious-138482310",
+    "publishedAt": "2026-11-27T16:18:25.000Z"
+  },
+  {
+    "id": "257fc92f92fb1a23",
+    "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+    "summary": "Closely watched decision exposes tensions between minority rights and the power of government to override those rights.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
+    "publishedAt": "2026-11-27T16:13:07.000Z"
+  },
+  {
+    "id": "54f6034c0262a2e3",
+    "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
+    "summary": "Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+    "publishedAt": "2026-11-27T16:13:07.000Z"
+  },
+  {
     "id": "1f64c712b7c0db63",
     "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
     "summary": "Paul Mackenzie is found guilty of killing followers, weeks after being jailed for the mass murder of children.",
@@ -999,6 +1071,15 @@
     "publishedAt": "2026-11-27T06:31:28.000Z"
   },
   {
+    "id": "7c1276f2b258cfe6",
+    "title": "Floating nature islands installed in parks as Glasgow Games legacy",
+    "summary": "The islands, being planted in five Glasgow parks, are designed to encourage wildlife and help clean the water.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo",
+    "publishedAt": "2026-11-27T06:19:13.000Z"
+  },
+  {
     "id": "251c853bebc81eff",
     "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
     "summary": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80.",
@@ -1042,6 +1123,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqzr56ny5rkpo",
     "publishedAt": "2026-11-27T06:07:11.000Z"
+  },
+  {
+    "id": "2bb6fb569f60960a",
+    "title": "'We feed and wash her': Severe ME leaves woman bedbound for five years",
+    "summary": "Shauna Chambers says her partner Row was “full of energy” but now cannot tolerate light or noise.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg2d9dxdjdo",
+    "publishedAt": "2026-11-27T06:06:31.000Z"
   },
   {
     "id": "c49b6779cb751643",
@@ -1258,95 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
     "publishedAt": "2026-11-27T02:14:25.000Z"
-  },
-  {
-    "id": "da27f7263691c42d",
-    "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-    "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c670278qk879o",
-    "publishedAt": "2026-11-27T01:45:30.000Z"
-  },
-  {
-    "id": "da0ee2bb9387cfb4",
-    "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
-    "summary": "Incumbent prime minister Christopher Luxon loses majority and needs support of Opportunity party to remain in power, or country faces another election.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
-    "publishedAt": "2026-11-27T01:41:50.000Z"
-  },
-  {
-    "id": "79bb921cb738f411",
-    "title": "Global news agency AFP reports cyberattack, shuts down content platform",
-    "summary": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
-    "publishedAt": "2026-11-27T01:07:44.000Z"
-  },
-  {
-    "id": "666f43bd74281a99",
-    "title": "Threat from China looms large over Taiwan’s local elections",
-    "summary": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
-    "publishedAt": "2026-11-27T01:00:49.000Z"
-  },
-  {
-    "id": "d2f7709b98ae966b",
-    "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
-    "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o",
-    "publishedAt": "2026-11-27T00:58:49.000Z"
-  },
-  {
-    "id": "36a20150712c1008",
-    "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
-    "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo",
-    "publishedAt": "2026-11-27T00:54:45.000Z"
-  },
-  {
-    "id": "62f9bd8e4ec56be3",
-    "title": "The young hikers finding friendship and fresh air offline",
-    "summary": "From hiking in the Peak District hills to the city parks of Leicester - we talk to several young people who've embraced walking groups and feel better for it.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o",
-    "publishedAt": "2026-11-27T00:52:34.000Z"
-  },
-  {
-    "id": "1492ded850278a58",
-    "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
-    "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o",
-    "publishedAt": "2026-11-27T00:48:11.000Z"
-  },
-  {
-    "id": "0465599bc4f2cbbf",
-    "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
-    "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cx30g71rev23o",
-    "publishedAt": "2026-11-27T00:47:43.000Z"
-  },
-  {
-    "id": "58f49e9a0ea587d3",
-    "title": "Argentina bars Central Bank from printing money to fund government spending",
-    "summary": "The South American country's Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
-    "publishedAt": "2026-11-27T00:11:16.000Z"
   }
 ]
