@@ -1,5 +1,95 @@
 [
   {
+    "id": "d76db20a5e11f66f",
+    "title": "England’s Overton takes 5-12 as Australia bowled out for record low in T20",
+    "summary": "Australia are bowled out for 108 as Jamie Overton claims career-best figures in England's seven-wicket win in Brisbane.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/27/englands-overton-takes-5-12-as-australia-bowled-out-for-record-low-in-t20?traffic_source=rss",
+    "publishedAt": "2026-11-27T13:06:54.000Z"
+  },
+  {
+    "id": "98b6f54a011c94e8",
+    "title": "Bigfoot enthusiasts hope government’s US sightings files are ‘just the beginning’ of proving the creature real",
+    "summary": "The Forest Service’s work will ‘help normalize’ talk happening ‘for decades’, says ‘wood ape’ conservancy director.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/bigfoot-enthusiasts-sightings",
+    "publishedAt": "2026-11-27T13:00:12.000Z"
+  },
+  {
+    "id": "dc923f17ac39ab36",
+    "title": "Trump Medicaid cuts will hit the most vulnerable Americans, officials say",
+    "summary": "In Kentucky, one of America’s unhealthiest states, denial of healthcare and potential closure of hospitals may affect 250,000 people.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/global/2026/nov/27/trump-medicaid-cuts-vulnerable-americans",
+    "publishedAt": "2026-11-27T13:00:11.000Z"
+  },
+  {
+    "id": "7291be389f075d16",
+    "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+    "summary": "US president's new tariff regime targets China hardest, just weeks before Trump and Xi meet again in Miami.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
+    "publishedAt": "2026-11-27T12:48:44.000Z"
+  },
+  {
+    "id": "15a397eed6b4a336",
+    "title": "Antisemitism adviser to launch inquiry into ‘hostile work environment’ at BBC",
+    "summary": "John Mann says he is conducting review after hearing ‘disturbing’ accounts of discrimination from Jewish staff.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/26/antisemitism-adviser-to-launch-inquiry-into-hostile-work-environment-at-bbc",
+    "publishedAt": "2026-11-27T12:39:10.000Z"
+  },
+  {
+    "id": "dcf9162e5162c383",
+    "title": "Meta whistleblower calls on Burnham to go further with ban on NDAs",
+    "summary": "Sarah Wynn-Williams says tech insiders with concerns about AI are being silenced in system reminiscent of George Orwell’s 1984.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
+    "publishedAt": "2026-11-27T12:30:08.000Z"
+  },
+  {
+    "id": "ab90b7aec958b941",
+    "title": "Small price tag, big upgrade: the best Black Friday deals under $50",
+    "summary": "We scoured hundreds of sales for the best deals below $50 on heated blankets, packing cubes, sleep masks and more.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/thefilter-us/2026/nov/27/best-black-friday-sales-deals-50",
+    "publishedAt": "2026-11-27T12:15:11.000Z"
+  },
+  {
+    "id": "a72598fabf480791",
+    "title": "European football violence causes concern with far-right claim in UEFA game",
+    "summary": "Claims of Nazi salutes at UEFA Europa League game in Marseille headline night of further violence in European football.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/sports/2026/11/27/european-football-violence-fuels-concern-as-marseille-far-right-claim-made?traffic_source=rss",
+    "publishedAt": "2026-11-27T12:12:56.000Z"
+  },
+  {
+    "id": "ac08bd57b60389ba",
+    "title": "Trump claims revised economic data shows pre-midterms figures were ‘fake’ | First Thing",
+    "summary": "President calls for investigation after GDP figures were adjusted upwards, despite revisions to official economic figures being commonplace. Plus, the weird and macabre world of Victorian Christmas cards.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/first-thing-trump-claims-revised-economic-data-shows-pre-midterms-figures-were-fake",
+    "publishedAt": "2026-11-27T12:12:14.000Z"
+  },
+  {
+    "id": "a1d836995afa111b",
+    "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
+    "summary": "Hostilities between Iran-backed Houthis and Saudi-backed coalition continue to push Yemen into a humanitarian crisis.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
+    "publishedAt": "2026-11-27T12:00:22.000Z"
+  },
+  {
     "id": "6ba8cf48dfe14e12",
     "title": "Zelenskyy urges the US to pressure Putin, calling Trump’s 'my friend' remark strange",
     "summary": "Ukrainian President Volodymyr Zelenskyy is expressing frustration with the U.S. approach to Russian leader Vladimir Putin.",
@@ -70,6 +160,15 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/warns-hunger-deepen-middle-east-war-fuel-costs-138477712",
     "publishedAt": "2026-11-27T11:24:09.000Z"
+  },
+  {
+    "id": "17f49f8ea40aabe4",
+    "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
+    "summary": "The pregnant student was murdered after leaving a hotel with a journalist she had contacted to discuss her affair with the governor.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo",
+    "publishedAt": "2026-11-27T11:22:02.000Z"
   },
   {
     "id": "6fb6bbb7b8e9a7ed",
@@ -702,6 +801,15 @@
     "publishedAt": "2026-11-27T05:27:18.000Z"
   },
   {
+    "id": "52588aea239ae6af",
+    "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+    "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
+    "publishedAt": "2026-11-27T05:15:26.000Z"
+  },
+  {
     "id": "0cb7c489176ae533",
     "title": "Here are the main issues driving Spain's national election and why they matter for Europe",
     "summary": "Spain is to elect a new government on Sunday in a snap election that could unseat Prime Minister Pedro S&aacute;nchez.",
@@ -1134,6 +1242,15 @@
     "publishedAt": "2026-11-26T20:34:34.000Z"
   },
   {
+    "id": "9fc728089f567d8a",
+    "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+    "summary": "Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza City.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+    "publishedAt": "2026-11-26T20:33:07.000Z"
+  },
+  {
     "id": "719787b0c6986f82",
     "title": "Mexico seeks US talks about suspected SpaceX debris",
     "summary": "Mexico concerned as SpaceX ramps up rocket launches from Starbase near border in Texas.",
@@ -1231,122 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/leaders-choose-spains-former-central-bank-head-european-138468703",
     "publishedAt": "2026-11-26T19:38:15.000Z"
-  },
-  {
-    "id": "da65d8ebd96673bc",
-    "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
-    "summary": "Israeli restrictions on humanitarian aid, damaged buildings and flooded tents leave displaced Palestinians vulnerable.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
-    "publishedAt": "2026-11-26T19:19:12.000Z"
-  },
-  {
-    "id": "ca0624af1de7f435",
-    "title": "US Senate ‘permitting bill’ threatens clean water protections to speed up energy projects",
-    "summary": "The Bipartisan American Affordability and Jobs Act passed the Senate and is now being debated in the House.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water",
-    "publishedAt": "2026-11-26T19:16:35.000Z"
-  },
-  {
-    "id": "df38ed683bc9daa3",
-    "title": "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
-    "summary": "After a Supreme Court ruling against it, the Trump administration had tried a narrower set of restrictions.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
-    "publishedAt": "2026-11-26T19:09:39.000Z"
-  },
-  {
-    "id": "a26ba0162cf4773a",
-    "title": "Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia",
-    "summary": "Persistent failures in psychiatric care have been exposed, including staff shortages, poor training and weak oversight.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/behind-the-doors-of-psychiatric-institutions-patient-care-turns-into-abuse?traffic_source=rss",
-    "publishedAt": "2026-11-26T19:07:44.000Z"
-  },
-  {
-    "id": "953dab5abe48008a",
-    "title": "Oxford museum displays seized belongings of Naga freedom fighter Gaidinliu for first time",
-    "summary": "Notebooks, clothes and ritual objects taken by British forces in the 1930s go on show at the Pitt Rivers Museum.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/culture/2026/nov/26/oxford-pitt-rivers-museum-naga-gaidinliu",
-    "publishedAt": "2026-11-26T19:03:47.000Z"
-  },
-  {
-    "id": "d9ba262507980baf",
-    "title": "A stroll to the Chinese embassy ended Australia's great anxiety in the Pacific",
-    "summary": "Having signed a treaty with Australia this week, Solomon Islands's controversial deal with China is officially over. But is this the end of the tug of war over the Pacific?",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-27/china-solomon-islands-security-pact-ends/107429200",
-    "publishedAt": "2026-11-26T18:56:00.000Z"
-  },
-  {
-    "id": "3dd7543973002210",
-    "title": "Doctors report missing out on paid parental leave and job offers while pregnant",
-    "summary": "Several doctors have told Four Corners they believe they have been penalised for having children while pursuing a career in medicine.",
-    "category": "Economy",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-27/doctors-allege-pregnancy-discrimination-in-medicine/107396068",
-    "publishedAt": "2026-11-26T18:55:01.000Z"
-  },
-  {
-    "id": "b8af6f3188e632fa",
-    "title": "Major East Midlands road projects shelved to divert funding to defence",
-    "summary": "Regional mayor says cancelling works on A38 at Derby and Newark bypass on A46 ‘disappointing and short-sighted’",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/26/major-east-midlands-road-projects-shelved-to-divert-funding-to-defence",
-    "publishedAt": "2026-11-26T18:47:24.000Z"
-  },
-  {
-    "id": "8e894356da0319bc",
-    "title": "Fifa confirms cyber-attack exposed ‘personal and business information’",
-    "summary": "Football’s governing body says hackers accessed a limited set of personal and business data.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information",
-    "publishedAt": "2026-11-26T18:45:44.000Z"
-  },
-  {
-    "id": "f0b4016d08c78df0",
-    "title": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
-    "summary": "Latest figure of young people not in education, employment or training remains close to highest level in a decade.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
-    "publishedAt": "2026-11-26T18:43:13.000Z"
-  },
-  {
-    "id": "d7835cf83da1f98e",
-    "title": "Schizophrenic man found guilty of attempted murders of 14 people, including 10 on London-bound train",
-    "summary": "A schizophrenic man has been found guilty of the attempted murders of 14 people over three separate incidents over a 24-hour period that culminated with the stabbing of 10 people on a high-speed London-bound train.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/schizophrenic-man-found-guilty-attempted-murders-14-people-138470756",
-    "publishedAt": "2026-11-26T18:32:49.000Z"
-  },
-  {
-    "id": "e246140fd761a97b",
-    "title": "Guinea-Bissau’s military junta postpones elections until 2028, extending its rule by two years",
-    "summary": "Guinea-Bissau’s military government has postponed presidential and legislative elections until November 2028, extending its promised yearlong transition to civilian rule by roughly two years.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/guinea-bissaus-military-junta-postpones-elections-2028-extending-138470757",
-    "publishedAt": "2026-11-26T18:32:43.000Z"
-  },
-  {
-    "id": "bd0aa0117ec4b75d",
-    "title": "Hospitals in England brace for flu spike with admissions highest since pre-Covid",
-    "summary": "NHS chief says hospital bosses should consider asking staff and visitors to wear masks as winter pressures build.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
-    "publishedAt": "2026-11-26T18:27:49.000Z"
   }
 ]
