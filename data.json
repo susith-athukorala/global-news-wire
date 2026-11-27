@@ -1,5 +1,41 @@
 [
   {
+    "id": "8526433dd3f9d8d2",
+    "title": "Meet the rising mayoral candidate in Taiwan who's also sanctioned by China",
+    "summary": "Puma Shen is gaining unexpected popularity as an opposition candidate in Taiwan's capital.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/meet-rising-mayoral-candidate-taiwan-sanctioned-china-138473812",
+    "publishedAt": "2026-11-27T04:07:06.000Z"
+  },
+  {
+    "id": "17c4524e951ae85a",
+    "title": "Trump downplays Russia, China support for Iran during talks with US troops",
+    "summary": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+    "publishedAt": "2026-11-27T03:49:08.000Z"
+  },
+  {
+    "id": "fa68dcac011e7eba",
+    "title": "Asian stock markets rise after earlier tech rout",
+    "summary": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
+    "publishedAt": "2026-11-27T03:42:16.000Z"
+  },
+  {
+    "id": "fd3cb60b627f4b45",
+    "title": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
+    "summary": "As bushfires ravage Flinders Island, Victorians can expect a wet and windy election day as storms forecast on east coast.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
+    "publishedAt": "2026-11-27T03:14:10.000Z"
+  },
+  {
     "id": "1cf14ec2e93b81ea",
     "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
     "summary": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.",
@@ -666,6 +702,15 @@
     "publishedAt": "2026-11-26T16:32:31.000Z"
   },
   {
+    "id": "7a8247f8440c87a7",
+    "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
+    "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo",
+    "publishedAt": "2026-11-26T16:21:19.000Z"
+  },
+  {
     "id": "96ef845be4b07adc",
     "title": "Spanish economist to become new European Central Bank chief",
     "summary": "French President Emmanuel Macron announces on X that EU leaders have agreed on the appointment of Pablo Hernandez de Cos.",
@@ -1303,50 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo",
     "publishedAt": "2026-11-26T11:43:38.000Z"
-  },
-  {
-    "id": "540bc9c39a84e7be",
-    "title": "LeBron James becomes oldest NBA player to post triple-double as 76ers win",
-    "summary": "James posted 25 points, 12 assists and 10 rebounds as Philadelphia snapped Miami's seven-game winning streak.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/26/lebron-james-nba-oldest-player-triple-double-philadelphia-76ers?traffic_source=rss",
-    "publishedAt": "2026-11-26T11:38:20.000Z"
-  },
-  {
-    "id": "52b7a9a7304a9ffa",
-    "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
-    "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do",
-    "publishedAt": "2026-11-26T11:27:42.000Z"
-  },
-  {
-    "id": "5f66c2a33ccbf025",
-    "title": "Long waits 'a tragedy' as thousands seek ADHD and autism assessments",
-    "summary": "A GP warns that long waits for ADHD and autism assessments mean those most in need are not being seen.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo",
-    "publishedAt": "2026-11-26T11:23:54.000Z"
-  },
-  {
-    "id": "14b311d8c98d5d2c",
-    "title": "Employers: do you have concerns about the rollout of Muse and other AI agents?",
-    "summary": "Are you worried about staff connecting their digital assistants to work emails and databases? What steps are you taking to address this?",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/nov/26/employers-do-you-have-concerns-about-the-rollout-of-muse-and-other-ai-agents",
-    "publishedAt": "2026-11-26T11:23:41.000Z"
-  },
-  {
-    "id": "74aabae28552c9cc",
-    "title": "Iraq denies reports of troop movements towards Kurdish region",
-    "summary": "Government says there is 'no truth' to media reports that Iraqi army units were moving towards the Kurdistan region.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss",
-    "publishedAt": "2026-11-26T11:23:29.000Z"
   }
 ]
