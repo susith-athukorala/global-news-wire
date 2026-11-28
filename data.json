@@ -1,5 +1,41 @@
 [
   {
+    "id": "1de2748fdb3c308c",
+    "title": "Parts of US clean up after Thanksgiving storm lashes East Coast",
+    "summary": "Power is being slowly restored to hundreds of thousands of customers following a round of heavy wind, rain and snow.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
+    "publishedAt": "2026-11-28T03:00:00.000Z"
+  },
+  {
+    "id": "130c2e6e9b57e314",
+    "title": "Australia’s east coast deluged by storms as roads flood and damaging winds forecast for NSW and Victoria",
+    "summary": "Severe weather and flood watch warnings are in place as a storm band moves from central Queensland through NSW to Victoria and Tasmania.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/28/australias-east-coast-deluged-by-storms-as-roads-flood-and-damaging-winds-forecast-for-nsw-and-victoria",
+    "publishedAt": "2026-11-28T02:39:28.000Z"
+  },
+  {
+    "id": "9d4f78e6e2200f13",
+    "title": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
+    "summary": "The case of a missing activist raises fears for the safety of Tanzanian dissidents.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
+    "publishedAt": "2026-11-28T02:08:11.000Z"
+  },
+  {
+    "id": "8feb438bba16a140",
+    "title": "Taiwan votes in local elections to choose mayors, other leaders",
+    "summary": "Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+    "publishedAt": "2026-11-28T02:05:27.000Z"
+  },
+  {
     "id": "50f0be167f44a967",
     "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
     "summary": "With an official PC version potentially still months away, fans are getting impatient.",
@@ -1161,6 +1197,15 @@
     "publishedAt": "2026-11-27T10:10:36.000Z"
   },
   {
+    "id": "ce395d6dd1546ee2",
+    "title": "Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief",
+    "summary": "Big lenders will aim to ‘protect their earnings’ from temporary increase in corporation tax surcharge, says Andrew Bailey.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
+    "publishedAt": "2026-11-27T10:10:29.000Z"
+  },
+  {
     "id": "d70d7adebc0b3cff",
     "title": "India busts cyberfraud and trafficking network rescuing 164 foreigners",
     "summary": "Lured by IT job promises, the victims were allegedly forced into cybercrime, police say.",
@@ -1303,50 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
     "publishedAt": "2026-11-27T08:39:59.000Z"
-  },
-  {
-    "id": "f48d0ef816067cd5",
-    "title": "Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’",
-    "summary": "Authorities said the UN special rapporteur was blocked from entering the country due to 'national security' risks.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss",
-    "publishedAt": "2026-11-27T08:39:50.000Z"
-  },
-  {
-    "id": "e6f8f58e5c19419b",
-    "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
-    "summary": "One in eight children is stunted. Many have bones that have not matured the way they should.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
-    "publishedAt": "2026-11-27T08:37:52.000Z"
-  },
-  {
-    "id": "3075db6e798bff16",
-    "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
-    "summary": "German chancellor is on difficult terrain, at home and abroad, as he fights to maintain European backing for Kyiv.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering",
-    "publishedAt": "2026-11-27T08:33:08.000Z"
-  },
-  {
-    "id": "4718d3e01deca81a",
-    "title": "Millions of wives in South Asia unprotected from marital rape - study",
-    "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw074p95ye5do",
-    "publishedAt": "2026-11-27T08:13:43.000Z"
-  },
-  {
-    "id": "050b0f2a22997b54",
-    "title": "Heavy rain, wind and flooding hit much of US on Thanksgiving",
-    "summary": "Homes left without power and holiday travel disrupted as storms pound east coast and other parts of the US.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
-    "publishedAt": "2026-11-27T08:10:27.000Z"
   }
 ]
