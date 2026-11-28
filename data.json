@@ -1,5 +1,14 @@
 [
   {
+    "id": "d5c7b4da815605e6",
+    "title": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
+    "summary": "MSF says Israeli attack on Gaza clinic a 'direct hit' and calls for those responsible to be held accountable.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+    "publishedAt": "2026-11-28T03:45:58.000Z"
+  },
+  {
     "id": "1de2748fdb3c308c",
     "title": "Parts of US clean up after Thanksgiving storm lashes East Coast",
     "summary": "Power is being slowly restored to hundreds of thousands of customers following a round of heavy wind, rain and snow.",
@@ -196,6 +205,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
     "publishedAt": "2026-11-27T22:22:02.000Z"
+  },
+  {
+    "id": "050b0f2a22997b54",
+    "title": "Thousands still without power after storms that snarled Thanksgiving travel",
+    "summary": "Heavy rains and high winds downed trees and power lines and led to water rescues from New York to Virginia.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
+    "publishedAt": "2026-11-27T22:14:56.000Z"
   },
   {
     "id": "38f6415aa1a89bab",
@@ -1330,23 +1348,5 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss",
     "publishedAt": "2026-11-27T08:57:37.000Z"
-  },
-  {
-    "id": "4c3f9c9c105fe0aa",
-    "title": "Sony's 1999 robot dog toys rehomed in Japan hospitals to offer companionship",
-    "summary": "Packed with sensors and digital cameras, this digital puppy has been programmed to remember its name, the owner's face and its surroundings.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-27/sony-s-dog-robot-aibo-gets-rehomed-to-hospitals/107436690",
-    "publishedAt": "2026-11-27T08:50:10.000Z"
-  },
-  {
-    "id": "5cfd9d09f87a1b32",
-    "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
-    "summary": "Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
-    "publishedAt": "2026-11-27T08:39:59.000Z"
   }
 ]
