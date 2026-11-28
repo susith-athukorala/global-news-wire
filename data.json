@@ -1,5 +1,23 @@
 [
   {
+    "id": "a627895ea92810e4",
+    "title": "Unpaid TV licence or cycling on pavement could bar people from settling in UK",
+    "summary": "Exclusive: New immigration rules will introduce strict threshold where any adult conviction triggers mandatory refusal.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/28/new-immigration-rules-uk-unpaid-tv-licence-cycling-pavement-adult-convictions",
+    "publishedAt": "2026-11-28T08:00:34.000Z"
+  },
+  {
+    "id": "6c82d0907cc3a1c4",
+    "title": "‘I told it to never call me again’: AI bots wreak havoc with UK restaurant bookings",
+    "summary": "Meta claims its Muse assistant will make users’ lives easier, but business owners say AI is driving them to go analogue.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse",
+    "publishedAt": "2026-11-28T08:00:34.000Z"
+  },
+  {
     "id": "1018590a0f0ad557",
     "title": "Pensions and benefits services still down after 'cyber incident'",
     "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
@@ -16,6 +34,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cv0l36eeky32o",
     "publishedAt": "2026-11-28T07:44:51.000Z"
+  },
+  {
+    "id": "086d0c6a6d6de56a",
+    "title": "Students killed or injured in school explosion in Afghanistan’s Kunar",
+    "summary": "There was no immediate information on what caused the explosion.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
+    "publishedAt": "2026-11-28T07:42:09.000Z"
   },
   {
     "id": "861b760342f7ea1b",
@@ -225,6 +252,15 @@
     "publishedAt": "2026-11-28T02:05:27.000Z"
   },
   {
+    "id": "522fd4fc26554e58",
+    "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+    "summary": "Pennsylvania and neighbouring states remained badly affected on Friday after both coasts were lashed with wind and rain.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo",
+    "publishedAt": "2026-11-28T01:55:33.000Z"
+  },
+  {
     "id": "50f0be167f44a967",
     "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
     "summary": "With an official PC version potentially still months away, fans are getting impatient.",
@@ -367,6 +403,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/27/charity-set-up-by-captain-tom-moores-family-applies-to-be-struck-off",
     "publishedAt": "2026-11-27T23:02:04.000Z"
+  },
+  {
+    "id": "99b4359d2ec67ccd",
+    "title": "Sudan's lost generation: War is stealing the childhood of millions",
+    "summary": "Three years of war have stolen childhood from millions of children in Sudan, leaving them displaced, hungry and fighting for survival instead of learning in a classroom.",
+    "category": "World",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
+    "publishedAt": "2026-11-27T22:54:53.000Z"
   },
   {
     "id": "700060f62ce75b38",
@@ -1116,6 +1161,15 @@
     "publishedAt": "2026-11-27T12:30:08.000Z"
   },
   {
+    "id": "c877411ed27526d9",
+    "title": "Labour backs bill to stop lawsuits used to silence journalists and whistleblowers",
+    "summary": "Anti-Slapps campaigners criticise draft bill, saying process of dismissing claims will be challenging and costly.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/media/2026/nov/27/labour-backs-bill-lawsuits-journalists-whistleblowers-slapps",
+    "publishedAt": "2026-11-27T12:15:44.000Z"
+  },
+  {
     "id": "ab90b7aec958b941",
     "title": "Small price tag, big upgrade: the best Black Friday deals under $50",
     "summary": "We scoured hundreds of sales for the best deals below $50 on heated blankets, packing cubes, sleep masks and more.",
@@ -1294,59 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/27/king-tides-us-coasts-storms-threaten-thanksgiving-celebrations",
     "publishedAt": "2026-11-27T10:50:48.000Z"
-  },
-  {
-    "id": "82175c9f69e3ecc6",
-    "title": "Man United vs Brentford: Premier League – Pochettino, predictions, lineups",
-    "summary": "Relegation-threatened Manchester United host Brentford in new manager Mauricio Pochettino's first home game in charge.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/27/manchester-united-brentford-pochettino-first-home-game-premier-league-football?traffic_source=rss",
-    "publishedAt": "2026-11-27T10:48:54.000Z"
-  },
-  {
-    "id": "d1c4fb1f29a3fdf6",
-    "title": "Israeli justice system at tipping point as judges call for end to Netanyahu trial",
-    "summary": "Dropping of corruption charges against PM after highly unusual intervention could set damaging precedent.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/27/israeli-justice-system-judges-call-drop-netanyahu-charges",
-    "publishedAt": "2026-11-27T10:48:29.000Z"
-  },
-  {
-    "id": "35d734d346a7a2ae",
-    "title": "For whom the bells troll: French town divided over church’s night-time chimes",
-    "summary": "Long-time residents of La Garnache defeat newer neighbours in latest rural culture clash over ‘sensory heritage’",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/nov/27/for-whom-the-bells-troll-french-town-divided-over-churchs-night-time-chimes",
-    "publishedAt": "2026-11-27T10:46:57.000Z"
-  },
-  {
-    "id": "9120d65b28a9dc18",
-    "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
-    "summary": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo",
-    "publishedAt": "2026-11-27T10:39:31.000Z"
-  },
-  {
-    "id": "4dc1a8ffe2d44ac6",
-    "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
-    "summary": "Sanctions aim to restrict funds for two men alleged to have planned attacks for IRGC.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
-    "publishedAt": "2026-11-27T10:31:20.000Z"
-  },
-  {
-    "id": "5995c97398e1b30b",
-    "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-    "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o",
-    "publishedAt": "2026-11-27T10:28:35.000Z"
   }
 ]
