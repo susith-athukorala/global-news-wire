@@ -1,5 +1,59 @@
 [
   {
+    "id": "1cd49b99b243d440",
+    "title": "Spain to vote in election that could put far right in power for first time since Franco",
+    "summary": "Socialist PM Pedro Sánchez’s high-stakes gamble could end in defeat to a coalition including the far-right Vox.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/28/spain-vote-election-could-far-right-power-first-time-franco",
+    "publishedAt": "2026-11-28T11:00:39.000Z"
+  },
+  {
+    "id": "2fa7919f9904adc6",
+    "title": "DWP cyber incident ‘probably an attack’, says former UK chief technology officer",
+    "summary": "Government took down pensions and benefits portal on Thursday but said regular payments will not be affected.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
+    "publishedAt": "2026-11-28T10:52:00.000Z"
+  },
+  {
+    "id": "75e59e8b6cc5c543",
+    "title": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
+    "summary": "Socialist PM Sanchez seeks re-election but polls suggest conservative PP and far-right Vox could reach majority.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
+    "publishedAt": "2026-11-28T10:36:41.000Z"
+  },
+  {
+    "id": "5f10fc1549e2cb53",
+    "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+    "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o",
+    "publishedAt": "2026-11-28T10:34:58.000Z"
+  },
+  {
+    "id": "38c5caeac83afaa0",
+    "title": "Why is Trump backing Iraq’s anti-smuggling campaign?",
+    "summary": "Baghdad's push to seize control of smuggling routes, border crossings and oilfields has Washington's support.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/28/why-is-trump-backing-iraqs-anti-smuggling-campaign?traffic_source=rss",
+    "publishedAt": "2026-11-28T10:32:42.000Z"
+  },
+  {
+    "id": "0221fd10982b9bcc",
+    "title": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
+    "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o",
+    "publishedAt": "2026-11-28T10:14:37.000Z"
+  },
+  {
     "id": "0dc233c94fe7fab1",
     "title": "Woman ‘traumatised’ by Sainsbury’s shoplifting ban after staff facial recognition error",
     "summary": "Monia Indge, 58, who has terminal cancer, escorted from supermarket after staff using FaceWatch technology misidentified her.",
@@ -160,6 +214,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cqe9k3m9mvexo",
     "publishedAt": "2026-11-28T07:18:47.000Z"
+  },
+  {
+    "id": "0e5068ed1bcffabf",
+    "title": "Village plea for replacement Royal Mail postbox hits the rocks (literally)",
+    "summary": "Residents woke up to find their vital box missing, but despite 11 months of lobbying the company now says it cannot replace it.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/28/mystery-of-the-missing-mailbox-oyal-mail-postbox-falls-on-stony-ground",
+    "publishedAt": "2026-11-28T07:00:35.000Z"
   },
   {
     "id": "7c5229729abc2fb9",
@@ -954,6 +1017,15 @@
     "publishedAt": "2026-11-27T15:25:03.000Z"
   },
   {
+    "id": "8ce44785e0dbbb4b",
+    "title": "Armed group kills 13 soldiers in western Niger attack, defense ministry says",
+    "summary": "Armed men killed 13 members of Niger’s National Guard and wounded 20 others in an attack on an outpost in western Niger, the country’s defense ministry said.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/armed-group-kills-13-soldiers-western-niger-attack-138477943",
+    "publishedAt": "2026-11-27T15:22:46.000Z"
+  },
+  {
     "id": "140e6ef0d1f9c2f7",
     "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
     "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
@@ -979,6 +1051,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo",
     "publishedAt": "2026-11-27T15:15:19.000Z"
+  },
+  {
+    "id": "7a830a1fea96fa13",
+    "title": "Houthis report 11 killed, including children, in an airstrike, and other Mideast news",
+    "summary": "Houthi rebels say an airstrike in southwestern Yemen has killed at least 11 people, including children.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/houthis-report-11-killed-including-children-airstrike-mideast-138478032",
+    "publishedAt": "2026-11-27T15:14:20.000Z"
   },
   {
     "id": "1b72fc630f025fe3",
@@ -1188,6 +1269,15 @@
     "publishedAt": "2026-11-27T13:28:55.000Z"
   },
   {
+    "id": "c59a5b232017f58a",
+    "title": "UN warns hunger will deepen in the Middle East",
+    "summary": "The United Nations warns that hunger is expected to worsen in 16 countries over the next six months, with Sudan and Yemen facing the gravest risks.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/warns-hunger-deepen-middle-east-war-fuel-costs-138477712",
+    "publishedAt": "2026-11-27T13:22:28.000Z"
+  },
+  {
     "id": "b176ea1cd4471584",
     "title": "A Ukraine loan is in limbo after EU budget talks stall. Leaders will try again in 3 weeks",
     "summary": "European Council President Ant&oacute;nio Costa says European Union leaders have failed to agree on the 2028-2034 budget.",
@@ -1258,95 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
     "publishedAt": "2026-11-27T12:30:08.000Z"
-  },
-  {
-    "id": "c877411ed27526d9",
-    "title": "Labour backs bill to stop lawsuits used to silence journalists and whistleblowers",
-    "summary": "Anti-Slapps campaigners criticise draft bill, saying process of dismissing claims will be challenging and costly.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/27/labour-backs-bill-lawsuits-journalists-whistleblowers-slapps",
-    "publishedAt": "2026-11-27T12:15:44.000Z"
-  },
-  {
-    "id": "ab90b7aec958b941",
-    "title": "Small price tag, big upgrade: the best Black Friday deals under $50",
-    "summary": "We scoured hundreds of sales for the best deals below $50 on heated blankets, packing cubes, sleep masks and more.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/thefilter-us/2026/nov/27/best-black-friday-sales-deals-50",
-    "publishedAt": "2026-11-27T12:15:11.000Z"
-  },
-  {
-    "id": "a72598fabf480791",
-    "title": "European football violence causes concern with far-right claim in UEFA game",
-    "summary": "Claims of Nazi salutes at UEFA Europa League game in Marseille headline night of further violence in European football.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/27/european-football-violence-fuels-concern-as-marseille-far-right-claim-made?traffic_source=rss",
-    "publishedAt": "2026-11-27T12:12:56.000Z"
-  },
-  {
-    "id": "ac08bd57b60389ba",
-    "title": "Trump claims revised economic data shows pre-midterms figures were ‘fake’ | First Thing",
-    "summary": "President calls for investigation after GDP figures were adjusted upwards, despite revisions to official economic figures being commonplace. Plus, the weird and macabre world of Victorian Christmas cards.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/27/first-thing-trump-claims-revised-economic-data-shows-pre-midterms-figures-were-fake",
-    "publishedAt": "2026-11-27T12:12:14.000Z"
-  },
-  {
-    "id": "a1d836995afa111b",
-    "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
-    "summary": "Hostilities between Iran-backed Houthis and Saudi-backed coalition continue to push Yemen into a humanitarian crisis.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
-    "publishedAt": "2026-11-27T12:00:22.000Z"
-  },
-  {
-    "id": "6ba8cf48dfe14e12",
-    "title": "Zelenskyy urges the US to pressure Putin, calling Trump’s 'my friend' remark strange",
-    "summary": "Ukrainian President Volodymyr Zelenskyy is expressing frustration with the U.S. approach to Russian leader Vladimir Putin.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/zelenskyy-urges-us-pressure-putin-calling-trumps-friend-138478386",
-    "publishedAt": "2026-11-27T11:55:58.000Z"
-  },
-  {
-    "id": "ae655af5ec453dae",
-    "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
-    "summary": "Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
-    "publishedAt": "2026-11-27T11:51:26.000Z"
-  },
-  {
-    "id": "7207ea4971845376",
-    "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
-    "summary": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
-    "publishedAt": "2026-11-27T11:49:50.000Z"
-  },
-  {
-    "id": "f960c2889409e4af",
-    "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
-    "summary": "Growing attacks have damaged European infrastructure, but have not reduced support for Ukraine, analysis says.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
-    "publishedAt": "2026-11-27T11:44:46.000Z"
-  },
-  {
-    "id": "4eb58e3792453db7",
-    "title": "Zelenskyy says Trump's relationship with Putin like being friends with Hitler",
-    "summary": "Kyiv is becoming increasingly frustrated by US President Donald Trump's relationship with Vladimir Putin as it urges allies to stand up to the Russian president.",
-    "category": "World",
-    "source": "ABC Australia",
-    "link": "https://www.abc.net.au/news/2026-11-27/zelenskyy-says-trump-putin-relationship-like-being-friend-hitler/107437062",
-    "publishedAt": "2026-11-27T11:41:15.000Z"
   }
 ]
