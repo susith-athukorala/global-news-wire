@@ -1,5 +1,32 @@
 [
   {
+    "id": "bf0cb3cb090208bd",
+    "title": "Palestinian tells of ‘devastating’ struggle after being made redundant by EU in Gaza",
+    "summary": "Mohammad Baraka unable to access redundancy pay for almost 20 years’ service as family’s situation becomes ‘increasingly desperate’",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/28/mohammad-baraka-palestinian-eu-gaza-redundancy-pay-access",
+    "publishedAt": "2026-11-28T06:00:34.000Z"
+  },
+  {
+    "id": "a2c486eab1a147ed",
+    "title": "Stunted sprouts: heatwaves and drought take toll on festive vegetable",
+    "summary": "The Christmas staple is smaller this year after a hot, dry summer hit the water-loving – but versatile – brassica.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/28/sprouts-smaller-than-usual-heatwaves-drought-festive-vegetable",
+    "publishedAt": "2026-11-28T06:00:34.000Z"
+  },
+  {
+    "id": "79f7f74d5878b43f",
+    "title": "Pharmacies get new powers to swap prescriptions during shortages",
+    "summary": "If a medicine is out of stock, staff can offer the same drug in a different strength or form, like a capsule instead of a pill.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro",
+    "publishedAt": "2026-11-28T06:00:11.000Z"
+  },
+  {
     "id": "a5ee494f9f7e26e8",
     "title": "La succession: France’s wealthiest family said to be battling over who will take over LVMH",
     "summary": "Bernard Arnault’s children – described as ‘modern-day French royals’ – are subject of rivalry rumours over who will succeed him.",
@@ -225,6 +252,15 @@
     "publishedAt": "2026-11-27T23:27:24.000Z"
   },
   {
+    "id": "131588da26ae50ca",
+    "title": "Police link substance release to robbery attempts at concert",
+    "summary": "One person has been taken to hospital and 89 have required checks for eye and respiratory irritation after the crowd at a Don Toliver concert was evacuated in Manchester.",
+    "category": "World",
+    "source": "ABC Australia",
+    "link": "https://www.abc.net.au/news/2026-11-28/don-toliver-manchester-concert-substance-robbery-attempt-police/107437726",
+    "publishedAt": "2026-11-27T23:10:41.000Z"
+  },
+  {
     "id": "d0f1193933c88892",
     "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
     "summary": "Voters will decide on Saturday whether to scrap the country's 'nuclear-free homeland' policy.",
@@ -439,6 +475,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/27/police-believe-criminals-carried-out-robberies-during-don-toliver-manchester-gig-unknown-substance",
     "publishedAt": "2026-11-27T18:35:45.000Z"
+  },
+  {
+    "id": "bda168cf233b296b",
+    "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+    "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
+    "publishedAt": "2026-11-27T18:00:40.000Z"
   },
   {
     "id": "145e9c36a46af2ef",
@@ -1303,50 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo",
     "publishedAt": "2026-11-27T10:01:07.000Z"
-  },
-  {
-    "id": "21800f865bba1aea",
-    "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
-    "summary": "Labor leaders and advocates urge protections for workers and consumers as AI use becomes more commonplace.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
-    "publishedAt": "2026-11-27T10:00:02.000Z"
-  },
-  {
-    "id": "19a69e3caaa5d3ca",
-    "title": "Screen free tweens try their hand at Dungeons & Dragons",
-    "summary": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
-    "category": "Technology",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
-    "publishedAt": "2026-11-27T10:00:00.000Z"
-  },
-  {
-    "id": "b4489b3ebb719177",
-    "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
-    "summary": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o",
-    "publishedAt": "2026-11-27T09:57:37.000Z"
-  },
-  {
-    "id": "dec6987784f252fd",
-    "title": "Pizza history: AI agent’s cardless purchase is a first for UK",
-    "summary": "Papa John’s order was made without sharing bank security details – tech that could revolutionise shopping.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-    "publishedAt": "2026-11-27T09:53:11.000Z"
-  },
-  {
-    "id": "55988b2f5deec506",
-    "title": "As UN Secretary General's last day approaches, search for his replacement continues",
-    "summary": "The UN Secretary General's term ends this year, but the big powers at the UN have been unable to agree on a replacement. UN watchers worry that there will be little time to get up to speed.",
-    "category": "World",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/27/nx-s1-6050907/as-un-secretary-generals-last-day-approaches-search-for-his-replacement-continues",
-    "publishedAt": "2026-11-27T09:46:13.000Z"
   }
 ]
