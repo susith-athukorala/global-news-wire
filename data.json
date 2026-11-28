@@ -1,5 +1,77 @@
 [
   {
+    "id": "a5ee494f9f7e26e8",
+    "title": "La succession: France’s wealthiest family said to be battling over who will take over LVMH",
+    "summary": "Bernard Arnault’s children – described as ‘modern-day French royals’ – are subject of rivalry rumours over who will succeed him.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh",
+    "publishedAt": "2026-11-28T05:00:30.000Z"
+  },
+  {
+    "id": "7c76f90164149c08",
+    "title": "Yuri and I used to play football together. Then I spotted his name among Russia’s war dead",
+    "summary": "I had no idea he had gone to fight in Ukraine and without hacked data I would probably never have learned of his death.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine",
+    "publishedAt": "2026-11-28T05:00:30.000Z"
+  },
+  {
+    "id": "1b1ad1135220e483",
+    "title": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn",
+    "summary": "Exclusive: AI may have cracked decades-old maths problems that underpin encryption at banks and government agencies.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+    "publishedAt": "2026-11-28T05:00:30.000Z"
+  },
+  {
+    "id": "0a8f2c04d5ba5b92",
+    "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
+    "summary": "Heavy rains affect 2,000 families in Peru's Piura and 47,000 people in Ecuador, where 34 deaths have been reported.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss",
+    "publishedAt": "2026-11-28T04:57:32.000Z"
+  },
+  {
+    "id": "bc918bb3bee62445",
+    "title": "UN chief frontrunner urged to speak out over Albanese detention",
+    "summary": "Albanese's detention poses a test for Costa Rica's candidate, Rebeca Grynspan, who has led the UN's recent straw poll.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/28/un-chief-frontrunner-urged-to-speak-out-over-albanese-detention-2?traffic_source=rss",
+    "publishedAt": "2026-11-28T04:46:16.000Z"
+  },
+  {
+    "id": "d4f62329faa88066",
+    "title": "‘Last local militant’: India declares victory but Kashmir’s rebels adapt",
+    "summary": "Analysts say that shifting tactics, names and geography challenge claims of win against Kashmir's separatist movement.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/28/last-local-militant-india-declares-victory-but-kashmirs-rebels-adapt?traffic_source=rss",
+    "publishedAt": "2026-11-28T04:30:16.000Z"
+  },
+  {
+    "id": "0dde8848a11c0779",
+    "title": "Eight killed in Peruvian military helicopter crash",
+    "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o",
+    "publishedAt": "2026-11-28T04:19:16.000Z"
+  },
+  {
+    "id": "0f7d735aab4044cf",
+    "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+    "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo",
+    "publishedAt": "2026-11-28T04:13:45.000Z"
+  },
+  {
     "id": "d5c7b4da815605e6",
     "title": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
     "summary": "MSF says Israeli attack on Gaza clinic a 'direct hit' and calls for those responsible to be held accountable.",
@@ -1276,77 +1348,5 @@
     "source": "NPR",
     "link": "https://www.npr.org/2026/11/27/nx-s1-6050907/as-un-secretary-generals-last-day-approaches-search-for-his-replacement-continues",
     "publishedAt": "2026-11-27T09:46:13.000Z"
-  },
-  {
-    "id": "5386d6b8ccd71fd8",
-    "title": "California voters pass billionaire's measure to bankroll his own medical lab",
-    "summary": "California voters passed a ballot measure backed by a billionaire to fund $8.4 billion in immunology research. Half the funding will go to the research group funded by the same billionaire.",
-    "category": "Science",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/27/nx-s1-6052399/california-voters-pass-billionaires-measure-to-bankroll-his-own-medical-lab",
-    "publishedAt": "2026-11-27T09:45:53.000Z"
-  },
-  {
-    "id": "9ffd3c982c9bbeff",
-    "title": "Is it a cold, flu or Covid? How to tell the difference",
-    "summary": "How to tell if you have cold, flu or Covid and how to look after yourself.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cly1rryv2ryo",
-    "publishedAt": "2026-11-27T09:43:38.000Z"
-  },
-  {
-    "id": "5495dc7c761fcd37",
-    "title": "Democrats want to end Trump’s Iran war. But how different are they?",
-    "summary": "Decades of bipartisan pressure on Tehran raises questions about how far Democrats are willing to change US policy.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
-    "publishedAt": "2026-11-27T09:43:01.000Z"
-  },
-  {
-    "id": "bda168cf233b296b",
-    "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-    "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
-    "publishedAt": "2026-11-27T09:07:48.000Z"
-  },
-  {
-    "id": "be09a372c110354b",
-    "title": "Pakistan set to host talks with Saudi Arabia and Turkey under trilateral defense pact",
-    "summary": "Officials say Pakistan is set to host talks with Saudi Arabia and Turkey under a trilateral defense pact that treats an attack on any member as an attack on all three.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/pakistan-set-host-talks-saudi-arabia-turkey-trilateral-138477505",
-    "publishedAt": "2026-11-27T09:06:58.000Z"
-  },
-  {
-    "id": "53b1d6252503dde7",
-    "title": "South Korea sends rescued fishermen back to North",
-    "summary": "Pyongyang has not commented on a seventh fisherman who chose to remain in the South.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss",
-    "publishedAt": "2026-11-27T09:02:20.000Z"
-  },
-  {
-    "id": "d6b109fd04ca95b6",
-    "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
-    "summary": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o",
-    "publishedAt": "2026-11-27T08:58:08.000Z"
-  },
-  {
-    "id": "0d3aa66da5117d98",
-    "title": "India upbeat about first Olympics after ‘very good’ 2036 presentation",
-    "summary": "India makes Ahmedabad pitch for 2036 Games as it bids to host first Olympics, but Qatar and South Africa strong rivals.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss",
-    "publishedAt": "2026-11-27T08:57:37.000Z"
   }
 ]
