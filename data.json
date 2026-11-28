@@ -1,5 +1,23 @@
 [
   {
+    "id": "50f0be167f44a967",
+    "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+    "summary": "With an official PC version potentially still months away, fans are getting impatient.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo",
+    "publishedAt": "2026-11-28T01:30:50.000Z"
+  },
+  {
+    "id": "7516c79466209833",
+    "title": "Nigeria's 'ultimate hard man' who become an online meme",
+    "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o",
+    "publishedAt": "2026-11-28T01:20:35.000Z"
+  },
+  {
     "id": "6747f78ba6f96028",
     "title": "Should I get a flu vaccine now?",
     "summary": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
@@ -457,6 +475,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
     "publishedAt": "2026-11-27T16:13:07.000Z"
+  },
+  {
+    "id": "06b788fa2d6c45b0",
+    "title": "UN peacekeepers are preparing to leave southern Lebanon. There’s no plan for what comes next",
+    "summary": "The U.N. peacekeeping force in southern Lebanon is preparing to end a 50-year mission as tensions between Israel and Hezbollah remain high.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/peacekeepers-preparing-leave-southern-lebanon-plan-138476701",
+    "publishedAt": "2026-11-27T16:10:23.000Z"
   },
   {
     "id": "1f64c712b7c0db63",
@@ -1321,32 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
     "publishedAt": "2026-11-27T08:10:27.000Z"
-  },
-  {
-    "id": "30789ff74b486197",
-    "title": "New Zealand election results set up tricky talks for conservative incumbent",
-    "summary": "Conservative PM Luxon and populist coalition partners face negotiations with centrist kingmaker.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss",
-    "publishedAt": "2026-11-27T07:55:32.000Z"
-  },
-  {
-    "id": "0598032a0d5c20f8",
-    "title": "‘Borrowing to make ends meet’: The rising cost of living in Europe",
-    "summary": "Prices are climbing again across Europe as energy costs surge.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe?traffic_source=rss",
-    "publishedAt": "2026-11-27T07:53:59.000Z"
-  },
-  {
-    "id": "ce395d6dd1546ee2",
-    "title": "Banks may pass on £1.5bn tax rise on to customers, warns Bank of England chief",
-    "summary": "Big lenders will aim to ‘protect their earnings’ amid temporary increase in corporation tax surcharge, says Andrew Bailey.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
-    "publishedAt": "2026-11-27T07:53:33.000Z"
   }
 ]
