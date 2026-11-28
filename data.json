@@ -1,5 +1,50 @@
 [
   {
+    "id": "6747f78ba6f96028",
+    "title": "Should I get a flu vaccine now?",
+    "summary": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo",
+    "publishedAt": "2026-11-28T01:03:11.000Z"
+  },
+  {
+    "id": "ec278298d964be36",
+    "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
+    "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
+    "publishedAt": "2026-11-28T01:00:00.000Z"
+  },
+  {
+    "id": "256c661f0420d05b",
+    "title": "Tech Now",
+    "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m00353dd",
+    "publishedAt": "2026-11-28T01:00:00.000Z"
+  },
+  {
+    "id": "0ae057760f19acec",
+    "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+    "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o",
+    "publishedAt": "2026-11-28T00:50:11.000Z"
+  },
+  {
+    "id": "bb4364b129b88c29",
+    "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+    "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno",
+    "publishedAt": "2026-11-28T00:05:17.000Z"
+  },
+  {
     "id": "592576d67e72a8ed",
     "title": "At least eight found dead on migrant boat off Spain’s Canary Islands",
     "summary": "Six people airlifted to hospital in serious condition, Spanish rescue service says.",
@@ -1303,50 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
     "publishedAt": "2026-11-27T07:53:33.000Z"
-  },
-  {
-    "id": "6895b8965631ea22",
-    "title": "Italy's former police chief rejected mafia inquiry allegations before death",
-    "summary": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po",
-    "publishedAt": "2026-11-27T07:28:10.000Z"
-  },
-  {
-    "id": "c24d45a42f437cc4",
-    "title": "Sandpapergate forum to investigate Australia-England Ashes Tests",
-    "summary": "Sandpapergate forum scope to cover entire 2017-18 season, including Ashes series, in South Africa allegations follow-up.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/27/sandpapergate-forum-to-investigate-australia-england-ashes-tests?traffic_source=rss",
-    "publishedAt": "2026-11-27T07:24:45.000Z"
-  },
-  {
-    "id": "c53d433abcbdc7d2",
-    "title": "What to know about North Korean move to shut down Swiss diplomatic office",
-    "summary": "North Korea has shut down a Swiss diplomatic office in Pyongyang and expelled its head, signaling a more assertive foreign policy.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/north-korean-move-shut-swiss-diplomatic-office-138475957",
-    "publishedAt": "2026-11-27T07:23:27.000Z"
-  },
-  {
-    "id": "06b788fa2d6c45b0",
-    "title": "UN peacekeepers are preparing to leave southern Lebanon. There’s no plan for what comes next",
-    "summary": "The U.N. peacekeeping force in southern Lebanon is preparing to end a 50-year mission as tensions between Israel and Hezbollah remain high.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/peacekeepers-preparing-leave-southern-lebanon-plan-138476701",
-    "publishedAt": "2026-11-27T07:23:18.000Z"
-  },
-  {
-    "id": "e8ba447e61445b2b",
-    "title": "Zelenskyy warns of imminent major Russian attack on Ukraine’s power grid",
-    "summary": "Ukrainian President Volodymyr Zelenskyy says that Russia is preparing a major attack on Ukraine’s energy infrastructure as crews race to repair damage from earlier strikes.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/zelenskyy-warns-imminent-major-russian-attack-ukraines-power-138468250",
-    "publishedAt": "2026-11-27T07:21:00.000Z"
   }
 ]
