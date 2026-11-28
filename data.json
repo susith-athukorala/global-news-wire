@@ -1,5 +1,32 @@
 [
   {
+    "id": "7c5229729abc2fb9",
+    "title": "‘The key is pricing realistically’: how to sell your home in a falling market",
+    "summary": "From small fixes such as decluttering to taking your property off the market for a break, there are ways to seal the deal.",
+    "category": "Economy",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/nov/28/how-to-sell-your-home-in-a-falling-market-house-prices",
+    "publishedAt": "2026-11-28T07:00:32.000Z"
+  },
+  {
+    "id": "9b2769add582bab0",
+    "title": "Mental health patients refusing NHS treatment over shared therapy notes",
+    "summary": "Exclusive: Uploading of intimate psychiatric information to wider medical records prompts some to shun support altogether.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/society/2026/nov/28/mental-health-patients-refusing-nhs-treatment-medical-history-shared",
+    "publishedAt": "2026-11-28T06:47:29.000Z"
+  },
+  {
+    "id": "761b242d064b0914",
+    "title": "Zapatistas begin a 'Tour for Life' from Chiapas to Mexico City to meet with families of disappeared",
+    "summary": "More than 1,500 members of Mexico’s Zapatista movement will travel from the southern state of Chiapas to Mexico City to meet with families of the disappeared and join forces to address the issue of the more than 130,000 people missing across the country.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/zapatistas-begin-tour-life-chiapas-mexico-city-meet-138493688",
+    "publishedAt": "2026-11-28T06:44:14.000Z"
+  },
+  {
     "id": "bf0cb3cb090208bd",
     "title": "Palestinian tells of ‘devastating’ struggle after being made redundant by EU in Gaza",
     "summary": "Mohammad Baraka unable to access redundancy pay for almost 20 years’ service as family’s situation becomes ‘increasingly desperate’",
@@ -1321,32 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/media/2026/nov/27/labour-backs-bill-lawsuits-journalists-whistleblowers-slapps",
     "publishedAt": "2026-11-27T10:14:03.000Z"
-  },
-  {
-    "id": "36a20150712c1008",
-    "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
-    "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
-    "category": "Economy",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo",
-    "publishedAt": "2026-11-27T10:10:36.000Z"
-  },
-  {
-    "id": "ce395d6dd1546ee2",
-    "title": "Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief",
-    "summary": "Big lenders will aim to ‘protect their earnings’ from temporary increase in corporation tax surcharge, says Andrew Bailey.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
-    "publishedAt": "2026-11-27T10:10:29.000Z"
-  },
-  {
-    "id": "d70d7adebc0b3cff",
-    "title": "India busts cyberfraud and trafficking network rescuing 164 foreigners",
-    "summary": "Lured by IT job promises, the victims were allegedly forced into cybercrime, police say.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo",
-    "publishedAt": "2026-11-27T10:01:07.000Z"
   }
 ]
