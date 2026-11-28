@@ -1,5 +1,41 @@
 [
   {
+    "id": "0dc233c94fe7fab1",
+    "title": "Woman ‘traumatised’ by Sainsbury’s shoplifting ban after staff facial recognition error",
+    "summary": "Monia Indge, 58, who has terminal cancer, escorted from supermarket after staff using FaceWatch technology misidentified her.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/28/woman-traumatised-sainsburys-shoplifting-ban-after-staff-facial-recognition-error",
+    "publishedAt": "2026-11-28T10:00:36.000Z"
+  },
+  {
+    "id": "00f4554e58896962",
+    "title": "New project to provide free mental health courses",
+    "summary": "There will be free courses on mental health, wellbeing, recovery, personal growth and creativity.",
+    "category": "Health",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/c8vg2ndz0d1zo",
+    "publishedAt": "2026-11-28T09:45:27.000Z"
+  },
+  {
+    "id": "6f5ec31049758a56",
+    "title": "Gaza’s chess players survive a genocide and rebuild a community",
+    "summary": "Gaza's chess players are returning to the sport after three years of genocide.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss",
+    "publishedAt": "2026-11-28T09:41:45.000Z"
+  },
+  {
+    "id": "3eb764b8cd39b5f0",
+    "title": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
+    "summary": "About 1.8 million people face emergency levels of hunger in government-held areas, according to the UN.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+    "publishedAt": "2026-11-28T09:35:15.000Z"
+  },
+  {
     "id": "c7ccc3047527af41",
     "title": "An explosion at a middle school in eastern Afghanistan kills or wounds several students",
     "summary": "An explosion at a middle school in Afghanistan's Kunar province has killed or wounded several students.",
@@ -178,6 +214,15 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro",
     "publishedAt": "2026-11-28T06:00:11.000Z"
+  },
+  {
+    "id": "256cd61e1a96beca",
+    "title": "Could AI break encryption? What mathematical breakthroughs mean for cybersecurity",
+    "summary": "Experts suggest AI companies may be sitting on ‘bombshell’ that could have severe consequences for secret information.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/28/could-ai-break-encryption-what-mathematical-breakthroughs-mean-for-cybersecurity",
+    "publishedAt": "2026-11-28T05:00:30.000Z"
   },
   {
     "id": "a5ee494f9f7e26e8",
@@ -610,6 +655,15 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/uk-news/2026/nov/27/graham-thorpe-widow-legal-action-against-nhs-trust-after-inquest",
     "publishedAt": "2026-11-27T19:52:30.000Z"
+  },
+  {
+    "id": "827e09c0f850db6b",
+    "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
+    "summary": "Department for Work and Pensions urges people to be alert to scams related to outage and contact helpline with urgent difficulties.",
+    "category": "Technology",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
+    "publishedAt": "2026-11-27T19:45:51.000Z"
   },
   {
     "id": "df1a3446c689bb28",
@@ -1294,59 +1348,5 @@
     "source": "ABC Australia",
     "link": "https://www.abc.net.au/news/2026-11-27/zelenskyy-says-trump-putin-relationship-like-being-friend-hitler/107437062",
     "publishedAt": "2026-11-27T11:41:15.000Z"
-  },
-  {
-    "id": "8690dea523caf3a7",
-    "title": "Old wounds reopen as Kyrgyzstan’s Osh embraces a new urban project",
-    "summary": "Redevelopment reshapes the city, but some worry as residents are displaced and cultural heritage appears at risk.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/features/2026/11/27/old-wounds-reopen-as-kyrgyzstans-osh-embraces-a-new-urban-project?traffic_source=rss",
-    "publishedAt": "2026-11-27T11:35:34.000Z"
-  },
-  {
-    "id": "7a830a1fea96fa13",
-    "title": "Houthis report 11 killed, including children, in an airstrike, and other Mideast news",
-    "summary": "Houthi rebels say an airstrike in southwestern Yemen has killed at least 11 people, including children.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/houthis-report-11-killed-including-children-airstrike-mideast-138478032",
-    "publishedAt": "2026-11-27T11:26:19.000Z"
-  },
-  {
-    "id": "8ce44785e0dbbb4b",
-    "title": "Armed group kills 13 soldiers in western Niger attack, defense ministry says",
-    "summary": "Armed men killed 13 members of Niger’s National Guard and injured 20 others in an attack on an outpost in western Niger, the country’s defense ministry said.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/armed-group-kills-13-soldiers-western-niger-attack-138477943",
-    "publishedAt": "2026-11-27T11:24:51.000Z"
-  },
-  {
-    "id": "c59a5b232017f58a",
-    "title": "UN warns hunger will deepen in the Middle East",
-    "summary": "Hunger is expected to worsen in 16 countries over the next six months, with Sudan and Yemen among five nations at the highest level of concern, the U.N.’s food agencies warned Friday.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/warns-hunger-deepen-middle-east-war-fuel-costs-138477712",
-    "publishedAt": "2026-11-27T11:24:09.000Z"
-  },
-  {
-    "id": "17f49f8ea40aabe4",
-    "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
-    "summary": "The pregnant student was murdered after leaving a hotel with a journalist she had contacted to discuss her affair with the governor.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo",
-    "publishedAt": "2026-11-27T11:22:02.000Z"
-  },
-  {
-    "id": "6fb6bbb7b8e9a7ed",
-    "title": "‘Crisis in empathy’: prison guard was watching TV while Aboriginal man was dying in custody, NSW coroner finds",
-    "summary": "Judge says officers should be banned from screens and phones while on shift after the 33-year-old’s death at Silverwater.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/27/crisis-in-empathy-death-in-custody-of-aboriginal-man-tj-denniss-was-preventable-says-nsw-coroner-ntwnfb",
-    "publishedAt": "2026-11-27T11:18:47.000Z"
   }
 ]
