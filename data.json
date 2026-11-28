@@ -1,5 +1,59 @@
 [
   {
+    "id": "1018590a0f0ad557",
+    "title": "Pensions and benefits services still down after 'cyber incident'",
+    "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+    "category": "Technology",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o",
+    "publishedAt": "2026-11-28T07:55:18.000Z"
+  },
+  {
+    "id": "06795113dc54f335",
+    "title": "Tribute to farmer who 'saved rare cattle breed'",
+    "summary": "Eric Freeman was a pioneering advocate for local rare breeds on his farm in Gloucestershire.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cv0l36eeky32o",
+    "publishedAt": "2026-11-28T07:44:51.000Z"
+  },
+  {
+    "id": "861b760342f7ea1b",
+    "title": "Viaduct gardens vision on show as group gets access",
+    "summary": "Plans to create five community garden spaces on a disused viaduct in Leamington have been published.",
+    "category": "Science",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gnd2gkmzko",
+    "publishedAt": "2026-11-28T07:22:22.000Z"
+  },
+  {
+    "id": "a1309e69db04dcb3",
+    "title": "Uganda starts mRNA Ebola vaccine trial in first for Africa",
+    "summary": "The trial targets the less common Bundibugyo strain behind the Ebola outbreak in neighbouring DRC.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
+    "publishedAt": "2026-11-28T07:22:17.000Z"
+  },
+  {
+    "id": "ea873130cc2ed411",
+    "title": "How Israel is fast-tracking data centres in bid to become ‘AI superpower’",
+    "summary": "Israel is looking to data centres to boost its data processing, military strength and global clout.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
+    "publishedAt": "2026-11-28T07:21:22.000Z"
+  },
+  {
+    "id": "2a46efb1f91a09c7",
+    "title": "Butcher blames costs for closure after 127 years",
+    "summary": "Bennett Butchers in Spalding says rises in National Insurance and energy have made it \"unviable\".",
+    "category": "Economy",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cqe9k3m9mvexo",
+    "publishedAt": "2026-11-28T07:18:47.000Z"
+  },
+  {
     "id": "7c5229729abc2fb9",
     "title": "‘The key is pricing realistically’: how to sell your home in a falling market",
     "summary": "From small fixes such as decluttering to taking your property off the market for a break, there are ways to seal the deal.",
@@ -1294,59 +1348,5 @@
     "source": "BBC News",
     "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o",
     "publishedAt": "2026-11-27T10:28:35.000Z"
-  },
-  {
-    "id": "522fd4fc26554e58",
-    "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-    "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo",
-    "publishedAt": "2026-11-27T10:26:28.000Z"
-  },
-  {
-    "id": "580ae072d807870b",
-    "title": "Clashes mar European games as Macron condemns violence",
-    "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-    "category": "World",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo",
-    "publishedAt": "2026-11-27T10:24:24.000Z"
-  },
-  {
-    "id": "d0772a5b79e14123",
-    "title": "Why does Elon Musk want to put a million satellite data centres in space?",
-    "summary": "The US FCC authorised the plan on Wednesday, calling it a first in the history of the country.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss",
-    "publishedAt": "2026-11-27T10:20:17.000Z"
-  },
-  {
-    "id": "4e2852ca03ebd5d7",
-    "title": "‘I cannot go to work’: Iranians contend with pollution as well as US war",
-    "summary": "Hospital admissions for respiratory ailments have soared as the winter smog sets in.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/27/i-cannot-go-to-work-iranians-contend-with-pollution-as-well-as-us-war?traffic_source=rss",
-    "publishedAt": "2026-11-27T10:15:44.000Z"
-  },
-  {
-    "id": "a709bb2b251cd816",
-    "title": "GTA in Istanbul? Meet the game developers bringing virtual crime chaos to their home cities",
-    "summary": "From Helsinki to Istanbul, independent developers are putting Grand Theft Auto-style action on their home streets, and without billion-dollar budgets. They tell us how they do it.",
-    "category": "Technology",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/games/2026/nov/27/gta-grand-theft-auto-clones",
-    "publishedAt": "2026-11-27T10:15:20.000Z"
-  },
-  {
-    "id": "c877411ed27526d9",
-    "title": "Labour backs bill to stop lawsuits used to silence journalists and whistleblowers",
-    "summary": "Anti-Slapps campaigners criticise draft bill, saying process of dismissing claims will be challenging and costly.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/media/2026/nov/27/labour-backs-bill-lawsuits-journalists-whistleblowers-slapps",
-    "publishedAt": "2026-11-27T10:14:03.000Z"
   }
 ]
