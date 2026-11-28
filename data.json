@@ -1,5 +1,41 @@
 [
   {
+    "id": "c7ccc3047527af41",
+    "title": "An explosion at a middle school in eastern Afghanistan kills or wounds several students",
+    "summary": "An explosion at a middle school in Afghanistan's Kunar province has killed or wounded several students.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/explosion-middle-school-eastern-afghanistan-kills-wounds-students-138493977",
+    "publishedAt": "2026-11-28T08:55:08.000Z"
+  },
+  {
+    "id": "64d9f1a151020272",
+    "title": "Victorian election 2026: Coalition projected to win state poll, ending 12 years of Labor government",
+    "summary": "Opposition leader Jess Wilson set to become premier as ABC calls election for Liberal and National parties.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
+    "publishedAt": "2026-11-28T08:49:53.000Z"
+  },
+  {
+    "id": "8a2148340b6b6cb2",
+    "title": "Sudanese launch clean-up drive as rubbish overwhelms Khartoum’s streets",
+    "summary": "In litter-strewn Khartoum, disease and rubble threaten health.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/28/sudanese-launch-clean-up-drive-as-garbage-overwhelms-khartoum-streets?traffic_source=rss",
+    "publishedAt": "2026-11-28T08:24:03.000Z"
+  },
+  {
+    "id": "0703d16df0746201",
+    "title": "UN’s Albanese leaves Costa Rica airport after constitutional court verdict",
+    "summary": "Albanese leaves the Costa Rican airport where she has been held after the court orders her to be released from the premises.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss",
+    "publishedAt": "2026-11-28T08:05:18.000Z"
+  },
+  {
     "id": "a627895ea92810e4",
     "title": "Unpaid TV licence or cycling on pavement could bar people from settling in UK",
     "summary": "Exclusive: New immigration rules will introduce strict threshold where any adult conviction triggers mandatory refusal.",
@@ -43,6 +79,15 @@
     "source": "Al Jazeera",
     "link": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
     "publishedAt": "2026-11-28T07:42:09.000Z"
+  },
+  {
+    "id": "07282915168ccd8a",
+    "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+    "summary": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+    "category": "World",
+    "source": "BBC News",
+    "link": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko",
+    "publishedAt": "2026-11-28T07:31:14.000Z"
   },
   {
     "id": "861b760342f7ea1b",
@@ -1303,50 +1348,5 @@
     "source": "The Guardian",
     "link": "https://www.theguardian.com/australia-news/2026/nov/27/crisis-in-empathy-death-in-custody-of-aboriginal-man-tj-denniss-was-preventable-says-nsw-coroner-ntwnfb",
     "publishedAt": "2026-11-27T11:18:47.000Z"
-  },
-  {
-    "id": "59205f400da57343",
-    "title": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
-    "summary": "Israel seeking 'to prevent births' and destroy Palestinians in Gaza by targeting women and girls, rights group says.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
-    "publishedAt": "2026-11-27T11:15:03.000Z"
-  },
-  {
-    "id": "827e09c0f850db6b",
-    "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
-    "summary": "Department for Work and Pensions officials say welfare payments will continue to be made despite huge outage.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
-    "publishedAt": "2026-11-27T11:14:02.000Z"
-  },
-  {
-    "id": "e590e58c674e327d",
-    "title": "Tyson Fury’s wife backtracks on claim boxer suffers from schizophrenia",
-    "summary": "Paris Fury had claimed mental health diagnosis for Tyson following his 2015 victory over Ukraine's Wladimir Klitschko.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss",
-    "publishedAt": "2026-11-27T11:12:58.000Z"
-  },
-  {
-    "id": "059142103be3899f",
-    "title": "US shoppers get ready for Black Friday and Cyber Monday",
-    "summary": "Cyber Monday and Black Friday compete for shoppers, but discounts on electronics may peak after the weekend frenzy.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/economy/2026/11/27/us-shoppers-get-ready-for-black-friday-and-cyber-monday?traffic_source=rss",
-    "publishedAt": "2026-11-27T10:59:27.000Z"
-  },
-  {
-    "id": "7a834e81d48a39e5",
-    "title": "King tides batter US coasts as storms threaten Thanksgiving celebrations",
-    "summary": "Heavy rain, strong winds and coastal flooding creating hazardous conditions for millions travelling for holiday.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/27/king-tides-us-coasts-storms-threaten-thanksgiving-celebrations",
-    "publishedAt": "2026-11-27T10:50:48.000Z"
   }
 ]
