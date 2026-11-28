@@ -1,5 +1,50 @@
 [
   {
+    "id": "592576d67e72a8ed",
+    "title": "At least eight found dead on migrant boat off Spain’s Canary Islands",
+    "summary": "Six people airlifted to hospital in serious condition, Spanish rescue service says.",
+    "category": "World",
+    "source": "Al Jazeera",
+    "link": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
+    "publishedAt": "2026-11-27T23:57:03.000Z"
+  },
+  {
+    "id": "737d65708a220cb3",
+    "title": "Purse found of woman, 24, swept from California beach three weeks ago",
+    "summary": "Se Nah Park was overwhelmed by a wave at the notorious Panther Beach.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/purse-found-woman-california-beach-wave",
+    "publishedAt": "2026-11-27T23:43:00.000Z"
+  },
+  {
+    "id": "3f56a86150307cb8",
+    "title": "Schools in England must set aside time for pupils to read for pleasure",
+    "summary": "Education secretary expected to announce measures as part of proposed reforms to national curriculum.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
+    "publishedAt": "2026-11-27T23:34:55.000Z"
+  },
+  {
+    "id": "cbc33bf5ffa47112",
+    "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
+    "summary": "Lawsuit also alleging pressure on hardware suppliers comes after Apple sued OpenAI for allegedly poaching employees.",
+    "category": "World",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+    "publishedAt": "2026-11-27T23:28:50.000Z"
+  },
+  {
+    "id": "362c8d7024d6b87c",
+    "title": "Taiwan holds elections to choose mayors and other local leaders",
+    "summary": "Taiwan is holding elections across its 22 cities and counties for mayors, council members and other local leaders.",
+    "category": "World",
+    "source": "ABC News (US)",
+    "link": "https://abcnews.com/International/wireStory/taiwan-holds-elections-choose-mayors-local-leaders-138489345",
+    "publishedAt": "2026-11-27T23:27:24.000Z"
+  },
+  {
     "id": "d0f1193933c88892",
     "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
     "summary": "Voters will decide on Saturday whether to scrap the country's 'nuclear-free homeland' policy.",
@@ -1303,50 +1348,5 @@
     "source": "ABC News (US)",
     "link": "https://abcnews.com/International/wireStory/zelenskyy-warns-imminent-major-russian-attack-ukraines-power-138468250",
     "publishedAt": "2026-11-27T07:21:00.000Z"
-  },
-  {
-    "id": "01162d44046466b0",
-    "title": "South Korea lets a North Korean fisherman resettle in South and returns six others",
-    "summary": "Seoul says that one of seven North Koreans rescued off a fishing boat drifting near a South Korean island earlier this month chose to resettle in the South.",
-    "category": "World",
-    "source": "ABC News (US)",
-    "link": "https://abcnews.com/International/wireStory/south-korea-lets-north-korean-fisherman-resettle-south-138475962",
-    "publishedAt": "2026-11-27T07:20:23.000Z"
-  },
-  {
-    "id": "a8b432a1d879fbe8",
-    "title": "Can the Mecca pact turn its collective defence promise into real support?",
-    "summary": "Pakistan, Saudi Arabia and Turkiye meet in Islamabad as Houthi attacks on the kingdom continue and Iran talks stay open.",
-    "category": "World",
-    "source": "Al Jazeera",
-    "link": "https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss",
-    "publishedAt": "2026-11-27T07:16:30.000Z"
-  },
-  {
-    "id": "5848cd0e3fb32955",
-    "title": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
-    "summary": "Body urged Bristol city council to reject plan because of risk to nearby protected wildlife and habitats.",
-    "category": "World",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
-    "publishedAt": "2026-11-27T07:00:57.000Z"
-  },
-  {
-    "id": "14c7502ee30b0cf4",
-    "title": "‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
-    "summary": "Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shop.",
-    "category": "Economy",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse",
-    "publishedAt": "2026-11-27T07:00:56.000Z"
-  },
-  {
-    "id": "965bb61214955726",
-    "title": "Health board chief executive drops new NHS job after critical report",
-    "summary": "Carol Shillabeer had been due to take up a new post at a health board in north west England in 2027.",
-    "category": "Health",
-    "source": "BBC News",
-    "link": "https://www.bbc.co.uk/news/articles/c9zr5681k382o",
-    "publishedAt": "2026-11-27T06:59:28.000Z"
   }
 ]
